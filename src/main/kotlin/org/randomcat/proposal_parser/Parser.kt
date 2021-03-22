@@ -6,6 +6,7 @@ import org.apache.james.mime4j.parser.AbstractContentHandler
 import org.apache.james.mime4j.parser.MimeStreamParser
 import org.apache.james.mime4j.stream.Field
 import org.apache.james.mime4j.stream.MimeConfig
+import org.randomcat.mime4j_backfill.MboxIteratorBackfill
 import java.io.File
 import java.time.OffsetDateTime
 
@@ -18,7 +19,7 @@ fun main(args: Array<String>) {
     val filePath = args.single()
     val file = File(filePath)
 
-    MboxIterator
+    MboxIteratorBackfill
         .fromFile(file)
         .charset(Charsets.UTF_8)
         .maxMessageSize(50 * 1000 * 1000) // 50 MB
