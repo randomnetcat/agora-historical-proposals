@@ -1,18 +1,27 @@
 package org.randomcat.proposal_parser
 
 import org.apache.james.mime4j.dom.Message
-import org.apache.james.mime4j.mboxiterator.MboxIterator
-import org.apache.james.mime4j.parser.AbstractContentHandler
-import org.apache.james.mime4j.parser.MimeStreamParser
-import org.apache.james.mime4j.stream.Field
 import org.apache.james.mime4j.stream.MimeConfig
 import org.randomcat.mime4j_backfill.MboxIteratorBackfill
+import org.randomcat.proposal_parser.distributions.parseDistributionV0
 import java.io.File
-import java.time.OffsetDateTime
+import java.time.LocalDate
+import java.time.ZoneOffset
 
 private fun Message.isDistributionMessage(): Boolean {
     val adjustedSubject = subject.removePrefix("OFF: ")
     return adjustedSubject.startsWith("[Promotor] Distribution") || adjustedSubject.startsWith("Distribution of")
+}
+
+private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2020, 1, 1)
+
+private fun Message.parseDistribution(): List<ProposalData> {
+    val date = LocalDate.ofInstant(this.date.toInstant(), ZoneOffset.UTC)
+
+    return when {
+        date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0()
+        else -> error("Don't know how to parse")
+    }
 }
 
 fun main(args: Array<String>) {
@@ -32,9 +41,9 @@ fun main(args: Array<String>) {
         .filter {
             it.isDistributionMessage()
         }
-        .take(10)
-        .onEach {
-            println("Got subject: ${it.subject}")
+        .take(1)
+        .flatMap { it.parseDistribution() }
+        .forEach {
+            println(it)
         }
-        .forEach { _ -> }
 }
