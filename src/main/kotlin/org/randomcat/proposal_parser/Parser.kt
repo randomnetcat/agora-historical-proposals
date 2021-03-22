@@ -13,7 +13,7 @@ private fun Message.isDistributionMessage(): Boolean {
     return adjustedSubject.startsWith("[Promotor] Distribution") || adjustedSubject.startsWith("Distribution of")
 }
 
-private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2020, 1, 1)
+private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2003, 3, 19)
 
 private fun Message.parseDistribution(): List<ProposalData> {
     val date = LocalDate.ofInstant(this.date.toInstant(), ZoneOffset.UTC)
@@ -41,9 +41,6 @@ fun main(args: Array<String>) {
         .filter {
             it.isDistributionMessage()
         }
-        .take(1)
         .flatMap { it.parseDistribution() }
-        .forEach {
-            println(it)
-        }
+        .forEach {}
 }
