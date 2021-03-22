@@ -55,6 +55,11 @@ private fun parseNumberAndAuthor(numberAuthorSpec: String): Pair<ProposalNumber,
 private fun parseProposalDistributionV0(proposalDistribution: String): ProposalData? {
     val lines = proposalDistribution.lines()
     val metadata = parseMetadata(metadataLine = lines[0], titleLine = lines[1]) ?: return null
+
+    // There should be a gap between the metadata and the text, or there should be no text (only the metadata lines,
+    // making lines have size 2).
+    require(lines.size == 2 || lines[2].isBlank())
+
     val text = lines.drop(2).dropWhile { it.isBlank() }.dropLastWhile { it.isBlank() }.joinToString("\n").trim()
 
     return ProposalData(
@@ -81,8 +86,8 @@ private val EXCLUDED_FIRST_SECTION_PREFIXES = listOf(
 )
 
 private val SEPARATOR_REGEX = Regex("\n(?:-{10,}|\\*{10,})\n")
-private val FIRST_SECTION_CHECK_REGEX = Regex("No.\\s+|\\s+Title\\s+|\\s+By\\s+|\\s+AI")
-private val LAST_SECTION_CHECK_OPTIONS = listOf("MSN 8", "get McAfee.com")
+private val FIRST_SECTION_CHECK_REGEX = Regex("No.\\s+\\|\\s+Title\\s+\\|\\s+By\\s+\\|\\s+AI")
+private val LAST_SECTION_CHECK_OPTIONS = listOf("MSN 8", "get McAfee.com", "gardner@sng.its.monash.edu.au", "-Promotor root")
 
 fun Message.parseDistributionV0(): List<ProposalData> {
     val text = (body as TextBody).reader.readText()
@@ -90,14 +95,14 @@ fun Message.parseDistributionV0(): List<ProposalData> {
     val allParts = text.split(SEPARATOR_REGEX).map { it.trim() }
 
     require(allParts.size > 2)
-    require(allParts.first().contains(FIRST_SECTION_CHECK_REGEX))
-    require(allParts.last().let { part -> LAST_SECTION_CHECK_OPTIONS.any { part.contains(it) } })
+    require(allParts.any { it.contains(FIRST_SECTION_CHECK_REGEX) })
 
     val proposalParts =
         allParts
-            .drop(1)
+            .dropWhile { it.contains("Distribution of Proposal") || it.contains(FIRST_SECTION_CHECK_REGEX) }
             .dropLast(1)
             .filter { it.lowercase() !in EXCLUDED_SECTIONS }
+            .filter { it.isNotBlank() }
             .toPersistentList()
             .mutate {
                 var first = it[0]
@@ -110,6 +115,11 @@ fun Message.parseDistributionV0(): List<ProposalData> {
                     it[0] = first.trimStart()
                 else
                     it.removeAt(0)
+
+                val lastPart = it[it.size - 1]
+                if (LAST_SECTION_CHECK_OPTIONS.any { lastPart.contains(it) }) {
+                    it.removeAt(it.size - 1)
+                }
             }
 
     return proposalParts.mapNotNull {
