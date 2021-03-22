@@ -24,4 +24,5 @@ data class ProposalData(
     val title: String,
     val author: PlayerName,
     val coauthors: ImmutableList<PlayerName>,
+    val text: String,
 )
