@@ -80,14 +80,18 @@ private val EXCLUDED_FIRST_SECTION_PREFIXES = listOf(
     "Text of proposals are below:",
 )
 
+private val SEPARATOR_REGEX = Regex("\n(?:-{10,}|\\*{10,})\n")
+private val FIRST_SECTION_CHECK_REGEX = Regex("No.\\s+|\\s+Title\\s+|\\s+By\\s+|\\s+AI")
+private val LAST_SECTION_CHECK_OPTIONS = listOf("MSN 8", "get McAfee.com")
+
 fun Message.parseDistributionV0(): List<ProposalData> {
     val text = (body as TextBody).reader.readText()
 
-    val allParts = text.split(Regex("\n(?:-{10,}|\\*{10,})\n")).map { it.trim() }
+    val allParts = text.split(SEPARATOR_REGEX).map { it.trim() }
 
     require(allParts.size > 2)
-    require(allParts.first().contains(Regex("No.\\s+|\\s+Title\\s+|\\s+By\\s+|\\s+AI")))
-    require(allParts.last().let { it.contains("MSN 8") or it.contains("get McAfee.com") })
+    require(allParts.first().contains(FIRST_SECTION_CHECK_REGEX))
+    require(allParts.last().let { part -> LAST_SECTION_CHECK_OPTIONS.any { part.contains(it) } })
 
     val proposalParts =
         allParts
