@@ -31,5 +31,7 @@ tasks.withType<KotlinCompile>() {
         jvmTarget = "1.8"
         languageVersion = "1.5"
         apiVersion = "1.5"
+
+        freeCompilerArgs += "-Xopt-in=kotlin.RequiresOptIn"
     }
 }
