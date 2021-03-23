@@ -2650,8 +2650,6 @@ fun Message.isIgnoredDistribution(): Boolean {
 
 @OptIn(ExperimentalStdlibApi::class)
 fun Message.backupFirstProposalNumber(): ProposalNumber {
-    println("Subject: ${subject}")
-
     return subject
         .lowercase()
         .substringAfter("of proposal")
