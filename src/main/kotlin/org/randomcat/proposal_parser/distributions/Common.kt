@@ -33,7 +33,7 @@ fun tryParseCommonProposal(
     proposalDistribution: String,
     metadataParser: (List<String>) -> ProposalCommonMetadataResult?,
 ): ProposalData? {
-    val lines = proposalDistribution.lines()
+    val lines = proposalDistribution.lines().dropWhile { it.isBlank() }.dropLastWhile { it.isBlank() }
 
     val metadataLines = lines.takeWhile { it.isNotBlank() }
     val metadata = metadataParser(metadataLines) ?: return null
