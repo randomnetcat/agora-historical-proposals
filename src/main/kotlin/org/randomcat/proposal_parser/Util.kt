@@ -20,6 +20,10 @@ fun String.normalizeLineEndings(): String {
     return lines().joinToString("\n")
 }
 
+fun String.repairBrokenSpaces(): String {
+    return replace(' ', ' ')
+}
+
 private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>")
 
 fun contentLooksLikeReply(emailContent: String) = emailContent.contains(PROBABLY_REPLY_REGEX)
