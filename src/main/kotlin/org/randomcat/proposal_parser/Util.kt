@@ -16,6 +16,6 @@ fun Message.extractPlainTextBody(): String {
     }
 }
 
-private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW]rites:(?:\\n\\s*)+>")
+private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>")
 
 fun contentLooksLikeReply(emailContent: String) = emailContent.contains(PROBABLY_REPLY_REGEX)
