@@ -8,14 +8,14 @@ data class ProposalCommonMetadataResult(
     val number: ProposalNumber,
     val title: String,
     val ai: ProposalAI,
-    val author: PlayerName,
+    val author: PlayerName?,
     val coauthors: ImmutableList<PlayerName>,
 ) {
     constructor(
         number: ProposalNumber,
         title: String,
         ai: ProposalAI,
-        author: PlayerName,
+        author: PlayerName?,
         coauthors: List<PlayerName>,
     ) : this(
         number = number,
@@ -116,7 +116,7 @@ object MetadataParsing {
                 ?: requireNotNull(backupNumber),
             title = metadataMap.getFirstValue("title", "proposal"),
             ai = ai,
-            author = PlayerName(metadataMap.getValue("author")),
+            author = metadataMap["author"]?.let { PlayerName(it) },
             coauthors = metadataMap["coauthors"]
                 ?.takeIf { it.isNotBlank() }
                 ?.split(", ")

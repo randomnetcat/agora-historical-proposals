@@ -30,7 +30,7 @@ data class ProposalData(
     val number: ProposalNumber,
     val title: String,
     val ai: ProposalAI,
-    val author: PlayerName,
+    val author: PlayerName?,
     val coauthors: ImmutableList<PlayerName>,
     val text: String,
 ) {
@@ -38,7 +38,7 @@ data class ProposalData(
         number: ProposalNumber,
         title: String,
         ai: ProposalAI,
-        author: PlayerName,
+        author: PlayerName?,
         coauthors: List<PlayerName>,
         text: String,
     ) : this(
