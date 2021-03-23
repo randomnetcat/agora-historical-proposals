@@ -2,10 +2,7 @@ package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.ImmutableList
 import kotlinx.collections.immutable.toImmutableList
-import org.randomcat.proposal_parser.PlayerName
-import org.randomcat.proposal_parser.ProposalAI
-import org.randomcat.proposal_parser.ProposalData
-import org.randomcat.proposal_parser.ProposalNumber
+import org.randomcat.proposal_parser.*
 
 data class ProposalCommonMetadataResult(
     val number: ProposalNumber,
@@ -61,7 +58,7 @@ fun parseCommonProposal(
 
 object Separators {
     val ALTERNATING_BRACES = Regex("(?<=\\n)\\}(?:\\{\\}){4,}\\{\\n")
-
+    val HYPHENS = Regex("(?<=\\n)-{10,}\\n")
 }
 
 object SplitDistribution {
@@ -83,5 +80,44 @@ object SplitDistribution {
                 it.removeAt(it.size - 1)
             }
         }
+    }
+}
+
+object MetadataParsing {
+    // Format:
+    // Number: NNNN
+    // Title: something
+    // Some: Value
+    // Other: Value
+    // Fields: Value
+    //
+    // Text
+    // ...
+    @OptIn(ExperimentalStdlibApi::class)
+    fun keyValueHeaders(metadataLines: List<String>): ProposalCommonMetadataResult {
+        val metadataMap = metadataLines.associate {
+            require(it.contains(": "))
+            it.substringBefore(": ").lowercase() to it.substringAfter(": ")
+        }
+
+        // Sometimes AI has (Class) appended to it, so only take the number before that
+        val ai =
+            metadataMap
+                .getFirstValue("adoption index", "ai")
+                .substringBefore(" (")
+                .toBigDecimal()
+                .let { ProposalAI(it) }
+
+        return ProposalCommonMetadataResult(
+            number = ProposalNumber(metadataMap.getFirstValue("number", "id").toBigInteger()),
+            title = metadataMap.getValue("title"),
+            ai = ai,
+            author = PlayerName(metadataMap.getValue("author")),
+            coauthors = metadataMap["coauthors"]
+                ?.takeIf { it.isNotBlank() }
+                ?.split(", ")
+                ?.map { PlayerName(it) }
+                ?: emptyList(),
+        )
     }
 }
