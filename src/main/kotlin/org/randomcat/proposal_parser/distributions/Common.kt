@@ -114,7 +114,7 @@ object MetadataParsing {
         return ProposalCommonMetadataResult(
             number = metadataMap.getFirstValueOrNull("number", "id")?.toBigInteger()?.let { ProposalNumber(it) }
                 ?: requireNotNull(backupNumber),
-            title = metadataMap.getValue("title"),
+            title = metadataMap.getFirstValue("title", "proposal"),
             ai = ai,
             author = PlayerName(metadataMap.getValue("author")),
             coauthors = metadataMap["coauthors"]
