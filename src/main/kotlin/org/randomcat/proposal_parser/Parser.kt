@@ -31,6 +31,8 @@ private fun Message.parseDistribution(): List<ProposalData> {
     val date = this.date.toUtcLocalDate()
     val text = this.extractPlainTextBody()
 
+    if (contentLooksLikeReply(text)) return emptyList()
+
     return when {
         date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0(text)
         date < DISTRIBUTION_V1_END_DATE -> parseDistributionV1(text)

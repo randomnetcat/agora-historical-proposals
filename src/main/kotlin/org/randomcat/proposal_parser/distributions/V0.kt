@@ -4,7 +4,10 @@ package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.mutate
 import kotlinx.collections.immutable.toPersistentList
-import org.randomcat.proposal_parser.*
+import org.randomcat.proposal_parser.PlayerName
+import org.randomcat.proposal_parser.ProposalAI
+import org.randomcat.proposal_parser.ProposalData
+import org.randomcat.proposal_parser.ProposalNumber
 
 private data class DistributionV0MetadataResult(
     val number: ProposalNumber,
@@ -106,8 +109,6 @@ private val PREFIX_INFO_SECTION_OPTIONS = listOf(
 )
 
 fun parseDistributionV0(fullDistributionText: String): List<ProposalData> {
-    if (contentLooksLikeReply(fullDistributionText)) return emptyList()
-
     val allParts = fullDistributionText.split(SEPARATOR_REGEX).map { it.trim() }
 
     require(allParts.size > 2)
