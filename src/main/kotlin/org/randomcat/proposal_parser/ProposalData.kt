@@ -1,7 +1,7 @@
 package org.randomcat.proposal_parser
 
-import kotlin.jvm.JvmInline
 import kotlinx.collections.immutable.ImmutableList
+import kotlinx.collections.immutable.toImmutableList
 import java.math.BigDecimal
 import java.math.BigInteger
 
@@ -33,4 +33,20 @@ data class ProposalData(
     val author: PlayerName,
     val coauthors: ImmutableList<PlayerName>,
     val text: String,
-)
+) {
+    constructor(
+        number: ProposalNumber,
+        title: String,
+        ai: ProposalAI,
+        author: PlayerName,
+        coauthors: List<PlayerName>,
+        text: String,
+    ) : this(
+        number,
+        title,
+        ai,
+        author,
+        coauthors.toImmutableList(),
+        text,
+    )
+}

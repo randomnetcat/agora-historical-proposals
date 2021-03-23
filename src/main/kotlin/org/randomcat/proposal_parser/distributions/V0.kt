@@ -3,7 +3,6 @@
 package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.mutate
-import kotlinx.collections.immutable.persistentListOf
 import kotlinx.collections.immutable.toPersistentList
 import org.randomcat.proposal_parser.*
 
@@ -69,7 +68,7 @@ private fun parseProposalDistributionV0(proposalDistribution: String): ProposalD
         ai = metadata.ai,
         title = titleLine,
         author = metadata.author,
-        coauthors = persistentListOf(),
+        coauthors = emptyList(),
         text = text,
     )
 }
