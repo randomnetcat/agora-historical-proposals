@@ -58,3 +58,25 @@ fun parseCommonProposal(
     return tryParseCommonProposal(proposalDistribution, metadataParser)
         ?: error("metadataParser returned null but shouldn't have")
 }
+
+object SplitDistribution {
+    fun withSummaryAndOptFooter(
+        fullDistributionText: String,
+        separatorRegex: Regex,
+        summarySectionRegex: Regex,
+        footerRegex: Regex,
+    ): List<String> {
+        val allParts = fullDistributionText.split(separatorRegex)
+
+        return allParts.toMutableList().also {
+            require(it.size >= 3) // Expect summary, final section, and at least one proposal
+
+            require(it[0].contains(summarySectionRegex))
+            it.removeAt(0)
+
+            if (it[it.size - 1].contains(footerRegex)) {
+                it.removeAt(it.size - 1)
+            }
+        }
+    }
+}
