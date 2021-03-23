@@ -6,8 +6,8 @@ import org.randomcat.mime4j_backfill.MboxIteratorBackfill
 import org.randomcat.proposal_parser.distributions.overridenDistribution
 import org.randomcat.proposal_parser.distributions.parseDistributionV0
 import org.randomcat.proposal_parser.distributions.parseDistributionV1
+import org.randomcat.proposal_parser.distributions.parseDistributionV2
 import java.io.File
-import java.math.BigInteger
 import java.time.LocalDate
 import java.time.ZoneOffset
 import java.util.*
@@ -20,6 +20,7 @@ private fun Message.isDistributionMessage(): Boolean {
 
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
 private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 13)
+private val DISTRIBUTION_V2_END_DATE = LocalDate.of(2029, 4, 14)
 
 private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
@@ -33,6 +34,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
     return when {
         date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0(text)
         date < DISTRIBUTION_V1_END_DATE -> parseDistributionV1(text)
+        date < DISTRIBUTION_V2_END_DATE -> parseDistributionV2(text)
         else -> error("Don't know how to parse")
     }
 }
