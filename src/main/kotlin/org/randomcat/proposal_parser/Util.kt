@@ -19,3 +19,12 @@ fun Message.extractPlainTextBody(): String {
 private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>")
 
 fun contentLooksLikeReply(emailContent: String) = emailContent.contains(PROBABLY_REPLY_REGEX)
+
+fun <K, V : Any> Map<K, V>.getFirstValue(vararg keys: K): V {
+    for (key in keys) {
+        val value = this[key]
+        if (value != null) return value
+    }
+
+    throw NoSuchElementException("No values for any of the following keys: $keys")
+}
