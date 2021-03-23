@@ -5,34 +5,13 @@ package org.randomcat.proposal_parser.distributions
 import kotlinx.collections.immutable.mutate
 import kotlinx.collections.immutable.persistentListOf
 import kotlinx.collections.immutable.toPersistentList
-import org.apache.james.mime4j.dom.Message
-import org.apache.james.mime4j.dom.Multipart
-import org.apache.james.mime4j.dom.TextBody
 import org.randomcat.proposal_parser.*
 
 private data class DistributionV0MetadataResult(
     val number: ProposalNumber,
     val author: PlayerName,
     val ai: ProposalAI,
-    val title: String,
 )
-
-private fun parseMetadata(
-    metadataLine: String,
-    titleLine: String
-): DistributionV0MetadataResult? {
-    val metadataParts = metadataLine.split(", ")
-
-    val (number, author) = parseNumberAndAuthor(numberAuthorSpec = metadataParts.first()) ?: return null
-    val ai = ProposalAI(metadataParts.single { it.startsWith("AI=") }.removePrefix("AI=").trim().toBigDecimal())
-
-    return DistributionV0MetadataResult(
-        number = number,
-        author = author,
-        ai = ai,
-        title = titleLine,
-    )
-}
 
 private fun parseNumberAndAuthor(numberAuthorSpec: String): Pair<ProposalNumber, PlayerName>? {
     val parts = numberAuthorSpec.split(" by ")
@@ -50,8 +29,22 @@ private fun parseNumberAndAuthor(numberAuthorSpec: String): Pair<ProposalNumber,
     return Pair(number, author)
 }
 
+private fun parseMetadataLine(metadataLine: String): DistributionV0MetadataResult? {
+    val metadataParts = metadataLine.split(", ")
+
+    val (number, author) = parseNumberAndAuthor(numberAuthorSpec = metadataParts.first()) ?: return null
+    val ai = ProposalAI(metadataParts.single { it.startsWith("AI=") }.removePrefix("AI=").trim().toBigDecimal())
+
+    return DistributionV0MetadataResult(
+        number = number,
+        author = author,
+        ai = ai,
+    )
+}
+
 private fun parseProposalDistributionV0(proposalDistribution: String): ProposalData? {
     val lines = proposalDistribution.lines()
+    require(lines.size >= 2)
 
     // Format:
     // Proposal NNNN by Author, Field, AI=1, Some, Other, Fields
@@ -59,7 +52,11 @@ private fun parseProposalDistributionV0(proposalDistribution: String): ProposalD
     //
     // Proposal Text
     // ...
-    val metadata = parseMetadata(metadataLine = lines[0], titleLine = lines[1]) ?: return null
+
+    val metadataLine = lines[0]
+    val titleLine = lines[1]
+
+    val metadata = parseMetadataLine(metadataLine = metadataLine) ?: return null
 
     // There should be a gap between the metadata and the text, or there should be no text (only the metadata lines,
     // making lines have size 2).
@@ -70,7 +67,7 @@ private fun parseProposalDistributionV0(proposalDistribution: String): ProposalD
     return ProposalData(
         number = metadata.number,
         ai = metadata.ai,
-        title = metadata.title,
+        title = titleLine,
         author = metadata.author,
         coauthors = persistentListOf(),
         text = text,
