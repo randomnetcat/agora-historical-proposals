@@ -3,20 +3,29 @@ package org.randomcat.proposal_parser
 import org.apache.james.mime4j.dom.Message
 import org.apache.james.mime4j.stream.MimeConfig
 import org.randomcat.mime4j_backfill.MboxIteratorBackfill
+import org.randomcat.proposal_parser.distributions.overridenDistribution
 import org.randomcat.proposal_parser.distributions.parseDistributionV0
 import java.io.File
+import java.math.BigInteger
 import java.time.LocalDate
 import java.time.ZoneOffset
+import java.util.*
 
 private fun Message.isDistributionMessage(): Boolean {
-    val adjustedSubject = subject.removePrefix("OFF: ")
-    return adjustedSubject.startsWith("[Promotor] Distribution") || adjustedSubject.startsWith("Distribution of")
+    val adjustedSubject = subject.removePrefix("OFF:").trim()
+    return adjustedSubject.startsWith("[Promotor] Distribution") ||
+            adjustedSubject.startsWith("Distribution of", ignoreCase = true)
 }
 
-private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2003, 3, 19)
+private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
+
+private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
 private fun Message.parseDistribution(): List<ProposalData> {
-    val date = LocalDate.ofInstant(this.date.toInstant(), ZoneOffset.UTC)
+    val override = this.overridenDistribution()
+    if (override != null) return override
+
+    val date = this.date.toUtcLocalDate()
 
     return when {
         date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0()
@@ -37,10 +46,28 @@ fun main(args: Array<String>) {
         .map {
             Message.Builder.of().use(MimeConfig.PERMISSIVE).parse(it.asInputStream(Charsets.UTF_8)).build()
         }
-        .take(1000)
+        .take(4000)
         .filter {
-            it.isDistributionMessage()
+            it.isDistributionMessage() && it.date.toUtcLocalDate() < DISTRIBUTION_V0_END_DATE
         }
         .flatMap { it.parseDistribution() }
-        .forEach {}
+        .toList()
+        .let { data ->
+            val numbers = data.map { it.number }
+            println(numbers.joinToString())
+
+            val minNumber = numbers.minOf { it.raw }
+            val maxNumber = numbers.maxOf { it.raw }
+
+            val possibleNumbers = sequence {
+                var current = minNumber
+
+                while (current <= maxNumber) {
+                    yield(current)
+                    ++current
+                }
+            }
+
+            println((possibleNumbers.filter { ProposalNumber(it) !in numbers }).joinToString())
+        }
 }
