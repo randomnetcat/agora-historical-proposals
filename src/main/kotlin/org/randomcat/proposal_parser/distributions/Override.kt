@@ -2641,3 +2641,9 @@ private val SUBJECT_MAP = mapOf<String, List<ProposalData>>(
 fun Message.overridenDistribution(): List<ProposalData>? {
     return SUBJECT_MAP[this.subject]
 }
+
+private val IGNORED_SUBJECTS = listOf<String>()
+
+fun Message.isIgnoredDistribution(): Boolean {
+    return IGNORED_SUBJECTS.contains(this.subject)
+}

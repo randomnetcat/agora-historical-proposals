@@ -20,13 +20,16 @@ private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
 private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 13)
 private val DISTRIBUTION_V2_END_DATE = LocalDate.of(2009, 5, 16)
 private val DISTRIBUTION_V3_END_DATE = LocalDate.of(2009, 10, 21)
-private val DISTRIBUTION_V4_END_DATE = LocalDate.of(2023, 12, 12)
+private val DISTRIBUTION_V4_END_DATE = LocalDate.of(2009, 10, 26)
+private val DISTRIBUTION_V5_END_DATE = LocalDate.of(2024, 10, 26)
 
 private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
 private fun Message.parseDistribution(): List<ProposalData> {
     val override = this.overridenDistribution()
     if (override != null) return override
+
+    if (this.isIgnoredDistribution()) return emptyList()
 
     val date = this.date.toUtcLocalDate()
     val text = this.extractPlainTextBody().normalizeLineEndings().repairBrokenSpaces()
