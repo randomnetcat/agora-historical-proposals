@@ -1,6 +1,9 @@
 package org.randomcat.proposal_parser.distributions
 
-import kotlinx.collections.immutable.*
+import kotlinx.collections.immutable.ImmutableList
+import kotlinx.collections.immutable.mutate
+import kotlinx.collections.immutable.toImmutableList
+import kotlinx.collections.immutable.toPersistentList
 import org.randomcat.proposal_parser.PlayerName
 import org.randomcat.proposal_parser.ProposalAI
 import org.randomcat.proposal_parser.ProposalData
@@ -26,7 +29,7 @@ private fun parseMetadataLine(metadataLine: String): DistributionV1MetadataResul
 
     val number = ProposalNumber(numberText.toBigInteger())
 
-    val parethetical = textAfterNumber.substringAfter('(').substringBeforeLast(')')
+    val parethetical = textAfterNumber.substringAfter('(').substringBefore(')')
 
     val ai =
         parethetical
@@ -37,11 +40,18 @@ private fun parseMetadataLine(metadataLine: String): DistributionV1MetadataResul
             .toBigDecimal()
             .let { ProposalAI(it) }
 
-    val afterParenthetical = textAfterNumber.substringAfterLast(')')
+    val afterParenthetical = textAfterNumber.substringAfter(')')
     require(afterParenthetical.startsWith(" by "))
 
     val authorsText = afterParenthetical.removePrefix(" by ")
-    val authors = authorsText.split(", ").map { PlayerName(it) }
+    val authors = if (authorsText.contains(" (co-author: ")) {
+        val firstAuthor = authorsText.substringBefore(" (co-author: ")
+        val coauthor = authorsText.substringAfter(" (co-author: ").removeSuffix(")")
+
+        listOf(PlayerName(firstAuthor), PlayerName(coauthor))
+    } else {
+        authorsText.split(", ").map { PlayerName(it) }
+    }
 
     return DistributionV1MetadataResult(
         number = number,
