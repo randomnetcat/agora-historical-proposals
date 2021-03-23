@@ -10,7 +10,8 @@ import org.randomcat.proposal_parser.ProposalData
 import org.randomcat.proposal_parser.ProposalNumber
 
 private val SEPARATOR_REGEX = Regex("\\}(?:\\{\\}){4,}\\{")
-private val SUMMARY_SECTION_CHECK_REGEX = Regex("AI\\s+SUBMITTER\\s+TITLE\\n")
+private val SUMMARY_SECTION_CHECK_REGEX =
+    Regex("AI\\s+SUBMITTER\\s+TITLE\\n|All actions are performed in this message by deputizing for Promotor.")
 
 private data class DistributionV1HeaderResult(
     val number: ProposalNumber,

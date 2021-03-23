@@ -15,6 +15,7 @@ import java.util.*
 private fun Message.isDistributionMessage(): Boolean {
     val adjustedSubject = subject.removePrefix("OFF:").trim()
     return adjustedSubject.startsWith("[Promotor] Distribution") ||
+            adjustedSubject.startsWith("[Deputy Promotor] Distribution") ||
             adjustedSubject.startsWith("Distribution of", ignoreCase = true)
 }
 

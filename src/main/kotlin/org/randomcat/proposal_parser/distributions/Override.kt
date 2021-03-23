@@ -2626,6 +2626,16 @@ private val SUBJECT_MAP = mapOf<String, List<ProposalData>>(
             """.trimIndent()
         ),
     ),
+    "OFF: [Deputy Promotor] Distribution of proposal 5707" to listOf(
+        ProposalData(
+            number = ProposalNumber(5707.toBigInteger()),
+            title = "I want a win in September!",
+            ai = ProposalAI(BigDecimal("1.0")),
+            author = PlayerName("ais523"),
+            coauthors = emptyList(),
+            text = "Award a win to ais523.",
+        ),
+    ),
 )
 
 fun Message.overridenDistribution(): List<ProposalData>? {
