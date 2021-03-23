@@ -26,9 +26,10 @@ private fun Message.parseDistribution(): List<ProposalData> {
     if (override != null) return override
 
     val date = this.date.toUtcLocalDate()
+    val text = this.extractPlainTextBody()
 
     return when {
-        date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0()
+        date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0(text)
         else -> error("Don't know how to parse")
     }
 }

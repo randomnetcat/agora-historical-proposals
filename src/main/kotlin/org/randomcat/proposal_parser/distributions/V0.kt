@@ -8,10 +8,7 @@ import kotlinx.collections.immutable.toPersistentList
 import org.apache.james.mime4j.dom.Message
 import org.apache.james.mime4j.dom.Multipart
 import org.apache.james.mime4j.dom.TextBody
-import org.randomcat.proposal_parser.PlayerName
-import org.randomcat.proposal_parser.ProposalAI
-import org.randomcat.proposal_parser.ProposalData
-import org.randomcat.proposal_parser.ProposalNumber
+import org.randomcat.proposal_parser.*
 
 private data class DistributionV0MetadataResult(
     val number: ProposalNumber,
@@ -112,24 +109,10 @@ private val PREFIX_INFO_SECTION_OPTIONS = listOf(
     "Recent events\n-------",
 )
 
-private fun Message.extractPlainTextBody(): String {
-    return when (val body = this.body) {
-        is TextBody -> body.reader.readText()
-        is Multipart -> {
-            require(body.subType == "alternative")
-            (body.bodyParts.single { it.mimeType == "text/plain" }.body as TextBody).reader.readText()
-        }
-        else -> error("Unknown body type")
-    }
-}
+fun parseDistributionV0(fullDistributionText: String): List<ProposalData> {
+    if (contentLooksLikeReply(fullDistributionText)) return emptyList()
 
-private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW]rites:(?:\\n\\s*)+>")
-
-fun Message.parseDistributionV0(): List<ProposalData> {
-    val text = extractPlainTextBody()
-    if (text.contains(PROBABLY_REPLY_REGEX)) return emptyList()
-
-    val allParts = text.split(SEPARATOR_REGEX).map { it.trim() }
+    val allParts = fullDistributionText.split(SEPARATOR_REGEX).map { it.trim() }
 
     require(allParts.size > 2)
     require(allParts.any { it.contains(SUMMARY_SECTION_CHECK_REGEX) })
