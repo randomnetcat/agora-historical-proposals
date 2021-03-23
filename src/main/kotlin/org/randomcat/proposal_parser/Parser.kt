@@ -3,10 +3,7 @@ package org.randomcat.proposal_parser
 import org.apache.james.mime4j.dom.Message
 import org.apache.james.mime4j.stream.MimeConfig
 import org.randomcat.mime4j_backfill.MboxIteratorBackfill
-import org.randomcat.proposal_parser.distributions.overridenDistribution
-import org.randomcat.proposal_parser.distributions.parseDistributionV0
-import org.randomcat.proposal_parser.distributions.parseDistributionV1
-import org.randomcat.proposal_parser.distributions.parseDistributionV2
+import org.randomcat.proposal_parser.distributions.*
 import java.io.File
 import java.time.LocalDate
 import java.time.ZoneOffset
@@ -22,7 +19,8 @@ private fun Message.isDistributionMessage(): Boolean {
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
 private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 13)
 private val DISTRIBUTION_V2_END_DATE = LocalDate.of(2009, 5, 16)
-private val DISTRIBUTION_V3_END_DATE = LocalDate.of(2024, 4, 4)
+private val DISTRIBUTION_V3_END_DATE = LocalDate.of(2009, 10, 21)
+private val DISTRIBUTION_V4_END_DATE = LocalDate.of(2023, 12, 12)
 
 private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
@@ -40,6 +38,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V1_END_DATE -> parseDistributionV1(text)
         date < DISTRIBUTION_V2_END_DATE -> parseDistributionV2(text)
         date < DISTRIBUTION_V3_END_DATE -> parseDistributionV1(text) // V3 == V1
+        date < DISTRIBUTION_V4_END_DATE -> parseDistributionV4(text)
         else -> error("Don't know how to parse")
     }
 }
