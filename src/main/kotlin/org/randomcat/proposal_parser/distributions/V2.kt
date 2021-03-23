@@ -12,29 +12,21 @@ private val SEPARATOR_REGEX = Regex("(?<=\\n)\\}(?:\\{\\}){4,}\\{\\n")
 private val SUMMARY_SECTION_CHECK_REGEX = Regex("\\n(?:NUM|Num)(?:\\s+C\\s+I\\s+AI\\s+SUBMITTER)?\\s+(?:TITLE|Title)")
 private val FINAL_SECTION_CHECK_REGEX = Regex("The highest orderly ID for distributed proposal", RegexOption.LITERAL)
 
+// Format:
+// Number: NNNN
+// Title: something
+// Some: Value
+// Other: Value
+// Fields: Value
+//
+// Text
+// ...
 @OptIn(ExperimentalStdlibApi::class)
-private fun parseProposalData(proposalDistributionText: String): ProposalData {
-    val lines = proposalDistributionText.lines()
-
-    // Format:
-    // Number: NNNN
-    // Title: something
-    // Some: Value
-    // Other: Value
-    // Fields: Value
-    //
-    // Text
-    // ...
-
-    val metadataLines = lines.takeWhile { it.isNotBlank() }
-
+private fun parseProposalMetadataV2(metadataLines: List<String>): ProposalCommonMetadataResult {
     val metadataMap = metadataLines.associate {
         require(it.contains(": "))
         it.substringBefore(": ").lowercase() to it.substringAfter(": ")
     }
-
-    val textLines = lines.dropWhile { it.isNotBlank() }.drop(1)
-    val text = textLines.joinToString("\n").trim()
 
     // Sometimes AI has (Class) appended to it, so only take the number before that
     val ai =
@@ -44,7 +36,7 @@ private fun parseProposalData(proposalDistributionText: String): ProposalData {
             .toBigDecimal()
             .let { ProposalAI(it) }
 
-    return ProposalData(
+    return ProposalCommonMetadataResult(
         number = ProposalNumber(metadataMap.getValue("number").toBigInteger()),
         title = metadataMap.getValue("title"),
         ai = ai,
@@ -54,7 +46,6 @@ private fun parseProposalData(proposalDistributionText: String): ProposalData {
             ?.split(", ")
             ?.map { PlayerName(it) }
             ?: emptyList(),
-        text = text,
     )
 }
 
@@ -72,5 +63,7 @@ fun parseDistributionV2(fullDistributionText: String): List<ProposalData> {
         }
     }
 
-    return proposalParts.map { parseProposalData(proposalDistributionText = it) }
+    return proposalParts.map {
+        parseCommonProposal(proposalDistribution = it, metadataParser = ::parseProposalMetadataV2)
+    }
 }

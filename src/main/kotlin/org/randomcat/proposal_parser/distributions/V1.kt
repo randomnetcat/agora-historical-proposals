@@ -12,17 +12,17 @@ import org.randomcat.proposal_parser.ProposalNumber
 private val SEPARATOR_REGEX = Regex("\\}(?:\\{\\}){4,}\\{")
 private val SUMMARY_SECTION_CHECK_REGEX = Regex("AI\\s+SUBMITTER\\s+TITLE\\n")
 
-private data class DistributionV1MetadataResult(
+private data class DistributionV1HeaderResult(
     val number: ProposalNumber,
     val ai: ProposalAI,
     val author: PlayerName,
     val coauthors: ImmutableList<PlayerName>,
 )
 
-private fun parseMetadataLine(metadataLine: String): DistributionV1MetadataResult {
-    require(metadataLine.startsWith("Proposal "))
+private fun parseHeaderLine(headerLine: String): DistributionV1HeaderResult {
+    require(headerLine.startsWith("Proposal "))
 
-    val lineAfterProposal = metadataLine.removePrefix("Proposal ")
+    val lineAfterProposal = headerLine.removePrefix("Proposal ")
 
     val numberText = lineAfterProposal.takeWhile { it.isDigit() }
     val textAfterNumber = lineAfterProposal.drop(numberText.length)
@@ -53,7 +53,7 @@ private fun parseMetadataLine(metadataLine: String): DistributionV1MetadataResul
         authorsText.split(", ").map { PlayerName(it) }
     }
 
-    return DistributionV1MetadataResult(
+    return DistributionV1HeaderResult(
         number = number,
         ai = ai,
         author = authors.first(),
@@ -61,31 +61,26 @@ private fun parseMetadataLine(metadataLine: String): DistributionV1MetadataResul
     )
 }
 
-private fun parseProposalData(proposalDistributionText: String): ProposalData {
-    val lines = proposalDistributionText.lines()
-    require(lines.size >= 2)
+// Format:
+// Proposal NNNN (Some, Fields, AI=1) by Author
+// Title
+//
+// Text
+// ...
+private fun parseProposalMetadataV1(metadataLines: List<String>): ProposalCommonMetadataResult {
+    require(metadataLines.size == 2)
 
-    // Format:
-    // Proposal NNNN (Some, Fields, AI=1) by Author
-    // Title
-    //
-    // Text
-    // ...
+    val headerLine = metadataLines[0]
+    val titleLine = metadataLines[1]
 
-    val metadataLine = lines[0]
-    val titleLine = lines[1]
+    val header = parseHeaderLine(headerLine = headerLine)
 
-    require(lines.size == 2 || lines[2].isBlank())
-
-    val metadata = parseMetadataLine(metadataLine = metadataLine)
-
-    return ProposalData(
-        number = metadata.number,
+    return ProposalCommonMetadataResult(
+        number = header.number,
         title = titleLine,
-        ai = metadata.ai,
-        author = metadata.author,
-        coauthors = metadata.coauthors,
-        text = lines.drop(2).dropWhile { it.isBlank() }.joinToString("\n").trim(),
+        ai = header.ai,
+        author = header.author,
+        coauthors = header.coauthors,
     )
 }
 
@@ -105,5 +100,7 @@ fun parseDistributionV1(fullDistributionText: String): List<ProposalData> {
                 it.removeAt(0)
             }
 
-    return proposalParts.map { parseProposalData(proposalDistributionText = it) }
+    return proposalParts.map {
+        parseCommonProposal(proposalDistribution = it, metadataParser = ::parseProposalMetadataV1)
+    }
 }

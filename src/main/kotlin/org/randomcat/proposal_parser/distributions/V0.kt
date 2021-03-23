@@ -31,11 +31,11 @@ private fun parseNumberAndAuthor(numberAuthorSpec: String): Pair<ProposalNumber,
     return Pair(number, author)
 }
 
-private fun parseMetadataLine(metadataLine: String): DistributionV0MetadataResult? {
-    val metadataParts = metadataLine.split(", ")
+private fun parseHeaderLine(headerLine: String): DistributionV0MetadataResult? {
+    val headerParts = headerLine.split(", ")
 
-    val (number, author) = parseNumberAndAuthor(numberAuthorSpec = metadataParts.first()) ?: return null
-    val ai = ProposalAI(metadataParts.single { it.startsWith("AI=") }.removePrefix("AI=").trim().toBigDecimal())
+    val (number, author) = parseNumberAndAuthor(numberAuthorSpec = headerParts.first()) ?: return null
+    val ai = ProposalAI(headerParts.single { it.startsWith("AI=") }.removePrefix("AI=").trim().toBigDecimal())
 
     return DistributionV0MetadataResult(
         number = number,
@@ -44,35 +44,26 @@ private fun parseMetadataLine(metadataLine: String): DistributionV0MetadataResul
     )
 }
 
-private fun parseProposalDistributionV0(proposalDistribution: String): ProposalData? {
-    val lines = proposalDistribution.lines()
-    require(lines.size >= 2)
+// Format:
+// Proposal NNNN by Author, Field, AI=1, Some, Other, Fields
+// Proposal Title
+//
+// Text
+// ...
+private fun parseProposalMetadataV0(metadataLines: List<String>): ProposalCommonMetadataResult? {
+    require(metadataLines.size == 2)
 
-    // Format:
-    // Proposal NNNN by Author, Field, AI=1, Some, Other, Fields
-    // Proposal Title
-    //
-    // Proposal Text
-    // ...
+    val headerLine = metadataLines[0]
+    val titleLine = metadataLines[1]
 
-    val metadataLine = lines[0]
-    val titleLine = lines[1]
+    val metadata = parseHeaderLine(headerLine = headerLine) ?: return null
 
-    val metadata = parseMetadataLine(metadataLine = metadataLine) ?: return null
-
-    // There should be a gap between the metadata and the text, or there should be no text (only the metadata lines,
-    // making lines have size 2).
-    require(lines.size == 2 || lines[2].isBlank())
-
-    val text = lines.drop(2).dropWhile { it.isBlank() }.dropLastWhile { it.isBlank() }.joinToString("\n").trim()
-
-    return ProposalData(
+    return ProposalCommonMetadataResult(
         number = metadata.number,
         ai = metadata.ai,
         title = titleLine,
         author = metadata.author,
         coauthors = emptyList(),
-        text = text,
     )
 }
 
@@ -141,6 +132,6 @@ fun parseDistributionV0(fullDistributionText: String): List<ProposalData> {
             }
 
     return proposalParts.mapNotNull {
-        parseProposalDistributionV0(it)
+        tryParseCommonProposal(proposalDistribution = it, metadataParser = ::parseProposalMetadataV0)
     }
 }
