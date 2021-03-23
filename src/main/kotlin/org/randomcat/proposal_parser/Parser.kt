@@ -29,7 +29,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
     if (override != null) return override
 
     val date = this.date.toUtcLocalDate()
-    val text = this.extractPlainTextBody()
+    val text = this.extractPlainTextBody().normalizeLineEndings()
 
     if (contentLooksLikeReply(text)) return emptyList()
 
