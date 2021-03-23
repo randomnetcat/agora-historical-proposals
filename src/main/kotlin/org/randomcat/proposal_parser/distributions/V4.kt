@@ -7,8 +7,6 @@ import org.randomcat.proposal_parser.ProposalAI
 import org.randomcat.proposal_parser.ProposalData
 import org.randomcat.proposal_parser.ProposalNumber
 
-private val SEPARATOR_REGEX = Regex("(?<=\\n)\\}(?:\\{\\}){4,}\\{\\n")
-
 private val SUMMARY_SECTION_CHECK_REGEX = Regex("AI\\s+SUBMITTER\\s+TITLE\\n")
 private val FINAL_SECTION_CHECK_REGEX = Regex("-coppro", RegexOption.LITERAL)
 
@@ -61,7 +59,7 @@ private fun parseProposalMetadataV4(metadataLines: List<String>): ProposalCommon
 fun parseDistributionV4(fullDistributionText: String): List<ProposalData> {
     val proposalParts = SplitDistribution.withSummaryAndOptFooter(
         fullDistributionText = fullDistributionText,
-        separatorRegex = SEPARATOR_REGEX,
+        separatorRegex = Separators.ALTERNATING_BRACES,
         summarySectionRegex = SUMMARY_SECTION_CHECK_REGEX,
         footerRegex = FINAL_SECTION_CHECK_REGEX,
     )

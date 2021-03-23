@@ -59,6 +59,11 @@ fun parseCommonProposal(
         ?: error("metadataParser returned null but shouldn't have")
 }
 
+object Separators {
+    val ALTERNATING_BRACES = Regex("(?<=\\n)\\}(?:\\{\\}){4,}\\{\\n")
+
+}
+
 object SplitDistribution {
     fun withSummaryAndOptFooter(
         fullDistributionText: String,

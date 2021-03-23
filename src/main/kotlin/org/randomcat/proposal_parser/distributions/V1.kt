@@ -9,7 +9,6 @@ import org.randomcat.proposal_parser.ProposalAI
 import org.randomcat.proposal_parser.ProposalData
 import org.randomcat.proposal_parser.ProposalNumber
 
-private val SEPARATOR_REGEX = Regex("\\}(?:\\{\\}){4,}\\{")
 private val SUMMARY_SECTION_CHECK_REGEX =
     Regex("AI\\s+SUBMITTER\\s+TITLE\\n|All actions are performed in this message by deputizing for Promotor.")
 
@@ -88,7 +87,7 @@ private fun parseProposalMetadataV1(metadataLines: List<String>): ProposalCommon
 fun parseDistributionV1(fullDistributionText: String): List<ProposalData> {
     val proposalParts =
         fullDistributionText
-            .split(SEPARATOR_REGEX)
+            .split(Separators.ALTERNATING_BRACES)
             .map { it.trim() }
             .filter { it.isNotBlank() }
             .toPersistentList()
