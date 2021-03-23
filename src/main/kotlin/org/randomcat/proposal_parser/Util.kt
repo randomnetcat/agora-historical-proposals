@@ -34,5 +34,5 @@ fun <K, V : Any> Map<K, V>.getFirstValue(vararg keys: K): V {
         if (value != null) return value
     }
 
-    throw NoSuchElementException("No values for any of the following keys: $keys")
+    throw NoSuchElementException("No values for any of the following keys: ${keys.contentToString()}")
 }
