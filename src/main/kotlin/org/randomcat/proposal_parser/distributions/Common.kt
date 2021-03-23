@@ -94,7 +94,10 @@ object MetadataParsing {
     // Text
     // ...
     @OptIn(ExperimentalStdlibApi::class)
-    fun keyValueHeaders(metadataLines: List<String>): ProposalCommonMetadataResult {
+    fun keyValueHeaders(
+        metadataLines: List<String>,
+        backupNumber: ProposalNumber? = null,
+    ): ProposalCommonMetadataResult {
         val metadataMap = metadataLines.associate {
             require(it.contains(": "))
             it.substringBefore(": ").lowercase() to it.substringAfter(": ")
@@ -109,7 +112,8 @@ object MetadataParsing {
                 .let { ProposalAI(it) }
 
         return ProposalCommonMetadataResult(
-            number = ProposalNumber(metadataMap.getFirstValue("number", "id").toBigInteger()),
+            number = metadataMap.getFirstValueOrNull("number", "id")?.toBigInteger()?.let { ProposalNumber(it) }
+                ?: requireNotNull(backupNumber),
             title = metadataMap.getValue("title"),
             ai = ai,
             author = PlayerName(metadataMap.getValue("author")),

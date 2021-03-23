@@ -2647,3 +2647,17 @@ private val IGNORED_SUBJECTS = listOf<String>()
 fun Message.isIgnoredDistribution(): Boolean {
     return IGNORED_SUBJECTS.contains(this.subject)
 }
+
+@OptIn(ExperimentalStdlibApi::class)
+fun Message.backupFirstProposalNumber(): ProposalNumber {
+    println("Subject: ${subject}")
+
+    return subject
+        .lowercase()
+        .substringAfter("of proposal")
+        .removePrefix("s")
+        .replace(" ", "")
+        .substringBefore("-")
+        .toBigInteger()
+        .let { ProposalNumber(it) }
+}

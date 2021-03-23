@@ -28,11 +28,21 @@ private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>"
 
 fun contentLooksLikeReply(emailContent: String) = emailContent.contains(PROBABLY_REPLY_REGEX)
 
-fun <K, V : Any> Map<K, V>.getFirstValue(vararg keys: K): V {
+inline fun <K, V : Any> Map<K, V>.getFirstValueOrElse(vararg keys: K, defaultValue: () -> V): V {
     for (key in keys) {
         val value = this[key]
         if (value != null) return value
     }
 
-    throw NoSuchElementException("No values for any of the following keys: ${keys.contentToString()}")
+    return defaultValue()
+}
+
+fun <K, V : Any> Map<K, V>.getFirstValue(vararg keys: K): V {
+    return getFirstValueOrElse(*keys) {
+        throw NoSuchElementException("No values for any of the following keys: ${keys.contentToString()}")
+    }
+}
+
+fun <K, V : Any> Map<K, V>.getFirstValueOrNull(vararg keys: K): V? {
+    return getFirstValueOrElse(*keys) { return null }
 }
