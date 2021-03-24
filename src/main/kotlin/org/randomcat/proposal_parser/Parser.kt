@@ -62,7 +62,7 @@ fun main(args: Array<String>) {
         }
         .take(8000)
         .filter {
-            it.isDistributionMessage()
+            it.isDistributionMessage() && it.date.toUtcLocalDate() < DISTRIBUTION_V5_END_DATE
         }
         .flatMap { it.parseDistribution() }
         .toList()
