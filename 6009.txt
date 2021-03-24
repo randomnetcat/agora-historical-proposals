@@ -1,0 +1,30 @@
+ID: 6009
+Title: Inactives lose MwP
+Author: Sgeo
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 1922, replace
+{
+     (e) Minister Without Portfolio, to be awarded by the Herald to
+          any player who wins the game and does not already bear the
+          title. If the number of persons bearing this title is
+          greater than the number of Prerogatives defined by the
+          rules, then this title is administratively revoked from
+          all non-players; if it is still greater, then this title
+          is administratively revoked from the Speaker.
+}
+with
+{
+     (e) Minister Without Portfolio, to be awarded by the Herald to
+          any player who wins the game and does not already bear the
+          title. If the number of persons bearing this title is
+          greater than the number of Prerogatives defined by the
+          rules, then this title is administratively revoked from
+          all non-players; if it is still greater, then this title is
+administratively revoked from any player who would be Speaker if the
+player wasn't inactive, until the number of persons bearing this
+title is no longer greater than the number of Prerogatives defined by
+the rules;
+          if it is still greater, then this title
+          is administratively revoked from the Speaker.

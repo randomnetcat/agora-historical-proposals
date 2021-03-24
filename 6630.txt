@@ -1,0 +1,14 @@
+ID: 6630
+Title: Let the Government Have Its Fun
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Remove the following text from Rule 2284 (Fee-based actions):
+
+    - A player CAN veto or rubberstamp an ongoing ordinary decision
+       for a charge of 3 ergs.
+
+[This gives the powers of veto and rubberstamp solely to the holders
+of those cards, thus removing the boring ability for everyone to simply
+be able to rubberstamp/veto.]

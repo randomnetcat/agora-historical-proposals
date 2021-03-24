@@ -1,0 +1,22 @@
+ID: 5443
+Title: Ostracism v2
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2
+
+Create a new rule titled "Ostracism" with power = 2 and the text:
+{{
+As soon as possible after the beginning of each month the IADoP SHALL
+initiate an dependent action to ostracize with a Majority Index of
+2/3. If the outcome is APPROVED, the IADoP shall as soon as possible
+initiate an agoran decision to determine who is ostracized. For this
+decision, the valid options are the players, the eligible voters are
+the active players, quorum is 1/2 the number of active players
+(rounded down), and the vote collector is the IADoP.
+In the notice to resolve the decision,
+the IADoP SHALL select the one player who received the greatest number
+of votes (if any). For the next 30 days following the successful
+resolution of this election, that player's voting limit is 0 on all
+proposals. This rule takes precedence over other rules that would
+otherwise set or change a player's voting limit.
+}}

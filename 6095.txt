@@ -1,0 +1,13 @@
+ID: 6095
+Title: I did so win
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Rule 2186 (Victory) by replacing:
+     A win announcement is a correct announcement explicitly labeled
+     as a win announcement.
+with:
+     A win announcement is a correct announcement explicitly labeled
+     as a win announcement, or clearly and directly stating that
+     one or more explicitly specified players win.

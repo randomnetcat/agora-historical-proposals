@@ -1,0 +1,8 @@
+ID: 4822
+Title: Clean up the ADoP's Title
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend R1686 by replacing "Assistant" with Associate".

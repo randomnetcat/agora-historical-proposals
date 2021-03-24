@@ -1,0 +1,8 @@
+ID: 6618
+Title:  Fix dangling reference
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2177 (The Senate) by replacing "Minister without Portfolio"
+with "member of the Government".

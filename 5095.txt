@@ -1,0 +1,7 @@
+ID: 5095
+Title: lower minimum quorum to one
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 879 by replacing the word following "minimum of" with "one".

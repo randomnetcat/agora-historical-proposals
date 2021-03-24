@@ -1,0 +1,32 @@
+ID: 5676
+Title: Repeal Rule 101!
+Author: tusho
+Co-authors: 
+Adoption index: 3.0
+
+[Before we start, let me please justify this.
+
+Rule 101 is broken.
+
+Firstly, we are on a game played via computers. Really, we have no
+inherent rights at all. (I'm aware of the "society" view. I personally think
+it's silly, but I can understand it. Even so, let's continue.)
+
+Additionally, there isn't really that much reason to stop some of the
+"rights" there being abridged - e.g. (iii), (vii). ALREADY TRIED is already
+in the CFJ system, so it's kind of duplication (and any non-ALREADY
+TRIED judgement for something already tried will probably be appealed
+anyway.)
+
+Finally, (vi). The distributor can ban someone from the lists. Yet, precedent
+has it that when an action would "violate" Rule 101 it just doesn't happen.
+Therefore, the person would be banned and unable to participate in the
+fora, and yet (vi) says that no, that's impossible, they CAN participate in
+them. It makes no sense.]
+
+Add a rule titled "Our Helpful Assistant" (power=3.1):
+[[Rule 101 CAN be repealed by a Proposal of power 3.1.]]
+
+Repeal rule 101.
+
+Repeal the rule titled "Our Helpful Assistant".

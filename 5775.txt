@@ -1,0 +1,46 @@
+ID: 5775
+Title: Clean up dependent actions
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1728 (Dependent Actions) to read:
+
+     A person (the performer) CAN perform an action dependently (a
+     dependent action) by announcement if and only if all of the
+     following are true:
+
+       a) The rules explicitly authorize the performer to perform
+          the action by at least one of the following methods
+          (N is 1 if not otherwise specified):
+
+            1) Without N Objections, where N is a positive integer.
+            2) With N Supporters, where N is a positive integer.
+            3) With N Agoran Consent, where N is an integer multiple
+               of 0.1 with a minimum of 1.
+
+       b) A person (the initiator) announced intent to perform the
+          action, unambiguously specifying the action and method
+          (including the value of N), at most fourteen days earlier,
+          and (if the action depends on objections) at least four days
+          earlier.
+
+       c) At least one of the following is true:
+
+            1) The performer is the initiator.
+
+            2) The initiator was authorized to perform the action
+               due to holding a rule-defined position now held by the
+               performer.
+
+            3) The initiator is authorized to perform the action,
+               the action depends on support, the performer has
+               supported the intent, and the rule authorizing the
+               performance does not explicitly prohibit supporters
+               from performing it.
+
+       d) Agora is Satisfied with the announced intent, as defined by
+          other rules.
+
+     A dependent action CAN be performed non-dependently as otherwise
+     permitted by the rules.

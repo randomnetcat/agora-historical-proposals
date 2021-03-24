@@ -1,0 +1,23 @@
+ID: 6526
+Title: Break the Presto Picking Loop
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2262, replace
+{{{
+       * Discard Picking  - Indicate a type of Exploit card where at
+                            least one card of that type was destroyed
+                            in the past 72 hours; a card of that type
+                            is created in your possession.
+}}}
+with
+{{{
+       * Discard Picking  - Indicate a type of Exploit card, other than
+                            Presto!, where at least one card of that
+                            type was destroyed in the past 72 hours; a
+                            card of that type is created in your
+                            possession.
+}}}
+[Because otherwise, you can use a Presto! to destroy everyone else's
+Discard Pickings.]

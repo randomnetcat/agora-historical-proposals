@@ -1,0 +1,17 @@
+ID: 5781
+Title: Expedited appeals
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2019 (Prerogatives) by replacing this text:
+
+        If the Justiciar has not done so, then the Clerk of the Courts
+        SHALL NOT assign a panel to that case during this period.
+
+with this text:
+
+        If the Justiciar has not done so, then the Clerk of the Courts
+        SHALL NOT assign a panel to that case during this period,
+        unless either no panels eligible to be so assigned include the
+        Justiciar, or all of them do.

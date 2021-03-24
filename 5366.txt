@@ -1,0 +1,41 @@
+ID: 5366
+Title: Return of Titles
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Create the following rule:
+        Each person has one or more Referential Title. Each person ought to be
+        referred to by one of eir Referential Titles. Each Referential Title has
+        "H." or "Honorable" within it for those persons who have been players.
+
+        The Speaker has a Referential Title of "Right Honorable".
+
+        Each patent title is part of a Referential Title of anyone who has the
+        patent title in question. Each party is part of a Referential Title of anyone
+        who has the party in question. Each office is part of a Referential Title of
+        anyone who has the office in question. Each person who has never been a
+        player has, as Referential Titles, either "Non-Agoran" or any sufficiently
+        insulting term.
+
+        Each foreign Nomic which is not a protectorate, and has never been a player,
+        has, as a Referential Title, any sufficiently insulting term. Each foreign
+        Nomic which is a protectorate has, as a Referential Title, "Worthy
+        Protectorate" or "W. Protectorate".
+
+        The Ambassador MAY recommend a preferred Referential Title for a foreign
+        nomic or any person who has never been a player. Players ought to use this in
+        preference to other suitable Referantial Titles. Such Referential Titles
+        declared by the current Ambassador are part of the Ambassador's report.
+
+[Examples: Suffusion of Yellow Rishonomic, Non-Agoran Steve Wallace,
+           W. Protectorate Foo Bar Baz, H. White avpx, H. Gray Agora's Child
+           H. Ambassador Pikhq, Right Honorable Levi
+]
+
+If the proposal "We're All Mad!" by pikhq is adopted, then replace all
+references to "has never been a player" to "is Sane", and replace all
+references to "have been players" with "are Mad".
+---------------------------------------------------------------------------
+Upon adoption of this proposal, the Ambassador recommends the Referential
+Title of "Suffusion of Yellow" to our former enemy Rishonomic.

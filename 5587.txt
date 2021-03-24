@@ -1,0 +1,9 @@
+ID: 5587
+Title: Another bribe?
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+Every Player who votes FOR this proposal gains 1 point.  Every Player
+who votes AGAINST this proposal loses 1 point.  If a player does not
+vote FOR or AGAINST this proposal their points remain unchanged.

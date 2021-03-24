@@ -1,0 +1,15 @@
+ID: 6453
+Title: Proposal II Changes v2
+Author: C-walker
+Co-authors: 
+Adoption index: 1.0
+
+Replace the entire text of Rule 2224 (Interest Index of Proposals) with:
+
+      Each proposal has an interest index, which CAN be set by its
+      author at the time of submission, and CAN be changed (while
+      undistributed) by any player without 2 objections, or by the
+      Promotor or Assessor without 3 objections.
+
+      A proposal SHOULD be disinterested if and only if its effects
+      are limited to correcting errors and/or ambiguities.

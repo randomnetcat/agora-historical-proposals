@@ -1,0 +1,8 @@
+ID: 4926
+Title: precedence takes precedence
+Author: Zefram
+Co-authors: 
+Adoption index: 4
+
+
+Change the Power of rule 1482 to 4.

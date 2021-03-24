@@ -1,0 +1,11 @@
+ID: 5043
+Title: Better Support for Democracy
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2142 by replacing the phrase "3 Supporters" with
+"2 Supporters".
+
+[Base quorum is 5, and the number of players needed to
+democratize a proposal should be a simple majority of that.]

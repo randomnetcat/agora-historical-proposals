@@ -1,0 +1,65 @@
+ID: 5059
+Title: simple elections for office
+Author: Zefram
+Co-authors: Goethe
+Adoption index: 2
+
+Goethe, having written the entire text that follows, is a coauthor of
+this proposal.
+
+Amend Rule 1006 (Offices) to read:
+
+      The Rules may designate positions to be offices.  No office may
+      be held by more than one player.  Each office that would
+      otherwise not be held by any player shall be held by the
+      Speaker, unless it is not possible for the Speaker to hold that
+      office.
+
+      The holder of an office may be referred to by the name of the
+      office.
+
+      If the duty of an office is to maintain certain information, then
+      the officer shall publish that information at least once a month,
+      or as soon as possible after a substantial change occurs in the
+      information or the officer receives a request for the information.
+      A weekly report shall be sufficient to satisfy these last two
+      requirements.
+
+      If an Officer or the Speaker fails to satisfy a Timing Order to
+      perform a certain official duty, than the player who executed the
+      order may perform the duty as if e were the officer.
+
+Create the following Rule entitled "Replacing Officers", Power 2:
+
+      Any Player may make an active Player (hereafter the nominee) the
+      holder of an office, thus removing any previous holder from the
+      office, with Agoran Consent, provided:
+      (a) that office has not changed hands with this method in the
+          previous 30 days, and
+      (b) the potential officer consents to hold the office after the
+          announcement of intent is made.
+
+      If intent to achieve consent for a nominee is announced as above,
+      then any other active player may be nominated for the position with
+      eir own consent by announcement, during the minimum waiting period
+      between intent and action defined for Agoran Consent.
+
+      If, at the end of this period, there is more than one consenting
+      nominee, then the attempt to achieve Agoran Consent fails, and
+      the IADoP shall initiate an Agoran Decision to determine the new
+      office holder, meanwhile no further attempt to achieve Agoran Consent
+      for the change shall be valid.  The valid options for the decision
+      are the nominees, quorum is a minimum of three and the number of active
+      players, eligible voters are the active players, and the vote collector
+      is the IADoP.  In the notice resolving the decision, the IADoP
+      will select one nominee from the set of nominees which each received
+      the largest number of  votes; this chosen nominee becomes the
+      officeholder upon the posting of the valid notice.
+
+      If no attempt to achieve Agoran Consent for changing the holder
+      of a particular office is announced in a given quarter, then the
+      IADoP shall make at least one such attempt to change the
+      officeholder in the following quarter, and make the change if
+      consent is achieved.  This requirement is waived if another
+      player changes the officeholder in this way during the following
+      quarter.

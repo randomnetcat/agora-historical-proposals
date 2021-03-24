@@ -1,0 +1,54 @@
+ID: 4474
+Title: Default Budgets and Election Errors
+Author: Steve
+Co-authors: 
+Adoption index: 1
+
+
+[Comment: players not infrequently forget to submit budgets during
+elections for offices that have budgets associated with them. I propose
+to let the current budget be the default, assuming it is valid.
+
+
+I also propose to let election results stand after a week if they are
+unchallenged during that time, just as they are for referenda.]
+
+
+Amend Rule 1958 (Nominating with Budgets) to read:
+
+
+   (a) If an office has a budget, then a nomination in an election for
+       that office is not valid unless a valid proto-budget is associated
+       with it.
+
+
+   (b) A proto-budget submitted by a nominee during the nominating period
+       is associated with that nominee's nomination. A proto-budget is
+       valid if it would be valid as a budget.
+
+
+   (c) If a nominee for an Office fails to submit a valid proto-budget
+       during the nominating period, then by default eir nomination is
+       associated with a proto-budget identical to the current budget for
+       that Office. If the current budget is not valid, tough cookies.
+
+
+   (d) When the voting period begins, the vote collector shall announce
+       each candidate's last valid proto-budget.
+
+
+   (e) When the voting period ends, the winner's last valid proto-budget
+       becomes the budget of that office, and e shall announce it as soon
+       as possible. If the election ends without a winner, then the
+       existing Budget remains in effect.
+
+
+
+Amend Rule 1445 (Defaults for Elections) by appending to the end of it a
+new paragraph which reads:
+
+
+     * Cutoff for Challenges: If the results of an Election are not
+       challenged within seven days after the Vote Collector announces
+       them, then the announced results are the true results of that
+       Election, even if they would otherwise be in error.

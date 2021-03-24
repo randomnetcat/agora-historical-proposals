@@ -1,0 +1,24 @@
+ID: 5157
+Title: fix switch definitions
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2162 by replacing the paragraph
+
+      "To flip an instance of a switch" is to make it come to have a
+      given value.  "To become X" (where X is a possible value of
+      exactly one of the subject's switches) is to flip that switch to
+      X.
+
+with
+
+      To "flip" an instance of a switch to a particular value is to
+      make that switch come to have that value (regardless of what the
+      switch's value was previously).  To "become X", where X is a
+      possible value of exactly one of the subject's switches, is to
+      have that switch change value to X from some other value.
+
+["Become" refers to a change in switch value, not the action of
+changing it (which is what "flip" is).  Explicate for both definitions
+whether a null change counts.]

@@ -1,0 +1,38 @@
+ID: 6004
+Title: Pragmatize Ribbons
+Author: woggle
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2199, "Ribbons", replace:
+
+"its proposer gains a Red Ribbon" with "the Rulekeepor SHALL by
+announcement award its proposer a Red Ribbon as soon as possible",
+"its proposer gains an Orange Ribbon" with "the Assessor SHALL by
+announcement award its proposer an Orange Ribbon as soon as possible",
+"At the end of each month, each player who held at least one office
+continuously during that month gains a Green Ribbon" with "as soon as
+possible after the end of each month, the IADoP SHALL by announcement
+award each player who held at least one office continuously during
+that month a Green Ribbon",
+"e gains a Cyan Ribbon" with "e CAN by announcement award emself a
+Cyan Ribbon", [there's no office in charge of depatation]
+"e gains a Blue Ribbon" with "the CotC SHALL by announcement award em
+a Blue Ribbon as soon as possible",
+"e gains a Black Ribbon" with "the CotC SHALL by announcement award em
+a Black Ribbon as soon as possible",
+"e gains a White Ribbon" with "the Registrar SHALL by announcement
+award em a White Ribbon as soon as possible",
+"that player gains a White Ribbon" with "the Registrar SHALL by
+announcement award em a White Ribbon as soon as possible",
+[Magenta excluded, because the Tailor ought to be subject to at least
+one unreasonable obligation]
+"e gains an Ultraviolet Ribbon" with "the Herald SHALL by announcement
+award em an Ultraviolet Ribbon as soon as possible",
+"e gains a Violet Ribbon" with "the Herald SHALL by announcement award
+em a Violet Ribbon as soon as possible",
+"e gains an Indigo Ribbon" with "the Herald SHALL by announcement
+award em an Indigo Ribbon as soon as possible", and
+"the contestmaster gains a Yellow Ribbon" with "the Scorekeepor SHALL
+by announcement award the contestmaster a Yellow Ribbon as soon as
+possible".

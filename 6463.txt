@@ -1,0 +1,42 @@
+ID: 6463
+Title: More Criminal Sentences v2
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+[ This proposal brings back some old criminal sentences and one new one. ]
+
+In Rule 1504 (Criminal Cases), add the following to the list of valid sentences:
+
+      * FINE with an amount of one class of asset, appropriate for
+        rule breaches of small consequence.  An amount is only valid
+        if the currency's backing document binds the ninny (the Rules
+        are considered to bind all players) or the ninny has this
+        amount of the asset, and the backing document specifies a
+        maximum FINE amount, and the amount is no greater than the
+        maximum.  When in effect, the ninny SHALL, as soon as
+        possible, either destroy this amount of eir asset or transfer
+        it to the Lost and Found Department. The ninny is only obliged
+        to perform one destruction or transfer per question on
+        sentencing, even if sentences of this type are assigned more
+        than once or go into effect more than once.
+
+     * COMMUNITY SERVICE with a set of up to five tasks (the
+       prescribed tasks) that the ninny CAN reasonably and legally
+       perform, appropriate for rule breaches of moderate consequence
+       if the severity of the rule breach is reasonably correlated
+       with the consequences of performing the tasks, and especially
+       if any other available non-null punishment would be either
+       unjust or insufficient.  The balance between compensatory and
+       punitive service is left to the judge's discretion.  While a
+       sentence of this type is in effect, the ninny SHALL perform
+       the prescribed tasks (as soon as possible, unless a different
+       time limit is specified).
+
+     * TIME OUT with a number of days between 7 and 21. The ninny
+       becomes inactive, and SHALL NOT become active for the number
+       of days specified, as long as the sentence remains in effect.
+
+Append the following to Rule 2253 (Cards):
+
+     The maximum FINE amount for each card is two.

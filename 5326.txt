@@ -1,0 +1,29 @@
+ID: 5326
+Title: No decay
+Author: pikhq
+Co-authors: 
+Adoption index: 2
+
+In rule 2126, remove
+         (-*) One second before the end of each month, each entity loses
+           1/5 of eir holdings of each color of VC, rounded down to
+           the nearest integer.
+
+In rule 2126, replace
+      a) A player may spend N+1 VCs of different colors to increase
+         another player's VVLOP by N, where N >= 1.
+
+      b) A player may spend N+2 VCs of different colors to increase
+         eir own VVLOP by N, where N >= 1.
+
+      c) A player may spend N+1 VCs of different colors to decrease
+         another player's VVLOP by N (to a minimum of zero).
+with
+      a) A player may spend N VCs of different colors to decrease another
+         player's VVLOP by floor(N/2).
+
+      b) A player may spend N VCs of different colors to increase eir own
+         VVLOP by floor(N/3).
+
+      c) A player may spend N VCs of different colors to decrease another
+         player's VVLOP by floor(N/2)

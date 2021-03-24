@@ -1,0 +1,19 @@
+ID: 5794
+Title: Return of the Repeal-o-Matic
+Author: Murphy
+Co-authors: Swann
+Adoption index: 1.0
+
+Create a rule titled "The Repeal-o-Matic" with this text:
+
+     The Anarchist is an office; its holder is responsible for
+     proposing the repeal of rules.
+
+     The Anarchist's weekly duties include the performance of the
+     following tasks, in order:
+
+       a) Randomly select exactly five distinct rules.
+
+       b) For one to three of these rules, submit a proposal, with
+          adoption index equal to the Power of the rule, and
+          interest index 0, to repeal the rule.

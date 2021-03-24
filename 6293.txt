@@ -1,0 +1,21 @@
+ID: 6293
+Title: Stop IADoP Abuse
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Amend R2154 (Election procedure) by replacing:
+      Any player CAN by announcement initiate an election for an
+      elected office for which no election is already in progress,
+      nominating at least one active player.
+with:
+      Any player CAN, with Support, initiate an election for a
+      specified elected office for which no election is already in
+      progress.  When an election is initiated, the current holder
+      of the office (if any) is initially considered to have been
+      nominated and have accepted.
+
+[Puts in a minimal with support level of control up against the
+trend of beginning trivial elections.  Once started, nomination
+remains by announcement; the current holder is automatically a
+nominee but may decline at any time].

@@ -1,0 +1,12 @@
+ID: 5104
+Title: repeal obsolete adjudication provision
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Repeal rule 1503.
+
+[R1503 was used to allow the Civil CFJ mechanism to be applied to rule
+violations.  Civil CFJs have been abandoned, and the new criminal CFJ
+mechanism addresses rule violations directly.  Thus rule 1503 is now
+obsolete.]

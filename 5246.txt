@@ -1,0 +1,9 @@
+ID: 5246
+Title: <none>
+Author: Levi
+Co-authors: 
+Adoption index: 1
+
+Create a new rule with the following text:
+
+       A player MAY perform an action on behalf of Agora with Agoran Consent.

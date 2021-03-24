@@ -1,0 +1,16 @@
+ID: 5585
+Title: Overtime
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+Overtime
+
+Amend R2187 by appending the following:
+
+   If no players have won by High Score in the past four months,
+   then any Player may place Agora into Overtime with 3 Support.
+   When Agora is in overtime, any announcement awarding or
+   revoking points that is authorized by another Rule awards or
+   revokes double the amount of the announcement.  Agora ceases
+   being in overtime when someone wins by High Score.

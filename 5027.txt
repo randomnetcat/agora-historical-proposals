@@ -1,0 +1,7 @@
+ID: 5027
+Title: revocation of speling errors
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2129 by replacing the word "revokation" with "revocation".

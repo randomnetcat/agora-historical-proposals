@@ -1,0 +1,11 @@
+ID: 4986
+Title: report activity
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2130 by appending the paragraph:
+
+      The Registrar's report shall indicate, for each player, whether
+      the player is active or inactive, and the date on which this status
+      last changed.

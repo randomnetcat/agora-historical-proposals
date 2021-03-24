@@ -1,0 +1,33 @@
+ID: 6536
+Title: Proposal:  Prevent double appeals of criminal cases 
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 (Criminal Cases) by removing the last paragraph.
+
+Create a new rule titled "Appeals of Criminal Cases" with Power 2 and
+this text:
+
+       An appeal concerning any assignment of judgment in a criminal
+       case within the past week CAN be initiated by the accused by
+       announcement.
+
+       Unless otherwise specified, an appeal of a judgment in a criminal
+       case is assumed to be appealing the question of culpability.
+
+       If a verdict or sentence that led to the creation of Rests is
+       overruled, remanded, or reassigned, the Rests are still considered
+       to have been created, but any player CAN destroy any Rests thus
+       created by announcement.
+
+       When a judgement on a criminal case's question of culpability is
+       suspended, the judgement (if any) on its question of sentencing
+       is also suspended.  Afterward, if the first judgement is assigned
+       again, then so is the second.
+
+[Refactor the stuff from R1504 for readability, fix a grammar nit, and
+prevent simultaneous appeals of both culpability and sentencing.  R911's
+block against appealing the same question twice shouldn't apply, as the
+second judgement's reapplication is directly caused by this new rule,
+and only indirectly caused by an appeal judgement.]

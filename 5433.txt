@@ -1,0 +1,57 @@
+ID: 5433
+Title: Domestic Trade
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2166 (Assets) by appending this text to the paragraph
+beginning "An asset generally CAN be destroyed":
+
+      To "spend" an asset is to destroy it from one's possession
+      for exactly one purpose as explicitly allowed by its backing
+      document; if the purpose is unsuccessful, then the asset is
+      not destroyed.
+
+Create a rule titled "Currency Exchange" with Power 2 and this text:
+
+      Each ordered pair of currencies (source, destination) has a
+      non-negative conversion factor, defaulting to zero.  If the
+      source and destination are the same, or if either currency's
+      backing document is neither the rules nor a public contract,
+      then the conversion factor is zero and CANNOT be changed.
+
+      The Accountor's report includes a list of all non-zero
+      conversion factors.
+
+      If a conversion factor (F) is positive, then a player CAN spend
+      N units of the source currency to gain N*F units of the
+      destination currency, unless the number of units of the source
+      currency e has previously spent in this way in the same week is
+      greater than or equal to the source currency's conversion limit
+      (if any).  A claim to have gained currency in this way is
+      self-ratifying; however, if it is later discovered that the
+      claim was incorrect prior to self-ratification, then the player
+      SHALL destroy N units of the source currency as soon as possible.
+
+      When the text of a public contract changes, each currency backed
+      by that contract has a conversion limit of zero for one week
+      afterward.
+
+      The Accountor CAN change a conversion factor with Agoran Consent,
+      provided that the new conversion factor times the converse
+      conversion factor (with source and destination reversed) would
+      not exceed 1.
+
+Create a rule titled "Cimons" with this text:
+
+      Cimons are a currency.  The recordkeepor of cimons is the
+      Accountor.  Ownership of cimons is restricted to players.
+
+      The purpose of Cimons is to establish a convenient standard of
+      value for currency exchange.
+
+Upon the adoption of this proposal, the following conversion factors
+are set to the following values:
+
+  * F(Cimon, Bb Note) = F(Cimon, B Note) = 1/100
+  * F(Bb Note, Cimon) = F(B Note, Cimon) = 86

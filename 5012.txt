@@ -1,0 +1,10 @@
+ID: 5012
+Title: execution of timing orders
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 1794 by replacing "executed by any person" with "executed by
+any person by announcement".
+
+[The mechanism to execute timing orders was not specified.]

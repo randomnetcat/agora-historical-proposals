@@ -1,0 +1,29 @@
+ID: 4597
+Title: Fix Hot Potato
+Author: Sir Toby
+Co-authors: 
+Adoption index: 1
+
+
+Proposal
+Fix Hot Potato
+
+Amend Rule 2071 by replacing this text:
+
+      * Caption: Hot Potato
+        Quota: 1
+        Elements: Persistent
+        Exploit: Transfer this Card to another entity. If that entity
+          does not post to a Public Forum the phrase "Hot Potato" with
+          48 hours, they are guilty of the Class 1 Infraction of
+          Dropping the Potato which you are authorized to Report.
+
+with the following:
+
+      * Caption: Hot Potato
+        Quota: 1
+        Elements: Persistent
+        Exploit: Transfer this Card to another entity. If that entity
+          does not post to a Public Forum the phrase "Hot Potato" within
+          48 hours, they are guilty of the Class 1 Infraction of
+          Dropping the Potato which you are authorized to Report.

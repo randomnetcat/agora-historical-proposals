@@ -1,0 +1,15 @@
+ID: 6339
+Title: Execution of Intent-on-Behalf
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2124 (Agoran Satisfaction) by replacing "The Executor of such
+an announcement of intent CANNOT support it" with "The entity intending
+to perform an action (generally, but not necessarily, the Executor of
+the announcement) CANNOT support the announcement"
+
+[This allows a player acting on behalf of another to intend to do
+something to support that intentd; as it stands, they cannot but the
+intending player can. This may be desired behavior with regards to how
+it acts in partnerships; that's why it's II=1 instead of II=0]

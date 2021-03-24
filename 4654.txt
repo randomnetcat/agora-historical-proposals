@@ -1,0 +1,15 @@
+ID: 4654
+Title: Bye Bye Blob
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+remove the following from R1686
+
+"      The rules may specify conditions under which a player is mauve;
+      that player is not mauve unless the rules explicitly state at
+      least one such condition and all such conditions are satisfied.
+      As soon as possible after a player becomes mauve, the Speaker
+      shall announce this fact.  The only condition for mauveness is
+      being nicknamed Blob."

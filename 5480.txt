@@ -1,0 +1,13 @@
+ID: 5480
+Title: God-emperor II
+Author: Goethe
+Co-authors: 
+Adoption index: 3
+
+God-emperor II
+
+Create the following Rule with a power of 3:
+
+     Goethe is the god-emperor.  E may modify any Rule by
+     announcement; this Rule takes precedence over other
+     Rules governing rule changes.

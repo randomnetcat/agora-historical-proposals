@@ -1,0 +1,47 @@
+ID: 4718
+Title: Greed Works
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2078 (Corporate Takeovers) to read:
+
+      Initiative is a stuck player switch, tracked by the Assessor,
+      with values Gote and Sente.
+
+      When a player's Initiative is flipped to Sente, eir Voting
+      Potential is increased to 4, unless it is already greater than
+      or equal to that amount.
+
+      A Takeover Proposal is a proposal meeting these requirements:
+
+        (a) It is labelled as a Takeover Proposal.
+        (b) No Takeover Proposal has been submitted earlier in the
+            same month.
+        (c) It specifies a set of players (hereafter the Corporate
+            Raiders) that includes the submitter of the proposal, and
+            is no larger than P/2 or smaller than P/3, where P is the
+            number of active noisy players at the time of submission.
+
+      Rules to the Contrary nonwithstanding, a Takeover Proposal is
+      both Democratic and Sane.
+
+      At the end of a Takeover Proposal's voting period, the
+      Assessor shall flip each player's initiative as follows:
+
+        (a) If the proposal is adopted, then all Corporate Raiders
+            are flipped to Sente, and all other players are flipped to
+            Gote.
+        (b) Otherwise, all Corporate Raiders are flipped to Gote,
+            and all other players are flipped to Sente.
+
+Amend Rule 1950 (Voting Power) by replacing this text:
+
+                  (i)  that Player's Voting Potential if that Player
+                       has Sente.
+
+with this text:
+
+                  (i)  if e has Sente, the maximum of one and eir
+                       Voting Potential.

@@ -1,0 +1,12 @@
+ID: 5411
+Title: Fix the FAGE bug
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+Amend R869 by replacing the text:
+     A player CAN deregister by announcement.  E CANNOT register
+      within thirty days after doing so.
+With the text:
+     A player CAN deregister by announcement.  E CANNOT register
+      within thirty days after deregistering.

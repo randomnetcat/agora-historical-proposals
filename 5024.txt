@@ -1,0 +1,7 @@
+ID: 5024
+Title: No Contracts
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2
+
+R2109 Agoran Contracts is repealed.

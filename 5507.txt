@@ -1,0 +1,22 @@
+ID: 5507
+Title: Symmetrize equity cases
+Author: root
+Co-authors: 
+Adoption index: 1.7
+
+[Make equity case notification work like criminal case notification.]
+
+Amend Rule 2169 (Equity Cases) be replacing this text:
+
+      The initiation of an equity case begins its pre-trial phase.
+      During the pre-trial phase, the case requires a judge.  In the
+      pre-trial phase the judge SHALL as soon as possible inform all
+      the contracting parties of the case and invite them to submit
+      arguments regarding the equitability of the situation.
+
+with this text:
+
+      The initiation of an equity case begins its pre-trial phase.  In
+      the pre-trial phase the CotC SHALL in a timely fashion inform
+      all the contracting parties of the case and invite them to
+      submit arguments regarding the equitability of the situation.

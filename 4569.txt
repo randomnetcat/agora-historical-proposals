@@ -1,0 +1,33 @@
+ID: 4569
+Title: Replacing Roles with Cards
+Author: Wes
+Co-authors: 
+Adoption index: 2
+
+
+Repeal Rules 1960, 1986 and 2065.
+
+Create a new Rule titled "Cards in Play" with the following text:
+
+      The following Classes of Cards are defined:
+
+      * Caption: Distrib-u-Matic
+        Elements: Budgeted
+        Exploit: Cause any one Proposal to become Distributable.
+
+      * Caption: Absolv-o-Matic
+        Elements: Budgeted, 
+          Limited [Immaculate Players] [1]
+        Exploit: Expunge one Blot from any one entity.
+
+      * Caption: Debate-o-Matic
+        Elements: Budgeted
+        Exploit: Change the Chamber of any one non-Sane Proposal to 
+          the Chamber of your choice, provided it is legal for that 
+          Proposal to be in the named Chamber.
+
+      * Caption: Boost-o-Matic
+        Elements: Budgeted
+        Exploit: Increase any one Team's Team Points by 5.
+        Exploit: Increase any one Team's Team Points by 10 for a Fee 
+          of 1 Kudo.

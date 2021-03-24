@@ -1,0 +1,30 @@
+ID: 5107
+Title: Retroactively colorize VCs
+Author: Murphy
+Co-authors: 
+Adoption index: 3.1
+
+Create a rule titled "Retroactively colorize VCs" with Power = 3.1
+and this text:
+
+      One second after the creation of this rule, each of these
+      players loses all eir Gray VCs, and gains an equal number of
+      VCs of the specified colors (in order, repeating until the
+      correct total gain is achieved):
+
+        bd_        Blue
+        BobTHJ     Green, Red, Green
+        Eris       Red
+        Murphy     Red, Blue, Green, Red, Blue
+        OscarMeyr  Green
+        Quazie     Blue, Red
+        root       Red, Blue
+        Wooble     Blue
+        Zefram     Red, Red, Green, Red, Blue, Red, Red
+
+      For instance, if Murphy had 14 Gray VCs, then e would lose
+      them and gain (R,B,G,R,B, R,B,G,R,B, R,B,G,R) for a total of
+      6 Red, 3 Green, and 5 Blue VCs.
+
+      Two seconds after the creation of this rule, this rule is
+      repealed.

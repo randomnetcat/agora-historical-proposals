@@ -1,0 +1,18 @@
+ID: 5195
+Title: stronger definition of paradox
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2110 to read
+
+      If an inquiry case on the possibility of a rule-defined action
+      or the permissibility of an action results in a judgement of
+      UNDECIDABLE, and that judgement is not appealed within a week,
+      then the initiator of the inquiry case wins the game if e is a
+      player.  This can only occur once per inquiry case.
+
+[The reformed judicial system provides a clear way to indicate a legal
+paradox, so let's use it.  Requiring the use of a CFJ for the win by
+paradox avoids a lot of woolliness in the first clause of the current
+R2110, and also makes it easier to establish who should get the win.]

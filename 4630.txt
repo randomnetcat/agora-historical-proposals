@@ -1,0 +1,29 @@
+ID: 4630
+Title: Crashing the Party
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+"Well, you'll get it. You'll see. The party isn't on yet..."
+-Eris
+
+Create the following rule, entitled "Discord":
+
+   The following card is defined:
+
+     Caption: Chaos Apple
+     Quota:   1
+     Elements: Handed[5], Delayed[7], Kallisti!
+     Exploit: If this card has not been Played in the current
+     quarter, then, as soon as possible after this card is played,
+     the Deckmaster shall simultaneously transfer all cards from
+     non-Deck hands to a temporary Gambler known as Fate.  E shall
+     then deal cards at random from Fate to each Gambler until
+     each Gambler has the same number of cards as e had immediately
+     before Fate took a hand.  If, between the time this card is
+     Played and the time Fate's cards are dealt, exactly a single
+     Player publicly claims to be The Prettiest One, the Deckmastor
+     shall transfer this card to em as soon as possible after Fate's
+     cards are dealt.  The Deckmastor is encouraged use Heisenberg's
+     Law in dealing hands from Fate.

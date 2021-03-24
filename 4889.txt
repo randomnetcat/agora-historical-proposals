@@ -1,0 +1,37 @@
+ID: 4889
+Title: Two more fixes
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1006 (Offices) by replacing this text:
+
+       The Herald shall list the holder of each office,
+
+with this text:
+
+       The Herald's Report shall list the holder of each office,
+
+and by replacing this text:
+
+       than the officer shall publish that information once a month
+
+with this text:
+
+       then the officer shall publish that information at least once a
+       month
+
+Amend Rule 1795 (Order Timing) to read:
+
+       Orders to perform an action shall be satisfied as soon as
+       possible, unless the Order specifies a different time limit.  The
+       minimum time limit is 72 hours after the Order takes effect; any
+       time limit that would be shorter is extended to the minimum.
+
+       If an Order to perform an action is directed to an Office or  
+other
+       position of authority, and the holder of that position changes
+       after the Order takes effect, but before the Order is satisfied,
+       then the time limit is extended (if needed) to one week after the
+       change.

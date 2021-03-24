@@ -1,0 +1,21 @@
+ID: 5258
+Title: Deregistering the absent
+Author: AFO
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2130 (Activity) by replacing each instance of "may" with
+"CAN", and by appending this text:
+
+      A player who has been continuously Inactive for at least three
+      months CAN be deregistered by any other player without objection.
+
+[Does not trigger Rule 869's 30-day limit.  Interestingly, neither
+does Rule 1789.]
+
+Upon the adoption of this proposal, any player who has been continuously
+Inactive for at least three months is deregistered, unless at least one
+player objected to eir deregistration during the voting period of this
+proposal.
+
+[Get a head start on the new policy.]

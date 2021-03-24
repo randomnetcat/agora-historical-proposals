@@ -1,0 +1,12 @@
+ID: 4540
+Title: Boon of Zeitgeist
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Create a new Rule titled "Boon of Zeitgeist" with this text:
+
+        If an Interested Democratic Proposal passes, and no Votes were
+        cast AGAINST it, then the Assessor shall award the Proposor the
+        Boon of Zeitgeist.

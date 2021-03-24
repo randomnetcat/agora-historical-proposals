@@ -1,0 +1,35 @@
+ID: 5396
+Title: Frankenstein's Monster
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled "The Mad Scientist" with this text:
+
+      The Mad Scientist is an office; its holder is responsible for
+      building the Monster.
+
+      At least once each week, the Mad Scientist SHALL:
+
+        a) Randomly select exactly one rule.  If the selected
+           rule is either this rule or the rule "The Monster",
+           then the villagers have shown up with torches and
+           pitchforks; skip directly to proposal submission.
+
+        b) Select one or more contiguous sentences from the
+           selected rule.
+
+        c) Select exactly one noun from the selected text, and
+           replace each instance of that noun with "Monster"
+           (including grammatical variations, e.g. replacing
+           "<noun>'s" with "Monster's").
+
+        d) Submit a proposal, with adoption index equal to the
+           Power of the selected rule, and interest index 0, to
+           append the modified text to the rule "The Monster"
+           (or, if the villagers have shown up with torches and
+           pitchforks, to repeal both that rule and this one).
+
+Create a rule titled "The Monster" with this text:
+
+      Raaaaaaaaaaaaaargh!

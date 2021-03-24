@@ -1,0 +1,29 @@
+ID: 6288
+Title: It Should Be A Real Switch
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2178 (Contract Switches), replace:
+
+      Disclosure is a contract switch with values Private (default) and
+      Public.  Rules to the contrary notwithstanding:
+
+with:
+
+      Disclosure is a contract switch, tracked by the Notary, with
+      values Private (default) and Public.  Rules to the contrary
+      notwithstanding:
+
+and replace:
+
+      Sentiment is a contract switch with values Equitable (default) and
+      Legalistic.  Rules to the contrary notwithstanding, a contract's
+      Sentiment CANNOT be flipped away from Legalistic.
+
+with:
+
+      Sentiment is a contract switch, tracked by the Notary, with values
+      Equitable (default) and Legalistic.  Rules to the contrary
+      notwithstanding, a contract's Sentiment CANNOT be flipped away
+      from Legalistic.

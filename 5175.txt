@@ -1,0 +1,17 @@
+ID: 5175
+Title: Grandfather Appeals
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled "Grandfather Appeals" with this text:
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case, other than an assignment caused by a judgement in an appeal
+      case, CAN be initiated by any player with 2 support.
+
+      At midnight UTC on October 1, 2007, this rule repeals itself.
+
+[A final grace period for those of us who were tripped up by the new
+two-week deadline for appealing a judgement.  I would like to appeal
+CFJs 1697 and 1700; root, I'll support yours as well if this passes.]

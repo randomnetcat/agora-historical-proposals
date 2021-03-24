@@ -1,0 +1,12 @@
+ID: 6353
+Title: s/object/either
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1607 (The Promotor) by replacing the sentence beginning
+"A player CAN flip a specified proposal to Distributable" with
+the following sentence:
+
+      A player CAN flip a specified proposal to Distributable with
+      3 support, or without objection, or by spending 1 Note.

@@ -1,0 +1,19 @@
+ID: 4434
+Title: Action Unit Sanity
+Author: SirToby
+Co-authors: 
+Adoption index: 1
+
+###
+Proposal
+Action Unit Sanity
+
+In Rule 2003, replace the text, "plus 1 for every unit of Land with Gote 
+owned by the Player", with the text, "plus 1 for every unit of Land with 
+Gote owned by the Player at the start of the week".
+
+Also, in Rule 2003, replace the text, "plus 1 for every unit of Land with 
+Gote owned by the Group", with the text, "plus 1 for every unit of Land with 
+Gote owned by the Group at the start of the week".
+
+###

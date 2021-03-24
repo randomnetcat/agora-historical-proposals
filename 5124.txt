@@ -1,0 +1,10 @@
+ID: 5124
+Title: fix disinterest
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by replacing the text "When a proposal's voting index"
+with "When an interested proposal's voting index".
+
+[Disinterest should mean disinterest in both directions.]

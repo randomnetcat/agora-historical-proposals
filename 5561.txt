@@ -1,0 +1,14 @@
+ID: 5561
+Title: Known Gamestate
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Ratify the public document that is archived at
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-June/004412.html>.
+
+Terminate the Gnarlier Contract.
+
+Judgements on CFJs called after this proposal passes
+are appropriate if and only if they would be appropriate
+if the Gnarlier Contract had never been a pledge.

@@ -1,0 +1,21 @@
+ID: 6381
+Title: It's the Thought That Counts
+Author: coppro
+Co-authors: 
+Adoption index: 1.5
+
+Add a new bullet to Rule 1871 (The Standing Court), reading
+{{
+      * Kneeling. Kneeling players are unqualified to judge. Kneeling is
+        a punishment levied on repetitively awful judges.
+}}
+
+Add a new paragraph to Rule 1871 (The Standing Court), reading
+{{
+      Rules to the contrary notwithstanding, a player's posture CANNOT
+      be flipped away from kneeling unless the flip is made by an
+      instrument of sufficient power to perform arbitrary posture
+      changes, or that player has been kneeling for at least 14 days.
+}}
+
+Flip Rodlen's posture to kneeling.

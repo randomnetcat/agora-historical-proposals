@@ -1,0 +1,8 @@
+ID: 5943
+Title: Secure Contestmasters
+Author: woggle
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2136 (Contests) by appending a new paragraph:
+   Changes to contestmaster are secured.

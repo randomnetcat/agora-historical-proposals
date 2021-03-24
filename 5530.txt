@@ -1,0 +1,18 @@
+ID: 5530
+Title: <none>
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2110 by replacing
+      Cleanup procedure:  Each winner satisfying this Winning
+      Condition SHALL, as soon as possible, make a reasonable attempt
+      to resolve the paradox.  The same person can not satisfy this
+      Winning Condition again for the same tortoise or for any other
+      tortoise that was linked to it in assignment.
+with
+      Cleanup procedure: This Winning Condition then CANNOT be
+      satisfied again for any tortoise involving substantially the
+      same paradox.  Each winner satisfying this Winning Condition
+      SHALL, as soon as possible, make a reasonable attempt to resolve
+      the paradox.

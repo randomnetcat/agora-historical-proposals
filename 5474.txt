@@ -1,0 +1,30 @@
+ID: 5474
+Title: Speedier justice
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1871 (The Standing Court) by replacing "within one week"
+with "in a timely fashion".
+
+[No functional change here, just eliminating a hardcoded value.]
+
+Amend Rule 2158 (Judicial Questions) by replacing this text:
+
+      When a judicial question is applicable and open, and its case
+      has the same judge assigned to it, continuously for one week,
+      the Clerk of the Courts CAN recuse that judge with cause by
+      announcement.  When these conditions have all held continuously
+      for two weeks, the Clerk of the Courts SHALL so recuse that
+      judge as soon as possible.
+
+with this text:
+
+      When a judicial question is applicable and open, and its judge
+      has violated a time limit to assign a judgement to it, the Clerk
+      of the Courts SHALL recuse that judge with cause by announcement
+      as soon as possible; however, this requirement is waived if the
+      judge assigns a judgement to it first.
+
+[This eliminates two hardcoded values, and also speeds up the CotC's
+requirement to recuse and reassign.]

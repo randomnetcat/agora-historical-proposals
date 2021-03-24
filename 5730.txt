@@ -1,0 +1,52 @@
+ID: 5730
+Title: Fix the ratification error
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Append the following to the rule entitled "The Monster":
+{{{
+     The eligible Monsters on an ordinary decision are those entities
+     that were active players at the start of its Monsterising period.
+     The Monsterising limit of an eligible Monster on an ordinary
+     decision is eir caste at the start of its Monsterising period, or
+     half that (rounded up) if the Monster was in the chokey at that
+     time.
+}}}
+
+    In Rule 2154, in the second paragraph, replace:
+           this process is known
+           as an election.
+    with
+           this process is known
+           as an election; (c) if there are no consenting nominees and
+           the office is vacant, the IADOP SHALL, as soon as possible,
+           resolve the nomination as Failed by announcement and begin
+           a new nomination period by nominating at least one
+           player to hold the office.
+
+    and at the end of the third paragraph, insert:
+           If at any time during an election there remains only one
+           valid option, the election stops and the IADOP SHALL
+           install the remaining candidate in the office by
+           announcement.
+
+Append the following to the rule titled "The Monster":
+{{{
+     Some types of Monster include a duration known as the tariff.
+     When a Monster with a tariff is in effect, the Monster is
+     active while all of the following are true, inactive otherwise:
+
+     1) It is still in effect.
+
+     2) At least one week has elapsed since it first took effect.
+
+     3) Monsters of the same type on the same question on
+        Monsterisation have been active for a total duration less than
+        the tariff. (That is, if an active Monster is suspended and
+        later reinstated or superseded by a similar Monster, then the
+        defendant gets credit for time served prior to the
+        suspension.)
+
+     The CotC's report includes the status of all active Monsters.
+}}}

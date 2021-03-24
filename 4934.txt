@@ -1,0 +1,8 @@
+ID: 4934
+Title: Herald's report defines address listing
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 1377 by deleting the word "listed".

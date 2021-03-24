@@ -1,0 +1,17 @@
+ID: 6421
+Title: Great Cthulhu
+Author: Pavitra
+Co-authors: 
+Adoption index: 4.0
+
+Create a new Power-4 rule, entitled "Sleeping Cthulhu", with the
+following text:
+     At any time between 23:59 20 December 2012 and 00:01 21 December
+     2012, GMT +1200, the Speaker CAN amend the entire ruleset to read
+     "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn" by
+     announcement.
+
+     If this rule would be amended or repealed by any means other than
+     that specified by itself, then the change is wholly canceled and
+     this rule amends the entire ruleset to read "ph'nglui mglw'nafh
+     Cthulhu R'lyeh wgah'nagl fhtagn".

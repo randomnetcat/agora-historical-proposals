@@ -1,0 +1,9 @@
+ID: 4975
+Title: One Champ To Rule Them All
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+Delete the following text from R1922:
+
+      (d)  Champion, to be awarded to players who win the game.

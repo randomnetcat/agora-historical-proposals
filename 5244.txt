@@ -1,0 +1,14 @@
+ID: 5244
+Title: Water and oil
+Author: Peekee
+Co-authors: 
+Adoption index: 3
+
+Create a Power 3 rule titled "Water and Oil" to read as follows:
+
+Fluid is a switch with values water, oil and emulsion (default).
+Players and rules are the only entities that are fluid. Players are
+only regulated by rules that are the same fluid as them or emulsion.
+
+Fluid for players is tracked by the Registrar and by the Rulekeepor for
+rules.

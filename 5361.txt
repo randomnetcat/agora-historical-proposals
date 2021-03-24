@@ -1,0 +1,34 @@
+ID: 5361
+Title: Dissent!
+Author: Goethe
+Co-authors: 
+Adoption index: 1.7
+
+Dissent!
+
+[I've meant to get around to this for a bit]
+
+[Add standard for CotC getting involved]
+
+Amend Rule 2157 (Judicial Panels) by inserting this text:
+      The CotC SHOULD consent to a majority action if the panel has
+      made a reasonable effort to achieve consensus.
+
+immediately after this text:
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous agreement of the panel's members, or with the
+      majority agreement of the members and the consent of the CotC.
+
+
+Amend Rule 911 (Appeal Cases) by appending this text:
+      In the week after the panel publishes a valid judgement, any
+      panel member may publish a formal Dissenting Opinion with
+      Support.  This Dissenting Opinion becomes a part of the record
+      of the case, and SHOULD aid in interpreting the decision.
+
+[Support doesn't need to come from a panel member.  This shouldn't collide
+with Murphy's consenting opinions.  The "dissent" can happen even if the
+members eventually agreed on a compromise verdict.  If consent and dissent
+are both approved, we can split "consenting and dissenting" into its own
+rule].

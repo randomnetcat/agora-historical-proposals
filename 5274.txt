@@ -1,0 +1,13 @@
+ID: 5274
+Title: Aliens
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled "Aliens" with this text:
+
+      An alien is a non-player who is a member of the basis of one
+      or more contracts (hereafter eir visas).  A resident alien is
+      an alien with one or more registered visas.
+
+[Reporting is already covered by the Notary's report.]

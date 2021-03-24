@@ -1,0 +1,7 @@
+ID: 6380
+Title: transferable points
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2179, remove the word "fixed".

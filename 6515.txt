@@ -1,0 +1,8 @@
+ID: 6515
+Title: No
+Author: ehird
+Co-authors: 
+Adoption index: 1.7
+
+Create N Rests in ais523's possession, where N is 24 subtracted by the
+number of Rests in ais523's possession.

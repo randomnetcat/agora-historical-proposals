@@ -1,0 +1,12 @@
+ID: 5255
+Title: Encourage contests
+Author: AFO
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by appending the following
+to the list of ways to gain and lose VCs:
+
+      (+Y) At the end of each month, for each contest that awarded
+           points to at least three different contestants during
+           that month, the contestmaster gains one Yellow VC.

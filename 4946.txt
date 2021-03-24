@@ -1,0 +1,48 @@
+ID: 4946
+Title: slim the map
+Author: Zefram
+Co-authors: 
+Adoption index: 1.1
+
+
+Amend rule 2105 to appear:
+
+                               ____  _        /|
+                    DARWIN ->  \_  |/ |      / \
+                              __/    /      |  |
+            <- DSV          /      /        |  \
+                        _   \      \_       |   \
+                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER
+                 _ _/       |         \_/\_/     \     REEF
+                / \\ <- SHARK BAY      |         |
+               /            |          |          \ <- TOWNSVILLE
+            ___/            |          |           \_
+         __/                |          |  .___o  )   |
+        /                   |          | ~~vv ===~~~ <-OSCAR'S MIRE
+       /           O <- SHERLOCK NESS  |             |/\
+      |                     |          |               |_
+      |                     |          |  EMERALD ->     \
+      \                     |__________=_____,             \ BRISBANE
+       /                    |                |             | <-'
+       \      O <- LT. ANNE MOORE            |        __  _\
+        \                   |                |_______/  \/ |  LORD
+         |                __/\      <- TARCOOLA           /   HOWE ->
+         \  PERTH      __/    \_             /           /
+          | <-'  _  __/         |   /| IVANHOE ->       | <-.
+          /    _/ \/             \ / /       |         /  WOLLONGONG
+         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+           \_/                         \    | \_    _|
+                  __   __              |    |   \__/
+                 __ \ / __              \___=_  ___|
+                /  \ | /  \     MANUBOURNE -> \/
+                    \|/
+               _,.---v---._                 /\__
+      /\__/\  /            \                |   |
+      \_  _/ /              \                |  /
+        \ \_|           @ __|                \_/ <- HOBART
+         \                \_
+          \     ,__/       /
+        ~~~`~~~~~~~~~~~~~~/~~~~
+
+[This just shifts some labels (and the whale) a bit so that the whole
+thing fits the standard width for rule text.]

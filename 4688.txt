@@ -1,0 +1,23 @@
+ID: 4688
+Title: Honorary Degrees
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Create a new rule titled "Honorary Degrees", with power 2, reading:
+
+      A degree may be awarded by the operation of an adopted Proposal
+      whose Power is at least two to any person who is not registered as
+      a Player and who does not already bear that degree.  The Proposal
+      must specify both the recipient of the degree and the degree to be
+      awarded.  For a degree to be awarded in this manner, the recipient
+      need not complete a Thesis, but all other requirements specific to
+      the degree in question must be satisfied.
+
+      Degrees awarded as described in this rule shall be marked as
+      honorary degrees in the Herald's report.  A person bearing an
+      honorary degree may still be awarded the same degree by other
+      rule-defined mechanisms.  When this occurs, the person shall
+      cease to bear the honorary degree and shall bear the new degree
+      in its place.

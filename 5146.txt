@@ -1,0 +1,164 @@
+ID: 5146
+Title: The Republic of Agora
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Create a rule titled "State Districts" with Power 2 and this text:
+
+      Each player represents exactly one distinct state with the
+      following attributes:
+
+        a) A name, which its representative may set by announcement.
+
+        b) A non-negative integral number of districts, which CANNOT
+           be modified except as specified by this rule.
+
+        c) A non-negative number of planned districts, which CANNOT
+           be modified except by an instrument with power at least
+           as great as that of this rule.
+
+        d) A district baseline, which is five if the state's
+           representative is a first-class player, zero otherwise.
+
+        e) A district minimum, which is one if the state's
+           representative is a first-class player, zero otherwise.
+
+      The Assessor's report includes a list of states and their
+      attributes.
+
+      When a state's number of districts is set to a value, its number
+      of planned districts is set to the same value.
+
+      If a state's number of districts would otherwise be undefined, it
+      is set to its district baseline.
+
+      At the end of each week, each state's number of districts is set
+      to its number of planned districts, rounded to an integer,
+      breaking ties toward odd integers, with a minimum of its
+      district minimum.
+
+      When one or more players win the game, each state's number of
+      planned districts is set to its district baseline.
+
+Change the title of Rule 2156 to "Voting on House Proposals", and amend
+it to read:
+
+      The eligible voters on a House proposal are those entities that
+      were active players at the start of its voting period.  The
+      voting limit of an eligible voter on a House proposal is eir
+      state's number of districts at the start of its voting period,
+      halved (rounding up) if e is in the chokey at that time.
+
+Change the title of Rule 1950 to "Voting on Senate Proposals", and
+amend it to read:
+
+      The eligible voters on a Senate proposal are those entities that
+      were active first-class players at the start of its voting
+      period.  The voting limit of an eligible voter on a Senate
+      proposal is two.
+
+Change the title of Rule 2126 to "In Soviet Russia, the government
+controls commerce", and amend it to read:
+
+      Sheqalim (S, sing. sheqel) are a measure of each player's
+      ability to gerrymander the redistricting process.  S CANNOT
+      be affected except as described in this rule, and CANNOT be
+      possessed by or transferred to a non-player.
+
+      Each S has exactly one color (Gray if not otherwise
+      specified).  Each player's Party is the color of a plurality
+      of eir S, with ties lost by the color(s) that e gained most
+      recently (Gray if this would fail to specify exactly one color).
+
+      The Assessor's report includes each player's S of each color.
+
+      If a player is otherwise specified as losing a color of S that
+      e does not have, then e loses a S of eir Party's color; if e
+      has no S at all, then the loss is waived (you can't get blood
+      from a turnip).
+
+      S may be gained as follows:
+
+        a) When an interested proposal is adopted, its author gains
+           Red S equal to the integer portion of the proposal's
+           adoption index (minus the number of Red S e gained in this
+           way earlier in the same week), and each of its co-authors
+           gains one Red S (unless e gained S in this way earlier in
+           the same week).  If the proposal received no AGAINST votes,
+           its author gains one Zinnwaldite S.
+
+        b) At the end of each month, for each office, the player (if
+           any) who held that office for the majority of that month
+           gains two Green S if it has a weekly report, or one Green S
+           if it only has a monthly report, unless another player
+           deputized for that office during that month while that
+           player held it.
+
+        c) When a player submits a judgement on veracity or culpability,
+           e gains one Blue S, unless e violated a requirement to submit
+           that judgement within a time limit.
+
+      S may be lost as follows:
+
+        a) When a proposal is rejected with a voting index less than
+           half its adoption index, its author loses one Red S.
+
+        b) When an officer forfeits eir salary due to deputization as
+           described above, e loses one Green S.
+
+        c) When a player's judgement is overturned, or e is recused
+           for violating a requirement to submit a judgement within
+           a time limit, e loses one Blue S.
+
+      S may be spent as follows, by announcement (INVALID unless
+      the color is specified):
+
+        a) A player may spend two S of different colors to increase
+           another player's state's planned districts by one.
+
+        b) A player may spend three S of different colors to increase
+           eir own state's planned districts by one.
+
+        c) A player may spend two S of different colors to decrease
+           another player's state's planned districts by one.
+
+        d) A player may spend three S of different colors to decrease
+           another player's state's planned districts by ten percent.
+
+        e) A player may spend two S of the same color to make another
+           player gain one S of that color.
+
+Change the title of Rule 2134 to "Win by Districts", and amend it to read:
+
+      Upon a correct announcement that a state has at least as many
+      districts as all other states combined, that state's
+      representative wins the game.
+
+Amend Rule 106 (Adopting Proposals) by replacing the paragraph
+containing "The adoption index of a proposal is" with this text:
+
+      The adoption index of a proposal is an integral multiple of 0.1,
+      with a minimum value of 1.0.  It may be set by the proposer at
+      the time of submission, or otherwise defaults to the minimum.  A
+      proposal is a House proposal if its adoption index is less than
+      2.0, a Senate proposal otherwise.
+
+Change the title of Rule 2142 to "Senate Procedure", and amend it to read:
+
+      Any player may change a House proposal to a Senate proposal
+      during its voting period with 2 supporters.
+
+unless at least one-third of the players who voted on this proposal
+either voted AGAINST it or objected to the amendment of this rule.
+
+Create a rule titled "House Procedure" with Power 2 and this text:
+
+      Any player may change a Senate proposal to a House proposal
+      during its voting period with 4 supporters.
+
+unless at least one-third of the players who voted on this proposal
+either voted AGAINST it or objected to the creation of this rule.
+
+Amend Rule 2019 (Speaker's Veto and Rubber Stamp) by replacing each
+instance of "Ordinary" with "House".

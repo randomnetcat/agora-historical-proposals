@@ -1,0 +1,18 @@
+ID: 5137
+Title: rectify possibility of numbering
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2161 by replacing "SHALL assign an ID number to it by
+announcement" with "CAN assign an ID number to it by announcement, and
+SHALL do so", and replacing "cannot be changed" with "CANNOT be
+changed", and replacing "officer's report SHALL include" with
+"officer's report includes", and appending to the list the item
+
+      (f) ID numbers CANNOT be assigned to that type of entity except
+          as specified by this rule.
+
+[Make possibility explicit throughout, in MMI terms.  Also a fix for
+the officer's report, to match the semantics used elsewhere in the
+ruleset.]

@@ -1,0 +1,20 @@
+ID: 6280
+Title: Notes for the actual judge
+Author: Tiger
+Co-authors: 
+Adoption index: 2.0
+
+Amend the section in Rule 2126 now reading:
+(
+      (3) (D)  At the end of each week, each player who published at
+               least one on-time judgement during that week gains a
+               number of D Notes equal to the highest interest index
+               among all such cases.
+)
+to read:
+(
+      (3) (D)  At the end of each week, each player who assigned an
+               on-time judgement to at least one case during that week
+               gains a number of D Notes equal to the highest interest
+               index among all such cases.
+)

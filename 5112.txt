@@ -1,0 +1,35 @@
+ID: 5112
+Title: The org chart is not flat
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      b) At the end of each month, for each office, the player (if
+         any) who held that office for the majority of that month
+         gains two Green VCs, unless the Speaker publicly announces
+         within a week after the end of the month that the officer
+         performed eir duties poorly or not at all.
+
+with this text:
+
+      b) At the end of each month, for each office with a report,
+         the player (if any) who held that office for the majority
+         of that month gains two Green VCs (if the office has a
+         weekly report) or one Green VC (if it has only a monthly
+         report), unless the Speaker announces within a week after
+         the end of that month that that player performed that
+         office's duties poorly or not at all.
+
+Amend Rule 1607 (The Promotor) by appending this text:
+
+      The Promotor's report includes a list of all proposals in
+      the Proposal Pool.
+
+Amend Rule 649 (Patent Titles) and Rule 1922 (Defined Regular
+Patent Titles) by replacing "Herald's report" with "Herald's
+monthly report".
+
+Change the title of Rule 2148 to "The Ambassador", and amend it by
+replacing "Ambassador's report" with "Ambassador's monthly report".

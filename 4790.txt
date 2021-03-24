@@ -1,0 +1,18 @@
+ID: 4790
+Title: Looting the comatose
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal Looting the comatose
+
+Replace the following from R 2071
+
+         Exploit: You may indicate one silent player.  All of eir cards
+                 are immediately discarded from their hand.
+
+with
+
+         Exploit: You may indicate one silent or inactive player. 
+           All of eir cards are immediately discarded from their hand.

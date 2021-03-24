@@ -1,0 +1,12 @@
+ID: 5065
+Title: integer scores
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2136 by replacing the text from "is eir score" up to but
+not including the next "." with "is eir score, which is always an
+integer".
+
+[If this is adopted, it overrides "real scores", "algebraic scores",
+and "rational scores".]

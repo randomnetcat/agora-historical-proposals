@@ -1,0 +1,26 @@
+ID: 6671
+Title: Better Degree Awarding
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 1367 (Degrees) in the following ways:
+
+Change the text reading:
+
+      - Each player's voting limit on the decision is three, plus five 
+for each
+        degree e held at that time (the high limit is so as to allow
+        a player to cast votes for different titles and ensure that
+        an inappropriate title is not awarded).
+
+to read:
+
+     - Each player's voting limit on the decision is one.
+
+Add the following text to the bulleted list:
+
+     - Rules to the contrary notwithstanding, the outcome of the
+       decision is the highest degree such that more than half of the
+       valid votes selected that degree or a higher degree. If no such
+       degree exists, the outcome is FAILING GRADE.

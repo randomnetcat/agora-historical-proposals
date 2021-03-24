@@ -1,0 +1,16 @@
+ID: 5155
+Title: The right to a speedier trial
+Author: root
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 by replacing the text reading:
+
+      At any time during the pre-trial phase after the defendant has
+      been informed, the defendant CAN end the pre-trial phase by
+      announcement.
+
+with the text:
+
+      At any time during the pre-trial phase, the defendant CAN end
+      the pre-trial phase by announcement.

@@ -1,0 +1,8 @@
+ID: 6469
+Title: Proposal Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+In rule 106 (Adopting Proposals), remove the sentence that reads "The
+author of a proposal may remove it from the Pool by announcement."

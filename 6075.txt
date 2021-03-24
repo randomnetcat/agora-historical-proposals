@@ -1,0 +1,12 @@
+ID: 6075
+Title: Patch 2321a
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Ratify the alleged history listed in these documents:
+ http://zenith.homelinux.net/cotc/viewcase.php?cfj=2321a
+ http://zenith.homelinux.net/cotc/viewcase.php?cfj=2321
+ http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2009-January/005662.html
+ http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2009-January/005678.html
+ http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2009-January/005693.html

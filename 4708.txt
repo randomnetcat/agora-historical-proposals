@@ -1,0 +1,36 @@
+ID: 4708
+Title: Quack Quack
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend R1922 by deleting the text:
+      (b)  Quack, which may be awarded to any Player who has shown
+           great enthusiasm, persistence, or skill in the production,
+           distribution, and marketing of panaceas and other patent
+           medicines.
+
+And by replacing the text reading:
+
+      (c)  A Patent Title (non-unique) now will
+
+With text reading:
+
+      (b)  A Patent Title (non-unique) now will
+
+And by replacing the text reading:
+
+      (d)  Filthy Bureaucrat, to be awarded to any player who at some
+
+With text reading:
+
+      (c)  Filthy Bureaucrat, to be awarded to any player who at some
+
+And by replacing the text reading:
+
+      (e) Three Months Long Service, Six Months Long Service, Nine
+
+With text reading:
+
+      (d) Three Months Long Service, Six Months Long Service, Nine

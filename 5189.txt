@@ -1,0 +1,37 @@
+ID: 5189
+Title: More MMI
+Author: Levi
+Co-authors: 
+Adoption index: 2
+
+In Rule 2152 replace the following text:
+
+      4. CAN X ONLY IF Y:  Equivalent to "CANNOT X unless Y".  Similar
+         for (MUST, MAY, SHALL, SHOULD) X ONLY IF Y.
+
+      5. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+         described action violates the rule in question.
+
+      6. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+         the described action, the full implications of failing to
+         perform it should be understood and carefully weighed.
+
+with:
+
+      4. CAN: Attempts to perform the described action are successful.
+
+      5. MAY: Performing the described action is permitted.
+
+      5. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+         described action violates the rule in question.
+
+      6. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+         the described action, the full implications of failing to
+         perform it should be understood and carefully weighed.
+
+[[[
+I think CAN X ONLY IF Y belongs in a proposal similar to 5171, rather than
+in this rule which concerns itself with word and simple phrase definition.
+
+MAY and CAN are useful definitions (MAY is used in rule 1067 already)
+]]]

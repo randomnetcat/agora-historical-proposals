@@ -1,0 +1,17 @@
+ID: 6625
+Title:  Proposals must obey security
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 106 by replacing this text:
+
+     Preventing a proposal from taking effect is a secured change.
+
+with this text:
+
+     Preventing a proposal from taking effect is a secured change;
+     this does not apply to generally preventing changes to specified
+     areas of the gamestate, nor to a proposal preventing itself from
+     taking effect (its no-effect clause is generally interpreted as
+     applying only to the rest of the proposal).

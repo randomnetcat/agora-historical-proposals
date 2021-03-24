@@ -1,0 +1,28 @@
+ID: 6552
+Title: Clear up Implicit Actions
+Author: copproh
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 478 (Fora) by appending the following:
+{{
+   Alternately, an action that CAN be performed "by announcement" can
+   instead be performed by the performance of another action (including
+   causing another entity to act) which is clearly and unambiguously
+   defined in and allowed by a Rule or public contract to cause the
+   first action to be performed. In the case of a public contract
+   defining the second action, the entity that performs the first
+   action must either be a member of the contract, or the contract
+   itself.
+}}
+
+Amend rule 1742 (Contracts) by appending the following to the first paragraph:
+{{
+   A contract has a number of persons who are party to that contract
+and bound to it, as defined by other rules. Non-persons cannot be
+party to a contract.
+}}
+
+[Note: This allows non-person contracts to act where allowed by their
+own text. I don't think this is gamebreaking at all, since the number
+of such actions that are possible are limited.]

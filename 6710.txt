@@ -1,0 +1,13 @@
+ID: 6710
+Title: Rewards
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Enact a new Rule entitled "Rewards" at power 2 with the following text:
+       Whenever a player judges a case, e earns an number of farads
+       equal to its interest index.
+
+       Whenever a proposal is adopted, its author earns a number of
+       farads equal to its interest index.

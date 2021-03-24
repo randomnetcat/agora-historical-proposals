@@ -1,0 +1,31 @@
+ID: 4848
+Title: Remove Some Cards
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Remove Some Cards
+
+Amend the Onepower Cardbook as follows:
+
+   Change the Limited Exploit to read:
+      * Limited [X a type of entity] [Y a positive integer]: If you
+        are not an X, treat this card as if it were Costly[Y].
+
+   Change the Costly Exploit to read:
+      * Costly [ Y a positive integer]: You must discard Y cards to
+        play this card.  For each of these discards, you
+        may substitute one of your existing pending draws which
+        is then considered satisfied.
+
+   Remove the descriptions of the following cards:
+     Not Your Turn
+     Two for One
+     Chaos Reborn
+     Greedy Bastard
+     Charity Brings Happiness
+     Thieves in the Night
+     Instant Gratification
+     Instant Punishment
+     Instant Millionaire

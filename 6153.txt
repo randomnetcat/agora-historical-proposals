@@ -1,0 +1,21 @@
+ID: 6153
+Title: Patch Bug 6121
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Champion's Contests by replacing
+{{
+     A contest's contestmaster CAN transfer ownership of or destroy a
+     Medal in that contest's possession, but only as explicitly
+     described by the contest's text; one exception to this is that a
+     contest CANNOT transfer a Medal to its contestmaster.
+}}
+with
+{{
+     A contest's contestmaster CAN transfer ownership of or destroy a
+     Medal in that contest's possession, but only as explicitly
+     described by the contest's text. A Medal CANNOT be transferred
+     from a contest to a player who is not a party to that contest, nor
+     to its contestmaster.
+}}

@@ -1,0 +1,24 @@
+ID: 5336
+Title: Distributed VC and Mark announcement
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by appending this text:
+
+      VC awards and penalties SHALL be announced, as soon as possible
+      after they occur, by the following officers:
+
+        Assessor    - Red, Orange
+        IADoP       - Green, Cyan
+        CotC        - Blue, Black
+        Registrar   - White
+        Herald      - Violet, Indigo
+        Scorekeepor - Yellow
+        Accountor   - all others
+
+Amend the rule "Marks" by appending this text:
+
+      Mark awards and penalties SHALL be announced, as soon as possible
+      after they occur, by the officer required to announce VC awards of
+      the same color.

@@ -1,0 +1,8 @@
+ID: 5304
+Title: Contracts are a subset of agreements
+Author: root
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2136 (Contests) by replacing each instance of the word
+"agreement" with "contract".

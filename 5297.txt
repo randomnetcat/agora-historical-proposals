@@ -1,0 +1,18 @@
+ID: 5297
+Title: root is a Cretan
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2110 (Win by Paradox) to read:
+
+      If an inquiry case on the possibility of a prior or hypothetical
+      rule-defined action, or the permissibility of a prior or
+      hypothetical action, results in a judgement of UNDECIDABLE, and
+      the judgement is not appealed within a week (or is upheld via an
+      appeal decision of AFFIRM), then the initiator of the inquiry
+      case wins the game by paradox if e is a player.  This can only
+      occur once per inquiry case.
+
+Upon the adoption of this proposal, root would gain the Patent Title of
+Scamster, except that e already bears it.

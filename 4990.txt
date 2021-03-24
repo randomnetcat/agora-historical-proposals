@@ -1,0 +1,15 @@
+ID: 4990
+Title: truthfulness
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with title "Truthfulness" and text:
+
+      Players are prohibited from deliberately or recklessly making
+      false statements in any public message.  Merely quoting a false
+      statement does not constitute making it for the purposes of this
+      rule.  Any disclaimer, conditional clause, or other qualifier
+      attached to a statement constitutes part of the statement for
+      the purposes of this rule; the truth or falsity of the whole is
+      what is significant.

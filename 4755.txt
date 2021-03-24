@@ -1,0 +1,21 @@
+ID: 4755
+Title: Agoran Contracts
+Author: Manu
+Co-authors: 
+Adoption index: 2
+
+
+Create a new Rule entitled "Agoran Contracts" which reads as follow:
+
+      There exists a type of Contract known as Agoran Contract. An
+      Agoran Contract is a Contract between any two entities. An
+      Agoran Contract may only be created or amended by a Proposal and
+      becomes effective when the Proposal takes effect. Unless
+      otherwise specified in the Rules or Regulations, All Players are
+      automatically Members of Agoran Contracts and no Player may
+      leave an Agoran Contract.
+
+      All Rules regulating Contracts that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
+
+      The ADoP is required to keep track of all Agoran Contracts.

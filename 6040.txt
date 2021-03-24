@@ -1,0 +1,10 @@
+ID: 6040
+Title: Scam reset
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+If ais523 and comex won by points in the month of December, ratify the
+Scorekeepor's Report that was quoted in the message that first published
+this proposal, under the assumption that all the scores in it are
+unconditionally correct. Otherwise, do nothing.

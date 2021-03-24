@@ -1,0 +1,201 @@
+ID: 4995
+Title: Economy
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Create a rule called "Certification" with Power 1 that reads:
+
+{
+A Player who performs one of the following actions without being certified
+for that action has er Voting Limit on Ordinary Proposals reduced by two (to
+a minimum of 0):
+* Submitting a ballot for distributed proposals
+* Supporting or opposing a dependent action
+* Submitting a proposal for distribution
+
+Players become certified for an action by obtaining a Certificate. A
+Certificate is owned by a player, but is not Property and may not be traded
+or exchanged. Each Certificate allows a Player to perform one specific type
+of action. Each certificate has an expiration date. The holder of a
+Certificate may exercise the action specified in the certificate freely
+while that Certificate is valid, unless constrained by another rule or
+binding agreement. When the expiration date of a Certificate is reached, it
+becomes invalid and ceases to exist.
+
+A Player may hold any number of Certificates, and holding a Certificate does
+not prevent another Player from holding a Certificate of the same type.
+}
+
+Create a rule called "Licenses" with Power 1 that reads:
+{
+Certain activities that are regulated under Agoran law require a license.
+These activities can only be conducted by an Agoran Player who holds a
+license for that activity. Any Agoran Player may purchase a License for one
+of the activities regulated by this rule by making an announcement to the
+Public Forum and paying the cost of that License in Currency to the Agoran
+Treasury.
+
+Each License has an Initial Cost to purchase, and in addition each License
+requires a monthly Renewal Fee to be paid to the Agoran Treasury. If a
+Player wishes to renew a Licence, e may pay the renewal fee to the Agoran
+Treasury as soon as possible after the beginning of a new month. If e
+doesn't, e loses that License and if e wishes to become re-licensed in that
+activity again, e shall have to pay the initial license purchase fee.
+
+The Secretary of the Treasury may change the Initial Cost and/or the Renewal
+Fee of any license with Agoran Consent.
+
+A License is owned by a Player, but is not Property and may not be
+transferred. A Player may hold as many Licenses as e wishes, and each
+License is available to all Agoran Players to purchase, unless otherwise
+specified in another rule with power equal to or higher than the power of
+this rule.
+
+The following Licenses are available for purchase:
+
+Voter Certification License
+A Player holding this license can (by announcement) issue a Voter's
+Certificate to any Player. This Certificate must have an expiration date no
+further than one week beyond the date of issue. The holder of a Voter's
+Certificate is certified to submit ballots on distributed Proposals.
+
+Dependent Action License
+A Player holding this License can (by announcement) issue a Supporter's
+Certificate or an Objector's Certificate to any Player. This Certificate
+must have an expiration date no further than one week beyond the date of
+issue. The holder of a Supporter's Certificate may support any dependent
+action and the holder of an Objector's Certificate may object to any
+dependent action.
+
+Proposer Certification License
+A Player holding this License can (by announcement) issue a Proposer's
+Certificate to any Player. This Certificate must have an expiration date no
+further than one week beyond the date of issue. The holder of a Proposer's
+Certificate may submit proposals for distribution.
+
+Contractor's License
+A Player holding this License can (by announcement) create one Land as
+described in the rule Land Ownership, as long as e has not done so within
+the past week.
+
+Digit Farming License
+A Player holding this License can (by announcement) "farm" Digit Ranches e
+owns, as described in the rule Land Ownership, as long as e has not done so
+within the past week.
+
+Equator's License
+A Player holding this License can (by announcement) process equations using
+eir Equation Factories, as described in the rule Land Ownership.
+
+Demolitions License
+A Player holding this License can (by announcement) destroy any one Land
+owned by any Player, as long as e has not done so within the past week.
+
+Broker's License
+A Player holding this License is known as a Broker. A Player holding this
+License can (by announcement) validate a Bill of Sale.
+}
+The Initial Cost of each License is set to $2,500, and the Renewal Fee for
+each License is set to $1,000.
+
+Create a rule called "Digits" with Power 1 that reads:
+
+{
+Digits are a type of Property that may be owned by Players. There are ten
+types of Digits, represented by the numbers 0 through 9. All Digits of the
+same numerical value are fungible.
+
+After an Ordinary Proposal is distributed, but before voting ends, any
+Player may destroy digits e controls corresponding to the digits in the
+number of that proposal by announcement. This has the effect of increasing
+eir Voting Limit on that Proposal by two. This action may be performed
+multiple times by the same Player for the same Proposal.
+
+A Player may destroy one digit he controls of each of the ten digit types by
+announcement. If e does, e gains 1 VC.
+
+When a Judge issues a judgment on a CFJ, e may (once per CFJ) destroy digits
+e controls corresponding to the digits in the number of the CFJ. If e does,
+the Agoran Treasury pays em $1000.
+
+As soon as possible after a new rule is added to the ruleset, a Player may
+(once per rule) destroy digits e controls corresponding to the digits in the
+number of that new rule. If e does, e gains 1 VC.
+
+Digits destroyed to fulfill one of the above requirements are only valid to
+fulfill that sole requirement. They may not also be used to fulfill other
+requirements of the same or different type.
+}
+
+Create a rule called "Land Ownership" with Power 1 that reads:
+{
+Land is a type of non-fungible Property. A Magnate may name a specific Land
+it owns by announcement.
+
+Land may not be transferred voluntarily (unless specifically permitted in
+another rule) except by a Bill of Sale. A Bill of Sale is a type of Transfer
+Notice that is inherently invalid unless validated by a Broker.
+
+A Digit Ranch is a type of Land. Each Digit Ranch produces a single type of
+Digit, determined at the time the Digit Ranch is created by its creator. A
+Digit Ranch's digit type may not be changed. When a Magnate owning a Digit
+Ranch "farms", one digit of the same type as the Digit ranch is created and
+given to that Magnate.
+
+An Equation Factory is a type of Land. An Equation factory consists of a
+mathematical equation containing three variables (represented by the capital
+letters X, Y, and Z). An Equation Factory's equation is determined at the
+time it is created and it may not be changed. At any time, the owner of an
+Equation Factory, if e holds an Equator's License, may use any three digits
+e owns to 'Process Equations' by announcement:
+1. E substitutes those digits into the equation in place of the Variables.
+2. E solves the equation to obtain a result between 0 and 99 inclusive.
+3. The original digits are destroyed and e receives two newly created
+digits, one for each digit in the resulting number (adding a leading zero if
+needed to obtain a two digit number)
+If, when solved, an equation produces a number that is not in the range of 0
+to 99 that Equation Factory is destroyed.
+}
+
+Create a rule titled "Auctions" with Power of 1 and this text:
+{
+A Magnate may declare one or more amounts and types of Property it owns
+(except for Currency) as "Up for Auction" by announcement. The Property or
+Properties declared up for auction are collectively known as the Lot. The
+Magnate putting the Lot up for auction is known as the Seller. The Magnate
+must designate a Broker, that Broker is known as the Auctioneer.
+
+Any Magnate except the Seller may make a Bid on a Lot by announcement. A Bid
+must include a specific amount of Currency that is less than or equal to the
+amount of Currency that Magnate owns.
+
+The Auctioneer may declare the auction closed at any time by announcement.
+When e does e may optionally select a winning bid from among those bids
+received on that Lot. If e does, then the Magnate that made that bid pays
+the amount of Currency specified in that Bid to the Seller, and the Seller
+pays the Lot to the Magnate who made the winning Bid.
+
+The Secretary of the Treasury may act on behalf of the Agoran Treasury to
+designate any Property or Properties owned by the Agoran Treasury as Up for
+Auction, and may specify a Broker to serve as Auctioneer for that auction.
+
+If an Auctioneer has not selected a winning bid after one week, that auction
+is closed without a winning bid.
+}
+
+Create a rule titled "Welfare" with Power of 1 and this text:
+{
+The Unemployment Stipend is an amount of Currency.
+
+At the beginning of each week, after Officer salaries are paid, the Agoran
+Treasury pays an amount equal to the Unemployment Stipend to each Magnate
+that meets the following conditions:
+1. The Magnate is a natural person.
+2. The Magnate possesses no Licenses
+3. The Magnate owns no Land
+
+The Secretary of the Treasury may change the Unemployment Stipend to a new
+amount with Agoran Consent.
+}
+The Unemployment Stipend is set to $200.

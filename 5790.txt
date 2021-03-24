@@ -1,0 +1,18 @@
+ID: 5790
+Title: Clarify personhood
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2150 (Personhood) by replacing this text:
+
+     Any biological organism that is capable of communicating by
+     email in English is a person.
+
+with this text:
+
+     Any biological organism that is generally capable of
+     communicating by email in English (including via a translation
+     service) is a person.
+
+[Temporary lack of email access does not entail loss of personhood.]

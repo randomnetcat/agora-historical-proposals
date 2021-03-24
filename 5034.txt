@@ -1,0 +1,9 @@
+ID: 5034
+Title: Agoran Protectorate
+Author: root
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled "Agoran Protectorate", reading:
+
+     Agora hereby submits to Agora as its benevolent protector.

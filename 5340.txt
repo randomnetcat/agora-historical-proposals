@@ -1,0 +1,14 @@
+ID: 5340
+Title: Distinct Colors
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2
+
+In R2126 replace each occurrence of the phrase:
+{{
+VCs of different colors
+}}
+with:
+{{
+VCs, each of a color distinct from the rest,
+}}

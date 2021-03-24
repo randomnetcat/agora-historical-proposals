@@ -1,0 +1,46 @@
+ID: 5151
+Title: Judicial Recusal Clean-Up
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 by replacing the text reading:
+
+      c) A player who is recused from a judicial case because a
+         judicial question has remained applicable, open, and unjudged
+
+with:
+
+      c) A player who is recused from a judicial case with cause
+
+
+Amend Rule 1868 by appending to the first paragraph this text:
+
+      A recusal is without cause unless stated otherwise in the rules.
+
+
+Amend Rule 2158 by replacing the text reading:
+
+      Whenever a judicial case has a judicial question that has
+      remained applicable and open, while the same judge has been
+      assigned to the case, continuously for the past week, the CotC
+      CAN recuse that judge by announcement.
+
+with:
+
+      Whenever a judicial case has a judicial question that has
+      remained applicable and open, while the same judge has been
+      assigned to the case, continuously for the past week, the CotC
+      CAN recuse that judge with cause by announcement.
+
+
+Amend Rule 2164 by replacing the text reading:
+
+      The judge of a judicial case CAN recuse emself from it at any
+      time by announcement.
+
+with:
+
+      The judge of a judicial case CAN recuse emself from it at any
+      time by announcement.  If e has been assigned to the case for
+      at least four days, such a recusal is with cause.

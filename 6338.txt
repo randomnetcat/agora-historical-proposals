@@ -1,0 +1,16 @@
+ID: 6338
+Title: FAGE across the ages
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1789 (Cantus Cygneus) by replacing this text:
+
+                          The Registrar shall note the method of
+      deregistration for that Player in subsequent Registrar Reports,
+      as long as the Player remains deregistered.
+
+with this text:
+
+                          The Registrar shall note the method of
+      deregistration for that Player in subsequent Registrar Reports.

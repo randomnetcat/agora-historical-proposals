@@ -1,0 +1,26 @@
+ID: 5584
+Title: It wasn't that interesting anyway
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+Repeal rule 2153.
+
+In rule 1607, amend "its interest index" to
+{{{
+whether it is disinterested or interested (it is disinterested if and
+only if its proposer said it was in the message that submitted it, and
+otherwise interested).
+}}}
+
+Remove paragraph 5 of rule 2126.
+
+Replace paragraph d of rule 2192 with this:
+{{{
+      d) Submit a disinterested proposal, with adoption index equal to
+         the Power of the selected rule, to append the modified text
+         to the rule "The Monster" (or, if the villagers have shown up
+         with torches and pitchforks, to repeal both that rule and this
+         one).  This proposal counts as the Mad Scientist's weekly
+         report if/when it is adopted.
+}}}

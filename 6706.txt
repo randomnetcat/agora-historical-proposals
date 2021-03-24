@@ -1,0 +1,10 @@
+ID: 6706
+Title: Obvious Time Limit
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+PROPOSAL TEXT:
+Amend rule 2168 (Extending the voting period) by retitling it to
+(Extending the Voting Period) and by inserting "as soon as possible"
+after "SHALL issue a humiliating public reminder".

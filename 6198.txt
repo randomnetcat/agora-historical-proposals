@@ -1,0 +1,55 @@
+ID: 6198
+Title: Depower winning
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2186 (Victory) to read:
+
+      Winning Conditions and Losing Conditions are conditions defined
+      as such by the rules.  When one or more persons satisfy at least
+      one Winning Condition and do not satisfy any Losing Conditions,
+      all such persons win the game.  The game CANNOT be won in any
+      other way, rules to the contrary notwithstanding.
+
+      Each Winning Condition should (if needed) specify a cleanup
+      procedure to prevent an arbitrary number of wins arising from
+      essentially the same conditions.  When one or more persons win
+      the game, for each Winning Condition satisfied by at least one
+      of those persons, its cleanup procedure occurs.
+
+      A win announcement is a correct announcement explicitly labeled
+      as a win announcement and/or clearly stating that one or more
+      persons win the game.
+
+Create a rule titled "The Games of Agora" with this text:
+
+      When used as a period of time, a "game" is the period of time
+      between one instant at which at least one person won the game,
+      and the next such instant. The "first game" was the period of
+      time prior to the first instant at which a person won the game.
+
+Create a rule titled "Win by Not Losing" with this text:
+
+      While a player is the only active first-class player not to
+      satisfy at least one Losing Condition, e satisfies the Winning
+      Condition of Solitude.
+
+      Cleanup procedure:  The same person cannot satisfy this Winning
+      Condition again until at least one other player ceases to
+      satisfy any Losing Condition.
+
+Change the power of these rules to 1:
+  2110 (Win by Paradox)
+  2199 (Ribbons)
+  2223 (Win by Junta)
+  2188 (Win by Proposal)
+  2179 (Points)
+  2136 (Contests)
+  2232 (Contest Axes)
+  2233 (Awarding and Revoking Points)
+  2242 (Champion's Contests)
+  2234 (Rewarding Contestmasters)
+  2187 (Win by High Score)
+
+[Musicianship and Clout omitted because they're related to castes]

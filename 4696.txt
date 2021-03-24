@@ -1,0 +1,41 @@
+ID: 4696
+Title: Sherlock smells, but at least he fixed my errors
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Repeal Rules 1678 and 2061
+
+Create a new rule entitled "The Assessor's Boon Duties" with the following text:
+
+        * If a Proposal passes, and that Proposal was submitted by a
+          Player within that Player's Grace Period, then the Assessor
+          shall award the Proposor the Boon of Prodigy.
+
+        * If an Interested Democratic Proposal passes, and no Votes
+          were cast AGAINST it, then the Assessor shall award the
+          Proposor the Boon of Zeitgeist.
+
+        * If a proposal submitted on Guy Fawkes Day is adopted then the 
+          Assessor shall award the proposer the boon of a penny.
+
+Remove the following from R2060
+
+      If a Proposal so submitted is subsequently adopted, the Assessor
+      shall award the Proposer the Boon of A Penny.
+
+Create a new rule entitled " Ephemeral Time Limits" with the following text:
+
+      If an Ephemeral Patent Title is earned between one week before
+      the designated end of the last Quarter and one week before the
+      end of the current Quarter then it must be awarded before the
+      turning of a new parchment.  For every one of these Ephemeral
+      Patent Titles that has not been awarded by the end of the turning 
+      whomever is responsible for awarding the Ephemeral Patent 
+      Title commits the Class .1 Infraction of Ephemeral Nondisclosure
+      which in the case of Boons is reportable by whomever did not
+      receive eir Boon, or for Albatrosses any player.
+
+      The announcement that a proposal does not earn the proposer the
+      Boon of Tapecutter must also follow these time restrictions.

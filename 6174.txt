@@ -1,0 +1,16 @@
+ID: 6174
+Title: Ratification Accuracy
+Author: woggle
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2202 (Ratification Without Objection) by appending a new
+paragraph:
+{{
+     A player SHALL NOT knowingly use or announce intent to use
+Ratification Without Objection to ratify
+     a (prior to ratification) incorrect document when a corrected
+document could be produced with reasonable
+     effort. Such ratification or announcement of intent to ratify is
+the Class-8 Crime of Endorsing Forgery.
+}}

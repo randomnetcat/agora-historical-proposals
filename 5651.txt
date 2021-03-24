@@ -1,0 +1,11 @@
+ID: 5651
+Title: Left in a lull
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+Add the following to R1922:
+" (h) Left in a Lull, to be awarded to any player who, after at least
+6 months of activity, suddenly stops playing agora.  This patent title
+shall be awarded by the Registrar after a player of this sort is
+deregisterd due to inactivity"

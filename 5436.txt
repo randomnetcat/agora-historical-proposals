@@ -1,0 +1,47 @@
+ID: 5436
+Title: Refactor appeals
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case within the past two weeks, other than an assignment caused
+      by a judgement in an appeal case, CAN be initiated by any player
+      with 2 support.
+
+with this text:
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case within the past two weeks CAN be initiated by any player
+      with 2 support.  However, rules to the contrary notwithstanding,
+      an appeal CANNOT be initiated concerning an assignment caused by
+      a judgement in an appeal case, nor an assignment for which an
+      appeal has already been initiated.
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+      An appeal concerning any assignment of judgement in a criminal
+      case within the past week, other than an assignment caused by a
+      judgement in an appeal case, CAN be initiated by the defendant
+      by announcement.
+
+with this text:
+
+      An appeal concerning any assignment of judgement in a criminal
+      case within the past week CAN be initiated by the defendant by
+      announcement.
+
+Amend Rule 2169 (Equity Cases) by replacing this text:
+
+      An appeal concerning any assignment of judgement in an equity
+      case within the past week, other than an assignment caused by a
+      judgement in an appeal case, CAN be initiated by any party to
+      the contract in question by announcement.
+
+with this text:
+
+      An appeal concerning any assignment of judgement in an equity
+      case within the past week CAN be initiated by any party to the
+      contract in question by announcement.

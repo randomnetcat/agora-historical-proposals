@@ -1,0 +1,35 @@
+ID: 6158
+Title: Rule Change Rights
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend R101(The Rights of Agorans) by replacing:
+       iv. Every person has the right to not be considered bound by
+           an agreement, or an amendment to an agreement, which e has
+           not had the reasonable opportunity to review.
+
+with:
+       iv. Every person has the right to not be considered bound by
+           an agreement, or an amendment to an agreement, or a Rule
+           Change, which e has not had the reasonable opportunity to
+           review.  For the purpose of protecting this right, a
+           rule change which would otherwise take effect without its
+           substance being subject to general player review through a
+           reasonably public process is wholly prevented from taking
+           effect.
+
+[This would have blocked e.g. comex's "change the proposal text at the
+last second" scam.  While that specific bug has been fixed, this
+elevates the fix to prevent such scams generally (other past examples
+included bugs that ended the voting period right after it started).
+
+This also means that the scam goal text of "X can change the rules by
+announcement" would no longer function, even if written into a power-3
+rule.  Though "X can change the rules by giving 4 days notice" or
+somesuch would probably suffice.  So if you get a power-3 scam, you'd
+have to make a slightly cleverer power grab.
+
+Historical note:  during the time period when the rules were
+unarguably considered an agreement, this protection was there, so
+it's not new.]

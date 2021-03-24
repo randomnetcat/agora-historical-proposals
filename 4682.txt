@@ -1,0 +1,18 @@
+ID: 4682
+Title: absolve-o-mo-matic
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: absolve-o-mo-matic
+
+Amend Rule 2067 by replacing the text:
+        Elements: Budgeted,
+                  Limited [Immaculate Players] [1]
+        Exploit: Expunge one Blot from any one entity.
+with:
+        Elements: Budgeted
+        Exploit: If you are immaculate, you may expunge
+        N blots from an entity for a fee of N-1.  Otherwise,
+        you may expunge one blot from an entity for no fee.

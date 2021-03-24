@@ -1,0 +1,21 @@
+ID: 5731
+Title: Loss of Privileges
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 101 by removing every occurrence of the phrase 
+"or privileges".
+
+Amend Rule 101 by removing the sentence "A person's defined privileges
+      are assumed to exist in the absence of an explicit, binding
+      agreement to the contrary."
+
+Amend Rule 101 by replacing the paragraph labeled i. with the 
+following paragraph:
+
+      i. Every person has the right, though not necessarily the
+         ability, to perform actions that are not prohibited or
+         regulated by the Rules, with the sole exception of 
+         changing the Rules, which is permitted only when the 
+         Rules explicitly or implicitly permit it.

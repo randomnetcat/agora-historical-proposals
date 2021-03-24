@@ -1,0 +1,10 @@
+ID: 4992
+Title: Quorum fix
+Author: Goddess Eris
+Co-authors: 
+Adoption index: 1
+
+Add the following paragraph to the end of Rule 879 (Quorum):
+
+    Voters whose voting limit is less than one are not considered
+    eligible for the purposes of this rule.

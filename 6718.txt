@@ -1,0 +1,23 @@
+ID: 6718
+Title: Simplify NoVs
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:Amend Rule 2230 (Notices of Violation) by replacing
+       A player CAN publish a Notice of Violation (with N support,
+       where N is the number of valid un-Closed Notices of Violation e
+       previously published during the same week, or by announcement if
+       N is zero) alleging that a single entity (the Accused) has
+       broken a Rule.  A notice of violation is invalid if it lacks any
+       of the following information, and the lack is correctly
+       identified within one week after the notice is published:
+with
+       A player CAN publish a Notice of Violation (NoV) for a fee of N
+       ergs, where N is the one half of the number of valid NoVs e
+       previously published during the same week, rounded down. An NoV is
+       invalid if it lacks any of the following information, and the
+       lack is correctly identified within one week after the NoV is
+       published:
+and by replacing each subsequent instance of "Notice of Violation" or
+"Notice" in that rule with "NoV".

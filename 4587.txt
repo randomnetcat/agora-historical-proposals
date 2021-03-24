@@ -1,0 +1,20 @@
+ID: 4587
+Title: Players for the Ethical Treatment of Albatrice
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+If Rule 2050 (The Garden) exists, amend it by removing this text:
+
+      If there are no Players that hold at least one Weed or Daffodil,
+      the Herald may repeal this Rule without Objection.
+
+If Rule 2050 (The Garden) does not exist, create a Rule titled
+"The Garden" with Power=2 and this text:
+
+      A Daffodil is a Boon that may be awarded as the Rules specify or
+      by an Instrument of Power 2 or greater.
+
+      A Weed is an Albatross that may be awarded as the Rules specify
+      or by an Instrument of Power 2 or greater.

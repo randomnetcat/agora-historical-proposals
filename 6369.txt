@@ -1,0 +1,30 @@
+ID: 6369
+Title: Fixed Contest Point Limits
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.0
+
+Amend R2233 to read:
+{{
+Each contest has a threshold index (default: 5). Any player CAN set a
+contest's threshold index to any non-negative integer value without
+three objections.
+
+The contestmaster of a contest CAN and SHALL award and revoke points
+as directed by that contract up so long as the total number of points
+awarded or revoked on any axis do not exceed that contest's threshold
+index. Awards and revocations that counteract a previous award or
+revocation for that contest that was not in accordance with it's
+contract or that exceeded the contest's threshold index do not count
+against this limit.
+}}
+
+Upon the adoption of this proposal set the threshold limit of each
+contest to the below values:
+{{
+Enigma: 20
+FRC: 20
+Agoran Agricultural Association: 100
+Cookie Jar: 20
+Three-Scroll Rodney: 30
+}}

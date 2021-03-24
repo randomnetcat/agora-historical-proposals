@@ -1,0 +1,13 @@
+ID: 6171
+Title: Fix rests
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2228 (Rests) by replacing "Rests are a fixed asset."
+with "Rests are a fixed currency."
+
+Ratify the public document archived at
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2009-March/005985.html
+
+[Insulator's Report of March 25, 2009]

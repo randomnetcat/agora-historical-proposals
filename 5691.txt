@@ -1,0 +1,15 @@
+ID: 5691
+Title: The Kindly Mob
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Enact a rule titled "The Angry Mob", reading:
+
+      As soon as possible after this rule is enacted, the Mad
+      Scientist SHALL randomly choose an integer from 1 to the number
+      of eligible voters on this proposal plus the number of distinct
+      voters who voted FOR this proposal. If the chosen integer is
+      less than or equal to the number of distinct voters who voted
+      AGAINST this proposal, then Rules 2192 and 2193 are repealed.
+      When an integer is so chosen, this rule repeals itself.

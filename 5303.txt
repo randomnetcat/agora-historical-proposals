@@ -1,0 +1,26 @@
+ID: 5303
+Title: Generalized basis sets
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2150 (Personhood) by appending the text:
+
+      The basis of a a first-class person is the singleton set
+      consisting of that person.
+
+
+Amend Rule 2145 (Partnerships) by replacing the text reading:
+
+      A partnership's basis is the set consisting of the union of the
+      set of its non-partnership members with the bases of each of its
+      partnership members.  Where circularity occurs in this
+      definition, it is resolved by using the minimum basis sets that
+      provide consistency.
+
+with:
+
+      A partnership's basis is the set consisting of the union of the
+      the bases of each of its members.  Where circularity occurs in
+      this definition, it is resolved by using the minimum basis sets
+      that provide consistency.

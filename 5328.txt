@@ -1,0 +1,83 @@
+ID: 5328
+Title: First-class contests
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Final version:
+    - Went back to contestmaster model, first-class players only;
+    - Contract may change freely (subnomics allowed), but added a
+      requirement of public posting of public contract changes.
+      Allows for speedy changes, but still public review.  A quick
+      contest change from a  "real contest" to a scam probably results
+      in the scammers getting a week's worth of points, then the
+      non-scammers decertifying the contest.  Necessary and hopefully
+      minor evil.
+
+Amend Rule 2136 (Contests) to read:
+
+      A first-class player who is a member of an existing public contract
+      CAN make the contract into a Contest, with emself as the sole
+      contestmaster, without 3 objections, provided e is not the
+      contestmaster of another contest.  Another first-class player
+      who is a member may replace the current contestmaster as the sole
+      contestmaster without 3 objections, but only as explicitly
+      described in the contest regulations and provided e is not the
+      contestmaster of another contest.
+
+      Any player may make a contest cease to be a contest without 3
+      objections.  Players SHOULD decide on whether a contract deserves
+      to be a contest based on its fairness or interest to players as
+      a whole.
+
+      The total number of points a Contest MAY award in a given week
+      is equal to 5 times the number of its members that are first-
+      class players.  Points up to this total CAN be awarded by the
+      contestmaster to other members by public announcement, and MUST
+      be awarded as explicitly described in the contract.
+
+Create the following rule, "Public Contracts":
+
+      A member of a contract CAN identify the contract as a public
+      contract by publishing its text with a notice of intent
+      from the contract be a public contract.  The notice of
+      intent MUST consist of one or more of:
+         (a) a clause in the contract identifying it as public;
+         (b) a notice indicating unanimous consent of members
+             that the contract be public;
+         (c) a notice published without objection of its members,
+             that the contract be public.
+      If the text of a potential contract is published by a person
+      with a clear indication that the contract will be public when
+      it forms, then it becomes public immediately upon becoming
+      a contract.
+
+      Changes in the text of a public contract do not become
+      effective until they are published.
+
+[ No longer need to Amend Rule 1742 (Contracts) by deleting the text,
+  as its useful to keep the public/private distinction in that generic
+  contract rule. ]
+
+[Isolate points into their own rule]
+
+Create  a Rule entitled "Points" with the following text:
+
+      Points are a class of fixed assets.  Ownership of points is
+      restricted to players.
+
+      Points are a currency.  The number of points owned by a player
+      is eir score.
+
+      The Scorekeepor is a high-priority office, and the recordkeepor
+      of points.
+
+      A player with 100 or more points may win the game by announcing
+      this fact.  Upon such an announcement, each player's score is
+      set to zero.
+
+
+All points awarded by contests since November 18, 2007, for which
+the contestmaster and the awardee were not both first-class players,
+are hereby revoked, and all wins, patent titles, or other winning
+privileges resulting from said points are hereby revoked.

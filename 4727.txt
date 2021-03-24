@@ -1,0 +1,20 @@
+ID: 4727
+Title: More Chaos part 2.01
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Replace the following from rule 2079
+
+              encouraged use Heisenberg's Law in dealing hands from
+              Fate.
+
+with
+
+              encouraged to use Heisenberg's Law in dealing hands from
+              Fate.  Also, the Deck will be reshuffled and half of all
+              cards in the Deck, rounded down, will be randomly
+              selected and transfered from the Deck to the
+              Discard Pile.  The Deckmastor is also encouraged to
+              use Heisenberg's Law for this transfer.

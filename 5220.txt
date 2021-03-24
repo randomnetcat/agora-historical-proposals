@@ -1,0 +1,24 @@
+ID: 5220
+Title: patent title award
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by appending to the list of ways that VCs can be
+gained and lost the new items
+
+      (+V) When a person is awarded a patent title, e gains one violet
+           VC, unless e gained a VC in this way earlier in the same
+           month.
+
+      (-V) When a person has a patent title revoked from em, and the
+           instrument that authorises the revocation does not describe
+           the revocation as administrative, e loses one violet VC.
+
+      (+I) When a person is awarded a patent title that is a degree, e
+           gains a number of indigo VCs.  The number depends on the
+           rank of the degree: it is two for the lowest rank, four for
+           the next, and so on increasing by two per rank, up to a
+           maximum of twelve for the sixth and higher ranks.  If the
+           rank of the degree is not adequately defined to apply this
+           rule then the number is two.

@@ -1,0 +1,18 @@
+ID: 6574
+Title: Herald tracks dishonor
+Author: G.*
+Co-authors: 
+Adoption index: 2.0
+
+[Historically, the Herald has done this when traffic has been low enough
+to combine the offices.  Now that the insulator and Herald are no longer
+dealers, this is appropriate workload].
+
+Amend R2228 by replacing:
+     The Insulator is an office, and the recordkeepor of Rests.
+with:
+     The Herald is the recordkeepor of Rests.
+
+Amend Rule 2229 by replacing "Insulator's" with "Herald's".
+
+Amend Rule 2230 by replacing all instances of "Insulator" with "Herald".

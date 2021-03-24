@@ -1,0 +1,18 @@
+ID: 6605
+Title: Revised concurring opinions
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by replacing the paragraph beginning
+"A panel CAN publish a concurring opinion" with this text:
+
+     Any panel member CAN publish a formal Concurring Opinion with
+     panel member support, provided that the panel has judged AFFIRM,
+     and SHOULD do so if and only if the reasoning by which the prior
+     judge reached eir judgement was incorrect in whole or part.  A
+     Concurring Opinion SHOULD explain the nature of the error(s)
+     in the prior judge's reasoning.  Each Concurring Opinion has an
+     error rating, an integer from 1 to 99, with larger numbers
+     corresponding to larger errors in reasoning; it CAN be specified
+     in the announcement of intent, or else defaults to 50.

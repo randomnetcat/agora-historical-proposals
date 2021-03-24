@@ -1,0 +1,9 @@
+ID: 6646
+Title: I don't want to keep track of old NoVs
+Author: c.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 by removing:
+
+    Valid NOVs have ID numbers, to be assigned by the Herald.

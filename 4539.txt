@@ -1,0 +1,54 @@
+ID: 4539
+Title: Remember Remember
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal:  Remember Remember
+
+
+This is a Sane Proposal.
+
+
+Repeal Rule 2020 (Parliamentary Votes).
+
+
+Amend Rule 1933 (A Proposal's Chamber) by replacing the text:
+      Every Proposal shall be in (or have) exactly one defined Chamber
+      out of the following possibile Chambers:
+          (A) Ordinary;
+          (B) Democratic;
+          (C) Parliamentary.
+with:
+      Chamber is a stuck switch for Proposals with values Ordinary
+      and Democratic.
+
+
+Amend Rule 1950 (Voting Power) by removing the text:
+      (c) An entity's Voting Power on a Parliamentary Proposal is as
+          follows:
+            (1) One, if the entity is one of the following:
+                (a)   The First Estate;
+                (b)   The Second Estate;
+                (c)   The Third Estate.
+            (2) Any other entity, zero.
+
+ and by removing the text:
+              (2) Votes on Parliamentary Proposals shall only be cast
+                  through specific mechanisms indicated by the Rules
+                  for each specific entity with Voting Power on
+                  Parliamentary Proposals.
+
+ and by replacing the text (d) with (c)
+ and by replacing the text (e) with (d)
+
+
+Enact the following Rule, "Guy Fawkes Day", with a Power of 2:
+
+      Any Proposal submitted on the Fifth of November shall become
+      upon delivery Distributable, Democratic, Urgent, and Sane,
+      rules to the contrary nonwithstanding.
+
+      If a Proposal so submitted is subsequently adopted, the
+      Assessor shall award the Proposer the Boon of A Penny.

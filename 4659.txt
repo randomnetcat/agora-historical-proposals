@@ -1,0 +1,26 @@
+ID: 4659
+Title: Fix CFJ Linkage
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+[Linked CFJs become unlinked if the judge is automatically recused.
+ They shouldn't.]
+
+Amend Rule 2024 by replacing the text reading:
+
+      If a Trial Judge is recused from a Linked CFJ, then it ceases to
+      be Linked to any other CFJ.  If a Trial Judge is recused from
+      two or more Linked CFJs in a single message, then those CFJs
+      continue to be Linked to each other, but not to any other CFJs
+      to which the Judge is still assigned.
+
+with:
+
+      If a Trial Judge is recused from a Linked CFJ, then it ceases to
+      be Linked to any other CFJ.  If a Trial Judge is recused from
+      two or more Linked CFJs in a single message, or if a Trial Judge
+      is simultaneously and automatically recused from two or more
+      Linked CFJs, then those CFJs continue to be Linked to each other,
+      but not to any other CFJs to which the Judge is still assigned.

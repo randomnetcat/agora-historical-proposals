@@ -1,0 +1,27 @@
+ID: 5543
+Title: Faster support
+Author: Murphy
+Co-authors: Pavitra, root
+Adoption index: 2
+
+Pavitra and root are co-authors of this proposal.
+
+Amend Rule 1728 (Dependent Actions) by replacing this text:
+
+      (b) either the performer was the initiator,
+
+with this text:
+
+      (b) either the performer was the initiator, or the action depends
+          on support and the performer has supported the action and the
+          rule allowing the action to be performed dependently does not
+          explicitly prohibit supporters from performing it,
+
+[The remainder of (b), allowing the holder of a rule-defined position
+to complete an attempt initiated by a predecessor, is left unchanged.]
+
+[Note that the second judgement of CFJ 1932 went unappealed because
+comex got enough support, but didn't act on it.  This same trend was
+pointed out a few years ago wrt legislation; if you publish a proto
+and then fail to follow up, other players will generally leave the
+subject alone until one of them decides you've dropped the ball.]

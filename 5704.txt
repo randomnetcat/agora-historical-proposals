@@ -1,0 +1,10 @@
+ID: 5704
+Title: Total security in contracts
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Increase the power of Rule 2197 to 2.
+
+[Without this, the "secured" clause of R2198 is easily cirumvented at
+ Power 1.5.]

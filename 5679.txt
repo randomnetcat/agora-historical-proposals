@@ -1,0 +1,14 @@
+ID: 5679
+Title: Caste Fix
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+Amend R2156 by replacing:
+{{
+(default for first-class players and provinces)
+}}
+with
+{{
+(default for active first-class players and provinces)
+}}

@@ -1,0 +1,20 @@
+ID: 5199
+Title: Trust-Busting
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Upon the adoption of this proposal, Primo Corporation is deregistered.
+
+Upon the adoption of this proposal, if Levi did not win the game on or
+about August 20, 2007, then the VVLOP of the following players is
+modified as follows:
+
+  +3 BobTHJ
+
+  +2 comex
+  +2 Murphy
+  +2 root
+
+  +1 OscarMeyr
+  +1 Quazie

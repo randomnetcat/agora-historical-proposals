@@ -1,0 +1,20 @@
+ID: 4690
+Title: Protect the Native Fora
+Author: root
+Co-authors: 
+Adoption index: 3
+
+
+[I can't believe this rule is only Power 1.]
+
+Increase the power of Rule 478 to 3 and amend it by replacing the text
+reading:
+
+      Publicity is a stuck forum switch with values null, Discussion,
+      and Public.
+
+with:
+
+      Publicity is a stuck forum switch with values null, Discussion,
+      and Public.  A forum's Publicity may not be changed except as
+      described in this rule.

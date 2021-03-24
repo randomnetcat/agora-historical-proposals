@@ -1,0 +1,8 @@
+ID: 4962
+Title: more mutability for VCs
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Change the Power of rule 2126 to 2.

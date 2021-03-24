@@ -1,0 +1,73 @@
+ID: 4527
+Title: Round the Bend
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2040 (Switches) by replacing this text:
+
+        Viscosity is a stuck switch for switches with values loose and
+        stuck.
+
+with this text:
+
+        A switch is loose unless the rules define it as stuck.
+
+and by replacing this text:
+
+        The recordkeepor for a class of entities shall also maintain
+        records of any switches associated with that class, as well as
+        for each entity of the class the current state of the switch.
+        If the recordkeepor is required to publish a report, that report
+        shall include records of these switches.
+
+with this text:
+
+        The recordkeepor for a class of entities shall also maintain
+        records of any switches associated with that class, as well as
+        the current state of the switch for each entity of the class.
+        If the recordkeepor is required to publish a report, that report
+        shall include records of these switches.  The rules may require
+        a different player to maintain and report these records.
+
+Amend Rule 1016 (Activity Levels) to read:
+
+        Activity is a stuck player switch with values active and inactive.
+
+        "Off hold" and "on hold" are unambiguous synonyms for "active" and
+        "inactive", respectively.
+
+        A player may flip eir activity, unless e has done so within the
+        past week.
+
+        Inactive players may not vote, make proposals, hold office, or be
+        a judge of a CFJ.  An inactive player may not be required by the
+        rules to perform any duty or action, unless the rules explicitly
+        state that they can require inactive players to perform that duty
+        or action.
+
+        This rule takes precedence over all other rules that regulate
+        activity, or the powers or duties that a player may have because
+        of eir activity.
+
+Amend Rule 1840 (Political Status) by replacing this text:
+
+        Each player's Political Status is either Abiding or Rebellious;
+        the Registrar shall include a list of Rebellious players in the
+        Registrar's Report.  A player can change eir Political Status by
+        publicly announcing e does so, provided e has not changed eir
+        Political Status during the current month. A new players is
+        always Abiding when e becomes a player.
+
+with this text:
+
+        Orthodoxy is a stuck player switch with values abiding and
+        rebellious.
+
+        A player may flip eir orthodoxy, unless e has done so during the
+        current month.
+
+Amend Rule 2035 (The Unready are Ineligible) to read:
+
+        Whenever an unready player is unturned, e becomes turned.

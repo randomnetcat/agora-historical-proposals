@@ -1,0 +1,15 @@
+ID: 6398
+Title: Proposal Tweaking Part 1
+Author: C-walker
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 106 (Adopting Proposals), replace:
+
+      A player CAN remove a proposal e authored from the Proposal Pool
+      by announcement.
+
+with:
+
+      A player CAN remove (syn. retract, withdraw) a proposal e
+      authored from the Proposal Pool by announcement.

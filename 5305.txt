@@ -1,0 +1,14 @@
+ID: 5305
+Title: Contests Fix Mk II
+Author: comex
+Co-authors: Goethe
+Adoption index: 1
+
+Geothe is a co-author of this proposal.
+Amend Rule 2136 (Contests) by replacing point (e) with:
+      (e) is a dependent contract.
+Amend Rule 1742 by adding a new paragraph:
+      A contract CAN optionally be formed without two objections.  A
+      contract formed in this way is a dependent contract.  Any
+      player CAN dissolve a dependent contract without three
+      objections.

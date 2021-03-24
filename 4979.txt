@@ -1,0 +1,15 @@
+ID: 4979
+Title: reintroduce indices
+Author: Zefram
+Co-authors: Maud
+Adoption index: 2
+
+Maud, being the primary author of this proposal but not its submitter,
+is hereby named as a coauthor of this proposal.
+
+Enact a rule, titled "Indices", with Power=2, reading:
+
+      Indices are elements of the extended real numbers, which is a
+      total order consisting of the real numbers plus a minimum
+      element, called negative infinity, and a maximum element, called
+      positive infinity or unanimity.

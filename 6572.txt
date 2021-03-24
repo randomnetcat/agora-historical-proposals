@@ -1,0 +1,16 @@
+ID: 6572
+Title: Down with Distributability
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1607 by doing the following:
+ - Replacing the third paragraph with the follosing:
+     In a given Agoran week, the Promotor CAN and SHALL, as part of
+     eir weekly duties, distribute any proposal that was in the
+     Proposal Pool at the beginning of that Agoran Week. The Promotor
+     CAN but SHALL NOT distribute any other proposal in the Proposal
+     Pool.
+ - Deleting the second, fourth, fifth, sixth, and eighth paragraphs.
+
+[Note: without distributability, a Proposal Pool report is not helpful.]

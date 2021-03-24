@@ -1,0 +1,13 @@
+ID: 5955
+Title: Fix Balance of Power
+Author: ais523
+Co-authors: Elysion, Murphy
+Adoption index: 3.0
+
+Change the power of rule 2110 (Win by Paradox) from 3 to 2.
+
+Append the following proposal to rule 1367 (Degrees):
+{{
+Degrees are generally awarded by proposals with adoption indices
+sufficiently high to award patent titles.
+}}

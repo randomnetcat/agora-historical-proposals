@@ -1,0 +1,12 @@
+ID: 6044
+Title: Hypothetically Irrelevant
+Author: Goethe
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule Rule 591 (Inquiry Cases) by appending immediately after:
+     * IRRELEVANT, appropriate if the veracity of the statement is
+       not relevant to the game
+the following text:
+       or is an overly hypothetical extrapolation of the game or
+       its rules to conditions that don't actually exist

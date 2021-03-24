@@ -1,0 +1,10 @@
+ID: 5060
+Title: repeal vague winning
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Repeal rule 2128.
+
+[Never used, and now we have rule 2136 providing a better generic
+winning mechanism.]

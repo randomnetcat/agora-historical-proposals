@@ -1,0 +1,18 @@
+ID: 5380
+Title: Public Partnerships I
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Public Partnerships I
+
+Amend Rule 2144 by appending the following paragraph:
+      If a registered partnership is not a public contract, it can be
+      degregistered with Support.
+
+Amend Rule 2178 by replacing:
+      Changes in the text of a public contract do not become effective
+      until they are published.
+with:
+      Changes in the text or membership of a public contract do not
+      become effective until they are published.

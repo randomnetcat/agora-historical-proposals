@@ -1,0 +1,29 @@
+ID: 5172
+Title: Refactor glasnost
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by adding, immediately after the paragraph
+containing "Publicity is a forum switch", this text:
+
+      The Registrar's report includes, for each forum with non-null
+      publicity, sufficient instructions for players to receive
+      messages there.
+
+[Moved from Rule 2139.  Allows for additional values of publicity,
+should we ever wish to define some.]
+
+Amend Rule 2139 (The Registrar) to read:
+
+      The Registrar is an office; its holder is responsible for
+      keeping track of players.
+
+      The Registrar's report includes, for each player:
+
+        a) Information sufficient to identify and contact em.
+        b) The date on which e most recently became a player.
+
+[No longer explicitly relies on nicknames and e-mail addresses.  For
+instance, someone could set up a web bulletin board that mirrors the
+fora, and some players could play Agora through that web forum.]

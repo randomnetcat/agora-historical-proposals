@@ -1,0 +1,14 @@
+ID: 6607
+Title: Festive Fix
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1769 by replacing
+     b) the future event would occur during a Holiday, then the
+        future event occurs 72 hours after the end of that Holiday
+        instead.
+with
+     b) the future event would occur during a Holiday or during the
+        72 hours immediately following a Holiday, then the future
+        event occurs 72 hours after the end of that Holiday instead.

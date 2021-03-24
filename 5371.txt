@@ -1,0 +1,25 @@
+ID: 5371
+Title: first-class CFJs
+Author: Zefram
+Co-authors: 
+Adoption index: 1.7
+
+Amend rule 591 by replacing "any person" with "any first-class
+person".
+
+Amend rule 1504 by replacing "any player" with "any first-class person
+who is a member of the basis of any player" and replacing "defendant
+are each unqualified" with "each member of the defendant's basis are
+unqualified".
+
+Amend rule 2169 by replacing "The parties to the contract are all
+unqualified" with "The members of the bases of the parties to the
+contract are all unqualified".
+
+[No more getting round the disqualification rules by use of
+partnerships.  Automatic disqualifications of subjects (criminal
+defendant and equity party) affect all members of a person's basis,
+rather than just the (possibly second-class) person.  For inquiry and
+criminal cases, initiation (with its automatic disqualification) is
+restricted to first-class persons, rather than similarly broaden the
+disqualification.]

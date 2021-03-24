@@ -1,0 +1,14 @@
+ID: 4736
+Title: Yes.
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Append the following to rule 1922
+
+      (e) Hyperactive, to be awarded to any player who has more than 10
+          proposals pass in one week.
+
+Quazie is awarded the patent title of Hyperactive for his proposals
+that passed from the distribution on April 11th

@@ -1,0 +1,13 @@
+ID: 6467
+Title: Fix Hand Limit Defaults
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+Insert after the first paragraph in R2259:
+{{
+When a first-class player registers eir Hand Limit is set to 7. When a
+non-registered contract becomes a contest its Hand Limit is set to 3.
+When an entity ceases to be able to own cards its Hand Limit is set to
+0.
+}}

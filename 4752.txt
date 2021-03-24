@@ -1,0 +1,20 @@
+ID: 4752
+Title: Clarify Rule 2023
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2023 (Submitting a CFJ to the Justiciar) to read:
+
+      A CFJ may be submitted to the Justiciar, instead of to the Clerk
+      of the Courts, if it is explicitly marked as such.  For such a
+      CFJ, all duties/roles that would otherwise be performed/filled
+      by the Clerk of the Courts shall instead be performed/filled by
+      the Justiciar.  This rule takes precedence over rules that would
+      otherwise assign duties and roles regarding a CFJ to the Clerk
+      of the Courts.
+
+      All persons are encouraged to submit a CFJ to the Justiciar only
+      when there is a good reason not to submit it to the Clerk of the
+      Courts.

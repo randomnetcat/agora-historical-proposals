@@ -1,0 +1,15 @@
+ID: 4779
+Title: The Asafoetida Revue
+Author: Maud
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 2091 (The Office of Secretary of the University) by
+replacing the text reading:
+
+      (c) Each players Education.
+
+with text reading:
+
+      (c) Each player's Education.

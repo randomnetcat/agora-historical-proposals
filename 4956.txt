@@ -1,0 +1,34 @@
+ID: 4956
+Title: Finish re-dividing some offices
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2138 (The International Associate Director of Personnel)
+by replacing "The Director of Personnel's report" with "The IADoP's
+report".
+
+Amend Rule 1006 (Offices) by removing this text:
+
+               The Herald's Report shall list the holder of each office,
+      and the date upon which each holder last came to hold that office.
+
+and by replacing this text:
+
+     If no attempt to achieve Agoran Consent for changing the holder
+     of particular office is announced in a given quarter, then the
+     Speaker shall make at least one such attempt to change the
+     officeholder in the following quarter, and make the change if
+     consent is achieved.
+
+with this text:
+
+     If no attempt to achieve Agoran Consent for changing the holder
+     of a particular office is announced in a given quarter, then the
+     IADoP shall make at least one such attempt to change the
+     officeholder in the following quarter, and make the change if
+     consent is acheived.
+
+Upon the adoption of this proposal, the office of IADoP becomes held
+by the Herald.

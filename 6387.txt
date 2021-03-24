@@ -1,0 +1,20 @@
+ID: 6387
+Title: disinterested judges
+Author: Wooble
+Co-authors: 
+Adoption index: 1.5
+
+In Rule 2226, replace:
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 1, then it is decreased by 1, and e CANNOT
+      increase it for 30 days afterward (the rest of this rule
+      notwithstanding).
+
+with:
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 0, then it is decreased by 1, and e CANNOT
+      increase it for 30 days afterward (the rest of this rule
+      notwithstanding), unless eir new rank is 0, in which case e CAN
+      increase it to 1 at any time by spending 3 Notes.

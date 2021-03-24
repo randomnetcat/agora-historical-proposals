@@ -1,0 +1,60 @@
+ID: 6002
+Title: Refactor judicial timing
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing this text:
+
+     An inquiry case has a judicial question on veracity, which is
+     always applicable.  The valid judgements for this question are:
+
+     * FALSE, appropriate if the statement was factually and
+       logically false at the time the inquiry case was initiated
+
+     * TRUE, appropriate if the statement was factually and logically
+       true at the time the inquiry case was initiated
+
+     * UNDECIDABLE, appropriate if the statement was logically
+       undecidable or otherwise not capable of being accurately
+       described as either false or true, at the time the inquiry
+       case was initiated
+
+     * IRRELEVANT, appropriate if the veracity of the statement at
+       the time the inquiry case was initiated is not relevant to the
+       game
+
+with this text:
+
+     An inquiry case has a judicial question on veracity, which is
+     always applicable.  The valid judgements for this question are
+     as follows, based on the truth or falsity of the statement at
+     the time the inquiry case was initiated:
+
+     * FALSE, appropriate if the statement was factually and
+       logically false
+
+     * TRUE, appropriate if the statement was factually and logically
+       true
+
+     * UNDECIDABLE, appropriate if the statement was logically
+       undecidable or otherwise not capable of being accurately
+       described as either false or true
+
+     * IRRELEVANT, appropriate if the veracity of the statement is not
+       relevant to the game
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+     An appeal case has a judicial question on disposition, which is
+     applicable if and only if the prior question is applicable.  The
+     valid judgements for the question on disposition, and their
+     effects, are as follows:
+
+with this text:
+
+     An appeal case has a judicial question on disposition, which is
+     applicable if and only if the prior question is applicable.  The
+     valid judgements for the question on disposition, and their
+     effects, are as follows, based on the appropriateness of the
+     prior judgement at the time it was delivered:

@@ -1,0 +1,25 @@
+ID: 4451
+Title: Holiday Regisration Fix
+Author: Cecilius
+Co-authors: 
+Adoption index: 1
+
+Proposal: Holiday Registration Fix
+
+Amend Rule 869 by inserting the following delimited text:
+
+###
+Whenever a Player registers during a Holiday, eir Grace Period shall be 
+extended by a period of time equal to the time which elapses between eir 
+registration and the conclusion of that Holiday, provided that no other Rule 
+extends eir Grace Period by reason of that Holiday.
+###
+
+That text shall be inserted in the Rule immediately prior to the following 
+delimited text:
+
+###
+For the purposes of determining when a Player's Grace Period is scheduled to 
+conclude, where more than one Holiday falls fully or partially within that 
+Grace Period, the calculation shall be made separately for each Holiday.
+###

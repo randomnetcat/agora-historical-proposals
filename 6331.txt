@@ -1,0 +1,13 @@
+ID: 6331
+Title: Referential votes default to PRESENT
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2127 (Conditional Votes) by replacing each instance of:
+
+      that voter's valid votes on that decision.
+
+with:
+
+      that voter's valid votes on that decision, or PRESENT otherwise.

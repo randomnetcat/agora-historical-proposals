@@ -1,0 +1,9 @@
+ID: 5780
+Title: Fix Rule 1789
+Author: comex
+Co-authors: ehird
+Adoption index: 2.0
+
+ehird is a coauthor of this proposal.
+
+Change the power of Rule 1789 to 2.

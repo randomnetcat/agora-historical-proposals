@@ -1,0 +1,17 @@
+ID: 5290
+Title: Don't penalize winners
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1922 by replacing the text:
+      (e)  Minister Without Portfolio, to be awarded to any player who
+           wins the game.  If the number of players bearing this title
+           is greater than the number of Prerogatives defined by the
+           rules, then this title is revoked from the Speaker.
+with:
+      (e)  Minister Without Portfolio, to be awarded to any player who
+           wins the game.  If the number of players bearing this title
+           is greater than the number of Prerogatives defined by the
+           rules, then this title is administratively revoked from
+           the Speaker.

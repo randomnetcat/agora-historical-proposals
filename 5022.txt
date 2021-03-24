@@ -1,0 +1,14 @@
+ID: 5022
+Title: Limited Partnerships, take fifteen
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2144 (Limited Partnerships) to read:
+
+      A partnership's basis is the set containing its natural-person
+      members, plus each member of the basis of each of its
+      non-natural-person members.
+
+      A partnership is prohibited from registering if its basis is
+      the same as that of another registered partnership.

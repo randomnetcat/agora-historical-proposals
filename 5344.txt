@@ -1,0 +1,123 @@
+ID: 5344
+Title: Quality Judge Assignment
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2
+
+Replace the last three paragraphs of R1868 with:
+{{
+Except where modified by other rules, the entities qualified to be
+assigned as judge of a judicial case are the active players.  Being
+unqualified to be assigned as a judge does not
+inherently prevent an entity from continuing to be judge if already
+assigned. The CotC SHALL NOT knowingly assign a judge to a case whose
+Quality for that case is at least 3 less than another eligible judge.
+}}
+
+Rename R1871 to "Judicial Quality" and amend it to read:
+{{
+Elevation is an integer value with a default value of 0. Each natural
+person has an Elevation value, and a natural person MAY set
+eir Elevation to 0 by announcement. The CotC's report includes the
+Elevation of each person whose Elevation value is not 0.
+
+Eagerness is an switch with integer values from 0 to 10 (inclusive),
+and a default
+value of 0. A first-class player MAY set eir Eagerness to any
+valid value by announcement. The CotC's report includes the Eagerness
+of each player.
+
+Quality is a number determined for each eligible judge in a judicial
+case. The Quality of a candidate judge on any given case is equal to
+that candidate's Elevation, subject to modification by other rules.
+
+When the CotC assigns an entity as a judge of a judicial case, that
+entity's Elevation is reduced by 3, except as described in the next
+sentence. If the CotC assigns an entity consecutively to more than one judicial
+case in the same announcements, and indicates in that announcement
+that these are linked assignments, the entity's Elevation is reduced by
+2+N, where N is the number of consecutive cases they have just been
+assigned to.
+
+Whenever an active player with a positive Eagerness has Elevation less than or
+equal to 0, the Elevation of each active player is increased by eir
+Eagerness.
+
+When the CotC recuses an entity with cause e may reduce eir Elevation by
+an amount up to 20 by
+announcement within one week. In addition, if that entity is a Player,
+the CotC may set eir Eagerness to 0.
+
+A Player that has been recused from a case (for any
+reason) has eir Quality reduced by 15 for that case.
+}}
+
+Create a rule titled "Plural Judges" with the text:
+{{
+An entity comprised of two or more member persons which is an eligible
+judge is a plural judge. For the purposes of this rule, the parties to
+a partnership agreement are considered to be its members.
+The Quality of a plural judge is equal to the average of the Quality
+of each of its members. If a plural judge would have its Elevation
+increased or reduced, that increase or reduction is divided equally
+among each of its members (rounded to the nearest integer). If a
+plural judge would receive a Quality adjustment in a particular case,
+that Quality adjustment is divided equally among each of its members.
+}}
+
+Amend R591 by replacing:
+{{
+   The initiator is unqualified to be assigned as judge of the
+   case, and in the initiating announcement e CAN disqualify one
+   person from assignment as judge of the case.
+}}
+with:
+{{
+The Quality of the initiator of a judicial case is reduced by
+15 for that case. In the initiating announcement the initiator CAN specify one
+person whose Quality is reduced by 10 for that case.
+}}
+
+Amend R1504 by replacing:
+{{
+The initiator and defendant are each unqualified to be assigned
+   as judge of the case.  During the pre-trial phase, the defendant
+   CAN disqualify one person from assignment as judge of the case,
+   by announcement.  If e disqualifies the judge, then the judge is
+   recused.
+}}
+with:
+{{
+The Quality of the initiator of a criminal case is reduced by 10 for
+that case, and the
+Quality of the defendant is reduced by 20 for that case. During the
+pre-trial phase,
+the Defendant CAN name one person whose Quality is reduced by 10 for that case.
+}}
+
+Amend R2169 by replacing:
+{{
+The parties to the contract are all unqualified to be assigned
+   as judge of the case.
+}}
+with:
+{{
+The parties to the contract in an equity case have their Quality
+reduced by 10 for that case with the exception of the initiator who
+has eir Quality
+reduced by 15 for that case.
+}}
+
+In R911 replace the third paragraph with:
+{{
+The entities qualified to be assigned as a judge of an appeal case are
+the judicial panels consisting of three members, where each of the
+members is qualified to be assigned as judge of the prior case. For
+the purposes of
+determining judge
+eligibility in appeal cases:
+* The prior judge of the case has eir Quality reduced by 20 for that case.
+* The Player who called for appeal has eir Quality reduced by 10 for that case.
+* Any Player who supported or objected to the call for appeal has eir
+Quality reduced by 5 for that case.
+}}

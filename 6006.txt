@@ -1,0 +1,14 @@
+ID: 6006
+Title: Clarify equity timing
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2169 (Equity Cases) by appending this text after the
+first paragraph:
+
+     For the purpose of this rule, the parties to a contract are
+     measured as of the time the case was initiated; however, if
+     the initiating message specifies a different time that falls
+     within the week before the case was initiated, then that time
+     is used instead.

@@ -1,0 +1,28 @@
+ID: 4669
+Title: The Secretary as an office
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+Create a new rule entitled '"The Office of Secretary of the
+University' to read as follows:
+
+      "The Secretary of the University (SotU) is an office; its holder
+is recordkeepor for the University.
+
+      The SotU's Weekly Report shall include:
+
+      (a) A list of all active Research Grants;
+
+      (b) A list of all active Book club selections;
+
+      (c) Each players Education.
+
+      (d) A list of who has checked out cards from the library.
+
+      (e) The running history of all of the preceding."
+
+Replace all instances of the word 'Herald' in the rule entitled "The
+University of Agora" with 'SotU'
+
+Upon the passing of this Proposal Quazie shall be Installed as the SotU.

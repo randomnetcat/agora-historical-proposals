@@ -1,0 +1,14 @@
+ID: 5163
+Title: win by palette
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by appending to the list of ways that VCs may be spent
+the new item
+
+      z) If this rule mentions at least six different specific colors
+         for VCs, a player may spend one VC of each such color to win
+         the game.
+
+[A tricky target to strive for.]

@@ -1,0 +1,13 @@
+ID: 5619
+Title: Homo sapiens
+Author: Quazie
+Co-authors: 
+Adoption index: 3
+
+Append the following to this paragraph in R2150:
+Any biological organism that is capable of communicating by
+email in English is a person.
+
+{
+Any member of the species Homo sapiens, past or present, is a person
+}

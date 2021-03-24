@@ -1,0 +1,9 @@
+ID: 5506
+Title: These aren't votes any more
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2127 (Conditional Votes) by removing this text:
+
+      SUPPORT and OBJECT are opposites;

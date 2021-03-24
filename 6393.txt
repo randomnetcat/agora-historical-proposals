@@ -1,0 +1,14 @@
+ID: 6393
+Title: Stamp Out Plato
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+Replace R2250 with:
+
+      If the submitter of a Proposal makes a claim that the proposal
+      is submitted as part of an officer's duties in the same message
+      in which the proposal was submitted, that proposal becomes
+      Distributable upon entering the Proposal Pool.  Falsely claiming
+      that a proposal is submitted as part of an officer's duties is
+      the Class 6 Crime of Distribunannigans.

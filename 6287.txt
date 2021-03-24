@@ -1,0 +1,12 @@
+ID: 6287
+Title: Emergency ratification
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Ratify the document purporting to be the SLR published most recently
+before this proposal was submitted.
+
+[It's possible that many rule changes failed, unknown to us, due to
+the last paragraph of R1482, and ratifying them in the past failed due
+to precedence.  This should be adopted after 'Precedence fixes'.]

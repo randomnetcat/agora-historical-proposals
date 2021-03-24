@@ -1,0 +1,7 @@
+ID: 5983
+Title: Stronger Depatation
+Author: Warrigal
+Co-authors: 
+Adoption index: 3.0
+
+Set the power of Rule 2160 to 3.

@@ -1,0 +1,13 @@
+ID: 5420
+Title: Smaller Contracts
+Author: Wooble
+Co-authors: 
+Adoption index: 1.5
+
+In Rule 1742, replace the text
+    Any group of two or more persons may make an agreement among
+     themselves with the intention that it be binding upon them and
+     be governed by the rules.
+with
+     Any person or group of persons may create an agreement with the intention
+     that it be binding upon them and be governed by the rules.

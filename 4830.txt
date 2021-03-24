@@ -1,0 +1,8 @@
+ID: 4830
+Title: The Random Repeal
+Author: Maud
+Co-authors: 
+Adoption index: 1
+
+
+Repeal rule 1079 (Definition of "Random").

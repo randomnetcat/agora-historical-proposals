@@ -1,0 +1,20 @@
+ID: 5036
+Title: refactor the Herald
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 649 by adding after "set out in the Rules." the sentence
+
+      The Herald's report shall include a list of each Patent Title
+      that at least one person Bears, with a list of which persons
+      Bear it.
+
+Amend rule 1377 to read
+
+      The Herald is an office; its holder is responsible for keeping
+      track of marks of honour and shame relating to Agora.
+
+[Moves the PT reporting requirement into the PT rule.  Incidentally
+removes the "Threat" item, which we're not using, from rule 1377.
+Also gives a more accurate overall description of the Herald.]

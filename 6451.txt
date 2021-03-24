@@ -1,0 +1,15 @@
+ID: 6451
+Title: Livenomic Recognition
+Author: C-walker
+Co-authors: 
+Adoption index: 1.0
+
+Flip the Recognition of Livenomic to Neutral.
+
+[[ Relevant links:
+
+http://code.google.com/p/livenomic/
+http://groups.google.co.uk/group/livenomic
+#livenomic on freenode
+
+]]

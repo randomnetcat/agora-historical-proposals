@@ -1,0 +1,21 @@
+ID: 6696
+Title: WTF does this even do?
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+COMMENTS:
+coppro: I really have no clue what this means; odds are good that I'd
+         just (as vote collector) decide that if there was any complexity
+         at all, I'd just resolve the darn thing as PRESENT due to
+         ambiguity.
+
+PROPOSAL TEXT:
+Amend Rule 2154 (Election Procedure) by replacing
+        3) Each eligible voter's voting limit is one. An ordered list
+           of multiple choices constitutes a conditional vote for the
+           first choice if it could be the outcome, otherwise the
+           second choice if it could be the outcome, and so forth.
+with
+
+        3) Each eligible voter's voting limit is one.

@@ -1,0 +1,15 @@
+ID: 5949
+Title: <none>
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Enact the following Rule:
+> Rule 9999/0 (Power=4)
+> The Palace Guard
+>
+>      The Palace Guard is the player who was nicknamed OscarMeyr
+>      as of November 5, 2008.  The Palace Guard CAN defenestrate
+>      a proposal by announcement, but SHALL NOT do so unless it
+>      is clearly intended to ruin Agora.  A defenestrated proposal
+>      CANNOT take effect, rules to the contrary notwithstanding.

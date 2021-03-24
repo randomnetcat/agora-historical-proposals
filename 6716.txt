@@ -1,0 +1,10 @@
+ID: 6716
+Title: Dictatorship Scam
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Enact a new rule at power-3:
+       coppro CAN, with Notice, cause this Rule to perform one or more
+       arbitrary Rule Changes.

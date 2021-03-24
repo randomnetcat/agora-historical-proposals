@@ -1,0 +1,29 @@
+ID: 4763
+Title: Switch Cards
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Create a new rule titled "Switch Cards", reading:
+
+      The following classes of cards are defined:
+
+      * Caption: Peaceful Demonstration
+        Elements: Budgeted, Restricted [Rebellious Players]
+        Exploit: For a fee of 2 kudos, you may flip the Orthodoxy
+          switch of an abiding Player.
+
+      * Caption: Government Propaganda
+        Elements: Budgeted, Restricted [Abiding Players]
+        Exploit: For a fee of 1 kudo, you may flip the Orthodoxy
+          switch of a rebellious Player.
+
+      * Caption: Reverse Polarity
+        Elements: Budgeted
+        Exploit: You may flip the Karma switch of an ephemeral
+          Patent Title, provided the switch is dynamic.
+
+      * Caption: Cutting in Line
+        Elements: Budgeted
+        Exploit: You may flip a Player's Orientation switch.

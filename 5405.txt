@@ -1,0 +1,10 @@
+ID: 5405
+Title: We have no marks!
+Author: pikhq
+Co-authors: 
+Adoption index: 1.7
+
+In rule 1504, replace "FINE with an integer from 1 to 100," with "FINE".
+In rule 1504, replace "destroy the specified number of Marks, or 1 VC,"
+with "1 VC".
+[[ I just noticed this as I was reading rule 1504 over again. ]]

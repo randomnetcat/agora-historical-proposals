@@ -1,0 +1,28 @@
+ID: 6386
+Title: The Greetor
+Author: C-walker
+Co-authors: 
+Adoption index: 1.0
+
+Create a new power 1 Rule with the following text:
+
+{{
+
+The Greetor is an office; its holder is responsible for
+the successful integration of new players into the Agoran community.
+
+The Greetor's duties include welcoming newly registered players to the
+Agoran community, providing them with information they may find useful with
+regards to Agora, and answering to the best of eir ability any queries they
+may have regarding Agora.
+
+The Greetor's weekly duties include the submission of disinterested
+proposals which attempt to improve the Agoran experience for newly
+registered and prospective players, in particular the registration process.
+
+The Greetor's monthly report includes the titles and texts of all proposals
+e has submitted as part of eir weekly duties in the past month, and a short
+essay which clarifies an issue which concerns or often confuses newly
+registered players.
+
+}}

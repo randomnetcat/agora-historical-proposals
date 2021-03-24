@@ -1,0 +1,57 @@
+ID: 5828
+Title: More contests
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2136:
+
+remove:
+       b) Doing so would cause a player to be contestmaster of more
+          than one contest.
+and reletter the following paragraph as "b".
+
+and replace:
+      The total number of points a Contest MAY award in a given week
+      is equal to 5 times the number of its members that are first-
+      class players.  Points up to this total CAN be awarded by the
+      contestmaster to other members by public announcement, and MUST
+      be awarded as explicitly described in the contract.
+
+      The total number of points a Contest MAY revoke in a given week
+      is equal to 2 times the number of its members that are first-
+      class players.  Points up to this total CAN be revoked by the
+      contestmaster from other members by public announcement, and
+      MUST be revoked as explicitly described in the contract.
+
+      For each contest, ASAP after the beginning of each month, the
+      Scorekeepor CAN and SHALL by announcement award a number of
+      points, equal to the number of Players who were Contestants in
+      that Contest at any time during the previous month, to the
+      Player (if any) who was its Contestmaster for 16 or more days
+      during the previous month, provided that the Contestmaster
+      performed Contest-related duties in a timely manner during that
+      time.
+
+with:
+      The total number of points a player MAY award in a given week
+      is equal to 5 times the number of first-class players who are
+      members of contracts for which e is contestmaster. Points up to
+      this total CAN be awarded by a player to other members of
+      contracts for which e is the contestmaster by announcement, and
+      MUST be awarded as explicitly described in the contract.
+
+      The total number of points a player MAY revoke in a given week
+      is equal to 2 times the number of first-class players who are
+      members of contracts for which e is contestmaster.  Points up to
+      this total CAN be revoked by a player from other members of
+      contracts for which e is the contestmaster by announcement, and
+      MUST be revoked as explicitly described in the contract.
+
+      As soon as possible after the beginning of each month, the
+      Scorekeepor SHALL by announcement award a number of points to
+      each player, equal to the number of players who were contestants
+      in contests at any time during the previous month for which that
+      player served as contestmaster for 16 or more days during the
+      previous month, provided that the Contestmaster performed
+      Contest-related duties in a timely manner during that time.

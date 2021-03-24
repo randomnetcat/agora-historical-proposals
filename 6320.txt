@@ -1,0 +1,18 @@
+ID: 6320
+Title: Active Partnerships Only
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2145 (Partnerships) by replacing:
+      A public Legalistic partnership whose basis contains at least
+      two persons is a person, and SHALL act as specified by itself.
+with:
+      A public Legalistic partnership whose basis has contained at
+      least three active first-class players simultaneously at
+      some point in the past seven days is a person, and SHALL
+      act as specified by itself.
+
+[The "past seven days" means that if someone goes unexpectedly
+on hold or deregisters out of pique, the partnership has time
+to try to come up to numbers].

@@ -1,0 +1,28 @@
+ID: 5490
+Title: Agree2Support
+Author: Goethe
+Co-authors: 
+Adoption index: 1.7
+
+Agree2Support
+
+[It's hardly a burden to require panel members to state their
+agreement to a decision for the record (deliberations can still
+be private)].
+
+Amend Rule 2157 by replacing:
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous agreement of the panel's members, or (if the
+      CotC is not a member) with the majority agreement of the members
+      and the consent of the CotC.  The CotC SHOULD consent to a
+      majority action if the panel has made a reasonable effort to
+      achieve consensus.
+with:
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous Support of the panel's members, or (if the
+      CotC is not a member) with the majority Support of the members
+      and the Support of the CotC.  The CotC SHOULD so Support a
+      majority action if the panel has made a reasonable effort to
+      achieve consensus.

@@ -1,0 +1,16 @@
+ID: 5252
+Title: Class expansion
+Author: AFO
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2145 (Partnerships) by appending this text:
+
+      A partnership's extended basis is the set consisting of the
+      union of the set of its member persons with the extended
+      bases of each of its partnership members.
+
+      A partnership is second-class if its extended basis contains
+      only non-players, third-class if its extended basis contains
+      both players and non-players, or fourth-class if its extended
+      basis contains only players.

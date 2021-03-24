@@ -1,0 +1,14 @@
+ID: 4641
+Title: Saving Throw vs. Failed Saving Throw
+Author: root
+Co-authors: 
+Adoption index: 2.01
+
+
+Create a new Rule with a Power of 2.01 reading:
+
+     The game state hereby becomes what it would be if proposal 4623,
+     "Vote Cards", had not been deprived of effect by Rule 1561,
+     "Illegality of Bonus Clauses".
+
+     One second after this Rule is created, it is repealed.

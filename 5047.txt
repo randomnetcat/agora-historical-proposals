@@ -1,0 +1,30 @@
+ID: 5047
+Title: Fix Support for Democracy 1.1
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1950 by replacing the text reading:
+
+    At the end of the voting period of an Agoran decision, the first
+    N ballots submitted by each entity on that decision (where N is
+    the entity's voting limit on the decision at the start of the
+    voting period) remain valid; all other ballots submitted on that
+    decision are invalid.
+
+with the text:
+
+    At the end of the voting period of an Agoran decision, the first
+    N ballots submitted by each entity on that decision (where N is
+    the entity's voting limit at the decision's ballot allotment
+    time) remain valid; all other ballots submitted on that decision
+    are invalid.
+
+    The ballot allotment time of a proposal that becomes or ceases to
+    be ordinary during the proposal's voting period is the time of
+    the last such change.  The ballot allotment time of any other
+    decision is the start of the voting period.
+
+["Support Democracy" changes a proposal's AI and chamber
+during the voting period, but the voting limits used are from the
+start of the voting period, when the proposal was still Ordinary.]

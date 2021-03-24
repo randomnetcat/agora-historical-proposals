@@ -1,0 +1,16 @@
+ID: 4850
+Title: Quick Conclave Fix
+Author: root
+Co-authors: 
+Adoption index: 3
+
+
+Amend Rule 1950 (Voting Limits) by replacing the text:
+
+      The voting limit of an eligible voter on a referendum or an
+      election is always one and cannot be changed.
+
+with:
+
+      The voting limit of an eligible voter on a referendum, election,
+      or conclave is always one and cannot be changed.

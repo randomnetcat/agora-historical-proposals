@@ -1,0 +1,9 @@
+ID: 4883
+Title: Revert Quorum
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 879 (Quorum) by replacing each instance of "five"
+with "three".

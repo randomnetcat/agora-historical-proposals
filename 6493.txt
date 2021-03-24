@@ -1,0 +1,14 @@
+ID: 6493
+Title: Official Acronym
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2138, replace:
+       The Intergalactic Associate Director of Personnel is an office;
+       its holder is responsible for keeping track of officers and
+       reports.
+with:
+       The Intergalactic Associate Director of Personnel (IADoP) is an
+       office; its holder is responsible for keeping track of officers
+       and reports.

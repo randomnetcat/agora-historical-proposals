@@ -1,0 +1,19 @@
+ID: 6093
+Title: Make the Insulator's job easier
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+      (d) The name of the Class-N Crime (if any) specified in the
+          Rules as being associated with the alleged breach, where N
+          is the positive integer specified in the Rules for that
+          Crime.
+
+with this text:
+
+      (d) If the Rules specify exactly one Class-N Crime (where N is a
+          positive integer) as being associated with the alleged
+          breach, then the name of that Crime and the value of N;
+          otherwise, the Power of the Rule that was allegedly broken.

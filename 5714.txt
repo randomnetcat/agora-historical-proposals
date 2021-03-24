@@ -1,0 +1,11 @@
+ID: 5714
+Title: No Monsters for You
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+Append the following to the rule entitled "The Monster":
+{{{
+      An entity is a Monster if and only if it is defined to be so by
+      rules with power 2 or greater.
+}}}

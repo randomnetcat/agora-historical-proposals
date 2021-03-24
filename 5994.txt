@@ -1,0 +1,34 @@
+ID: 5994
+Title: Loose ID numbers
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2161 (ID Numbers) by replacing this text:
+
+     (b) Such an assignment is INVALID unless the number is a natural
+         number (expressed as a decimal literal with at most 14
+         digits) distinct from any ID number, and greater than any
+         orderly ID number, previously assigned to an entity of that
+         type.  The player SHALL select the smallest number possible,
+         unless e reasonably believes that selecting any smaller
+         number might be invalid or confusing.
+
+with this text:
+
+     (b) Such an assignment is INVALID unless the number is a natural
+         number (expressed as a decimal literal with at most 14
+         digits) distinct from any ID number previously assigned to
+         an entity of that type, and (if the type of entity is defined
+         by the rules as strictly ordered) greater than any orderly ID
+         number so assigned.  The player SHOULD select the smallest
+         number possible.
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing this text:
+
+     Rules have ID numbers, to be assigned by the Rulekeepor.
+
+with this text:
+
+     Rules have ID numbers, to be assigned by the Rulekeepor, and are
+     strictly ordered.

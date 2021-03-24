@@ -1,0 +1,11 @@
+ID: 6282
+Title: IADoP Tracks Reports
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Add the following point below point c in Rule 2138:
+
+      d) The date when that office's reports were last published.
+
+Increase the interest index of the IADoP to 2.

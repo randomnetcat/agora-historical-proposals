@@ -1,0 +1,23 @@
+ID: 5142
+Title: restore enforcement of rule number stability
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2141 by replacing the paragraph
+
+      Rules have ID numbers, to be assigned by the Rulekeepor.
+
+with
+
+      Rules have ID numbers, to be assigned by the Rulekeepor.  A rule
+      CANNOT have the same ID number as any other rule.  Once
+      assigned, a rule's ID number cannot be changed.
+
+[This only applies if P5110 "Regulate ID numbers" generalised the
+assignment of ID numbers.  The new rule "ID Numbers" says that ID
+numbers must be distinct and can't be changed, but that's only at
+power=2.  For rules, especially with ID numbers being used to
+determine precedence, these things should be enforced at power=3.  The
+detailed procedure for ID number selection and assignment remains
+separate in the "ID Numbers" rule.]

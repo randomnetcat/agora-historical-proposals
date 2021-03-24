@@ -1,0 +1,13 @@
+ID: 4983
+Title: clean up yin & yang
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+If Yin Corp is a player and not a natural person, e is hereby deregistered.
+
+If Yang Corp is a player and not a natural person, e is hereby deregistered.
+
+[Only way to clean up that experiment.  The conditional clauses ensure
+that the proposal works regardless of the legality of the partnership
+shenanigans.]

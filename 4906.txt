@@ -1,0 +1,41 @@
+ID: 4906
+Title: "Deem" deemed harmful
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 1728 (Dependent Actions) by replacing this text:
+
+            (1)  if the action is to be performed Without N Objections,
+                 fewer than N players have publicly posted objections
+                 to the performance of the action; or
+
+with this text:
+
+            (1)  if the action is to be performed Without N Objections,
+                 fewer than N players have publicly posted objections
+                 (and not publicly retracted eir objections) to the
+                 performance of the action; or
+
+and by removing this text:
+
+       A player who posts an objection to the performance of an action
+       may publicly retract eir objection.  If e does so, e shall be
+       deemed not have posted an objection to the performance of that
+       action for the purposes of (e)(1) of this rule.
+
+Amend Rule 1891 (Legislative Orders) by replacing this text:
+
+       (b) The effect of adopting a Proposal which contains Orders is
+           to execute those Orders.  Such Orders are known as
+           Legislative Orders, are deemed to have been executed by that
+           Proposal, and are deemed to have been executed as of the
+           date of the proclamation of the Proposal's adoption.
+
+with this text:
+
+       (b) The effect of adopting a Proposal which contains Orders is
+           to execute those Orders.  Such Orders are known as
+           Legislative Orders, and are executed by that Proposal as
+           of the date of the proclamation of the Proposal's adoption.

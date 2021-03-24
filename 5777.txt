@@ -1,0 +1,20 @@
+ID: 5777
+Title: Export
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+If this is Agora, create a rule with power 1 called "Export
+Bootstraping" whose text is as follows:
+{{{
+If a B Nomic proposal whose title is "Export" has been adopted in B
+Nomic, any player CAN repeal this rule and rules 2192 and 2193 by
+announcement.
+If a B Nomic proposal whose title is "Export" has been rejected in B
+Nomic, any player CAN repeal this rule by announcement.
+}}}
+
+If this is B Nomic, create a rule with the same text and title as
+Agora's rule 2192, and a rule with the same text and title as Agora's
+rule 2193. B Nomic players are encouraged to further modify the
+resulting rules by proposal to be more appropriate to B Nomic.

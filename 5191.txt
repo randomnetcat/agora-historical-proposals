@@ -1,0 +1,16 @@
+ID: 5191
+Title: Voting period extensions
+Author: root
+Co-authors: 
+Adoption index: 1
+
+Create a new rule titled "Extending the voting period" that reads:
+
+      Whenever the voting period of an Agoran decision would end, and
+      the result would be FAILED QUORUM, the length of the voting
+      period for that decision will immediately be doubled, provided
+      this has not already happened for the decision in question.
+
+      Upon such an occurrence, the vote collector for the decision
+      SHOULD issue a humiliating public reminder to the slackers who
+      have not yet cast any votes on it despite being eligible.

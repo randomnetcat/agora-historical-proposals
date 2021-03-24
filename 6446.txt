@@ -1,0 +1,11 @@
+ID: 6446
+Title: Province Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+In rule 2200, delete the paragraph that reads
+      A province is a protectorate that is a player.
+and append the following sentence to the last paragraph
+      A province is an embassy for a protectorate.
+[Provinces are otherwise broken.]

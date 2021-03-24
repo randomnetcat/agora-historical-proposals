@@ -1,0 +1,14 @@
+ID: 4645
+Title: Forgiving the new 2.0
+Author: Quazie
+Co-authors: 
+Adoption index: 2.01
+
+
+Create a rule entitled "Forgiving the new" with a power of 2.01 and
+the following text:
+     "If some rule requires that a player perform an action within
+     a given amount of time after an event, and e was unready at
+     the time of that event, then e need not perform that action
+     until 1.5 times that amount of time after that event.  This
+     modifier is applied before any modifiers due to Holidays."

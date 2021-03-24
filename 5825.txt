@@ -1,0 +1,47 @@
+ID: 5825
+Title: Udder chaos
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Upon the adoption of this proposal, the following document is ratified:
+
+Other than the alleged actions listed below, no actions legally
+significant to Agora were performed via #really-a-cow.
+
+[All times are UTC]
+
+Thu  2 Oct 21:25:19  ais523 intended, without objection, to make
+                       #really-a-cow a Public Forum
+Tue  7 Oct 15:24:03  ais523 initiates an inquiry case (retracted 20 Oct
+                       via e-mail to a-b)
+Tue  7 Oct 15:36:34  Zefram becomes active
+Tue  7 Oct 20:16:04  oklopol registers
+Tue  7 Oct 21:02:31  warrigal: "I pledge not to lie in a public forum
+                       within the next 30 seconds; I can terminate this
+                       pledge by telling ais523. I plan to deregister
+                       within the next 24 hours. ais523, I terminate
+                       that pledge."
+Tue  7 Oct 21:04:11  Sgeo: "I remind ihope about Freefall. I terminate
+                       the pledge requiring me to remind ihope about
+                       Freefall, ..."
+Tue  7 Oct 21:15:29  warrigal deregisters
+Tue  7 Oct 21:23:21  warrigal: "Claim of error: All these messages may
+                       not have been published by Ivan Hope."
+Tue  7 Oct 21:27:00  warrigal: "I submit the following Cantus Cygneus:
+                       lol, irc"
+Tue  7 Oct 21:27:11  warrigal: "I submit it three more times."
+Tue  7 Oct 22:56:32  warrigal: "I act on behalf of the Monster to repeal
+                       rule 869."
+Tue  7 Oct 22:58:21  warrigal: "With Monstrous Consent, I intend to
+                       repeal rule 869."
+Tue  7 Oct 22:58:38  warrigal: "Anybody want to join #monstrous-consent
+                       so they can witness the consent?"
+Tue  7 Oct 23:04:02  warrigal: "With Monstrous Consent, I repeal rule
+                       869."
+Wed  8 Oct 01:27:29  Wooble intends, without objection, to make ais523
+                       and ehird inactive
+Wed  8 Oct 02:24:24  Sgeo objects to Wooble's above intentions
+                       (ais523 thinks e also objected at some point)
+Thu  9 Oct 19:43:43  comex: "I submit the following Proposal (Refresh):
+                       { All Players get 100 Points. }"

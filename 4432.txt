@@ -1,0 +1,16 @@
+ID: 4432
+Title: Invisibilitating
+Author: Maud
+Co-authors: 
+Adoption index: 1
+
+Be it resolved, that the proposer of an adopted proposal (besides this 
+proposal) including provisions that propose changes to parts of the 
+gamestate information about which is not subject to publication in official 
+reports, with the exception of the publication of that proposal by the 
+Promotor and the Assessor, shall be guilty of the Class 0 Infraction of 
+Invisibilitating.
+
+Enact a rule, titled "Invisibilitating", reading:
+
+	Each player is authorised to report the Infraction of 	Invisibilitating.

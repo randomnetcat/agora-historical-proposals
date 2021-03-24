@@ -1,0 +1,17 @@
+ID: 5379
+Title: Clarify voting limit reduction Mk II
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing the text:
+
+      c) A player may spend N+1 VCs, each of a color distinct from the
+         rest, to decrease another player's VVLOP by N (to a minimum
+         of zero).
+
+with:
+
+      c) A player may spend N+1 VCs, each of a color distinct from the
+         rest, to decrease another player's VVLOP by N, to a minimum
+         of zero, where N >= 1.

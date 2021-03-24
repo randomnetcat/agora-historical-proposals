@@ -1,0 +1,24 @@
+ID: 6325
+Title: Fix Promotion Mistakes
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 107, replace
+
+      An Agoran decision is initiated when a person authorized to
+      initiate it publishes a valid notice which sets forth the intent
+      to initiate the decision.  This notice is invalid if it lacks
+      any of the following information, and the lack is correctly
+      identified within one week after the notice is published:
+
+with
+
+      An Agoran decision is initiated when a person authorized to
+      initiate it publishes a valid notice which sets forth the intent
+      to initiate the decision.  This notice must include the following
+      information, and is invalid if it lacks any of this information,
+      or the information is incorrect (and the incorrect information
+      could not constitute a valid alternate method of initiating the
+      decision; this does not include taking other actions implicitly
+      as a part of the Decision's initiation).

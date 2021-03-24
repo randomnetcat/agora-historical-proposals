@@ -1,0 +1,8 @@
+ID: 5660
+Title: Even objecting and voting should be unambiguous
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2208 (Clarity of Announcements) by replacing "by
+announcement" with "by sending a message".

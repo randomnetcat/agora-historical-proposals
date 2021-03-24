@@ -1,0 +1,79 @@
+ID: 4693
+Title: A Few Small Steps
+Author: Maud
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 1079 by removing the text "or coin".
+
+Amend rule 869 by replacing the text reading:
+
+       Any person who is not registered as a Player may do so by
+       sending a message to a Public Forum stating that e registers as
+       a Player.  Unless other Rules provide additional necessary
+       conditions for registration that have not been fulfilled or the
+       Rules otherwise prohibit the person from registering, e
+       immediately becomes a registered Player.
+
+with text reading:
+
+       Any person who is not registered as a player may do so by 
+       sending a message to a public forum announcing that e registers
+       as a player.  Unless other rules provide additional necessary
+       conditions for registration that have not been fulfilled or
+       the rules otherwise prohibit the person from registering, e
+       immediately becomes a registered player.
+
+and by replacing the text reading:
+
+       Whenever a person registers as a Player in Agora, and that
+       person has not been registered as a Player in Agora at any time
+       within the 365 previous days, e becomes Unready and is subject
+       to a Grace Period that begins at the time of eir registration
+       and ends sixty days afterwards, unless otherwise provided by
+       this Rule.  A Player is only subject to the Grace Period
+       resulting from eir own registration.
+ 
+       Whenever:
+ 
+       (i) any Holiday occurs completely between the start of any
+           Player's Grace Period and its scheduled conclusion, or
+ 
+       (ii) any Player's Grace Period is scheduled to conclude during
+            any Holiday,
+ 
+       eir Grace Period shall be extended by a period of time equal in
+       length to that Holiday.
+ 
+       Whenever a Player registers during a Holiday, eir Grace Period
+       shall be extended by a period of time equal to the time which
+       elapses between eir registration and the conclusion of that
+       Holiday, provided that no other Rule extends eir Grace Period by
+       reason of that Holiday.
+ 
+       For the purposes of determining when a Player's Grace Period is
+       scheduled to conclude, where more than one Holiday falls fully
+       or partially within that Grace Period, the calculation shall be
+       made separately for each Holiday.
+
+with text reading:
+
+       Whenever a player registers, and that player has not previously
+       been registered as a player in Agora at any time within the 
+       365 previous days, e becomes unready and is subject to a 
+       Grace Period that begins at the time of eir registration 
+       and lasts sixty days, not including Holidays.  A player is
+       only subject to the Grace Period resulting from eir own
+       registration.
+
+Enact a rule, titled "Corporate Players", reading:
+
+       A collective of two or more persons (a Hive) none of whom
+       is currently registered as a player may jointly register
+       as a single player.  A Hive is subject to a Grace Period
+       only if each of its members would have been subject to a 
+       Grace Period had e registered as an individual at the time
+       the Hive registered.
+ 
+       This rule takes precedence over rule 869.

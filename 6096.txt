@@ -1,0 +1,22 @@
+ID: 6096
+Title: You're *only* President for life
+Author: Murphy
+Co-authors: Goethe
+Adoption index: 3.0
+
+Goethe is a co-author of this proposal.
+
+Change the Power of Rule 2223 (Win by Junta) to 3, and amend it to read:
+
+      When a rule's text comes to include the exact sentence "X CAN
+      cause this rule to make arbitrary rule changes by announcement.",
+      except with X replaced by a list of one or more explicitly
+      specified persons, then all those persons satisfy the Winning
+      Condition of Dictatorship.
+
+      Cleanup procedure:  One second later, that rule is amended by
+      removing that sentence (and repealed if it thereby becomes empty),
+      rules to the contrary notwithstanding; using that rule to prevent
+      this is Bad Form.  Those persons SHOULD amend the rules to prevent
+      this condition from being achieved again in essentially the same
+      way.

@@ -1,0 +1,14 @@
+ID: 6346
+Title: Ribbon oops
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2199 (Ribbons) by replacing "any person CAN create that
+ribbon in the player's possession by announcement," with "any person CAN
+once, in a timely manner (except for White Ribbons, which can be awarded
+at any time within a month after they are earned), create that Ribbon in
+the player's possession by announcement," and inserting "(earning a
+Ribbon more than once entitles the bearer to multiple Ribbon awards,
+though capitalizing on this may be difficult)" directly prior to the
+colon in that paragraph.

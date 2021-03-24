@@ -1,0 +1,8 @@
+ID: 6030
+Title: Undo the rest of 5956
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2143 (Official Reports and Duties) by replacing each instance
+of "role" with "office".

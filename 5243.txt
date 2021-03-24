@@ -1,0 +1,7 @@
+ID: 5243
+Title: Spelling fix
+Author: root
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1367 (Degrees) by replacing the text "instrumennt" with "instrument".

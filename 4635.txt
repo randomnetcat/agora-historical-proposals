@@ -1,0 +1,16 @@
+ID: 4635
+Title: Cards for Proposals
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule with the title "Cards for Proposals" that reads:
+
+  When an Interested Proposal is adopted, the Proposer shall
+  gain one pending draw, regardless of any applicable Hand
+  Limit.
+
+  When a Disinterested Proposal is adopted, the Proposer shall
+  gain one pending draw, subject to any applicable Hand
+  Limit.

@@ -1,0 +1,15 @@
+ID: 6222
+Title: Proposal Withdrawals
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+[This has been Agoran custom for a long time yet completely illegal. As
+Promotor I could be NoVed for this, and really don't want to be.]
+
+Remove all proposals from the Proposal Pool that were in it at the
+beginning of the third Agoran week to fall entirely in April of 2009.
+
+Amend rule 106 by adding {A player CAN remove a proposal e authored
+from the Proposal Pool by announcement.} at the end of the second
+paragraph.

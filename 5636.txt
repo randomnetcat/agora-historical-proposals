@@ -1,0 +1,12 @@
+ID: 5636
+Title: Defining Monsterholdors
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+Append the following to the rule entitled "The Monster":
+{{{
+The holder of a Monster is a Monsterholdor, and may be referred to by
+the name of the Monster. A Monster is imposed if it is so described by
+the rule defining it; otherwise, it is elected.
+}}}

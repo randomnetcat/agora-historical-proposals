@@ -1,0 +1,32 @@
+ID: 6419
+Title: Card Lottery
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+Add the following card to R2260 ("the Deck of Government"):
+{{
+Goverment Ball - If you hold an "X Ball" card (where X is the name of
+a Basic Deck) for each other Basic Deck you satisfy the winning
+condition of Win by Lotto. Cleanup Procedure: For each other basic
+deck one such corresponding Ball card is destroyed.
+}}
+
+Add the following card to R2261 ("the Deck of Change"):
+{{
+Change Ball - If you hold an "X Ball" card (where X is the name of a
+Basic Deck) for each other Basic Deck you satisfy the winning
+condition of Win by Lotto. Cleanup Procedure: For each other basic
+deck one such corresponding Ball card is destroyed.
+}}
+
+Add the following card to R2262 ("the Deck of Justice"):
+{{
+Justice Ball - If you hold an "X Ball" card (where X is the name of a
+Basic Deck) for each other Basic Deck you satisfy the winning
+condition of Win by Lotto. Cleanup Procedure: For each other basic
+deck one such corresponding Ball card is destroyed.
+}}
+
+Upon the adoption of this proposal set the Frequency of Government
+Ball, Change Ball, and Justice Ball to 1.

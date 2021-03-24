@@ -1,0 +1,7 @@
+ID: 5799
+Title: Fix Rule 1789
+Author: comex
+Co-authors: ehird
+Adoption index: 2.0
+
+Change the power of Rule 1789 to 2.

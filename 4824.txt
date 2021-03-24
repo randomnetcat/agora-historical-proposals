@@ -1,0 +1,49 @@
+ID: 4824
+Title: Aragon
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+Maud is a co-author of this Proposal.
+
+In Rule 649 (Patent Titles), amend the paragraph reading:
+
+      As soon as possible after a Patent Title award or revocation
+      which occurs automatically occurs, the Herald shall publicly
+      announce that such an award or revocation has occurred, and
+      which Title has been awarded to or revoked from which person or
+      persons.
+
+to read:
+
+      As soon as possible after the Rules state that a Patent title
+      shall be awarded or revoked, the Herald shall publicly award or
+      revoke that Patent Title.
+
+Amend Rule 1044 (Unique Patent Titles) to read:
+
+      A Patent Title is unique when the rules say it is.  If a person
+      is awarded a unique Patent Title, then the Herald shall revoke
+      it as soon as possible from any person already Bearing that
+      Title.
+
+      The following are Unique Patent Titles:
+
+      (a)  Robespierre, which shall be awarded to the Player who called
+           for a Revolt, if the Revolt succeeds.
+
+      (b)  Miscreant, which shall be awarded to a Player who has at
+           least ten Blots and has a greater number of Blots than any
+           other Player, if there is such a Player.  It shall
+           automatically be revoked if either condition becomes false.
+
+      (c)  Pugachev, which shall be awarded to the player who called
+           for a Revolt, if the Revolt fails.
+
+      (d)  Manouchian, which shall be awarded to the player who called
+           for a Revolt and deregistered before the Registrar
+           announced that the Revolt succeeded.
+
+
+Repeal Rule 1923 (Defined Unique Patent Titles)

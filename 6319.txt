@@ -1,0 +1,15 @@
+ID: 6319
+Title: Relative senatorhood
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2177 (The Senate) by replacing this text:
+
+      A Senator is any first-class player who has been registered
+      continuously for the immediately preceding sixty days.
+
+with this text:
+
+      A Senator is any first-class player whose most recent registration
+      was at least sixty days ago.

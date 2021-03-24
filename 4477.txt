@@ -1,0 +1,108 @@
+ID: 4477
+Title: Votes of No Confidence
+Author: Sherlock
+Co-authors: 
+Adoption index: 2
+
+
+[* Add a Vote Type of NO CONFIDENCE *]
+
+
+Amend Rule 683 (Voting on Proposals) to read:
+
+
+       A Voter authorised to cast votes on a particular Proposal may do
+       so only by informing the Assessor of the vote or votes e is
+       casting on that Proposal. Once cast, a vote cannot be changed or
+       cancelled by the Voter which cast it, although it may be
+       cancelled as other Rules require.
+
+
+       A vote upon a Proposal must be one of FOR, AGAINST, ABSTAIN and
+       NO CONFIDENCE (or an obvious synonym of one of these).
+       Something which is not one of these is not a vote upon a Proposal.
+
+
+Amend Rule 879 (Quorum) to read:
+
+
+       (a) An ordinary proposal achieves quorum if at least three
+           oligarchs cast votes on it, and the Speaker did not veto it.
+
+
+       (b) A democratic proposal achieves quorum if at least one third
+           of all active noisy players cast votes on it.
+
+
+       (c) Quorum for a democratic proposal shall be determined from
+           the number of active noisy players at the time that the
+           proposal was distributed, or at the time it was made a
+           democratic proposal, whichever is later.
+
+
+       (d) Votes of NO CONFIDENCE do not count towards quorum.
+
+
+[* Take Out Presence *]
+
+
+Repeal Rule 1715 (Announcing One's Presence).
+
+
+Amend Rule 1764 (Modes of Voting) by replacing the text that reads:
+
+
+       (d)  (1) If the mode of voting is Public, then any other Rule to
+                the contrary notwithstanding, the casting of any votes,
+                or the declaration of Presence, by Voters on that
+                Issue, may only be achieved by sending a message to the
+                Public Forum.
+
+
+            (2) If the mode of voting is Private, then any other Rule
+                to the contrary notwithstanding, the casting of any
+                votes, or the declaration of Presence, by Voters
+                on that Issue, may only be achieved by sending a
+                message privately to the Vote Collector.
+
+
+            (3) If the mode of voting is Unrestricted, then any other
+                Rule to the contrary notwithstanding, the casting of
+                any votes, or the declaration of Presence, by Voters
+                on that Issue, may be achieved by sending a message
+                either publicly or privately.
+
+
+   with the text:
+
+
+       (d)  (1) If the mode of voting is Public, then any other Rule to
+                the contrary notwithstanding, the casting of any votes
+                by Voters on that Issue, may only be achieved by
+                sending a message to the Public Forum.
+
+
+            (2) If the mode of voting is Private, then any other Rule
+                to the contrary notwithstanding, the casting of any
+                votes by Voters on that Issue, may only be achieved by
+                sending a message privately to the Vote Collector.
+
+
+            (3) If the mode of voting is Unrestricted, then any other
+                Rule to the contrary notwithstanding, the casting of
+                any votes by Voters on that Issue, may be achieved by
+                sending a message either publicly or privately.
+
+
+Amend Rule 1835 (Standing Down) by replacing the text that reads:
+
+
+       Any votes cast for a Player who stands down are cancelled, and
+       any Player who cast such a vote is considered to have declared
+       eir Presence in that Election.
+
+
+   with the text:
+
+
+       Any votes cast for a Player who stands down are cancelled.

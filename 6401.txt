@@ -1,0 +1,14 @@
+ID: 6401
+Title: Free-form apologies
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+      * APOLOGY with a set of up to ten words (the prescribed words),
+
+with this text:
+
+      * APOLOGY with a set of up to ten prescribed words (the empty set
+        if none is explicitly specified),

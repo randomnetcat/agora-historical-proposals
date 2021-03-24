@@ -1,0 +1,25 @@
+ID: 4739
+Title: Pragmatic Reshuffles
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2069 by replacing the text reading:
+
+           If, at any time, the number of pending draws for all
+           gamblers is greater than the number of cards in the Deck,
+           then the Deckmastor shall transfer all of the cards in the
+           Discard Pile to the Deck before dealing any cards.  This
+           transfer is known as a Reshuffle and is performed as a
+           single action.
+
+with:
+
+           Whenever a player makes a true announcement that the number
+           of pending draws for all gamblers is greater than the
+           number of cards in the Deck, or that there are no cards in
+           the Deck, then the Deckmastor shall transfer all of the
+           cards in the Discard Pile to the Deck before dealing any
+           cards.  This transfer is known as a Reshuffle and is
+           performed as a single action.

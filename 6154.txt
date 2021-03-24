@@ -1,0 +1,40 @@
+ID: 6154
+Title: Third SHOULD fix
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2152 (Mother, May I?) by replacing the paragraph beginning:
+     3. SHOULD NOT,
+with:
+     3. SHOULD NOT, DISCOURAGED, DEPRECATED:  Performing the
+        described action without having and providing a very,
+        very good reason doing so is not considered to be in
+        the best interests of the game.
+
+
+Amend Rule 2152 (Mother, May I?) by replacing the paragraph beginning:
+     7. SHOULD,
+with:
+     7. SHOULD, ENCOURAGED, RECOMMENDED:  Failing to perform
+        the described action without having and providing a very,
+        very good reason for failure is not considered to be in
+        the best interests of the game.
+
+
+Amend Rule 1504 (Criminal Cases) by replacing:
+       that the correlation between the fine and the severity of the
+       breach is appropriate, or to account for the faith (good or
+       bad) shown by the Ninny in contesting the notice or in aiding
+       or obstructing the course of justice.
+with:
+       that the correlation between the fine and the severity of the
+       breach is appropriate, or to account for the faith (good or
+       bad) shown by the Ninny in contesting the notice, in aiding
+       or obstructing the course of justice, or in acting for or
+       against the best interests of the game.
+
+[Puts SHOULD squarely into the realm of the inquiry courts and
+other such interpretative situations [R217], keeps it out of
+criminality, although it could be used as a criteria for sentencing
+if a SHOULD also breaks a SHALL].

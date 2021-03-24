@@ -1,0 +1,13 @@
+ID: 6120
+Title: Increase the ticket ration
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+     where N is the number of valid Notices of Violation
+
+with this text:
+
+     where N is the number of valid un-Closed Notices of Violation

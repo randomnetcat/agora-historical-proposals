@@ -1,0 +1,13 @@
+ID: 5369
+Title: Hats
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Create the following rule:
+        There is a person switch, known as Hat-Wearing; its valid values are Wearing
+        and Not Wearing (default). It is tracked by the Department of Mental Health.
+        A person may toggle their Hat-Wearing by announcement; this is "putting on"
+        or "taking off" a hat.
+
+Upon adoption of this proposal, Murphy puts on a hat.

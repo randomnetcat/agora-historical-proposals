@@ -1,0 +1,15 @@
+ID: 5098
+Title: Bad Taste
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Create a rule "Rape the Ruleset Week" with Power 1 and the text:
+{{
+The first agoran week of each agoran year that falls entirely in
+August is Rape the Ruleset Week. If a player submits a proposal during
+that week whose sole effect is to repeal one or more rules, and that
+proposal later passes, that player shall earn one VC of each of the
+following colors: Red, Blue, Green. These VCs are in addition to any
+other VCs that player might earn from the passage of said proposal.
+}}

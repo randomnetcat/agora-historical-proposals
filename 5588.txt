@@ -1,0 +1,8 @@
+ID: 5588
+Title: Proposers Dilemma
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+Upon the passing of this proposal all Players whose vote is PRESENT on
+this proposal at the end of its voting period win.

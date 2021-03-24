@@ -1,0 +1,21 @@
+ID: 4721
+Title: Quazie sure discards a lot of proposals
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+ Append the following to the end of the rule created by proposal 4684,
+ most likely called "Corporate Cards"
+
+  * Caption: Divide or Conquer Your Stock
+       Quota: 8
+       Elements: Restricted [Shareholders]
+       Exploit:  Specify one or more Share cards in your hand, and
+         one or more Share cards in the deck and discard pile, such that
+         both sets consist of the same total number of Shares.  The
+         specified cards in your hand are transferred to the discard 
+         pile, and the specified cards in the deck and discard pile are 
+         transferred to your hand.  If any of the cards specified from 
+         the deck and discard pile appear in both the deck and the 
+         discard pile, they shall come from the discard pile.

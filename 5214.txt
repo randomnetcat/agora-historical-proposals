@@ -1,0 +1,29 @@
+ID: 5214
+Title: Secured wins
+Author: root
+Co-authors: comex
+Adoption index: 2
+
+comex is a coauthor of this proposal.
+
+
+Upmutate Rule 2134 (Win by Voting Power) to power 2.
+
+
+Upmutate Rule 2136 (Contests) to power 2, and amend it by replacing
+the text reading:
+
+      Points are a class of fixed assets.  Ownership of points is
+      restricted to players.
+
+with:
+
+      Points are a class of fixed assets.  Ownership of points is
+      restricted to players and cannot be modified except by an
+      instrument with power at least as great as this rule.
+
+
+Create a new rule titled "Secured wins" with power 2, reading:
+
+      It is IMPOSSIBLE to win the game except as specified by an
+      instrument with power at least as great as this rule.

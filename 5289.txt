@@ -1,0 +1,18 @@
+ID: 5289
+Title: Encourage more controversy
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      (-O) When an interested proposal is rejected by voting with no
+           valid votes FOR, and having met quorum, its proposer loses
+           one orange VC.
+
+with this text:
+
+      (-O) When an interested proposal is rejected by voting with no
+           valid votes FOR, and having met quorum, its proposer loses
+           one orange VC, unless e lost a VC in this way earlier in
+           the same week.

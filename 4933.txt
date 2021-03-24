@@ -1,0 +1,15 @@
+ID: 4933
+Title: constrained refusal of excess
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 2132 to read:
+
+      A CFJ submitted by a person who has previously submitted five or
+      more CFJs during the same Agoran Week as that CFJ is an Excess  
+CFJ.
+      The Clerk of the Courts can, by announcement, Refuse an Excess CFJ
+      that has not had any judge assigned to it.  Refusal of an Excess
+      CFJ causes it to cease to be a CFJ.

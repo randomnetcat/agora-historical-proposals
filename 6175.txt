@@ -1,0 +1,91 @@
+ID: 6175
+Title: All Offices Are Important
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+[[Because every office contributes something to the Agoran community, every office should be filled as soon as possible. Note that the only effective change this proposal makes on the game state is to have the IADoP initiate elections for all offices within a week of their vacancy.]]
+
+Amend the third paragraph of rule 2199 (Ribbons) to read {
+
+The Tailor is an office; its holder is the recordkeepor of Ribbons.
+
+}
+
+Amend the first paragraph of rule 2181 (The Accountor) to read {
+
+The Accountor is an office; its holder is responsible for keeping track of classes of assets.
+
+}
+
+Amend the first paragraph of rule 2138 (The International Associate Director of Personnel) to read {
+
+The International Associate Director of Personnel is an office; its holder is responsible for keeping track of officers and reports.
+
+}
+
+Amend the second sentence of the first paragraph of rule 649 (Patent Titles) to read {
+
+The Hearld is an office; its holder is responsible for tracking Patent Titles.
+
+}
+
+Amend the first paragraph of rule 2148 (The Ambassador) to read {
+
+The ambassador is an office; its holder is responsible for relations with foreign nomics.
+
+}
+
+Amend the last paragraph of rule 2143 (Official Reports and Duties) to read {
+
+Any information defined by the rules as part of an office's report, without specifying which one, is part of its weekly report.
+
+}
+
+Amend the second sentence of the fourth paragraph of rule 2229 (Just Resting) to read {
+
+The Herald's monthly report shall include a list of all Fugitives and the number of Rests they possess.
+
+}
+
+Amend the second paragraph of rule 2181 (The Accountor) to read {
+
+The Accountor's monthly report includes a list of all public classes of assets and their backing documents and recordkeepors.
+
+}
+
+Amend the second paragraph of rule 2138 (The International Associate Director of Personnel) to read {
+
+The IADoP's monthly report includes the following:
+
+}
+
+Amend the third sentence of the third paragraph of rule 649 (Patent Titles) to read {
+
+The Herald's monthly report includes a list of each Patent Title that at least one entity Bears, with a list of which entities Bear it.
+
+}
+
+Amend the second sentence of bullet point d of rule 1922 (Defined Regular Patent Titles) to read {
+
+The Herald's monthly report includes how the player won.
+
+}
+
+Amend the second paragraph of rule 402 (Identity of the Speaker) to read {
+
+The Herald's monthly report includes the date on which each Minister Without Portfolio most recently was awarded the title.
+
+}
+
+Amend the fourth paragraph of rule 2147 (Protectorates) to read {
+
+The ambassador's monthly report includes a list of all protectorates,  with contact details for each, and for each the forum in which it is most appropriate to proclaim protective decrees that target that protectorate.
+
+}
+
+Amend the first sentence of rule 2217 (Periodic Elections) to read {
+
+Within a week after an elected office ceases to have (or is created without) an active holder, or after an election for the office ends and the office still lacks an active holder, the IADoP SHALL initiate an election for that office.
+
+}

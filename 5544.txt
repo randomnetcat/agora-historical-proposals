@@ -1,0 +1,22 @@
+ID: 5544
+Title: Justice is Injustice
+Author: ais523
+Co-authors: 
+Adoption index: 2.1
+
+Add the following power=2.1 rule:
+{{{
+CFJ 1984 SHALL NOT and CANNOT be given a judgement.
+
+Any appeals of CFJ 1984 SHALL be judged either REMAND or REASSIGN,
+and any attempts to give any other judgements to such appeals are
+ILLEGAL and IMPOSSIBLE.
+
+Notwithstanding any other rules, CFJ 1984 CAN be appealed by any
+player by announcement, even if it has been appealed previously.
+
+Players SHALL NOT and CANNOT be punished for failure to give a
+judgement to CFJ 1984.
+
+Players SHALL NOT and CANNOT be recused from CFJ 1984 with cause.
+}}}

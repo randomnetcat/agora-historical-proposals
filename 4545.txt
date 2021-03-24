@@ -1,0 +1,35 @@
+ID: 4545
+Title: Power must be an integer
+Author: Magu
+Co-authors: 
+Adoption index: 3.14159
+
+
+Change the Power of Rule 594 to pi (3.14159265358...)
+
+Amend Rule 594 by changing the following text:
+
+      No Rule may have Power less than 1 or greater than 4.  Except as
+      described in this Rule, no entity can set the Power of any
+      entity to exceed the Power of the entity causing the Power to be
+      so set.  No entity may destroy or repeal an entity with Power
+      greater than its own.
+
+      When a Proposal takes effect, its Power shall be [...]
+
+to the following:
+
+      No Rule other than this one may have a Power other than 1, 2, 3, or
+      4.  Except as described in this Rule, no entity can set the Power of
+      any entity to exceed the Power of the entity causing the Power to be
+      so set.  No entity may destroy or repeal an entity with Power
+      greater than its own.
+
+      If a Rule would otherwise be given a Power equal to a disallowed
+      value, then its Power instead becomes the largest allowed value that
+      is less than this value.  If a new Rule would otherwise be given a
+      Power of less than 1, the Rule does not take effect.  If an existing
+      Rule would otherwise be given a power of less than 1, the Rule is
+      instead repealed.
+
+      When a Proposal takes effect, its Power shall be [...]

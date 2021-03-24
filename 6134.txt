@@ -1,0 +1,29 @@
+ID: 6134
+Title: Advanced Notice
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+[Adds a useful dependent mechanism]
+
+Amend Rule 1728 (Dependent Actions) by, immediately after:
+           3) With N Agoran Consent, where N is an integer multiple
+              of 0.1 with a minimum of 1.
+inserting:
+           4) With Advanced Notice.
+
+
+Amend Rule 1728 (Dependent Actions) by replacing:
+                                         (if the action depends on
+         objections) at least four days earlier.
+with:
+                                         (if the action depends on
+         objections or advanced notice) at least four days earlier.
+
+
+Amend Rule 2124 (Agoran Satisfaction) by inserting, immediately after
+the paragraph labeled (3), the following paragraph:
+
+     (4) if the action is to be performed with Advanced Notice,
+         then it has any number of supporters or objectors,
+         including zero.

@@ -1,0 +1,13 @@
+ID: 5148
+Title: make Peekee a player
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Upon the adoption of this proposal, the following actions occur in order:
+1. Rule 869 is amended to remove the sentence "E CANNOT register within
+thirty days after doing so."
+2. The person who deregistered in the message to
+agora-business@agoranomic.org with Message-ID
+<E1IK4F4-00021j-Mr@fripp.uk-noc.com> becomes a player.
+3. Rule 869 is amended by reverting the change made in 1.

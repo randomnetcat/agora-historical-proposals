@@ -1,0 +1,11 @@
+ID: 5463
+Title: Make notes more ephemeral
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Notes) by appending this text:
+
+      Immediately before the end of each month, each player with
+      five or more Notes of the same pitch loses one Note of each
+      pitch.

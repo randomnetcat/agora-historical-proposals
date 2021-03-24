@@ -1,0 +1,14 @@
+ID: 5734
+Title: No More Monster Deputy
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2193, remove:
+     Any Monster (a deputy) CAN perform an action as if e held a
+     particular office (deputise for that office) if:
+
+     (a) the rules require the holder of that office, by virtue of
+         holding that office, to perform the action (or, if the
+         office is vacant, would so require if the office were
+         filled

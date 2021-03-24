@@ -1,0 +1,10 @@
+ID: 4987
+Title: non-player agreements
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.1
+
+Rename Rule # 1742 "Agreements Between Players" to "Agreements"
+
+Amend Rule # 1742 by replacing the word "Players" in the first paragraph
+with "Persons".

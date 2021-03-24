@@ -1,0 +1,20 @@
+ID: 4764
+Title: Skunks smell, but at least the odor goes away after a week
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2075 by replacing the text reading:
+
+      If no one has won the game in the last six months, then any
+      Gambler may announce a Skunk, which shall trigger the effects of
+      a true announcement of a win above, except that no boon shall be
+      awarded.
+
+with:
+
+      If no true announcement of a winning hand or a Skunk has been
+      made in the last six months, then any Gambler may announce a
+      Skunk, which shall trigger the effects of a true announcement of
+      a win above, except that no boon shall be awarded.

@@ -1,0 +1,13 @@
+ID: 4778
+Title: Hard Ruleset Limits
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule entitled "Hard Ruleset Limits" with the text:
+
+      If there are 300 or more Rules, and a Proposal is adopted that
+      would increase the total number of Rules, the Proposer commits
+      the Class 2 Infraction of Improper Rules Fattening, reportable
+      by anyone.

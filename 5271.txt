@@ -1,0 +1,27 @@
+ID: 5271
+Title: Implicit Switches v1.1
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2162 (Switches) by replacing this text:
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes the value of each instance of
+         that switch whose value is not Null.
+
+with this text:
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes the value of each instance of
+         that switch whose value is not its default value.
+
+Amend Rule 869 (How to Join and Leave Agora) by replacing each instance
+of "Null" with "Unregistered".
+
+Amend Rule 2130 (Activity) by replacing "each player's activity" with
+"each non-Active player's activity".
+
+[Knowing how long a player has been continuously inactive is needed to
+determine whether e can be deregistered for inactivity.  Knowing how
+long a player has been continuously inactive is less important.]

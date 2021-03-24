@@ -1,0 +1,68 @@
+ID: 4497
+Title: ANF bugfixes
+Author: Steve
+Co-authors: 
+Adoption index: 1
+
+
+Proposal
+ANF bugfixes
+
+[Bugfix 1]
+Amend Rule 649 (Patent Titles) by replacing:
+      Unless otherwise specified, each Patent Title has Historical
+      Significance.  The Herald may, Without Objection, cause that
+      Title to lose its Historical Significance.  That Title
+      immediately gains Hysterical Significance.
+with:
+      Significance is a stuck switch for Patent Titles with
+      states Historical, Hysterical, and Ephemeral.  The Herald
+      may, Without Objection, cause a Title be switched from
+      Historical Significance to Hysterical Significance.
+
+Amend Rule 1930 (Scoring) by replacing:
+      (k) If a Player gains a Patent Title which e has not held during
+          the 7 days prior to gaining it, e may be Awarded 5 Points.
+with:
+      (k) If a Player gains a Historical Patent Title which e has
+          not held during the 7 days prior to gaining it, e may be
+          Awarded 5 Points.
+
+Amend the rule entitled Ephemera by replacing:
+         A Patent Title is Ephemeral if
+with:
+         A Patent Title has Ephemeral significance if
+
+
+[Bugfix 2]
+Amend Rule 1908 (Abandoned property) by replacing:
+      (3) Without Objection, transfer property owned by em to the
+          Bank, unless the Dissolute was a player before eir property
+          was abandoned; or
+with
+      (3) Without Objection, transfer property owned by em to the
+          Mintor or Recordkeepor of that Property, unless the
+          Dissolute was a player before eir property was abandoned;
+          or
+
+
+[Bugfix 3]
+
+All debts denoted in Stems, Papyri, voting entitlements or
+Indulgences are forgiven.
+
+All rights to demand the return of Property under R1598(f) are
+forfeited.
+
+Amend Rule 1942 (Property) by appending the following text:
+
+      If a category of properties ceases to exist, all debts
+      of that property shall cease to exist.  The former
+      recordkeepor of that property category must, as soon as
+      possible after the category ceases to exist, publish
+      entities' holdings of that category as they existed
+      immediately before this destruction.
+
+      If a Player destroys a category of property for which
+      e is a debtor, e commits the Class-4 Crime of Writing
+      Bad Checks.

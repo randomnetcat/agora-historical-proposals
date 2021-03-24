@@ -1,0 +1,57 @@
+ID: 4561
+Title: Role With the Changes
+Author: Sherlock
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 1960 (Roles) by replacing the text that reads:
+
+      Role is a stuck player switch with values null, politician,
+      scribe, and acolyte.
+
+with the text:
+
+      Role is a stuck player switch with values null, Acolyte, Patron,
+      Politician, and Scribe.
+
+
+Amend Rule 2011 (Role-Based Powers) by retitling it "Progressive Actions"
+and making it read:
+
+      An action is a Progressive action if the rules so state.
+
+      If an action is progressive, a Player (the Actor) may perform
+      the action either:
+
+      (a) with the Support of a number Players equal to one plus the
+          number of times that Actor has performed that action in the
+          current week;
+      (b) by paying a fee equal to the amount of Support required in
+          (a);
+      (c) if the number calculated in (a) is zero, by public
+          announcement.
+
+      A progressive action may be associated with a role if the rules
+      so state.  If an progressive action is associated with a role,
+      only players who hold that role may perform, or support
+      performance of, that action.
+
+
+Create a new rule entitled "Role-Based Powers", which reads:
+
+      For Acolytes, Absolving an entity is a progressive action.
+      Absolving an entity expunges 1 Blot from that entity.
+
+      For Patrons, Donating to a Team is a progressive Action.  The
+      effect of Donating to a Team is to increase that Team's Team
+      Points by 5.
+
+      For Politicians, Debating an Undistributed Proposal is a 
+      progressive Action.  The effect of Debating a Proposal is to 
+      change its Chamber to one named by the Politician, provided it 
+      is legal for that Proposal to be in the named Chamber and the 
+      Proposal is not Sane.
+
+      For Scribes, Rubberstamping a Proposal is a progressive action.
+      A Rubberstamped Proposal becomes Distributable.

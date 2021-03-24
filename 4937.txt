@@ -1,0 +1,12 @@
+ID: 4937
+Title: Good form should be suggested by the rules
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1564 (Initiating Appeals) by appending this text:
+
+      An Appeal may be accompanied by Arguments, Evidence, or
+      other related material; the Board of Appeals is encouraged,
+      but not required, to take notice of these things.

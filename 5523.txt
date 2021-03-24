@@ -1,0 +1,7 @@
+ID: 5523
+Title: Return of the Red Pen
+Author: Pavitra
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2200 by removing the text "registered as ".

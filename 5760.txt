@@ -1,0 +1,16 @@
+ID: 5760
+Title: 'Non-first-class' is ugly
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2150 by replacing:
+      "First-class person" means a person of a biological nature.
+
+      "First-class player" means a player who is a first-class person.
+with:
+
+      A first-class person is a person of a biological nature.  All
+      other persons are second-class.
+
+[I don't think the second definition is necessary.]

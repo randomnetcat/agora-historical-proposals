@@ -1,0 +1,18 @@
+ID: 5511
+Title: Contestmaster Wages
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Contestmaster Wages
+
+Append the following paragraph to Rule 2136:
+
+     For each contest, ASAP after the beginning of each month,
+     the Scorekeepor CAN and SHALL by announcement award a number of
+     points, equal to the number of Players who were Contestants in
+     that Contest at any time during the previous month,
+     to the Player (if any) who was its Contestmaster for 16 or
+     more days during the previous month, provided that the
+     Contestmaster performed Contest-related duties in a timely
+     manner during that time.

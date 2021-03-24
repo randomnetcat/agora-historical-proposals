@@ -1,0 +1,15 @@
+ID: 4770
+Title: A Little Bit of Cleaning
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Amend 2095 (The Assessor's Boon Duties) by replacing the text that
+reads:
+
+      * If an Interested Democratic Proposal passes,
+
+with text that reads:
+
+      * If a Democratic Proposal passes,

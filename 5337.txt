@@ -1,0 +1,21 @@
+ID: 5337
+Title: Fairer Appeals
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.7
+
+Amend R911 "Appeal Cases" by replacing the following:
+{{
+The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of three members, where each
+      of the members is qualified to be assigned as judge of the prior
+      case and none of the members is the prior judge.
+}}
+with:
+{{
+The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of three members, where each
+      of the members is qualified to be assigned as judge of the prior
+      case, the player who initiated the appeal is not a member, and none
+of the members is the prior judge.
+}}

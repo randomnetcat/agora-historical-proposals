@@ -1,0 +1,70 @@
+ID: 6179
+Title: Contractual Offices
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Create the following 2-power rule named {Contractual Offices}:
+{{
+      A contract may define an office. Such an office is called a
+      contractual office, is imposed and has interest index 0. The
+      defining contract sets all other parameters of the office. A
+      contractual office may have its officer selected by any means set
+      out within the contract. All obligations under a contractual
+      office, including ones defined by rules, are obligations under the
+      contract defined by the office, and thus cannot be imposed on
+      non-parties.
+}}
+
+Amend rule 1006, Offices, by replacing the first paragraph with the
+following:
+{{
+      An office is a role defined as such by the rules, or by a contract
+      as permitted by the rules. Each office is either vacant (default)
+      or filled (held) by exactly one player. An officer is the holder
+      of an office, who may be referred to by the name of that office.
+}}
+
+Amend rule 2227, Interest Index of Offices, by replacing {an office}
+with {a non-contractual office}.
+
+Amend rule 2160, Deputisation, by adding another bullet, reading as follows:
+{{
+      (e) If the office is a contractual office, e is a party to the
+          contract defining it.
+}}
+
+Amend rule 2136, Contests, by replacing the first sentence with:
+{{
+      Contestmaster is a public contract switch, tracked by the
+      Scorekeepor, with values 'none' (default), all first-class
+      players, and all contractual offices.
+}},
+by replacing bullet c) in the first list with:
+{{
+       c) Doing so would flip the contestmaster of a contract to a
+          player who has not explicitly consented to be contestmaster of
+          that contest, or to an office whose holder has not explicitly
+          consented to be contestmaster of that contest. (If a player
+          intends to flip the contestmaster of a contract to emself or
+          to an office e holds, this is considered explicit consent to
+          be contestmaster of that contract.)
+}},
+by replacing the second-to-last paragraph with:
+{{
+      Notwithstanding the rest of this rule, it is IMPOSSIBLE to flip
+      the contestmaster of a contract to a player who is not party to
+      that contract or to an office defined by that contract; and if a
+      contract's contestmaster ceases to be party to that contract or an
+      office defined by that contract, that contract's contestmaster is
+      flipped to 'none'.
+}},
+and by adding a new paragraph directly before the last one, with the
+following text:
+{{
+      If a contest's contestmaster is an office, it is IMPOSSIBLE to
+      cause a player to fill that office unless e has explictly
+      consented to be contestmaster of that contest. This rule takes
+      precedence over any other rule which would fill an office or
+      provide a mechanism therefor.
+}}

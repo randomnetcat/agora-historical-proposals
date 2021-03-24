@@ -1,0 +1,25 @@
+ID: 5223
+Title: Trial Simplification
+Author: root
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing the text reading:
+
+      The initiation of a criminal case begins its pre-trial phase.
+      During the pre-trial phase, the case requires a judge.  In the
+      pre-trial phase the judge SHALL as soon as possible inform the
+      defendant of the case and invite em to rebut the argument for
+      eir guilt.
+
+with:
+
+      The initiation of a criminal case begins its pre-trial phase.
+      In the pre-trial phase the CotC SHALL as soon as possible inform
+      the defendant of the case and invite em to rebut the argument
+      for eir guilt.
+
+[The CotC can't recuse a judge in the pre-trial phase, so let's just
+ not require one.  There is no particular advantage to having a judge
+ perform the pre-trial notification rather than the CotC, so the KiSS
+ principle applies.]

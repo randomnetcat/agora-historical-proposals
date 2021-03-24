@@ -1,0 +1,13 @@
+ID: 6417
+Title: Patent Title Security Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 649 (Patent Titles) by replacing "Awarding or revoking a
+Patent Title by Proposal is a secured change." with "Awarding or
+revoking a Patent Title can only be done by a proposal with power 1.5 or
+greater."
+
+[This change, while possibly substantiative, clears up an aspect of that
+rule and makes it do what it intended to.]

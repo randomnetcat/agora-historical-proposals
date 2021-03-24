@@ -1,0 +1,38 @@
+ID: 5370
+Title: first-class dependent actions
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2124 by replacing "support index is N" with "support index
+is N+1".
+
+Amend rule 1728 by replacing
+
+      (d) The eligible voters are those entities that were active
+          first-class players at the start of the voting period,
+          except for the vote collector, and any entities disqualified
+          by the rule specifying that the action can be performed
+          dependently.
+
+with
+
+      (d) The eligible voters are those entities that were active
+          first-class players at the start of the voting period,
+          except for any entities disqualified by the rule specifying
+          that the action can be performed dependently.
+
+and appending after item (g) the new item
+
+      (h) The announcer, by virtue of the announcement of intent,
+          implicitly submits a ballot of SUPPORT on the Agoran
+          decision, if e is an eligible voter and does not explicitly
+          repudiate this implication in the announcement.
+
+[Long overdue fix for partnerships being able to perform actions with
+less support than the rules intend.  Now the "with N support" really
+means that N+1 first-class players must be supporting the action; this
+requirement is the same whether the announcer is first-class or not.
+There's no advantage in using a second-class announcer.  The implicit
+vote mechanism used to implement this seems neater than the
+alternative formulations.]

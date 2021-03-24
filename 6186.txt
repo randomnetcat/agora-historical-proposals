@@ -1,0 +1,13 @@
+ID: 6186
+Title: coppro Discusses Too Much
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend rule 1922 by adding a bullet with the following text:
+{{
+      (i)  All Talk, to be awarded to someone who repeatedly and
+           consistency sends to Discussion Fora messages intended for
+           Public Fora.
+}}
+coppro is awarded the Patent Title All Talk.

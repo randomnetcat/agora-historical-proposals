@@ -1,0 +1,10 @@
+ID: 5227
+Title: Get some colors.
+Author: Peekee
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2126 by appending the a clause after e) to read as follows:
+
+f) A player may spend all of eir VCs provided e owns at least 6 of
+different colors to gain a VC of any color defined by the rules.

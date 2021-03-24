@@ -1,0 +1,25 @@
+ID: 4670
+Title: Reduce the Linked CFJ Penalty
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+Amend R408 by replacing the text:
+      A Judge recused according to this Rule commits the Class 3
+      Infraction of Failure to Judge, to be reported by the Clerk of
+      the Courts.  E becomes ineligible to Judge any CFJ for one
+      month, or until e publicly requests to become eligible again,
+      whichever is soonest.
+
+With:
+
+A Judge recused according to this Rule commits the Infraction of Failure
+
+to Judge; the Class of this Infraction is Class 3 for an unlinked CFJ,
+or for a single incident of Linked CFJs, Class 2 plus the number of
+Linked
+CFJs.  This Infraction is to be reported by the Clerk of the Courts.
+The
+recused Judge becomes ineligible to Judge any CFJ for one month, or
+until e
+publicly requests to become eligible again, whichever is sooner.

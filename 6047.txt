@@ -1,0 +1,10 @@
+ID: 6047
+Title: Oracu-proposal
+Author: comex
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 649 by replacing the first two
+sentences of the third paragraph of Rule 649 with:
+     While a Patent Title has been awarded to (and not revoked from)
+     an entity, that entity is said to Bear that Patent Title.

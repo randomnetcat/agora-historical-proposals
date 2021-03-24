@@ -1,0 +1,8 @@
+ID: 6475
+Title: Simple satisfaction fix
+Author: c.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2124 (Agoran Satisfaction) by removing:
+      (4) The action to be performed is With Notice.

@@ -1,0 +1,51 @@
+ID: 6435
+Title: Change Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2261, find the first card in the first list to have the text
+indicated in said list, and amend the Rule so that the card has the text
+indicated in the second list. Repeat this process until no further
+amendments are made.
+{{
+      * Distrib-u-Matic - A proposal that you indicate becomes
+                          Distributable.
+
+      * Committee       - Make a Proposal you name Undistributable.
+
+      * Your Turn       - Indicate a player.  That player must play or
+                          destroy a card in the next 72 hours; if e
+                          does not, you MAY act on eir behalf to
+                          discard one.
+
+      * Not Your Turn  -  cancel a card play that occured in the last
+                          24 hours; HOWEVER; if this would lead at any
+                          time in the 24 hours after playing to a
+                          paradox which would prevent its play, its
+                          play is unsuccessful.
+}}
+{{
+      * Distrib-u-Matic - Indicate an Undistributable proposal. That
+                          proposal becomes Distributable
+
+      * Committee       - Indicate a Distributable proposal. That
+                          proposal becomes Undistributable.
+
+      * Your Turn       - Indicate a player.  E SHOULD destroy at least
+                          one card in eir possession in the next 72
+                          hours. If e fails to do so, you CAN once
+                          destroy a card in eir possession by
+                          announcement in the subsequent week.
+
+      * Not Your Turn  -  Indicate a given playing of a card that
+                          occurred in the last 24 hours. That play is
+                          canceled and did not occur. If this would lead
+                          at any time in the 24 hours after the playing
+                          of this card to a paradox which would prevent
+                          its play, its play is unsuccessful.
+}}
+[The change to Your Turn is substantiative, the others should not be.
+Your Turn, as written, was broken because it made it LEGAL but not
+POSSIBLE, and acting on behalf is secured at power 3 for first-class
+players, too]

@@ -1,0 +1,35 @@
+ID: 4504
+Title: Third Time's the Charm, Part 1 of 3
+Author: Murphy
+Co-authors: 
+Adoption index: 4
+
+
+[Oceania is at war with Eurasia.  Oceania has always been at war with Eurasia.]
+
+For the purpose of this Proposal, "Player A" refers to the Player identified
+as follows; "Player A's actions" refers to all actions purported to be
+performed by, or to pertain to, Player A.
+
+  * Nickname - Annabel
+  * Name     - Lenore McAllister
+  * E-mail   - lenore@sdf.lonestar.org
+
+For the purpose of this Proposal, "Player H" refers to the Player identified
+as follows; "Player H's actions" refers to all actions purported to be
+performed by, or to pertain to, Player H.
+
+  * Nickname - harvel or Maud
+  * Name     - Michael Slone
+  * E-mail   - mpslon01@msuacad.morehead-st.edu
+               or mpslon01@morehead-st.edu
+               or harvel@vir.fclib.org
+               or harvel@cokernel.org
+               or maud@cokernel.org
+               and possibly others
+               but NOT lenore@sdf.lonestar.org
+
+Upon the adoption of this Proposal, the Gamestate becomes what it would be if
+Player A was always a separate Player from Player H; and if all of Player A's
+actions prior to 1 Jan 2003 00:00:00 UTC were solely Player A's actions, and
+were not Player H's actions.

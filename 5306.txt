@@ -1,0 +1,19 @@
+ID: 5306
+Title: <none>
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Create a rule with the following text:
+Prevention of Flooding from B Nomic
+{
+With 2 SUPPORT, any player may be forcibly deregistered. This support may
+only
+come from first-class players that existed November 12, 2007. The only
+players
+that may be deregistered from this are those that join after November 12,
+2007.
+}
+
+This only prevents new players from joining to flood B nomic. All voters
+should be aware: this rule is meant to be temporary.

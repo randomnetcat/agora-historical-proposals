@@ -1,0 +1,15 @@
+ID: 4655
+Title: Slow Play Reporting
+Author: Kolja
+Co-authors: 
+Adoption index: 1
+
+
+Amend 1686 by replacing 
+"Each officer with a Weekly Report must publish it weekly; each" 
+with
+"Each officer with a Weekly Report must publish it weekly unless the
+content of the report would substantially be the same as in the
+previously published report. In this case, a report must only be
+published within one week of the next substantial change to the
+report's content. Each"

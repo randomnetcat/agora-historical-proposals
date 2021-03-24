@@ -1,0 +1,32 @@
+ID: 4665
+Title: Deckmastor Perks
+Author: Kolja
+Co-authors: 
+Adoption index: 2
+
+
+Amend 1950 by replacing
+"            (1) A Shareholder: eir Share Holdings;
+            (2) Any other entity"
+with
+"            (1) A Shareholder: eir Share Holdings;
+            (2) the Deckmastor: the number of Share Cards in the Deck
+               or three, whichever is smaller; plus eir Share Holdings
+               (if e is a Shareholder); 
+            (3) Any other entity"
+and 
+"              (1) no Player may vote on an Ordinary Proposal unless e
+                  is a Shareholder at the time e casts eir vo"
+with
+"              (1) no Player may vote on an Ordinary Proposal unless e
+                  is a Shareholder or the Deckmastor at the time e
+                  casts eir vo".
+
+Amend 879 by replacing
+"     (a) An ordinary proposal achieves quorum if at least three
+          shareholders cast votes on it, and the Speaker did not veto
+          it."
+with 
+"     (a) An ordinary proposal achieves quorum if at least three
+          players cast votes on it, and the Speaker did not veto
+          it."

@@ -1,0 +1,32 @@
+ID: 5655
+Title: Allow chaotic ID numbers to be assigned
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2161 to read:
+      If a rule defines a type of entity as having ID numbers, then:
+
+      (a) Whenever an entity of that type does not have an ID number,
+          the person held responsible by that rule SHALL assign an ID
+          number to it by announcement as soon as possible.  This ID
+          number SHALL be orderly, unless the person reasonably
+          believes that assigning an orderly ID number would
+          excessively inflate the set of orderly ID numbers of
+          entities of that type.
+
+      (b) An orderly ID number is a natural number (expressed as a
+          decimal literal with at most 14 digits) distinct from any ID
+          number, and greater than any orderly ID number previously
+          assigned to an entity of that type.  When a person assigns
+          an orderly ID number, e SHALL select the smallest number
+          possible, unless e reasonably believes that selecting any
+          smaller number might be invalid or confusing.  All other ID
+          numbers are chaotic.
+
+      (c) Once assigned, an ID number cannot be changed.
+
+      (d) If an office is responsible for assigning ID numbers, then
+          that officer's report includes the greatest orderly ID
+          number, and a list of all chaotic ID numbers previously
+          assigned to the type of entity.

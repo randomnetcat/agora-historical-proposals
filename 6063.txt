@@ -1,0 +1,9 @@
+ID: 6063
+Title: NoV acceptance fix
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2230 (Notices of Violation) by replacing the text "If the
+notice becomes contested after four days" with the text "If a Closed
+notice becomes Contested".

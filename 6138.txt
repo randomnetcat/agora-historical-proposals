@@ -1,0 +1,18 @@
+ID: 6138
+Title: Pragmatize NoVs
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+     To be considered a valid notice of violation, the notice must
+     specify all of:
+
+with this text:
+
+     A notice of violation is invalid if it lacks any of the
+     following information, and the lack is correctly identified
+     within one week after the notice is published:
+
+[Parallel with Rule 107 (Initiating Agoran Decisions).]

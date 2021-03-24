@@ -1,0 +1,56 @@
+ID: 4831
+Title: Rulebooks
+Author: Maud
+Co-authors: 
+Adoption index: 3
+
+
+Enact a rule with power 3, titled "Cooking the Books", reading:
+
+      A Rulebook is a document so designated by the rules, to be
+      maintained by an indicated player.  The Codex is a Rulebook with
+      power 3.
+
+      The maintainer of a nonblank Rulebook shall publish it monthly
+      and as soon as possible after the Rulebook changes.
+
+      A Rulebook may define terms, enable or empower persons to
+      perform actions, require players to perform or avoid performing
+      actions, provide methods for its own modification, and prohibit
+      certain modifications to its text.  Unless otherwise specified,
+      a Rulebook may be modified by a proposal of greater or equal
+      power, and the maintainer of a Rulebook may change
+      non-substantial properties of any Rulebook, specifically layout,
+      whitespace, and the order of definitions, as e sees fit.  If a
+      Rulebook does not specify any methods by which it can be
+      modified, substantial changes in that Rulebook can only be made
+      by proposal.
+
+      A Rulebook may not provide methods to modify the ruleset, enable
+      or empower persons to modify the ruleset, require players to
+      modify the ruleset, prohibit players from attempting to modify
+      the ruleset, or define terms in such a way as to try to sneak
+      around any of these restrictions.
+
+      If a Rulebook conflicts with this rule, this rule wins.  If a
+      Rulebook conflicts with another rule, the conflict shall be
+      resolved as though that Rulebook were a rule with the same rule
+      number as that of this rule.
+
+      The power of a Rulebook is one unless otherwise specified.
+
+Amend the Codex to read:
+
+      == THE TEN THOUSAND MINOR OFFICES ==
+
+      We're working on the "ten thousand" part.  Join Agora today!
+
+      * The Speaker may appoint any player to be the Rules Lawyer by
+        announcement.
+
+      == RULEBOOKS ==
+
+      The following documents are Rulebooks:
+
+      * The Codex, which has power 3, is maintained by the Rules
+        Lawyer, and is the very document you're now reading.

@@ -1,0 +1,46 @@
+ID: 4964
+Title: Disambiguate voter eligibility
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+      An Agoran decision is initiated when a person authorized to
+      initiate it publishes a valid notice which sets forth the intent
+      to initiate the decision.  To be valid, this notice must contain
+      the following information:
+
+with this text:
+
+      An Agoran decision is initiated when a person authorized to
+      initiate it publishes a valid notice which sets forth the intent
+      to initiate the decision.  This notice is invalid if it lacks
+      any of the following information, and the lack is correctly
+      identified within one week after the notice is published:
+
+[107(c) has not been explicitly obeyed for some time, either.]
+
+Amend Rule 683 (Voting on Agoran Decisions) by replacing this text:
+
+      (a) The ballot is submitted by an eligible voter during the
+          voting period for the decision.
+
+with this text:
+
+      (a) The ballot is submitted during the voting period for the
+          decision, and the submitter is an eligible voter at the
+          time of submission.
+
+Amend Rule 1950 (Voting Limits) by replacing each instance of "voting
+limit of an eligible voter" with "voting limit of an entity", and by
+replacing "submitted by an eligible voter" with "submitted by each  
+voter".
+
+Amend Rule 879 (Quorum) to read:
+
+      Quorum for an Agoran decision is N/3 (where N is the number of
+      eligible voters at the start of the voting period), rounded up,
+      with a minimum of five (unless this is greater than N, in which
+      quorum is N).

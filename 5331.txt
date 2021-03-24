@@ -1,0 +1,28 @@
+ID: 5331
+Title: Rubicon Reporting
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend the rule titled "The Senate" by appending to the paragraph
+reading:
+
+      A Senator is any Player who has been registered continuously for
+      the immediately preceding sixty days.  The collection of
+      Senators is the Senate.
+
+this text:
+
+      The Registrar's report includes a list of all Senators.
+
+and by appending to the paragraph reading:
+
+      A Senator CAN call an Emergency Session with 2 Senate
+      supporters, provided no other emergency session existed at any
+      time in the preceding 48 hours.  An emergency session lasts for
+      21 days after being called.
+
+this text:
+
+      The Assessor's report includes the most recent date on which an
+      emergency session was called.

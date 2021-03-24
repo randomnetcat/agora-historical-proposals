@@ -1,0 +1,19 @@
+ID: 4917
+Title: broaden annotations, take two
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 789 "Orders to Annotate Rules" by replacing the paragraph
+that begins "The Judge of any CFJ" with:
+
+        The Judge of any CFJ, the Statement of which alleges that a Rule
+        should be interpreted in a certain way, which is judged TRUE
+        or FALSE, may, at eir discretion, issue an Order requiring the
+        Rulekeepor to annotate the Rule in question accordingly.  If the
+        CFJ was judged TRUE then the annotation shall be the Statement
+        of the CFJ, and if the CFJ was judged FALSE then the annotation
+        shall be the contrary of the Statement of the CFJ.  Such an
+        annotation, while it exists, shall guide application of that  
+Rule.

@@ -1,0 +1,12 @@
+ID: 5117
+Title: restore deregistration of non-persons
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+If proposal 5111 was adopted, amend rule 869 by appending the paragraph
+
+      A player who is not a person and has never been a first-class
+      person can be deregistered by any player by announcement.
+
+[This provision was dropped by P5111 in its rewriting of R869.]

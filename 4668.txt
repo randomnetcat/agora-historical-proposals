@@ -1,0 +1,19 @@
+ID: 4668
+Title: Changeable shares
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Murphy is a co-author on this proposal.
+
+Append the following to R 1932
+
+"* Caption: Divide or Conquer Your Stock
+Quota: 8
+Elements: Restricted [Shareholders]
+Exploit:  Specify one or more Share cards in your hand, and
+one or more Share cards in the deck, such that both sets
+consist of the same total number of Shares.  The specified
+cards in your hand are transferred to the deck, and the
+specified cards in the deck are transferred to your hand."

@@ -1,0 +1,58 @@
+ID: 4572
+Title: Wacky Cards
+Author: Wes
+Co-authors: 
+Adoption index: 1
+
+
+Create a new Rule titled "Wacky Cards" with the following text:
+
+      The following Classes of Cards are defined:
+
+      * Caption: ZOT!
+        Quota: 1
+        Elements: Handed [3]
+        Exploit: For a Fee of X Kudos, an entity of your choice loses 
+          (X times 10) Points. If this would cause that entity to have
+          fewer than zero Points, e shall instead have zero Points.
+
+      * Caption: Albatross Flies Away
+        Quota: 1
+        Elements: Limited [Immaculate Players] [3]
+        Exploit: You may revoke one of your own Albatrosses.
+
+      * Caption: Point Mine
+        Quota: 1
+        Elements: Persistent
+        Exploit: So long as you have not done so already during the 
+          current week, you may gain 1 Point.
+
+      * Caption: Dud
+        Elements: Budgeted, Persistent
+        Exploit: You may wish in your own mind that you had a 
+          luckier Draw.
+
+      * Caption: Dud Fusion
+        Quota: 1
+        Elements: Bleed [2]
+        Exploit: You may discard X Dud Cards to gain X times 20 
+          Points.
+
+      * Caption: Player Stasis
+        Quota: 1
+        Elements: None
+        Exploit: A Player of your choice is unable to Play a Card for
+          the next 88 hours.
+
+      * Caption: Hot Potato
+        Quota: 1
+        Elements: Persistent
+        Exploit: Transfer this Card to another entity. If that entity 
+          does not post to a Public Forum the phrase "Hot Potato" with 
+          48 hours, they are guilty of the Class 1 Infraction of 
+          Dropping the Potato which you are authorized to Report.
+
+      * Caption: It's a Surprise!
+        Quota: 1
+        Elements: Handed [2]
+        Exploit: You may Draw two Cards without paying a Fee.

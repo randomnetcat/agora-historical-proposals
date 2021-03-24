@@ -1,0 +1,20 @@
+ID: 6207
+Title: Fixing Rule 2150 Bug
+Author: Yally
+Co-authors: 
+Adoption index: 3.0
+
+As Rule 2150 goes on to further disambiguate between biological persons
+and non-biological persons, it seems inaccurate to reference ALL persons
+as being strictly biological.
+
+Change the second paragraph of Rule 2150 from:
+
+      Any biological organism that is generally capable of communicating
+      by email in English (including via a translation service) is a
+      person.
+
+to:
+
+      Any entity that is generally capable of communicating by email in
+      English (including via a translation service) is a person.

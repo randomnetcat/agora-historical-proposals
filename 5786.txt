@@ -1,0 +1,17 @@
+ID: 5786
+Title: Privatize the Welcoming Committee
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend the Welcoming Committee contract to read:
+
+     1. The name of this contract is "Welcoming Committee".
+
+     2. Members of this contract SHALL collectively:
+        a) Greet new players.
+        b) Engage in contact with new players to assist them.
+        c) Engage in contact with new players to ensure a positive
+           experience.
+
+Repeal Rule 2209 (Agoran Welcoming Committee).

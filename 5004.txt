@@ -1,0 +1,11 @@
+ID: 5004
+Title: clean up activity duplicates
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+If rule 2130 contains any duplicate paragraphs, amend it by deleting
+each instance other than the first of each duplicate paragraph.
+
+[The unexpected belated passage of proposals 4966-4967 means that it
+now seems likely that we'll get two instances of each taking effect.]

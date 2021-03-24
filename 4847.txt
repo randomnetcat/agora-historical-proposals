@@ -1,0 +1,27 @@
+ID: 4847
+Title: Finite Library
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Finite Library
+
+Amend Rule 2089 (Gardner Library) to read:
+
+      A player (hereafter the Borrower) may check out a specified card
+      from the Library by announcement, which must satisfy a number of
+      satisfiable pending draws that e, in fact, possesses.  The
+      number is 2 pending draws for Students and 1 pending draw for
+      Faculty Members.  Whenever a card is checked out from the
+      Library, it is transferred to the Borrower, and the Library
+      gains a pending draw.
+
+      The President of the University may discard any card in the
+      possession of the Library and replace it with a pending draw,
+      without two objections.  If the Library has no cards and no
+      pending draws, the President may grant the Library 5 pending
+      draws, by announcement.
+
+
+The Library is hereby deemed to have exactly 5 pending draws.

@@ -1,0 +1,14 @@
+ID: 4710
+Title: Promotor's Ex-lax
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Promotor's Ex-lax
+
+Create a new rule entitled "Promotor's Ex-Lax" with the following text.
+
+      The Promotor may make all proposals in the Proposal Pool 
+      distributable without 4 objections and then paying a fee of three
+      Kudos.

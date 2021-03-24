@@ -1,0 +1,9 @@
+ID: 5550
+Title: Tongue-tied
+Author: Ivan Hope
+Co-authors: 
+Adoption index: 1
+
+In Rule 2173, remove the sentence "The Notary SHALL NOT disclose it
+otherwise, except as explicitly allowed by the contract, or with the
+explicit consent of all parties."

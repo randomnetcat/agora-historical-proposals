@@ -1,0 +1,40 @@
+ID: 4579
+Title: Judicial Tweaks
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 911 (The Board of Appeals) by changing "random selection"
+to "selection".
+
+Amend Rule 2024 (Linked Statements) by appending this text:
+
+      If a Trial Judge is recused from a Linked CFJ, then it ceases
+      to be Linked to any other CFJ.  If a Trial Judge is recused
+      from two or more Linked CFJs in a single message, then those
+      CFJs continue to be Linked to each other, but not to any other
+      CFJs to which the Judge is still assigned.
+
+Amend Rule 2032 (Errors in Judge Selection) by replacing this text:
+
+      then that selection shall stand and the selected Player shall
+      become a Judge of that CFJ or Appeal, as if e had been eligible
+      to judge it.
+
+with this text:
+
+      then that selection shall stand and the selected Player shall
+      become a Judge of that CFJ or Appeal, as if e had been eligible
+      to judge it; unless the Clerk of the Courts points out eir
+      error and makes a new selection before the selected Player
+      returns Judgement.
+
+Change the title of Rule 2035 (The Unready are Ineligible) to
+"The Unready and Unnoisy are Ineligible", and amend it to read:
+
+      While a player is unready, e is ineligible to be Judge of any
+      CFJ.
+
+      While a player is not noisy, e is ineligible to become Judge
+      of any CFJ.

@@ -1,0 +1,24 @@
+ID: 5428
+Title: Don't sue, just deputize
+Author: Wooble
+Co-authors: 
+Adoption index: 1.7
+
+Repeal Rule 2169.
+
+In Rule 1871, remove the text:
+     , and poorly qualified to be assigned
+      as judge of any equity case
+
+In Rule 2173, remove the text:
+       The Notary SHALL
+      disclose this information (to the extent that e has been
+      informed of it) to the judge of an equity case pertaining to
+      that contract.
+
+In Rule 2191, remove the text:
+         An equity case regarding a pledge CAN be initiated by a
+      non-party, provided that all other requirements for initiating
+      an equity case are met.  The initiator of such a case is
+      considered to be a party to the pledge for the purpose of that
+      case.

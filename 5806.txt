@@ -1,0 +1,21 @@
+ID: 5806
+Title: Stuck Offices
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2154,
+     replace:
+
+                              (c) if there are no consenting nominees
+     and the office is vacant, the IADOP SHALL, as soon as possible,
+     resolve the nomination as Failed by announcement and begin a new
+     nomination period by nominating at least one player to hold the
+     office.
+
+     with:
+                              (c) if there are no consenting nominees
+     the IADOP SHALL, as soon as possible resolve the nomination as
+     Failed by announcement; if the office is vacant e shall begin a
+     new nomination period by nominating at least one player to hold the
+     office as soon as possible.

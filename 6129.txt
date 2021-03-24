@@ -1,0 +1,15 @@
+ID: 6129
+Title: IADoP Bootstrap
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2160 (Deputisation) by replacing:
+     (b) a time limit by which the rules require the action to be
+         performed has expired; and
+with
+     (b) a time limit by which the rules require the action to be
+         performed has expired, or the office is vacant; and
+
+
+Goethe is hereby installed to the office of IADoP.

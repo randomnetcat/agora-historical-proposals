@@ -1,0 +1,12 @@
+ID: 5690
+Title: The Angry Mob
+Author: root
+Co-authors: 
+Adoption index: 1.0
+
+      As soon as possible after this rule is enacted, the Mad Scientist SHALL
+      randomly choose an integer from 1 to the number of eligible voters on
+      this proposal plus the number of distinct voters who voted AGAINST this
+      proposal. If the chosen integer is less than or equal to the number of
+      distinct voters who voted FOR this proposal, then Rules 2192 and 2193 are
+      repealed. When an integer is so chosen, this rule repeals itself.

@@ -1,0 +1,13 @@
+ID: 5486
+Title: keeping informed
+Author: Goethe
+Co-authors: 
+Adoption index: 1.5
+
+keeping informed
+
+Amend Rule 2178 by appending the following paragraph:
+
+     If the Notary publicly requests for a specific member of a
+     public contract to publish the contract's text or membership,
+     that member SHALL do so as soon as possible.

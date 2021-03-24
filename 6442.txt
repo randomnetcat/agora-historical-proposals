@@ -1,0 +1,15 @@
+ID: 6442
+Title: Promotor CAN Remove Old Proposals
+Author: Yally
+Co-authors: 
+Adoption index: 3.0
+
+Append the following text to paragraph 2 of Rule 106:
+
+      The Promotor CAN, by announcement, remove an undistributable
+      proposal from the Proposal Pool that has continuously been in
+      the Proposal Pool for the preceeding 30 days.
+
+[This allows the Promotor to unclutter eir report by removing
+proposals that nobody cares about anymore. If anyone does actually
+care about those proposals, they can always just be resubmitted.]

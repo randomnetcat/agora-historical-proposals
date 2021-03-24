@@ -1,0 +1,15 @@
+ID: 4554
+Title: Minor Fixes
+Author: Elysion
+Co-authors: 
+Adoption index: 2
+
+
+Amend rule 1664 (Rebellion) by deleting the following text:
+
+- Any Indulgence Auction in progress is cancelled
+
+
+Amend rule 1446 (Contests) by deleting the following text:
+
+Each Contest has Mint Authority.

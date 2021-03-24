@@ -1,0 +1,22 @@
+ID: 5177
+Title: earned citizenship/1
+Author: Pavitra
+Co-authors: BobTHJ, root
+Adoption index: 2
+
+BobTHJ and root are coauthors of this proposal.
+
+Amend rule 2156 by replacing the text "The BVLOP of a first-class
+player is four, and the BVLOP of any other player is zero." with "The
+BVLOP of a player is zero."
+
+Amend rule 2126 by replacing the last sentence with:
+"When one or more players win the game, each player's VVLOP is set to
+eir BVLOP, and each player with more than four VCs loses all but four
+VCs of their choice. A player who is to lose VCs in this way SHALL
+indicate eir choice by announcement as soon as possible, and CANNOT
+spend VCs until e does so.
+If, after the aforementioned win but before the announcement of eir
+choice, the player in question would lose VCs by any mechanism other
+than this paragraph, then the loss is delayed until one second after
+the VC loss required by this paragraph takes place."

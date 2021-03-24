@@ -1,0 +1,15 @@
+ID: 5800
+Title: Foreign Monsters
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+     When a foreign Monster becomes a Protectorate, its Recognition
+     becomes Protected.  When a foreign Monster ceases to be a
+     Protectorate, its Recognition becomes Unknown.  A foreign
+     Monster's Recognition CANNOT change to or from Protected in any
+     other way.
+
+     The Ambassador CAN, without objection, flip a foreign Monster's
+     Recognition to any value (subject to the above restriction).  E
+     SHALL inform that Monster of the change as soon as possible.

@@ -1,0 +1,55 @@
+ID: 4542
+Title: Pragmatize Scoring
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Change the title of Rule 2055 to "The Scorekeepor's Budget", and
+amend it to read:
+
+        The Scorekeepor's Budget shall contain the following:
+
+          a) The Team Points Goal, a positive integer.
+          b) The Player Points Limit, a positive integer.
+          c) Points Per Player, a positive integer.
+          d) One or more scoring events, each with the following
+             information:
+                 i) Whether it is an award or a penalty.
+                ii) The amount of the award/penalty, a positive integer.
+               iii) The conditions required for the event to occur.
+                iv) A description of which player/team receives the
+                    award/penalty.
+
+        Each scoring event in the Scorekeepor's Budget may cause the
+        specified player/team to be awarded/penalized the specified
+        number of points, as defined by other rules.
+
+Amend Rule 1990 (Points Contest) by changing "PPP (Points Per Player)"
+to "Points Per Player", then changing each instance of "PPP" to "Points
+Per Player", then changing each instance of "PLIMIT" to "Player Points
+Limit".
+
+Amend Rule 1929 (Points) by appending this text:
+
+        If the event did not actually occur, and the notification is
+        challenged within 7 days for this reason, then the notification
+        is invalid and points do not change.
+
+        If the event did not actually occur, and the notification is
+        not challenged within 7 days for this reason, then the notification
+        is valid and points change.  If the notification is challenged
+        later, then the player may be penalized/awarded a number of points
+        equal to the original award/penalty.
+
+Amend Rule 2053 (Team Points, Team Scores) by appending this text:
+
+        If the event did not actually occur, and the notification is
+        challenged within 7 days for this reason, then the notification
+        is invalid and points do not change.
+
+        If the event did not actually occur, and the notification is
+        not challenged within 7 days for this reason, then the notification
+        is valid and points change.  If the notification is challenged
+        later, then the team may be penalized/awarded a number of points
+        equal to the original award/penalty.

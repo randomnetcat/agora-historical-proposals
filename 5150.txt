@@ -1,0 +1,18 @@
+ID: 5150
+Title: Vote Collector's Implicit Support
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 955 by replacing the text:
+
+          (3) If the ratio of the strength of SUPPORT to the combined
+              strength of SUPPORT and OBJECT is less than or equal to
+              the majority index (if any), then the outcome is
+              REJECTED.
+
+with:
+
+          (3) If the ratio of the strength of SUPPORT to the combined
+              strength of SUPPORT and OBJECT is less than the majority
+              index (if any), then the outcome is REJECTED.

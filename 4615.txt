@@ -1,0 +1,20 @@
+ID: 4615
+Title: Officer card bonus
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2069 by replacing:
+           A Gambler may Draw from The Deck for a Fee equal to the
+           number of times that Gambler has previously Drawn from the
+           Deck during the current month so long as the Gambler's Hand
+           Size is smaller than the Maximum Hand Size.
+
+with:
+           A Gambler may Draw from The Deck for a Fee equal to the
+           number of times that Gambler has previously Drawn from the
+           Deck during the current month so long as the Gambler's Hand
+           Size is smaller than the Maximum Hand Size plus the number
+           of Offices e holds.  For the purposes of this Rule, the
+           Speakership is considered an office.

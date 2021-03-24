@@ -1,0 +1,663 @@
+ID: 4707
+Title: Fool me thrice
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Fool me thrice
+
+
+Amend Rule 1079 by replacing:
+      (a) When a Rule requires a random choice to be made, then the
+          choice shall be made using whatever probability distribution
+          among the possible outcomes the Rules provide for making
+          that choice. If the Rules do not specify a probability
+          distribution, then a uniform probability distribution shall
+          be used.
+
+      (b) Where the Rules do not indicate who is required to make a
+          particular random choice, it shall be made by the Speaker.
+
+      (c) When making a random choice as required by the Rules, a
+          Player may rely on any physical or computational process
+          whose probability distribution among the possible outcomes
+          is reasonably close to that required by the Rules.
+
+      (d) For the purposes of this Rule, tossing a platonic solid or
+          coin that is not specially weighted has a probability
+          distribution among the possible outcomes that is reasonably
+          close to uniform.
+
+      (e) For other methods, the Courts are the final arbiter of
+          whether a method's probability distribution among the
+          possible outcomes is reasonably close to that required by
+          the Rules.
+with:
+      (a) When a Rule requires a random choice to be made, then the
+          choice shall be made using whatever probability
+          distribution among the possible outcomes the Rules provide
+          for making that choice. If the Rules do not specify a
+          probability distribution, then a uniform probability
+          distribution shall be used.
+
+      (b) Where the Rules do not indicate who is required to make a
+          particular random choice, it shall be made by the Speaker.
+
+      (c) When making a random choice as required by the Rules, a
+          Player may rely on any physical or computational process
+          whose probability distribution among the possible outcomes
+          is reasonably close to that required by the Rules.
+
+      (d) For the purposes of this Rule, tossing a platonic solid or
+          coin that is not specially weighted has a probability
+          distribution among the possible outcomes that is
+          reasonably close to uniform.
+
+      (e) For other methods, the Courts are the final arbiter of
+          whether a method's probability distribution among the
+          possible outcomes is reasonably close to that required by
+          the Rules.
+
+Amend Rule 1926 by replacing:
+      The Rules may designate certain pieces of information to
+      be secret. Any player who knowingly reveals secret information
+      to another player, except as explicitly permitted or required
+      by the rules, commits the Crime of Unlawful Disclosure, a Class
+      5 Crime. All secret information is deemed private, with respect
+      to the Freedom of Information Act.
+with:
+      The Rules may designate certain pieces of information to be
+      secret. Any player who knowingly reveals secret information to
+      another player, except as explicitly permitted or required by the
+      rules, commits the Crime of Unlawful Disclosure, a Class 5 Crime.
+      All secret information is deemed private, with respect to the
+      Freedom of Information Act.
+
+Amend Rule 1478 by replacing:
+      (b) A Limited Executor of an entity is a Player who is empowered
+          by the Rules to perform on behalf of that entity a subset of
+          the actions which the Rules permit the entity to perform. A
+          Limited Executor is permitted to perform on behalf of an
+          Executee only such actions as are explicitly permitted by
+          the Rules.
+with:
+      (b) A Limited Executor of an entity is a Player who is
+          empowered by the Rules to perform on behalf of that entity
+          a subset of the actions which the Rules permit the entity
+          to perform. A Limited Executor is permitted to perform on
+          behalf of an Executee only such actions as are explicitly
+          permitted by the Rules.
+
+Amend Rule 1989 by replacing:
+      (b) Any other Rule to the contrary notwithstanding, the Prime
+          Executor of an entity with respect to a certain action must
+          be an Executor of that entity, or a Limited Executor of that
+          entity who is permitted to perform that action on behalf of
+          that entity.
+
+      (c) If the Rules designate a Player to be the Prime Executor of
+          an entity, without specifying particular actions that the
+          Prime Executor is responsible for performing, then that
+          Player is the Prime Executor of that entity with respect to
+          all actions that the entity is required to perform.
+with:
+      (b) Any other Rule to the contrary notwithstanding, the Prime
+          Executor of an entity with respect to a certain action must be
+          an Executor of that entity, or a Limited Executor of that
+          entity who is permitted to perform that action on behalf of
+          that entity.
+
+      (c) If the Rules designate a Player to be the Prime Executor of an
+          entity, without specifying particular actions that the Prime
+          Executor is responsible for performing, then that Player is
+          the Prime Executor of that entity with respect to all actions
+          that the entity is required to perform.
+
+Amend Rule 1630 by replacing:
+      Any Player who knowingly attempts to act as, or purports to be,
+      the Executor of an Entity, of which e is not the Executor,
+      commits the Class 4 Crime of Impersonation.
+with:
+      Any Player who knowingly attempts to act as, or purports to be,
+      the Executor of an Entity, of which e is not the Executor,
+      commits the Class 4 Crime of Impersonation.
+
+Amend Rule 1727 by replacing:
+      And WHEREAS, a nomic thus rose like a phoenix from the ashes of
+      Nomic World, played on the mailing list originally set up for
+      discussion of Nomic World, and coming into existence at June
+      30, 1993, 00:04:30 GMT +1200, with a message sent by First
+      Speaker Michael Norrish, which read, in part,
+with:
+      And WHEREAS, a nomic thus rose like a phoenix from the ashes
+      of Nomic World, played on the mailing list originally set up
+      for discussion of Nomic World, and coming into existence at
+      June 30, 1993, 00:04:30 GMT +1200, with a message sent by
+      First Speaker Michael Norrish, which read, in part,
+
+Amend Rule 478 by replacing:
+      A message is not public unless some rule states that it is
+      public.  A message is public if it is sent via a Public forum,
+      or if it is sent to all players via a combination of fora and
+      contains a clear designation of intent to be public.
+
+      A player publishes information by publicly sending a message
+      containing that information, and announces something by
+      publishing it.
+
+      If the rules state that a player may perform an action by
+      announcement, then that player may perform that action by
+      announcing that e performs it.  If the rules state that a player
+      may perform an action by private message to some player, then
+      that player may perform that action by sending a message
+      privately to the specified player indicating that e performs it.
+      In either case, such a message must unambiguously describe the
+      action to be performed.
+with:
+      A message is not public unless some rule states that it is public.
+      A message is public if it is sent via a Public forum, or if it is
+      sent to all players via a combination of fora and contains a clear
+      designation of intent to be public.
+
+      A player publishes information by publicly sending a message
+      containing that information, and announces something by publishing
+      it.
+
+      If the rules state that a player may perform an action by
+      announcement, then that player may perform that action by
+      announcing that e performs it.  If the rules state that a player
+      may perform an action by private message to some player, then that
+      player may perform that action by sending a message privately to
+      the specified player indicating that e performs it.  In either
+      case, such a message must unambiguously describe the action to be
+      performed.
+
+Amend Rule 1976 by replacing:
+      In the four weeks immediately after eir Grace Period ends, a
+      Player (hereafter, the 'Protege') may post a single message of
+      Gratitude, naming up to four other Players (hereafter,
+      'Mentors') e deems to have been helpful to em as a new Player.
+with:
+      In the four weeks immediately after eir Grace Period ends, a
+      Player (hereafter, the 'Protege') may post a single message of
+      Gratitude, naming up to four other Players (hereafter, 'Mentors')
+      e deems to have been helpful to em as a new Player.
+
+Amend Rule 2036 by replacing:
+      (a) The publication of a Notice of Abandonment commences the
+          Silent Treatment for the player identified in it.
+
+      (b) The requirement to perform the actions described in this
+          Rule is subject to the Notice of Abandonment remaining
+          valid. If at any time during the Silent Treatment the Notice
+          of Abandonment is invalid, then the Treatment is terminated,
+          and the Registrar is relieved of all powers and
+          responsibilities regarding it.
+
+      (c) As soon as possible after the commencement of the Silent
+          Treatment, the Registrar shall:
+
+          (1) publically confirm whether the Notice of Abandonment was
+              valid at the commencement of the Silent Treatment, and
+              whether it remains valid;
+
+          (2) publish in all designated Public Fora, and send to each
+              listed e-mail address of the player, a Notice of Intent
+              to Deregister, identifying the player to be deregistered
+              (the same as in the Notice of Abandonment), and
+              announcing the Registrar's intent to deregister that
+              player after one month has passed.
+
+      (d) If the Notice of Abandonment remains valid a month after the
+          publication of the Notice of Intent to Deregister, then the
+          Registrar shall, as soon as possible, publish in all
+          designated Public Fora, and send to each listed e-mail
+          address of the player, a Notice of Deregistration,
+          identifying the player being deregistered (the same as in
+          the Notice of Abandonment). A Notice of Deregistration is
+          valid if and only if it is published by the Registrar,
+          following the procedures described in this Rule.
+
+      (e) Upon publication of a valid Notice of Deregistration, the
+          following events occur in order:
+
+          (1) if the player identified in the Notice of Deregistration
+              is the Speaker, e commits the Class 15 Crime of Speaker
+              Abandonment; e ceases to be Speaker, and the
+              Speaker-Elect becomes Speaker;
+
+          (2) the player identified in the Notice of Deregistration is
+              deregistered;
+
+          (3) the Silent Treatment for that player concludes.
+with:
+      (a) The publication of a Notice of Abandonment commences the
+          Silent Treatment for the player identified in it.
+
+      (b) The requirement to perform the actions described in this
+          Rule is subject to the Notice of Abandonment remaining
+          valid. If at any time during the Silent Treatment the Notice
+          of Abandonment is invalid, then the Treatment is terminated,
+          and the Registrar is relieved of all powers and
+          responsibilities regarding it.
+
+      (c) As soon as possible after the commencement of the Silent
+          Treatment, the Registrar shall:
+
+          (1) publically confirm whether the Notice of Abandonment was
+              valid at the commencement of the Silent Treatment, and
+              whether it remains valid;
+
+          (2) publish in all designated Public Fora, and send to each
+              listed e-mail address of the player, a Notice of Intent
+              to Deregister, identifying the player to be deregistered
+              (the same as in the Notice of Abandonment), and
+              announcing the Registrar's intent to deregister that
+              player after one month has passed.
+
+      (d) If the Notice of Abandonment remains valid a month after the
+          publication of the Notice of Intent to Deregister, then the
+          Registrar shall, as soon as possible, publish in all
+          designated Public Fora, and send to each listed e-mail
+          address of the player, a Notice of Deregistration,
+          identifying the player being deregistered (the same as in
+          the Notice of Abandonment). A Notice of Deregistration is
+          valid if and only if it is published by the Registrar,
+          following the procedures described in this Rule.
+
+      (e) Upon publication of a valid Notice of Deregistration, the
+          following events occur in order:
+
+          (1) if the player identified in the Notice of Deregistration
+              is the Speaker, e commits the Class 15 Crime of Speaker
+              Abandonment; e ceases to be Speaker, and the
+              Speaker-Elect becomes Speaker;
+
+          (2) the player identified in the Notice of Deregistration is
+              deregistered;
+
+          (3) the Silent Treatment for that player concludes.
+
+Amend Rule 1431 by replacing:
+      A Claim of Error is a public message claiming that a specific
+      public communication misrepresents the actual Game State, and
+      documenting the nature of the error.  The person who sent the
+      original communication is hereafter known as the Journalist, and
+      the portion of the communication claimed to be in error is
+      hereafter known as the Yellow Document.
+
+      A Response to a Claim of Error is a public message from the
+      Journalist that either admits or denies the claim.  An admission
+      is not valid until the Journalist posts a corrected version of
+      the Yellow Document.
+
+      If the Journalist was required by the Rules to publish the
+      information in the Yellow Document, then e must publish a
+      Response as soon as possible, unless one of the following holds:
+with:
+      A Claim of Error is a public message claiming that a specific
+      public communication misrepresents the actual Game State, and
+      documenting the nature of the error.  The person who sent the
+      original communication is hereafter known as the Journalist,
+      and the portion of the communication claimed to be in error is
+      hereafter known as the Yellow Document.
+
+      A Response to a Claim of Error is a public message from the
+      Journalist that either admits or denies the claim.  An
+      admission is not valid until the Journalist posts a corrected
+      version of the Yellow Document.
+
+      If the Journalist was required by the Rules to publish the
+      information in the Yellow Document, then e must publish a
+      Response as soon as possible, unless one of the following
+      holds:
+
+Amend Rule 1726 by replacing:
+      There is a type of Application known as a Guillotine
+      Application.  Such an Application is submitted by submitting it
+      to the Assessor.  A Guillotine Application may specify when it
+      is to take effect; if it does not do so, or specifies a time
+      prior to its submission, it takes effect when submitted.  For a
+      Guillotine Application to take effect:
+
+      * it must state that it is a Guillotine Application;
+
+      * it must clearly identify exactly one Proposal to which it
+        applies;
+
+      * that Proposal's Voting Period must be in progress;
+
+      * the ratio of the number of Active Senators whose signatures it
+        bears to the number of Active Senators whose signatures it
+        does not bear must exceed the Adoption Index of the Proposal;
+        and
+
+      * it must bear the signatures of at least two Senators.
+
+      When a Guillotine Application takes effect, the Voting Period
+      of the Proposal to which it applies immediately ends.  This Rule
+      takes precedence over all other Rules governing the Voting
+      Period of Proposals.
+with:
+      There is a type of Application known as a Guillotine
+      Application.  Such an Application is submitted by submitting
+      it to the Assessor.  A Guillotine Application may specify when
+      it is to take effect; if it does not do so, or specifies a
+      time prior to its submission, it takes effect when submitted.
+      For a Guillotine Application to take effect:
+
+      * it must state that it is a Guillotine Application;
+
+      * it must clearly identify exactly one Proposal to which it
+        applies;
+
+      * that Proposal's Voting Period must be in progress;
+
+      * the ratio of the number of Active Senators whose signatures
+        it bears to the number of Active Senators whose signatures
+        it does not bear must not exceed the Adoption Index of the
+        Proposal; and
+
+      * it must bear the signatures of at least two Senators.
+
+      When a Guillotine Application takes effect, the Voting Period
+      of the Proposal to which it applies immediately ends.  This
+      Rule takes precedence over all other Rules governing the
+      Voting Period of Proposals.
+
+Amend Rule 683 by replacing:
+      A Voter authorised to cast votes on a particular Proposal may do
+      so only by informing the Assessor of the vote or votes e is
+      casting on that Proposal. Once cast, a vote cannot be changed or
+      cancelled by the Voter which cast it, although it may be
+      cancelled as other Rules require.
+
+      A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
+      (or an obvious synonym of one of these).  Something which is not
+      one of these is not a vote upon a Proposal.      with:
+      A Voter authorised to cast votes on a particular Proposal may
+      do so only by informing the Assessor of the vote or votes e is
+      casting on that Proposal. Once cast, a vote cannot be changed
+      or cancelled by the Voter which cast it, although it may be
+      cancelled as other Rules require.
+
+      A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
+      (or an obvious synonym of one of these).  Something which is
+      not one of these is not a vote upon a Proposal.
+
+Amend Rule 1449 by replacing:
+      The Assessor is an office; its holder is responsible for
+      receiving and announcing the results of votes on proposals.
+
+      The Assessor's Weekly Report shall include
+
+      * a list of the identity and voting power for Proposals in each
+        Chamber, for all entities with nonzero voting power in at
+        least one Chamber.
+
+      * the Voting Potentials of every Player.
+
+      * the prevailing mode of voting on Proposals.
+with:
+      The Assessor is an office; its holder is responsible for receiving
+      and announcing the results of votes on proposals.
+
+      The Assessor's Weekly Report shall include
+
+      * a list of the identity and voting power for Proposals in each
+        Chamber, for all entities with nonzero voting power in at least
+        one Chamber.
+
+      * the Voting Potentials of every Player.
+
+      * the prevailing mode of voting on Proposals.
+
+Amend Rule 1891 by replacing:
+      (c) Legislative Orders may not be stayed, vacated, or amended
+          except:
+        (1) by a subsequent Legislative Order;
+        (2) by a Judicial Order issued only after a judicial finding
+            that the Proposal containing the Legislative Order was not
+            adopted, was barred from taking effect, or was invalid; or
+        (3) by the Clerk of the Courts, but only for the purpose of
+            staying such an Order during the pendency of a dispute
+            which might reasonably lead to a judicial finding of the
+            sort mentioned in subdivision (c)(2) of this Rule.
+with:
+      (c) Legislative Orders may not be stayed, vacated, or amended
+          except:
+        (1) by a subsequent Legislative Order;
+        (2) by a Judicial Order issued only after a judicial
+            finding that the Proposal containing the Legislative
+            Order was not adopted, was barred from taking effect,
+            or was invalid; or
+        (3) by the Clerk of the Courts, but only for the purpose of
+            staying such an Order during the pendency of a dispute
+            which might reasonably lead to a judicial finding of
+            the sort mentioned in subdivision (c)(2) of this Rule.
+
+Amend Rule 1445 by replacing:
+      When an Election is required and the procedure is not defined
+      elsewhere, the following Standard Election Procedure shall be
+      used.  Details specified herein are defaults which may be
+      modified by other Rules for specific situations.
+
+      * Vote Collector: The Vote Collector is responsible for taking
+        nominations, collecting and tallying the Votes, and announcing
+        the results.  The Vote Collector is the Speaker at the time
+        the Election begins.
+
+      * Disappearance of Vote Collector: If the Vote Collector
+        deregisters or is deregistered before announcing the winner of
+        the Election, then the Election has no winner.
+
+      * Nominator: A Nominator is an entity permitted to Nominate a
+        Candidate in an Election.  Only Active Players are Nominators.
+        Activity is measured at the time a Nomination is sent.
+
+      * Prospective: A Prospective is an entity permitted to be
+        Nominated as a Candidate in an Election.  Only Active Players
+        are Prospectives.  Activity is measured at the time a
+        Nomination is sent.
+
+      * Nominating: A Nominator Nominates a Prospective by sending a
+        message to the Vote Collector during the Nominating Period,
+        indicating the Election and the Prospective.  If the
+        Prospective is not explicitly identified, then it is the same
+        as the Nominator.
+
+      * Candidates: A Candidate for an Election is a Prospective who
+        has been Nominated in that Election.
+
+      * Retraction: A Nominator may retract eir Nomination by sending
+        a message to the Vote Collector during the Nominating Period,
+        indicating the Election and the Prospective.  If the
+        Prospective is not explicitly identified, then it is the same
+        as the Nominator.
+
+      * Declination: A Prospective may decline eir Nomination by
+        sending a message to the Vote Collector during the Nominating
+        Period, indicating the Election.  Upon doing so, e may not be
+        re-Nominated in that Election by anyone but emself.
+
+      * Mode of Nominations: There are three Modes of Nominations:
+        Selfish, Selfless, or Open.  The Vote Collector may specify a
+        Mode of Nominations when e announces the start of the
+        Election; if e does not, then the Mode is Selfish.
+
+        (a) In a Selfish Election, a Nominator may Nominate only
+            emself.
+        (b) In a Selfless Election, a Nominator may not Nominate
+            emself.
+        (c) In an Open Election, a Nominator may Nominate any
+            Prospective.
+
+      * Start of Nominations: The Nominating Period begins at the time
+        of the first correct and legal announcement that an Election
+        has begun, as defined in other Rules.  Such an announcement
+        must include the identity of the Vote Collector.
+
+      * Duration of Nominations: The Nominating Period lasts for one
+        Week.  All Nominations received by the Vote Collector outside
+        of the Nominating Period have no effect.
+
+      * Secrecy:  Nominations need not be kept secret.
+
+      * End of Nominations: As soon as possible after the end of the
+        Nominating Period, the Vote Collector shall publish a list of
+        all Candidates.  If e does not do this as soon as possible,
+        then the Election has no winner.
+
+      If there are no Candidates, then the Election has no winner.
+
+      If there is exactly one Candidate, then e is the winner of that
+      Election.
+
+      If there are two or more Candidates, then a Referendum begins
+      when the Vote Collector publishes the list of Candidates.  This
+      is a standard Referendum, with the following exceptions:
+
+      * Vote Collector: The Vote Collector for the Referendum is the
+        same as the Vote Collector for the Election.
+
+      * Vote Values: A Vote is the name of exactly one Candidate for
+        the given Election.  Words which are effectively synonymous
+        with these are also permissible.
+
+      * Failure of Referendum: If the Referendum fails for any reason
+        (e.g. Quorum is not achieved), then the Election has no
+        winner.
+
+      * Adoption: The winner of the Election is the Candidate for whom
+        the most Votes were cast.  If two or more Candidates are tied
+        for most Votes, then the Speaker shall choose one of those
+        Candidates, who becomes the winner when the Speaker announces
+        eir choice.  The Speaker shall announce eir choice as soon as
+        possible after the Vote Collector announces the results of
+        Voting.
+
+      * Effectiveness: An Election takes effect when the Vote
+        Collector correctly announces the identity of its winner.  The
+        effect of an Election is defined by other Rules.
+with:
+      When an Election is required and the procedure is not defined
+      elsewhere, the following Standard Election Procedure shall be
+      used.  Details specified herein are defaults which may be
+      modified by other Rules for specific situations.
+
+      * Vote Collector: The Vote Collector is responsible for taking
+        nominations, collecting and tallying the Votes, and
+        announcing the results.  The Vote Collector is the Speaker
+        at the time the Election begins.
+
+      * Disappearance of Vote Collector: If the Vote Collector
+        deregisters or is deregistered before announcing the winner
+        of the Election, then the Election has no winner.
+
+      * Nominator: A Nominator is an entity permitted to Nominate a
+        Candidate in an Election.  Only Active Players are
+        Nominators.  Activity is measured at the time a Nomination
+        is sent.
+
+      * Prospective: A Prospective is an entity permitted to be
+        Nominated as a Candidate in an Election.  Only Active
+        Players are Prospectives.  Activity is measured at the time
+        a Nomination is sent.
+
+      * Nominating: A Nominator Nominates a Prospective by sending a
+        message to the Vote Collector during the Nominating Period,
+        indicating the Election and the Prospective.  If the
+        Prospective is not explicitly identified, then it is the
+        same as the Nominator.
+
+      * Candidates: A Candidate for an Election is a Prospective who
+        has been Nominated in that Election.
+
+      * Retraction: A Nominator may retract eir Nomination by
+        sending a message to the Vote Collector during the
+        Nominating Period, indicating the Election and the
+        Prospective.  If the Prospective is not explicitly
+        identified, then it is the same as the Nominator.
+
+      * Declination: A Prospective may decline eir Nomination by
+        sending a message to the Vote Collector during the
+        Nominating Period, indicating the Election.  Upon doing so,
+        e may not be re-Nominated in that Election by anyone but
+        emself.
+
+      * Mode of Nominations: There are three Modes of Nominations:
+        Selfish, Selfless, or Open.  The Vote Collector may specify
+        a Mode of Nominations when e announces the start of the
+        Election; if e does not, then the Mode is Selfish.
+
+        (a) In a Selfish Election, a Nominator may Nominate only
+            emself.
+        (b) In a Selfless Election, a Nominator may not Nominate
+            emself.
+        (c) In an Open Election, a Nominator may Nominate any
+            Prospective.
+
+      * Start of Nominations: The Nominating Period begins at the
+        time of the first correct and legal announcement that an
+        Election has begun, as defined in other Rules.  Such an
+        announcement must include the identity of the Vote
+        Collector.
+
+      * Duration of Nominations: The Nominating Period lasts for one
+        Week.  All Nominations received by the Vote Collector
+        outside of the Nominating Period have no effect.
+
+      * Secrecy:  Nominations need not be kept secret.
+
+      * End of Nominations: As soon as possible after the end of the
+        Nominating Period, the Vote Collector shall publish a list
+        of all Candidates.  If e does not do this as soon as
+        possible, then the Election has no winner.
+
+      If there are no Candidates, then the Election has no winner.
+
+      If there is exactly one Candidate, then e is the winner of
+      that Election.
+
+      If there are two or more Candidates, then a Referendum begins
+      when the Vote Collector publishes the list of Candidates.
+      This is a standard Referendum, with the following exceptions:
+
+      * Vote Collector: The Vote Collector for the Referendum is the
+        same as the Vote Collector for the Election.
+
+      * Vote Values: A Vote is the name of exactly one Candidate for
+        the given Election.  Words which are effectively synonymous
+        with these are also permissible.
+
+      * Failure of Referendum: If the Referendum fails for any
+        reason (e.g. Quorum is not achieved), then the Election has
+        no winner.
+
+      * Adoption: The winner of the Election is the Candidate for
+        whom the most Votes were cast.  If two or more Candidates
+        are tied for most Votes, then the Speaker shall choose one
+        of those Candidates, who becomes the winner when the Speaker
+        announces eir choice.  The Speaker shall announce eir choice
+        as soon as possible after the Vote Collector announces the
+        results of Voting.
+
+      * Effectiveness: An Election takes effect when the Vote
+        Collector correctly announces the identity of its winner.
+        The effect of an Election is defined by other Rules.
+
+Amend Rule 2038 by replacing:
+      A Player shall be added to the Membership of a Monastery only
+      when the Player to be added has sent the Administrator of the
+      Monastery in question a message requesting the be added to the
+      membership of that Monastery and the addition of that Player to
+      that Monastery's membership is otherwise permitted by that
+      Monastery's SLC.
+with:
+      A Player shall be added to the Membership of a Monastery only
+      when the Player to be added has sent the Administrator of the
+      Monastery in question a message requesting the be added to the
+      membership of that Monastery and the addition of that Player to
+      that Monastery's membership is otherwise permitted by that
+      Monastery's SLC.

@@ -1,0 +1,15 @@
+ID: 6396
+Title: An Election Issue
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2154 (Election Procedure), immediately after the sentence reading:
+
+          The set of candidates can change after the decision is
+          initiated.
+
+add the following sentence:
+
+      If the number of candidates falls below two, PRESENT ceases to
+      be a valid option.

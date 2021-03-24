@@ -1,0 +1,13 @@
+ID: 5052
+Title: per-week proposal VCs
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2126 by replacing the text "When an Ordinary proposal is
+adopted," with "When an Ordinary proposal is adopted and its proposer
+is not the proposer of any Ordinary proposal previously adopted in the
+same week,".
+
+[End the multiple rewards for multiple proposals.  Matches the way
+voting power operates.]

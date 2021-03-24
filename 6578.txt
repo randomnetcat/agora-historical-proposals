@@ -1,0 +1,7 @@
+ID: 6578
+Title: Officer Fix
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2261 by replacing "IADoP" with "Assessor".

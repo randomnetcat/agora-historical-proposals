@@ -1,0 +1,23 @@
+ID: 4493
+Title: Tiptoe Through the Tulips
+Author: Steve
+Co-authors: 
+Adoption index: 2
+
+
+Proposal
+First ANF Fix
+
+Amend Rule 1986 by replacing the text in it which currently reads:
+
+       A progressive action may be associated with a role if
+       the rules so state.  If an energetic action is associated
+       with a role, only players who hold that role may perform,
+       or support performance of, that action.
+
+with text which reads:
+
+       A progressive action may be associated with a role if the rules
+       so state.  If an progressive action is associated with a role,
+       only players who hold that role may perform, or support
+       performance of, that action.

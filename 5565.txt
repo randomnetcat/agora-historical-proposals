@@ -1,0 +1,20 @@
+ID: 5565
+Title: <none>
+Author: cdm014
+Co-authors: Zefram, avpx, Ivan Hope, root, Murphy
+Adoption index: 1
+
+Create a rule titled "Agoran Welcoming Committee" with this text:
+
+     The Greeter is an imposed office.
+
+     While a partnership named "Welcoming Committee" exists, and its
+     obligations include all of the following:
+
+       a) Greet all new players.
+       b) Engage in contact with new players to assist them.
+       c) Engage in contact with new players to ensure a positive
+          experience.
+
+     then this office is imposed upon that partnership.  Otherwise,
+     this office is vacant.

@@ -1,0 +1,9 @@
+ID: 4903
+Title: Egregrious AI Modification Abuse
+Author: Greyknight
+Co-authors: 
+Adoption index: 1
+
+
+Upon adoption of this proposal, Rule 2127 (Conditional Votes) is
+repealed.

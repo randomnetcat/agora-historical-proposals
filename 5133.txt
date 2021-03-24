@@ -1,0 +1,45 @@
+ID: 5133
+Title: pragmatify officeholding
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2154 by replacing the first paragraph with
+
+      Any player CAN make an active player (hereafter the nominee) the
+      holder of an office, thus removing any previous holder from the
+      office, with Agoran Consent, provided that the nominee consents
+      to hold the office after the announcement of intent is made.
+
+[Remove 30 day time limit.  That was a pain recently, when we needed
+to repair officeholding and we'd used the consent procedure shortly
+before.  Worse, we weren't sure whether the time limit was in play or
+not.  We could prohibit or deprecate rapid reinstallation, instead of
+invalidating it, but I think players' taste and the election procedure
+will effectively discourage frivolous nominations.]
+
+Change the power of rule 1006 to 2.
+
+[Contains pretty basic definitions, should be more difficult to
+break.]
+
+Amend rule 1006 by replacing the first two paragraphs with
+
+      A role is an office if and only if it is so defined by the
+      rules.  Each office at any time either is vacant (default) or is
+      filled (held) by exactly one player.  The holder of an office is
+      an officer, and may be referred to by the name of the office.
+
+[No default officeholder, because the automatic installation into
+office spreads confusion if there is any uncertainty about the
+identity of the default officeholder.  Vacant offices are not a
+problem: we can install someone by Agoran Consent fairly quickly, and
+while the office remains vacant its duties can be performed by
+deputisation.]
+
+Amend rule 2161 by deleting the parenthetical clause that starts with
+"(or, if".
+
+[Don't need a default assigner of ID numbers.  Every rule that
+mandates ID numbers makes an office responsible, and if the office is
+vacant then we can assign numbers by deputisation.]

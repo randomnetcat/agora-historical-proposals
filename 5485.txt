@@ -1,0 +1,96 @@
+ID: 5485
+Title: Generalize official duties
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2143 (Official Reports) by renaming it to "Official Reports
+and Duties", and by replacing this text:
+
+     a) If any information is defined by the rules as part of that
+        office's weekly report, then the holder of that office SHALL
+        maintain all such information, and SHALL publish it at least
+        once each week.  Otherwise, that office has no weekly report.
+
+     b) If any information is defined by the rules as part of that
+        office's monthly report, then the holder of that office SHALL
+        maintain all such information, and SHALL publish it at least
+        once each month.  Otherwise, that office has no monthly
+        report.
+
+with this text:
+
+     a) If any task is defined by the rules as part of that office's
+        weekly duties, then the holder of that office SHALL perform
+        it at least once each week.  If any information is defined by
+        the rules as part of that office's weekly report, then the
+        holder of that office SHALL maintain all such information,
+        and the publication of all such information is part of that
+        office's weekly duties.
+
+     b) If any task is defined by the rules as part of that office's
+        monthly duties, then the holder of that office SHALL perform
+        it at least once each month.  If any information is defined
+        by the rules as part of that office's monthly report, then
+        the holder of that office SHALL maintain all such
+        information, and the publication of all such information is
+        part of that office's monthly duties.
+
+
+Amend Rule 2126 (Notes) by replacing this text:
+
+     (2) (E)  At the end of each week, each player who published at
+              least one weekly report during that week gains an E
+              Note.
+
+         (Eb) At the end of each month, each player who published at
+              least one monthly report during that month gains an Eb
+              Note.
+
+with this text:
+
+     (2) (E)  At the end of each week, each player who completed the
+              non-empty set of weekly duties of at least one office
+              during that week gains an E Note.
+
+         (Eb) At the end of each month, each player who completed the
+              non-empty set of monthly duties of at least one office
+              during that month gains an Eb Note.
+
+
+Amend Rule 2199 (Ribbons) by replacing this text:
+
+     (+G) At the end of each month, each player who held at least one
+          office continuously during that month gains a Green Ribbon,
+          unless e violated a requirement to submit a report within a
+          time limit.
+
+with this text:
+
+     (+G) At the end of each month, each player who held at least one
+          office continuously during that month gains a Green Ribbon,
+          unless e failed to perform an official duty within a time
+          limit during that month.
+
+
+Amend Rule 1607 (The Promotor) by replacing this text:
+
+                During each week, the Promotor SHALL distribute each
+     proposal that has been in the Proposal Pool since the beginning
+     of that week.
+
+with this text:
+
+                The Promotor's weekly duties include the distribution
+     of each proposal that has been in the Proposal Pool since the
+     beginning of that week.
+
+
+Amend Rule 2192 (The Mad Scientist) by replacing this text:
+
+     At least once each week, the Mad Scientist SHALL:
+
+with this text:
+
+     The Mad Scientist's weekly duties include the performance of the
+     following tasks, in order:

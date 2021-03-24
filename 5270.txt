@@ -1,0 +1,14 @@
+ID: 5270
+Title: Require MWP reporting
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 402 (Identity of the Speaker) by appending this text:
+
+      The Herald's report includes the date on which each Minister
+      Without Portfolio most recently won the game.
+
+[This information is needed when the current Speaker is removed
+per Rule 1922 (e), to determine who the new Speaker is.  Tie-breaks
+can be determined from the Registrar's report.]

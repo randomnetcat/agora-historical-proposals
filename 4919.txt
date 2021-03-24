@@ -1,0 +1,11 @@
+ID: 4919
+Title: reorientation
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 889 ("The Clerk of the Courts") by deleting the text
+
+      The CotC's Bi-Weekly Report shall include the following:
+         (i) Each Player's Orientation.

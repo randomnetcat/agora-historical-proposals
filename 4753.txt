@@ -1,0 +1,51 @@
+ID: 4753
+Title: Disinterested in Disinteresting
+Author: Sherlock
+Co-authors: 
+Adoption index: 2
+
+
+======================================================================
+Disinterest is unnecessary now that we have free distribution...
+======================================================================
+
+Repeal Rule 1623 (Disinterested Proposals).
+
+Amend Rule 1724 (Urgent Proposals) by changing the text that reads:
+
+      A Proposal is Urgent if all the following conditions are met:
+
+         i) the text of the message wherein it is submitted
+            explicitly states that it is an Urgent Proposal,
+
+        ii) The Proposal is Interested.
+
+to read:
+
+      A Proposal is Urgent if the text of the message wherein it is 
+      submitted explicitly states that it is an Urgent Proposal.
+
+Amend Rule 1953 (Sane Proposals) by changing the text that reads:
+
+        ii) The Proposal is Interested.
+
+       iii) The Proposal is Democratic.
+
+to read:
+
+        ii) The Proposal is Democratic.
+
+Amend Rule 2061 (Boon of Zeitgeist) by changing the text that reads:
+
+      If an Interested Democratic Proposal passes, 
+
+to read:
+
+      If a Democratic Proposal passes, 
+
+Amend Rule 2080 (Cards for Proposals) to read:
+
+      If a Proposal is adopted, the Proposer may draw from the deck
+      by announcing the Proposal number while drawing, provided that
+      e does so within a week after the proposal's adoption and that
+      e has not already done so for the same proposal.

@@ -1,0 +1,11 @@
+ID: 4751
+Title: Takeover fix?
+Author: The Goddess Eris
+Co-authors: 
+Adoption index: 2
+
+
+Insert the following paragraph in penultimate position in Rule 2078:
+
+    Upon submission of a Takeover Proposal, all other Takeover Proposals
+    become Undistributable and are removed from the Pool.

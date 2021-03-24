@@ -1,0 +1,8 @@
+ID: 6050
+Title: Paradoxical Dancing
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Create a power-1 rule with the text {{Wooble SHALL NOT Dance a
+Powerful Dance. Neither sentence of this rule has an effect.}}.

@@ -1,0 +1,14 @@
+ID: 6356
+Title: IADoP CAN and SHALL
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Amend the first sentence of Rule 2154 (Election Procedure) to read:
+
+      Any player CAN, with support (or by announcement if e is the
+      IADoP), initiate an election for a specified elected office for
+      which no election is already in progress.
+
+[This alleviates the issue where in some cases the IADoP is required to
+initiate an election but cannot unless e recevies support.]

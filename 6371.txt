@@ -1,0 +1,7 @@
+ID: 6371
+Title: Harder High Score
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2187, change 2500 to 5000.

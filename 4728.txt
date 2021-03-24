@@ -1,0 +1,36 @@
+ID: 4728
+Title: Limited Faculties
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2086 (The University of Agora) by replacing this text:
+
+      As President of the University, the Speaker is the sole Executor
+      of the University, but may take no action on behalf of The
+      University except as explicitly permitted by the Rules.
+
+with this text:
+
+      The Speaker is President and a Limited Executor of the University.
+
+Amend Rule 2068 (The Deckmastor) by replacing this text:
+
+      The Deckmastor shall be the sole Executor
+      of The Deck, but may take no action on behalf of The Deck except
+      as explicitly permitted by the Rules.
+
+with this text:
+
+      The Deckmastor is a Limited Executor of the Deck.
+
+Amend Rule 2089 (Gardner Library) by replacing this text:
+
+      The University (hereafter the Library) is a Gambler.
+
+with this text:
+
+      "The Library" is a synonym for "The University".
+
+      The Library is a Gambler.

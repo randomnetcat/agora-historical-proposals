@@ -1,0 +1,19 @@
+ID: 5349
+Title: Token fines
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by appending this text after the
+section describing APOLOGY:
+
+      * FINE with an integer from 1 to 100, appropriate for rule
+        breaches of small consequence.  When in effect, the ninny
+        SHALL within 72 hours destroy the specified number of Marks,
+        or 1 VC, of the color(s) of eir choice.  The ninny is only
+        obliged to perform one destruction per question on sentencing,
+        even if sentences of this type are assigned more than once or
+        go into effect more than once.
+
+[Strictly less severe than CHOKEY with a one-second sentence, which
+auto-dings the ninny 1 Black VC but has no other significant effect.]

@@ -1,0 +1,35 @@
+ID: 6634
+Title:  Rapid returns
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 869 (How to Join and Leave Agora) by replacing this text:
+
+     A player CAN deregister by announcement. A person CANNOT
+     register within thirty days after being deregistered by any
+     means other than by a mechanism that the rules explicitly
+     describe as a means of honorable deregistration.
+
+with this text:
+
+     A player CAN deregister by announcement.
+
+     If a player's most recent deregistration was within the past
+     four weeks, and was not via a mechanism explicitly described
+     by the rules as allowing rapid return, then e CAN re-register
+     without N objections (where N is the number of whole weeks that
+     have elapsed since that deregistration) if N is at least 1, but
+     CANNOT otherwise re-register.
+
+[Substantive change:  players can re-register after as little as one
+week if no one's bothered.  Flavor change:  eliminate the implication
+that other methods of deregistration are dishonorable.]
+
+Amend Rule 2130 (Activity) by replacing this text:
+
+     This is a means of honorable deregistration.
+
+with this text:
+
+     This mechanism allows rapid return.

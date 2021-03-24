@@ -1,0 +1,30 @@
+ID: 5412
+Title: More permanant patent titles
+Author: woggle
+Co-authors: 
+Adoption index: 1
+
+Amend rule 649 by replacing:
+      A Patent Title is a legal item of recognition of a person's
+      distinction.
+with:
+      A Patent Title is a legal item given in recognition of a person's
+      distinction.
+and by replacing:
+                                When a Patent Title is revoked from
+      a person, that person ceases to Bear that Patent Title.
+with:
+                                When a Patent Title is revoked from
+      an entity, that entity ceases to Bear that Patent Title.
+and by replacing:
+                                        The Herald's report includes a
+      list of each Patent Title that at least one person Bears, with a
+      list of which persons Bear it.
+with:
+                                        The Herald's report includes a
+      list of each Patent Title that at least one entity Bears, with a
+      list of which entities Bear it.
+and by appending the text:
+      When a patent title is used as a noun to refer to bearers of the
+      patent title, it is assumed to refer only to persons who Bear that
+      patent title unless context clearly indicates otherwise.

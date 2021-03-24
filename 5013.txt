@@ -1,0 +1,12 @@
+ID: 5013
+Title: no compulsion
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Repeal rules 1509 and 1830.
+
+[Orders to Compel don't actually achieve anything: they impose an
+obligation that the target already has.  The second paragraph of R1830
+is on a different subject: it is trivially circumvented, and we don't
+seem to be suffering as a result, so it too appears to be unnecessary.]

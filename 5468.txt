@@ -1,0 +1,65 @@
+ID: 5468
+Title: Separate axes, separate rules
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Create a rule titled "Hawkishness" with Power 1.5 and this text:
+
+      Hawkishness is a player switch, tracked by the Clerk of the
+      Courts, with the following values:
+
+        * Hanging.  Hanging players are unqualified to be assigned as
+          judge of any inquiry case.
+
+        * Hugging.  Hugging players are unqualified to be assigned as
+          judge of any criminal case, and poorly qualified to be
+          assigned as judge of any equity case.
+
+        * Hemming-and-Hawing (default).
+
+      Changes to hawkishness are secured.
+
+      A player CAN flip eir hawkishness by announcement.
+
+Create a rule titled "Linked Assignments" with Power 1.5 and this text:
+
+      When the Clerk of the Courts assigns a player as judge of two or
+      more judicial cases consecutively in the same announcement, that
+      player only becomes sitting upon the last such assignment, rules
+      to the contrary notwithstanding.  The CotC SHOULD NOT do this
+      unless those cases are closely related in their subject matter.
+
+Amend Rule 1871 (The Standing Court) to read:
+
+      Posture is a player switch, tracked by the Clerk of the Courts,
+      with the following values:
+
+        * Standing.  Standing players are generally qualified to judge.
+
+        * Sitting.  Sitting players are poorly qualified to judge, but
+          will generally become qualified when the CotC rotates the
+          bench.
+
+        * Leaning.  Leaning players are poorly qualified to judge, but
+          are generally qualified to serve on appeal panels.
+
+        * Supine (default).  Supine players are unqualified to judge.
+
+      Changes to posture are secured.
+
+      A player CAN flip eir posture to any non-standing value by
+      announcement.
+
+      When the CotC assigns a player as judge, that player becomes
+      sitting.
+
+      The CotC CAN rotate the bench (change all sitting players to
+      standing) by announcement, but SHALL NOT do so unless there is
+      a judicial case to which e is obliged to assign a judge, all
+      entities qualified to be so assigned are poorly qualified, and e
+      immediately afterwards (in the same announcement) assigns a judge
+      to that case.
+
+      When the CotC recuses a player with cause, e SHALL flip that
+      player's posture to supine by announcement within one week.

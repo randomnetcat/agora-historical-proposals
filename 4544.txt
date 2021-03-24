@@ -1,0 +1,24 @@
+ID: 4544
+Title: Team Captains
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Create a new rule, titled "Team Captains" of Power = 1, with the following
+text:
+
+Leadership is a loose Team switch with values null and each of the Team's
+Members.  The Scorekeepor shall maintain and report records for this switch.
+
+If a Team's leadership is null, any Member of that Team may flip the Team's
+leadership, Without Objection from the other Members of that Team.
+
+If a Team's leadership is non-null, the leadership identifies the Team Captain,
+who is the Executor of that Team.  The Captain may flip eir Team's leadership
+without restriction; any other Member of the Team may flip the Team's
+leadership with N Supporters, where N + 1 is the minimal majority of that
+Team's Members.
+
+If the Team Captain ceases to be a member of the Team, that Team's leadership
+becomes null.

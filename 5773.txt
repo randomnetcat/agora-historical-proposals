@@ -1,0 +1,11 @@
+ID: 5773
+Title: R101 Tidy
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+[root recently pointed out that the privilege-free version
+of R101 has i. and ii. duplicative.  Hence minor clean-up].
+
+Amend R101 by deleting the paragraph labelled 'ii' and
+by relabeling paragraphs iii-viii as ii-vii.

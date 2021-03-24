@@ -1,0 +1,16 @@
+ID: 5768
+Title: One-way appeals
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+[Shouldn't apply to appeals, due to time limits for initiating them.]
+
+Amend Rule 2175 (Judicial Retraction and Excess) by replacing this text:
+
+     If a judicial case has not had any judge assigned to it, then:
+
+with this text:
+
+     If a judicial case (other than an appeal case) has not had any
+     judge assigned to it, then:

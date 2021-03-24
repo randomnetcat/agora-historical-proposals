@@ -1,0 +1,10 @@
+ID: 6060
+Title: rest creation 2.0
+Author: Wooble
+Co-authors: comex, Goethe
+Adoption index: 2.0
+
+comex and Goethe are co-authors of this proposal.
+
+Append to Rule 2228:
+   A first-class player CAN create Rests in eir own possession by announcement.

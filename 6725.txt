@@ -1,0 +1,12 @@
+ID: 6725
+Title: Take Three
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Amend Rule 2283 (Fees) by appending
+       If the fee associated with a fee-based action is zero, the action
+       CAN be performed by announcement if it can otherwise be performed
+       by the procedure described above.
+to the second paragraph

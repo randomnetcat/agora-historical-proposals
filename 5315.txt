@@ -1,0 +1,29 @@
+ID: 5315
+Title: Claims of error, redux
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1551 (Ratification) by replacing this text:
+
+      Any public document defined by the rules as self-ratifying is
+      ratified one week after its publication, unless explicitly
+      challenged during that period.
+
+with this text:
+
+      Any public document defined by the rules as self-ratifying is
+      ratified one week after its publication, unless explicitly and
+      publicly challenged during that period via one of the following
+      methods, explaining the scope and nature of the perceived error:
+
+        a) An inquiry case, appropriate for questions of legal
+           interpretation.
+
+        b) A claim of error, appropriate for matters of fact.  The
+           publisher of the original document SHALL respond to a claim
+           of error as soon as possible, either publishing a revision
+           or denying the claim.  If e denies the claim, then the
+           original document is ratified one week after the denial,
+           unless it is challenged again (subject to the same
+           requirements) during that period.

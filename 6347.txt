@@ -1,0 +1,8 @@
+ID: 6347
+Title: Ribbon cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend rule 2199 (Ribbons) by replacing "that player earns a White
+Ribbon" with "the named player earns a White Ribbon".

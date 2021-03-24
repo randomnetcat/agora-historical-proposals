@@ -1,0 +1,21 @@
+ID: 6468
+Title: NOV Cleanup
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2230 ("Notices of Violation") replace:
+{{
+(with N support,
+      where N is the number of valid un-Closed Notices of Violation e
+      previously published during the same week, or by announcement if
+      N is zero)
+}}
+with:
+{{
+with support
+}}
+and remove the following:
+{{
+ unless a Crime is named, Contested otherwise
+}}

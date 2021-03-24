@@ -1,0 +1,9 @@
+ID: 6074
+Title: Patch 2282a
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Ratify the alleged history listed in these documents:
+ http://zenith.homelinux.net/cotc/viewcase.php?cfj=2282a
+ http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2009-January/005674.html

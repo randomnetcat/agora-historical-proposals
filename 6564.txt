@@ -1,0 +1,13 @@
+ID: 6564
+Title: Protect intent
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+
+Amend Rule 2215 (Truthiness) by appending this text:
+
+     The above notwithstanding, a person stating that e intends to
+     perform an action in the future does not thereby violate this
+     rule, as such a statement is often a requirement to keep eir
+     options open.

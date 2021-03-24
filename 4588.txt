@@ -1,0 +1,16 @@
+ID: 4588
+Title: Excise the vestigial Monk
+Author: Riail
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule  559 (The Registrar) by removing the text:
+
+   (viii) a list of players who are Monks
+
+and amending the previous clause to read:
+
+   (vii) the identity of the Distributor.
+
+As with the repeal of Rule 1992 players may no longer be Monks.

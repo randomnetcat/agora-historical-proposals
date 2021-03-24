@@ -1,0 +1,13 @@
+ID: 6132
+Title: Self-incrimination
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) by appending this text to the
+section on GUILTY:
+
+       This judgement is also appropriate if the Accused has
+       publically stated eir guilt in the case.  However,
+       initiating a criminal case with oneself as the Accused
+       does not constitute such a statement.

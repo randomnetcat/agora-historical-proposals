@@ -1,0 +1,7 @@
+ID: 6230
+Title: More frequent IADoP reporting
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+     Amend Rule 2138 by removing the word "monthly".

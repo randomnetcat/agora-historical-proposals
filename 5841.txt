@@ -1,0 +1,9 @@
+ID: 5841
+Title:             2001       A Space Odyssey
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Enact a new Power-2 rule titled "HAL 9000", with this text:
+
+      Being in space is a losing condition.

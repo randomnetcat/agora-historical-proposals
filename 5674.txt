@@ -1,0 +1,16 @@
+ID: 5674
+Title: Monstrous Deputies
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Append the following to the end of the rule entitled "The Monster":
+{{{
+     Any Monster (a deputy) CAN perform an action as if e held a
+     particular office (deputise for that office) if:
+
+     (a) the rules require the holder of that office, by virtue of
+         holding that office, to perform the action (or, if the
+         office is vacant, would so require if the office were
+         filled
+}}}

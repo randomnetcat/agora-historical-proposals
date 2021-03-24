@@ -1,0 +1,14 @@
+ID: 6368
+Title: Bleeding Eyes Aren't that Bad
+Author: C-walker
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2143, (Official Reports and Duties) replace the last sentence with:
+
+{{
+
+Publishing reports that deviate from these regulations is the Class 2
+Crime of Making My Eyes Bleed.
+
+}}

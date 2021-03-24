@@ -1,0 +1,11 @@
+ID: 6015
+Title: Make notes not annoying
+Author: Warrigal
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2126, "Notes", remove the word "fixed" from the sentence
+"Notes are a class of fixed assets.", remove the paragraph "(5) A
+player CAN spend two Notes of the same pitch to make another player
+gain one Note of that pitch.", and renumber the following paragraphs
+accordingly.

@@ -1,0 +1,13 @@
+ID: 6430
+Title: Asset Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2166 by replacing
+      The Lost and Found department may own any asset regardless of
+      restrictions placed upon an asset by its backing document.
+with
+      The Lost and Found department may own any asset, and have assets
+      transferred to and from it, regardless of the asset's backing
+      document or any Rule, Rules to the contrary notwithstanding.

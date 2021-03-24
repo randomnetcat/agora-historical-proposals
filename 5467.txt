@@ -1,0 +1,19 @@
+ID: 5467
+Title: Social Contract
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Change the title of Rule 2171 to "Social Contract", change its Power
+to 1.7, and amend it to read:
+
+      Every player, as a part of becoming a player, implicitly enters
+      into a binding agreement (hereafter the Social Contract) to be
+      bound by the rules.  If an equity case identifies this contract,
+      entities other than the initiator do not thereby become
+      unqualified to judge it, rules to the contrary notwithstanding.
+
+      The proposal, fora, and registration processes shall, prima
+      facie, be considered to be protective of a Player's rights and
+      privileges with respect to making and changing the agreement to
+      be bound by the rules.

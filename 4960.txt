@@ -1,0 +1,24 @@
+ID: 4960
+Title: Patch of the Return of the Contests
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend R2136, "Contests", by replacing the text:
+
+     A player with 100 or more points may win the game by announcing
+     this fact.  Upon such an announcement, each player's score is
+     set to zero.
+
+With the text:
+
+     A player with 100 or more points may announce this fact.  If this
+     announcement is correct, then the following events happen:
+
+      1.  The announcing player wins the game.
+      2.  Each player's score is set to zero.
+
+(It's been good practice in the past to qualify such announcements  
+with the condition that the announcement be correct.  See previous  
+versions of the Notice of Speaker Rotation a few years ago.)

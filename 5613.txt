@@ -1,0 +1,7 @@
+ID: 5613
+Title: No more Capitol
+Author: Quazie
+Co-authors: 
+Adoption index: 3
+
+Replace 'No Player' in R478 with 'no Player'

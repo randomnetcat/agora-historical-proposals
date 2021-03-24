@@ -1,0 +1,26 @@
+ID: 4740
+Title: 1 lower quota, 2 more wins
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+in Rule 1932 change
+
+        Quota: 8
+        Elements: Restricted [Shareholders]
+
+to 
+
+
+        Elements: Restricted [Shareholders], Budgeted
+
+and set the budget equal to 3
+
+In rule 2075 change
+
+      The Deckmastor's Budget shall contain between one and three
+
+to
+
+      The Deckmastor's Budget shall contain between one and five

@@ -1,0 +1,10 @@
+ID: 5079
+Title: Disambiguate CotC
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Upon the adoption of this proposal, the player known as Zefram
+throughout June 2007 becomes Clerk of the Courts.
+
+[Can't be done with Agoran consent due to the 30-day limit.]

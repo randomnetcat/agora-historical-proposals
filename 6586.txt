@@ -1,0 +1,65 @@
+ID: 6586
+Title: More Citrine Repeals
+Author: c.
+Co-authors: 
+Adoption index: 3.0
+
+Repeal Rule 2244 (The Games of Agora).
+Repeal Rule 2199 (Ribbons).
+Repeal Rule 2216 (The Repeal-o-Matic).
+Repeal Rule 2174 (Aliens).
+Repeal Rule 2268 (Entanglement).
+Repeal Rule 2145 (Partnerships).
+Repeal Rule 2153 (Interest Index).
+
+Amend Rule 2263 (Acting on Behalf) to read:
+
+    It is not possible for one person to act on behalf of another
+    person.
+
+Amend Rule 2143 (Official Reports and Duties) by replacing "Class-N
+crime of Tardiness, where N in the Interest Index of that office" with
+"Class-2 Crime of Tardiness".
+
+Repeal Rule 2227 (Interest Index of Offices).
+Repeal Rule 2217 (Periodic Elections).
+Repeal Rule 2224 (Interest Index of Proposals).
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by changing the
+paragraph starting with "The eligible voters on an ordinary decision"
+to read:
+
+    The eligible voters on an ordinary decision are the players who
+    were active at the start of its voting period. The initial
+    voting limit of a player on an ordinary decision is as follows:
+
+Repeal Rule 2134 (Win by Clout).
+Repeal Rule 2211 (The Grand Poobah).
+Repeal Rule 2246 (Submitting a CFJ to the Justiciar).
+Repeal Rule 2225 (Interest Index of Judicial Cases).
+Repeal Rule 2226 (Judicial Rank).
+Repeal Rule 2248 (Second-Class Judges).
+Repeal Rule 2212 (Judicial Declarations).
+Repeal Rule 2264 (Permission to Act on Behalf).
+
+Amend Rule 103 (Role of the Speaker) to read:
+
+    The Speaker is an imposed office and a figurehead of Agora.
+
+Amend Rule 2200 (Nomic Definitions) by removing:
+
+    A province is an embassy for a protectorate.
+
+Amend Rule 2185 (Foreign Relations) to read:
+
+    Recognition is a foreign nomic switch, tracked by the Ambassador
+    (in eir monthly report), with values Unknown (default),
+    Friendly, Neutral, Sanctioned, Hostile, and Abandoned.
+
+    The Ambassador CAN, without objection, flip a foreign nomic's
+    Recognition to any value.  E SHALL inform that nomic of the
+    change as soon as possible.
+
+Repeal Rule 2251 (InterNomic Attitude).
+Repeal Rule 2247 (Protectorates).
+Repeal Rule 2159 (Protective Decrees).

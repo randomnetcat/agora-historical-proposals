@@ -1,0 +1,17 @@
+ID: 5699
+Title: Tiebreaker
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Change the power of Rule 2019 to 3.
+
+Amend Rule 2019 by adding the following to the list of prerogatives,
+with an appropriate numbering:
+     f) Tiebreaker.  When an Agoran decision would be resolved with a
+        voting index equal to its adoption index, the voting index is
+        instead 0.001 more (if the most common value among the
+        Tiebreaker's votes on that decision is FOR) or less (if the
+        most common value is AGAINST).  If there is no single most
+        common value or that value is neither FOR nor AGAINST, the
+        voting index is unchanged.

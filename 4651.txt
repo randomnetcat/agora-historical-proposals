@@ -1,0 +1,12 @@
+ID: 4651
+Title: Those boons must get out somehow now with infractions
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Append the following to both Rule 1678 and Rule 2061
+
+"This Boon shall be awarded within a day of the Assessor posting the
+voting results for the proposal or they commit the Class .25
+infraction of Boon Nondisclosure, reportable by anyone"

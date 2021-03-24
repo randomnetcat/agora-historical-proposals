@@ -1,0 +1,20 @@
+ID: 5473
+Title: Contingency plan
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing this text:
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable or otherwise not capable of being accurately
+        described as either false or true, at the time the inquiry
+        case was initiated
+
+with this text:
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        self-contradictory (could not be accurately described as
+        either true or false), contingent (could not be accurately
+        described as either not true or not false), or otherwise
+        undecidable, at the time the inquiry case was initiated

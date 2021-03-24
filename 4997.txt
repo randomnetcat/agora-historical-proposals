@@ -1,0 +1,12 @@
+ID: 4997
+Title: quorum fix (fixed)
+Author: Zefram
+Co-authors: Goddess Eris
+Adoption index: 2
+
+Goddess Eris is a coauthor of this proposal.
+
+Add the following paragraph to the end of Rule 879 (Quorum):
+
+      Voters whose voting limit is less than one are not considered
+      eligible for the purposes of this rule.

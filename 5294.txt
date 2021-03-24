@@ -1,0 +1,24 @@
+ID: 5294
+Title: Well, excuuuuuuuuuuuuuuse me!
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+      * EXCUSED, appropriate if the defendant has good reason why e
+        could not avoid breaching the rules in a manner at least as
+        serious as alleged
+
+      * GUILTY, appropriate if none of the above judgements is
+        appropriate
+
+with this text:
+
+      * EXCUSED, appropriate if the defendant breached the specified
+        rule via the specified act, but has good reason why e could
+        not avoid breaching the rules in a manner at least as serious
+
+      * GUILTY, appropriate if the defendant breached the specified
+        rule via the specified act and none of the above judgements
+        is appropriate

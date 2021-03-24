@@ -1,0 +1,61 @@
+ID: 5710
+Title: Pragmatic rights and privileges
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 101 (Agoran Rights and Privileges) to read:
+
+     Each person has the right to do the following things; these
+     rights CANNOT be removed or restricted beyond reasonable effort
+     by any interpretation of Agoran law or contract:
+
+       1) Perform unregulated actions.
+
+       2) Refuse to become party to a contract.  The absence of
+          explicit, willful consent constitutes refusal.
+
+       3) Not be considered bound by an agreement, or an amendment to
+          an agreement, that e has not had a reasonable opportunity
+          to review.
+
+       4) Initiate a formal process to resolve a matter of
+          controversy, with the reasonable expectation that the
+          controversy will thereby be resolved.
+
+       5) Cause formal reconsideration of any judicial determination
+          that e should be punished.
+
+       6) Not be penalized once for any single action or inaction.
+
+       7) Cease being a player.
+
+     Each person has the privilege to do the following things; these
+     privileges exist in the absence of explicit Agoran law or
+     contract to the contrary:
+
+       a) Perform whatever actions e wishes.
+
+       b) Participate in the fora.  For players, this is a right.
+
+       c) Become and remain a player.
+
+     This rule takes precedence over all other rules.
+
+     Please treat Agora right good forever.
+
+[Rights /can/ be restricted within reasonable effort, e.g. "don't lie"
+or "wait a week", but not "include a page from the 1947 Vladivostok
+phone book" or "wait 106 years".  If you voluntarily sign away some
+of your rights, then evidently you considered those limits reasonable.]
+
+Amend Rule 478 (Fora) by removing the first paragraph.
+
+[Covered by privilege b).]
+
+Amend Rule 2145 (Partnerships) by appending this text:
+
+     The right of a partnership to initiate judicial proceedings
+     is protected by the ability of its members to initiate such
+     proceedings, even if the partnership is prevented from
+     initiating them directly.

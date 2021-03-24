@@ -1,0 +1,26 @@
+ID: 6235
+Title: The Janitor
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Create a new power 1 rule titled "The Janitor" and the following text:
+
+      The Janitor is an office; its holder is responsible for cleaning
+      the rules.
+
+      The Janitor's weekly duties include submitting one more
+      disinterested proposals that suggests one or more rule changes
+      that helps to do at least one of the following to the rule set:
+
+            a) Fix grammatical or spelling errors.
+
+            b) Elucidate the meaning of rules.
+
+            c) Make consistent methods of describing rules.
+
+            d) Rearrange, combine, or separate rules to make their
+                meanings more clear and relevant.
+
+      These proposals SHOULD NOT modify any substantive aspect of the
+      meaning of the rules.

@@ -1,0 +1,21 @@
+ID: 6527
+Title: Audit Timing
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2259 ("Hand Limits") replace:
+{{
+As soon as possible after the beginning of each month, each
+      dealer of a basic deck SHALL by announcement audit each entity
+      who owns at least as many cards from that basic deck as any
+      other entity.
+}}
+with:
+{{
+As soon as possible after the beginning of each month, each
+      dealer of a basic deck SHALL by announcement audit each entity
+      who at the beginning of that month owned at least as many cards
+from that basic deck as any
+      other entity.
+}}

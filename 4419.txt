@@ -1,0 +1,33 @@
+ID: 4419
+Title: Spice up Action Units
+Author: SirToby
+Co-authors: 
+Adoption index: 1
+
+Proposal
+Spice up Action Units
+
+Add the following text to the end of Rule 1996:
+
+	(iv) The number of action units available to each entity for the 	     
+current week.
+
+In Rule 2003, replace the following text:
+
+	 - If the entity is a Player 10 minus 1 for every 5 Blots in the 	   
+Player's Stain
+
+	- If the entity is a Group 1 plus 3 for every Member of the Group 	  
+located on or adjacent to the location of the Group at the 	  start of the 
+week.
+
+with the following:
+
+	- If the entity is a Player, 10, minus 1 for every 5 Blots in the 	  
+Player's Stain as recorded in the most recent Herald's report 	  before the 
+week started, plus 1 for every unit of Land with 	  Gote owned by the 
+Player.
+
+	- If the entity is a Group, 1, plus 3 for every Member of the 	  Group 
+located on or adjacent to the location of the Group at 	  the start of the 
+week, plus 1 for every unit of Land with Gote 	  owned by the Group.

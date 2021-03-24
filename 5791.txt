@@ -1,0 +1,43 @@
+ID: 5791
+Title: Referential security
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2186 (Victory) by replacing this text:
+
+     Winning Conditions and Losing Conditions exist only as defined
+     by rules.  Defining these things is secured.
+
+with this text:
+
+     Winning Conditions and Losing Conditions exist only as defined
+     by rules.  Defining these things is secured, lest a coalition
+     of players grant itself a boring win via proposal.
+
+Amend Rule 2199 (Ribbons) by replacing this text:
+
+     Changes to Ribbon holdings are secured.
+
+with this text:
+
+     If winning is secured, then changes to Ribbon holdings are
+     secured with the same power threshold.
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by replacing this text:
+
+     Changes to caste are secured.
+
+with this text:
+
+     Changes to caste are secured, lest a coalition of high-caste
+     players grant itself a boring permanence.
+
+Amend Rule 2126 (Notes) by replacing this text:
+
+     Changes to Note holdings are secured.
+
+with this text:
+
+     If changes to caste are secured, then changes to Notes are
+     secured with the same power threshold.

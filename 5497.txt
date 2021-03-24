@@ -1,0 +1,15 @@
+ID: 5497
+Title: No uncontested elections
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2154 (Replacing Officers) by replacing this text:
+
+                                  another active player is nominated
+      in this way and consents,
+
+with this text:
+
+                                  at least two active players are
+      nominated in this way and consent,

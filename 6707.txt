@@ -1,0 +1,12 @@
+ID: 6707
+Title: Disambiguate the Speaker
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+PROPOSAL TEXT:
+Amend Rule 402 (Identity of the Speaker) by appending this text:
+
+       For the purpose of this rule, multiple simultaneous wins are
+       treated as if they occurred in the same order as those players'
+       most recent registrations.

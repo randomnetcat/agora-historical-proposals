@@ -1,0 +1,16 @@
+ID: 6071
+Title: Eagle-eyed
+Author: ais523
+Co-authors: 
+Adoption index: 1.5
+
+Append the following paragraph to rule 1922 (Defined Regular Patent
+Titles):
+{{{
+     (h)  Cassandra, to be awarded to any player who noticed a scam,
+          thought up a way to stop it, warned everyone clearly, and yet
+          the scam happened anyway due to apathy on the part of other
+          players.
+}}}
+
+Award the patent title Cassandra to Goethe and Murphy.

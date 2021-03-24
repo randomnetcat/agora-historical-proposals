@@ -1,0 +1,19 @@
+ID: 5534
+Title: Fix imposed office resignations
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1006 (Offices) by replacing this text:
+
+      The holder of an office CAN resign it by announcement, causing it
+      to become vacant.  As soon as possible after an office becomes
+      (or is created) vacant, the IADoP SHALL make at least one
+      nomination for the office
+
+with this text:
+
+      The holder of an elected office CAN resign it by announcement,
+      causing it to become vacant.  As soon as possible after an
+      elected office becomes (or is created) vacant, the IADoP SHALL
+      make at least one nomination for the office

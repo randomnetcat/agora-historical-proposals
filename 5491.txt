@@ -1,0 +1,30 @@
+ID: 5491
+Title: This sounds like a job for the IADoP
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2154 (Replacing Officers) by replacing this text:
+
+      If an office is Temporal at the end of a quarter, and no attempt
+      to install a player into that office was made during that
+      quarter, then the IADoP SHALL make at least one such attempt
+      during the following quarter, and SHALL make the change if
+      possible; however, these requirements are waived if another
+      player makes such a change during the following quarter.
+
+with this text:
+
+      The IADoP SHALL make at least one attempt to install a player
+      into an office, and SHALL make the change if possible, under
+      the following circumstances:
+
+        a) During a quarter, if the office was Temporal at the start
+           of that quarter and no such attempt was made during the
+           previous quarter.  This requirement is waived if another
+           player makes such a change during the current quarter.
+
+        b) Within a week (or month, if the office is low-priority)
+           after the office ceases to have an active holder.  This
+           requirement is waived if the office comes to have an
+           active holder during that week (month).

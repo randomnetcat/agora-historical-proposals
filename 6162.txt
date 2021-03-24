@@ -1,0 +1,34 @@
+ID: 6162
+Title: fix the rest
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2223 (Win by Junta) by replacing:
+
+     When a rule comes to state that one or more persons CAN cause it
+     to make arbitrary rule changes by announcement, all those
+     persons satisfy the Winning Condition of Dictatorship.
+
+with:
+
+     Upon a win announcement that a rule states that one or more
+     persons CAN cause it to make arbitrary rule changes by
+     announcement, all those persons satisfy the Winning Condition of
+     Dictatorship.
+
+
+Amend Rule 2188 (Win by Proposal) by replacing:
+
+     Upon the adoption of a proposal awarding a win to one or more
+     persons, all those persons satisfy the Winning Condition of
+     Legislation.
+
+with:
+
+     Upon a win announcement that a proposal awarding a win to one or
+     more persons has been adopted, all those persons satisfy the
+     Winning Condition of Legislation.
+
+     Cleanup procedure: The condition cannot be satisfied again for
+     the same proposal.

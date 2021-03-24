@@ -1,0 +1,22 @@
+ID: 6567
+Title: Self-Ratifying Census
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2139 (The Registrar) replace
+
+     a) Information sufficient to identify and contact each player.
+
+with:
+
+     a) A list of all players, including information sufficient to
+        identify and contact each player.
+
+Append the following to Rule 2139 (The Registrar):
+
+     The portion of a public message purporting to be a Registrar's
+     report that lists each player implies that no players other than
+     those listed exist and is self-ratifying.
+
+Mutate Rule 2139 to Power 2.

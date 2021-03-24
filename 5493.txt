@@ -1,0 +1,35 @@
+ID: 5493
+Title: Clarify sentences
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+      Some types of sentence include a duration known as the tariff.
+      When a sentence with a tariff is in effect, the sentence is
+      thereafter either active or not.  The sentence is inactive for
+      the first week after it first takes effect.  Thereafter, the
+      sentence is active if and only if it is still in effect and
+      sentences of the same type on the same question on sentencing
+      have been active for a total duration less than the tariff.  The
+      CotC's report includes the status of all active sentences.
+
+with this text:
+
+      Some types of sentence include a duration known as the tariff.
+      When a sentence with a tariff is in effect, the sentence is
+      active while all of the following are true, inactive otherwise:
+
+        1) It is still in effect.
+
+        2) At least one week has elapsed since it first took effect.
+
+        3) Sentences of the same type on the same question on
+           sentencing have been active for a total duration less than
+           the tariff.  (That is, if an active sentence is suspended
+           and later reinstated or superseded by a similar sentence,
+           then the defendant gets credit for time served prior to
+           the suspension.)
+
+      The CotC's report includes the status of all active sentences.

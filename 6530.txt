@@ -1,0 +1,41 @@
+ID: 6530
+Title: Deck of Change is Changed
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+[[ Makes the Committee Card more powerful, and makes it about as half
+as common as before by adjusting its Frequency. Frequencies of other
+Cards are also adujsted: Distrib-u-matic and Supersize Me are made
+slightly less common, Your Turn and Shrink Potion are made slightly
+more common, Presto!, Not Your Turn and Change Ball are made a tiny
+bit rarer. ]]
+
+
+In Rule 2261 (The Deck of Change), replace
+
+      * Committee       - Indicate a Distributable proposal. That
+                          proposal becomes Undistributable.
+
+with:
+
+      * Committee       - Indicate a Distributable proposal. That
+                          proposal becomes Undistributable, and CANNOT be
+                          made Distributable again for one week after the
+                          Committee is spent, Rules to the contrary
+                          notwithstanding.
+
+Set the Frequency of each Card in the Deck of Change to the following:
+(The probability of each Card being drawn is there for reference only,
+this proposal makes to attempt to set those probabilities except the
+the modification of the Frequencies.)
+
+Card	        Frequency Probability of Card being drawn:
+Distrib-u-matic 100       0.5
+Supersize Me    40        0.2
+Committee       15        0.075
+Your Turn       20        0.1
+Shrink Potion   20        0.1
+Presto!         3         0.015
+Not Your Turn   1         0.005
+Change Ball     1         0.005

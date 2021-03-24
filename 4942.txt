@@ -1,0 +1,15 @@
+ID: 4942
+Title: avoid precedence paradoxes and bugs too
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 1482 by appending the text:
+
+      No change to the Ruleset can occur that would cause a Rule
+      to stipulate any other means of determining precedence between
+      Rules of unequal Power.  This applies to changes by the enactment
+      or amendment of a Rule, or of any other form.  This Rule takes
+      precedence over any Rule that would permit such a change to the
+      Ruleset.

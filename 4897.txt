@@ -1,0 +1,12 @@
+ID: 4897
+Title: fix Power and Rule Changes
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Be it therefore resolved that one second after the adoption of this
+Proposal Rule 105 "Rule Changes" be modified by replacing the text
+"Enact a rule" with "Enact a Rule with Power no greater than its own",
+and by replacing the text "Repeal a rule" with "Repeal a Rule with Power
+no greater than its own".

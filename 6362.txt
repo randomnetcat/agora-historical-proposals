@@ -1,0 +1,10 @@
+ID: 6362
+Title: No sneaky intents v2
+Author: Pavitra
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 1728 (Dependent Actions) by appending the paragraph:
+
+      The Assessor's report contains a list of all pending intents to
+      perform dependent actions.

@@ -1,0 +1,9 @@
+ID: 6314
+Title: one fewer game rule
+Author: Quazie
+Co-authors: 
+Adoption index: 1.7
+
+Append the text of R 2244 to the begining of "Win by ___", rename this
+rule to "Win the game of agora by ___"
+Repeal R 2244

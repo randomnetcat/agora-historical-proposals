@@ -1,0 +1,19 @@
+ID: 5129
+Title: clarify truthfulness
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2149 by replacing the sentence
+
+      Players SHALL NOT deliberately or recklessly make false
+      statements in any public message.
+
+with
+
+      A player SHALL NOT make a false statement in any public message
+      while knowing that the statement is false or being reckless as
+      to its veracity.
+
+[Clarifies what the deliberation or recklessness is meant to apply
+to.]

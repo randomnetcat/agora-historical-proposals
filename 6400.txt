@@ -1,0 +1,25 @@
+ID: 6400
+Title: No early rotation
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 (The Standing Court) by replacing this text:
+
+      The CotC CAN rotate the bench (change all sitting players to
+      standing) by announcement, but SHALL NOT do so unless there is a
+      judicial case to which e is obliged to assign a judge, all
+      entities qualified to be so assigned are poorly qualified, and e
+      immediately afterwards (in the same announcement) assigns a
+      judge to that case.
+
+with this text:
+
+      The CotC CAN rotate the bench (change all sitting players to
+      standing) by announcement, but SHALL NOT do so unless, of the
+      judicial cases requiring assignment:
+
+        a) no entity is well-qualified to be assigned to any of them;
+
+        b) e immediately afterwards (in the same announcement) assigns
+           a judge to at least one of them.

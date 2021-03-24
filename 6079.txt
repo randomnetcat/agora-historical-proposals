@@ -1,0 +1,23 @@
+ID: 6079
+Title: Refactor NoV tracking
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+     As soon as possible after a player makes an announcement that is
+     reasonably recognizable as an attempt to issue such a notice,
+     the Clerk of the Courts SHALL announce whether the Notice was
+     valid. Such a Clerk of the Court's announcement is
+     self-ratifying.  Affirming the validity of the notice does not
+     in itself certify the correctness of the allegation.
+
+with this text:
+
+     As soon as possible after a player makes an announcement that is
+     reasonably recognizable as an attempt to issue such a notice,
+     the Insulator SHALL announce whether the Notice was valid.  Such
+     an announcement is self-ratifying.  Affirming the validity of the
+     notice does not in itself certify the correctness of the
+     allegation.

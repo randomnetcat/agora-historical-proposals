@@ -1,0 +1,12 @@
+ID: 5647
+Title: Exilous Monsteredicts
+Author: ais523
+Co-authors: 
+Adoption index: 1
+
+Append the following to the rule entitled "The Monster":
+{{{
+Whenever a Monsteredict of GUILTY is assigned in a criminal case
+alleging that a partnership has violated this rule, the Monster SHOULD
+assign an EXILE Monsteredict to the question on sentencing in that case.
+}}}

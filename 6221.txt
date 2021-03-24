@@ -1,0 +1,57 @@
+ID: 6221
+Title: Immediate Proposals
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Create a power-3 rule entitled {Immediate Proposals} with this text:
+{{
+      If there is an ongoing Agoran Decision on the adoption of a given
+      proposal, or a given proposal is in the Proposal Pool, it is
+      eligible for Immediate Adoption. An entity can, by announcement,
+      pledge or withdraw support for an attempt at Immediate Adoption.
+
+      Every proposal eligible for Immediate Adoption has a Virtual
+      Decision associated with it. A Virtual Decision has the same set
+      of parameters as an Agoran Decision. The Virtual Decision for an
+      attempt at Immediate Adoption of a proposal, unless made
+      democratic, has the same parameters as the ongoing Agoran Decision
+      as to the adoption of that proposal, or, if no such Decision
+      exists, the Agoran Decision as to the adoption of that proposal as
+      it would exist if the Promotor were to immediately distribute the
+      proposal.
+
+      If there exists a method by which an ongoing ordinary Agoran
+      Decision can be made democratic, such a method also applies to a
+      Virtual Decision. If a Virtual Decision has been made democratic,
+      it has the same parameters as the Agoran Decision mentioned above
+      would if it were made democratic.
+
+      When the set of entities who have supported and not subsequently
+      withdrew their support for the Immediate Adoption of a proposal is
+      sufficient to guarantee adoption of the associated Virtual
+      Decision, any player CAN cause it to take effect by announcement.
+      A set of entities is sufficient to guarantee adoption of a Virtual
+      Decision if, were the Virtual Decision an ongoing Agoran Decision,
+      were each of those entities to each cast a number of FOR votes on
+      that Decision equal to their voting limits, were each other entity
+      to cast a number of AGAINST votes on that Decision equal to their
+      voting limits, and were that Decision subsequently resolved, the
+      outcome would be ADOPTED.
+
+      When a proposal takes effect due to this Rule, it is removed from
+      the Proposal Pool and any Agoran Decisions as to the adoption of
+      that proposal cease to exist (they are not resolved).
+
+      When an Agoran Decision as to the adoption of a proposal is
+      resolved, when a proposal is removed from the Proposal Pool by a
+      means other than distribution, or when a proposal is adopted by
+      any means, any attempts to cause Immediate Adoption of that
+      proposal end.
+}}
+
+Amend rule 106 by replacing {Preventing a proposal from taking effect is
+a secured change. This rule takes precedence over any rule which would
+permit a proposal to take effect.} with {Causing a proposal to take
+effect and preventing a proposal from taking effects are both secured
+changes.}

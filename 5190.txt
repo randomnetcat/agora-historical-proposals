@@ -1,0 +1,11 @@
+ID: 5190
+Title: infrared VCs
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Upon the adoption of this proposal, each player who
+made at least one valid unretracted unconditional vote FOR this
+proposal but did not submit any valid unretracted unconditional votes
+AGAINST this proposal or any unretracted conditional votes on this
+proposal gains one Infrared VC.

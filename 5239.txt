@@ -1,0 +1,48 @@
+ID: 5239
+Title: Official frequencies
+Author: AFO
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2143 (Official Reports) to read:
+
+      For each office:
+
+        a) If any information is defined by the rules as part of
+           that office's weekly report, then the holder of that
+           office SHALL maintain all such information, and SHALL
+           publish it at least once each week.  Otherwise, that
+           office has no weekly report.
+
+        b) If any information is defined by the rules as part of
+           that office's monthly report, then the holder of that
+           office SHALL maintain all such information, and SHALL
+           publish it at least once each month.  Otherwise, that
+           office has no monthly report.
+
+      Any information defined by the rules as part of an office's
+      report, without specifying which one, is part of its weekly
+      report (unless the office is defined by the rules as
+      low-priority, in which case it is part of its monthly report).
+
+[Eliminate content-free "The rules may X" construction.  Allow offices
+to be tagged as monthly-report-by-default, rather than having to
+remember to do so for every element of their reports.]
+
+Amend Rule 1006 (Offices) by removing the paragraph beginning "If the
+duty of an office is to maintain certain information".
+
+[Redundant with Rule 2143.  Doesn't really need Power=2 protection.]
+
+Amend Rule 649 (Patent Titles) by replacing "The herald is an office"
+with "The herald is a low-priority office", and by replacing "The
+Herald's monthly report" with "The Herald's report".
+
+Amend Rule 1922 (Defined Regular Patent Titles) by replacing "The
+Herald's monthly report" with "The Herald's report".
+
+Amend Rule 2148 (The Ambassador) by replacing "The ambassador is an
+office" with "The ambassador is a low-priority office".
+
+Amend Rule 2147 (Protectorates) by replacing "The ambassador's monthly
+report" with "The ambassador's report".

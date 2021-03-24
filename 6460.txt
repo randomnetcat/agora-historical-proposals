@@ -1,0 +1,24 @@
+ID: 6460
+Title: Ball Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2260 by replacing the text for the "Government Ball" card with
+{{
+You cannot play this card unless, in the same message, you play, for
+each Basic Deck, a card named "X Ball" from that Deck. Playing this card
+has no effect. Upon a win announcement that a player has successfully
+played a Government Ball card, that player satisfies the Winning
+Condition of Lotto. Cleanup Procedure: that player cannot again satisfy
+the Winning Condition until e successfully plays another Government Ball.
+}}
+
+Amend rules 2261 and 2262 by replacing the text for the "Change Ball"
+and "Justice Ball" cards, respectively, with:
+{{
+You cannot play this card unless, in the same message, you play, for
+each Basic Deck, a card named "X Ball" from that Deck. Playing this card
+has no effect, but will allow you to win the game. See the "Government
+Ball" card.
+}}

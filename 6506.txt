@@ -1,0 +1,34 @@
+ID: 6506
+Title: No Vacancy v.3
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+If a Rule titled "Assumption of Vacant Offices" exists, then amend it by
+replacing its entire text with the following {}-delimited text;
+otherwise, create a new Power-2 rule, "Assumption of Vacant Offices",
+with the following {}-delimited text:
+{
+      Assumption is an elected office switch with values Postulated
+      (default) and Assumed. Changes to Assumption are secured.
+
+      An active first-class player can make emself the holder of an
+      elected office by announcement, provided that both
+
+        (1) the office is either vacant or Assumed, and
+
+        (2) there is no election for that office currently in progress.
+
+      Upon doing so, the office's Assumption is flipped to Assumed.
+
+      When the holder of an office ceases to be an active player, the
+      office's Assumption is flipped to Assumed.
+
+      When a person comes to hold an office, or would come to hold an
+      office if e did not hold it already, by a means other than the
+      one provided by this Rule, then the Assumption of that office is
+      flipped to Postulated.
+}
+
+Amend Rule 2255 (Major Arcana) by replacing "vacant" with "vacant or
+Assumed".

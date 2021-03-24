@@ -1,0 +1,12 @@
+ID: 4724
+Title: Death to the Plebeians
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+ Proposal: Death to the Plebeians(AI=2)
+ 
+ Remove the following wherever it is found in the ruleset
+ 
+       A Plebeian is a Player who is not a Shareholder.

@@ -1,0 +1,11 @@
+ID: 5489
+Title: VLOD decay
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by inserting this
+text immediately after "each player's EVLOD is set to eir VVLOD,":
+
+     reduced by ten percent (to a minimum of eir BVLOD) if it is the
+     first end-of-week that month,

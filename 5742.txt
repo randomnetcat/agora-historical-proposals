@@ -1,0 +1,7 @@
+ID: 5742
+Title: Give the Monster a Haircut
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1.0
+
+Revert Rule 2193 to Amendment 8.

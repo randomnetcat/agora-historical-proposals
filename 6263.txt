@@ -1,0 +1,8 @@
+ID: 6263
+Title: An ambiguous person
+Author: Quazie
+Co-authors: 
+Adoption index: 1.0
+
+If there exists an office of Schroedingor, Quazie becomes the holder
+of that office.

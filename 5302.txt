@@ -1,0 +1,30 @@
+ID: 5302
+Title: tighten up contests
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2136 by replacing the text
+
+      A contestmaster may award a total of up to 10 points per week to
+      one or more contestants as permitted by the contest, unless e is
+      contestmaster of a different contest simultaneously or has been
+      at any time during the preceding span of seven days.
+
+with
+
+      For each contest which has been a contest for at least a week,
+      and has as its contestmaster a first-class person who has been
+      contestmaster of that contest for the entire past week and has
+      not been the contestmaster of any other contest during the past
+      week, the contestmaster CAN award a total of up to 10 points per
+      week to one or more contestants as permitted by the contest.
+
+[Contestmaster must be first-class, to avoid minting contestmasters.
+Minimum wait of a week after a contest is formed before it can award
+points, to give a real chance for contestants to join and become
+subject to the fairness requirement.  Minimum wait of a week after a
+change of contestmaster (which does not need to disrupt the weekly
+cycle of point awards) to avoid a hole involving rapid changes of
+contestmaster.  All reformulated as per-contest rather than
+per-contestmaster, to better capture the intent.]

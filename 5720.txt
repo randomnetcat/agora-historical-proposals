@@ -1,0 +1,7 @@
+ID: 5720
+Title: Secured self-ratification
+Author: woggle
+Co-authors: 
+Adoption index: 3.0
+
+In rule 2201, replace "the rules" with "a rule with power at least 2"

@@ -1,0 +1,17 @@
+ID: 5374
+Title: Flexible VLOP options
+Author: Goddess Eris
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 by replacing the text:
+
+      d) A player may spend N+2 VCs, each of a color distinct from the
+         rest, to multiply another player's VVLOP by (10-N)/10, where
+         1 <= N <= 10.
+
+with the text:
+
+      d) A player may spend N+2 VCs, each of a color distinct from the
+         rest, to multiply another player's VVLOP by 1-(N/5), where
+         1 <= N <= 5.

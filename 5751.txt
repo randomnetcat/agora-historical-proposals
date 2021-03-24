@@ -1,0 +1,17 @@
+ID: 5751
+Title: Platonic Poobah
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2211 by replacing:
+     The Grand Poobah is an office; its holder is responsible for
+     keeping track of castes.
+with:
+     The Grand Poobah is an imposed office; its holder is responsible
+     for keeping track of castes.
+and by replacing:
+          a) Flip a player's caste to Alpha
+with:
+          a) Flip a player's caste to Alpha; when a player's caste is
+             flipped to Alpha, e becomes the Grand Poobah

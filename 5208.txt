@@ -1,0 +1,36 @@
+ID: 5208
+Title: Identity Crises
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by replacing this text:
+
+      A message is public if and only if it is sent via a public forum
+      or is sent to all players and contains a clear designation of
+      intent to be public.  A player "publishes" or "announces"
+      something by sending a public message.
+
+      A player performs an action "by announcement" by announcing that
+      e performs it.  Any action performed by sending a message is
+      performed at the time date-stamped on that message.
+
+with this text:
+
+      A message is public if and only if
+
+        a) it is sent via a public forum, or
+
+        b) it is sent to all players and contains a clear designation
+           of intent to be public.
+
+      A person "publishes" or "announces" something by sending a
+      public message.  Each public message is considered to be sent
+      by the person it identifies as its sender, unless an inquiry
+      case to determine the veracity of this identification has a
+      judgement other than TRUE, in which case it has no effect
+      (rules to the contrary notwithstanding).
+
+      A person performs an action "by announcement" by announcing that
+      e performs it.  Any action performed by sending a message is
+      performed at the time date-stamped on that message.

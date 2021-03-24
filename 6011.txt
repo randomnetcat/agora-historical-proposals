@@ -1,0 +1,7 @@
+ID: 6011
+Title: Repeal 'Definition Definitions'
+Author: Bayes
+Co-authors: 
+Adoption index: 3.0
+
+  Repeal Rule 754 (Definition Definitions).

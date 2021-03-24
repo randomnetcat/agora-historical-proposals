@@ -1,0 +1,11 @@
+ID: 5953
+Title: Yet Another Terrible Proposal
+Author: ais523
+Co-authors: Taral
+Adoption index: 3.0
+
+Replace all instances of "without objection" from rules with
+Power at most 3 with "by announcement".
+
+Replace all instances of "without N objections", for each
+integer N, from rules with Power at most 3, with "by announcement".

@@ -1,0 +1,9 @@
+ID: 5951
+Title: No more distribution spam
+Author: Taral
+Co-authors: 
+Adoption index: 1.0
+
+Add the following text to the end of the second paragraph of Rule 1607:
+
+The Promotor SHOULD NOT distribute proposals more than once per week.

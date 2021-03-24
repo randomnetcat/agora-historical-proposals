@@ -1,0 +1,21 @@
+ID: 6656
+Title: Proposal Power Pilfering Program
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 106 (Adopting Proposals) by replacing:
+       When creating proposals, the person who creates them SHOULD
+       ensure that the proposal outlines changes to be made to Agora,
+       such as enacting, repealing, or amending rules, or making other
+       explicit changes to the gamestate. When a proposal that includes
+       such explicit changes takes effect, those changes are applied to
+       the gamestate.
+with
+       When creating proposals, the person who creates them SHOULD
+       ensure that the proposal outlines changes to be made to Agora,
+       such as enacting, repealing, or amending rules, or making other
+       explicit changes to the gamestate. When a proposal that includes
+       such explicit changes takes effect, it applies those changes to
+       the gamestate. If the proposal cannot make some such changes, this
+       does not preclude the other changes from taking place.

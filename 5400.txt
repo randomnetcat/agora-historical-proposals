@@ -1,0 +1,9 @@
+ID: 5400
+Title: Public Partnerships III
+Author: woggle
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2144 by removing this text:
+      If a registered partnership is not a public contract, it can be
+      degregistered with Support.

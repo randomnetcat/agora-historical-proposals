@@ -1,0 +1,15 @@
+ID: 6585
+Title: Boilerplate!
+Author: c.
+Co-authors: 
+Adoption index: 3.0
+
+Create a new Power-3 rule reading:
+
+     When an eligible voter on an Agoran decision attempts to cast
+     ballots without explicitly specifying the number of ballots to
+     be cast (e.g. "FOR" instead of "FOR*1" or "FOR*3"), e casts a
+     number of ballots equal to eir voting limit on that decision.
+
+[Now that all decisions are ordinary by default, this is almost
+certainly the desired action.]

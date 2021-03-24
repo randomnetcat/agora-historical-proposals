@@ -1,0 +1,240 @@
+ID: 6507
+Title: Card Rewrite
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+[ Repeals 5 of the card Rules while keeping the same level of
+functionality. Repeals monthly salaries. Creates a per-deck hand limit
+system. Makes Major Arcana a separate (non-Cards) set of imposed
+offices. Secures creation and destruction of cards. Rewrites the three
+deck rules. Makes the Dealor, a new office, the single office in
+charge of cards. ]
+
+Replace the entire text of Rule 2253 (Cards) with:
+
+     Cards are a class of assets whose ownership is restricted to
+     players. Each card has exactly one type and exactly one deck;
+     each type of card is a currency. Creation and destruction of
+     cards is secured.
+
+     The Dealor is an office, and recordkeepor of Cards. The Dealor
+     CAN, by announcement, create and destroy Cards, but SHALL NOT do
+     so except as allowed by the Rules.
+
+     Each card type has a Frequency, tracked by the Dealor, which is
+     a non-negative integer defaulting to 0. Changing a card type's
+     Frequency is secured.  The Dealor CAN, without 2 objections,
+     change a specified card type's Frequency.
+
+     When a player 'earns a draw' from a specified deck, the Dealor
+     SHALL, as soon as possible, create a randomly selected card from
+     that deck in the possession of that player, with the probability
+     of each card being selected equal to its Frequency divided by
+     the total Frequencies of all cards in that deck.
+
+     When a first-class player registers, e earns two draws from each
+     deck.
+
+Repeal Rule 2254 (Position Cards), Rule 2256 (Exploit Cards), Rule
+2266 (Effect Cards), Rule 2257 (Dealing Cards) and Rule 2258 (Decks,
+Draws, and Salaries).
+
+Replace the entire text of Rule 2259 (Hand Limits) with:
+
+     Each player has a Hand Limit, tracked by the Dealor, which is a
+     non-negative integer with a default of 5 for first-class players
+     and 0 for all others.
+
+     As soon as possible after the beginning of each month, the
+     Deakor SHALL do the following X times, where X is the number of
+     decks in existence, except with Y replaced with the name of a
+     different deck each time:
+
+      For each player who owned more cards from the Y deck than eir
+      Hand Limit at the beginning of the month, destroy Y cards in
+      eir possession until e owns a number of Y cards equal to eir
+      Hand Limit.
+
+Replace the entire text of Rule 2260 (The Deck of Government) with:
+
+     When a player completes the weekly or monthly duties for an
+     office, or wins an election for an office, e earns a number of
+     draws from the deck of Government equal to the Interest Index of
+     the office.
+
+     The following is a list of the types of cards in the Government
+     deck, and how players CAN play (spend, destroy) each type of
+     card:
+
+     * Roll Call
+     A player CAN play a Roll Call, indicating a player and an
+     ongoing ordinary Agoran Decision with more than 24 hours
+     remaining in its voting period. The indicated player's voting
+     limit on that Decision is increased by one.
+
+     * Debate-o-Matic
+     A player CAN play a Debate-o-matic, Indicating an ongoing
+     ordinary Agoran Decision. It becomes democratic.
+
+     * Arm-Twist
+     A player CAN play an Arm-Twist, indicating a player and an
+     ongoing ordinary Agoran Decision. The indicated player's voting
+     limit on that Decision is increased by one.
+
+     * On the Nod
+     A play CAN play an On the Nod, indicating an ongoing ordinary
+     Agoran Decision that has not been filibustered. That Decision is
+     rubberstamped.
+
+     * Kill Bill
+     A player CAN play a Kill Bill, indicating an ongoing ordinary
+     Agoran Decision. That Decision is vetoed.
+
+     * Lobbyist
+     A player CAN play a Lobbyist to increase the caste of a
+     specified player other them emself by one.
+
+     * Local Election
+     A player CAN play a Local Election, indicating a non-Savage
+     player. The indicated player's caste is decreased by one.
+
+     * No Confidence
+     A player CAN play a No Confidence, indicating an office. If
+     there is an ongoing election for the office, it is canceled
+     (there is no change in its holder). An election for the office
+     is initiated.
+
+     * Goverment Ball
+     If a player holds an "X Ball" card (where X is the name of a
+     deck) for each deck, that player satisfies the winning condition
+     of Win by Lotto. Cleanup Procedure: For each other deck one such
+     corresponding Ball card is destroyed.
+
+Replace the entire text of Rule 2261 (The Deck of Change) with:
+
+     When an interested proposal is adopted, its author earns a
+     number of draws from the Change deck equal to the Interest Index
+     of the adopted proposal, and the coauthors of the proposal (if
+     any) earn one draw from the Change deck each.
+
+     The following is a list of the types of cards in the Change
+     deck, and how players CAN play (spend, destroy) each type of
+     card:
+
+     * Distrib-u-Matic
+     A player CAN play a Distrib-u-matic, indicating an
+     Undistributable proposal. It becomes Distributable
+
+     * Committee
+     A player CAN play a Committee, indicating a Distributable
+     proposal. It becomes Undistributable.
+
+     * Your Turn
+      A player CAN play a Your Turn, indicating a player. The
+      indicated player SHOULD destroy at least one card in eir
+      possession in the next 72 hours. If e fails to do so, the player
+      of Your Turn CAN once destroy a card in the indicated player's
+      possession by announcement in the subsequent week.
+
+     * Presto!
+     A player CAN play a Presto!, indicating a player and a card
+     owned by that player. The card is transferred to the Presto!
+     player.
+
+     * Not Your Turn
+     A player CAN play a Not Your Turn, indicating a given playing of
+     a card that occurred in the last 24 hours. That play is canceled
+     and did not occur. If this would lead at any time in the 24
+     hours after the playing of this card to a paradox which would
+     prevent its play, its play is unsuccessful.
+
+     * Change Ball
+     If a player hold an "X Ball" card (where X is the name of a
+     deck) for each other deck you satisfy  the winning condition of
+     Win by Lotto. Cleanup Procedure: For each other basic deck one
+     such corresponding Ball card is destroyed.
+
+     * Supersize Me
+     A player CAN play Supersize Me, specifying a player. That
+     player's Hand Limit is increased by 1.
+
+     * Shrink Potion
+     A player CAN play a Shrink Potion, specifying a player. That
+     player's Hand Limit is decreased by 10% (rounded up).
+
+Replace the entire text of Rule 2262 (The Deck of Justice) with:
+
+     When a judge judges a judicial case within the time limit for
+     judging that case, e earns a number of draws from the Justice
+     deck equal to the Interest Index of the case. If a judge's
+     judgement is OVERTURNED or REASSIGNED on appeal, any player CAN
+     destroy any Cards the judge earned for judging the case by
+     announcement.
+
+     The following is a list of the types of cards in the Justice
+     deck, and how players CAN play (spend, destroy) each type of
+     card:
+
+      * Absolv-o-Matic
+     A player CAN play an Absolv-o-matic, indicating a player with at
+     least one Rest. A Rest in that player's possession destroyed.
+
+      * Stool Pigeon
+     A player CAN play a Stool Pigeon, indicating a player who has
+     not been indicated for this card within the last 72 hours. A
+     Rest is created in that player's possession.
+
+      * Drop your Weapon
+     A player CAN play Drop your Weapon, indicating a player and a
+     card held by that player. The card is destroyed.
+
+      * Discard Picking
+     A player CAN play Discard Picking, indicating a type of card
+     where at least one card of that type was destroyed in the past
+     72 hours; a card of that type is created in eir possession.
+
+      * Justice Ball
+     If a player owns an "X Ball" card (where X is the name of a
+     deck) for each other deck you satisfy  the winning condition of
+     Win by Lotto. Cleanup Procedure: For each other basic deck one
+     such corresponding Ball card is destroyed.
+
+      * Dunce Cap
+     Owning a Dunce Cap card is a Losing Condition.  The holder of
+     this card CANNOT destroy it by announcement, and CANNOT transfer
+     it unless e has held it for at least one week, other Rules to
+     the contrary notwithstanding.
+
+In Rule 2255 (Major Arcana), replace
+
+     The Major Arcana is a deck of Position cards whose dealer is the
+     Herald.  The following Major Arcana cards are defined:
+
+with:
+
+      The following is a list of the Prerogatives, a set of imposed
+      offices with the indicated privileges and abilities. The holder
+      of a Prerogative CAN change its holder by announcement.
+
+and retitle Rule 2255 to "Prerogatives".
+
+In Rule 402 (Identity of the Speaker), replace
+
+     Once per quarter, and once after gaining the office, the Speaker
+     CAN Form a Government by publishing a list of every defined
+     Major Arcana card, and listing (for each card) a different
+     active player who holds the Patent Title Champion.  Such a
+     formation of government, when triggered, has the self-ratifying
+     effect of transferring the indicated cards to the indicated
+     players.
+
+with:
+
+     Once per quarter, and once after gaining the office, the Speaker
+     CAN Form a Government by publishing a list of every defined
+     Prerogative office, and listing (for each office) a different
+     active player who holds the Patent Title Champion.  Such a
+     formation of government, when triggered, has the self-ratifying
+     effect of causing the indicated offices to be held by the
+     indicated players.

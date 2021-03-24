@@ -1,0 +1,88 @@
+ID: 5111
+Title: Return of switches
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Create a rule titled "Switches" with Power 2 and this text:
+
+      A type of switch is a property that the rules define as a
+      switch, and specify the following:
+
+        a) The type(s) of entity possessing an instance of that
+           switch.  No other entity possesses an instance of
+           that switch.
+
+        b) One or more possible values for instances of that
+           switch, exactly one of which is designated as the
+           default.  No other values are possible for instances
+           of that switch.
+
+        c) Exactly one officer who tracks instances of that
+           switch.  That officer's report includes the value of
+           each instance of that switch whose value is not Null.
+
+      At any given time, each instance of a switch has exactly one
+      possible value for that type of switch.  If an instance of a
+      switch comes to have a value, it ceases to have any other
+      value.  If an instance of a switch would otherwise fail to
+      have a possible value, it comes to have its default value.
+
+      "To flip an instance of a switch" is to make it come to have a
+      given value.  "To become X" (where X is a possible value of
+      exactly one of the subject's switches) is to flip that switch
+      to X.
+
+Change the title of Rule 2130 to "Activity", and amend it to read:
+
+      Activity is a player switch with values Active (default) and
+      Inactive, tracked by the Registrar.
+
+      A player may flip eir activity by announcement.  "To go on hold"
+      is to become Inactive; "to come off hold" is to become Active.
+
+      A player may flip another player's activity to Inactive without
+      objection.
+
+Amend Rule 478 (Fora) by replacing this text:
+
+      A Forum's Publicity may be either null, Discussion, or Public
+      (default null).  A forum's publicity may not be changed except
+      as described in this rule.
+
+with this text:
+
+      Publicity is a forum switch with values Public, Discussion, and
+      Null (default), tracked by the Registrar.
+
+Amend Rule 1871 (The Standing Court) by replacing this text:
+
+      Each player is either standing, sitting, or supine; this status
+      is known as eir posture.  The CotC's report includes each
+      player's posture.  When an entity becomes a player, e is
+      initially supine.  A player CAN change emself from sitting to
+      supine, or from supine to sitting, by announcement.
+
+with this text:
+
+      Posture is a player switch with values Standing, Sitting, and
+      Supine (default), tracked by the Clerk of the Courts.
+
+      A player may flip eir posture from Sitting to Supine, or vice
+      versa, by announcement.
+
+Amend Rule 869 (How to Join and Leave Agora) to read:
+
+      Citizenship is an entity switch with values Null (default) and
+      Registered, tracked by the Registrar.  A player is an entity
+      whose citizenship is Registered.  "To register" and "to become a
+      player" are synonymous with "to flip one's citizenship to
+      Registered"; "to deregister" and "to be deregistered" are
+      synonymous with "to flip the subject's citizenship to Null".
+
+      A person may register (unless prevented by the rules) by
+      announcing that e registers, wishes to register, requests
+      registration, or requests permission to register.
+
+      A player may deregister by announcement.  E CANNOT register within
+      thirty days after doing so.

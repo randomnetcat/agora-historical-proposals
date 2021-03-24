@@ -1,0 +1,21 @@
+ID: 5364
+Title: A very merry unbirthday to you
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1727 (Happy Birthday) by appending this text:
+
+      BE IT FURTHERMORE RESOLVED that Agora's Unbirthday is defined to
+      be the entire day of December 30, GMT +1200, of each year; but,
+      since that falls within a Holiday, is observed during the entire
+      days of January 12 through 14, GMT +1200, of each year.
+
+Amend Rule 2176 (Marks) by appending this text to the list of ways to
+gain and lose Marks:
+
+      (+m) When, during the observance of Agora's unbirthday, a player
+           publicly acknowledges the occasion, e gains 2N+1 magenta
+           Marks (where N is Agora's age rounded down to the nearest
+           integer), unless e previously gained Marks in this manner
+           during the same unbirthday.

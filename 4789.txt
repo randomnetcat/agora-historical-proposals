@@ -1,0 +1,22 @@
+ID: 4789
+Title: Deckmastor's Ephemera v.2
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Create a new rule entitled "Deckmastor's Ephemera" with the following
+text:
+
+      At the end of each month the Deckmastor may award the following
+      ephemeral patent titles:
+
+      * BestPlay, to the player who contributed most to Cards in
+        general or the player or players that made the best play of
+        cards the eyes of the Deckmastor, during the month.
+
+      * IgnorantGamer (Dynamic, but with its Karma set initially to
+        Albatross), to the player whose attempts at making draws and
+        playing cards failed the most, during the month.  If there is
+        more than on player who meets the criteria for this ephemeral
+        patent title, they all receive it.

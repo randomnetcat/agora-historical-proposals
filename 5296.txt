@@ -1,0 +1,36 @@
+ID: 5296
+Title: Decidable Undetermination
+Author: root
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing the text reading:
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable, nonsensical, too vague, or otherwise not capable
+        of being accurately described as either false or true, at the
+        time the inquiry case was initiated
+
+with:
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable or otherwise not capable of being accurately
+        described as either false or true, at the time the inquiry
+        case was initiated
+
+and the text reading:
+
+      * UNDETERMINED, appropriate if the information available to the
+        judge is insufficient to determine which of the FALSE, TRUE,
+        and UNDECIDABLE judgements is appropriate; however,
+        uncertainty as to how to interpret or apply the rules cannot
+        constitute insufficiency of information for this purpose
+
+with:
+
+      * UNDETERMINED, appropriate if the statement is nonsensical or
+        too vague, or if the information available to the judge is
+        insufficient to determine which of the FALSE, TRUE, and
+        UNDECIDABLE judgements is appropriate; however, uncertainty as
+        to how to interpret or apply the rules cannot constitute
+        insufficiency of information for this purpose

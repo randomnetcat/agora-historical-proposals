@@ -1,0 +1,39 @@
+ID: 6636
+Title:  Refactor definitions
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule titled "Veto and Rubberstamp" with Power 2 and this text:
+
+     Vetoing an ordinary decision during its voting period increases
+     its adoption index by 1 and makes it Democratic.  Vetoing a
+     decision under other circumstances has no effect.
+
+     Rubberstamping an ordinary, non-filibustered decision during its
+     voting period decreases its quorum to 3, rules to the contrary
+     notwithstanding.  Rubberstamping a decision under other
+     circumstances has no effect.
+
+Amend Rule 2255 (Major Arcana) by replacing this text:
+
+     Title:  Majority Leader.
+     Position: The Majority Leader CAN veto a specified ordinary
+     decision in its voting period by announcement; this increases
+     its Adoption Index by 1 and makes it Democratic.
+
+     Title: Cabinet Secretary.
+     Position: the Cabinet Secretary CAN rubberstamp an ordinary,
+     non-filibustered decision in its voting period by indicating the
+     decision; this decreases its quorum to 3, rules to the contrary
+     notwithstanding.
+
+with this text:
+
+     Title:  Majority Leader.
+     Position: The Majority Leader CAN veto a specified decision by
+     announcement.
+
+     Title: Cabinet Secretary.
+     Position: the Cabinet Secretary CAN rubberstamp a specified
+     decision by announcement.

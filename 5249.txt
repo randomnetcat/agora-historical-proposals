@@ -1,0 +1,36 @@
+ID: 5249
+Title: Leaning judges
+Author: AFO
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 (The Standing Court) by replacing all text before the
+paragraph beginning "When the CotC assigns a standing player" with
+this text, if "Generalize poor qualification" was adopted:
+
+      Posture is a player switch with values Standing, Sitting, Leaning,
+      and Supine (default), tracked by the Clerk of the Courts.  A
+      non-standing player CAN flip eir posture to any non-standing value
+      by announcement.
+
+      A supine player is unqualified to be assigned as judge of any
+      judicial case.  A sitting or leaning player is poorly qualified
+      to be assigned as judge of any judicial case.
+
+or this text, otherwise:
+
+      Posture is a player switch with values Standing, Sitting, Leaning,
+      and Supine (default), tracked by the Clerk of the Courts.  A
+      non-standing player CAN flip eir posture to any non-standing value
+      by announcement.
+
+      A supine player is unqualified to be assigned as judge of any
+      judicial case.  The CotC SHALL NOT assign a sitting or leaning
+      player to be the judge of any judicial case.  If the CotC has
+      assigned a sitting or leaning player as judge, and that player
+      is still the judge of that case, the CotC CAN recuse that judge
+      from that case by announcement.
+
+[Leaning players are candidates for judicial panels, but not for
+non-appeal cases, hence they are not part of the sitting-to-standing
+process.]

@@ -1,0 +1,9 @@
+ID: 4575
+Title: Compressed
+Author: Elysion
+Co-authors: 
+Adoption index: 1
+
+
+This sentence contains the text of an entire encyclopedia after having been
+subjected to a lossy compression algorithm.

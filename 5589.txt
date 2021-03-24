@@ -1,0 +1,11 @@
+ID: 5589
+Title: On Behalf of the Monster
+Author: ais523
+Co-authors: 
+Adoption index: 1
+
+Append the following to the rule titled "The Monster":
+{{{
+      A player MAY perform an action on behalf of The Monster with
+      Monstrous Consent.
+}}}

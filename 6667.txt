@@ -1,0 +1,9 @@
+ID: 6667
+Title: Budget cut
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2138 (The Intergalactic Associate Director of Personnel)
+by replacing "Intergalactic" with "Interplanetary" in its title and
+text.

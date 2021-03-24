@@ -1,0 +1,159 @@
+ID: 5531
+Title: Rules as Binding Agreement
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing "player
+behaviour" with "behaviour", and by inserting this text after the
+first paragraph:
+
+      The rules as a whole are a contract that CANNOT be terminated,
+      rules to the contrary notwithstanding.  All players are party
+      to the rules; by becoming and remaining players, they thereby
+      agree to be bound by the rules.  Other persons who participate
+      in Agora SHOULD abide by the rules, but do not become party to
+      them unless they explicitly intend to do so, e.g. by entering
+      into a non-rule contract.  The proposal, fora, and registration
+      processes shall, prima facie, be considered to be protective of
+      a person's rights and privileges with respect to making and
+      changing the rules and the agreement to be bound by them.
+
+Amend Rule 101 (Agoran Rights and Privileges) by replacing "player"
+with "person" in section ii, and by replacing section vi with this
+text:
+
+        vi. Freedom of speech being essential for the healthy
+            functioning of any non-Imperial nomic, every player
+            has the right and every person has the privilege of
+            participation in the fora.
+
+and by replacing section viii with this text:
+
+      viii. Every person has the right to become party to the rules,
+            and the privilege of becoming a player.
+
+        ix. Every person has the right to cease being a player, or
+            otherwise ceasing to be party to the rules.
+
+Amend Rule 2169 (Equity Cases) by replacing this text:
+
+      An equity case CAN be initiated by any party to the contract
+
+with this text:
+
+      An equity case CAN be initiated by any party to the contract
+      (or by any person, if the contract is the rules)
+
+and by replacing this text:
+
+      The members of the bases of the parties to the contract are all
+      unqualified to be assigned as judge of the case.
+
+with this text:
+
+      The members of the bases of the parties to the contract are all
+      unqualified to be assigned as judge of the case, unless the
+      contract is the rules.
+
+and by replacing this text:
+
+      the judgement is in effect as a binding agreement between the
+      parties.
+
+with this text:
+
+      the judgement is in effect as a new binding agreement between
+      the parties, acting in conjunction with the original contract.
+
+Change the power of Rule 1742 (Contracts) to 3, and amend it by
+replacing "or between the contract and the rules" with "even if
+the other contract is the rules".
+
+[Remaining changes mostly just avoid excluding non-players from
+certain general situations.]
+
+Amend Rule 478 (Fora) by removing the first paragraph, and by
+replacing this text:
+
+      A player "publishes"
+
+with this text:
+
+      A person "publishes"
+
+and by replacing this text:
+
+      a player performs that action by announcing
+
+with this text:
+
+      a person performs that action by announcing
+
+[First paragraph was previously merged into Rule 101.]
+
+Amend Rule 2152 (Mother, May I?) by replacing this text:
+
+                                   If a rule specifies one or more
+      players in connection with a term, then the term applies only to
+      the specified player(s).
+
+with this text:
+
+                                   If a rule specifies one or more
+      persons in connection with a term, then the term applies only to
+      the specified person(s).
+
+Amend Rule 1769 (Holidays) by replacing this text:
+
+      time limit for a player to perform an action
+
+with this text:
+
+      time limit to perform an action
+
+and by replacing this text:
+
+      which require Players to perform events
+
+with this text:
+
+      which require events to be performed
+
+Amend Rule 2148 (The Ambassador) by replacing this text:
+
+      All players are prohibited from falsely claiming, to any nomic,
+      to be the ambassador.
+
+with this text:
+
+      All persons are prohibited from falsely claiming, to any nomic,
+      to be the ambassador.
+
+Amend Rule 2159 (Protective Decrees) by replacing this text:
+
+      All players are prohibited from falsely claiming, to any nomic,
+      that a document is a protective decree.
+
+with this text:
+
+      All persons are prohibited from falsely claiming, to any nomic,
+      that a document is a protective decree.
+
+[For reference, here is Zefram's laundry list of 10/29/07:
+
+> you need a power=3 rule to characterise the ruleset as a contract.
+> You need to be explicit about who the parties are, and that has to
+> be consistent with the rules that impose obligations on non-players
+> and with R101's bill of rights.  You need to review all the
+> constitutional and playerhood rules, modifying them to fit the
+> contract paradigm.  You need to be clear about whether the rules are
+> a R1742 contract, and if they are then R1742 probably needs to be
+> upmutated quite a bit.  You need to be clear about the constitutional
+> position of equity judgements regarding the rules.  You need to be
+> clear about the role of the criminal court within a contract and as
+> applied to contracts generally.  You need to be clear about where
+> contractual obligations are rooted.
+
+Most of this is explicitly addressed above.  Double jeopardy is
+already covered by Rule 101 (vii).]

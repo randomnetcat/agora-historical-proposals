@@ -1,0 +1,18 @@
+ID: 6000
+Title: Fix double jeopardy
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+     * ALREADY TRIED, appropriate if judgement has already been
+       reached in another criminal case with the same defendant, the
+       same rule, and substantially the same alleged act
+
+with this text:
+
+     * ALREADY TRIED, appropriate if judgement (other than ALREADY
+       TRIED) has already been reached in another criminal case with
+       the same defendant, the same rule, and substantially the same
+       alleged act

@@ -1,0 +1,41 @@
+ID: 5452
+Title: Minor election improvements
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2154 (Replacing Officers) to read:
+
+      Any player CAN make an active player (hereafter the nominee) the
+      holder of an elected office, thus removing any previous holder
+      from the office, with Agoran Consent and the nominee's consent;
+      this process is known as installation.
+
+      If, during the minimum waiting period between intent and action
+      defined for Agoran Consent, another active player is nominated
+      in this way and consents, then the IADoP SHALL as soon as possible
+      initiate an Agoran decision to determine the new officeholder;
+      this process is known as election.  Until the election is
+      resolved, the office CANNOT change hands via installation, the
+      remainder of this rule notwithstanding.
+
+      In an election, the valid options are the consenting nominees
+      (hereafter the candidates), quorum is the lesser of three and the
+      number of active players (other rules on quorum notwithstanding),
+      the eligible voters are the active players, and the vote collector
+      is the IADoP.  In the notice resolving the decision, the IADoP
+      will select a candidate that received at least as many votes as
+      any other candidate; this candidate thereby becomes the
+      officeholder.
+
+      Stability is an elected office switch, tracked by the IADoP,
+      with values Temporal (default) and Perpetual.  Any player CAN
+      flip an office's stability without 2 objections.  A Perpetual
+      office becomes Temporal when its holder leaves office.
+
+      If an office is Temporal at the end of a quarter, and no attempt
+      to install a player into that office was made during that quarter,
+      then the IADoP SHALL make at least one such attempt during the
+      following quarter, and SHALL make the change if possible; however,
+      these requirements are waived if another player makes such a
+      change during the following quarter.

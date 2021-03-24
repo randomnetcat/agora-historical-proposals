@@ -1,0 +1,14 @@
+ID: 5696
+Title: Power-Splitting
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2211 by appending the following paragraph:
+
+     During the seven days immediately prior to the start of a
+     month, the Speaker CAN publish an Honors List, indicating
+     a list of players other than emself for promotion.  If such
+     a list is published, the Grand Poobah SHALL, during the
+     Promotions step above, make as many legal promotions from
+     this list as possible before making any other promotions.

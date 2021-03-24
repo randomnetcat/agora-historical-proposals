@@ -1,0 +1,39 @@
+ID: 5694
+Title: Ministering the Speaker
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1922 by deleting paragraph (e) [Minister Without Portfolio]
+and relettering paragraphs (f) and (g) as (e) and (f).
+
+
+Amend Rule 402 by replacing this text:
+
+      The Speaker is the active player who has borne the Patent Title of
+      Minister Without Portfolio the longest, with ties broken in
+      favor of the player who has been registered the longest.
+
+with this text:
+
+      The Speaker is the active player who has most recently won the
+      game, with ties broken in favor of the player who has been
+      registered the longest.
+
+
+Amend Rule 2019 by replacing the first paragraph, which in revision
+number 17 reads:
+
+      In a timely fashion before the beginning of each month, the
+      Speaker SHALL randomly assign each Player who bears the patent
+      title Minister Without Portfolio a different Prerogative for the
+      upcoming month by announcement.  If there are more members in
+      one set than the other, then e SHALL randomly choose which
+      members of the larger set take part in the assignment.
+
+with this text:
+
+      In a timely fashion before the beginning of each month, the
+      Speaker SHALL assign to each of as many active players who bear
+      the patent title Champion as possible a different Prerogative
+      for the upcoming month by announcement.

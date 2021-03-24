@@ -1,0 +1,19 @@
+ID: 4649
+Title: Magical Mute Exemption Tour
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Create a rule entitled "Mute Exemption":
+
+       A Legislator who is Mute may, with two support, submit a body of
+       text with Mute Exemption.  This text becomes a Proposal if
+       it meets all rule requirements for a Proposal other than the
+       Proposer not being Mute.
+
+       As soon as possible after a Proposal with Mute Exemption passes,
+       the Assessor shall expunge a number of Blots from the Proposer
+       equal to the Adoption Index of the Proposal.  The Proposer shall
+       receive no Boons that may have awarded by other rules for the
+       passing of the Proposal.

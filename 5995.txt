@@ -1,0 +1,52 @@
+ID: 5995
+Title: Fix multi-method dependent actions
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1728 (Dependent Actions) by replacing this text:
+
+         at least one of the following methods
+
+with this text:
+
+         a set of one or more of the following methods
+
+and by replacing this text:
+
+         specifying the action and method (including the value of N)
+
+with this text:
+
+         specifying the action and method(s) (including the value of
+         N for each method)
+
+Amend Rule 2124 (Agoran Satisfaction) by replacing this text:
+
+     Agora is Satisfied with an intent to perform a specific action
+     if and only if:
+
+     (1) the action is to be performed Without N Objections, and it
+         has fewer than N objectors;
+
+     (2) the action is to be performed With N supporters, and it has
+         N or more supporters; or
+
+     (3) the action is to be performed with N Agoran Consent, and the
+         ratio of supporters to objectors is greater than N, or the
+         action has at least one supporter and no objectors.
+
+with this text:
+
+     Agora is Satisfied with an intent to perform a specific action
+     if and only if:
+
+     (1) if the action is to be performed Without N Objections, then
+         it has fewer than N objectors;
+
+     (2) if the action is to be performed With N supporters, then it
+         has N or more supporters; and
+
+     (3) if the action is to be performed with N Agoran Consent, then
+         the ratio of supporters to objectors is greater than N, or
+         the action has at least one supporter and no objectors.

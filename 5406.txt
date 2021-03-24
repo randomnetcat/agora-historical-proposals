@@ -1,0 +1,21 @@
+ID: 5406
+Title: <none>
+Author: pikhq
+Co-authors: 
+Adoption index: 2
+
+Create a rule title "Power of Attorney", Power 2, with the following text:
+A Power of Attorney is a kind of public contract with two parties, referred to
+as the Granter and the Grantee.
+The Granter of a Power of Attorney is in no way restricted from acting on eir
+own behalf. The Grantee may only act on behalf of the Granter as permitted by
+the contract, and only as allowed by the rules.
+A Power of Attorney may be disbanded by any player with 2 support. When a
+Power of Attorney is disbanded in this faction, then, without objection, the
+Granter is deregistered.
+
+Amend rule 1504 by adding, after "The CotC's report includes the status of all
+active sentences.", the following:
+If a Grantee of a Power of Attorney caused the Granter to breach a rule, then
+the sentence shall be applied to the Grantee rather than the Granter, if the
+Grantee is a player.

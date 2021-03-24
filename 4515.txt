@@ -1,0 +1,19 @@
+ID: 4515
+Title: Expunge Nomic Properties
+Author: Maud
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 1274 (Definition of Indices) to read:
+
+      The indices are the nonnegative real numbers with their usual
+      order, along with the special value Unanimity.  Unanimity is
+      greater than any other index.
+
+Amend rule 594 (Power and Proposals) by striking the text that reads: 
+
+      For the purpose of the Rules, the application of an adopted
+      Proposal is a legal procedure for changing Nomic Properties.
+
+Repeal rule 1011 (Definition of Nomic Property).

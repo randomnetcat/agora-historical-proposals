@@ -1,0 +1,19 @@
+ID: 4948
+Title: rule restoration
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 105 by appending after the item "(e) change the power of a
+rule." the item:
+
+      (f) restore a former rule which is presently not a rule.
+          When restored, the former rule becomes a rule once more.
+          All substantive aspects of the restored rule, other than its
+          power, are identical to what they were at the instant the rule
+          most recently ceased to be a rule.  The restored rule has  
+power
+          equal to the minimum of the power specified by the restoring
+          instrument, defaulting to one if the restoring instrument does
+          not specify, and the maximum power permitted by other rules.

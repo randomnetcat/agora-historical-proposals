@@ -1,0 +1,32 @@
+ID: 6663
+Title: Deny quorum without math tricks
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 955 (Determining the Will of Agora) by replacing section
+(a) with this text:
+
+       (a) If
+
+            i) there is more than one available option, and the number
+               of distinct voters who submitted valid ballots is less
+               than quorum, or
+
+           ii) the decision satisfies one or more blocking conditions,
+
+           then the outcome is FAILED QUORUM, regardless of the
+           remainder of this rule.  Otherwise, the decision achieved
+           quorum.
+
+[Parallel construction with Losing Conditions.]
+
+Amend Rule 2177 (The Senate) by replacing this text:
+
+       While a proposal is in filibuster, its quorum is the number of
+       eligible voters plus one, rules to the contrary notwithstanding.
+
+with this text:
+
+       Being in filibuster is a blocking condition for the decision on
+       whether to adopt that proposal.

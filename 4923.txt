@@ -1,0 +1,20 @@
+ID: 4923
+Title: VC Raffle
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Amend Rule 2126 (Voting Credits) by adding, just before this text:
+
+      A player may expend two VCs to increase eir own voting limit on
+      ordinary proposals by one.
+
+the following text:
+
+      As soon as possible after announcing the results of an Agoran
+      decision, the vote collector shall choose a random integer from
+      1 to 10 (inclusive); if it is 7, then e shall choose a random
+      player who voted on that decision, and that player gains a number
+      of VCs equal to the number of players who voted on that decision
+      divided by 7 (rounded up).

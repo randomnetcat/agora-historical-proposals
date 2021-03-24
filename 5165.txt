@@ -1,0 +1,27 @@
+ID: 5165
+Title: zeitgeist and anti-zeitgeist
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by inserting in the list of ways that VCs can be
+gained (and lost, if both are in a single list), immediately after the
+last item that mentions red VCs, the new item
+
+      (+O) When an interested proposal is adopted by voting with no
+           valid votes AGAINST, its proposer gains one orange VC
+           unless e gained a VC in this way earlier in the same week.
+
+and then inserting in the list of ways that VCs can be lost (and
+gained, if both are in a single list), immediately after the last item
+that mentions either red VCs or orange VCs, the new item
+
+      (-O) When an interested proposal is rejected by voting with no
+           valid votes FOR, and having met quorum, its proposer loses
+           one orange VC.
+
+[A zeitgeist award and its complement.  Orange is chosen as the
+rainbow color adjacent to red, which is used for the related proposal
+awards.  The award is limited to once per week, like the red proposer
+and coauthor awards, to avoid problems when one player makes several
+proposals together.]

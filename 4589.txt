@@ -1,0 +1,33 @@
+ID: 4589
+Title: Fix Nominating with Budgets
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1958 (Nominating with Budgets) by replacing this text:
+
+        (d) When the voting period begins, the vote collector shall
+            announce each candidate's last valid proto-budget.
+
+        (e) When the voting period ends, the winner's last valid
+            proto-budget becomes the budget of that office, and e shall
+            announce it as soon as possible. If the election ends
+            without a winner, then the existing Budget remains in
+            effect.
+
+with this text:
+
+        (d) As soon as possible after the end of the nominating period,
+            the vote collector shall announce each candidate's last
+            valid proto-budget.
+
+        (e) When the election ends, the winner's last valid proto-budget
+            becomes the budget of that office, and the winner shall
+            announce it as soon as possible.  If the election ends
+            without a winner, then the existing budget remains in effect.
+
+Upon the adoption of this Proposal, the gamestate becomes what it would
+be if, whenever an Election for Office ended with a winner and a valid
+proto-budget, but without a Voting Period, the proto-budget became the
+budget for that Office.

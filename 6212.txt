@@ -1,0 +1,18 @@
+ID: 6212
+Title: Interpreting the rules
+Author: Spitemaster
+Co-authors: 
+Adoption index: 3.0
+
+
+Amend rule 217 (Interpreting the rules) by replacing:
+
+      it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game.
+
+with:
+
+      it is to be augmented by consideration of the best interests of
+      the game (so that it does not cause the game to become unplayable,
+      but not taking into account any other factors yet), game custom,
+      past judgements, and common sense, in that order.

@@ -1,0 +1,8 @@
+ID: 5796
+Title: Genocide I
+Author: Ivan Hope CXXVII
+Co-authors: 
+Adoption index: 1.0
+
+Remove all instances of a letter H in all power-1 rules 
+and titles of said rules.

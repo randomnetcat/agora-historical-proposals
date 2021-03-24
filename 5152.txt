@@ -1,0 +1,17 @@
+ID: 5152
+Title: MMI consistent capatilization
+Author: Levi
+Co-authors: 
+Adoption index: 2
+
+In Rule 2152 change:
+
+     4. CAN X ONLY IF Y:  Equivalent to "CANNOT X unless Y".  Similar
+        for (MUST, MAY, SHALL, SHOULD) X ONLY IF Y.
+
+to:
+
+     4. CAN X ONLY IF Y:  Equivalent to "CANNOT X UNLESS Y".  Similar
+        for (MUST, MAY, SHALL, SHOULD) X ONLY IF Y.
+
+[[[ This is consistent with capatilizing ONLY IF. ]]]

@@ -1,0 +1,16 @@
+ID: 6391
+Title: Get on with the recusal!
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2158 (Judicial Questions) by replacing this text:
+
+      When a judicial question is applicable and open, and its judge
+      has violated a time limit to assign a judgement to it,
+
+with this text:
+
+      When a judicial question is applicable and open, and its judge
+      has violated a time limit to assign a judgement to it, or is
+      not an active player,

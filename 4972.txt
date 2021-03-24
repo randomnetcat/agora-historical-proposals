@@ -1,0 +1,23 @@
+ID: 4972
+Title: No free votes II
+Author: Goddess Eris
+Co-authors: 
+Adoption index: 3
+
+Change rule 1950 (Voting Limits) to read:
+
+    The voting limit of an eligible voter on a democratic proposal
+    is one and cannot be changed except by this rule.
+
+    The voting limit of an eligible voter on an ordinary proposal is
+    one if not explicitly modified by other rules.
+
+    The voting limit of an eligible voter who is not a natural person
+    is always one less than it would otherwise be.
+
+    After the voting period for an Agoran decision has ended, the
+    vote collector shall permit the first valid ballots submitted by
+    an eligible voter to remain valid, up to a number equal to that
+    person's voting limit on that decision as determined when the
+    voting period for that decision began, and shall invalidate all
+    subsequent ballots submitted by that voter on that decision.

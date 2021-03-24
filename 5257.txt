@@ -1,0 +1,64 @@
+ID: 5257
+Title: Ministers Without Portfolio
+Author: AFO
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2149 (Truthiness, or the Island of Knights and Knaves) by
+replacing "Speaker" with "Registrar".
+
+Amend Rule 1922 (Defined Regular Patent Titles) by appending this text:
+
+      (e)  Minister Without Portfolio, to be awarded to any player
+           who wins the game.  If the number of players bearing this
+           title is greater than the number of Prerogatives defined
+           by the rules, then this title is revoked from the Speaker.
+
+Change the title of Rule 103 to "Role of the Speaker", and amend it
+to read:
+
+      The Speaker is the figurehead of Agora, embodying its
+      spirit.  Diplomatic missions from Agora to foreign nomics
+      operate on the Speaker's behalf.
+
+Change the title of Rule 402 to "Identity of the Speaker", and amend it
+to read:
+
+      The Speaker is the player who has borne the Patent Title of
+      Minister Without Portfolio the longest, with ties broken in
+      favor of the player who has been registered the longest.
+
+Change the title of Rule 2019 to "Prerogatives", and amend it to read:
+
+      As soon as possible after the beginning of the month, the Speaker
+      SHALL randomly assign each Minister Without Portfolio a different
+      Prerogative for the remainder of that month.  If there are more
+      members in one set than the other, then e SHALL randomly choose
+      which members of the larger set take part in the assignment.
+
+      The following Prerogatives are defined:
+
+        a) Default Officeholder.  The Default Officeholder CAN become
+           holder of a vacant office by announcement, unless e is
+           prevented from holding that office on an ongoing basis.
+
+        b) Default Justice.  Whenever the Clerk of the Courts assigns
+           a judicial panel, e SHALL assign one with the Default
+           Justice as a member, unless no such panel is eligible to
+           be so assigned.
+
+        c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
+           proposal in its voting period by announcement; this increases
+           its Adoption Index by 1.
+
+        d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
+           rubberstamp an ordinary proposal in its voting period by
+           announcement; this decreases its quorum to 3, rules to the
+           contrary notwithstanding.
+
+Upon the adoption of this proposal, the four players who won most
+recently are awarded the Patent Title of Minister Without Portfolio,
+with ties broken in favor of the player who has been registered the
+longest.
+
+[Levi, Human Point Two, root, Eris]

@@ -1,0 +1,16 @@
+ID: 6367
+Title: Low Priority Offices
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+Append to Rule 1006 (Offices) the following text:
+
+{{
+
+A low priority office is an office described as such by the rule defining
+it. All other offices are high-priority. Rules to the contrary
+notwithstanding, the interest index of a low priority office CANNOT be set
+to higher than one.
+
+}}

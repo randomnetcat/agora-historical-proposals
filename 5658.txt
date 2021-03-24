@@ -1,0 +1,77 @@
+ID: 5658
+Title: Generalize panels
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Create a rule titled "Panels" with this text:
+
+      A panel is a structure whereby a set of two or more persons
+      (its members) act together.  A panel's membership cannot change,
+      and if two panels have the same membership then they are the
+      same panel.  Panels exist implicitly, without any specific act
+      of formation.
+
+      A panel CAN send messages by means of any of its members sending
+      a message identified as being from the panel, with the unanimous
+      support of the panel's other members, or as explicitly authorized
+      by the rules.  Where the rules define an action that CAN be
+      performed "by announcement", a panel performs that action by
+      sending a message in this way that e performs it.
+
+      A panel can incur obligations.  The members of a panel SHALL act
+      collectively to ensure that the panel satisfies all of its
+      obligations.
+
+Amend Rule 2157 (Judicial Panels) to read:
+
+      A panel CAN send a message judging an appeal case with the
+      support of at least half its members (other than the member
+      sending the message) and the Clerk of the Courts (unless e is
+      a member of the panel, the prior judge, or unqualified to be
+      assigned as judge of the prior case).  The CotC SHOULD so
+      support if and only if the panel's members have made a
+      reasonable effort to achieve consensus.
+
+Amend Rule 2177 (The Senate) by replacing this text:
+
+      A Senator CAN call an Emergency Session with 2 Senate
+      supporters,
+
+with this text:
+
+      A panel of at least three Senators CAN call an Emergency Session
+      by announcement,
+
+and by replacing this text:
+
+      During emergency session, any Senator CAN declare a filibuster
+      on a proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in the
+      past.  Any Senator CAN end a filibuster on a proposal with 4
+      supporting Senators.
+
+with this text:
+
+      During emergency session, a panel of at least three Senators CAN
+      declare a filibuster on a proposal in its voting period by
+      announcement, provided no filibuster has been declared on that
+      proposal in the past.  A panel of at least five Senators CAN end
+      a filibuster on a proposal by announcement.
+
+Amend Rule 2142 (Support Democracy) to read:
+
+      A panel of at least three players CAN change an ordinary decision
+      to be democratic by announcement.
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case within the past two weeks CAN be initiated by any player
+      with 2 support.
+
+with this text:
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case within the past two weeks CAN be initiated by a panel of at
+      least three players by announcement.

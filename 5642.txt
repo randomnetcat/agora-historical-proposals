@@ -1,0 +1,32 @@
+ID: 5642
+Title: <none>
+Author: Sgeo
+Co-authors: ais523, root, BobTHJ, Wooble, Murphy, Zefram, Goethe, Pavitra
+Adoption index: 2
+
+Amend Rule 2126 (Notes) by appending the following paragraph to the end:
+
+The maximum FINE amount for each pitch of note is 2.
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+     * FINE, appropriate for rule breaches of small consequence.
+       When in effect, the ninny SHALL within 72 hours destroy one of
+       eir Notes.  The ninny is only obliged to perform one
+       destruction per question on sentencing, even if sentences of
+       this type are assigned more than once or go into effect more
+       than once.
+
+with this text:
+
+    * FINE with an amount of one currency, appropriate for rule
+      breaches of small consequence.  An amount is only valid if the
+      currency's backing document binds the ninny or the ninny has
+this amount of the currency, and the backing document specifies a
+      maximum FINE amount, and the amount is no greater than the
+      maximum.  When in effect, the ninny SHALL within 72 hours either
+      destroy this amount of eir currency or transfer it to the Lost
+      and Found Department.  The ninny is only obliged to perform one
+      destruction or transfer per question on sentencing, even if
+      sentences of this type are assigned more than once or go into
+      effect more than once.

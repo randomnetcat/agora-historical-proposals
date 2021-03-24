@@ -1,0 +1,22 @@
+ID: 6658
+Title: Fix Renaissance
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2199 (Ribbons) by replacing this text:
+
+       If this rule mentions at least six different specific colors for
+       Ribbons, then a player CAN destroy one Ribbon of each such color
+       in eir possession to satisfy the Winning Condition of
+       Renaissance.
+
+with this text:
+
+       If this rule mentions at least six different specific colors for
+       Ribbons, then upon a win announcement that one or more players
+       each possess at least one Ribbon of each such color, all those
+       players satisfy the Winning Condition of Renaissance.
+
+       Cleanup procedure:  For each of those players, one Ribbon of each
+       such color in eir possession is destroyed.

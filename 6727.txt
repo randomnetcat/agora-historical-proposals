@@ -1,0 +1,57 @@
+ID: 6727
+Title: Voting Cutbacks
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+COMMENTS:
+Removes the potential for silliness caused by current ordinary
+decisions; maybe Fragments will come up with a new system. Support
+Democracy is also replaced with using the Senate; it's intentional that
+the change only apply to new proposals - I wanted something new.
+
+PROPOSAL TEXT:
+Amend Rule 2177 (The Senate) by replacing the last paragraph with
+       When an Emergency Session begins, all non-Senators' postures
+       become supine, non-Senators' voting limits on all unresolved
+       Agoran decisions become 0, and Senators' voting limits on all
+       unresolved Agoran decisions become 1. As long as the Emergency
+       Session is in progress, postures of non-Senators and voting limits
+       CANNOT be changed. This paragraph takes precedence over other
+       rules.
+
+Retitle Rule 2156 (Voting on Ordinary Decisions) to "Voting Limit
+Entrenchment", change its power to 3, and amend it by replacing the
+first two sentences with:
+       A player's voting limit on an Agoran Decision is fixed at the
+       end of that Decision's voting period and thereafter CANNOT change,
+       rules to the contrary notwithstanding.
+
+Repeal Rule 2142 (Support Democracy)
+
+Repeal Rule 2290 (Chamber and Title)
+
+Amend Rule 2279 to read as follows:
+       A player's voting limit on an Ordinary decision is the result of
+       performing the following steps, in order:
+
+           (1) Start with the value 1.
+
+           (3) Apply any other adjustments defined in other rules, in
+               numerical order unless otherwise specified.
+
+           (2) Reduce the value by half the number of Rests owned by
+               the player, rounded down.
+
+           (4) Round the value to the nearest non-negative integer,
+               breaking ties upward.
+
+       This rule takes precedence over any other rule which would
+       modify a player's voting limit on an ordinary Decision.
+
+Amend Rule 1607 by deleting the third bullet in the list of essential
+parameters.
+
+Repeal Rule 2134 (Win by Clout)
+
+Amend Rule 2284 (Fee-based actions) by removing the seventh bullet

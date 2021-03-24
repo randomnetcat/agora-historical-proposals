@@ -1,0 +1,10 @@
+ID: 5502
+Title: Nitpicking Contract
+Author: Pavitra
+Co-authors: 
+Adoption index: 1.5
+
+Amend rule 2197 by replacing the text "the its permissability" with
+"its permissibility".
+
+Amend rule 2198 by replacing the text "dependant" with "dependent".

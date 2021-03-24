@@ -1,0 +1,39 @@
+ID: 5131
+Title: judicial self-recusal and case transfer
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with title "Judicial Self-Recusal and Case Transfer",
+power 1, and text
+
+      The judge of a judicial case CAN recuse emself from it at any
+      time by announcement.
+
+      Judicial cases can generally be transferred between judges by
+      this procedure: an entity (the transferee) CAN assign emself as
+      the judge of a judicial case by announcement if:
+
+      (a) the case has a judge assigned (the transferor); and
+
+      (b) the transferor and the transferee are different entities;
+          and
+
+      (c) the transferor has previously publicly consented to the
+          transfer and not publicly withdrawn that consent; and
+
+      (d) the transferee is qualified to be assigned as judge of the
+          case; and
+
+      (e) the transferee immediately (in the same announcement)
+          assigns a judgement to a judicial question in the case.
+
+[Self-recusal provides a way to handle conflicts of interest that are
+not adequately covered by disqualifications.  Also potentially useful
+if a judge finds e suddenly lacks time to tackle a case.  Case
+transfer allows cases that should be linked to be handled by the same
+judge (like the old transfer provision for linked CFJs), and also
+allows for the swapping of cases that we have recently done via
+pseudo-judgements, another way to handle conflicts of interest.  The
+provision requiring immediate judgement means that transfer can't be
+abused to extend judgement deadlines.]

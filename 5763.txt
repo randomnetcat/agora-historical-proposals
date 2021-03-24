@@ -1,0 +1,12 @@
+ID: 5763
+Title: The Endless Repeals: 2136.3
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2136 (Contests) by removing:
+      Notwithstanding the rest of this rule, it is IMPOSSIBLE to flip
+      the contestmaster of a contract to a player who is not party to
+      that contract; and if a contract's contestmaster ceases to be
+      party to that contract, that contract's contestmaster is flipped
+      to 'none'.

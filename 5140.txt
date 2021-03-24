@@ -1,0 +1,21 @@
+ID: 5140
+Title: <none>
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+[Zefram is trying to repeal the Speaker's traditional role as
+default officeholder, so what should the Speaker do instead?  Keep
+track of speech, obviously.]
+
+Change the title of Rule 2149 to "Truthiness, or the Island of
+Knights and Knaves", and amend it to read:
+
+      Truthiness is a player switch with values Knight (default)
+      and Knave, tracked by the Speaker.
+
+      A knight SHALL NOT publish statements that e believes are
+      false.  A knave SHOULD NOT publish statements that e
+      believes are true.
+
+Upon the adoption of this proposal, Eris becomes a knave.

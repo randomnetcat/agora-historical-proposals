@@ -1,0 +1,20 @@
+ID: 5798
+Title: Toughen Ratifiation
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+[Ratification has been the source of scams lately.  Too much traffic
+to check all reports well.  Thus, some safety.  Require a supporter
+as a way of saying "yes I also think ratification is needed and I've
+looked at the report too".  Also, note that ratification used to be
+much rarer without breaking the game]
+
+Amend R2202 to be titled "Official Ratification"
+
+Amend R2202 by replacing "without objection" with "without objection
+and with support".
+
+Append the following sentence to R2202:
+    A player SHALL NOT ratify nor support the ratification
+    of a report e knows to be false.

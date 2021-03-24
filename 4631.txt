@@ -1,0 +1,32 @@
+ID: 4631
+Title: Powered Cards 0.2
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2070 by adding the text:
+
+    * Powered [X], where X is a positive integer:  This Card has a
+      Power of X.  To Activate any Exploit possessed by this Card, a
+      Fee of X - 1 must be paid in addition to any other Fees required
+      to Activate that Exploit, unless that Exploit explicitly
+      specifies otherwise.
+
+Amend Rule 2067 by replacing the text:
+
+     * Caption: Debate-o-Matic
+       Elements: Budgeted
+       Exploit: Change the Chamber of any one non-Sane Proposal to
+         the Chamber of your choice, provided it is legal for that
+         Proposal to be in the named Chamber.
+
+with:
+
+     * Caption: Debate-o-Matic
+       Elements: Budgeted, Powered [2]
+       Exploit: Change the Chamber of any one non-Sane Proposal to
+         the Chamber of your choice, provided it is legal for that
+         Proposal to be in the named Chamber.
+
+Change the Power of Rule 2067 to 2 if it is not already 2.

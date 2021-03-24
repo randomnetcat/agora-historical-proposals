@@ -1,0 +1,10 @@
+ID: 5339
+Title: Andre's degree
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Upon the adoption of this proposal, Andre is awarded the degree
+of Associate of Nomic (A.N.).
+
+[ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/lib-andre.html]

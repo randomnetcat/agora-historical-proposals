@@ -1,0 +1,12 @@
+ID: 6260
+Title: Ease the rush
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Arguments: Loads of people have, or will have, sufficiently many Notes
+to do a Happy Birthday this Birthday; as it is, everyone's bound to try
+to send their message as soon as the birthday begins, and we'll have a
+huge mess figuring out who was first. Also, rushing to get there first
+isn't particularly interesting. I'm not sure what the best solution to
+this is: giving everyone the win is at least simple.

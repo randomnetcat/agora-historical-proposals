@@ -1,0 +1,13 @@
+ID: 6465
+Title: PRESENT Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+In rule 693 (Agoran Decisions), replace "A ballot cast for PRESENT" with
+"Rules to the contrary notwithstanding, a ballot cast for PRESENT"
+[This fixes a precedence bug]
+
+In rule 2154 (Election Procedure), remove the sentence that reads "If
+the number of candidates falls below two, PRESENT ceases to be a valid
+option.".

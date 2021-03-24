@@ -1,0 +1,14 @@
+ID: 6078
+Title: Insulator committee
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2236, replace
+     d) Committee on Crime (Justiciar, all first-class players whose
+        hawkishness is hanging and whose posture is standing or
+        sitting)
+with
+     d) Committee on Crime (Justiciar, Insulator, all
+        first-class players whose hawkishness is hanging and
+        whose posture is standing or sitting)

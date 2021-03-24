@@ -1,0 +1,13 @@
+ID: 6407
+Title: some cleanup
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2226, replace "by spending 3 Notes" with "with 3 Support".
+
+In the rule "The Deck of Government", delete the text "in your party".
+
+In the rule "Exploit Cards", replace "If a card has an Exploit, a
+player CAN play a card in eir possession," with "A player CAN play a
+card in eir possession which has an Exploit"

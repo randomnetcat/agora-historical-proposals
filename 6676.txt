@@ -1,0 +1,12 @@
+ID: 6676
+Title: Altimeter Equalization
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend the rule "Props" by inserting the following between the last two
+paragraphs:
+     At the beginning of each quarter, one prop in the possession of each
+     player possessing more than fourteen props is destroyed, and one
+     prop is created in the possession of each player possessing less
+     than fourteen props.

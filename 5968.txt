@@ -1,0 +1,11 @@
+ID: 5968
+Title:  Embassies
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2200 (Nomic Definitions) by appending this text:
+
+     An embassy is a registered partnership designated as
+     representing a specific foreign nomic by both its contract
+     and the rules of that nomic.

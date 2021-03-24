@@ -1,0 +1,12 @@
+ID: 5256
+Title: Use it or lose it
+Author: AFO
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by appending the following
+to the list of ways to gain and lose VCs:
+
+      (-*) One second before the end of each month, each entity
+           loses 1/5 of eir holdings of each color of VC, rounded
+           down to the nearest integer.

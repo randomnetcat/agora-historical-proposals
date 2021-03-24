@@ -1,0 +1,54 @@
+ID: 5263
+Title: 2158 changes.
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2158 by replacing:
+   Within a judicial case, one or more judicial questions may
+   arise. Each judicial question is either inapplicable (default)
+   or applicable; this is not a persistent status but is evaluated
+   instantaneously. Each judicial question either is open
+   (default), suspended, or has a particular judgement; this is a
+   persistent status that changes only according to the rules. The
+   possible types of judgement for a judicial question vary
+   according to the type of question.
+
+   When a judicial case has an applicable open judicial question,
+   it requires a judge, and its judge CAN assign a valid judgement
+   to that question by announcement. Whenever there is a judge
+   assigned to a judicial case with an applicable open question,
+   the judge SHALL assign such a judgement to the question as soon
+   as possible.
+
+   Whenever a judicial case has a judicial question that has
+   remained applicable and open, while the same judge has been
+   assigned to the case, continuously for the past week, the CotC
+   CAN recuse that judge with cause by announcement. Whenever a
+   judicial case has a judicial question that has remained
+   applicable and open, while the same judge has been assigned to
+   the case, continuously for the past two weeks, the CotC SHALL so
+   recuse the judge as soon as possible.
+with:
+   Within a judicial case, one or more judicial questions may
+   arise. Each judicial question is either inapplicable (default)
+   or applicable, as defined by the rules. Suspension is a
+   judicial question switch, tracked by the CotC, with values of
+   Null (default) and Suspended. A judicial question is open if
+   it does not have a judgement. The possible types of judgement
+   for a judicial question vary according to the type of question.
+
+   When a judicial case has an applicable open judicial question,
+   it requires a judge, and its judge SHALL as soon as possible
+   assign a valid judgement to that question by announcement.
+
+   Whenever a judicial case has a judicial question that has
+   remained applicable and open, while the same judge has been
+   assigned to the case, continuously for the past week, the CotC
+   SHALL within two weeks recuse that judge with cause by
+   announcement.
+
+
+[[Switchifies status, thereby removing the annoying evaluated clauses. 
+Takes advantage of the fact that specifying a method implies CAN to add
+brevity.]]

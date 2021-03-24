@@ -1,0 +1,31 @@
+ID: 4537
+Title: A Little Bribe Never Hurt Anyone
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Proposal:  A Little Bribe Never Hurt Anyone
+(AI=2, please)
+
+[Title inspired by Nomicron.]
+
+Create a new Rule titled "Legality of Bonus Clauses" with this text:
+
+        Advertising is a stuck proposal switch with values none, positive,
+        negative.
+
+        A player may pay 2 kudos to flip a proposal's advertising switch
+        from none to another value, or from another value to none.
+
+Upon the adoption of this proposal, the following Scoring Events are
+added to the Scorekeepor's Budget:
+
+        * If a player votes FOR a proposal with positive advertising, e
+          may be awarded 5 points.
+        * If a player votes AGAINST a proposal with negative advertising,
+          e may be awarded 5 points.
+        * If all the players on a team vote FOR a proposal with positive
+          advertising, the team may be awarded 10 team points.
+        * If all the players on a team vote AGAINST a proposal with
+          negative advertising, the team may be awarded 10 team points.

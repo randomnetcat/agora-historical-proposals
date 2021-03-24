@@ -1,0 +1,60 @@
+ID: 5000
+Title: Disambiguate voter eligibility
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+     An Agoran decision is initiated when a person authorized to
+     initiate it publishes a valid notice which sets forth the intent
+     to initiate the decision.  To be valid, this notice must contain
+     the following information:
+
+with this text:
+
+     An Agoran decision is initiated when a person authorized to
+     initiate it publishes a valid notice which sets forth the intent
+     to initiate the decision.  This notice is invalid if it lacks
+     any of the following information, and the lack is correctly
+     identified within one week after the notice is published:
+
+[107(c) has not been explicitly obeyed for some time, either.]
+
+Amend Rule 683 (Voting on Agoran Decisions) by replacing this text:
+
+     (a) The ballot is submitted by an eligible voter during the
+         voting period for the decision.
+
+with this text:
+
+     (a) The ballot is submitted during the voting period for the
+         decision.
+
+Amend Rule 1950 (Voting Limits) to read:
+
+      An entity's voting limit on an Agoran decision is:
+
+        (a) If the entity is not an eligible voter, then zero, not
+            subject to modification.
+
+        (b) Otherwise, if the decision is to resolve an ordinary
+            proposal, then one, subject to modification by the rules.
+
+        (c) Otherwise, one, subject to modification only by this rule.
+
+      The voting limit of an entity who is not a natural person is
+      reduced by one.
+
+      At the end of the voting period of an Agoran decision, the first
+      N ballots submitted by each entity on that decision (where N is
+      the entity's voting limit on the decision at the start of the
+      voting period) remain valid; all other ballots submitted on that
+      decision are invalid.
+
+Amend Rule 879 (Quorum) to read:
+
+     Quorum for an Agoran decision is N/3 (where N is the number of
+     eligible voters with a positive voting limit on that decision),
+     rounded up, with a minimum of five (unless this is greater than
+     N, in which case quorum is N).

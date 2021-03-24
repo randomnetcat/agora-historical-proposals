@@ -1,0 +1,14 @@
+ID: 6429
+Title: Also, Crete must be destroyed
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2240 (No Cretans Need Apply) to read:
+
+      In a conflict between clauses of the same Rule, if exactly one
+      claims precedence over the other, then it takes precedence;
+      otherwise, the later clause takes precedence.
+
+[This not only generalizes the rule, but also changes the direction of
+its application, on the assumption that "X, but Y" is more common.]

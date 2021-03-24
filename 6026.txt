@@ -1,0 +1,57 @@
+ID: 6026
+Title: Cleanup of Power=1 definitions
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 1681 (The Logical Rulesets) by replacing this text:
+
+     There is a format of the ruleset known as the Short Logical
+     Ruleset (SLR).
+
+with this text:
+
+     The Short Logical Ruleset (SLR) is a format of the ruleset.
+
+and by replacing this text:
+
+     There is a format of the ruleset known as the Full Logical
+     Ruleset (FLR).
+
+with this text:
+
+     The Full Logical Ruleset (FLR) is a format of the ruleset.
+
+Amend Rule 1750 (Read the Ruleset Week) to read:
+
+     The first Agoran week each year which falls entirely in February
+     is known as Read the Ruleset Week.  During this time, Agorans
+     SHOULD read the ruleset.
+
+Amend Rule 2200 (Nomic Definitions) by replacing this text:
+
+     A foreign nomic is a nomic that is not Agora. Adopting the name
+     of "Agora" does not disqualify a nomic from being foreign; any
+     nomic that is not the One True Agora is a foreign nomic.
+
+with this text:
+
+     A foreign nomic is a nomic other than this one, even if it has
+     the same name as this one.
+
+Amend Rule 402 (Identity of the Speaker) by replacing "The Speaker is"
+with "The office of Speaker is held by".
+
+Amend Rule 103 (Role of the Speaker) by replacing this text:
+
+     The Speaker is an imposed office.
+
+     The Speaker is the figurehead of Agora, embodying its spirit.
+
+with this text:
+
+     The Speaker is an imposed office, and the figurehead of Agora,
+     embodying its spirit.
+
+Amend Rule 2148 (The Ambassador) by replacing "certain powers" with
+"certain powers (in the ordinary-language sense)".

@@ -1,0 +1,15 @@
+ID: 6127
+Title: Backbenchers
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2019 (Prerogatives) by replacing the first
+paragraph with:
+
+     In a timely fashion before the beginning of each month, the
+     Speaker SHALL assign each prerogative to a different active
+     player; first assigning prerogatives to active players bearing
+     the Patent Title Minister without Portfolio (MwoPs); then (if
+     there are more prerogatives than active MwoPs), assigning
+     prerogatives to other active players.

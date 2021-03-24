@@ -1,0 +1,59 @@
+ID: 6022
+Title: Cleanup of Power=3 definitions
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2125 (Regulation Regulations) by replacing this text:
+
+     An action is regulated if and only if:
+
+with this text:
+
+     A regulated action is an action satisfying any of the following:
+
+Amend Rule 478 (Fora) by replacing this text:
+
+     A message is public if and only if it is sent via a public forum
+     or is sent to all players and contains a clear designation of
+     intent to be public.
+
+with this text:
+
+     A public message is a message sent via a public forum, or sent to
+     all players and containing a clear designation of intent to be
+     public.
+
+Amend Rule 2150 (Personhood) by replacing this text:
+
+     A person is an entity that has the general capacity to be the
+     subject of rights and obligations under the rules.  An entity is
+     a person if and only if it is defined to be so by rules with
+     power 2 or greater.
+
+with this text:
+
+     A person is an entity defined as such by rules with power of at
+     least 2.  A person CAN generally be the subject of rights and
+     obligations under the rules.
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+     That player is its author (syn. proposer).
+
+with this text:
+
+     The author (syn. proposer) of a proposal is the player who
+     submitted it.
+
+and by replacing this text:
+
+     A person is a co-author of a proposal if and only if e is
+     distinct from its author, and unambiguously identified by its
+     author as being its co-author at the time of submission.
+
+with this text:
+
+     A co-author of a proposal is a person (other than its author)
+     unambiguously identified as such by its author when it was
+     submitted.

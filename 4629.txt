@@ -1,0 +1,13 @@
+ID: 4629
+Title: Quorum for Referenda and Elections
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+(Why is it higher than for democratic proposals?)
+(I make this distributable for a fee of 1 kudo)
+
+Amend Rule 1434 (Default Procedure for Referendum Voting) by
+replacing "Quorum is 50% of the eligible Voters" with "Quorum
+is one third of the eligible Voters".

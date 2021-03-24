@@ -1,0 +1,19 @@
+ID: 6711
+Title: Democracy Cannot Be Justified
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+COMMENTS:
+I don't think this leads itself very easily to a proposal flood which
+would be undemocratizable, as it would require a large number of Ergs
+for it to work and could easily be defeated by the rest of Agora keeping
+the proposals down with their ergs. In a worst-case scenario, it would
+require an Emergency Session - but that is, after all, what Emergency
+Sessions are for, is it not?
+
+PROPOSAL TEXT:
+Repeal Rule 2142 (Support Democracy).
+Amend Rule 1607 by removing the sentence that reads:
+       A player CAN flip a specified Disinterested proposal to
+       Distributable by announcement.

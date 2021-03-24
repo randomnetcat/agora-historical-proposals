@@ -1,0 +1,8 @@
+ID: 5023
+Title: Fixing the Ambassador
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2
+
+Amend R2148 by replacing the words "as described above" with "as described
+in R2147 Protectorates".

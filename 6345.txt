@@ -1,0 +1,16 @@
+ID: 6345
+Title: Time travel
+Author: Pavitra
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 478 (Fora) by replacing the text:
+
+           Any action performed by sending a message is performed at
+      the time date-stamped on that message.
+
+with this text:
+
+           Any action performed by sending a message is performed at
+      the time specified in the message, if any, or at the time
+      date-stamped on that message otherwise.

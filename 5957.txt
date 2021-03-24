@@ -1,0 +1,44 @@
+ID: 5957
+Title: Govern by the Spirt (of Nomic)
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Repeal Rule 2169 (Equity Cases).
+Amend Rule 2205 (Judicial Arguments and Evidence) by removing the
+following, and renumbering the list accordingly:
+      3) For an equity case, the parties to the agreement in question,
+         during the pre-trial phase.
+Amend Rule 1742 (Contracts) by removing:
+      As it is manifestly unjust to bring criminal punishment into a
+      manner of equity, if a player is found GUILTY of violating this
+      Rule by failing to act in accordance with a contract that has
+      never been a partnership, the only appropriate sentence is
+      DISCHARGE, unless said failure is with respect to a
+      previously-imposed Equity judgement.
+
+Amend Rule 2173 (The Notary) by replacing:
+      The parties to a private contract SHOULD keep the Notary
+      informed of its text and set of parties.  The Notary SHALL
+      disclose this information (to the extent that e has been
+      informed of it) to the judge of an equity case pertaining to
+      that contract.
+
+with:
+      The parties to a private contract SHOULD keep the Notary
+      informed of its text and set of parties.  The Notary SHALL
+      disclose this information (to the extent that e has been
+      informed of it) to the judge of a criminal case alleging a
+      failure to act in accordance with that contract.
+
+Amend Rule 2191 (Pledges) by removing:
+      An equity case regarding a pledge CAN be initiated by a
+      non-party, provided that all other requirements for initiating
+      an equity case are met.  The initiator of such a case is
+      considered to be a party to the pledge for the purpose of that
+      case.
+Amend Rule 2203 (Hawkishness) by removing:
+                                  , and poorly qualified to be
+        assigned as judge of any equity case
+
+[...which is to govern by the letter.]

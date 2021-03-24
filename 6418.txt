@@ -1,0 +1,13 @@
+ID: 6418
+Title: Security Security Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1688 (Power) by replacing "A rule that secures a change" with
+"A rule that secures a change, action, or value", by replacing "to
+perform that change" with "to perform that change or action, or to
+modify that value", and by replacing "the change's power threshold" with
+"the change, action, or value's power threshold."
+
+[Security has become more general than just changes.]

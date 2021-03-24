@@ -1,0 +1,7 @@
+ID: 6107
+Title: <none>
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Create one Chit in the possession of every player.

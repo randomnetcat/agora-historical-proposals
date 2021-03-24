@@ -1,0 +1,15 @@
+ID: 4652
+Title: Sticky Situation 2.1
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Append the following to rule 2070:
+
+* Sticky:  This card may not be discarded to the deck unless a player's
+hand is frozen.
+
+Append the following to the elements of the card "Hot Potato" in rule 2071.
+
+"Sticky"

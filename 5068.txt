@@ -1,0 +1,50 @@
+ID: 5068
+Title: public judicial process
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 591 to read
+
+      The judge of a CFJ judges it by publishing eir judgement, along
+      with any arguments, evidence, or other material that e considers
+      relevant.
+
+      For a trial judge, a judgement is exactly one of the following:
+      TRUE, FALSE, or DISMISSED.
+
+Amend rule 1826 to read
+
+      A motion is a formal request made by a player to the judge of a
+      CFJ.  A motion is made by announcement, which must clearly
+      identify the CFJ to which the motion applies.
+
+      The judge of a CFJ must either grant or deny each motion that
+      applies to that CFJ within five days of it being made.  If a
+      judge fails to grant or deny an applicable motion within five
+      days of it being made, the Clerk of the Courts shall recuse the
+      judge and assign a new one.  If a motion is made after a case
+      has been judged, and the original judge of that case is not
+      active or is not a player, then the Clerk of the Courts shall
+      assign a new judge.
+
+      A judge grants or denies a motion by publishing eir
+      determination, along with any arguments, evidence, or other
+      material that e considers relevant.  The effect of granting a
+      motion depends on its nature, but generally amounts to requiring
+      the judge to perform as requested by the motion.  A denied
+      motion has no further effect.
+
+Amend rule 1805 by replacing the text
+
+      Appellate Orders are executed by being sent to the Clerk of the
+      Courts by the Lead Judge of a Board of Appeals, but do not take
+      effect until their publication by the Clerk of the Courts.
+
+with
+
+      Appellate Orders are executed by being published by the Lead
+      Judge of a Board of Appeals.
+
+[Makes everything in the judicial process work by announcement,
+instead of indirectly via the CotC.]

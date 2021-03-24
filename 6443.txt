@@ -1,0 +1,30 @@
+ID: 6443
+Title: Fix judicial demotion
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 2226 (Judicial Rank) by replacing this text:
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 0, then it is decreased by 1, and e CANNOT
+      increase it for 30 days afterward (the rest of this rule
+      notwithstanding), unless eir new rank is 0, in which case e CAN
+      increase it to 1 at any time by spending 3 Notes.
+
+      "District", "Circuit", and "Supreme" are synonymous with
+      judicial ranks 1, 2, and 3, respectively.
+
+with this text:
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 0, then it is decreased by 1, and e CANNOT
+      increase it by announcement for 30 days afterward (the rest of
+      this rule notwithstanding).
+
+      "Supreme", "Circuit", "District", and "Night" are synonymous
+      with judicial ranks 3, 2, 1, and 0, respectively.
+
+[Apart from confusing nested exceptions, the "3 Notes" clause was
+also broken because Notes were repealed.  If/when a comparable Card
+mechanism is created, it will work because it's not by announcement.]

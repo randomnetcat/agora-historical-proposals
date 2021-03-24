@@ -1,0 +1,10 @@
+ID: 5689
+Title: The First Monster
+Author: The Monster
+Co-authors: 
+Adoption index: 3.0
+
+Append the following to the rule titled "The Monster":
+{{{
+The Monster for the first game shall be Michael Norrish.
+}}}

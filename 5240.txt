@@ -1,0 +1,59 @@
+ID: 5240
+Title: Implicit Switches
+Author: AFO
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2162 (Switches) by replacing this text:
+
+      b) One or more possible values for instances of that switch,
+         exactly one of which is designated as the default.  No other
+         values are possible for instances of that switch.
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes the value of each instance of
+         that switch whose value is not Null.
+
+with this text:
+
+      b) One or more possible values for instances of that switch,
+         exactly one of which is designated as the default.  No other
+         values are possible for instances of that switch.  Up to one
+         of these values may be designated as implicit.
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes the value of each instance of
+         that switch whose value is not implicit.
+
+Amend Rule 2149 (Truthiness, or the Island of Knights and Knaves) by
+replacing "knight (default)" with "knight (default) (implicit)".
+
+[No effect if "Ministers Without Portfolio" is adopted.]
+
+Amend Rule 869 (How to Join and Leave Agora) by replacing "Null
+(default)" with "Unregistered (default) (implicit)", and by replacing
+every other instance of "Null" with "Unregistered".
+
+Amend Rule 2130 (Activity) by replacing this text:
+
+      Activity is a player switch with values Active (default) and
+      Inactive, tracked by the Registrar.  The Registrar's report
+      includes the date on which each player's activity last changed.
+
+with this text:
+
+      Activity is a player switch with values Active (default)
+      (implicit) and Inactive, tracked by the Registrar.  The
+      Registrar's report includes the date on which each non-Active
+      player's activity last changed.
+
+[Knowing how long the active players have been continuously active
+is less interesting than knowing how long the inactive players have
+been continuously inactive; the latter is grounds for an occasional
+deregister-the-long-inactive proposal.]
+
+Amend Rule 478 (Fora) by replacing "Null (default)" with "Foreign
+(default) (implicit)", and by replacing "non-null" with "non-Foreign".
+
+Amend Rule 1871 (The Standing Court) by replacing "Supine (default)"
+with "Supine (default) (implicit)".

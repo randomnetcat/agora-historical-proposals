@@ -1,0 +1,73 @@
+ID: 6234
+Title: Binding Inquiries
+Author: coppro
+Co-authors: ais523, root, Murphy
+Adoption index: 3.0
+
+Create a new power-3 rule, named {Binding Inquiry Cases}, with the
+following text:
+
+      Binding inquiry cases are a subset of judicial cases. They are
+      identical to inquiry cases except as defined in this rule. Binding
+      inquiry cases generally SHOULD be initiated only when their
+      special traits are required.
+
+      In addition to providing a statement to inquire into (the Inquiry
+      Statement), the announcement initiating a binding inquiry case
+      MUST include an Opposite Statement which is the logical negation
+      of the Inquiry Statement. MALFORMED is the only appropriate
+      judgment if the Opposite Statement is missing or not the logical
+      negation of the Inquiry Statement. Any judge knowingly assigning
+      an inappropriate judgment to a binding inquiry case is guilty of
+      the Class-14 Crime of Corruption.
+
+      When a binding inquiry case has a judgment and all deadlines to
+      appeal that judgment have expired, that case is eligible for
+      ratification. If the judgement was assigned by a judicial panel,
+      at least two thirds of the members of that panel must have opined
+      for assignment of that judgment for the case to be eligible for
+      ratification, the previous sentence notwithstanding.
+
+      When a binding inquiry case is eligible for ratification, and it
+      has a judgment of TRUE, any player CAN, by announcement, ratify
+      the Inquiry Statement. When a binding inquiry case is eligible for
+      ratification, and it has a judgment of FALSE, any player CAN, by
+      announcement, ratify the Opposite Statement. Ratification through
+      this Rule CANNOT cause the amendment, enactment, mutation, or
+      repeal of any Rule, rules to the contrary notwithstanding.
+
+      When assigning a judgment of TRUE, if the Inquiry Statement is not
+      entirely on the subject of the game state (such as if it is on the
+      legality of an action or the existence of an obligation), the
+      judge SHALL thoroughly explain what Rules or other entities cause
+      the statement to be true. The ratifiation of the Inquiry Statement
+      produces a binding interpretation of those entities (the judge is
+      ENCOURAGED to limit the scope of this interpretation as much as
+      possible; this need not be done explicitly). The same applies to
+      the Opposite Statement when assigning a judgment of FALSE.
+
+Create a new power-1 rule, named {The Reportor}, with the following
+text:
+
+      The Reportor is an office.
+
+      The Reportor's monthly report contains a record of all
+      statements ratified due to binding inquiry cases, including in
+      particular the limitation of those statements.Eir report need not
+      include the actual statement as long as it includes enough
+      information to properly apply it.
+
+      The Reportor CAN, without objection, remove a statement from eir
+      future reports. E SHOULD use this to remove statements no longer
+      relevant to the game.
+
+Amend Rule 911 by replacing the third paragraph with the following:
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of exactly max(3,1+2*R) members
+      (where R is the rank of the prior case), where each of the members
+      is qualified to be assigned as judge of the prior case and none of
+      the members is the prior judge, unless the prior case is a binding
+      inquiry case, in which case the panels must have at least 3+2*R
+      members qualified to be assigned as judge of the prior case, none
+      of them being the prior judge.

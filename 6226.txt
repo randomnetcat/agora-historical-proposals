@@ -1,0 +1,7 @@
+ID: 6226
+Title: Lock Alphas In
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2126 by replacing "non-Savage" with "non-Savage, non-Alpha".

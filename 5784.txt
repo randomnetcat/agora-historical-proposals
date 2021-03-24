@@ -1,0 +1,39 @@
+ID: 5784
+Title: Creative contest switching v.3
+Author: Pavitra
+Co-authors: Murphy, comex
+Adoption index: 1.0
+
+Amend rule 2136 (Contests) by replacing the text:
+
+      Any player CAN flip the contestmaster of a public contract
+      without 3 objections, except if doing so would cause a player to
+      be contestmaster of more than one contest, or it would flip the
+      contestmaster of a contract to a player who has not explicitly
+      consented to be contestmaster of that contest.  (If a player
+      intends to flip the contestmaster of a contract to emself, this
+      is considered explicit consent to be contestmaster of that
+      contract.)
+
+with:
+
+      The contestmaster of a contract CANNOT be flipped if any of the
+      following are true:
+
+        a) The contract is private.
+
+        b) Doing so would cause a player to be contestmaster of more
+           than one contest.
+
+        c) Doing so would flip the contestmaster of a contract to a
+           player who has not explicitly consented to be contestmaster
+           of that contest.  (If a player intends to flip the
+           contestmaster of a contract to emself, this is considered
+           explicit consent to be contestmaster of that contract.)
+
+      Otherwise, the contestmaster of a contract CAN be flipped
+
+        a) by any player without 3 objections, or
+
+        b) if the contract is a contest, by any mechanism specified by
+          that contract for flipping its contestmaster.

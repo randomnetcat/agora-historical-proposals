@@ -1,0 +1,17 @@
+ID: 5321
+Title: Agora abhors a vacuum
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+[May as well propose this, otherwise someone else will]
+
+Amend the rule titled "Marks" by replacing this text:
+
+      and then loses the Mark.
+
+with this text:
+
+      and then loses the Mark; however, if e has no VCs at all, either,
+      then the Mark loss is waived (you still can't get blood from a
+      turnip, not even a thimbleful at a time).

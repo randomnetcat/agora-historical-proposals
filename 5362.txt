@@ -1,0 +1,39 @@
+ID: 5362
+Title: Contracting out locations
+Author: root
+Co-authors: 
+Adoption index: 1.5
+
+Create a new rule titled "Locations", reading:
+
+      A location is a public contract that describes itself as a
+      location.  A person who becomes a party to a location is said
+      to move to that location.  A person who is a party to a location
+      is said to be in that location.  A person who ceases to be a
+      party to a location is said to leave that location.
+
+      A person cannot be in more than a single location at one time.
+      A person who moves to a location automatically leaves any
+      location e is already in.  Whenever a person's location does not
+      permit em to leave it, e CANNOT move to any other location.
+
+      The minimum number of parties for a location is zero.
+
+
+Amend rule 1742 (Contracts) by replacing the text reading:
+
+      A contract automatically terminates if the number of parties to
+      it falls below two.
+
+with:
+
+      A contract automatically terminates if the number of parties to
+      it falls below the minimum number of parties defined by the
+      rules for that contract.  If not otherwise specified, the
+      minimum number of parties for any contract is two.
+
+
+Amend Rule 2136 (Contests) by prepending to the second paragraph the
+text:
+
+      The minimum number of parties for a contest is one.

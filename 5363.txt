@@ -1,0 +1,35 @@
+ID: 5363
+Title: Define the Accountor
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+[This should have been part of Proposal 5336.]
+
+Create a Rule titled "The Accountor" with this text:
+
+      The Accountor is an office; its holder is responsible for
+      keeping track of assets.
+
+      The Accountor is the default recordkeepor for all assets
+      that do not specify a different recordkeepor.
+
+[The rules allow for non-currency assets.]
+
+Amend Rule 2126 (Voting Credits) by replacing "Assessor" with
+"Accountor".
+
+Amend Rule 2176 (Marks) by replacing "Assessor" with "Accountor".
+
+[These are worth making explicit.  Unlike the previous proposal to
+make the CotC the recordkeepor of Blue VCs, Proposal 5336 was
+intended to simply require the CotC to report Blue VC changes to
+the Accountor.]
+
+Upon the adoption of this proposal, if the AFO is Assessor, then
+Murphy is installed as Assessor.
+
+[I believe this is mine, carp.]
+
+Upon the adoption of this proposal, the Assessor is installed as
+Accountor.

@@ -1,0 +1,49 @@
+ID: 5407
+Title: Re-officiating the speaker
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1006 (Offices) by appending this text:
+
+      An office is imposed if it is so described by the rule defining
+      it; otherwise, it is elected.
+
+
+Amend Rule 2154 (Replacing Officers) by replacing this text:
+
+      Any player CAN make an active player (hereafter the nominee) the
+      holder of an office
+
+with:
+
+      Any player CAN make an active player (hereafter the nominee) the
+      holder of an elected office
+
+and by replacing this text:
+
+      Stability is an office switch
+
+with:
+
+      Stability is an elected office switch
+
+
+Amend Rule 2019 (Prerogatives) by replacing this text:
+
+      The Default Officeholder CAN become holder of a vacant office by
+      announcement
+
+with:
+
+      The Default Officeholder CAN become holder of a vacant elected
+      office by announcement
+
+
+Amend Rule 103 (Role of the Speaker) by prepending this text:
+
+      The Speaker is an imposed office.
+
+
+[Turns the Speakership into an office, in order to compensate em for
+ eir monthly duty and to allow other players to deputise for it.]

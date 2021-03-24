@@ -1,0 +1,22 @@
+ID: 6283
+Title: No forced championship wins
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2242 by replacing this text:
+
+      Upon a win announcement that a specified non-contest player owns
+      a Medal, that player satisfies the Winning Condition of
+      Championship.
+
+with this text:
+
+      Upon a win announcement by a non-contest player that e owns a
+      Medal, that player satisfies the Winning Condition of
+      Championship.
+
+[Win by High Score allows anybody to announce the win because it
+causes a score reset, and it's desirable to go ahead and get that over
+with as soon as possible.  For win by Championship, there's no reason
+to allow others to force the timing of the win.]

@@ -1,0 +1,23 @@
+ID: 6485
+Title: Entanglement
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule titled "Entanglement" with Power 2 and this text:
+
+      Two entities are entangled if and only if the intersection of
+      their bases is non-empty.
+
+Amend Rule 1450 (Separation of Powers) to read:
+
+      Lest the entire proposal process fall under the control of a
+      single entity, any change that would result in the holders of
+      Promotor and Assessor being entangled is canceled and does not
+      occur, rules to the contrary notwithstanding.
+
+      Lest the entire judicial process fall under the control of a
+      single entity, any change that would result in the holder of
+      Clerk of the Courts and the owner of Justiciar being entangled
+      is canceled and does not occur, rules to the contrary
+      notwithstanding.

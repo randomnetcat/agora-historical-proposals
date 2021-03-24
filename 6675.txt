@@ -1,0 +1,28 @@
+ID: 6675
+Title: Induction
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Create a new Power-3 Rule reading:
+
+       If a person CAN perform an action by announcement, e CAN perform
+       it with N support, or without N objections, where N is a
+       positive integer.
+
+       If a person CAN perform an action with notice, e CAN perform it
+       without N objections, where N is a positive integer.
+
+       If a person CAN perform an action with M support, e CAN perform
+       it with N support, where N is a positive integer greater than M.
+
+       If a person CAN perform an action without M objections, e CAN
+       perform it without N objections, where N is a positive integer
+       less than M.
+
+[Allow people to perform dependent actions with
+stricter-than-necessary requirements declared in the notice of intent.
+  You could already do this using Rule 1728 d), e.g. "I intend, with 2
+support, if there are at least 3 supporters, to appeal this CFJ"; this
+proposal simplifies that case to "I intend, with 3 support, to appeal
+this CFJ".]

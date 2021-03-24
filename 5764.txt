@@ -1,0 +1,7 @@
+ID: 5764
+Title: That's enough for now
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Flip #really-a-cow's Publicity to Private.

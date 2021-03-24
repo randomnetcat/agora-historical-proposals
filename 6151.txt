@@ -1,0 +1,19 @@
+ID: 6151
+Title: Fix recursive SHOULD
+Author: ais523
+Co-authors: Sgeo
+Adoption index: 3.0
+
+In Rule 2152 (Mother, May I?), replace
+{{{
+     7. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+        the described action, the full implications of failing to
+        perform it should be understood and carefully weighed.
+}}}
+with
+{{{
+     7. SHOULD, ENCOURAGED, RECOMMENDED:  Failing to either perform
+        the described action, or to understand and carefully weigh
+        the full implications of failing to perform it, violates the
+        rule in question.
+}}}

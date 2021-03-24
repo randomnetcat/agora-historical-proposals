@@ -1,0 +1,82 @@
+ID: 5664
+Title: Chambers II
+Author: BobTHJ
+Co-authors: 
+Adoption index: 3
+
+Remove all but the last paragraph from R2196
+
+Create a new rule titled "Chambers" with Power=3 and the following text:
+{{
+A chamber exists only if defined by a rule that specifies, for
+decisions to adopt proposals circulated within that chamber:
+ 1) The set of eligible voters.  By default, this set is the set of
+active players at the beginning of its voting period.
+ 2) The voting limit of each eligible voter.  By default, this limit is 1.
+}}
+
+In R955 replace:
+{{
+If the decision is ordinary or democratic
+}}
+with:
+{{
+If the decision has an adoption index
+}}
+
+Insert into R106 after the fourth paragraph:
+{{
+Circulation is a pending proposal switch, tracked by the Promotor,
+with values of all chambers. It CAN be flipped by the proposer to any
+valid value at the time of submission, or otherwise defaults to
+Democratic. An Agoran decision to adopt a proposal may be referred to
+as an X decision, where X is that proposal's circulation.
+}}
+
+In R106 replace:
+{{
+its power is set to the minimum of four and its adoption index
+}}
+with:
+{{
+its power is set to the minimum of its adoption index and the power of
+the rule defining its chamber
+}}
+and append to the end of the rule:
+{{
+A proposal which has neither been withdrawn, ADOPTED, or REJECTED is a
+pending proposal.
+}}
+
+In R1607 append the following after point b):
+{{
+c) Its circulation
+d) Its adoption index
+}}
+
+Prepend to R1950:
+{{
+There is a Democratic chamber.
+}}
+
+Prepend to R2156:
+{{
+There is an Ordinary chamber.
+}}
+
+Change the power of R2156 to 1.9
+
+Repeal R2142
+
+In R2019 replace:
+{{
+Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
+         decision in its voting period by announcement; this increases
+         its Adoption Index by 1.
+}}
+with:
+{{
+Wielder of Veto. The Wielder of Veto CAN veto any non-democratic
+decision in its voting period by announcement; this inreases its
+Adoption index by 3.
+}}

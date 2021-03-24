@@ -1,0 +1,21 @@
+ID: 5187
+Title: Lack of Interest
+Author: Levi
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled 'Lack of Interest' with the following text:
+
+      Any player may make a proposal disinterested during its
+      voting period With 2 Supporters.
+
+[[[
+  I don't think it should just be left up to the proposer to decide
+  whether their proposal should receive a VC award. Of course, the
+  proposal in question could just be voted against, but for minor
+  error corrections going through a resubmission process seems a bit
+  over the top.
+
+  (I think the dis/interested system has been used in the spirit it
+   was intended so far. This is just intended prevent issues)
+]]]

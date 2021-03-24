@@ -1,0 +1,22 @@
+ID: 5413
+Title: Fix minimum voting period requirements
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 107 by replacing the text reading:
+
+      The publication of such a valid notice initiates the voting
+      period for the decision.  By default, the voting period lasts
+      for seven days.  This rule takes precedence over any rule which
+      would require a voting period for some decision to be shorter
+      than seven days, unless the decision is whether to approve a
+      dependent action.
+
+with:
+
+      The publication of such a valid notice initiates the voting
+      period for the decision.  By default, the voting period lasts
+      for seven days.  Rules to the contrary notwithstanding, the
+      voting period for a decision cannot be shorter than seven days,
+      unless the decision is whether to approve a dependent action.

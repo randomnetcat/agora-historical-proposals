@@ -1,0 +1,20 @@
+ID: 5424
+Title: everything in its place
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+If any part of this proposal cannot take effect, then the proposal as
+a whole shall have no effect.
+
+Enact a rule with title "Ribbons", power 2, and the same text as rule
+2126.
+
+Retitle rule 2126 to "Notes", and amend it to have the same text as
+rule 2194.
+
+Repeal rule 2194.
+
+[Overall effect: notes, the replacement for VCs, go in the rule that
+defined VCs and has all the VC history.  Ribbons, the new concept,
+go in a new rule.]

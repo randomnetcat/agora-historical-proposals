@@ -1,0 +1,20 @@
+ID: 6146
+Title: No double silence
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) by removing this text:
+
+                                           If the Accused is found to
+       be NOT GUILTY after a number of rests have been created in eir
+       possession due to the notice in question, the judge CAN and
+       SHALL destroy any such rests by announcement as soon as
+       possible.
+
+and inserting this paragraph immediately afterward:
+
+     When a judicial question on culpability is judged after a number
+     of rests have been created in the Accused's possession due to the
+     associated notice, the judge CAN and SHALL destroy any such rests
+     by announcement as soon as possible.

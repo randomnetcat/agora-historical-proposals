@@ -1,0 +1,11 @@
+ID: 5526
+Title: Evidence (you're doing it wrong)
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2205 (Judicial Arguments and Evidence) by appending this
+text:
+
+      Matters of legal interpretation SHOULD be classified as
+      arguments; matters of fact SHOULD be classified as evidence.

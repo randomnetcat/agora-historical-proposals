@@ -1,0 +1,10 @@
+ID: 4447
+Title: Titleless Proposal
+Author: RedKnight
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1952 by replacing the text "equal to half the amount of the
+Distribution Cost of the Proposal, rounded up." with "equal to one-fourth
+the amount of the Distribution Cost of the Proposal, rounded up to the
+nearest integer multiple of the MUQ of Papyrus."

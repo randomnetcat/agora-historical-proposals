@@ -1,0 +1,10 @@
+ID: 5398
+Title: Bribery
+Author: pikhq
+Co-authors: 
+Adoption index: 2
+
+Create the following rule (power=2):
+        A vote on a democratic proposal MAY NOT be influenced by any person via the
+        transfer of currency or assets, or via any threat, or via any exchange of
+        useful goods.

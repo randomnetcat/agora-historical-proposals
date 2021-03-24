@@ -1,0 +1,22 @@
+ID: 5090
+Title: fix judicial rights
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 101 by replacing the text
+
+       iii. Every person has the right to invoke judgement, appeal a
+            judgement, and to initiate an appeal on a sentencing or
+            judicial order binding em.
+
+with
+
+       iii. Every person has the right to initiate a formal process to
+            resolve matters of controversy, in the reasonable
+            expectation that the controversy will thereby be resolved.
+            Every person has the right to cause formal reconsideration
+            of any judicial determination that e should be punished.
+
+[More general language avoids tight interaction with any particular
+form of judicial process.  Rights made more explicit and stronger.]

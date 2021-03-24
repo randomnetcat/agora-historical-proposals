@@ -1,0 +1,39 @@
+ID: 5011
+Title: define registration
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 869 by replacing the text:
+
+      A person who is not currently registered as a player and is not
+      prohibited from registering is permitted to register.
+
+      A person registers or deregisters by announcement.
+
+      Whenever a person registers, e becomes a player.
+
+      Whenever a player deregisters or is deregistered, e ceases to be
+      a player and is prohibited from registering for the next thirty
+      days.
+
+with:
+
+      Each entity at any time either is or is not a player.  The verb
+      "to be registered" means to become a player, and the verb "to be
+      deregistered" means to cease to be a player.  Where the verb "to
+      register" or "to deregister" is used without an explicit direct
+      object, the action is implicitly reflexive.  The adjective
+      "registered", or its fuller form "registered as a player",
+      describes those who are players.
+
+      A person is permitted to register or deregister unless
+      specifically prohibited. A person registers or deregisters by
+      announcement.
+
+      Whenever a player is deregistered, e is prohibited from
+      registering for the next thirty days.
+
+[We have previously had arguments that one could become a player
+without being registered, and suchlike.  This defines all the
+terminology to avoid such confusion.]

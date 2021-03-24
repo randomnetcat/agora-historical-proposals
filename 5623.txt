@@ -1,0 +1,146 @@
+ID: 5623
+Title: MANDATE and other MMI revisions
+Author: Murphy
+Co-authors: root, comex
+Adoption index: 3
+
+root and comex are co-authors of this proposal.
+
+Amend Rule 2152 (Mother, May I?) by replacing this text:
+
+      1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
+         perform the described action are unsuccessful.
+
+with this text:
+
+      1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  In the context
+         of an action, attempts to perform that action are
+         unsuccessful.  Outside the context of an action, any
+         change that would lead directly to that state of affairs
+         is canceled and does not occur.
+
+and by replacing "MANDATORY" with "MANDATORY, OBLIGATED", and by
+appending this text:
+
+      8. MANDATE:  The action CAN be performed (by announcement if no
+         other method is specified), and SHALL be performed as soon as
+         possible (or by a different time limit, if one is specified).
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing this text:
+
+      Every rule shall have a title to aid in identification.  If a
+      rule ever does not have a title, the Rulekeepor shall assign
+      a title to it by announcement as soon as possible.
+
+with this text:
+
+      Every rule shall have a title to aid in identification.  The
+      Rulekeepor has a MANDATE to assign a title to any rule that
+      lacks one.
+
+Amend Rule 2161 (ID Numbers) by replacing this text:
+
+      (a) Whenever an instance of that type does not have an ID
+          number, the player held responsible by that rule SHALL
+          assign an ID number to it by announcement as soon as
+          possible.
+
+with this text:
+
+      (a) Whenever an instance of that type does not have an ID
+          number, the player held responsible by that rule has a
+          MANDATE to assign an ID number to it.
+
+Amend Rule 2154 (Replacing Officers) by replacing this text:
+
+      As soon as possible after the nomination period ends, then: (a) if
+      there is only one consenting candidate, the IADoP SHALL install em
+      in the Office by announcement; (b) if there are two or more
+      consenting candidates, then the IADoP SHALL initiate an Agoran
+      decision to determine the new officeholder; this process is known
+      as an election.
+
+with this text:
+
+      At the end of the nomination period, if there is only one
+      consenting candidate, then the IADoP has a MANDATE to install
+      em into the office; otherwise, e has a MANDATE to initiate an
+      election (an Agoran decision to determine the new officeholder).
+
+Amend Rule 2019 (Prerogatives) by replacing this text:
+
+      In a timely fashion before the beginning of each month, the
+      Speaker SHALL randomly assign each Player who bears the patent
+      title Minister Without Portfolio a different Prerogative for the
+      upcoming month by announcement.
+
+with this text:
+
+      The Speaker has a MANDATE, in a timely fashion before the
+      beginning of each month, to randomly assign each player who
+      bears the patent title Minister Without Portfolio a different
+      Prerogative for the upcoming month.
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing this text:
+
+      When a judicial case requires a judge and has no judge assigned,
+      the CotC CAN assign a qualified entity to be its judge by
+      announcement, and SHALL do so as soon as possible.
+
+with this text:
+
+      When a judicial case requires a judge and has no judge assigned,
+      the CotC has a MANDATE to assign a qualified entity as its judge.
+
+Amend Rule 1871 (The Standing Court) by replacing this text:
+
+      When the CotC recuses a non-supine player with cause, e SHALL
+      flip that player's posture to supine by announcement in a timely
+      fashion.
+
+with this text:
+
+      When the CotC recuses a non-supine player with cause, e has a
+      MANDATE to flip that player's posture to supine.
+
+Amend Rule 2158 (Judicial Questions) by replacing this text:
+
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge CAN assign a valid
+      judgement to it by announcement, and SHALL do so as soon as
+      possible.
+
+with this text:
+
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge has a MANDATE to assign
+      a valid judgement to it.
+
+and by replacing this text:
+
+      When a judicial question is applicable and open, and its judge
+      has violated a time limit to assign a judgement to it, the Clerk
+      of the Courts SHALL recuse that judge with cause by announcement
+      as soon as possible; however, this requirement is waived if the
+      judge assigns a judgement to it first.
+
+with this text:
+
+      When a judicial question is applicable and open, and its judge
+      has violated a time limit to assign a judgement to it, the Clerk
+      of the Courts has a MANDATE to recuse that judge with cause.
+
+[The "however" clause is redundant; if the judge assigns a judgement,
+then the question is no longer open.  Generalizing the concept of
+"requirement that does(n't) go away if its cause goes away" is left
+to a separate proposal.]
+
+Amend Rule 2136 (Contests) by replacing this text:
+
+      For each contest, ASAP after the beginning of each month, the
+      Scorekeepor CAN and SHALL by announcement award
+
+with this text:
+
+      At the beginning of the month, for each contest, the Scorekeepor
+      has a MANDATE to award

@@ -1,0 +1,13 @@
+ID: 5762
+Title: The Endless Repeals: 2164.2
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2164 (Judicial Self-Recusal and Case Transfer) by removing:
+      An entity (the transferee) CAN, with consent from the current
+      judge of a judicial case (the transferor), assign emself as the
+      new judge of that case, provided that e is qualified to be
+      assigned as judge of that case, and e immediately (in the same
+      announcement) assigns a judgement to a judicial question in that
+      case.

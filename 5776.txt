@@ -1,0 +1,15 @@
+ID: 5776
+Title: Partner Responsibility
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2145 by appending the following text:
+
+   If a judge finds a partnership guilty in a criminal proceedings,
+   e may sentence one or more members of the partnership for the
+   crime rather than the partnership itself.  To be an appropriate
+   sentence in this case, the judge SHOULD use the text of the
+   partnership as a guide to the devolution of sentencing but
+   is not bound to follow the text if it is unclear on the subject
+   or would not adequately apply responsibility.

@@ -1,0 +1,30 @@
+ID: 6157
+Title: No choice, no vote
+Author: Goethe
+Co-authors: OscarMeyr, Wooble
+Adoption index: 3.0
+
+0scarMeyr and Wooble are coauthors
+
+Amend R107 (Initiating Agoran Decisions) by replacing:
+                               The vote collector for a decision with
+     less than two options CAN end the voting period by announcement,
+
+with:
+                               The vote collector for a decision with
+     less than two options CAN and SHALL end the voting period by
+     announcement, if it has not ended already, and
+
+[creates an open-ended requirement which allows this power to be deputized].
+
+
+Amend R2154 (Election Procedure) by inserting, immediately after the
+paragraph labeled '3)', the following paragraph:
+
+     4) If there are no valid options for the Decision, instead of
+        initiating the Decision, the IADoP SHALL, in place of initiating
+        the decision, announce this fact, ending the election.  If
+        there is exactly one valid option for the Decision, the IADoP
+        SHALL, in place of initiating the Decision, announce the valid
+        option (the candidate), thus installing that candidate into
+        the office and ending the election.

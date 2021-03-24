@@ -1,0 +1,37 @@
+ID: 4878
+Title: Win again and again
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+[No defined way to win other than paradox right now.  Let's
+start playing again, most general way: contests].
+
+[This first part is in case Sherlock wants an early out, also adds  
+"inactive Speaker" protection.  Not intended to be a dig
+at
+Sherlock.]
+
+Amend Rule 402 by appending the following text:
+
+     If no cardinal has become a pope in the past six months, or
+     a judge finds that the current Speaker has been inactive,
+     inattentive, unwilling, or unable to perform eir Agoran
+     duties, then a cardinal may be named a pope (and therefore
+     Speaker as above) by Agoran Consent.  This is not considered
+     winning.
+
+Create the following Rule, entitled "Winning":
+
+     The current Speaker may, with two supporters, invite
+     players to enter into a specified agreement (hereafter a
+     Contest) to determine who wins the game.  The contest
+     must be open to all players.  Winners determined by the
+     procedures of the contest do in fact win the game.  When
+     the initiating Speaker ceases to be Speaker, the contest
+     loses the legal authority to determine winners.
+
+Amend rule 1922 by appending the following text:
+
+     (d) Champion, to be awarded to players who win the game.

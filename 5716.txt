@@ -1,0 +1,26 @@
+ID: 5716
+Title: Standard sock puppet policy
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2170 (Who Am I?) by replacing this text:
+
+      A public message's claim as to who published it is
+      self-ratifying, unless the claim is self-contradictory, or a
+      challenge of identity pertaining to the claimed publisher has
+      been issued within one month before its publication.
+
+with this text:
+
+      A public message's (possibly implicit) claim as to the identity
+      of its publisher is self-ratifying, provided that the claim is
+      neither ambiguous nor self-contradictory, and no challenge of
+      identity pertaining to the claimed publisher has been issued
+      within one month before its publication.  Upon a judicial
+      finding that the claimed publisher of one or more messages
+      (hereafter the Sock Puppet) was not a person, if any of those
+      claims have already self-ratified, then the judge SHALL as
+      soon as possible publish a judicial declaration that the Sock
+      Puppet was a person during one or more time periods, which
+      SHOULD correspond to general belief prior to that finding.

@@ -1,0 +1,16 @@
+ID: 6284
+Title: Sgeo, full time
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Create a power-1 rule with the following text:
+{{{
+      The Officer for Homeland Security is an office.
+
+      The Officer for Homeland Security SHOULD regularly attempt to
+      comment on, or propose proposals to strengthen, Agora's mechanisms
+      for resisting invasions by large numbers of nonplayers.
+}}}
+Unless e objected between the time this proposal was proposed and the
+time it was adopted, install Sgeo as Officer for Homeland Security.

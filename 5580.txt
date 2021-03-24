@@ -1,0 +1,7 @@
+ID: 5580
+Title: Holidays are sacred
+Author: Sgeo
+Co-authors: Ivan Hope
+Adoption index: 3
+
+Change the Power of Rule 1769 from 2 to 3.

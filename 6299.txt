@@ -1,0 +1,8 @@
+ID: 6299
+Title: First-class Only
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by changing "active players" in
+bullet point 2 to "active first-class players."

@@ -1,0 +1,32 @@
+ID: 6702
+Title: Fun While They Lasted
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Repeal Rule 2271 (Ongoing Change).
+Repeal Rule 2272 (Leadership Tokens).
+Repeal Rule 2273 (Coups de Grace).
+
+Amend Rule 2269 (Couple Coups) to read as follows:
+       A coup is either a coup d'etat or a chicken coup.
+
+       When a player begins a coup, the coup is a coup d'etat if it has
+       been at least one month since any player last Formed the
+       Government (if ever) and since the last coup d'etat (if ever) and
+       if the player beginning the coup is not the Speaker, a chicken
+       coup otherwise.
+
+       The effects of the various varieties of coup are defined
+       elsewhere in the rules.
+
+Amend Rule 2270 (Coups D'etat) to read as follows:
+       When a player begins a coup d'etat, an Emergency Session is
+       called. Rules to the contrary notwithstanding, the roll call of
+       this Emergency Session is the set of players who were Senators
+       and not Ministers when the Emergency Session is called, plus the
+       player who began the coup.
+
+Amend Rule 2274 (Government) by appending "A member of the Government is
+a Minister."

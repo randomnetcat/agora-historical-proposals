@@ -1,0 +1,16 @@
+ID: 6590
+Title: Salary Timing
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2258 by replacing
+      At the end of each month, each first-class player Earns a number
+      of Draws from each Basic Deck equal to the number of times that
+      deck appeared in eir salary switch at the beginning of the
+      month. These Draws are tracked by the Registrar.
+with
+      At the end of each month, each first-class player Earns a number
+      of Draws from each Basic Deck equal to the number of times that
+      deck appears in eir salary. These Draws are tracked by the
+      Registrar.

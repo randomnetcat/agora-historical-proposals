@@ -1,0 +1,17 @@
+ID: 5089
+Title: encourage meeting quorum
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by inserting at the end of the enumerated list that
+follows "VCs may be lost as follows:" the item
+
+      d) If a proposal fails quorum, each eligible voter with a
+         positive voting limit on that proposal who did not submit any
+         ballots on that proposal that counted towards quorum loses
+         one VC of eir Party's color.
+
+Each eligible voter on this proposal who did not submit any ballots on
+this proposal that counted towards quorum is awarded the patent title
+"Apathetic Wastrel".

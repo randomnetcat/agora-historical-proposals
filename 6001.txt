@@ -1,0 +1,26 @@
+ID: 6001
+Title: Pool Protection
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 106 by inserting the following text after the second
+paragraph:
+
+     A player specifically permitted by the Rules to distribute
+     a Proposal CAN distribute the proposal by publishing it
+     with the clear intent of distributing it.  When a proposal is
+     distributed, it is removed from the Proposal Pool.  The
+     distribution of a proposal initiates the Agoran decision of
+     whether to adopt the proposal, as described elsewhere.
+     Removing a proposal from the Pool by a means other than
+     initiating an Agoran Decision to adopt it is secured.
+
+     If the Rules do not otherwise permit at least one current
+     active player to distribute a Proposal, than any player may
+     do so Without 3 Objections.
+
+
+Amend Rule 1607 by deleting the third paragraph.
+
+Amend Rule 1607 by replacing 'MAY' with 'CAN and MAY'.

@@ -1,0 +1,11 @@
+ID: 5728
+Title: What, still?
+Author: Ivan Hope CXXVII
+Co-authors: 
+Adoption index: 2.0
+
+Change Rule 869's power to 2. At the end of the first paragraph, add
+the sentence "Changes to citizenship are secured." Remove ", unless
+prevented by the rules,". Change Rule 1504's power to 2. Replace "An
+exiled entity CANNOT register." with "An exiled entity CANNOT
+register, rules to the contrary notwithstanding."

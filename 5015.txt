@@ -1,0 +1,16 @@
+ID: 5015
+Title: CFJ by announcement
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 991 by replacing "by submitting a Call for Judgement (CFJ)
+to the Clerk of the Courts" with "by publishing a Call for Judgement
+(CFJ)".
+
+Amend rule 897 by deleting the paragraph that begins "The Clerk of the
+Courts shall publish".
+
+[We are in practice always calling for judgement by announcement.
+Might as well make that official and remove the CotC's redundant
+obligation to publish.]

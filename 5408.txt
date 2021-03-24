@@ -1,0 +1,27 @@
+ID: 5408
+Title: In a timely fashion
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1023 (Common Definitions) by replacing this text:
+
+      (a) The phrase "as soon as possible" means "within seven days".
+
+with:
+
+      (a) The phrases "in a timely fashion" and "as soon as possible"
+          mean "within seven days".
+
+
+Amend Rule 2019 (Prerogatives) by replacing this text:
+
+      As soon as possible after the beginning of the month, the
+      Speaker SHALL randomly assign each Minister Without Portfolio a
+      different Prerogative for the remainder of that month.
+
+with:
+
+      In a timely fashion before the beginning of each month, the
+      Speaker SHALL randomly assign each Minister Without Portfolio a
+      different Prerogative for the upcoming month.

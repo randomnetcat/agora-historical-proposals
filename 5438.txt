@@ -1,0 +1,7 @@
+ID: 5438
+Title: Judicial Immunity
+Author: Wooble
+Co-authors: 
+Adoption index: 2
+
+In Rule 2158, replace the first instance of "SHALL" with "SHOULD".

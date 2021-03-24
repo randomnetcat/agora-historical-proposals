@@ -1,0 +1,13 @@
+ID: 5410
+Title: 4'33"
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2195 (Rests) by replacing this text:
+
+      The Conductor is the recordkeepor of Notes.
+
+with this text:
+
+      The Conductor is the recordkeepor of Rests.

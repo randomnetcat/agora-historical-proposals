@@ -1,0 +1,8 @@
+ID: 5232
+Title: OPPOSE is a nice word.
+Author: comex
+Co-authors: 
+Adoption index: 3
+
+In Rules 1728 and 955, replace each instance of the word OBJECT (when in
+all caps) with the word OPPOSE.

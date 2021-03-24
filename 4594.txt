@@ -1,0 +1,24 @@
+ID: 4594
+Title: Fix Non-Judicial Separation
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+This proposal has no effect unless proposals titled "Oligarch
+in a Three-Piece Suit" and "Judicial Separation" have been adopted.
+
+Create a rule titled "Quis Custodiet Ipsos Custodes?" with this
+text:
+
+      Whenever the Speaker is Electee to the Office of Assistant
+      Director of Personnel, e is retired from that Office.
+
+      The Assistant Director of Personnel cannot be Nominated for
+      the Office of Speaker-Elect.
+
+Amend Rule 1647 (The Speaker-Elect) by removing this text:
+
+      The Clerk of the Courts, Justiciar, and Assistant Director
+      of Personnel cannot be Nominated for the Office of
+      Speaker-Elect.

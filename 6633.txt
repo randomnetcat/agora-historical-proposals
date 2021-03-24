@@ -1,0 +1,13 @@
+ID: 6633
+Title: Ooopsie
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2284 by replacing
+     - A player CAN initiate an election for a specified Office for a
+       charge of 3 ergs.
+with
+     - A player CAN initiate an election for a specified Office for a
+       charge of 3 ergs unless there is an ongoing election for that
+       office.

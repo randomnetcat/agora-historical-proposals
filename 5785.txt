@@ -1,0 +1,19 @@
+ID: 5785
+Title: Inequality is not ordinary
+Author: Murphy
+Co-authors: Pavitra
+Adoption index: 3.1
+
+Amend these rules by replacing each instance of "ordinary" with
+"aristocratic":
+
+ 2196 (Standard Classes of Agoran Decisions)
+ 2156 (Voting on Ordinary Decisions) - also in the title
+ 2134 (Win by Clout)
+ 2156 (Notes)
+ 2142 (Support Democracy)
+ 2019 (Prerogatives)
+ 2193 (The Monster)
+
+Upon the adoption of this proposal, all proposals that were ordinary
+before this proposal was adopted become aristocratic.

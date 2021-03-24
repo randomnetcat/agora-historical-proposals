@@ -1,0 +1,29 @@
+ID: 4943
+Title: Reward and Punishment
+Author: Goethe
+Co-authors: 
+Adoption index: 3
+
+
+[It's absurd that people who have punted on multiple CFJs,
+making more work for officers, have more VCs than said officers.]
+
+Amend Rule 2126 by replacing this text:
+      A player who submits a judgement during eir Deliberation Period
+      gains one VC.  A player whose judgement is overturned loses one
+      VC, if e has any.
+with this text:
+      A player who submits a judgement during eir Deliberation Period
+      gains one VC.  A player whose judgement is overturned, or who
+      is recused for failing to judge within eir Deliberation Period,
+      loses one VC, if e has any.
+
+and by replacing this text:
+      At the end of each quarter, for each office, the player (if
+      any) who held that office for the majority of that quarter
+      gains one VC.
+with this text:
+      At the end of each month, for each office, the player (if
+      any) who held that office for the majority of that month
+      gains two VCs, unless the Speaker publicly announces that
+      the officer has performed poorly in eir duties.

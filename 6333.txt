@@ -1,0 +1,25 @@
+ID: 6333
+Title: Justiciar has no duty
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2246 to read as follows:
+
+      A judicial case may be submitted to the Justiciar.  For such a
+      case, the Justiciar CAN, in a timely manner and by announcement,
+      either accept or reject the case. Until the time limit expires or
+      the Justiciar rejects the case, the CotC CANNOT perform any duties
+      with regards to the case; the only appropriate sentence for
+      violations caused by this is DISCHARGE.
+
+      If the Justiciar accepts the case, e replaces the CotC entirely
+      with regards to that case; e receives all obligations and all
+      powers with regards to it. This includes any secondary duties
+      required to fulfill obligations (such as rotating the bench). This
+      takes precedence over Rules that would otherwise assign duties
+      and powers regarding a judicial case to the Clerk of the Courts.
+
+      All persons are encouraged to submit a case to the Justiciar only
+      when there is a good reason not to submit it to the Clerk of the
+      Courts.

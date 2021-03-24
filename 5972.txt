@@ -1,0 +1,11 @@
+ID: 5972
+Title: Contract terminology clean-up
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2178 by replacing each instance of "member" with "party",
+each instance of "members" with "parties", and each instance of
+"membership" with "list of parties"
+
+Amend Rule 2136 by replacing each instance of "members" with "parties".

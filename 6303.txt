@@ -1,0 +1,25 @@
+ID: 6303
+Title: Finish fixing contract problems
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+[Forgot that ratification is secured at Power=3 by Rule 1551]
+
+This proposal has no effect unless Proposal 6300 (Fix contract
+problems) has been adopted.
+
+Ratify the following document:  {
+
+  The following contracts have the following contestmasters.  No
+  other contract that existed when this proposal was submitted
+  is a contest.
+
+  Enigma                 ais523
+  Fantasy Rules Contest  Murphy
+  Nomic Wars III         BobTHJ
+  AAA                    Wooble
+  Cookie Jar             Murphy
+  Three-Scroll Rodney    coppro
+
+}

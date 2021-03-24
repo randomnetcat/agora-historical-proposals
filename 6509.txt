@@ -1,0 +1,67 @@
+ID: 6509
+Title: Fix the Senate
+Author: C-walker
+Co-authors: 
+Adoption index: 3.0
+
+Text enclosed in [[ ]] is comment text, and for reference only.
+
+[[ There are currently several problems with the Senate Rule. Firstly,
+the following:
+
+     A Senator is any first-class player whose most recent
+     registration was at least sixty days ago.
+
+This means that players who register and then become inactive very
+quickly still manage to get into the Senate. This is easy to fix:
+simply make potential Senators make themselves Senators by
+announcement. I have also made Senatorship into a switch: ]]
+
+Amend Rule 2177 (The Senate) by replacing:
+
+     A Senator is any first-class player whose most recent
+     registration was at least sixty days ago.  The set of all
+     Senators is known as the Senate.  The Registrar's report
+     includes a list of all Senators.
+
+with:
+
+     Senatorship is a player switch, tracked by the Registrar, with
+     values Citizen (default) and Senator. Changes to Senatorship are
+     secured. The set of all Senators is known as the Senate.
+
+     A first-class player whose most recent registration was at least
+     sixty days ago CAN flip eir Senatorship to Senator by
+     announcement.
+
+[[ The second problem is minor: the Rule still references Ministers
+Without Portfolio. ]]
+
+Amend Rule 2177 (The Senate) by replacing
+
+     During emergency session, any Senator CAN declare a filibuster
+     on a proposal in its voting period, with 2 supporting Senators,
+     provided no filibuster has been declared on that proposal in the
+     past.  Any Senator CAN end a filibuster on a proposal with 4
+     supporting Senators and without objection from a Minister
+     without Portfolio (any of whom CAN object).
+
+with:
+
+     During an emergency session, any Senator CAN declare a
+     filibuster on a proposal in its voting period with 2 supporting
+     Senators, provided no filibuster has been declared on that
+     proposal in the past.  Any Senator CAN end a filibuster on a
+     proposal without Senator three objections.
+
+[[ The final problem with the Senate is that while it can block
+proposals, in cannot force ones through. The simplest fix to that is
+the following: ]]
+
+Append the following to Rule 2177 (The Senate):
+
+     During an emergency session, the eligible voters on a democratic
+     decision are the active Senators, each with a voting limit of
+     one, Rules to the contrary notwithstanding.
+
+[[ And so the above works, ]] Mutate Rule 2177 (The Senate) to Power 3.

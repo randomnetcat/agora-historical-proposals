@@ -1,0 +1,8 @@
+ID: 4428
+Title: Bandwagon Refueling
+Author: Pakaran
+Co-authors: 
+Adoption index: 1
+
+On the adoption of this Proposal, the Bank incurs a debt to the Bandwagon in 
+the amount of 60 Stems.

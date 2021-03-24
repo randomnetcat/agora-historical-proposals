@@ -1,0 +1,18 @@
+ID: 6523
+Title: Fix Ambassador Duties
+Author: C-walker
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2185, replace
+
+      Recognition is a foreign nomic switch, tracked by the
+      Ambassador, with values Unknown (default), Protected, Friendly,
+      Neutral, Sanctioned, Hostile, and Abandoned.
+
+with:
+
+      Recognition is a foreign nomic switch, tracked by the Ambassador
+      (in eir monthly report), with values Unknown (default),
+      Protected, Friendly, Neutral, Sanctioned, Hostile, and
+      Abandoned.

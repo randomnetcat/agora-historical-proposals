@@ -1,0 +1,26 @@
+ID: 6286
+Title: Precedence fixes
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1551 (Ratification) to read: [added "rules to the contrary
+notwithstanding"]
+      A public document is part (possibly all) of a public message.
+
+      When a public document is ratified, rules to the contrary
+      notwithstanding, the gamestate is modified so that the ratified
+      document was completely true and accurate at the time it was
+      published.  Nevertheless, the ratification of a public document
+      does not invalidate, reverse, alter, or cancel any messages or
+      actions, even if they were unrecorded or overlooked, or change
+      the legality of any attempted action.
+
+      Ratifying a public document is secured.
+
+Change the power of Rule 1698 (Agora Is a Nomic) to 4.
+
+[Currently the order of precedence is R101 > AIaN > everything else,
+with Ratification a few rules down.  This proposal changes it to AiaN >
+R101 > Ratification > everything else.  Yes, I believe keeping the game
+alive is more important than our rights.]

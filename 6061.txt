@@ -1,0 +1,12 @@
+ID: 6061
+Title: Limited Point Transfer
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Append the following to rule 2179 ("Points"):
+{{{
+Players generally CAN transfer points they own to other players, subject
+to the restrictions that no more than 5 points can be transferred this
+way to any one player, nor from any one player, per week.
+}}}

@@ -1,0 +1,20 @@
+ID: 6214
+Title: Okay, you're not playing anymore
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Change the text of Rule 2130 (Activity) that reads:
+
+      A player who has been continuously Inactive for at least three
+      months CAN be deregistered by any other player without
+      objection.  This is a means of honorable deregistration.
+
+to read:
+
+      A player who has been continuously Inactive for at least six
+      months CAN be deregistered by any other player by announcement.
+      A player who has been continuously Inactive for at least three
+      months but no more than six months CAN be deregistered by any
+      other player without objection. These are both means of honorable
+      deregistration.

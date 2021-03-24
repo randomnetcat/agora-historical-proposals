@@ -1,0 +1,20 @@
+ID: 6390
+Title: Person Cleaning
+Author: Yally
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 2150, amend the paragraph reading:
+
+      Any biological organism that is generally capable of
+      communicating by email in English (including via a translation
+      service) is a person.
+
+to read:
+
+      Any biological organism that is generally capable of
+      communicating by email in English (including via a translation
+      service) is a person, though other persons may exist.
+
+[This should help to eliminate a common confusion, especially
+among new players, when reading this rule.]

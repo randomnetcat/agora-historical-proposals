@@ -1,0 +1,46 @@
+ID: 5567
+Title: Emergency Exit
+Author: ais523
+Co-authors: 
+Adoption index: 3.1
+
+Create a rule with the following text, and a title of
+"In Case of Emergency", then set its power to 3.1:
+{{{
+The set of Definite Players is {ais523, avpx, BobTHJ, cdm014,
+comex, doopy, ehird, Eris, Ivan Hope, Murphy, OscarMeyr, Pavitra,
+pikhq, Quazie, root, Schrodinger's Cat, woggle, Wooble, Zefram}.
+
+A Definite Message is a message sent to all Definite Players,
+or to a mailing list which all Definite Players are likely to be
+subscribed to, by a Definite Player.
+
+This rule can be amended to change the set of Definite Players
+to any set of people, as long as a Definite Player declared eir
+intention to do so in an Definite Message between four and
+fourteen days before the amendment happened, by stating that
+this action is being taken in a Definite Message, along with
+the new set of Definite Players. This should not be done except
+to set the set of Definite Players to the set of players defined
+by other rules as "active first-class players", and should be
+done at any point where those two sets differ.
+
+An Emergency Refresh is a set of changes to the rules and/or
+gamestate, clearly labeled as an Emergency Refresh, written in
+a Definite Message sent within the last fourteen days.
+
+Any Definite Player can Accept an Emergency Refresh, by stating
+that e Accepts it in a Definite Message.
+
+When an Emergency Refresh has been Accepted by at least four-
+fifths of the Definite Players, the rules and/or gamestate
+change as specified in that Emergency Refresh, regardless of
+what any other rule may state.
+
+All words in this rule have their normal English meaning except
+as defined in this rule, and their meanings cannot be overriden
+by any other entity.
+
+This rule takes precedence over all rules which contradict it in
+any way.
+}}}

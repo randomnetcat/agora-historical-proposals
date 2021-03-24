@@ -1,0 +1,10 @@
+ID: 5509
+Title: Power to the (first-class) people
+Author: root
+Co-authors: 
+Adoption index: 3
+
+[This rule needs more power.  Its definitions are referenced by
+important rules such as R1950.]
+
+Increase the power of Rule 2150 (Personhood) to 3.

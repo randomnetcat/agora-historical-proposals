@@ -1,0 +1,29 @@
+ID: 5219
+Title: patent title cleanup
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Revoke every instance of the patent title "Zeitgeist" from every
+bearer of it.
+
+[As I recall, the Zeitgeist title was defined to be revoked from the
+previous bearer each time it was awarded.  It's not defined now, and
+it's not obvious whether it was revoked from the last bearer.  The
+herald's report indicates uncertainty about whether the title was
+revoked from *any* bearer.  This plenary revocation means that the
+herald can stop listing the historical awards of Zeitgeist, just like
+any other revoked title.]
+
+Revoke the patent title "Distributor" from Steve.
+
+[This was meant to identify the person responsible for the mailing
+lists.  Steve hasn't had that role for a long time.  The patent title
+was superseded in this identifying role longer ago than that, as the
+herald's note about CFJ 1298 indicates.]
+
+Revoke the patent title "Boor" from each bearer of it.
+
+[This title was part of the Wizard system.  It was held by anyone with
+negative Style.  Everyone's Style got reset to zero every quarter, so
+the title was never intended to be borne indefinitely.]

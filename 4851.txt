@@ -1,0 +1,131 @@
+ID: 4851
+Title: Chips
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2068 (The Deckmastor) to read:
+
+      The Deckmastor is an office; its holder is responsible for fair
+      play, shuffling, and dealing, and is the recordkeepor for cards
+      and chips.
+
+      The Deckmastor's weekly report shall contain a record of all
+      cards and chips in existence, recent card and chip actions, and
+      what entity holds each card and chip.  The Deckmastor need not
+      record or report transfers of cards to the table.
+
+Amend Rule 2069 (Card Actions) by replacing this text:
+
+      the sum of the number of pending draws for each gambler is
+      greater than the number of cards in the deck, or that there are
+      no cards in the deck
+
+with this text:
+
+      there are no cards in the deck
+
+Amend Rule 2075 (Winning Hands) by replacing this text:
+
+      all heavy pending draws shall be deemed satisfied.
+
+with this text:
+
+      all white chips shall be forfeited to the Pot.
+
+Create a rule titled "Gaining and Losing Chips" with this text:
+
+      If the rules say that a player gains a chip, it is created in
+      eir possession.  Rumor and superstition have it that these chips
+      come from a mystical place referred to in legend as The House,
+      which is to be greatly feared by all gamblers.
+
+      If the rules say that a player loses a chip, without specifying
+      which chip e loses:
+
+        (a) If e has at least one red chip, then one of eir red chips
+            is forfeited to the Pot.
+
+        (b) Otherwise, if e has at least one white chip, then one of
+            eir white chips is forfeited to the Pot.
+
+        (c) Otherwise, if e has at least one card, then the Deckmastor
+            shall discard one of that player's cards at random.
+
+        (d) Otherwise, the next chip e gains is immediately forfeited
+            to the Pot.
+
+Change the name of Rule 2080 (Basic Draws) to "Chip Sources", and
+amend it to read:
+
+      At the beginning of each month, each player gains three white
+      chips and one red chip.
+
+      Upon the adoption of a proposal, the author gains one white
+      chip.
+
+      A player who gains a Boon gains a red chip.  A player who gains
+      an Albatross loses a chip.
+
+Amend Rule 2049 (Ephemera) by removing this text:
+
+      A Player who gains a Boon is considered to have drawn a free
+      card for that boon.  A Player who gains an Albatross loses a
+      pending draw.
+
+Change the name of Rule 2120 (Satisfying Draws) to "Cashing In One's
+Chips", and amend it to read:
+
+      The Pot is a site.
+
+      A player may cash in one or more of eir chips by transferring
+      them to the Pot.  As soon as possible after e does so, the
+      Deckmastor shall deal em a card for each non-forfeited chip.
+
+Amend Rule 2089 (Gardner Library) to read:
+
+      Whenever the Library's hand size plus number of chips is less
+      than five, it receives a red chip.
+
+      A player (the Borrower) may check out a specified card currently
+      in the Library's hand for a fee (2 for Students, 1 for Faculty
+      Members), upon which the card is transferred to the Borrower.
+
+      The President of the University may discard any card in the
+      possession of the Library without two objections.
+
+Amend Rule 2075 (Winning Hands) by replacing this text:
+
+      If the announcement is true, the holding Gambler Wins the Game,
+      and is awarded the boon of Pokerface and the defined regular
+      Patent Title Champion.
+
+with this text:
+
+      If the announcement is true, the holding Gambler Wins the Game,
+      and is awarded the boon of Pokerface, the defined regular Patent
+      Title Champion, and a blue chip (non-transferrable) marked with
+      the number of red and white chips in the Pot (after which the
+      Pot is emptied).
+
+Amend Rule 2083 (Hand Reductions) by replacing this text:
+
+        (i) Satisfy all satisfiable pending draws for that gambler and
+            announce a pending hand reduction;
+
+       (ii) Wait at least four days, during which e may not satisfy
+            pending draws for that gambler;
+
+with this text:
+
+        (i) Satisfy all requirements to deal cards to that gambler for
+            cashed-in chips and announce a pending hand reduction;
+
+       (ii) Wait at least four days, during which the gambler may not
+            cash in any chips;
+
+Create a rule titled "Fees" with this text:
+
+      A player plays a fee of X by cashing in X chips.  These chips
+      are forfeited.

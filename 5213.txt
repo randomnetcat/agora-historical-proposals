@@ -1,0 +1,14 @@
+ID: 5213
+Title: Disambiguate color
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      Each VC has a color.
+
+with this text:
+
+      Each VC has exactly one color.  Colors with different names
+      are distinct, regardless of spectral proximity.

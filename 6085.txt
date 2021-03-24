@@ -1,0 +1,10 @@
+ID: 6085
+Title: Proposal
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Change the power of Rule 2238 to 3.
+Furthermore, amend it by adding the following paragraph:
+
+     comex and ais523 were here!

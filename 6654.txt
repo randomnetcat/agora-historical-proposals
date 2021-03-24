@@ -1,0 +1,9 @@
+ID: 6654
+Title: House Un-Agoran Activities Committee
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2255 (Cards) by appending this text to the first paragraph:
+
+       Ownership of cards is restricted to players.

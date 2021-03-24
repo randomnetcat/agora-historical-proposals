@@ -1,0 +1,15 @@
+ID: 5385
+Title: Transfer VC recordkeeping
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      The Assessor is the recordkeepor of VCs.
+
+with this text:
+
+      The Accountor is the recordkeepor of VCs.
+
+[This is what Proposal 5363 was intended to do to this rule.]

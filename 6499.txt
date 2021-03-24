@@ -1,0 +1,9 @@
+ID: 6499
+Title: <none>
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In R2156, replace "The voting limit" with "The initial voting limit"
+
+[Redoes the change made by P5985 which was overwritten by P6010]

@@ -1,0 +1,31 @@
+ID: 6361
+Title: Attitude
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+[See http://internomic2.wikidot.com/ruleset, rule 12]
+
+Enact a new Rule, titled "InterNomic Attitude":
+
+      The official attitude of Agora torward a foreign nomic depends
+      on its Recognition as follows:
+
+      Recognition                  Attitude
+
+      Protected, Friendly           Ally
+      Unknown, Neutral, Abandoned   Neutral
+      Sanctioned, Hostile           Enemy
+
+      If Agora's InterNomic attitude toward a foreign nomic does not
+      exist or differs from the official attitude, the Ambassador CAN
+      act on behalf of Agora to declare its official attitude.  As
+      soon as possible after Agora's official attitude toward a
+      foreign nomic changes, e SHALL make such a declaration for that
+      nomic.
+
+      The Ambassador SHALL, as soon as possible after the enactment of
+      this rule, act on behalf of Agora to declare its official
+      attitude toward all nomics for which the attitude is not
+      Neutral.  Once this occurs, any person CAN, by announcement,
+      cause this rule to amend itself by removing this paragraph.

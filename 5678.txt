@@ -1,0 +1,21 @@
+ID: 5678
+Title: none
+Author: Ivan Hope CXXVII
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 2170, "Who Am I?", insert the following paragraphs before the
+last paragraph:
+
+"A person can act on behalf of another person (the Absentee) to send a
+message if and only if the Absentee consents to this. The Absentee
+agreeing to a contract allowing persons to act on eir behalf is
+considered consent, as is supporting or otherwise consenting to a
+Contract Change amending a contract to allow persons to act on eir
+behalf. This consent is automatically withdrawn if the contract is
+terminated or ceases to allow persons to act on the Absentee's behalf.
+The Absentee can manually withdraw eir consent at any time.
+
+The above notwithstanding, if a partnership's text specifies a way for
+persons to send a message on its behalf, persons CAN send such a
+message that way.

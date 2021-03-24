@@ -1,0 +1,150 @@
+ID: 4691
+Title: Switch Reform
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2040 by replacing the text reading:
+
+      A player who may flip a switch on an entity to some state may do
+      so by announcement.  In eir announcement, e must indicate the
+      entity, switch, and new state.  When a switch on an entity is
+      flipped to some state, the entity shall come to be in that state
+      and simultaneously cease to be in any other state of the switch.
+
+with:
+
+      Whenever an instrument indicates that a switch on an entity is
+      set or changed to some state, and the rules do not otherwise
+      forbid it, the entity shall come to be in that state and
+      simultaneously cease to be in any other state of the switch.
+
+      A player who may flip a switch on an entity to some state other
+      than the current state of the switch may do so by announcement.
+      In eir announcement, e must indicate the entity, switch, and new
+      state.  Upon this announcement, provided it is valid, the switch
+      is set to the named state.
+
+
+If the following text appears in Rule 2078:
+
+      At the beginning of a Takeover Proposal's voting period, all
+      players have their initiative flipped to Gote.  At the end of a
+      Takeover Proposal's voting period, all players have their
+      initiative flipped as follows:
+
+then replace it with:
+
+      At the beginning of a Takeover Proposal's voting period, the
+      initiative of each player is set to Gote.  At the end of a
+      Takeover Proposal's voting period, the initiative of each player
+      is set as follows:
+
+
+Otherwise, if the following text appears in Rule 2078:
+
+      Mainsail is a stuck proposal switch, tracked by the Assessor,
+      with values Tyrannical and Piratical.  When a Proposal's
+      Mainsail is flipped to Piratical, it becomes democratic and
+      sane.
+
+      A Minimal Crew is defined as the number of active noisy
+      players divided by 3.
+
+      If a Proposal has a Piratical Mainsail at the end of its
+      voting period, and at that time specifies a set of Players
+      (the Raiders) in number neither less than a minimal crew nor
+      greater than twice a minimal crew, then:
+        (a) If the proposal is adopted, then all Raiders are
+            flipped to Sente, and all other players are flipped to
+            Gote.
+        (b) Otherwise, all Raiders are flipped to Gote, and all
+            other players are flipped to Sente.
+
+then replace it with:
+
+      Mainsail is a stuck proposal switch, tracked by the Assessor,
+      with values Tyrannical and Piratical.  When a Proposal's
+      Mainsail is set to Piratical, it becomes democratic and
+      sane.
+
+      A Minimal Crew is defined as the number of active noisy
+      players divided by 3.
+
+      If a Proposal has a Piratical Mainsail at the end of its
+      voting period, and at that time specifies a set of Players
+      (the Raiders) in number neither less than a minimal crew nor
+      greater than twice a minimal crew, then:
+        (a) If the proposal is adopted, then the Initiative of each
+            Raider is set to Sente, and the Initiative of every
+            other player is set to Gote.
+        (b) Otherwise, the Initiative of each Raider is set to
+            Gote, and the Initiative of every other player is set
+            to Sente.
+
+
+Amend Rule 1664 by replacing the text reading:
+
+         - All Stock Cards in the possession of Abiding Players are
+           returned to the Deck, and all Abiding Players have their
+           initiative switched to Gote.
+
+with:
+
+         - All Stock Cards in the possession of Abiding Players are
+           returned to the Deck, and the initiative of each Abiding
+           Player is set to Gote.
+
+
+Amend Rule 1871 by replacing the text reading:
+
+      The CotC may switch the Orientation of players e expects to
+      judge CFJs slowly or not at all to turned, without 2 objections.
+
+with:
+
+      The CotC may flip the Orientation of a player e expects to judge
+      CFJs slowly or not at all to turned, without 2 objections.
+
+
+Amend Rule 649 by replacing the text reading:
+
+      Significance is a stuck switch for Patent Titles with states
+      Historical, Hysterical, and Ephemeral.  The Herald may, Without
+      Objection, cause a Title be switched from Historical
+      Significance to Hysterical Significance.
+
+with:
+
+      Significance is a stuck switch for Patent Titles with states
+      Historical, Hysterical, and Ephemeral.  The Herald may, Without
+      Objection, flip a Title from Historical Significance to
+      Hysterical Significance.
+
+
+Amend Rule 2049 by replacing the text reading:
+
+      A Patent Title has Ephemeral significance if the rules state
+      that the Patent Title is ephemeral.  Karma is a stuck switch for
+      ephemeral patent titles with states Boon and Albatross.
+      Defining something to be a 'boon' or an 'albatross' is
+      equivalent to defining it to be an ephemeral Patent Title with
+      its Karma set as defined.
+
+with:
+
+      A Patent Title has Ephemeral significance if the rules state
+      that the Patent Title is ephemeral.  Karma is a stuck switch for
+      ephemeral patent titles with states Boon and Albatross.
+      Defining something to be a 'boon' or an 'albatross' is
+      equivalent to defining it to be an ephemeral Patent Title with
+      its Karma set as defined, and the Karma of a title defined in
+      this way is said to be Static.  A Static Karma switch may never
+      be changed except by modifying its definition.  A Karma switch
+      that is not Static is said to be Dynamic.
+
+
+Amend rule 2051 by appending the text:
+
+      (C) set each Dynamic Karma switch to its original state.

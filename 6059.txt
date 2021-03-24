@@ -1,0 +1,8 @@
+ID: 6059
+Title: "Voluntary" creation of rests
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Append to Rule 2228:
+     A player CAN create Rests in eir possession by announcement.

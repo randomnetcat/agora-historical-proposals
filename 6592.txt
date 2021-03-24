@@ -1,0 +1,13 @@
+ID: 6592
+Title: Drop them, really.
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+[This removes bits of foreign relations we don't really need.
+Protectorates remain as a form of declaration that Agora is superior
+to other nomics. The Speaker also remains as e's the Speaker.]
+Repeal Rule 2200 (Nomic Definitions).
+Repeal Rule 2135 (Advertising).
+Repeal Rule 2185 (Foreign Relations).
+Repeal Rule 2251 (InterNomic Attitude).

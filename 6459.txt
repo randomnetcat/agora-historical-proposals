@@ -1,0 +1,12 @@
+ID: 6459
+Title: ADL Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2259 (Basic Hand Limits) by:
+  - Replacing "as part of eir Salary switch." with "as part of eir
+Salary switch, or times 1 if e has no Salary switch."
+  - Replacing each instance of "deck" with "Deck"
+  - Replacing each instance of "dealer" with "Dealer"
+Retitle Rule 2259 to "Hand Limits"

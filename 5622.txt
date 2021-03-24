@@ -1,0 +1,13 @@
+ID: 5622
+Title: Give me arguments
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+Append the following to the end of R2205
+
+Any Person MAY submit present Gratuitous arguments to a Judicial Case.
+
+The CotC SHOULD report any and all arguments and pieces of evidence
+that have been presented for a particular Judicial Case upon assigning
+a judge to that case.

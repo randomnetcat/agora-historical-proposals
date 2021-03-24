@@ -1,0 +1,33 @@
+ID: 5178
+Title: Generalize security
+Author: Murphy
+Co-authors: Pavitra
+Adoption index: 3
+
+Pavitra is a co-author of this proposal.
+
+Amend Rule 1688 (Power) by appending this text:
+
+      A secured attribute CANNOT be modified, and a secured action
+      CANNOT be performed, except by an instrument with power at
+      least as great as that of the rule defining that attribute or
+      action as secured.
+
+Amend Rule 1367 (Degrees) by replacing the sentence beginning "A degree
+CAN be awarded" with "The awarding of a degree is secured".
+
+Amend Rule 2126 (Voting Credits) by replacing the sentence beginning
+"VCs CANNOT be affected" with "VCs are secured.".
+
+Amend Rule 2156 (Voting on Ordinary Proposals) by replacing the sentence
+beginning "VVLOP can be modified" with "VVLOP is secured".
+
+Amend Rule 2159 (Protective Decrees) by replacing this text:
+
+      Where permitted by other rules, an instrument with power 2 or
+      greater generally can, as part of its effect, initiate a
+      protective decree.
+
+with this text:
+
+      The initiation of a protective decree is secured.

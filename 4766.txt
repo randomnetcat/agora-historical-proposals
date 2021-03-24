@@ -1,0 +1,40 @@
+ID: 4766
+Title: Cleaning up the Draw rules
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Cleaning up the Draw rules
+
+Amend R2069 by replacing the text:
+     A Gambler whose Hand Size is smaller than the maximum Hand Size,
+     plus the number of Offices e holds, plus one if e is Speaker, may
+     draw a card from The Deck.  The fee for this action is a number of
+     Kudos equal to the number of times during the current month e has
+     previously drawn a card in this manner.
+
+With:
+        A Gambler may Draw from The Deck only as permitted by the Rules.
+
+Create a new rule titled "Normal Card Draws" with this text:
+
+     A Gambler whose Hand is not Full may draw a card from The Deck. 
+     The fee for this action is a number of Kudos equal to the number of
+     times during the current month e has previously drawn a card 
+     under the provisions of this rule.
+
+Create a new rule entitled "Individual Maximum Hand Size" with this text:
+
+      An individuals hand is Full if the number of cards in eir hand is
+      equal to the Maximum Hand Size plus the number of offices e holds.  
+      For the purposes of this rule Speakership is considered an office.
+
+In R2080 Replace
+
+      size is smaller than the Maximum Hand Size plus the number plus 
+      the number of offices e holds
+
+with
+
+      is not Full

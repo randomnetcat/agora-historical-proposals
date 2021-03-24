@@ -1,0 +1,34 @@
+ID: 6510
+Title: Judicial fixes
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing this text:
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active players,
+
+with this text:
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active players who have not previously been
+      assigned as its judge,
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of max(3,1+2*R) members
+      (where R is the rank of the prior case), where each of the
+      members is qualified to be assigned as judge of the prior case
+      and none of the members is the prior judge.
+
+with this text:
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of max(3,1+2*R) members
+      (where R is the rank of the prior case), where each of the
+      members is qualified to be assigned as judge of the prior case
+      (or, if this would result in no panels being qualified, then
+      where each of the members would be qualified to be assigned as
+      judge of the prior case if e was Supreme).

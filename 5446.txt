@@ -1,0 +1,28 @@
+ID: 5446
+Title: What Are We?
+Author: Pavitra
+Co-authors: Zefram
+Adoption index: 1
+
+Zefram is the coauthor of this proposal.
+
+Enact a new rule with power 1, entitled "Nomic Definitions", with text as
+follows:
+
+     A nomic ruleset is a set of explicit rules that provides means
+     for itself to be altered arbitrarily, including changes to those
+     rules that govern rule changes. Not all rule changes need be
+     possible in one step; an arbitrarily complex combination of
+     actions (possibly including intermediate rule changes) can be
+     required, so long as any rule change is theoretically achievable
+     in finite time.
+
+     A nomic is the single entity defined by a nomic ruleset as a whole.
+     Each nomic ruleset defines exactly one nomic, and each nomic is
+     defined by exactly one nomic ruleset.
+
+     A foreign nomic is a nomic that is not Agora. Adopting the name of
+     "Agora" does not disqualify a nomic from being foreign; any nomic that
+     is not the One True Agora is a foreign nomic.
+
+     A province is a protectorate that is registered as a player.

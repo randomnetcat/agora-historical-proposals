@@ -1,0 +1,15 @@
+ID: 4781
+Title: Rule 213, Now and Forever
+Author: Sherlock
+Co-authors: 
+Adoption index: 3
+
+
+Create a power 3 rule entitled "Win by Paradox" with the text:
+
+      If the legality of an action cannot be determined with finality,
+      or if by a Judge's best reasoning, not appealed within a week of
+      eir Judgement, an action appears equally legal and illegal, then
+      the Speaker shall award the Patent Title of Champion to the
+      first Player to publicly note that condition.  The Herald shall
+      record that this Title was achieved "by paradox" in eir report.

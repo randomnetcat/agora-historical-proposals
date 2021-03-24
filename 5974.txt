@@ -1,0 +1,7 @@
+ID: 5974
+Title: I can has grammar
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2166 (Assets) by replacing "an rule" with "a rule".

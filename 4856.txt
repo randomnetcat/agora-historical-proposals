@@ -1,0 +1,44 @@
+ID: 4856
+Title: Winning rearranged
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Winning rearranged
+
+[Cleans up the sillyness with 72 hours and "any particular moment" of
+winning.  Makes repealing scoring instructions automatic on a win].
+
+Amend Rule 2075 (Winning Hands) to read:
+
+      The Scoring Instructions contained in cardbooks, interpreted
+      collectively, may define a nonsite gambler as holding a winning
+      hand.  Any Player may allege that a nonsite gambler holds a
+      winning hand.  The allegation is considered true if any nonsite
+      gambler holds a winning hand at the time of the allegation.
+
+      If the allegation is true, the following events occur in order,
+      immediately upon the allegation being made:
+
+        (i) All nonsite gamblers holding winning hands are deemed to
+            win the game simultaneously, and are awarded the defined
+            regular Patent Title Champion, five white chips, and a
+            blue chip (non-transferrable) marked with the number of
+            red and white chips in the Pot.
+
+       (ii) The pot is emptied.
+
+      (iii) All Scoring Instructions in the Blueprints Cardbook are
+            repealed.
+
+       (iv) All Players' hands become subject to a Hand Reduction to
+            the Minimum Hand Size.
+
+      If the allegation is false, the Deckmastor shall, as soon as
+      possible, discard 1 card at random from the hand of the Gambler
+      who made the allegation.
+
+      If no true allegation of a winning hand or a Skunk has been made
+      in the last six months, then any Gambler may allege a Skunk,
+      which, if true, triggers the effects of (iii) and (iv) above.

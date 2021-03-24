@@ -1,0 +1,18 @@
+ID: 6307
+Title: Fix NoVs for defined crimes
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2230 ("Notices of Violation"), replace:
+{{
+When a Notice becomes Closed, a number
+      of Rests are created in the possession of the Accused equal to
+      the power of the violated Rule, rounded up.
+}}
+with:
+{{
+When a Notice becomes Closed, a number of Rests are created in the
+possession of the Accused equal to the Class of the specified Crime,
+or in its absence the Power of the violated rule, rounded up.
+}}

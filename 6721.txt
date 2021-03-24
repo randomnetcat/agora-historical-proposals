@@ -1,0 +1,22 @@
+ID: 6721
+Title: Titularity
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Amend Rule 106 (Adopting Proposals) by replacing:
+       A player CAN create a proposal by publishing ("submitting") a
+       body of text with a clear indication that it is intended to
+       become a proposal, which places the proposal in the Proposal
+       Pool.  The author (syn. proposer) of a proposal is the player
+       who submitted it.  A player CAN remove (syn. retract, withdraw)
+       a proposal e authored from the Proposal Pool by announcement.
+with
+       A player CAN create a proposal by publishing ("submitting") a
+       body of text and an associated title with a clear indication that
+       it is intended to become a proposal, which places the proposal in
+       the Proposal Pool.  The author (syn. proposer) of a proposal is
+       the player who submitted it.  A player CAN remove (syn. retract,
+       withdraw) a proposal e authored from the Proposal Pool by
+       announcement.

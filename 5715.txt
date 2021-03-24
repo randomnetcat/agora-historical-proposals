@@ -1,0 +1,14 @@
+ID: 5715
+Title: Judicial Declarations
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Create a rule titled "Judicial Declarations" with Power 1.7 and
+this text:
+
+      A judicial declaration published by a judge as required by
+      the rules in conjunction with a judgement is self-ratifying,
+      provided that that judgement remains in effect.  Such a
+      judgement may be inappropriate due to the content of this
+      declaration, rules to the contrary notwithstanding.

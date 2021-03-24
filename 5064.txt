@@ -1,0 +1,13 @@
+ID: 5064
+Title: rational scores
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2136 by replacing the text from "is eir score" up to but
+not including the next "." with "is eir score, which is always a
+rational number, and scores are not categorically prevented from being
+any particular rational number".
+
+[If this is adopted, it overrides "real scores" and "algebraic
+scores".  It will be overridden if "integer scores" is adopted.]

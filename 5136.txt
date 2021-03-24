@@ -1,0 +1,108 @@
+ID: 5136
+Title: clarify Mother, May I?
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2152 to read
+
+      The following terms are defined for the discussion of the status
+      of events.  The key words are spelled in all capitals.  Where
+      these words are used in lowercase these definitions do not
+      necessarily apply, but SHOULD be used as a guide to
+      interpretation.
+
+      Terms concerning the possibility of an event, or capacity of an
+      entity to perform an action:
+
+      * POSSIBLE, EFFECTIVE, VALID: the event is capable of occurring;
+        attempts to perform the action are successful.
+
+      * IMPOSSIBLE, INEFFECTIVE, INVALID: the event is not POSSIBLE;
+        attempts to perform the action are unsuccessful.
+
+      * EVITABLE: it is POSSIBLE for the event to not occur.
+
+      * INEVITABLE: it is not POSSIBLE for the event to not occur.
+
+      * <x> CAN <y>: it is POSSIBLE for <x> to <y>.
+
+      * <x> CANNOT <y>: it is IMPOSSIBLE for <x> to <y>.
+
+      Terms concerning obligations of an entity regarding performing
+      an action:
+
+      * MANDATORY, REQUIRED: there is an obligation to perform the
+        action.
+
+      * OPTIONAL: it is not MANDATORY to perform the action.
+
+      * PROHIBITED, ILLEGAL: it is MANDATORY to not perform the
+        action.
+
+      * PERMITTED, LEGAL: it is not MANDATORY to not perform the
+        action.
+
+      * <x> MUST <y>, <x> SHALL <y>: it is MANDATORY for <x> to <y>.
+
+      * <x> MUST NOT <y>, <x> SHALL NOT <y>, <x> MAY NOT <y>: it is
+        PROHIBITED for <x> to <y>.
+
+      * <x> MAY <y>: it is PERMITTED for <x> to <y>.
+
+      Terms concerning the wisdom of performing an action:
+
+      * RECOMMENDED, ENCOURAGED: it is specifically usually wise to
+        perform the action.
+
+      * UNRECOMMENDED, UNENCOURAGED: it is not RECOMMENDED to perform
+        the action.
+
+      * DEPRECATED, DISCOURAGED: it is RECOMMENDED to not perform the
+        action.
+
+      * UNDEPRECATED, UNDISCOURAGED: it is not RECOMMENDED to not
+        perform the action.
+
+      * <x> SHOULD <y>: it is RECOMMENDED for <x> to <y>.
+
+      * <x> SHOULD NOT <y>: it is DEPRECATED for <x> to <y>.
+
+      Possibility, requirement, and encouragement of an action are
+      neither inherently related to each other, nor inherently related
+      to the possibility, requirement, and encouragement
+      (respectively) of the contrary action.  The terminology defined
+      in this rule is used to govern each of these independently:
+      anything said about one, using these terms, carries no
+      implication regarding any of the others.
+
+      For the purposes of the terminology defined by this rule,
+      refraining from performing an action is itself an action, and
+      the non-occurrence of an event is itself an event.
+
+[Explicitly distinguishes terminology concerning the three different
+aspects of an action, and makes clear that these are governed
+separately.  All terms are now defined in antonymous pairs.]
+
+Enact a power=2 rule with title "Grammar for Logic" and text
+
+      The following terms are defined for the discussion of logical
+      relationships between situations, events, and definitions.  The
+      key words are spelled in all capitals.  Where these words are
+      used in lowercase these definitions do not necessarily apply,
+      but SHOULD be used as a guide to interpretation.
+
+      * <x> IF <y>: if <y> is true then <x> is necessarily the case;
+        says nothing about situations where <y> is false.
+
+      * <x> ONLY IF <y>: <not-x> IF <not-y>.
+
+      * <x> IFF <y>: <x> IF <y> and <x> ONLY IF <y>.
+
+      * <x> UNLESS <y>: <x> IF <not-y>.
+
+      * IF <x> THEN <y>: <y> IF <x>.
+
+[Explicitly define these terms to have their usual propositional logic
+meaning.  The original MMI attempts to define "ONLY IF", but in a
+restricted context, and isn't totally clear.]

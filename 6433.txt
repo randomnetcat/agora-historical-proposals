@@ -1,0 +1,14 @@
+ID: 6433
+Title: Win Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2186 by replacing
+      A win announcement is a correct announcement explicitly labeled
+      as a win announcement and/or clearly stating that one or more
+      persons win the game.
+with
+      A win announcement is a factually correct announcement explicitly
+      labeled as a win announcement and/or clearly stating that one or
+      more persons win the game.

@@ -1,0 +1,15 @@
+ID: 5203
+Title: Easier chromatic wins
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      z) If this rule mentions at least six different specific colors
+         for VCs, a player may spend one VC of each such color to win
+         the game.
+
+with this text:
+
+      w) A player may spend six VCs of different colors to win the game.

@@ -1,0 +1,51 @@
+ID: 4776
+Title: Agoran Contracts
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+Amend the Rule titled "Agoran Contracts" to read:
+
+      There exists a type of Contract known as Agoran Contract
+      (hereafter, "AC"). All ACs must have a title. The Regulations of
+      an AC must clearly state the area of authority of that AC, which
+      can be one of the following:
+
+        (i) An Office and Agora.
+       (ii) Any entity and Agora.
+      (iii) Any two or more entities.
+
+      An Agoran Contract may only be created, repealed or amended by a
+      Sane Proposal and becomes effective when the Proposal takes
+      effect. When an AC between an entity and Agora becomes
+      effective, all Players automatically become Members of that AC,
+      any Rule to the contrary notwithstanding.
+
+      The ADoP is required to keep track of all ACs between an Office
+      and Agora. The Registrar is required to keep track of all ACs
+      between any entity and Agora. The Justiciar is required to keep
+      track of all ACs between any two or more entities.
+
+      All Rules regulating Contracts that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
+
+
+Amend Rule 1975 by appending the following:
+
+      (f) The list of all Agoran Contracts and their Regulations
+          between an Office and Agora.
+
+
+Amend Rule 559 (The Registrar) by appending the following:
+
+      (viii) the list of all Agoran Contracts and their Regulations
+             between any entity and Agora.
+
+
+Amend Rule 910 (The Justiciar) by appending the following:
+
+      The Justiciar's Weekly Report shall include the following:
+
+      (i) The list of all Agoran Contracts and their Regulations
+          between any two or more entities.

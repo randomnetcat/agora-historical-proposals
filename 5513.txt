@@ -1,0 +1,9 @@
+ID: 5513
+Title: <none>
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2125 by adding, at the end:
+"A player MAY NOT perform a regulated action except when permitted to
+do so by an instrument with power at least 0.1".

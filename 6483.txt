@@ -1,0 +1,52 @@
+ID: 6483
+Title: Trivial Judgements 1.1
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+If any single amendment in this proposal would fail other than due to
+this sentence, then this proposal as a whole except for this sentence
+has no effect.
+
+
+Amend Rule 2225 (Interest Index of Judicial Cases) to read as follows:
+{
+      Each judicial case has an interest index, which CAN be set by
+      its initiator at the time of initiation, or otherwise defaults to
+      zero.
+
+      A player CAN, Without N Objections, increase or decrease the
+      interest index of a judicial case by 1, where N is the 4 minus the
+      interest index of that case immediately prior to that change.
+
+      A player CAN set the interest index of a disinterested judicial
+      case to 1 by announcement.
+
+      When a player recuses emself from a judicial case whose interest
+      index equals eir rank, the case's interest index is increased by 1
+      unless the recusing player announces in the same message that it
+      should not.
+}
+
+
+Amend Rule 1871 (The Standing Court) by inserting, immediately after the
+paragraph reading:
+{
+      When the CotC assigns a player as judge, that player becomes
+      sitting.
+}
+the paragraph:
+{
+      A sitting player that assigns judgement in a disinterested
+      judicial case CAN and MAY become standing by announcement in the
+      same message in which e assigns judgement to that case.
+}
+
+
+Amend Rule 2262 (The Deck of Justice) by replacing "judges a case" with
+"judges an interested case".
+
+
+Amend Rule 2199 (Ribbons) by replacing "assigns a judgement to a
+judicial question" with "assigns a judgement to a judicial question in
+an interested judicial case" in both places.

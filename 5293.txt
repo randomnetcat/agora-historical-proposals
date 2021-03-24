@@ -1,0 +1,14 @@
+ID: 5293
+Title: Public contests
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Public Contests
+
+Amend Rule 2136 by replacing:
+      (d) is published before any contestants become a party to it,
+          and
+with:
+      (d) is public, and is published before any contestants become
+          a party to it, and

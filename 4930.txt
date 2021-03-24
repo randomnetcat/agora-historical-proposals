@@ -1,0 +1,23 @@
+ID: 4930
+Title: Simple VC win
+Author: Goethe
+Co-authors: 
+Adoption index: 1.1
+
+
+Enact the following rule:
+
+   If a single player has a voting power on ordinary
+   proposals equal to or greater than the total voting
+   power on ordinary proposals of all other players
+   combined, that player wins the game upon any player
+   announcing the fact.
+
+[
+We need wins.  This is simple, uses a mechanism already
+in play.  A player getting to that point could pass a
+proposal declaring emself the winner.  Except (1) quorum and
+(2) e wouldn't want to, because e'd lose eir votes.  This
+makes em the winner, with the added strategy that you could
+push someone who wants to keep eir votes over the edge.
+]

@@ -1,0 +1,25 @@
+ID: 5685
+Title: Active Monsters
+Author: ais523
+Co-authors: 
+Adoption index: 1.7
+
+Append the following to the rule titled "The Monster":
+{{{
+      Some types of Monster include a duration known as the tariff.
+      When a Monster with a tariff is in effect, the Monster is
+      active while all of the following are true, inactive otherwise:
+
+      1) It is still in effect.
+
+      2) At least one week has elapsed since it first took effect.
+
+      3) Monsters of the same type on the same question on
+         Monsterisation have been active for a total duration less than
+         the tariff. (That is, if an active Monster is suspended and
+         later reinstated or superseded by a similar Monster, then the
+         defendant gets credit for time served prior to the
+         suspension.)
+
+      The CotC's report includes the status of all active Monsters.
+}}}

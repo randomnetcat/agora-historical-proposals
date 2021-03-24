@@ -1,0 +1,38 @@
+ID: 5453
+Title: Proposals are a unique exception
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 208 (Resolving Agoran decisions) by replacing this text:
+
+      Each Agoran decision has exactly one vote collector.
+
+with this text:
+
+      Each Agoran decision has exactly one vote collector, defaulting
+      to the initiator of the decision.  If the vote collector is
+      defined by reference to a position (or, in the default case, if
+      the initiator was so defined), then the vote collector is the
+      current holder of that position.
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the adoption index is the adoption index of
+      the proposal.
+
+with this text:
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the adoption index is the adoption index of
+      the proposal, and the vote collector is the Assessor.
+
+Amend Rule 2137 (The Assessor) by removing this text:
+
+      The Assessor is the default vote collector for all Agoran
+      decisions that do not specify a different vote collector.
+
+Amend Rule 2154 (Replacing Officers) by removing this text:
+
+      , and the vote collector is the IADoP

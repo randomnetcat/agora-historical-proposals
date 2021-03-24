@@ -1,0 +1,24 @@
+ID: 5639
+Title: Refactor clarity
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by replacing this text:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by announcing that
+      e performs it.
+
+with this text:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      specifying the action and announcing that e performs it.
+
+Repeal Rule 2208 (Clarity of Announcements).
+
+[2208's precedence claim was really just overriding 478.  Any other
+Power=3 rule attempting to allow ambiguity is presumably doing so as
+part of a scam, in which case the scamsters can probably just increase
+the offending rule's Power to 3.1 with little added difficulty.]

@@ -1,0 +1,13 @@
+ID: 4813
+Title: How Lower Can You Go
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+   Change the rule entitled "Hard Ruleset Limits" to read:
+
+      If there are 250 or more Rules, and a Proposal is adopted that
+      would increase the total number of Rules, the Proposer commits
+      the Class 2 Infraction of Improper Rules Fattening, reportable
+      by anyone.

@@ -1,0 +1,20 @@
+ID: 5982
+Title: Win by Junta
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule titled "Win by Junta" with Power 2 and this text:
+
+     When a rule comes to state that one or more persons CAN cause it
+     to make arbitrary rule changes by announcement, all those persons
+     satisfy the Winning Condition of Dictatorship.
+
+     Cleanup procedure:  Those persons SHALL as soon as possible amend
+     the rule so that it no longer states this, and SHOULD amend the
+     rules to prevent this condition from being achieved again in
+     essentially the same way.
+
+[If the triggering rule has Power >= 2, then the dictator(s) can
+ effectively ignore the SHALL by creating a rule that takes precedence
+ over it, but this is considered bad form.]

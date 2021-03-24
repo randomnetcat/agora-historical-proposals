@@ -1,0 +1,12 @@
+ID: 5733
+Title: Bad Proposal
+Author: tusho
+Co-authors: 
+Adoption index: 1.0
+
+Add a rule titled "Bad Rule" (Power=1):
+{
+Any person can Bayes by announcement, causing them to be Bad.
+
+Bad people SHOULD be killed.
+}

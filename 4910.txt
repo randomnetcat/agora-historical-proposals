@@ -1,0 +1,8 @@
+ID: 4910
+Title: Initialize Activity
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Upon the adoption of this proposal, all players become active.

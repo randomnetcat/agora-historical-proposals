@@ -1,0 +1,17 @@
+ID: 6414
+Title: Fix Veto
+Author: C-walker
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 106 (Adopting Proposals), replace:
+
+      For this decision, the adoption index is the adoption index of
+      the proposal, and the vote collector is the Assessor.
+
+with:
+
+      The adoption index of this decision is set to the adoption index
+of the proposal at the initiation of the decision. Changing the
+adoption index of the decision is secured with a power threshold of 2.
+The vote collector for this decision is the Assessor.

@@ -1,0 +1,14 @@
+ID: 5578
+Title: Easier cleanup of one-off pledges
+Author: Murphy
+Co-authors: comex
+Adoption index: 1.5
+
+comex is a co-author of this proposal.
+
+Amend Rule 2191 (Pledges) by appending this text:
+
+      If a pledge does not impose any ongoing or unsatisfied obligations
+      on its current parties, and will not do so in the future in its
+      current form, then any person CAN terminate it by announcing that
+      it is obsolete.

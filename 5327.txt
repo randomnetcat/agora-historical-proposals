@@ -1,0 +1,17 @@
+ID: 5327
+Title: Allow empty contests
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1742 (Contracts) by replacing this text:
+
+                                                            A contract
+      automatically terminates if the number of parties to it falls
+      below two.
+
+with this text:
+
+                                                            A contract
+      automatically terminates if the number of parties to it falls
+      below two (or, for contests, one).

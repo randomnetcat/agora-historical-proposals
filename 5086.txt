@@ -1,0 +1,603 @@
+ID: 5086
+Title: judicial reform
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Whereas Agora has since 1996 laboured under an unnecessarily complex,
+unclear, poorly-specified, bug-ridden judicial system, and wishes to
+replace this with a system designed in the light of the greater
+understanding of nomic that has been achieved in the past ten years,
+taking advantage of the innovations made in the Agoran ruleset, and
+conforming to the present taste for a shorter ruleset with simpler
+mechanisms, it is the will of Agora that the judicial system set out
+below be adopted.
+
+[--------------------------]
+[Part I: new judicial rules]
+[--------------------------]
+
+Retitle rule 991 to "Judicial Cases Generally", leave its power
+unchanged at 2, and amend it to read
+
+      A judicial case, also known as a call for judgement (CFJ), is a
+      procedure to settle a matter of controversy.  There are
+      subclasses of judicial case with particular features defined by
+      other rules.  Subclasses of judicial case exist only as defined
+      by the rules.
+
+      The Clerk of the Courts (CotC) is an office, responsible for
+      managing judicial activity.  The CotC's report includes the
+      status of all judicial cases that either require a judge or have
+      at least one applicable judicial question that has no judgement.
+
+Retitle rule 1868 to "Judge Assignment Generally", change its power to
+2, and amend it to read
+
+      At any time, a judicial case either has no judge assigned to it
+      (default) or has exactly one entity assigned to it as judge;
+      this is a persistent status that changes only according to the
+      rules.  To recuse a judge from a case means to deassign em as
+      judge.  To assign a judge to a case implicitly recuses any
+      existing judge.
+
+      At any time, a judicial case either does not require a judge
+      (default) or requires a judge; this is not a persistent status,
+      but is evaluated instantaneously.
+
+      When a judicial case requires a judge and has no judge assigned,
+      the CotC CAN assign a qualified entity to be its judge by
+      announcement.  Whenever this situation arises the CotC SHALL
+      make such an assignment as soon as possible.
+
+      Except where modified by other rules, the entities qualified to
+      be assigned as judge of a judicial case are the active
+      first-class players.  Being unqualified to be assigned as a
+      judge does not inherently prevent an entity from continuing to
+      be judge if already assigned.
+
+Leave rule 1871's title unchanged at "The Standing Court", change its
+power to 1.5, and amend it to read
+
+      Each player is either standing, sitting, or supine; this status
+      is known as eir posture.  The CotC's report includes each
+      player's posture.  When an entity becomes a player, e is
+      initially supine.  A player CAN change emself from sitting to
+      supine, or from supine to sitting, by announcement.
+
+      A supine player is unqualified to be assigned as judge of any
+      judicial case.  The CotC SHALL NOT assign a sitting player to be
+      the judge of any judicial case.  If the CotC has assigned a
+      sitting player as judge, and that player is still the judge of
+      that case, the CotC CAN recuse that judge from that case by
+      announcement.
+
+      When the CotC assigns a standing player as judge of a judicial
+      case, the player becomes sitting, except in the situation
+      discussed in the next sentence.  If the CotC assigns a standing
+      player as judge of more than one judicial case consecutively in
+      the same announcement, and states in the announcement that these
+      are linked assignments, the player becomes sitting upon the last
+      of these assignments, but not any of the earlier ones.  The CotC
+      SHOULD NOT perform linked assignments unless the cases being
+      linked are closely related in their subject matter.
+
+      The CotC CAN change all sitting players to standing by
+      announcement.  The CotC SHALL NOT do this unless there is a
+      judicial case to which e is obliged to assign a judge, all
+      entities qualified to be so assigned are sitting players, and e
+      immediately afterwards (in the same announcement) assigns a
+      judge to that case.
+
+Enact a rule with title "Judicial Panels", power 1.7, and text
+
+      A judicial panel is a structure whereby a group of two or more
+      persons (its members) act together for the purpose of judging
+      judicial cases.  A judicial panel's membership cannot change,
+      and if two panels have the same membership then they are the
+      same panel.  Judicial panels exist implicitly, without any
+      specific act of formation.
+
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous agreement of the panel's members.  By this
+      mechanism a judicial panel can act, in situations where the
+      rules state that an action is performed by sending a message.  A
+      judicial panel can incur obligations.  The members of a panel
+      SHALL act collectively to ensure that the panel satisfies all of
+      its obligations.
+
+Enact a rule with title "Judicial Questions", power 2, and text
+
+      Within a judicial case, one or more judicial questions may
+      arise.  Each judicial question is either inapplicable (default)
+      or applicable; this is not a persistent status but is evaluated
+      instantaneously.  Each judicial question either is open
+      (default), suspended, or has a particular judgement; this is a
+      persistent status that changes only according to the rules.  The
+      possible types of judgement for a judicial question vary
+      according to the type of question.
+
+      When a judicial case has an applicable open judicial question,
+      it requires a judge, and its judge CAN assign a valid judgement
+      to that question by announcement.  Whenever there is a judge
+      assigned to a judicial case with an applicable open question,
+      the judge SHALL assign such a judgement to the question as soon
+      as possible.
+
+      Whenever a judicial case has a judicial question that has
+      remained applicable and open, while the same judge has been
+      assigned to the case, continuously for the past week, the CotC
+      CAN recuse that judge by announcement.  Whenever a judicial case
+      has a judicial question that has remained applicable and open,
+      while the same judge has been assigned to the case, continuously
+      for the past two weeks, the CotC SHALL so recuse the judge as
+      soon as possible.
+
+      Among the possible judgements of a judicial question, some
+      subset of them are appropriate.  Judgements are appropriate only
+      where so defined by the rules.  A judge SHALL NOT assign an
+      inappropriate judgement.  Where more than one appropriate
+      judgement is available, the choice between them is at the
+      judge's discretion.
+
+Retitle rule 591 to "Inquiry Cases", change its power to 1.7, and
+amend it to read
+
+      There is a subclass of judicial case known as an inquiry case.
+      An inquiry case's purpose is to determine the veracity of a
+      particular statement.  An inquiry case CAN be initiated by any
+      person, by announcement which includes the statement to be
+      inquired into.
+
+      The initiator is unqualified to be assigned as judge of the
+      case, and in the initiating announcement e CAN disqualify one
+      person from assignment as judge of the case.
+
+      An inquiry case has a judicial question on veracity, which is
+      always applicable.  The valid judgements for this question are:
+
+      * FALSE, appropriate if the statement was factually and
+        logically false at the time the inquiry case was initiated
+
+      * TRUE, appropriate if the statement was factually and logically
+        true at the time the inquiry case was initiated
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable, nonsensical, too vague, or otherwise not capable
+        of being accurately described as either false or true, at the
+        time the inquiry case was initiated
+
+      * IRRELEVANT, appropriate if the veracity of the statement at
+        the time the inquiry case was initiated is not relevant to the
+        game
+
+      * UNDETERMINED, appropriate if the information available to the
+        judge is insufficient to determine which of the FALSE, TRUE,
+        and UNDECIDABLE judgements is appropriate; however,
+        uncertainty as to how to interpret or apply the rules cannot
+        constitute insufficiency of information for this purpose
+
+      The judgement of the question in an inquiry case SHOULD guide
+      future play, including future judgements, but does not directly
+      affect the veracity of the statement.  The rulekeepor is
+      ENCOURAGED to annotate rules to draw attention to relevant
+      inquiry case judgements.
+
+Retitle rule 1504 to "Criminal Cases", change its power to 1.7, and
+amend it to read
+
+      There is a subclass of judicial case known as a criminal case.
+      A criminal case's purpose is to determine the culpability of a
+      particular person, known as the defendant, for an alleged breach
+      of the rules, and to punish the guilty.  A criminal case CAN be
+      initiated by any player, by announcement which clearly
+      identifies the defendant and specifies the action (which may be
+      a failure to perform another action) by which the defendant
+      allegedly breached the rules.
+
+      The initiation of a criminal case begins its pre-trial phase.
+      During the pre-trial phase, the case requires a judge.  In the
+      pre-trial phase the judge SHALL as soon as possible inform the
+      defendant of the case and invite em to rebut the argument for
+      eir guilt.  The pre-trial phase ends one week after the
+      defendant has been so informed.
+
+      The initiator and defendant are each unqualified to be assigned
+      as judge of the case.  During the pre-trial phase, the defendant
+      CAN disqualify one person from assignment as judge of the case,
+      by announcement.  If e disqualifies the judge, then the judge is
+      recused.
+
+      A criminal case has a judicial question on culpability, which is
+      applicable at all times following the pre-trial phase.  The
+      valid judgements for this question are:
+
+      * ALREADY TRIED, appropriate if judgement has already been
+        reached in another criminal case with the same defendant and
+        substantially the same alleged act
+
+      * UNIMPUGNED, appropriate if the alleged act was not proscribed
+        by the rules at the time it allegedly occurred
+
+      * INNOCENT, appropriate if the defendant did not perform the
+        alleged act
+
+      * SLIPPERY, appropriate if the information available to the
+        judge is insufficient to determine beyond a reasonable doubt
+        whether or not the defendant performed the alleged act
+
+      * EXCUSED, appropriate if the defendant has good reason why e
+        could not avoid breaching the rules in a manner at least as
+        serious as alleged
+
+      * GUILTY, appropriate if none of the above judgements is
+        appropriate
+
+      A criminal case has a judicial question on sentencing, which is
+      applicable if the question on culpability is applicable and has
+      a judgement of GUILTY.  If a criminal case has an applicable
+      question on sentencing which has a judgement, the defendant is
+      hereafter known as the ninny, the judgement in the question on
+      sentencing is known as the sentence, and the sentence is in
+      effect.
+
+      Some types of sentence include a duration known as the tariff.
+      When a sentence with a tariff is in effect, the sentence is
+      thereafter either active or not.  The sentence is inactive for
+      the first week after it first takes effect.  Thereafter, the
+      sentence is active if and only if it is still in effect and
+      sentences of the same type on the same question on sentencing
+      have been active for a total duration less than the tariff.  The
+      CotC's report includes the status of all active judgements.
+
+      The valid sentences are:
+
+      * DISCHARGE, appropriate only in extraordinary circumstances, if
+        any available non-null punishment would be manifestly unjust.
+        Has no effect.
+
+      * APOLOGY with a set of up to ten words (the prescribed words),
+        appropriate for rule breaches of small consequence.  When in
+        effect, the ninny SHALL within 72 hours publish a formal
+        apology of at least 200 words, including all the prescribed
+        words, explaining eir error, shame, remorse, and ardent desire
+        for self-improvement.  The ninny is only obliged to publish
+        one apology per question on sentencing, even if sentences of
+        this type are assigned more than once or go into effect more
+        than once.
+
+      * CHOKEY with a duration (the tariff) up to 60 days multiplied
+        by the power of the highest-power rule allegedly broken,
+        appropriate if the severity of the rule breach is reasonably
+        correlated with the length of the tariff, the middle of the
+        tariff range being appropriate for rule breaches of
+        intermediate severity.  While a sentence of this type is
+        active, the ninny is in the chokey.  No entity is in the
+        chokey except as required by this rule.
+
+      * EXILE with a duration (the tariff) up to 60 days multiplied by
+        the power of the highest-power rule allegedly broken,
+        appropriate if the severity of the rule breach is reasonably
+        correlated with the length of the tariff, the middle of the
+        tariff range being appropriate for severe rule breaches
+        amounting to a breach of trust.  While a sentence of this type
+        is active, the ninny is exiled.  No entity is exiled except as
+        required by this rule.  If an exiled entity is ever a player,
+        e is deregistered.  An exiled entity CANNOT register.
+
+      An appeal concerning any assignment of judgement in a criminal
+      case within the past week, other than an assignment caused by a
+      judgement in an appeal case, CAN be initiated by the defendant
+      by announcement.
+
+Retitle rule 911 to "Appeal Cases", change its power to 1.7, and amend
+it to read
+
+      There is a subclass of judicial case known as an appeal case.
+      An appeal case's purpose is to determine the appropriateness of
+      a judgement that has been assigned to a judicial question, and
+      make remedy if the judgement was poorly chosen.  The assignment
+      of judgement being questioned (appealed against, or appealed) is
+      referred to as the prior assignment; the word "prior" in this
+      rule is used to refer to the circumstances of the prior
+      assignment.
+
+      An appeal concerning any assignment of judgement in a non-appeal
+      case within the past two weeks, other than an assignment caused
+      by a judgement in an appeal case, CAN be initiated by any player
+      with 2 support.
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of three members, where each
+      of the members is qualified to be assigned as judge of the prior
+      case and none of the members is the prior judge.
+
+      An appeal case has a judicial question on disposition, which is
+      applicable if and only if the prior question is applicable.  The
+      valid judgements for the question on disposition are:
+
+      * AFFIRM, appropriate if the prior judgement was appropriate for
+        the prior question
+
+      * REMAND, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement but the judge believes
+        that the judge of the prior case can make a better judgement
+        if given a new opportunity
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the of the prior judgement
+
+      * OVERRULE with a valid replacement judgement for the prior
+        question, appropriate if the prior judgement was inappropriate
+        in the prior question and the replacement judgement is
+        appropriate for the prior question
+
+      Initiation of an appeal case renders the prior question
+      suspended.  It remains suspended as long as the question on
+      disposition in the appeal case has no judgement.  When the
+      question on disposition has a judgement, things happen according
+      to that judgement:
+
+      * if AFFIRM, the prior judgement is assigned to the prior
+        question again
+
+      * if REMAND, the prior question is rendered open again
+
+      * if REASSIGN, the judge of the prior case (if any) is recused,
+        and the prior question is rendered open again
+
+      * if OVERRULE with a replacement judgement, the replacement
+        judgement is assigned to the prior question
+
+[----------------]
+[Part II: repeals]
+[----------------]
+
+Repeal rules
+       889 ("The Clerk of the Courts"),
+       897 ("Barring Players from Judgement"),
+      2024 ("Linked Statements"),
+      2132 ("Excess CFJs"),
+       408 ("Late Judgement"),
+      1575 ("Standards of Proof"),
+      1565 ("Dismissal of a CFJ"),
+      1826 ("Motions"),
+      1365 ("Concurring and Dissenting Opinions"),
+      1564 ("Initiating Appeals"),
+      1447 ("Final Judgement upon Appeal"),
+      1804 ("Appeal of Judicial and Sentencing Orders"),
+      1805 ("Appellate Orders"),
+      1503 ("Rules Violations"),
+       908 ("Formal Apologies"), and
+      2129 ("Dishonor Rolls").
+
+[The repeal of R1503 can only take place if it was downmutated in
+advance by P5072; if not, the text of R1503 has very little effect and
+shouldn't cause any problems.]
+
+[----------------------------------]
+[Part III: consequential amendments]
+[----------------------------------]
+
+Amend rule 869 by replacing the paragraph
+
+      Whenever a player is deregistered, e is prohibited from
+      registering for the next thirty days.
+
+with
+
+      Whenever a player deregisters, e is prohibited from registering
+      for the next thirty days.
+
+[This auto-exile is only appropriate for voluntary deregistrations.
+For exile due to criminal sentence it would create an unretractable
+minimum tariff, which would be unjust.]
+
+If the recent proposal "MMI in practice" was not adopted, amend rule
+1769 by replacing the text
+
+      nor may any Call for Judgement, Judgement, notice of Appeal,
+      Decision of Appeals Boards, or Opinion be published by the Clerk
+      of the Courts
+
+with
+
+      nor may any judge be assigned to any judicial case, nor may any
+      judge assign a judgement to any judicial question
+
+If the recent proposal "MMI in practice" was adopted, amend rule 1769
+by replacing the text
+
+      the Clerk of the Courts SHALL NOT publish any Call for
+      Judgement, Judgement, notice of Appeal, Decision of Appeals
+      Boards, or Opinion
+
+with
+
+      judges SHALL NOT be assigned to any judicial case, and judges
+      SHALL NOT assign judgement to any judicial question
+
+[CotC publication isn't used for anything any more.  Judgement itself
+is the closest equivalent.  Two versions of this amendment because
+"MMI in practice" proposes to MMIify this part of rule 1769.]
+
+Amend rule 2126 by replacing the text
+
+        c) A player who submits a judgement during eir Deliberation
+           Period gains one Blue VC.
+
+with
+
+        c) A player who assigns a judgement to a judicial question
+           within the time limit when first obliged to gains one Blue
+           VC.
+
+and replacing the text
+
+        c) A player whose judgement is overturned, or who is recused
+           for failing to judge within eir Deliberation Period, loses
+           one Blue VC.
+
+with
+
+        c) A player who is recused from a judicial case because a
+           judicial question has remained applicable, open, and
+           unjudged loses one Blue VC.  A player who is the prior
+           judge in an appeal case where a judgement other than AFFIRM
+           is assigned to the question on disposition loses one Blue
+           VC.
+
+[Update to match the new internal concepts and terminology.  This
+amendment can only take place if R2126 was downmutated and amended in
+advance by the proposal "Three-Tone Economics"; if not, the meaning of
+the old terminology in terms of the new system is reasonably apparent
+anyway.]
+
+Amend rule 1794 by deleting the items labelled "(b)" and "(c)" and
+then changing the item label "(d)" to "(b)".
+
+[The new judicial system doesn't use orders.]
+
+Retitle rule 217 to "Interpreting the Rules", leave its power
+unchanged at 2, and amend it to read
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence.  Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense,
+      past judgements, and consideration of the best interests of the
+      game.
+
+[This rule used to apply itself only to judgements, but actually this
+part is applicable even when judgement is not invoked.  This amendment
+can only take place if R217 was downmutated in advance by P5071; if
+not, the unchanged text of R217 is still appropriate.]
+
+Retitle rule 1742 to "Contracts", change its power to 1.5, and amend
+it to read
+
+      Any group of two or more persons may make an agreement among
+      themselves with the intention that it be binding upon them and
+      be governed by the rules.  Such an agreement is known as a
+      contract.  A contract may be modified, including changing the
+      set of parties, by agreement between all parties.  A contract
+      may also terminate by agreement between all parties.  A contract
+      automatically terminates if the number of parties to it falls
+      below two.
+
+      Parties to a contract governed by the rules SHALL act in
+      accordance with that contract.  This obligation is not impaired
+      by contradiction between the contract and any other contract, or
+      between the contract and the rules.
+
+[Dropping the attempt at civil enforcement of contracts, because it
+can't really work.  We don't have appropriate remedies to do equity
+law (it requires a valuable commodity, i.e., money).  Turning the
+agreement into an obligation of the rules makes breach of contract
+subject to the criminal law.  Contract clauses can always specify
+remedies if there are appropriate ones in a particular case, and those
+can be applied via inquiry CFJs, with the criminal law as a backup if
+the respondent reneges on eir remedy obligations.  Ultimately the
+criminal law is always required to back up a specific-performance
+remedy, of course.]
+
+[--------------------------------]
+[Part IV: transitional provisions]
+[--------------------------------]
+
+Revoke all patent titles of "In the Chokey", "Fugitive", and "Fugitive
+from Justice".
+
+[Punishments no longer use patent titles.]
+
+CFJs that existed before the adoption of this proposal shall generally
+continue to exist.  Their continuity across the amendments made by
+this proposal shall be governed by these provisions:
+
+* "Pre-reform" refers to the state in which the rules and other game
+  entities were immediately before the adoption of this proposal.
+
+* "Post-reform" refers to the state in which the rules and other game
+  entities will be immediately after this proposal has completed
+  taking effect.
+
+* Each pre-reform CFJ continues to exist as a post-reform inquiry
+  case.
+
+* Each pre-reform CFJ with a judge assigned has the same judge
+  assigned in its post-reform form.
+
+* Each pre-reform CFJ with no judge assigned has no judge assigned in
+  its post-reform form.
+
+* For each pre-reform CFJ with an unappealed judgement, the
+  post-reform inquiry case has a judgement assigned to its question on
+  veracity, according to this translation:
+
+  + Pre-reform FALSE judgement corresponds to post-reform FALSE.
+
+  + Pre-reform TRUE judgement corresponds to post-reform TRUE.
+
+  + Any other pre-reform judgement corresponds to post-reform
+    UNDETERMINED.
+
+* For each pre-reform CFJ which is dismissed (and not subsequently
+  reopened) without judgement, the post-reform inquiry case has a
+  judgement of UNDETERMINED assigned to its question on veracity.
+
+* For each pre-reform CFJ with an incomplete appeal of judgement, the
+  post-reform inquiry case has its question on veracity suspended.
+
+* For each pre-reform CFJ neither with an unappealed judgement, nor
+  dismissed (and not subsequently reopened) without judgement, nor
+  with an incomplete appeal of judgement, the post-reform inquiry case
+  has its question on veracity open.
+
+* Each pre-reform appeal of anything other than a judgement is a
+  detail of the CFJ (post-reform inquiry case) to which it is
+  attached, and does not continue to exist as a distinct post-reform
+  entity.
+
+* Each pre-reform appeal of a judgement continues to exist as a
+  post-reform appeal case regarding the assignment of that judgement
+  to the question on veracity in the inquiry case.
+
+* Each pre-reform appeal of a judgement to which exactly three
+  appellate judges are assigned has in its post-reform form a judicial
+  panel assigned as judge, the members of which are the pre-reform
+  appellate judges.
+
+* Each pre-reform appeal of a judgement that does not have exactly
+  three appellate judges assigned has in its post-reform form no judge
+  assigned.
+
+* For each pre-reform appeal of a judgement in which all three
+  appellate judges have rendered judgement, the post-reform appeal
+  case has a judgement assigned to its question on disposition,
+  according to this translation:
+
+  + If the pre-reform subject of the appeal was sustained, the
+    post-reform judgement is AFFIRM.
+
+  + If the pre-reform appeal resulted in reversal of the subject of
+    the appeal, the post-reform judgement is OVERRULE with the
+    appropriate new judgement for the prior question.
+
+  + If the pre-reform appeal resulted in the overturning of the
+    original judgement and the reassigning of the subject of the
+    appeal to the same judge as it previously had, the post-reform
+    judgement is REMAND.
+
+  + Otherwise the post-reform judgement is REASSIGN.
+
+* For each pre-reform appeal of a judgement in which not all three
+  appellate judges have rendered judgement, the post-reform appeal
+  case has its question on disposition open.
+
+* Aspects of continuity not addressed by the above provisions shall be
+  governed by rule 1586.  The above provisions shall guide the
+  application of rule 1586.
+
+[Rule 1586 theoretically should achieve all of this on its own.  As
+it's a particularly radical redefinition of complex entities, explicit
+provisions seem helpful.]

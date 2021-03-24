@@ -1,0 +1,52 @@
+ID: 6615
+Title: The only winning move
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+[Actually keeps two ways to win: paradox and Medals - the latter to
+give us something to do when contests are interesting rather then watch
+the boring points tick by].
+
+Repeal Rule 2245 (Win by Not Losing)
+Rule 2199 (Ribbons)
+Rule 2223 (Win by Junta)
+Rule 2134/5 (Win by Clout)
+Rule 2188/1 (Win by Proposal)
+Repeal Rule 2187 (Win by High Score)
+Repeal Rule 2179 (Points)
+Repeal Rule 2232 (Contest Axes)
+Repeal Rule 2233 (Awarding and Revoking Points)
+Repeal Rule 2234 (Rewarding Contestmasters)
+
+Amend Rule 2260 (The Deck of Government) by deleting:
+     * Goverment Ball  - If you hold an "X Ball" card (where X is the
+                         name of a Basic Deck) for each other Basic
+                         Deck you satisfy the winning condition of
+                         Win by Lotto. Cleanup Procedure: For each
+                         other basic deck one such corresponding Ball
+                         card is destroyed.
+
+Amend Rule 2261 (The Deck of Change) by deleting:
+     * Change Ball     - If you hold an "X Ball" card (where X is the
+                         name of a Basic Deck) for each other Basic
+                         Deck you satisfy the winning condition of
+                         Win by Lotto. Cleanup Procedure: For each
+                         other basic deck one such corresponding Ball
+                         card is destroyed.
+
+Amend Rule 2262 (The Deck of Justice) by deleting:
+      * Justice Ball     - If you hold an "X Ball" card (where X is
+                           the name of a Basic Deck) for each other
+                           Basic Deck you satisfy the winning
+                           condition of Win by Lotto. Cleanup
+                           Procedure: For each other basic deck one
+                           such corresponding Ball card is destroyed.
+
+Amend Rule 2272 (Leadership Tokens) by deleting:
+       (a) A player CAN redeem 3 Leadership Tokens in eir possession
+           to satisfy the Winning Condition of Leadership.
+and by deleting:
+       (d) A player CAN redeem 1 Leadership Token in eir possession
+           to be awarded 20+20i points.
+and by relettering the remaining lettered paragraphs to (a) through (c).

@@ -1,0 +1,115 @@
+ID: 6531
+Title: Chamber
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+Replace the entire text of Rule 2156 (Voting on Ordinary Decision) with:
+
+      Chamber is a proposal switch, possessed only by proposals which
+      are in the proposal pool or have an ongoing Agoran Decision to
+      adopt them, tracked by the Promotor, with values Green
+      (default), Red and Purple. In the same message in which a player
+      submits a proposal, e CAN set its Chamber by announcement;
+      otherwise it is set to eir Title.
+
+      Title is a player switch, tracked by the Assessor, with the same
+      values and default as Chamber. A player CAN change eir Title by
+      announcement, except if e has already done so before in the same
+      month. A player with a Title of Green is a 'Green player', a
+      player with a Title of Red is a 'Red player' and so on.
+
+      Changes to Title and Chamber are secured.
+
+      Each ordinary decision is either Green, Red or Purple; this
+      defaults to the Chamber of the proposal the decision is about,
+      but CAN be changed by Rules of Power 2 or higher during the
+      voting period of the decision.
+
+      The eligible voters on an ordinary decision are the players who
+      were active at the start of its voting period. The initial
+      voting limit of a player on an ordinary decision is as follows,
+      except that it is increased by one for each Extra Vote Card the
+      player owns and decreased by one for each positive multiple of
+      two Rests the player owns:
+
+       - For a Green ordinary decision, the Green players have a base
+       voting limit of 5, the Red players have a base voting limit of
+       2 and the Purple players have a base voting limit of 1.
+
+       - For a Red ordinary decision, the Red players have a base
+       voting limit of 5, the Purple players have a base voting limit
+       of 2 and the Green players have a base voting limit of 1.
+
+       - For a Purple ordinary decision, the Purple players have a
+       base voting limit of 5, the Green players have a base voting
+       limit of 2 and the Red players have a base voting limit of 1.
+
+Replace the entire text of Rule 2211 (The Grand Poobah) with:
+
+      The Grand Poobah is an office; its holder is responsible for
+      tracking the Deck of Government.
+
+Remove the following paragraphs from Rule 2260 (The Deck of Government):
+
+      * Roll Call      - Indicate a player and an ongoing ordinary
+                         Agoran Decision with more than 24 hours
+                         remaining in its voting period. That player's
+                         voting limit on that Decision is increased by
+                         one.
+
+      * Arm-Twist      - Indicate a player and an ongoing ordinary
+                         Agoran Decision. That player's voting limit
+                         on that Decision is increased by one.
+
+      * Lobbyist       - Increase the caste of a player you name,
+                         other than yourself, by one.
+
+      * Local Election - Indicate a non-Savage player. That player's
+                         caste is decreased by one.
+
+Append the following to Rule 2260 (The Deck of Government):
+
+      * Extra Vote      - (Effect) This card affects voting limits on
+                          ordinary decisions, as described in other
+                          Rules.
+
+      * Local Election  - Indicate a player who owns an Extra Vote
+                          card. One Extra Vote Card in that player's
+                          possession is destroyed.
+
+      * Cross the Lobby - Indicate an ongoing ordinary decision and
+                          specify a Chamber value. That ordinary decision's
+                          colour is changed to the specified Chamber value.
+
+Set the Frequency of each of the Cards in the Deck of Government to
+the following:
+
+Card	        Frequency
+Extra Vote	20
+Local Election	20
+Cross the Lobby	10
+Debate-o-matic	20
+On the Nod	29
+Kill Bill	10
+No Confidence	5
+Government Ball	1
+
+In Rule 1607 (The Promotor) replace
+
+      For an Agoran decision of whether to adopt a proposal, the
+      following are essential parameters:
+
+      a) Its author (and co-authors, if any).
+      b) Its interest index.
+
+with:
+
+      For an Agoran decision of whether to adopt a proposal, the
+      following are essential parameters:
+
+      a) Its author (and co-authors, if any).
+      b) Its interest index.
+      c) Its Chamber.
+
+Destroy every Local Election Card.

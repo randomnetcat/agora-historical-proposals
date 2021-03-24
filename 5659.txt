@@ -1,0 +1,14 @@
+ID: 5659
+Title: Let recordkeepers disambiguate
+Author: Murphy
+Co-authors: woggle
+Adoption index: 3
+
+woggle is a co-author of this proposal.
+
+Amend Rule 2208 (Clarity of Announcements) to read:
+
+      An ambiguous attempt to perform an action by announcement is
+      disambiguated according to the good-faith discretion of the
+      person primarily responsible for recording the results of
+      that action (or, if there is no such person, the Speaker).

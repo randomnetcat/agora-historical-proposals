@@ -1,0 +1,15 @@
+ID: 5444
+Title: Rrrargh!
+Author: avpx
+Co-authors: 
+Adoption index: 1
+
+Append the following to rule 2193, modified from rule 1681:
+
+     There is a format of the Monsterset known as the Short Logical
+     Monsterset (SLM).  In this format, each Monster is assigned to a
+     category, and the Monsters are grouped according to their category.
+
+     Monsters are assigned to, ordered within, or moved between
+     categories, and categories are added, changed, or empty
+     categories removed, as the Monsterkeepor sees fit.

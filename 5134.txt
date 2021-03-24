@@ -1,0 +1,18 @@
+ID: 5134
+Title: Deadlock avoidance
+Author: root
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2157 by replacing the text reading:
+
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous agreement of the panel's members.
+
+with:
+
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous agreement of the panel's members, or with the
+      majority agreement of the members and the consent of the CotC.

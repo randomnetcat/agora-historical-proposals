@@ -1,0 +1,16 @@
+ID: 5038
+Title: definitions are defaults
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 754 by replacing each instance of "shall be interpreted as
+having" with "by default has" and replacing "as shall its" with "as do
+its".
+
+[Allows for local redefinition, so that (for example) Agoran law can
+interpret B Nomic's rules according to B Nomic norms, if given a
+suitable mediating document that specifies the interpretational rules
+to be used. Also rewording to Platonically specify what the meaning of
+words is, rather than Pragmatically commanding how to interpret
+documents.]

@@ -1,0 +1,12 @@
+ID: 6265
+Title: Counter-Invasion
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Create a new power-1 rule with the following text:
+{{{
+Persons SHALL NOT join Agora for the primary purpose of invading or
+waging war against it, rather than participating in it in a constructive
+manner. This is the Class-12 Crime of Treason.
+}}}

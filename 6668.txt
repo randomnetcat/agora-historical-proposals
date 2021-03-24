@@ -1,0 +1,21 @@
+ID: 6668
+Title: Legislative and judicial salaries
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2282 (Energy) by replacing section (b) with this text:
+
+        (b) For each first-class player, 4+O+P+J ergs are created in
+            eir possession, where
+
+              i) O is the sum of the interest indices of offices
+                 that e holds (0 if none),
+
+             ii) P is the maximum interest index among the proposals e
+                 authored that were adopted during the past week (0 if
+                 none), and
+
+            iii) J is the maximum interest index among the judicial
+                 cases that e judged on time during the past week (0 if
+                 none).

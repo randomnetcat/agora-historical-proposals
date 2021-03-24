@@ -1,0 +1,10 @@
+ID: 4951
+Title: protect voting limits
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 1950 by appending after the text "if not explicitly modified
+by other rules." the sentence "This voting limit cannot be modified by
+any rule with power less than the power of this rule.".

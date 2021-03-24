@@ -1,0 +1,55 @@
+ID: 5984
+Title: Party Politics
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+Create a new Power 2 rule entitled "Cliques" with the following text:
+
+    Clique leader is a public contract switch, tracked by the
+    Notary, with a default value of 'none', and a set of possible
+    values which consists of all Ministers Without Portfolio who are
+    parties to that contract.
+
+    A public contract is a clique if and only if it has a clique
+    leader other than 'none'.
+
+    The clique leader of a contract CANNOT be flipped if doing so
+    would cause any person to be a party to more than one
+    clique. Any contract change that would cause a person to be
+    party to more than one clique is IMPOSSIBLE, rules to the
+    contrary notwithstanding.
+
+    Coalition is a clique switch, tracked by the Notary, with a set
+    of possible values which consists of the set of cliques, with a
+    default value of the clique itself. A clique's coalition CAN be
+    flipped by its clique leader by announcement, subject to
+    modification by the clique's contract.
+
+    Puissance is an attribute of a clique, defined as the number of
+    first-class players who are parties to cliques with the clique
+    in question as their coalition.
+
+    The majority leader is the clique leader of the clique with the
+    greatest puissance, if any.
+
+Amend Rule 402 (Identity of the Speaker), retitling it "Choosing the
+Speaker" and replacing "The" at the start of the first paragraph with:
+
+    Any player CAN, with 2 support, install the majority leader as
+    Speaker. If there is no majority leader, any player CAN cause
+    the Speaker to cease to be Speaker by announcement.  If the
+    Speaker would otherwise be vacant, the
+
+Create a new Power 2 rule entitled "The Cabinet" with the following
+text:
+
+    Cabinetry is an elected office switch with values Cabinet and
+    Noncabinet (default), tracked by the IADoP.  If the Speaker is a
+    clique leader, e CAN flip the Cabinetry of an office by
+    announcement. When the Speaker is replaced by a new Speaker, the
+    Cabinetry of each office is flipped to Noncabinet.
+
+    Rules to the contrary notwithstanding, the Speaker's voting
+    limit in elections for Cabinet offices is three, if and only if
+    eir final vote is for a party to eir clique.

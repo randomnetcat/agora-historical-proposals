@@ -1,0 +1,13 @@
+ID: 4974
+Title: transparent partnerships
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with title "Transparent Personhood" and text:
+
+      When a non-natural person becomes a player, e is obliged to as
+      soon as possible announce the legal theory by which e is a person.
+      If e is a partnership, e is further obliged to as soon as possible
+      announce the set of eir members (the persons onto whom eir legal
+      rights and obligations fall).

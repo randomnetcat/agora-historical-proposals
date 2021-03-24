@@ -1,0 +1,25 @@
+ID: 5610
+Title: No judicial gravy
+Author: Murphy
+Co-authors: Goethe
+Adoption index: 1.7
+
+Goethe is a co-author of this proposal.
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement; the judge of the prior
+        case (if any) is recused, and the prior question is rendered
+        open again
+
+with this text:
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement, or if the prior judge
+        exhibited corruptive self-interest (material, with a specific
+        and obvious impact on eir judgement and arguments, and not
+        arising merely due to a difference of opinion or a wholly
+        incidental material benefit common among many players); the
+        judge of the prior case (if any) is recused, and the prior
+        question is rendered open again

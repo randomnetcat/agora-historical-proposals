@@ -1,0 +1,25 @@
+ID: 6375
+Title: Terms and vacancies
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+[If you want to replace someone in office before 90 days are up, you
+need more support to try - you can still do it if you have a lot of
+support, e.g. to impeach a truly bad officer.  Added vacancies as
+per Yally's suggestion].
+
+ Amend R2154 (Election Procedure) by replacing:
+
+      Any player CAN, with Support, initiate an election for a
+      specified elected office for which no election is already in
+      progress.
+
+ with:
+
+      Any player CAN, by announcement, initiate an election for a
+      specified elected office that is vacant, or for which no
+      election has been initiated in the preceding 90 days.  Any
+      player CAN, with 4 Supporters, initiate an election for a
+      specified elected office for which no election is already in
+      progress.

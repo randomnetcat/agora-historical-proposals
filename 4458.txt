@@ -1,0 +1,35 @@
+ID: 4458
+Title: Fix Oligarch removal
+Author: Steve
+Co-authors: 
+Adoption index: 2
+
+Proposal
+Fix Oligarch removal
+
+AI = 2, please.
+
+Amend Rule 1963 (Eligible Oligarchs) by replacing the text in it which
+currently reads:
+
+      (a) A Player is ineligible to be an Oligarch if and only if any
+          of the following are true:
+
+          (1) e is not active;
+          (2) e has three or more Blots;
+          (3) e is the Speaker;
+          (4) e is the Electee to the Office of Speaker-Elect; or
+          (5) e is the Grand Warden of the Oligarchy.
+
+with text which reads:
+
+      (a) A Player is ineligible to be an Oligarch if and only if any
+          of the following are true:
+
+          (1) e is not active;
+          (2) e has three or more Blots;
+          (3) e is the Speaker;
+          (4) e is the Electee to the Office of Speaker-Elect;
+          (5) e is the Grand Warden of the Oligarchy; or
+          (6) e is an Oligarch, and e has defaulted on payment of eir
+              Oligarchy Upkeep since last becoming an Oligarch.

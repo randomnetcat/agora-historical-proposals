@@ -1,0 +1,50 @@
+ID: 6332
+Title: Half-rests
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2166 (Assets) by appending this text to the paragraph
+defining currencies:
+
+      If a currency's backing document defines a positive integral
+      piece count (N) for it, then each unit of it is treated as
+      N fungible pieces that CAN generally be created, destroyed,
+      and transferred to the same extent that entire units of it CAN.
+
+Amend Rule 2228 (Rests) by replacing this text:
+
+      Rests are a fixed currency.
+
+with this text:
+
+      Rests are a fixed currency with a piece count of 2.
+
+and by replacing this text:
+
+      A player CAN spend two Notes in order to destroy a Rest owned by
+      a player e specifies.
+
+with this text:
+
+      A player CAN spend one Note in order to destroy a half-Rest
+      owned by a player e specifies.
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+      Class-N Crime (where N is a positive integer)
+
+with this text:
+
+      Class-N Crime ("Infraction" is synonymous with "Class-0.5 Crime",
+      otherwise N must be a positive integer)
+
+Amend Rule 2143 (Official Reports and Duties) by appending this text:
+
+      Failing to publish a report during the required time period is
+      the Infraction of Failure to Report.
+
+Amend Rule 2158 (Judicial Questions) by appending this text:
+
+      Failure to assign valid judgement on time is the Infraction
+      of Failure to Judge.

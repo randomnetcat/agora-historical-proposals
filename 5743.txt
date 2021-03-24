@@ -1,0 +1,33 @@
+ID: 5743
+Title: forum reforum
+Author: Wooble
+Co-authors: 
+Adoption index: 3.0
+
+      In Rule 478, replace:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      specifying the action and announcing that e performs it.  Any
+      action performed by sending a message is performed at the time
+      date-stamped on that message.
+
+      with:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      specifying the action and eir identity, and announcing that e performs
+      it.  Any action performed by sending a message is performed at the
+      time that message was sent to a public forum.
+
+
+[Would require an unambiguous specification of identity so that "I am
+a current player" sent anonymously wouldn't work.  Also generalizes to
+when message was sent instead of specifying the date stamp, which
+follows current precedent (the "Date:" header is usually accepted as
+the time an action occurred unless it's clearly lying, in which case
+an appropriate Received: header is used; I believe this wording more
+accurately reflects our practice, which arguably violates the letter
+of the rule if we don't currently allow forged Date: headers to
+control timing. At best, "time date-stamped" is ambiguous since every
+message has multiple times stamped on it by various machines.)]

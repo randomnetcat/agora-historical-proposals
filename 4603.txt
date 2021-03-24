@@ -1,0 +1,29 @@
+ID: 4603
+Title: Card Theft
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2071 (Wacky Cards) by appending the text:
+
+      * Caption: Robin Hood
+        Quota: 1
+        Elements: Restricted [Immaculate Players]
+        Exploit: For a fee of 3 kudos, you may cause one card to be
+          transferred from one player other than yourself (the Rich)
+          to another player other than yourself (the Poor), provided
+          the Rich has a larger Hand Size than the Poor.
+
+      * Caption: Card Vacuum
+        Quota: 1
+        Elements: Restricted [Immaculate Players]
+        Exploit: For a fee of 2 kudos, you may cause one card in
+          the Hand of another player to be discarded.
+
+      * Caption:  Pilfer the Trash
+        Quota: 1
+        Elements: None
+        Exploit:  You may take one card of your choice from the Deck,
+          provided that a card of that Class has been discarded in the
+          past week.

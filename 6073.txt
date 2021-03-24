@@ -1,0 +1,13 @@
+ID: 6073
+Title: Regulate self-contradiction
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Create a rule titled "No Cretans Need Apply" with Power 3 and this text:
+
+     If a rule contains one or more self-contradictory chains of
+     clauses claiming precedence over and/or deference to one another,
+     then the last claim (when reading the rule from top to bottom)
+     involved in one or more such chains has no effect; this process is
+     repeated as often as needed until all such chains are broken.

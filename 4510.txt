@@ -1,0 +1,63 @@
+ID: 4510
+Title: Publicize Organizations
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1458 (The Notary) to read:
+
+
+      The Notary is an office; its holder is responsible for
+      maintaining a record of organizations and their jurisdictions.
+
+
+      The Notary's Weekly Report shall include the following 
+      information for each Organization:
+
+
+        (i)  its name;
+       (ii)  its Administrator;
+      (iii)  its Executor;
+       (iv)  its SLC's Maintainer; and
+        (v)  its Jurisdiction's Players.
+
+
+      The Notary's Monthly Report shall include the SLC of each
+      Organization.
+
+
+      Also, as soon as possible after the creation or dissolution
+      of any Organization, the Notary shall announce that fact.  If
+      an Organization is created, the Notary shall announce the
+      above information for that Organization.
+
+
+Amend Rule 1531 (Administrators of Organizations) to read:
+
+
+      Each Organization shall have an Administrator, who must be a
+      Member.  The Administrator of an Organization may only change as
+      specified by its Charter or by the Rules.
+
+
+      The Administrator is Maintainer of the Charter, unless otherwise
+      specified by its Charter or by the Rules.
+
+
+      The Administrator is Executor of the Organization, unless
+      otherwise specified by its Charter or by the Rules.
+
+
+      The Administrator shall inform the Notary of the following
+      changes as soon as possible after they occur, and identify the
+      nature of the change:
+
+
+        a) The Name changes.
+        b) The Administrator changes.
+        c) The Executor changes.
+        d) The Maintainer of the Charter changes.
+        e) The jurisdiction of the Charter changes.
+        f) The Organization voluntarily dissolves.
+        g) The Charter changes.

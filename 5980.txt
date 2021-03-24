@@ -1,0 +1,25 @@
+ID: 5980
+Title: Reign in the Aristocracy
+Author: Elysion
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2156 (Voting on Ordinary Decisions) by replacing the text reading:
+
+       Alpha   - 8
+       Beta    - 5
+
+with:
+
+       Alpha   - 5
+       Beta    - 4
+
+If a rule entitled "Maximum Voting Limits" exists, then replace the text reading:
+
+     The maximum voting limit for any entity on an ordinary decision
+     is 8.
+
+with:
+
+     The maximum voting limit for any entity on an ordinary decision
+     is 5.

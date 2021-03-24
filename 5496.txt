@@ -1,0 +1,18 @@
+ID: 5496
+Title: Remove the one-two punch
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2166 (Assets) by replacing each instance of "Bank" with
+"Lost and Found Department", and by replacing this text:
+
+                          and is destroyed if it is owned by an entity
+      outside that class.
+
+with this text:
+
+                          and is destroyed if it is owned by an entity
+      outside that class (except for the Lost and Found Department, in
+      which case any player CAN transfer or destroy it without
+      objection).

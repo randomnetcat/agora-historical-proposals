@@ -1,0 +1,16 @@
+ID: 5437
+Title: Patent Standards
+Author: Goethe
+Co-authors: 
+Adoption index: 1.5
+
+Patent Standards
+
+Raise the Power of Rule 649 to 1.5 and append the following
+sentence to the second paragraph:
+
+    Awarding or revoking a Patent Title by Proposal is a secured
+    change.
+
+Delete the following text from Rule 1367:
+    The awarding of a degree is a secured change

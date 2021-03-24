@@ -1,0 +1,45 @@
+ID: 6505
+Title: Sensible Salary Switch
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2258 (Decks, Draws, and Salaries) to read:
+      Any deck of cards defined by this rule is known as a Basic Deck.
+      Each first-class player has four fungible Salary switches tracked
+      by the Accountor. The possible values of a Salary switch are the
+      defined basic decks.
+
+      The default value of a Salary switch is Change if its owner has at
+      most one other Salary switch set to Change, or otherwise Justice
+      if its owner has no other Salary switch set to Justice, or
+      otherwise Government.
+
+      A player CAN change the value of any of eir own Salary switches by
+      announcement.
+
+      At the beginning of each month, each first-class player earns a
+      number of draws from each Basic Deck equal to the number of
+      eir Salary switches that were flipped to that deck at the
+      beginning of the month.  As soon as possible after the beginning
+      of each month, the Accountor SHALL publish the state of each
+      first-class player's Salary switches as they were at the beginning
+      of the month.
+
+      Office Salary is a switch for each office tracked by the
+      Accountor, with possible values being the names of each basic
+      deck (default Government).  The holder of each OFFICE CAN change
+      that office's salary by announcement.  At the beginning of each
+      week, each holder of an office earns a number of draws from the
+      deck indicated by the switch equal to the interest index for
+      that office.
+
+      When a first-class player registers, e earns two draws from each
+      basic deck.
+
+      The Deck of Government is a deck of cards tracked by the Grand
+      Poobah.
+
+      The Deck of Justice is a deck of cards tracked by the Insulator.
+
+      The Deck of Change is a deck of cards tracked by the Anarchist.

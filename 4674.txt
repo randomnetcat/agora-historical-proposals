@@ -1,0 +1,22 @@
+ID: 4674
+Title: Fix Card Fees
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend R2069 by replacing the text:
+          A Gambler may Draw from The Deck for a Fee equal to the
+          number of times that Gambler has previously Drawn from the
+          Deck during the current month so long as the Gambler's Hand
+          Size is smaller than the Maximum Hand Size plus the number
+          of Offices e holds.  For the purposes of this Rule, the
+          Speakership is considered an office.
+
+With:
+      A Gambler whose Hand Size is smaller than the maximum Hand Size,
+      plus the number of Offices e holds, plus one if e is Speaker, may
+      draw a card from The Deck.  The fee for this action is a number of
+
+      Kudos equal to the number of times during the current month e has
+      previously drawn a card in this manner.

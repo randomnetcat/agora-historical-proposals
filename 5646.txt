@@ -1,0 +1,12 @@
+ID: 5646
+Title: Making 2125(e) actually do something
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Replace paragraph (e) of rule 2125 with the following:
+{{{
+      e) It would, as part of its effect, modify information which the
+         rules specify is part of an officer's report. Such an action
+         CANNOT modify that information except as allowed by the rules.
+}}}

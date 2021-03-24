@@ -1,0 +1,25 @@
+ID: 4729
+Title: More Chaos part 1
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Append the following to Rule 2079
+
+      Caption: Chaos Reborn
+      Quota:   1
+      Elements: Handed[2], Kallisti!
+      Exploit: If Chaos Apple has been Played in the current
+               quarter, then, you may play Chaos Apple within
+               five minutes of playing this card as if Chaos Apple
+               did not have the words "If this card has not been 
+               Played in the current quarter" in its exploit.
+
+Replace the following from Rule 2079
+
+      The following card is defined:
+
+with
+
+      The following classes of cards are defined:

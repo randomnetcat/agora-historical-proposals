@@ -1,0 +1,29 @@
+ID: 6067
+Title: Notary wiki
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2178 (Public Contracts) by replacing:
+     Changes in the text or list of parties of a public contract do
+     not become effective until they are published.
+
+with:
+     A wiki is a website which can be reasonably accessed and
+     modified by all players.  The Notary wiki is the wiki designated
+     as such by the Notary; the Notary SHALL continuously designate
+     an operational wiki for this purpose.  Contract Changes to
+     public contracts do not become effective until the Notary wiki
+     is updated to reflect them, rules to the contrary
+     notwithstanding.
+
+[We can't seem to find a Notary who won't let the wiki get out of date
+(as it is now), and why should we?  The situation is perfectly suited
+for a wiki.  With this proposal, unposted changes platonically do not
+occur, so the wiki is always right and parties will presumably update
+it themselves.  If the Notary wiki is unoperational (it's on wikidot,
+so I doubt this will happen for significant periods of time except
+through malice), Contract Changes cannot occur, but a replacement can
+be easily designated (through deputisation if necessary).  Note that
+if this proposal passes, the wiki will need to be made publicly
+editable.]

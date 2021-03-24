@@ -1,0 +1,9 @@
+ID: 6112
+Title: Shorten the criminal horizon
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 by replacing "200 days" with "90 days".
+If Proposal 6104 passed, amend the rule it created by replacing "200
+days" with "90 days".

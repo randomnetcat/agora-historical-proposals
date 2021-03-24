@@ -1,0 +1,42 @@
+ID: 6402
+Title: Regulating Act-on-Behalf
+Author: woggle
+Co-authors: 
+Adoption index: 3.0
+
+Enact a new Power-3 rule titled "Acting on Behalf" with the
+following text:
+
+    Acting on behalf of (syn. send messages on behalf of) a
+    person (the grantor) with a specified message is equivalent
+    to sending a public message authored by the grantor.
+
+    Acting on behalf of a person is secured, with power
+    threshold 3 for first-class grantors and power threshold 2
+    for second-class grantors.
+
+    Rules to the contrary notwithstanding, acting on behalf of a
+    person is INVALID if not published. Such publication is
+    INVALID unless it specified the text of the simulated message by:
+    (a) clearly stating the text of a message;
+    (b) clearly specifying an action (the message states the
+        grantor performs the action); or
+    (c) performing by announcement an action defined in a public
+        contract's text to (clearly and unambiguously) include
+        causing the grantor to perform a specific action (the message
+        states the grantor performs the action)
+
+Enact a new Power-3 rule titled "Permission to Act on Behalf"
+with the following text:
+
+    A person CAN act on behalf of a partnership (if it is a
+    person) as unambiguously permitted by that partnership's
+    text.
+
+    A person CAN act on behalf of another person when unambiguously
+    permitted by a public contract to which the grantor is a
+    party.
+
+    If permitted by rules with power at least 1.7, a judge in an
+    equity or criminal case CAN act on behalf of a party or
+    defendant without not more than 5 objections.

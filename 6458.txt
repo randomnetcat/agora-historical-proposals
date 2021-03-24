@@ -1,0 +1,13 @@
+ID: 6458
+Title: Frequency Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2257 (Dealing Cards) by:
+  - Replacing each instance of "frequency" with "Frequency"
+  - Replacing "The frequency of each card type is Secured, and CAN be
+changed" with "Changing the frequency of each card type is secured, and
+the frequency of a card type in a given Deck CAN be changed"
+  - Replacing each instance of "deck" with "Deck"
+  - Replacing each instance of "dealer" with "Dealer"

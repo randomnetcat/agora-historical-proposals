@@ -1,0 +1,18 @@
+ID: 5387
+Title: Expedited equity
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2169 (Equity Cases) by replacing this text:
+
+      When an applicable question on equation in an equity case has a
+      judgement, and has had that judgement continuously for the past
+      week,
+
+with this text:
+
+      When an applicable question on equation in an equity case has a
+      judgement, and has had that judgement continuously for the past
+      week (or all parties to the contract have approved that
+      judgement),

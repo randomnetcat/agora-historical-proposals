@@ -1,0 +1,30 @@
+ID: 4840
+Title: Some fixup
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal:  some fixup
+
+Amend Rule 1677 by replacing:
+
+      As soon as possible after the beginning of a player's Grace
+      Period, the Registrar shall announce eir arrival.  This
+      announcement shall have the effect of setting that player's
+      kudos to twice the Tabla Rasa.
+
+      If a player joins the game, but is neither subject to a Grace
+      Period nor has been a player at any time since the last Turning
+      of a New Parchment, then the Herald shall set eir kudos to half
+      the Tabla Rasa (rounded up).
+
+with:
+
+      As soon as possible after the beginning of a player's Grace
+      Period, the Registrar shall announce eir arrival.  This
+      announcement grants the player three free pending draws.
+
+
+Amend Rule 2019 by replacing the phrase 'Assessor shall a copy'
+with the phrase 'Assessor shall place a copy'.

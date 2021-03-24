@@ -1,0 +1,16 @@
+ID: 5947
+Title: Balance of Power
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+Change the power of:
+  Rule 2215 (Truthfulness) from 2 to 1;
+  Rule 2210 (Win by Paradox) from 3 to 2;
+  Rule 2130 (Activity) from 1 to 2;
+  Rule 2161 (ID Numbers) from 2 to 1;
+  Rule 1728 (Dependent Actions) from 2 to 3;
+  Rule 1607 (The Promotor) from 1 to 2;
+  Rule 1367 (Degrees) from 1.5 to 1;
+  Rule 103  (Role of the Speaker) from 3 to 1;
+  Rule 2148 (The Ambassador) from 2 to 1.

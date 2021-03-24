@@ -1,0 +1,30 @@
+ID: 6642
+Title: Reduce the Recordkeepors' Burden
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+{{{
+Enact a new rule at power 2, entitled {Conditional Actions} with the
+following text:
+{{
+     An action that would otherwise be performed by announcement is
+     performed conditionally when, in a public message, the performer
+     announces that e will perform an action if a certain condition is
+     met. The action is said to be performed conditionally on that
+     condition; it is a conditional action.
+
+     Actions SHOULD NOT be performed conditionally except to reduce
+     ambiguity in the game state (e.g. to repeat an action that may
+     or may not have failed).
+}}
+
+Amend Rule 2283 (Fees) by appending the following text:
+{{
+     Players SHALL NOT perform fee-based actions conditionally. Doing
+     so is the Class-4 Crime of Increasing Uncertainty.
+}}
+[It's made a class-4 so that players are encouraged to prefer
+performing actions unconditionally but incorrectly over
+conditionally.]
+}}}

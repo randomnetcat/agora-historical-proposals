@@ -1,0 +1,24 @@
+ID: 6486
+Title: Audit Cleanup
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+[NOTE: This proposal fixes three loopholes with audits:
+ 1. It prevents performing multiple audits with one Penalty Box card
+ 2. It discourages temporarily transferring your cards away to bypass an audit
+ 3. It discourages announcing blanket intents to audit without
+following through]
+
+Append to R2259:
+{{
+Transferring one or more cards to another entity with the intention of
+that having that entity transfer those cards back to you for the
+purposes of avoiding penalty from an audit is the class 6 crime of
+Laundering. Announcing intent to audit a player with notice and then
+failing to audit them within that alloted time is the class 1 crime of
+Badgering.
+}}
+
+In R2262 under the effect of the card "Penalty Box" after the first
+CAN insert the word "once".

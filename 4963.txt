@@ -1,0 +1,38 @@
+ID: 4963
+Title: mostly-random judicial assignments
+Author: Zefram
+Co-authors: 
+Adoption index: 1.1
+
+
+Change the Power of rule 2126 to 2.
+
+}}}
+
+I hereby submit the following proposal, titled "mostly-random judicial
+assignments", and set its AI to 1.1:
+
+{{{
+
+Enact a rule titled "Policy on Judicial Assignments" with text:
+
+      When the Clerk of the Courts must choose a Trial Judge, e
+      shall choose randomly.  The Clerk of the Courts may, without
+      objection, replace this requirement with some other means of
+      choice for a particular CFJ.
+
+      This rule does not affect which entities are eligible to judge
+      a particular CFJ.  This rule takes precedence over other rules
+      governing the selection between eligible entities for Trial
+      Judge.
+
+      The Clerk of the Courts can cause this rule to repeal itself,
+      without 4 objections.
+
+[This formalises Goethe's announced policy.  The second sentence allows
+for exceptions, such as I have advocated for particularly tricky CFJs,
+by general consent; this arrangement is flexible enough to allow a
+completely non-random choice or a random choice among a shortlist.
+The final paragraph provides an abbreviated procedure to end the policy,
+when no longer thought necessary; 4 objections is what the would-be
+Oligarchs can trivially muster.]

@@ -1,0 +1,8 @@
+ID: 5591
+Title: Activate the PRS
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Upon the adoption of this proposal the contestmaster of the contract
+known as the Points Relay Service is flipped to BobTHJ

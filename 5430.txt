@@ -1,0 +1,17 @@
+ID: 5430
+Title: Minister Fix
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Minster Fix
+
+Amend Rule 402 by replacing:
+      The Herald's report includes the date on which each Minister
+      Without Portfolio most recently won the game.
+with:
+      The Herald's report includes the date on which each Minister
+      Without Portfolio most recently was awarded the title.
+
+[e.g. pikhq was awarded the title by proposal, but never won
+      the game].

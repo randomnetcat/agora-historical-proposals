@@ -1,0 +1,33 @@
+ID: 6627
+Title: Sudden Death
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+[A bonus temporary win condition that only two people should ever
+be able to achieve.  Start your engines!]
+
+Create the following rule, Sudden Death.
+
+     The next player who wins the game by Renaissance simultaneously
+     wins the game by satisfying the winning condition IN OVERTIME,
+     provided no other player won the game by Renaissance in the
+     same instant.
+
+     If a player has won the game by Renaissance since the creation
+     of this rule, the Herald CAN and SHALL, by announcement, cause
+     this rule to cause Rule 2199 to repeal itself.
+
+     The next player who wins the game by high score simultaneously
+     wins the game by satisfying the winning condition IN OVERTIME,
+     provided no other player won the game by high score in the
+     same instant.
+
+     If a player has won the game by High Score since the creation
+     of this rule, the Herald CAN and SHALL, by a single announcement,
+     cause this rule to cause Rules 2179, 2187, 2232, 2233, and 2234
+     to repeal themselves in order.
+
+     If none of the rules listed by rule number in the text of this
+     rule exist, the Herald CAN and SHALL, by announcement, cause
+     this rule to repeal itself.

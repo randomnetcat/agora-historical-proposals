@@ -1,0 +1,48 @@
+ID: 5103
+Title: simpler deputisation
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with title "Deputisation" and text
+
+      Any player (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if:
+
+      (a) the rules require the holder of that office, by virtue of
+          holding that office, to perform the action (or, if the
+          office is vacant, would so require if the office were
+          filled); and
+
+      (b) a time limit by which the rules require the action to be
+          performed has expired; and
+
+      (c) the deputy announced at least two days earlier that e
+          intended to deputise for that office for the purposes of the
+          particular action; and
+
+      (d) it would be POSSIBLE for the deputy to perform the action,
+          other than by deputisation, if e held the office.
+
+[The useful part of timing orders, clarified and without using an
+order.  The order for the officer to perform was always redundant,
+because a requirement of the procedure is that the officer is obliged
+to perform the action anyway.  The order didn't create any new
+obligation, so we might as well dispense with it.  With orders not
+being part of the procedure, there's now no problem if the office is
+vacant or its holder changes.  The minimum notice for deputisation is
+reduced from a week to two days, because a week (apparently intended
+to let the officer satisfy eir `new' obligation) slows things down too
+much when this procedure is required.]
+
+Amend rule 1006 by deleting the paragraph which contains the words
+"Timing Order".
+
+[The new mechanism replaces the use of Timing Orders.]
+
+Repeal rules 1793, 1794, 1795, 1799, and 1810.
+
+[The Order system is obsolete.  With Timing Orders gone, the only
+remaining type of Order would be Legislative Orders, but a proposal
+can do whatever it wants anyway without requiring this bulky mechanism
+in the ruleset.]

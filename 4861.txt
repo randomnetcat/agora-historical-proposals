@@ -1,0 +1,42 @@
+ID: 4861
+Title: The Speaker is Proclaimed by The People
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  The Speaker is Proclaimed by The People
+
+[Conflict of interest between ADoP and Speaker removed.  For
+ separation of powers, automatic retirement of ADoP and CotC upon
+ becoming speaker is unchanged for now].
+
+[Differs from Murphy's Pope Drew I.  Pope Drew I protects against an
+ ADOP who tries to make a pope illegally, but does not protect against
+ an ADOP who refuses to announce a pope.]
+
+Amend Rule 402 (Church and State) to read:
+
+      A cardinal is an active, ready player who is not the current
+      Speaker.
+
+      For seven days after a cardinal wins the game with no other
+      players simultaneously winning, that cardinal may announce that
+      e becomes a pope.  Upon this announcement, that player becomes a
+      pope, so please treat em right good forever.
+
+      When a cardinal becomes a pope, any previous pope immediately
+      ceases being a pope.  Whenever a pope is not a cardinal, e
+      immediately ceases being a pope.
+
+      Any Player who is not a pope may install the pope as Speaker, by
+      announcement.  Upon this announcement, if the announced player
+      is still a pope, then the current Speaker ceases to be Speaker,
+      and the pope is installed as the new Speaker and ceases to be a
+      pope.
+
+      This installation cannot be performed if there are unresolved
+      challenges regarding the pope-ness of the player.  If the
+      legality of an installation is not challenged within seven days
+      of it being attempted, then it shall be allowed to stand, even
+      if is subsequently found to be illegal.

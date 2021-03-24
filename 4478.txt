@@ -1,0 +1,24 @@
+ID: 4478
+Title: Clarify Contest Entry Fees
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend R1539 by replacing the text reading:
+
+       A Player becomes a Contestant by notifying the Contestmaster and
+       paying the prescribed Entry Fee to the Contest Fund.  A
+       Contestant may quit a Contest at any time by so notifying the
+       Contestmaster.  A Contestmaster may publicly resign at any time,
+       at which time e ceases to be Contestmaster.
+
+With this text:
+
+       A Player becomes a Contestant by notifying the Contestmaster.  If
+       the Contest Regulations specify an Entry Fee, the Player must also
+
+       pay the prescribed Entry Fee to the Contest Fund.  A Contestant
+       may quit a Contest at any time by so notifying the Contestmaster.
+       A Contestmaster may publicly resign at any time, at which time e
+       ceases to be Contestmaster.

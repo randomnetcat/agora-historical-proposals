@@ -1,0 +1,12 @@
+ID: 4902
+Title: Yet Another Fine Unanimity
+Author: Greyknight
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 955, "Determining the Will of Agora", by appending the
+following:
+
+     A voting index of Unanimity shall be understood to exceed one, and
+to meet or exceed any adoption index.

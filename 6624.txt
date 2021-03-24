@@ -1,0 +1,23 @@
+ID: 6624
+Title:  Fix hypothetical decisions
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2134 (Win by Clout) by replacing "an ordinary decision" with
+"an ordinary decision with a specified Chamber".
+
+[Mirror Rule 2156 allowing the author to specify any Chamber for a
+proposal when submitting it.]
+
+Amend Rule 1367 (Degrees) by replacing this text:
+
+      - Each player's voting limit on the decision is thrice what
+        their voting limit would have been on an ordinary decision
+        initiated at the same time as this one,
+
+with this text:
+
+      - Each player's voting limit on the decision is three,
+
+[De-politicize degrees.]

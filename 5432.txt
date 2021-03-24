@@ -1,0 +1,14 @@
+ID: 5432
+Title: Prerogative Fix
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2019 by replacing:
+      In a timely fashion before the beginning of each month, the
+      Speaker SHALL randomly assign each Minister Without Portfolio a
+      different Prerogative for the upcoming month.
+with:
+      In a timely fashion before the beginning of each month, the
+      Speaker SHALL randomly assign each Minister Without Portfolio a
+      different Prerogative for the upcoming month by announcement.

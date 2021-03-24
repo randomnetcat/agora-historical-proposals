@@ -1,0 +1,18 @@
+ID: 6144
+Title: Faster Deputies
+Author: Wooble
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 2160, replace:
+
+     (c) the deputy announced between two and fourteen days earlier
+         that e intended to deputise for that office for the purposes
+         of the particular action; and
+
+with:
+
+     (c) if the office is held by an active player, the deputy
+         announced between two and fourteen days earlier that e
+         intended to deputise for that office for the purposes of the
+         particular action; and

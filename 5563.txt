@@ -1,0 +1,34 @@
+ID: 5563
+Title: Switchy Contests
+Author: ais523
+Co-authors: 
+Adoption index: 1
+
+Replace the first two paragraphs of rule 2136 with
+the following:
+{{{
+Contestmaster is a public contract switch, tracked by
+the Notary, with a default value of 'none', and a set
+of possible values which consists of all first-class
+players and 'none'. The Scorekeepor's report also
+contains the contestmaster of each contest with a
+contestmaster other than 'none'.
+
+A public contract is a contest if and only if it has
+a contestmaster other than 'none'.
+
+Any player CAN flip the contestmaster of a public
+contract without 3 objections, except if doing so
+would cause a player to be contestmaster of more than
+one contest, or it would flip the contestmaster of
+a contract to a player who has not explicitly
+consented to be contestmaster of that contest.
+(If a player intends to flip the contestmaster of a
+contract to emself, this is considered explicit
+consent to be contestmaster of that contract.)
+}}}
+
+Set the contestmaster of all contracts which were
+contests before this proposal passed to the
+contestmaster such contracts had before this proposal
+passed.

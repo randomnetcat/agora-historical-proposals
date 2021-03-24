@@ -1,0 +1,18 @@
+ID: 5291
+Title: Clarify Actions
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by replacing the text reading:
+
+      A player performs an action "by announcement" by announcing that
+      e performs it.  Any action performed by sending a message is
+      performed at the time date-stamped on that message.
+
+with:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a player performs that action by announcing that
+      e performs it.  Any action performed by sending a message is
+      performed at the time date-stamped on that message.

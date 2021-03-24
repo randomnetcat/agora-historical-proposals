@@ -1,0 +1,56 @@
+ID: 4679
+Title: Arch Nemesis
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: "Arch Nemesis"(AI=2) 
+
+Maud and Murphy are Co-Authors on this Proposal
+
+Create a new power 2 rule entitled "Arch Nemesis" with the following text
+
+      Arch Nemesis is a stuck player switch, the states of which are
+      null and all active non silent players. A player may flip eir
+      Arch Nemesis to another player if e has voted AGAINST at least
+      two of that player's proposals within the past 30 days.  If a
+      player has voted FOR at least one of eir Arch Nemesis's proposals 
+      since eir Arch Nemesis was last flipped, then any player may flip
+      eir Arch Nemesis to null.  A player may never be their own Arch
+      Nemesis or Harasser.
+ 
+      If a player's Arch Nemesis is another player, then e is that
+      other player's Harasser. 
+
+Append the following to then end of Rule 1950
+
+      (e) A player's Voting Power on eir Arch Nemesis's non sane
+          proposals is twice what it would be otherwise. A player's
+          Voting Power on eir own non sane proposals is multiplied by
+          one more than the number of eir Harassers.
+
+
+Amend Rule 1950 by replacing this text:
+
+      (c) The value of an entity's Voting Power for any given Chamber
+          at the beginning of each Week shall be in effect for all
+          Proposals distributed during that Week. However, if a
+          Proposal's Chamber is changed after it has been distributed,
+          the Voting Power of each entity for that Proposal is
+          redetermined at the time the Chamber is changed.
+
+with this text:
+
+      (c) The value of an entity's Voting Power for any given Chamber,
+          and the value of eir Arch Nemesis, at the beginning of each
+          Week shall be in effect  for all Proposals distributed during
+          that Week. However, if a Proposal's Chamber is changed after  
+          it has been distributed, the Voting Power of each entity for
+          that Proposal is redetermined at the time the Chamber is
+          changed.
+
+
+Append the following to rule 1449
+
+     * The Arch Nemesis of every player.

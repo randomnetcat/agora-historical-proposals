@@ -1,0 +1,17 @@
+ID: 6259
+Title: Intersting Recusals - Automatic
+Author: Quazie
+Co-authors: 
+Adoption index: 1.5
+
+Replace the following paragraph from R 2225
+
+      When a player recuses emself from a judicial case whose interest
+      index equals eir rank, e CAN increase its interest index by 1 by
+      announcement.
+
+with
+
+      When a player recuses emself from a judicial case whose interest
+      index equals eir rank, the cases interest index is increased by 1
+      unless the recusing player announces that it should not.

@@ -1,0 +1,20 @@
+ID: 6277
+Title: Privelege of the Recent Champion
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+This proposal has no effect unless "Privilege of the Champion" passed.
+
+Ratify the document:
+{
+root did not win the game at any time between 21:05 and 21:20 on the 4th
+of May 2009 UTC.
+}
+
+If root successfully awarded the Patent Title Champion to emself on or
+around 21:54 4th May 2009 UTC, then revoke one instance of Champion from
+root.
+
+If root had no Medals at 22:00 4th May 2009 UTC, then create one Laurel
+in the possession of root.

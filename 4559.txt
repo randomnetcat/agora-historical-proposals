@@ -1,0 +1,14 @@
+ID: 4559
+Title: Ducks!  Ducks!
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Ducks!  Ducks!
+
+  A piece of string walks into a bar.  The bartender says,
+  "I'm sorry, but happy hour is on exactly one day this week 
+  and I guarantee the day will be a surprise."  So the string
+  turns to the chipmunk and says "ha!  lucky for me, defecting
+  is only worth 3 points!"

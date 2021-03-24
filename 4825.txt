@@ -1,0 +1,50 @@
+ID: 4825
+Title: Omnibus Spelling Fix
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+
+      I had started writing a Proposal fixing *all* the "spelling
+      errors", thinking I would be the MIGHTY CLEANER of the
+      Ruleset[...]
+                -- Manu, in agora-discussion
+
+Amend each of the rules
+
+    2059 (Legality of Bonus Clauses) and
+    2078 (Takeover Proposals)
+
+by replacing the occurrence of the word "nonwithstanding" in that rule
+with the word "notwithstanding".
+
+Amend each of the rules
+
+     911 (The Board of Appeals),
+    1570 (Announcement of Appeal),
+    1447 (Final Judgement upon Appeal),
+    2026 (Appelate Determinations), and
+    1693 (Appeal of a Judgement)
+
+by replacing each occurrence of the word "Appelate" with the word
+"Appellate".
+
+Change the title of rule 2026 to "Appellate Determinations".
+
+Amend rule 217 (Judgements Must Accord with the Rules) by replacing
+the word "commonsense" with the word "common sense".
+
+Amend rule 1670 (The Distributor) by replacing the word "maintainance"
+with the word "maintenance".
+
+Amend rule 2069 (Card Definitions) by replacing the word "transfering"
+with the word "transferring".
+
+Amend rule 1370 (How to Get a Degree) by replacing the word "existant"
+with the word "existent".
+
+Amend rule 1789 (Cantus Cygneus) by replacing the text reading "Write"
+with text reading "Writ".
+
+Amend the card "Thieves in the Night" in the Onepower cardbook by
+replacing the text "losses" with the text "loses".

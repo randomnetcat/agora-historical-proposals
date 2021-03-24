@@ -1,0 +1,23 @@
+ID: 6450
+Title: Without Objection Pool Removal
+Author: C-walker
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 106 (Adopting Proposals), append to
+
+     A player CAN create a proposal by publishing ("submitting") a
+     body of text with a clear indication that it is intended to
+     become a proposal, which places the proposal in the Proposal
+     Pool.  The author (syn. proposer) of a proposal is the player
+     who submitted it.  The author of a proposal may remove it from
+     the Pool by announcement.  A player CAN remove a proposal e
+     authored from the Proposal Pool by announcement.
+
+the following:
+
+     A player CAN remove a proposal from the Proposal Pool without 2 objections.
+
+and remove
+
+     The author of a proposal may remove it from the Pool by announcement.

@@ -1,0 +1,17 @@
+ID: 5809
+Title: Unification
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) by replacing the descriptions of
+UNIMPUGNED and INNOCENT with this text:
+
+    * INNOCENT, appropriate if the defendant did not violate the
+      specified rule by performing the alleged act
+
+[Combines INNOCENT ("I didn't do it") and UNIMPUGNED ("it's not
+against the law"), which have been confused more than once.]
+
+[Identical to Proposal 5788 except for AI and II.  5788 would have
+passed 9/1 if it had been democratic.]

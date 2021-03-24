@@ -1,0 +1,9 @@
+ID: 5804
+Title: Power public contracts
+Author: woggle
+Co-authors: comex
+Adoption index: 2.0
+
+comex is a co-author of this proposal.
+
+Set the power of rule 2178 (Public Contracts) to 2.

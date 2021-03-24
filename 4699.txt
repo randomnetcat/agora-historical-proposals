@@ -1,0 +1,33 @@
+ID: 4699
+Title: Change of Heart
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 683 (Voting on Proposals) by changing the text that reads
+
+      A Voter authorised to cast votes on a particular Proposal may do
+      so only by informing the Assessor of the vote or votes e is
+      casting on that Proposal. Once cast, a vote cannot be changed or
+      cancelled by the Voter which cast it, although it may be
+      cancelled as other Rules require.
+
+to read
+
+      A Voter authorised to cast votes on a particular Proposal may do
+      so only by informing the Assessor of the vote or votes e is
+      casting on that Proposal. A Voter may change or cancel eir vote 
+      or votes during the Voting Period by informing the Assessor.
+
+Amend Rule 1434 (Default Procedure for Referendum Voting) by changing
+the text that reads
+
+      * Retraction: A Vote, once sent to the Vote Collector, cannot be
+        changed.
+
+to read
+
+      * Retraction: During the Voting period a Voter may change or 
+        cancel any Vote e has sent to the Vote Collector by notifying 
+        the Vote Collector.

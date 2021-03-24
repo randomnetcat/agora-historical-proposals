@@ -1,0 +1,55 @@
+ID: 5341
+Title: Patent Pragmatism
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+Patent Pragmatism
+
+Amend Rule 649 by inserting the following paragraph immediately
+after the first paragraph:
+
+      A Patent Title CAN only be awarded by a proposal, or by
+      the announcement of a person specifically authorized by
+      the Rules to make that award.  A person so authorized SHALL
+      make the award as soon as possible as the conditions
+      authorizing em to make the award are posted publicly, unless
+      there is an open judicial question contesting the validity
+      of the conditions.
+
+
+Amend Rule 1922 by replacing:
+      (c)  Three Months Long Service, Six Months Long Service, Nine
+           Months Long Service, Twelve Months Long Service, to be
+           awarded to any player
+with:
+      (c)  Three Months Long Service, Six Months Long Service, Nine
+           Months Long Service, Twelve Months Long Service, to be
+           awarded by the IADoP to any player
+
+and by replacing:
+      (d)  Champion, to be awarded to any person who wins the game.
+           The Herald's report includes how the player won.
+with:
+      (d)  Champion, to be awarded by the Herald to any person who wins
+           the game.  The Herald's report includes how the player won.
+
+and by replacing:
+      (e)  Minister Without Portfolio, to be awarded to any player who
+           wins the game.
+with:
+      (e)  Minister Without Portfolio, to be awarded by the Herald to
+           any player who wins the game.
+
+
+Amend Rule 2126 by replacing:
+      (+U) When a player wins the game, e gains two ultraviolet VCs.
+with:
+      (+U) When a player is awarded the Patent Title Champion, e
+           gains two ultraviolet VCs.
+
+and by replacing:
+      When a game win occurs, each player's VVLOP is set to eir BVLOP.
+with:
+      When a player is awarded the Patent Title Champion, each player's
+      VVLOP is set to eir BVLOP.

@@ -1,0 +1,42 @@
+ID: 4859
+Title: Chip Fix 1.1
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+// This version fixes cashing in chips by defining chip transfers
+// and creating a mechanism for cashing in chips.  Arbitrary chip
+// transfers are still not permissible due to lack of a mechanism
+// for doing so.  This sentence is here to even up the paragraph.
+
+Amend Rule 2120 (Cashing in One's Chips) to read:
+
+      The Pot is a site.
+
+      Cashing in one or more chips is synonymous with transferring
+      them to the Pot.  A player may cash in one or more of eir chips
+      by announcement.  As soon as possible after e does so, the
+      Deckmastor shall deal em a card for each non-forfeited chip
+      cashed in.
+
+
+Amend Rule 2069 (Card Actions) by replacing the text:
+
+          When a card is otherwise transferred from one gambler to
+          another, the former gambler shall cease to hold the card and
+          the latter gambler shall simultaneously come to hold the
+          card.
+
+with:
+
+          When a card or chip is otherwise transferred from one
+          gambler to another, the former gambler shall cease to hold
+          it and the latter gambler shall simultaneously come to hold
+          it.
+
+
+Amend Rule 2123 (Fees) to read:
+
+      A player plays a fee of X by cashing in X chips and indicating
+      the fee to be paid.  These chips are forfeited.

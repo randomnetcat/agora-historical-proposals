@@ -1,0 +1,19 @@
+ID: 6349
+Title: Newbie Friendly
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 869 (How to Join and Leave Agora) by replacing the text
+
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by announcing that e registers,
+      wishes to register, requests registration, or requests
+      permission to register.
+
+with
+
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player.

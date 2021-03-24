@@ -1,0 +1,7 @@
+ID: 5099
+Title: terrible proposal
+Author: comex
+Co-authors: 
+Adoption index: 4
+
+Amend rule 955 by replacing "exceeds one" by "is Unanimity".

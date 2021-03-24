@@ -1,0 +1,10 @@
+ID: 6233
+Title: Cleaning Rule 2179
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+This proposal is submitted as recent rule changes have removed office
+priority.
+
+Amend Rule 2179 (Points) by removing the word "high-priority".

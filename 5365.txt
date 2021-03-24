@@ -1,0 +1,22 @@
+ID: 5365
+Title: We're All Mad!
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Coauthor is Murphy.
+
+Create the following rule, entitled "Mental Health":
+        Madness is a person switch and a Nomic switch, tracked by the Mental Health
+        Department; its values are Mad or Sane (default). All persons who have ever
+        played Agora SHALL have their Madness set to Mad.
+
+        The Mental Health Department is a low-priority office.
+
+        The Mental Health Department's report must include the persons who are Mad
+        that e can reasonably be aware of; due to the inconclusiveness of Early
+        Agoran History, not all persons who have earned Madness need be included.
+
+Upon adoption of this proposal, the Mental Health Department shall be filled
+by pikhq.
+[ Specify the kind of switch. ]

@@ -1,0 +1,20 @@
+ID: 5176
+Title: Interest Index
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Change the title of Rule 2153 to "Interest Index", and amend it to read:
+
+      The interest index of a proposal is an integer from 0 to 3.  It
+      CAN be set by the proposer at the time of submission, or otherwise
+      defaults to 1.  A proposal's interest index SHOULD be proportional
+      to its complexity.
+
+      "Disinterested" is a synonym for "interest index 0".  A proposal
+      SHOULD be disinterested if and only if its effects are limited
+      to correcting errors and/or ambiguities.
+
+Amend Rule 2126 (Voting Credits) by replacing "the integer portion of
+the proposal's adoption index" with "the proposal's adoption index times
+its interest index (rounded down to the nearest integer)".

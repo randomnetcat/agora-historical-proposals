@@ -1,0 +1,20 @@
+ID: 6382
+Title: Fix switches
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 869 (How to Join and Leave Agora) by inserting this text
+immediately after the paragraph beginning "A second-class person CAN":
+
+      A non-person CANNOT be registered (or created in a Registered
+      state), rules to the contrary notwithstanding.
+
+Amend Rule 2136 (Contests) by replacing this text:
+
+      it CANNOT be flipped in any other way,
+
+with this text:
+
+      it CANNOT be flipped (or initialized to a non-'none' value) in
+      any other way,

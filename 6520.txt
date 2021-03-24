@@ -1,0 +1,21 @@
+ID: 6520
+Title: Open-ended duties are bad
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Replace
+{{{
+      When a chicken coup is begun, the Admiral of the Navy SHALL, if
+      possible, perform the next action e is explicitly and publicly
+      instructed to perform by another player. Failure to do so is the
+      Class-3 Crime of Spreading Salmonella.
+}}}
+with
+{{{
+      When a chicken coup is begun, the Admiral of the Navy SHALL, if
+      possible, and as soon as possible, perform the next action e is
+      explicitly and publicly instructed to perform by another player.
+      Failure to do so is the Class-3 Crime of Spreading Salmonella.
+}}}
+in rule 2274.

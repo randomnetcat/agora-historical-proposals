@@ -1,0 +1,28 @@
+ID: 4664
+Title: Co-authorship
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1430 (Mandatory Rule Annotations) by replacing the text that
+reads:
+
+      Whenever a Rule is changed in any way, the Rulekeepor shall
+      record a historical annotation to the Rule giving the type of
+      change, the source of the Change (that is, a reference to the
+      Proposal and its Proposer, or Rule or other entity which
+      mandated the Change) , and the date upon which the change took
+      effect.  Other Rules may require additional information to
+      appear in an annotation for certain types of Rule Change.
+
+with the text:
+
+      Whenever a Rule is changed in any way, the Rulekeepor shall
+      record a historical annotation to the Rule giving the type of
+      change, the source of the Change (that is, a reference to the
+      Proposal and its Proposer (along with any Players explicitly named
+      as co-authors in the Proposal), or Rule or other entity which 
+      mandated the Change) , and the date upon which the change took 
+      effect.  Other Rules may require additional information to appear
+      in an annotation for certain types of Rule Change.

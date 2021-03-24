@@ -1,0 +1,20 @@
+ID: 4886
+Title: A is A
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Amend Rule 105 (Rule Changes) by replacing this text:
+
+       A variation in whitespace or capitalization in
+       the quotation of an existing rule does not constitute ambiguity
+       for the purposes of this rule, but any other variation does.
+
+with this text:
+
+       A variation in whitespace, capitalization, or substitution of
+       section labels with the same ordinal position (e.g. 1 / a / i,
+       2 / b / ii, etc.) in the quotation of an existing rule does not
+       constitute ambiguity for the purposes of this rule, but any other
+       variation does.

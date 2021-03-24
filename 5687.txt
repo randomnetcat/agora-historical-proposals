@@ -1,0 +1,22 @@
+ID: 5687
+Title: MwoP Instances
+Author: Goethe
+Co-authors: 
+Adoption index: 1.0
+
+Amend R1922 by replacing:
+
+      (e)  Minister Without Portfolio, to be awarded by the Herald to
+           any player who wins the game and does not already bear the
+           title.  If the number of players bearing this title is
+           greater than the number of Prerogatives defined by the
+           rules, then this title is administratively revoked from the
+           Speaker.
+with:
+      (e)  Minister Without Portfolio, to be awarded by the Herald to
+           any player who wins the game and does not already bear the
+           title.  If the number of instances of this title currently
+           held is greater than the number of Prerogatives defined by 
+           the rules, then the instance of the title that has been
+           held the longest is administratively revoked from its 
+           bearer.

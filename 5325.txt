@@ -1,0 +1,16 @@
+ID: 5325
+Title: White VCs for mentors
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing section (+W) with
+this text:
+
+      (+W) When a first-class person becomes a player and has never
+           been a player before, e gains one white VC.  When a
+           first-class person has been a player continuously for at
+           least three months and has never been a player before that
+           period, and names another player as eir mentor (and has not
+           named a mentor in this fashion before), e and that player
+           each gain one white VC.

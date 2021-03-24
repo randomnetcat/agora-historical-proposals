@@ -1,0 +1,18 @@
+ID: 4457
+Title: Quick Fix in R1929
+Author: OscarMyer
+Co-authors: 
+Adoption index: 1
+
+Quick Fix in R1929
+(AI=1)
+
+Amend Rule 1929 by replacing the text reading:
+
+         -- It must be the first such notification for that specific
+            event
+
+with text reading:
+
+         -- It must be the first valid notification for that specific
+            event

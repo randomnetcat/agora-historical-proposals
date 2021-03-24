@@ -1,0 +1,55 @@
+ID: 6379
+Title: Caste Anarchy
+Author: allispaul
+Co-authors: 
+Adoption index: 3.0
+
+Repeal Rule 2211 (The Grand Poobah).
+
+Repeal Rule 2142 (Support Democracy).
+
+Repeal Rule 1950 (Democratic Decisions).
+
+Amend Rule 2156 (Voting on Ordinary Decisions) to read:
+ {{
+      The eligible voters on an ordinary decision are those entities
+      that were active players at the start of its voting period.  The
+      voting limit of an eligible voter on an ordinary decision is
+      originally 1, subtracting 1 for each multiple of 4 Rests that the
+      voter posesses at the start of the voting period.
+ }}
+
+Amend Rule 2222 (Maximum Voting Limits) by deleting the sentence that reads=
+:
+      "The maximum voting limit for any entity on any other decision is 1."
+
+Amend Rule 2126 (Notes) under "Notes CAN be spent (destroyed) as follows:"
+by amending (1)-(4) to read
+ {{
+      (1) A player CAN spend three Notes forming a major chord to increase
+          another player's voting limit on an ordinary proposal whose votin=
+g
+          period is in progress by 1.
+
+      (2) A player CAN spend five Notes forming the start of
+          a major scale to increase eir voting limit on an ordinary
+          proposal whose voting period is in progress by 1.
+
+      (3) A player CAN spend three Notes forming a minor chord to
+          decrease another player's voting limit on an ordinary proposal
+          whose voting period is in progress by 1.
+
+      (4) A non-Savage player CAN spend five Notes forming the start
+          of a minor scale to decrease eir voting limit on an ordinary
+          proposal whose voting period is in progress by 1.
+ }}
+and removing (7) and (8) and renumbering (9) accordingly.
+
+Amend Rule 2196 (Standard Classes of Agoran Decision) to read:
+ {{
+      If an Agoran decision has an adoption index, its essential parameter =
+is
+      its adoption index and its available options are FOR, AGAINST, and
+      PRESENT (syn. ABSTAIN).
+ }}
+ and retitle it "Agoran Decisions with Adoption Indices."

@@ -1,0 +1,37 @@
+ID: 5332
+Title: Rubicon Racing Restrictions
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend the rule titled "The Senate" by replacing the sentence:
+
+      During emergency session, any Senator may end a filibuster on a
+      proposal with 4 supporting Senators.
+
+with:
+
+      Any Senator may end a filibuster on a proposal with 4 supporting
+      Senators.
+
+and by replacing the sentence:
+
+      A proposal that ends its voting period in filibuster has a
+      quorum of the number of eligible voters plus 1, rules to the
+      contrary notwithstanding, and its voting period is not extended
+      due to lack of quorum.
+
+with:
+
+      A proposal that ends its voting period in filibuster has a
+      quorum of the number of eligible voters plus 1, rules to the
+      contrary notwithstanding.
+
+[Fixes two race conditions regarding filibusters.  As it stands, a
+ filibuster at the very end of an emergency session or a proposal's
+ voting period can kill that proposal completely, with no opportunity
+ for the proponents of a legitimate proposal to respond.
+
+ Neither of these changes weakens the rule much; a proposal for which
+ the voting period is extended due to filibuster will remain in
+ filibuster.]

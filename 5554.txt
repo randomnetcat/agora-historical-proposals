@@ -1,0 +1,11 @@
+ID: 5554
+Title: Isn't that just silly?
+Author: Ivan Hope
+Co-authors: 
+Adoption index: 3
+
+In rule 101, remove "ii. Every player has the right to perform an
+action which is not regulated." and subtract 1 from the number of each
+following element of the list. Replace the text of rule 2125 with "It
+is impossible to take any action unless a rule states that it CAN or
+MAY be taken, or the rules do not have the power to prevent it."

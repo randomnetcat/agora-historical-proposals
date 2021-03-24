@@ -1,0 +1,21 @@
+ID: 5058
+Title: disinterest interaction fix
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2126 by replacing the text
+
+      When an Ordinary Interested proposal is adopted and its proposer
+      is not the proposer of any Ordinary proposal previously adopted
+      in the same week,
+
+with
+
+      When an Ordinary Interested proposal is adopted and its proposer
+      is not the proposer of any Ordinary Interested proposal
+      previously adopted in the same week,
+
+[This is an essential fix if both "per-week proposal VCs" and
+"Disinterested Proposals" are adopted.  In any other situation it has
+no effect.]

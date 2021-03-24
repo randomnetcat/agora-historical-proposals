@@ -1,0 +1,9 @@
+ID: 6726
+Title: Reassign the name
+Author: coppro
+Co-authors: 
+Adoption index: 1.7
+
+PROPOSAL TEXT:
+Amend each rule in numerical order by replacing each instance of
+REASSIGN (case-sensitive) with REMIT.

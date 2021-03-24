@@ -1,0 +1,14 @@
+ID: 6165
+Title: Scorekeepor Discretion
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2234 (Rewarding Contestmasters) by replacing the text:
+
+     and performed duties related to that contest in a timely manner
+
+with:
+
+     and, in the Scorekeepor's opinion, performed duties related to
+that contest in a timely manner

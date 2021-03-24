@@ -1,0 +1,23 @@
+ID: 4582
+Title: Sweeping it under the rug, take three
+Author: Murphy
+Co-authors: 
+Adoption index: 3.01
+
+
+Create a rule with Power=3.01 and this text:
+
+      Upon the creation of this rule, the Gamestate becomes what it
+      would have been if Steve's Voting Power on Democratic Proposals
+      had been continuously equal to 2 from October 1, 2003, at 00:00:00
+      UTC, to November 30, 2003, at 23:59:59 UTC.  In particular, this
+      ensures that the following proposals have been adopted and have
+      taken effect:
+
+           4532     Clean Up Oligarchy Removal
+           4533     Bolshevik Revolution of 2003, with Glasnost
+           4534     Clean Up Oligarchy Removal, take 2
+           4540     Boon of Zeitgeist
+           4542     Pragmatize Scoring
+
+      One second after the creation of this rule, this rule is repealed.

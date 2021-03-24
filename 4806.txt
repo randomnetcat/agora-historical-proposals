@@ -1,0 +1,70 @@
+ID: 4806
+Title: Feexins
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+
+Amend rule 1941 (Fees) to read:
+
+      A fee-based action is an action with which the rules associate a
+      fee, which must be a natural number.  If the rules describe a
+      fee-based action but do not indicate the fee for that action,
+      then that fee is zero.
+
+      A player (the Actor) attempts to perform a fee-based action by
+      announcing that e performs it, specifying the action to be
+      performed, fee is nonzero, noting that there is a fee for the
+      action.  The Actor has sufficient kudos to perform the action if
+      the number of eir kudos meets or exceeds the fee.  Upon eir
+      announcement, the Actor's kudos are decreased by the fee, and if
+      e had sufficient kudos, e performs the action.
+
+      If the success of the Actor's attempt to perform a fee-based
+      action is publicly challenged within a week of the time the
+      action was attempted, then the Herald shall, as soon as
+      possible, determine whether the Actor had sufficient kudos when
+      e attempted to perform the action, and announce eir
+      determination.
+
+      If the Herald announces that the Actor did not have sufficient
+      kudos to perform a fee-based action at the time of eir attempt,
+      and eir announcement was published within a fortnight from the
+      time the action was attempted, then the action shall be deemed
+      not to have been performed.  If the Herald made this
+      announcement within a week of the attempt to perform the action,
+      or the success of the attempt was publicly challenged within a
+      week of the attempt, then the Herald shall refund the Actor eir
+      kudos.
+
+      If the success of an Actor's attempt to perform a fee-based
+      challenge is not publicly challenged within a week of the time
+      the action was attempted, then the action shall be deemed to
+      have been performed.
+
+      Nothing in this rule shall act to prevent a person from
+      performing a fee-based action by another mechanism for
+      performing that action provided by the rules.
+
+Amend rule 1940 (Periodic Compensations) to read:
+
+      The boon of Public Service exists for the purpose of awarding
+      officers for serving.
+
+      Paperwork is a stuck switch for offices with states low and
+      high.  The Associate Director of Personnel (ADoP) is the
+      recordkeepor for paperwork.  For the purpose of this rule, the
+      Speaker and the Distributor are considered offices.  The ADoP or
+      the Speaker may flip the paperwork of an office with two
+      supporters and without two objections.
+
+      As soon as possible after the beginning of each month, the ADoP
+      shall award 1 Public Service Boon for each office to the player
+      (if any) who held that office for 16 or more days in the
+      previous month; e shall award an additional Public Service boon
+      to that player if the office is a high paperwork office.
+
+      While a player is electee to an office, e may make one proposal
+      distributable per month by publicly invoking that office's Civil
+      Service Exemption, even if this would cause em to exceed eir
+      per-player proposal limit.

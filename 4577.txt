@@ -1,0 +1,35 @@
+ID: 4577
+Title: Judicial Separation
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Change the title of Rule 1450 (Speaker Cannot Stay CotC or Justiciar) to
+"Judicial Separation", and amend it to read:
+
+      Whenever the Speaker is Electee to the Office of Clerk of
+      the Courts, e is retired from that Office.
+
+      Whenever the Speaker is Electee to the Office of Justiciar,
+      e is retired from that Office.
+
+      Whenever a Player is both Clerk of the Courts and Justiciar,
+      e is removed from the Office of Justiciar.
+
+      Neither the Speaker, the Justiciar, nor a nominee for Justiciar
+      may be nominated for Clerk of the Courts.
+
+      Neither the Speaker, the Clerk of the Courts, nor a nominee
+      for Clerk of the Courts may be nominated for Justiciar.
+
+Amend Rule 910 (The Justiciar) by removing this text:
+
+      Neither the Speaker nor the Clerk of the Courts (CotC) may
+      nominate for the office of Justiciar; if the Justiciar ever
+      becomes CotC, e is removed from the office of Justiciar.
+
+Amend Rule 1647 (The Speaker-Elect) by removing this text:
+
+      The Clerk of the Courts and Justiciar cannot be Nominated for
+      the Office of Speaker-Elect.

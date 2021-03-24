@@ -1,0 +1,10 @@
+ID: 5616
+Title: They are persons too
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+Append the following to R2199 at the end of the paragraph describing
+how White Ribbons are gained
+"When a non First-Class Player has been a Player continuously for 1
+year that Player gains a White Ribbon"

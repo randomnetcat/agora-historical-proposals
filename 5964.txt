@@ -1,0 +1,13 @@
+ID: 5964
+Title: Pragmatise malformed inquiries
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by appending this text to the list of
+valid judgements:
+
+      * MALFORMED, appropriate if the text identified by the initiator
+        as the statement cannot be parsed as a single statement in the
+        ordinary-language sense; however, a compound statement (e.g.
+        "X and Y", "X or Y") counts as a single statement

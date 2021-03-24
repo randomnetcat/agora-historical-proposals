@@ -1,0 +1,8 @@
+ID: 4516
+Title: Spelling Fix
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 1664 (Rebellion) by replacing "emphemeral" with "ephemeral".

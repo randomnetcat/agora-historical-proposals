@@ -1,0 +1,8 @@
+ID: 6057
+Title: NoV fixup
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2230 by replacing all instances of "Ticket" or "ticket"
+with "Notice".

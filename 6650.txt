@@ -1,0 +1,23 @@
+ID: 6650
+Title: Contract Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend, in the order in which they are specified in this proposal, Rules
+1728 (Dependent Actions), Rule 2166 (Assets), Rule 1586 (Definition and
+Continuity of Entities) by removing each instance of "or contract" and
+of "or contracts".
+
+Amend Rule 2166 (Assets) by deleting the last paragraph.
+
+Amend Rule 754 (Definition Definitions) by deleting "followed by
+definitions used in contracts or other Agoran legal documents,".
+
+If Rule 2263 (Acting On Behalf) has not been repealed, amend it by
+removing the last bullet.
+
+If Rule 2199 (Ribbons) has not been repealed, amend it by removing the
+last bullet.
+
+Repeal Rule 2285 (Contracts).

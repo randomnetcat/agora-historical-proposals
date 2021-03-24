@@ -1,0 +1,14 @@
+ID: 5811
+Title: Panels for Equity
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.7
+
+Append to the end of the paragraph beginning with "The members of the
+bases..." in R2169:
+{{
+If no player is qualified to judge the case then the CotC CAN assign a
+judicial panel of three members as judge, as long as each member would
+otherwise be qualified to judge if e weren't barred from that specific
+case.
+}}

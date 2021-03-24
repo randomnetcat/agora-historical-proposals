@@ -1,0 +1,20 @@
+ID: 5644
+Title: Prerogative implies choice
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2019 (Prerogatives) by replacing section b) with this text:
+
+      b) Justiciar.  Once within three days after an appeal case comes
+         to require a judge, the Justiciar CAN make that case either
+         hot or cold by announcement.  If the Justiciar has not done
+         so, then the Clerk of the Courts SHALL NOT assign a panel to
+         that case during this period.  If the Justiciar has done so,
+         then the Clerk of the Courts SHALL assign a panel including
+         (if the case is hot) or excluding (if it is cold) the
+         Justiciar, if possible.
+
+Upon the adoption of this proposal, the Prerogative of Justiciar is
+assigned to the person (if any) to whom the Prerogative of Default
+Justice was assigned immediately before the adoption of this proposal.

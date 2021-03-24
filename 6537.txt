@@ -1,0 +1,13 @@
+ID: 6537
+Title: R2215 Fix 
+Author: Walker
+Co-authors: Murphy
+Adoption index: 1
+
+In Rule 2215 (Truthiness) replace
+
+       that is effective).
+
+with:
+
+       that it is thereby effective).

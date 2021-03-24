@@ -1,0 +1,32 @@
+ID: 5342
+Title: <none>
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+Cold running justice
+
+Enact the following Rule, entitled "The Justiciar", power-2:
+
+      The Justiciar is an office; its holder is responsible for
+      justice and for serving on a Board of Appeals when necessary.
+
+      The Clerk of the Courts (CotC) CAN NOT be made the Justiciar,
+      rules to the contrary notwithstanding.  If the Justiciar ever
+      becomes CotC, e is removed from the office of Justiciar.
+
+      Whenever the Clerk of the Courts assigns a judicial panel,
+      e SHALL assign one with the Justiciar as a member, unless no
+      such panel is eligible to be so assigned.
+
+Enact the following rule, entitled "Submitting a CFJ to the Justiciar",
+power-2:
+
+      A CFJ may be submitted to the Justiciar.  For such a CFJ, the
+      Justiciar shall perform all duties and fulfill all roles that
+      would otherwise be assigned to the Clerk of the Courts. This
+      takes precedence over Rules that would otherwise assign duties
+      and roles regarding a CFJ to the Clerk of the Courts.
+
+      All persons SHOULD submit a CFJ to the Justiciar only when there
+      is a good reason not to submit it to the Clerk of the Courts.

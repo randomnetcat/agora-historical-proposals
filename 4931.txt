@@ -1,0 +1,17 @@
+ID: 4931
+Title: Herald to advertise
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule with title "Herald to Advertise" and text:
+
+      Every month the Herald shall update the page about Agora on the
+      NomicWiki at nomic.net, provided that that wiki is operational.
+      This page, when updated, is to include a list of the current
+      players.  In updating the page the Herald shall ensure that
+      information that is currently incorrect is either corrected or
+      removed, and that all links on the page point to extant pages
+      that are correctly described.  The Herald may add new correct
+      information to the page at eir discretion.

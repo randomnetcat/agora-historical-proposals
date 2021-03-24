@@ -1,0 +1,7 @@
+ID: 5055
+Title: Mother, May I with Power 3?
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Change the Power of the rule "Mother, May I?" to 3.

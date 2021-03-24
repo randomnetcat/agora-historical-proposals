@@ -1,0 +1,18 @@
+ID: 5025
+Title: No Applications II
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+R1365 is amended to read:
+{
+A player may submit a Concurring or Dissenting opinion for a given CFJ
+trial or appeals decision with 1 Support. The opinion must reference the CFJ
+in question and clearly indicate that it is an opinion to be appended to
+that CFJ. The opinion should be accompanied by reasons or arguments. The
+Clerk of the Courts shall append any properly submitted opinion to the CFJ
+in question, along with a list of the Player who submitted  that opinion and
+the player(s) who supported it.
+}
+
+Repeal R1626 Applications

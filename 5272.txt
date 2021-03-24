@@ -1,0 +1,10 @@
+ID: 5272
+Title: Implicit Forum Switches
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+This proposal has no effect unless "Implicit Switches v1.1" was adopted.
+
+Amend Rule 478 (Fora) by replacing "Null" with "Foreign", and by
+replacing "non-null" with "non-Foreign".

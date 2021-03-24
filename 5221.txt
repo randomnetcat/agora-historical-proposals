@@ -1,0 +1,9 @@
+ID: 5221
+Title: No redundant identity patching
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+If Proposals 5208 (Identity Crises) and 5212 (Refactor ratification)
+were both adopted, then amend Rule 478 (Fora) by removing the sentence
+beginning with "Each public message is considered to be sent".

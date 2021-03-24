@@ -1,0 +1,11 @@
+ID: 5483
+Title: Reward interesting grafts
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2192 (The Mad Scientist) by appending this text to
+section d):
+
+      This proposal counts as the Mad Scientist's weekly report if/when
+      it is adopted.

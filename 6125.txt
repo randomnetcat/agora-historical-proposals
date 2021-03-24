@@ -1,0 +1,16 @@
+ID: 6125
+Title: No more caste sniping
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2211 (The Grand Poobah) by replacing this text:
+
+     At the beginning of each month, each Alpha's caste is flipped to
+     eir default value.
+
+with this text:
+
+     At the beginning of each month, the caste of each Alpha who was
+     Alpha for at least 14 days during the previous month is flipped
+     to eir default value.

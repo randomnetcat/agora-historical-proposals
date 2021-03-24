@@ -1,0 +1,91 @@
+ID: 6422
+Title: Reduce Card Complexity v3
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+[Synopsis: Consolidates the Government, Change, and Justice into one
+deck under a new recordkeepor. Reduces the number of cards drawn.
+Consolidates card types by combining powers. Re-defines hand limits.]
+
+Re-title R2258 ("Decks, Draws, & Salaries") to "The Deck of Agora" and
+replace it's text with:
+{{
+The Dealor is an office. The Deck of Agora is a deck of cards tracked
+by the Dealor.
+
+ At the end of each week each player earns a number of draws from the
+Deck of Agora equal to the sum of all the following:
+ * The highest Interest Index among offices e held for the entire
+duration of that week (if any, or 0 of none)
+ * The highest Interest Index among cases e judged on time during that
+week (if any, or 0 if none)
+ * The highest Interest Index among proposals e authored that were
+adopted during that week (if any, or 0 if none)
+ * Five if e is first-class and registered during that week.
+
+The Deck of Agora consists of the following cards listed by Title
+followed by Exploit:
+
+Debate-o-Matic - Specify an ordinary non-fillibustered proposal.
+Choose one: That proposal becomes democratic OR Veto that proposal OR
+Rubberstamp that proposal.
+
+Lobbyist - Increase the caste of a player you specify (other than
+yourself) by one.
+
+Local Election - Decrease the caste of a player you specify (other
+than yourself) by one.
+
+No Confidence - Initiate an election for an Office you specify for
+which no election is currently in progress.
+
+Distrib-u-Matic - A proposal that you indicate becomes distributable
+
+Committee - A proposal that you indicate becomes undistributable
+
+Presto! - Indicate an entity and a card held by that entity. The card
+is transferred to you.
+
+Absolv-o-Matic - A rest possessed by the player you name is destroyed.
+
+Stool Pidgeon - A rest is created in the possession of a first-class
+player you name provided no one has named the same player in playing
+this card in the last 72 hours.
+
+Supersize Me! - Increase the Hand Limit of a specified player by 1.
+
+Shrink Potion - Decrease the Hand Limit of a specified player by 1.
+}}
+
+Replace the text of R2259 ("Basic Hand Limits") with:
+{{
+A player's Hand Limit is an integer value (default 8). If a player's
+Hand Limit would ever be set to a value less than 3 it is instead set
+to 3. The Dealor's report SHALL include a list of all non-default Hand
+Limits.
+
+If a player owns a number of cards from the Deck of Agora equal to or
+greater than eir Hand Limit and would earn a draw from the Deck of
+Agora, instead e earns no draw from the Deck of Agora. This rule takes
+precedence over any rule which would cause a player to earn a draw
+from the Deck of Agora.
+}}
+
+[NOTE: Bootstrapping provisions below]
+
+Upon adoption of this proposal, each card from the deck of Change,
+Government, or Justice held by a player whose name matches the name of
+a card from the Deck of Agora is destroyed and a corresponding card
+from the Deck of Agora is created in the possession of the same
+player.
+
+Set the frequency of each card in the Deck of Agora equal to the
+frequency of the corresponding card with the same name in the deck of
+Change, Government, or Justice.
+
+Repeal R2260, R2261, and R2262.
+
+Upon the adoption of this proposal BobTHJ becomes the holder of the
+office of Dealor. The IADoP CAN and SHALL initiate an election for the
+office of Dealor as soon as possible.

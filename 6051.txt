@@ -1,0 +1,32 @@
+ID: 6051
+Title: Durn Furriners
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+In Which We Do a New Years Sweep of Rules that Seemed Interesting,
+But Haven't Amounted To Much, or for which Those Who Were Most
+Interested In Them Have Moved On To Something Else.
+
+Repeal Rule 2185 (Foreign Relations)
+Repeal Rule 2184 (Foreign communications)
+Repeal Rule 2147 (Protectorates)
+Repeal Rule 2159 (Protective Decrees)
+Repeal Rule 2206 (Foreign Trade)
+Repeal Rule 2207 (Trade Embargo)
+
+Amend Rule 2200 (Nomic Definitions) by removing:
+     A province is a protectorate that is a player.
+
+Amend R103 (Role of the Speaker) to read:
+     The Speaker is an imposed office, and the figurehead of Agora,
+     embodying its spirit and its current political mood.  Holding
+     the role of Speaker SHOULD be seen as a reward for game
+     success; the privileges and abilities granted to the Speaker,
+     as specifically defined elsewhere in the Rules, SHOULD in
+     general be intended to allow the Speaker to exert a greater
+     measure of influence on the game while e holds the office as
+     a reward for victory.
+
+[The Ambassador and embassies are kept, because an Official Voice
+To/From Outsiders might be Occasionally Useful].

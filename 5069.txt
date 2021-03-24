@@ -1,0 +1,38 @@
+ID: 5069
+Title: simplify judge selection
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 1868 to read
+
+      Whenever a CFJ that has not been judged has no trial judge
+      assigned, the Clerk of the Courts shall as soon as possible
+      assign an eligible judge to it by announcement.  The assigned
+      judge remains its trial judge until recused.
+
+      Every active player is eligible to be assigned as a trial judge
+      unless made ineligible by the rules.  Entities other than active
+      players are always ineligible.
+
+      If the Clerk of the Courts errs in good faith by assigning an
+      ineligible judge then the assignment stands.  In this case, the
+      Clerk of the Courts may recuse the judge by announcement
+      accompanied by a description of eir error.
+
+Repeal rules 698 and 2133.
+
+[Puts the important bits of the three rules into one shorter rule.
+Leaves out the crud, in particular R698's elaborate procedure for
+situations that are much better handled by the new form of R1871.]
+
+Amend rule 1871 by replacing the text "all open CFJs without a Trial
+Judge" with "all CFJs awaiting trial judge assignment".
+
+[The definition of "open CFJ" from R1868 was too restrictive.  This
+does better without any special terminology.]
+
+Amend rule 1826 by replacing the text "after a case is closed" with
+"after a case has been judged".
+
+[The term "closed CFJ" has also gone away.]

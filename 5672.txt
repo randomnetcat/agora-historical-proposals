@@ -1,0 +1,13 @@
+ID: 5672
+Title: Get it off of me!
+Author: Sgeo
+Co-authors: 
+Adoption index: 1
+
+If Sgeo is bound by a pledge with the following text
+{
+I pledge to, upon a player giving me eir entire supply of a currency,
+give said player all of my supply of that currency, including what
+that player gave me, as soon as possible.
+}
+then the pledge ceases to exist as soon as this proposal is adopted

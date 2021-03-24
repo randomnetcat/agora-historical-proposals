@@ -1,0 +1,10 @@
+ID: 6599
+Title: Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Enact a rule entitled "Proposal Cleanup" with power 3 and the following text:
+     The Promotor can, by announcement, remove a proposal from the
+     Proposal Pool if it is Undistributable and has been in the
+     Proposal Pool for in excess of one month.

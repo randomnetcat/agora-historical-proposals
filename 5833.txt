@@ -1,0 +1,26 @@
+ID: 5833
+Title: No involuntary recordkeepors
+Author: Murphy
+Co-authors: Taral
+Adoption index: 2.0
+
+Taral is a co-author of this proposal.
+
+Amend Rule 2166 (Assets) by replacing "instrument" with "rule", and by
+replacing this text:
+
+     The recordkeepor of a class of assets is the entity defined as
+     such by its backing document.
+
+with this text:
+
+     The recordkeepor of a class of assets is the entity (if any)
+     defined as such by, and bound by, its backing document.
+
+Amend Rule 2181 (The Accountor) to read:
+
+     The Accountor is a low-priority office; its holder is responsible
+     for keeping track of classes of assets.
+
+     The Accountor's report includes a list of all classes of assets,
+     and their backing documents and recordkeepors.

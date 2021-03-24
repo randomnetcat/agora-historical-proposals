@@ -1,0 +1,21 @@
+ID: 4742
+Title: Herald's Ephemera
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Herald's Ephemera
+Create a new rule entitled "Herald's Ephemera" with the following text:
+
+   Before the end of each turning, the Herald may award the following
+   ephemeral patent titles:
+
+  * UnLuck, to the player who has the most albatrosses at the
+    end of the turning.  If there is more than one, they all receive
+    this ephemeral patent title.
+
+  * Luck (Dynamic, but with its Karma set initially to
+    Albatross), to the player who has the most boons at the
+    end of the turning, if there is more than one, they all receive
+    this ephemeral patent title.

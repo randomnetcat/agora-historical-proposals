@@ -1,0 +1,15 @@
+ID: 5546
+Title: Monstrous Decrees
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+Append the following to the end of Rule 2193:
+{{{
+      The initiation of a Monstrous decree is a secured change.  The
+      initiating instrument must specify the target Monster and
+      the changes to be made to it.  Any ambiguity in the
+      specification of a Monstrous decree causes it to be void and
+      without effect.  This is the only mechanism by which a
+      Monstrous decree can be initiated.
+}}}

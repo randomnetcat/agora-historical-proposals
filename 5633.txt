@@ -1,0 +1,9 @@
+ID: 5633
+Title: Fugality
+Author: Ivan Hope
+Co-authors: 
+Adoption index: 1
+
+Create a rule of power 1 whose title is Bach's "Little" Fugue in G
+minor, BWV 578, played on piano, and whose text is Shakespeare's
+"Twelfth Night".

@@ -1,0 +1,26 @@
+ID: 5356
+Title: Secured proposal effects
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 106 (Adopting Proposals) by replacing the text:
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.  This rule takes precedence over any rule
+      which would permit a proposal to take effect.
+
+with:
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.
+
+      Preventing a proposal from taking effect is a secured change.
+      This rule takes precedence over any rule which would permit a
+      proposal to take effect.

@@ -1,0 +1,16 @@
+ID: 6329
+Title: Get on with killing it!
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2168 (Extending the voting period) by replacing this text:
+
+      if the result would no longer be FAILED QUORUM.
+
+with this text:
+
+      if the result would no longer be FAILED QUORUM, or if the
+      decision is whether to adopt a proposal and no voter (other
+      than possibly the proposal's author and the vote collector)
+      has voted FOR.

@@ -1,0 +1,11 @@
+ID: 5718
+Title: The IADoP is always right
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Append the following paragraph to rule 2138:
+{{{
+The portion of a public message purporting to be an IADoP's report that
+lists the holder of each office is self-ratifying.
+}}}

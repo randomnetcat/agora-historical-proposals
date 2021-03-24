@@ -1,0 +1,24 @@
+ID: 5769
+Title: Protecting Rights
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+[Bug:  The R101 preamble allows a right to be defined by a low-powered
+rule ("The scammers have a right to change the rules"), and that low-
+powered right would use R101 to go over all rules]
+
+Amend R101 by changing its title from 'Agoran Rights and Privileges'
+to 'The Rights of Agorans'.
+
+Amend R101 by replacing its first paragraph with:
+
+     WHEREAS Agora, since its inception, has functioned not only as a
+     game but as a society, and WHEREAS a society, to function, must
+     balance its Rules with the natural rights of its participants,
+     BE IT HEREBY PROCLAIMED that no interpretation of Agoran law or
+     binding agreement may substantially limit or remove a person's
+     rights as defined by this Rule, except through the explicit and
+     legal amendment of this Rule.  This rule takes precedence over
+     any rule which would allow or mandate restrictions of the rights
+     contained herein.

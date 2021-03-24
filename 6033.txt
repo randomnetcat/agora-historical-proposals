@@ -1,0 +1,7 @@
+ID: 6033
+Title: Repeal 'Contracts'
+Author: Bayes
+Co-authors: 
+Adoption index: 2.0
+
+  Repeal Rule 1742 (Contracts).

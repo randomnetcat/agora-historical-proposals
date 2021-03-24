@@ -1,0 +1,32 @@
+ID: 4636
+Title: Clarify Ineffectiveness
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Create a new rule titled "Naughty Proposals" with Power=3 and
+this text:
+
+     If a proposal is naughty (as defined by other rules), then
+     none of the provisions contained in its text shall be
+     implemented, even if it is adopted, any rule to the contrary
+     notwithstanding.
+
+Amend Rule 2034 (Votes are Protected) to read:
+
+     Any proposal that attempts to change an entity's vote on an
+     issue is naughty, unless the issue's voting period has not
+     yet begun at the time of the proposal's adoption.
+
+     Once an official voting report has been published for an
+     issue, no votes on that issue may be changed or cancelled,
+    and the outcome of the issue may not be changed in any way,
+    any rule to the contrary notwithstanding.  This rule does
+     not prevent the correction of errors in such reports.
+
+Amend Rule 1561 (Illegality of Bonus Clauses) to read:
+
+     Any proposal that offers a bribe to one or more players to
+     vote either FOR or AGAINST a proposal (either itself or
+     another proposal) is naughty.

@@ -1,0 +1,14 @@
+ID: 5778
+Title: 'register' is a noun too, you know
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Append the following to the rule titled "The Monster":
+{{{
+      A person CAN Monster, unless prevented by the rules, by
+      announcing that e Monsters, wishes to Monster, requests
+      Monstration, or requests permission to Monster.
+
+      A player CAN deMonster by announcement.
+}}}

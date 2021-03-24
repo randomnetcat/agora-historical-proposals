@@ -1,0 +1,9 @@
+ID: 6723
+Title: TITLE:
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Amend each Power-2 rule, in numeric order, by removing every instance
+of the word "not" (case-sensitive).

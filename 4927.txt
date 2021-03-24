@@ -1,0 +1,16 @@
+ID: 4927
+Title: liberalise rule changes
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend the rule titled "Rule Changes" (which was numbered 2131 when
+first enacted, and then renumbered to 105) by replacing each instance
+of "a proposal" or "a Proposal" with "an instrument" and replacing
+each instance of "A proposal" or "A Proposal" with "An instrument".
+In performing this amendment, the case of characters is significant, and
+the casing given in the preceding sentence is to be interpreted  
+strictly;
+the case of the word "a" is to be preserved in the replacement word  
+"an".

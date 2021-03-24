@@ -1,0 +1,11 @@
+ID: 4955
+Title: support democracy
+Author: Zefram
+Co-authors: 
+Adoption index: 1.1
+
+
+Enact a rule with Power=1.1, title "Support Democracy", and text:
+
+      Any player may change an Ordinary proposal's Adoption Index to
+      1.1 during its voting period With 3 Supporters.

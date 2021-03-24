@@ -1,0 +1,14 @@
+ID: 6519
+Title: Fix Arm-Twisting
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2260, replace
+      * Arm-Twist      - Indicate a player and an ongoing ordinary
+                         Agoran Decision. That player's voting limit
+                         on that Decision is increased by one.
+with
+      * Arm-Twist      - Indicate a player and an ongoing ordinary
+                         Agoran Decision. That player's voting limit
+                         on that Decision is decreased by one.

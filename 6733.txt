@@ -1,0 +1,31 @@
+ID: 6733
+Title: Better Emergency Protection
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+In Rule 2177, The Senate, replace
+
+       During emergency session, any Senator CAN declare a filibuster
+       on a proposal in its voting period, with 2 supporting Senators,
+       provided no filibuster has been declared on that proposal in the
+       past.  Any Senator CAN end a filibuster on a proposal with 4
+       supporting Senators and without objection from a member of the
+       Government (any of whom CAN object).
+
+       While a proposal is in filibuster, its quorum is the number of
+       eligible voters plus one, rules to the contrary notwithstanding.
+
+with
+
+       During emergency session, any Senator CAN, with 2 supporting
+       Senators, declare a specified non-Senator Ineligible to vote on
+       the decision to adopt a given proposal in its voting period.  A
+       player's voting limit on a decision for which e is Ineligible is
+       0 and cannot be modified, rules to the contrary notwithstanding.
+       Any Senator CAN cause an Ineligible player to cease to be
+       Ineligible to vote on a specified decision with 4 supporting
+       Senators and without objection from a member of the Government
+       (any of whom CAN object), restoring eir voting limit to what it
+       would be if e had never been made Ineligible.

@@ -1,0 +1,75 @@
+ID: 6697
+Title: Cleanup in Aisle 2156
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Amend Rule 2156 (Voting on Ordinary Decisions) to read as follows
+       The eligible voters on an ordinary decision are the players who
+       were active at the start of its voting period. The voting limit
+       of a player on an ordinary decision is defined elsewhere in the
+       rules, but is fixed at the resolution of the Decision and
+       thereafter CANNOT change, rules to the contrary notwithstanding.
+       This restriction does not prevent a change that would change a
+       voting limit from occurring; it only prevents it from actually
+       effecting that limit.
+
+Enact a new Rule at power 2, entitled Chamber and Title, that reads as
+follows:
+       Chamber is a switch possessed by players, proposals in the
+       Proposal Pool, and ongoing Agoran Decisions to adopt Proposals.
+       The possible values for Chamber are Green, Red, and
+       Purple. Green is superior to Purple, Red is superior to Green, and
+       Purple is superior to Red; the opposite of superior is inferior.
+
+       The default is Green in case of players, the Chamber of
+       the author in case of proposals, and the Chamber of the proposal
+       in question in case of a Decision. These are not continuously
+       updated, but evaluated only as the entity comes into being.
+
+       A player CAN change eir Title by announcement if e has not
+       already done so previously in the same month. In the same message
+       in which a player submits a proposal, e CAN set its Chamber by
+       announcement. Changes to Title are secured.
+
+       The Assessor tracks the Chamber of players and the Promotor
+       tracks the Chamber of proposals.
+
+       The Chamber of a player may also be referred to as eir Title;
+       this does not extend to proposals or Decisions. A player may be
+       referred to as a "<foo> player", where <foo> is eir Chamber.
+
+Retitle Rule 2279 (Base Voting Limits) to (Voting Limits on Ordinary
+Decisions) and amend it to read as follows:
+       A player's voting limit on an Ordinary decision is the result of
+       performing the following steps, in order:
+
+           (1) Take the following value, depending on the relationship
+                between the player's Chamber and the Chamber of the
+                Decision:
+                   (a) If eir Chamber is superior, it is 2, else
+                   (b) If eir Chamber is inferior, it is 1, else
+                   (c) If the Chambers are identical, it is 5.
+
+           (2) Reduce the value by half the number of Rests owned by
+               the player.
+
+           (3) Apply any other adjustments defined in other rules, in
+               numerical order unless otherwise specified.
+
+           (4) Round the value to the nearest non-negative integer,
+               breaking ties upward.
+
+       This rule takes precedence over any other rule which would
+       modify a player's voting limit on an ordinary Decision.
+
+Amend Rule 2255 by replacing
+       Title: Chief Whip.
+       Position:  The Chief Whip's voting limit on an Ordinary proposal
+       is 1.5 times what it would otherwise be.
+with
+       Title: Chief Whip.
+       Position:  The Chief Whip's voting limit on an ordinary Decision
+       is 1.5 times what it would otherwise be; this applies after other
+       calculations.

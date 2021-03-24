@@ -1,0 +1,10 @@
+ID: 5286
+Title: <none>
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Upon enactment of this proposal, the following proposal shall be added
+to the proposal pool (the following proposal shall be co-authored by
+Agora):
+The enactment of this proposal does nothing.

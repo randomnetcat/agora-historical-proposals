@@ -1,0 +1,15 @@
+ID: 5016
+Title: report Agoran Contracts
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2109 by replacing the paragraph:
+
+      The CotC is required to keep track of all Agoran Contracts.
+
+with:
+
+      The CotC's monthly report includes all Agoran Contracts.
+
+[Our lone Agoran Contract is presently invisible.]

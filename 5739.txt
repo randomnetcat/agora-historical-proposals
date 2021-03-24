@@ -1,0 +1,8 @@
+ID: 5739
+Title: Secure regulation
+Author: root
+Co-authors: 
+Adoption index: 3.0
+
+     Amend Rule 2125 by replacing the first instance of the word "if"
+with "if and only if".

@@ -1,0 +1,19 @@
+ID: 5712
+Title: Relaxed security
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Change the power of Rule 2110 (Win by Paradox) to 2.
+
+Change the power of Rule 103 (Role of the Speaker) to 1.
+
+Amend Rule 649 (Patent Titles) by replacing this text:
+
+     Awarding or revoking a Patent Title by Proposal is a
+     secured change.
+
+with this text:
+
+     Awarding or revoking a rule-defined Patent Title by Proposal
+     is a secured change.

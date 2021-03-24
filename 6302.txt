@@ -1,0 +1,11 @@
+ID: 6302
+Title: Off the record
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Upon the adoption of this proposal, all judicial cases initiated in the
+same message in which this proposal was submitted, except the criminal
+case against ais523, cease to be judicial cases.
+
+[Avoids ID number inflation, AAA inflation, and wasteful data entry.]

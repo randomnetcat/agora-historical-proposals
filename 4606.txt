@@ -1,0 +1,22 @@
+ID: 4606
+Title: Fix Unrestricted Voting
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Let Rule 1746 (Modes of Voting) be amended by replacing the text reading:
+
+           (3) If the mode of voting is Unrestricted, then any other
+               Rule to the contrary notwithstanding, the casting of
+               any votes, or the declaration of Presence, by Voters
+               on that Issue, may be achieved by sending a message
+               either publicly or privately.
+
+with text reading:
+
+           (3) If the mode of voting is Unrestricted, then any other
+               Rule to the contrary notwithstanding, the casting of
+               any votes, or the declaration of Presence, by Voters
+               on that Issue, may be achieved by notifying the Vote
+               Collector over any medium.

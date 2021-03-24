@@ -1,0 +1,39 @@
+ID: 6082
+Title: Bankruptcy
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+If the SoA of the AAA has not published a report of AAA-backed asset
+holdings during the voting period of the decision on whether to adopt
+this proposal, then terminate the following contracts:
+
+ * AAA
+ * AAA Zombification
+
+If the Godfather of the Protection Racket has not published a report
+of Favor holdings during the voting period of the decision on whether
+to adopt this proposal, then terminate the following contracts:
+
+ * Protection Racket
+ * Equation of CFJ 2038
+
+If the Treasurer of the Reformed Bank of Agora has not published a
+report of Chit holdings and RBoA-owned asset holdings during the
+voting period of the decision on whether to adopt this proposal,
+then terminate the following contracts:
+
+ * Reformed Bank of Agora
+
+If the Coinkeepor of the People's Bank of Agora has not published a
+report of Coin holdings and PBA-owned asset holdings during the
+voting period of the decision on whether to adopt this proposal,
+then terminate the following contracts:
+
+ * The People's Bank of Agora
+
+If the Broker of the Vote Market has not published a report of VP
+holdings during the voting period of the decision on whether to adopt
+this proposal, then terminate the following contracts:
+
+ * Vote Market

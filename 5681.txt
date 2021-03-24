@@ -1,0 +1,24 @@
+ID: 5681
+Title: PRS Changes
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.0
+
+Upon the adoption of this proposal the Points Relay Service contract
+is amended as described below:
+
+Append to Section 6:
+{{
+No more than 10 points may be awarded to a single Awardee this way each week.
+}}
+
+Create a new section which reads:
+{{
+An Awardee CAN specify a number of points to "request credit" by
+announcement. As soon as possible after doing so the contestmaster
+SHALL attempt to revoke that number of points from the Awardee. For
+each point successfully revoked this way the contestmaster SHALL
+create one PV in eir possession.
+}}
+
+Repeal section 7 [[with the inclusion of metering this is no longer necessary]]

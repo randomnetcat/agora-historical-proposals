@@ -1,0 +1,40 @@
+ID: 5167
+Title: black cap
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by replacing, in the list of ways that VCs can be
+gained (and lost, if both are in a single list), the item that
+describes gaining blue VCs with
+
+      (+B) When a player assigns a judgement to a judicial question
+           other than a question on sentencing, and has not violated a
+           requirement to submit that judgement within a time limit, e
+           gains one blue VC.
+
+and then inserting in the list of ways that VCs can be gained (and
+lost, if both are in a single list), immediately after the last item
+that mentions blue VCs, the new item
+
+      (+K) When a player assigns a judgement to a judicial question on
+           sentencing, and has not violated a requirement to submit
+           that judgement within a time limit, e gains one black VC.
+
+and then inserting in the list of ways that VCs can be lost (and
+gained, if both are in a single list), immediately after the last item
+that mentions either blue VCs or black VCs, the new item
+
+      (-K) In a criminal case, when a sentence becomes active for the
+           first time the defendant loses one black VC.
+
+[A color that's more difficult to get.  Random trivia: the traditional
+black cap worn by judges passing a death sentence is still part of a
+judge's official regalia in the UK, despite the death penalty having
+been abolished four decades ago; it is now worn only on ceremonial
+occasions.  The black VC loss here is deliberately not the direct
+complement of the way to gain a black VC, but occurs in a closely
+related situation.  Losing a VC is an extra, fairly small, penalty in
+serious criminal cases; the interesting bit is that the threat of
+losing a rare color, rather than one's party color, should make black
+VC holders paranoid about being accused of rule violations.]

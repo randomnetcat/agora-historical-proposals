@@ -1,0 +1,16 @@
+ID: 6094
+Title: Make the Insulator's job less confusing
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+     A Notice that is still Uncontested four days after it is
+     published automatically becomes Closed instead.
+
+with this text:
+
+     If a Notice is Uncontested and was published at least four
+     days ago, any player CAN cause it to become Closed by
+     announcement.

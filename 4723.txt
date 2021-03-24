@@ -1,0 +1,146 @@
+ID: 4723
+Title: POWER TO THE PLEBS! v.2
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: "POWER TO THE PLEBS! v.2" (AI=2)
+
+Rewrite Rule 1933 to read as follows:
+
+     Chamber is a stuck switch for Proposals with values Ordinary,
+     Plebeian and Democratic.
+
+     An Ordinary or Plebeian Proposal with Adoption Index of two (2) or
+     greater is a Stalled Proposal.  Rules to the contrary
+     notwithstanding, a Proposal is Undistributable while it is
+     Stalled. If a proposal is distributed that was Stalled at the time
+     of distribution, the Promotor shall abort it as soon as possible.
+
+     Every Proposal is initially Democratic, unless its Adoption
+     Index is less than two (2), in which case it is initially
+     Ordinary unless the proposal specifically states that it is
+     Plebeian.  The Chamber of a Proposal may only be changed as
+     specified by an instrument with Power greater than or equal to two
+     (2).
+
+     Whenever a Proposal's Chamber is changed while the Proposal is
+     in its Voting Period, it is Aborted as described elsewhere and
+     returned to the Proposal Pool with its Distributability and
+     other characteristics intact.
+
+Rewrite Rule 1950 to read as follows:
+
+     (a) An entity's Voting Power on an Ordinary Proposal is as
+         follows:
+            (1) A Shareholder: eir Share Holdings;
+            (2) the Deckmastor: the number of Share Cards in the Deck
+               or three, whichever is smaller; plus eir Share Holdings
+               (if e is a Shareholder);
+            (3) Any other entity
+
+     (b) An entity's Voting Power on a Democratic Proposal is as
+         follows:
+         (1) A Player:
+                 (i)  that Player's Voting Potential if that Player
+                      has Sente.
+                 (ii) one otherwise.
+         (2) Any other entity: as defined in the Rules, with a
+             default of zero if the Rules don't specify the Voting
+             power on a Democratic Proposal for that entity.
+
+     (c) An entity's Voting Power on a Plebeian Proposal is as follows:
+         (1) A Pleb: One;
+         (2) Any Other Entity: Zero.
+
+     (d) The value of an entity's Voting Power for any given Chamber
+         at the beginning of each Week shall be in effect for all
+         Proposals distributed during that Week. However, if a
+         Proposal's Chamber is changed after it has been distributed,
+         the Voting Power of each entity for that Proposal is
+         redetermined at the time the Chamber is changed.
+
+     (e) An entity may cast as many votes as e wishes on a Proposal,
+         in any combination, up to the limit determined by that
+         entity's Voting Power on that Proposal, with the exceptions
+         that:
+             (1) No Player may vote on an Ordinary Proposal unless e
+                  is a Shareholder or the Deckmastor at the time e
+                  casts eir vote.
+             (2) The Deckmastor may not vote on Plebeian Proposals.
+
+Rewrite Rule 1715 to read as follows:
+
+     A Player may declare that e is PRESENT on an Issue which is not
+     an Ordinary or Plebeian Proposal by sending a message to that
+     effect to the Issue's Vote Collector. Solely for the purpose of
+     determining Quorum, this Player is considered to have voted on
+     that Issue.  If e also casts a Vote on that Issue, e is counted
+     only once toward Quorum.
+
+Create a new power 2 rule entitled "The Speaker-Elect's Veto" with the
+following text:
+
+     At any time during the Voting Period of a Plebeian Proposal,
+     the Speaker-Elect may Veto that Proposal with the Support of
+     one-third of all Plebs, rounded down.
+
+Rewrite Rule 1717 to read as follows:
+
+     A Senator is any Player who has been registered continuously for
+     the immediately preceding two months.
+
+     At any time during the Voting Period of an Issue which is not an
+     Ordinary or Plebeian Proposal, the Speaker may make it a Senate
+     Vote, by publicly stating so. An Issue is not a Senate Vote
+     otherwise.
+
+     Only Senators can Vote on Senate Votes.  When an Issue becomes a
+     Senate Vote, all Votes cast on that Issue by non-Senators are
+     cancelled.
+
+Wherever the following is found in the ruleset
+
+     A Plebeian is a Player who is not a Shareholder.
+
+replace it with
+
+     A Pleb (plural:plebs) is a Player who is not a Shareholder.
+
+Rewrite Rule 879 to read as follows:
+
+     (a) An ordinary proposal achieves quorum if at least three
+         shareholders cast votes on it, and the Speaker did not veto
+         it.
+
+     (b) A democratic proposal achieves quorum if at least one third
+         of all active noisy players cast votes on it.
+
+     (c) Quorum for a democratic proposal shall be determined from
+         the number of active noisy players at the time that the
+         proposal was distributed, or at the time it was made a
+         democratic proposal, whichever is later.
+
+     (d) A Plebeian proposal achieves quorum if at least three Plebs
+         cast votes on it.
+
+Rewrite Rule 1965 to read as follows
+
+     As soon as possible after an ordinary or Plebeian proposal fails
+     quorum, the Assessor shall publish a Notice of Complacency to that
+     effect. In addition, at any time during the voting period of an
+     ordinary or Plebeian proposal for which the number of entities
+     eligible to vote on the proposal is less than the quorum of the
+     proposal, the Assessor may immediately publish a Notice of
+     Complacency without waiting for the proposal's voting period to
+     end.
+
+     Upon publication by the Assessor of a Notice of Complacency for
+     a proposal, the proposal is immediately aborted.  In addition,
+     the copy of the proposal that is added to the proposal pool as a
+     result of the abortion becomes democratic and distributable.
+
+     Publication by the Assessor of a Notice of Complacency not
+     strictly authorized or required by this rule is the Class 2
+     Crime of Sending It Back Where It Don't Belong.

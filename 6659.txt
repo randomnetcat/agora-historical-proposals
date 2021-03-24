@@ -1,0 +1,17 @@
+ID: 6659
+Title: Fix Clout
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2134 (Win by Clout) by replacing this text:
+
+       Cleanup procedure:  Each player's caste is set to its default
+       value, and no player satisfies this Winning Condition again (the
+       remainder of this rule notwithstanding) during the same month.
+
+with this text:
+
+       Cleanup procedure:  No player satisfies this Winning Condition
+       again during the same month, the remainder of this rule
+       notwithstanding.

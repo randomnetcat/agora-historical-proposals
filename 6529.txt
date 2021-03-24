@@ -1,0 +1,19 @@
+ID: 6529
+Title: Assumption During Elections
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2276 (Assumption of Vacant Offices) by replacing the text:
+
+                                      provided that both
+
+        (1) the office is either vacant or Assumed, and
+
+        (2) there is no election for that office currently in
+            progress.
+
+with the text:
+
+                                      provided that the office is
+      either vacant or Assumed.

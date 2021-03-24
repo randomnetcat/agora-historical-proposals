@@ -1,0 +1,9 @@
+ID: 4812
+Title: How Low Can You Go?
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Alter the rule entitled "Hard Ruleset Limits" by replacing the text
+that reads "300" with text that reads "275".

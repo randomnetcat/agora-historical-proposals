@@ -1,0 +1,50 @@
+ID: 5193
+Title: calendar cleanup
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Enact a power=2 rule titled "Calendar" with text
+
+      Times of day are by default specified using the hours, minutes,
+      and seconds of Coordinated Universal Time (UTC), as maintained
+      by the BIPM and the IERS.  "Greenwich Mean Time" ("GMT") is
+      acceptable as a synonym for UTC, but deprecated due to its
+      imprecision.  Where timezones are used, they are by default
+      specified in the form of offsets from UTC.  Each day begins at
+      00:00 (midnight).
+
+      The calendar units of month and year are defined according to
+      the Gregorian calendar, as specified in ISO 8601.  In
+      particular, each year begins at the beginning of 1 January.
+
+      The calendar unit of quarter is defined as a recurring
+      three-month period aligned with the year.  Quarters begin when
+      the months of January, April, July, and October begin.
+
+      The calendar unit of week is defined as a recurring seven-day
+      period, as specified in ISO 8601.  In particular, each week
+      begins at the beginning of Monday.
+
+[More precise and formal than the current definitions.  The references
+to ISO 8601 (see copy at <http://www.fys.ruu.nl/~vgent/calendar/
+downloads/iso_8601_2004.pdf>) disambiguate some details of the
+calendars (proleptic usage, year boundaries, and week boundaries) and
+provide a convenient canonical definition.  The additional explication
+regarding UTC clarifies that we really do mean UTC rather than UT1 or
+any of the other things that has been commonly known as "GMT".]
+
+Amend rule 1023 by deleting the item that contains the text "Agoran
+epochs:".
+
+[Calendar stuff moves to its own rule because it's a completely
+different topic from the other things in rule 1023.  This rule started
+out defining only "as soon as possible".]
+
+Amend rules 1769 and 1750 by replacing "Agoran week" with "week".
+
+[The old definitions in R1023 were for terms "Agoran day", "Agoran
+week", and so on.  The prefix wasn't actually doing anything useful,
+and almost all uses of the definitions just used the plain terms
+"day", "week", and so on.  These two rules are the only places that
+included the prefix.]

@@ -1,0 +1,59 @@
+ID: 6215
+Title: Define Contestant
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Create a new power-2 rule entitled {Contestants} with the following
+text:
+
+      In order to be a contestant of a contest, an entity must be an
+      active player, a party to that contest, and not its contestmaster.
+      An entity that does not meet these requirements CANNOT become a
+      contestant of a contest, and if an entity ever fails to meet these
+      requirements for a given contest, that entity ceases to be a
+      contestant of that contest. Changes to whether or not a player is
+      a contestant to a contest are secured.
+
+      In the text of a contest, contestant generally refers to the
+      contestants of that contest. The set of contestants of a contract
+      are that contract's contestants. Causing a player to become a
+      contestant of a contest is also know as entering em to the
+      contest; causing em to cease to be a contestent is to cause em to
+      quit the contest.
+
+      A player generally CAN enter or quit a contest by announcement,
+      subject to the normal requirements. Any player may cause another
+      player to quit a contest by announcement if that player has not,
+      in the past 90 days, been awarded points by that contest or
+      announced eir intent to remain a contestant of that contest.
+
+If Enigma is a Champion's Contest, create a new power-2 rule entitled
+{Enigma Contestant Exemption} with the following text:
+
+      For the purposes of the interpretation of the text of Enigma, a
+      contestant is a party to Enigma. This supersedes any other rule
+      defining the term.
+
+      If Enigma is not a Champion's Contest, any player may cause this
+      rule to repeal itself by announcement.
+
+Amend rule 2242 by replacing the paragraph reading:
+
+      A contest's contestmaster CAN transfer ownership of or destroy a
+      Medal in that contest's possession, but only as explicitly
+      described by the contest's text. A Medal CANNOT be transferred
+      from a contest to a player who is not a party to that contest,
+      nor to its contestmaster.
+
+with
+
+      A contest's contestmaster CAN transfer ownership of or destroy a
+      Medal in that contest's possession to a contestant of that
+      contest, but only as explicitly described by the contest's text.
+
+Amend rule 2233 by replacing each occurrence of {its other parties} with
+{its contestants}.
+
+For each contest, make each active player who is a party to that
+contract and not its contestmaster a contestant of that contest.

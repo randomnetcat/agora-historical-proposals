@@ -1,0 +1,14 @@
+ID: 6066
+Title: Make the Conductor's job easier
+Author: comex
+Co-authors: Goethe
+Adoption index: 2.0
+
+Goethe is a co-author of this proposal.
+
+Amend Rule 2228 (Rests) by removing ", whose recordkeepor is the
+Conductor", and by adding this paragraph after the first paragraph:
+
+    The Insulator is an office, and the recordkeepor of Rests.
+
+[E has enough duties already.]

@@ -1,0 +1,72 @@
+ID: 4838
+Title: New game in town
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  New game in town
+
+Amend Rule 2114 (Card Definitions) by replacing:
+
+              and can define an Element by specifying its name and
+      description.  Neither classes of cards nor Elements may be
+      otherwise defined.
+
+with:
+
+              and can define an Element or Scoring Instruction by
+      specifying its name and description.  Neither classes of cards
+      Elements, nor Scoring Instructions may be otherwise defined.
+
+
+Amend Rule 2075 (Winning Hands) by replacing:
+
+      The Deckmastor's Budget shall contain between one and five
+      Winning Hands, each of which is a list of cards with a hand size
+      at least two greater than the Maximum Hand Size.
+
+      If a Gambler's Hand is identical to a winning hand at any
+      particular moment, any Gambler has 72 hours from that moment to
+      announce that a Gambler holds or has held a winning hand.
+
+with:
+
+      The Scoring Instructions contained in cardbooks, interpreted
+      collectively, may define a nonsite gambler as holding a winning
+      hand at a particular moment.  If so, any Gambler has 72 hours
+      from that moment to announce that a Gambler holds or has held a
+      winning hand.
+
+
+Amend Rule 2104 (Contreras Card Labs) by appending the following text:
+
+      Any Player may add, delete, or amend a Scoring Instruction in
+      the Blueprints Cardbook, with M support and without N
+      Objections, where M is greater than or equal to N at the time
+      the change is performed, and N is at least 1.
+
+
+Add the following Scoring instructions to the Onepower Cardbook, with
+each numbered item being a seperate instruction:
+
+      0.  Each scoring instructions shall be indexed with a unique
+      integer, which if unspecified will be one greater than the
+      highest index at the time of its creation.  The score of each
+      hand is a complex number, which is 0 if otherwise undefined.
+
+      1.  The score of hands will be calculated by applying the lowest
+      indexed instruction to every hand simultaneously, followed by
+      the next highest instruction and so forth until all instructions
+      have been applied.
+
+      9999.  A winning hand has a score magnitude greater than 250 and
+      greater than the score magnitude of any other nonsite gambler's
+      hand.
+
+
+Add the following Scoring Instruction to the Blueprints cardbook:
+
+      10.  A single card adds N to the score of its hand, where N is
+      determined by the first letter of its caption, with 'A' worth 1,
+      'B' worth 2, [...], 'Z' worth 26.

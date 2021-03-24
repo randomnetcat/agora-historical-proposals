@@ -1,0 +1,10 @@
+ID: 4640
+Title: Grafty is not a bribe, for the fourth time
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 1561 (Illegality of Bonus Clauses) by appending this text:
+
+Proposing a card with an element of Grafty is not considered bribery.

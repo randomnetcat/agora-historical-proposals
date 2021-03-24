@@ -1,0 +1,10 @@
+ID: 6628
+Title: Is There A Russian In The House?
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+In order for a proposal to pass, it must contain page 106 of the 1961\
+Vladivostok telephone directory.
+This rule takes precedence over all other rules.
+In the case that 1107 passes, this proposal is an Emergency Proposal.

@@ -1,0 +1,42 @@
+ID: 5492
+Title: Seed Is A Digit Ranch Switch
+Author: Pavitra
+Co-authors: root
+Adoption index: 2
+
+root is a coauthor of this proposal.
+
+Amend rule 2162 (Switches) to read:
+
+      A type of switch is a class of fixed assets. An instance of a
+      switch is an asset of that type of switch. In order to define
+      a type of switch, the type's backing document must specify the
+      following:
+
+      a) The type(s) of entity possessing an instance of that switch.
+         Switches are restricted to these entities.
+
+      b) One or more possible values for instances of that switch,
+         at most one of which is designated as the default.  No other
+         values are possible for instances of that switch.
+
+      At any given time, each instance of a switch has exactly one
+      possible value for that type of switch.  If an instance of a
+      switch comes to have a value, it ceases to have any other value.
+      If an instance of a switch would otherwise fail to have a
+      possible value, it comes to have its default value.
+
+      "To flip an instance of a switch" is to make it come to have a
+      given value.  "To become X" (where X is a possible value of
+      exactly one of the subject's switches) is to flip that switch to
+      X.
+
+      The report of the recordkeepor for the type of switch includes
+      the value of each instance of that switch whose value is not its
+      default value, or which has no default value.
+
+      Instances of switches generally CANNOT be destroyed, except as
+      defined by the backing document of the type of switch, or unless
+      the instance does not belong to an entity within its restricted
+      class. If an instance of a switch ever does not belong to an
+      entity within its restricted class, it is immediately destroyed.

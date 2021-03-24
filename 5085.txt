@@ -1,0 +1,43 @@
+ID: 5085
+Title: degrees by proposal
+Author: Zefram
+Co-authors: 
+Adoption index: 1.5
+
+Amend rule 1367 to read
+
+      Certain patent titles are known as degrees.  The degrees are
+
+      - Associate of Nomic                 (A.N.)
+      - Bachelor of Nomic                  (B.N.)
+      - Master of Nomic                    (M.N.)
+      - Doctor of Nomic History            (D.N.Hist.)
+      - Doctor of Nomic Science            (D.N.Sci.)
+      - Doctor of Nomic Philosophy         (D.N.Phil.)
+
+      Degrees are ranked in the order they appear in this rule, with
+      degrees listed later being ranked higher.
+
+      A degree CANNOT be awarded to any person more than once, and
+      CANNOT be revoked once awarded.  A degree CAN be awarded by the
+      action of an instrumennt with power greater than or equal to the
+      power of this rule, but CANNOT be awarded in any other way.
+
+      A degree SHOULD be awarded ONLY IF its new bearer has published
+      a suitable thesis with explicit intent to qualify for a degree
+      (though not necessarily for the specific degree being awarded).
+      A thesis is an essay whose topic is any facet of Agora Nomic or
+      of nomic in general.  A thesis's suitability depends on its
+      originality and quality, with regard to the rank of the degree
+      to be awarded.
+
+Change the power of rule 1367 to 1.5.
+
+Repeal rule 1370.
+
+[We don't award degrees often enough to justify the rather complex
+process of rule 1370.  We can simplify it to a proposal process (which
+of course was always an option anyway), with advisory rule text on
+what should qualify.  Upmutate so that awarding a degree is more
+difficult than a normal proposal passage: in fact, this makes it more
+difficult than it previously was.]

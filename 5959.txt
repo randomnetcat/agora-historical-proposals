@@ -1,0 +1,19 @@
+ID: 5959
+Title: Epic History
+Author: Warrigal
+Co-authors: 
+Adoption index: 1.0
+
+Amend the rule titled "Agoran History" by adding the following at the
+end of the first paragraph:
+
+"The Book of History SHOULD take the form of an epic poem. In
+particular, it should start in medias res, with an invocation of a
+muse and a statement of theme; treat Agora as being the majority of
+the universe, with references to the outside world only when
+necessary; make use of epithets when referring to all important
+characters; include sections of detail that are not in narrative form,
+such as catalogues and long lists; feature long and formal speeches;
+contain divine intervention, from gods either real or fictional; and
+contain heroes that are larger than life. However, this should not
+greatly impair its usefulness as a historical reference."

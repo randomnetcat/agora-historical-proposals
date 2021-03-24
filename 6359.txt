@@ -1,0 +1,9 @@
+ID: 6359
+Title: First Game Clean-up
+Author: Quazie
+Co-authors: 
+Adoption index: 3.0
+
+Append the text of R 2244 to R104
+
+Repeal rule R2244

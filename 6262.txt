@@ -1,0 +1,17 @@
+ID: 6262
+Title: Interesting Recusals - Justiciar
+Author: Quazie
+Co-authors: 
+Adoption index: 1.0
+
+Replace the following paragraph from R 2225
+
+     When a player recuses emself from a judicial case whose interest
+     index equals eir rank, e CAN increase its interest index by 1 by
+     announcement.
+
+with
+
+     When a player recuses emself from a judicial case whose interest
+     index equals eir rank, the Justiciar CAN increase its interest
+     index by 1 by announcement.

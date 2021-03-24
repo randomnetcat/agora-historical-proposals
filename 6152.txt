@@ -1,0 +1,9 @@
+ID: 6152
+Title: H.
+Author: Pavitra
+Co-authors: 
+Adoption index: 3.0
+
+Increase the power of rule 2150 (The Map of Agora) to 3.
+
+Decrease the power of rule 101 (The Rights of Agorans) to 1.

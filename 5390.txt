@@ -1,0 +1,14 @@
+ID: 5390
+Title: Foreign communications
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled "Foreign communications" with this text:
+
+      When the Ambassador informs a foreign nomic of an event, e SHALL
+      use the forum (if any) specified by that nomic for announcing that
+      type of event.
+
+[Omitting the "reasonably possible" clause, which is sufficiently
+covered by the EXCUSED defense.]

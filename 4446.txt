@@ -1,0 +1,49 @@
+ID: 4446
+Title: Fix Single-Bid Auctions
+Author: Steve
+Co-authors: 
+Adoption index: 1
+
+Proposal
+Fix Single-Bid Auctions
+
+[Single-Bid Auctions are slightly broken - they cannot end early because
+the value of bids changes every 24 hours.]
+
+Amend Rule 2012 (Single-Bid Auctions) to read:
+
+      There is a type of auction called a single-bid auction. The
+      procedure for conducting a single-bid auction is the same as that
+      used in the default auction procedure, with the following
+      additions and exceptions:
+
+      (a) Bid inflation factor: As part of any correct and legal
+announcement that a single-bid auction is commencing, the Auctioneer must
+announce the value of the bid inflation factor for the auction, a real
+number between 0 and 1 inclusive.
+
+      (b) Making bids: each player eligible to bid in the auction is
+permitted to make only one bid, called the initial bid.  Any bids made by a
+player after eir initial bid in the auction are invalid. A player who
+cancels eir bid is ineligible to make further bids in the auction. All bids
+must be made publically.
+
+      (c) Value of bids: at each midnight GMT during the auction, the value
+of each valid, uncancelled bid remaining in the auction is increased by an
+amount equal to the bid inflation factor multiplied by the initial bid.
+
+      (d) End of auction: the auction ends if any of the following occur:
+
+	  (1) one week has passed from the start of the auction, and no      bids
+have been made; or
+
+          (2) a bid has been made in the auction, and there has been no
+         change in the N highest initial bids for 72 hours; or
+
+          (3) fourteen days have passed since the Auction began.
+
+      (e) Final auction price: for the purposes of determining the
+winner(s) of the auction, the value of each bid as calculated in (c) above
+is used. However, the debt incurred by a winner of the auction is equal to
+the Nth highest winning initial bid, where N is the number of items being
+auctioned, or to the starting bid, if there were fewer than N bids.

@@ -1,0 +1,18 @@
+ID: 5722
+Title: No, Mr. Garrison, we cannot get rid of all the Mexicans
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2150 (Personhood) by replacing this text:
+
+     Any biological organism that is capable of communicating by
+     email in English is a person.
+
+with this text:
+
+     Any biological organism that is generally capable of communicating
+     by email in English or a comparable general-purpose language is a
+     person.  (English is Agora's lingua franca; non-English speakers
+     will require a translation service to participate in a practical
+     sense.)

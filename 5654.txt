@@ -1,0 +1,10 @@
+ID: 5654
+Title: <none>
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+Append the following to the rule entitled "The Monster":
+{{{
+Agoran Monsters begin at midnight UTC on Monday.
+}}}

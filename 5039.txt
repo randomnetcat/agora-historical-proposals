@@ -1,0 +1,19 @@
+ID: 5039
+Title: pragmatic deregistration of limited partnerships
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2144 by appending the paragraph
+
+      If a registered partnership has the same basis as another
+      registered partnership, it can be deregistered by any player by
+      announcement.
+
+[Proposal 5022 curiously drops the restriction (present in the
+original rule 214) on registered partnerships changing basis to match
+another registered partnership, opening a loophole.  This proposal
+revives the restriction.  This version matches the pragmatic procedure
+of the final paragraph of rule 869 (which applies to players that
+cease to be persons), avoiding the problems of automatic unnotified
+deregistration that occur with the original version of rule 2144.]

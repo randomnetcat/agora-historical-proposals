@@ -1,0 +1,15 @@
+ID: 5583
+Title: Right to Vanish
+Author: ais523
+Co-authors: 
+Adoption index: 1
+
+Append the following to rule 869:
+{{{
+A player can "vanish" by announcement. Upon doing so, all assets
+e controls are transferred to the Lost and Found Department, e
+ceases to be bound by any contracts e is currently bound by, e
+is deregistered, and e CANNOT register for the next thirty days;
+in addition, if the vanishing player is a contract, e is
+terminated.
+}}}

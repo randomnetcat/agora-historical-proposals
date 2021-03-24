@@ -1,0 +1,9 @@
+ID: 6122
+Title: Nothing Original
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Create a Rule with the following text and a power of 3:
+
+  Goethe CAN cause this rule to amend itself by announcement.

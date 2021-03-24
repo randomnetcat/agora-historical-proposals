@@ -1,0 +1,26 @@
+ID: 6439
+Title: Deal Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2257, replace
+      Whenever the rules indicate that a dealer SHALL deal a card to
+      an entity, or that the entity "earns a draw" from a particular
+      deck, that deck's dealer SHALL, as soon as possible, create a
+      card in the possession of that entity, with the card chosen at
+      random from among cards in that deck, with the probability of a
+      particular card being chosen being the frequency of that card
+      divided by the sum of the frequencies of all the cards in that
+      deck (if this sum is zero, the requirement to deal asap is
+      waived, and the dealer SHALL NOT deal a card from that deck
+      until the sum is greater than zero).
+with
+      Whenever the rules indicate that a dealer SHALL deal a card to
+      an entity, or that the entity "earns a draw" from a particular
+      deck, that deck's dealer SHALL, as soon as possible, create a
+      card in the possession of that player. The card SHALL be chosen at
+      random from among cards in that deck, with the probability of a
+      particular card being chosen being the Frequency of that card
+      divided by the sum of the Frequencies of all the cards in that
+      deck. A dealer NEED NOT and SHALL NOT deal a card to a non-player.

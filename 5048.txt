@@ -1,0 +1,18 @@
+ID: 5048
+Title: renumeration
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2136 by replacing "is eir score" with "is eir score, and is
+always a non-negative integer".
+
+[It is otherwise unclear what the domain of scores is.]
+
+Amend rule 1023 by deleting the item
+
+      (a) The term "number" shall mean "real number".
+
+[Each instance of "number" in the ruleset either is discussing a value
+that is inherently a natural number or is explicitly qualified as
+"rational" or some other subset of the real numbers.]

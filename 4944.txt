@@ -1,0 +1,25 @@
+ID: 4944
+Title: allow Speaker deregistration
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 101 by deleting the words "besides the Speaker".
+
+Retitle rule 103 to "Exactly One Speaker".
+
+Amend rule 103 to read:
+
+      There should always be exactly one player who is the Speaker.
+      No one other than a player can be Speaker, and there can never be
+      more than one Speaker.  If there is ever no Speaker then the  
+player
+      whose most recent registration was earliest becomes the Speaker.
+
+[A Speaker leaving the game is not the disaster that it used to be.
+I see no justification for continuing to deny the Speaker eir civil  
+right
+to leave the game.  Speakership passing to the most senior player was
+something I previously put into R786/6 back in 1997 and which stayed in
+that rule until 2005.]

@@ -1,0 +1,21 @@
+ID: 4460
+Title: Clarify Proposal AI
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 594 by replacing the text reading:
+
+      The Adoption Index of a Proposal is the maximum of 1, the value
+      requested by its Proposer (if any), and the value required for
+      that Proposal by the Rules (if any).
+
+with text reading:
+
+      The Proposer of a Proposal may request an Adoption Index for the
+      Proposal in the same message in which e submits it. If the requested
+      Adoption Index is not reasonably clear, e shall be not be considered
+      to have requested an Adoption Index for that Proposal. The Adoption
+      Index of a Proposal is the maximum of 1, the value requested by its
+      Proposer (if any), and the value required for that Proposal by the
+      Rules (if any).

@@ -1,0 +1,15 @@
+ID: 5211
+Title: Scrub the Watcher's List
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Upon passage of this proposal the Registrar shall as soon as possible
+notify each person listed on the Watcher's List (as detailed in the
+Registrar's report) by announcement. The notification shall request
+that the watcher respond to the public forum with their intent to
+remain a watcher or their intent to register.
+
+One month after this proposal passes any person listed on the
+Watcher's List which has not sent a message to the public forum since
+this proposal passed is removed from said list.

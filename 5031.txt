@@ -1,0 +1,12 @@
+ID: 5031
+Title: clean up VC recordkeepor
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2126 by deleting the sentence "The Promotor is the
+recordkeepor of VCs.".
+
+[The concept of "recordkeepor" is no longer defined in the rules.  The
+Assessor is obliged to keep track of VCs, by virtue of eir reporting
+requirement in rule 2137.]

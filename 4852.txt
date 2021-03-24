@@ -1,0 +1,79 @@
+ID: 4852
+Title: The Black and Yellow Repeals
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+* This proposal:
+*   - Modifies the Library to use fees for checking out cards
+*   - Fixes the Library's infinite draw bug
+*   - Fixes the Library Renewal card bug
+*   - Separates the Library and Card Labs from the University (and
+*     shifts maintenance duties from the Speaker to the Deckmastor)
+*   - Demolishes the rest of the University (apart from theses)
+
+Amend Rule 2089 (Gardner Library) to read:
+
+      The Library is a site.  The Deckmastor is a limited executor of
+      the Library.
+
+      As soon as possible after the beginning of each quarter, the
+      Deckmastor shall discard all cards in the possession of the
+      Library.  The Library then gains five pending draws.
+
+      A player (hereafter the Borrower) may check out a specified card
+      from the Library by paying a fee.  The amount of the fee is 2
+      for Students and 1 for Faculty Members.
+
+      Whenever a card is checked out from the Library, it is
+      transferred to the Borrower.
+
+
+Amend the Onepower Cardbook by replacing the text reading:
+
+       * Caption:   Library Renewal
+         Frequency: Rare
+         Exploit:   Indicate a positive integer less than 6.  As soon
+                    as possible, the President of the University must
+                    randomly discard the indicated number of cards from
+                    the Library's hand, or all cards from the Library's
+                    hand, whichever is greater.
+
+with:
+
+       * Caption:   Library Renewal
+         Frequency: Rare
+         Exploit:   Indicate a non-empty set of at most 5 cards in the
+                    possession of the Library.  As soon as possible, the
+                    Deckmastor must discard the indicated cards from the
+                    Library's hand.  The Library gains a number of
+                    pending draws equal to the number of indicated
+                    cards.
+
+
+The Library is hereby deemed to have exactly five pending draws.
+
+
+Amend Rule 2104 (Contreras Card Labs) by deleting the text "The
+University encourages Card experimentation."
+
+
+Amend Rule 2086 (The University of Agora) by renaming it "Education"
+and changing it to read:
+
+      Education is a stuck player switch with values Student and
+      Faculty Member.  The Herald is the recordkeepor of education.
+      As soon as possible after a player is awarded a degree, the
+      Herald shall flip the education of that player to Faculty
+      Member.
+
+
+Amend Rule 1377 (The Herald) by appending the text:
+
+       (iv)  Each player's Education.
+
+
+Repeal Rule 2091 (The Office of Secretary of the University).
+Repeal Rule 2087 (Research Grants).
+Repeal Rule 2088 (The University Book Club).

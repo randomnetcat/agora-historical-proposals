@@ -1,0 +1,16 @@
+ID: 6632
+Title: Second Class Players Do Not Earn Ergs
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend the text in rule 2282 reading:
+
+      (b) P ergs are created in the possession of each player, where
+          P for a player equals 4 plus the sum of the interest
+          indices of offices that e holds.
+
+to read:
+     (b) P ergs are created in the possession of each player, where P
+         equals the sum of the interest indices of offices that e
+         holds, plus 4 if e is a first-class player.

@@ -1,0 +1,21 @@
+ID: 5808
+Title: Fix OVERLOOKED
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+    * OVERLOOKED, appropriate if the alleged act allegedly occurred
+      at least 200 days before the case was initiated
+
+with this text:
+
+    * OVERLOOKED, appropriate if the initiating announcement alleged
+      a rule breach at least 200 days before the case was initiated
+
+[Closes the loophole where the defendant can force OVERLOOKED by
+falsely alleging that the breach occurred a long time ago.]
+
+[Identical to Proposal 5787 except for AI and II.  5787 would have
+passed 10/1 if it had been democratic.]

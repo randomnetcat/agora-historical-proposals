@@ -1,0 +1,24 @@
+ID: 5620
+Title: The Historian
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+Create a Power 1 rule with the following text entitled 'Agoran Weekly Journal'
+
+The Agoran Weekly journal is a collection of the happenings in Agora
+during a given period of time.  Most often a Month.  It shall contain
+whatever information it's publisher deems necessary to document the
+happening in Agora during that Time Period.
+
+Create a power 1 rule with the following text entitled 'The Historian'
+{
+The Historian is a low-priority office; it's holder is responsible for
+keeping a running history of Agora.
+
+The Historian's Monthly Report consists of a new issue of the Agoran
+Weekly Journal.
+}
+
+If Murphy indicates that E accepts being Historian, upon the adoption
+of this proposal Murphy becomes Historian

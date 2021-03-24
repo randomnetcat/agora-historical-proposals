@@ -1,0 +1,12 @@
+ID: 6278
+Title: You're All Dried Up
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+For each player who did not submit a valid ballot on at least one Agoran
+Decision in the month of May 2009, flip that player's activity to
+inactive.
+
+[Note: If you are a lurker, you should probably just vote FOR this
+proposal as you therefore won't get made inactive by it.]

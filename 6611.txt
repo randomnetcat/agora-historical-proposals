@@ -1,0 +1,8 @@
+ID: 6611
+Title: For Eign Relations
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Repeal rules 2148, 2147, and 2159, in that order.
+[These are the foreign relations rules not related to the Speaker.]

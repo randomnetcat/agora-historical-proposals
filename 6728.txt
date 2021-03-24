@@ -1,0 +1,22 @@
+ID: 6728
+Title: Amendment
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Amend Rule 106 by replacing:
+
+       A player CAN remove (syn. retract, withdraw) a proposal e
+       authored from the Proposal Pool by announcement.
+
+with:
+
+       A player CAN remove (syn. retract, withdraw) a proposal e
+       authored from the Proposal Pool, or amend a proposal e authored
+       in the Proposal Pool, by announcement.
+
+[Right now, I think there is a tendency to avoid modifying proposals,
+even when, say, a simple change would improve clarity or avoid a
+trivial error, because doing so requires re-paying the
+Distributability fee.]

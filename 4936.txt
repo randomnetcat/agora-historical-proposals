@@ -1,0 +1,68 @@
+ID: 4936
+Title: Agoran Chromodynamics
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Repeal Rule 2126 (Voting Credits).
+
+Create a rule titled "Beads" with this text:
+
+      Beads are a measure of each player's economic power.
+
+      Players may spend eir own beads (destroying them), or trade
+      them to other players.
+
+      When a player wins the game, all beads are destroyed.
+
+      At the end of each quarter, half of each player's supply of
+      each type of bead (rounding up) are destroyed.
+
+      The Jewelor is an office, and the recordkeepor of each type
+      of bead.
+
+Create a rule titled "Earning Beads" with this text:
+
+      When a proposal is adopted, its author gains Red Beads equal
+      to the integer portion of the proposal's adoption index, and
+      each of its co-authors gains one Red Bead.
+
+      At the end of each month, each player gains Yellow Beads equal
+      to the number of offices e held for at least 15 days during that
+      month, plus one more if e was Speaker for the entire month.
+
+      When a player judges a CFJ during eir Deliberation Period, e gains
+      a Blue Bead.
+
+Create a rule titled "Combining Beads" with this text:
+
+      A player may spend two Beads to create a third, as follows:
+
+        a) Red + Yellow = Orange
+        b) Red + Blue = Purple
+        c) Yellow + Blue = Green
+
+Create a rule titled "Spending Beads" with this text:
+
+      A player may spend:
+
+        * Two Orange Beads to increase eir own voting limit on ordinary
+            proposals (VLOP) by one.
+        * One Orange Bead to increase another player's VLOP by one.
+        * Two Orange Beads to decrease another player's VLOP by one, to
+            a minimum of zero.
+
+      When a player wins the game, each player's VLOP is reset to one,
+      subject to modification by other rules.
+
+        * One Purple Bead to increase quorum on an ordinary proposal in
+            its voting period by one.
+        * Two Purple Beads to decrease quorum on such a proposal by one,
+            to a minimum of three.
+
+      A proposal that fails quorum increased in this fashion is vetoed.
+
+        * One Green Bead to waive all time limits for attempting to
+            replace an officer.
+        * One Green Bead to bar a player from judging a CFJ.

@@ -1,0 +1,34 @@
+ID: 4534
+Title: Clean Up Oligarchy Removal, take 2
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 2
+
+
+Amend R1963 by replacing:
+
+       (b) If an Oligarch becomes ineligible to be an Oligarch, the
+           GWotO shall remove that Player from the Oligarchy as soon as
+           possible.  The GWotO removes a Player from the Oligarchy by
+           correctly announcing that at least one of the above
+           conditions is true for that Player.  The named Player ceases
+           to be an Oligarch as of the GWoTO's announcement.
+
+With:
+
+       (b) If an Oligarch becomes ineligible to be an Oligarch, the
+           GWotO shall remove that Player from the Oligarchy.
+
+
+Amend R1936 by replacing:
+
+       (b) By default, a Player remains an Oligarch for a period of
+           time equal to the Oligarchic Term.  The Grand Warden of the
+           Oligarchy shall remove a Player from the Oligarchy by public
+           announcement, as soon as possible after eir term expires.
+           Other rules may cause Players to cease to be Oligarchs.
+
+with:
+
+       (b) When a Player's Term of Service expires, the Grand Warden of
+           the Oligarchy shall remove that Player from the Oligarchy.

@@ -1,0 +1,10 @@
+ID: 5677
+Title: none
+Author: Ivan Hope CXXVII
+Co-authors: 
+Adoption index: 1.5
+
+In rule 2198, remove the phrase "if, before the dependent action is
+resolved, no party blocks the change by announcement" and append "Any
+party to the contract CAN object to this dependent action." to the
+last paragraph.

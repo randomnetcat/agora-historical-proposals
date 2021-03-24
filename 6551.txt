@@ -1,0 +1,12 @@
+ID: 6551
+Title: Dead Contracts
+Author: copproh
+Co-authors: 
+Adoption index: 2.0
+
+Enact a new power-2 rule, entitled "Dead Contracts", with the following text:
+{{
+   A dead contract is a contract with no party to it whose basis
+   contains a player. Any player CAN terminate a dead contract by
+   announcement.
+}}

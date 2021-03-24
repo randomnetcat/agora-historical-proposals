@@ -1,0 +1,14 @@
+ID: 5782
+Title: Fix panels
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Upon the adoption of this proposal, the gamestate becomes what it would
+be if all panel assignments that were invalid solely due to one or more
+panelists being unqualified to judge the prior case due to hawkishness
+were instead valid.
+
+[While webifying the assign-panel script, I discovered that viewcase.php
+still listed hanging judges as eligible for panels pertaining to inquiry
+cases, similarly for hugging and criminal.  That's been fixed now.]

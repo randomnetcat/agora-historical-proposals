@@ -1,0 +1,8 @@
+ID: 5044
+Title: Actual Support for Democracy
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Increase the power of Rule 2142 to 2, and amend it by
+replacing the text "1.1" with "2".

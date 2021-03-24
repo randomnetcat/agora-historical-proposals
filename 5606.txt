@@ -1,0 +1,13 @@
+ID: 5606
+Title: A new prerogative
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2019 (Prerogatives) by appending this text:
+
+         e) Wielder of Extra Votes.  The Wielder of Extra Votes at
+            the start of an ordinary proposal's voting period has a
+            voting limit on that proposal of 1.4 times what it would
+            be otherwise (rounded using the same method as the weekly
+            update of EVLOD), rules to the contrary notwithstanding.

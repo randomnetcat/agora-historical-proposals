@@ -1,0 +1,14 @@
+ID: 6557
+Title: Fix Silence
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+
+In R1504 under the section "SILENCE" insert the word "once" after the following:
+{{
+any player CAN
+}}
+
+Remove the last sentence of R1504 (destroying rests from appealed
+judgements, no longer necessary)

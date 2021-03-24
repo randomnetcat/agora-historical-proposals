@@ -1,0 +1,19 @@
+ID: 5805
+Title: Fix "Left in a Huff"
+Author: Murphy
+Co-authors: Zefram
+Adoption index: 1.5
+
+Zefram is a co-author of this proposal.
+
+Amend Rule 1922 (Defined Regular Patent Titles) by replacing this text:
+
+     (f)  Left in a Huff, to be awarded by the Clerk of the Courts or
+          the Registrar (whichever one gets around to it first) to
+          any player who publishes a Cantus Cygneus.
+
+with this text:
+
+     (f)  Left in a Huff, to be awarded by the Clerk of the Courts or
+          the Registrar (whichever one gets around to it first) to
+          any person who deregistered in a Writ of FAGE.

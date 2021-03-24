@@ -1,0 +1,11 @@
+ID: 6719
+Title: Nonzero Fee Fix
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Amend Rule 2283 (Fees) by inserting
+       If the fee associated with a fee-based action is zero, the action
+       CAN be performed by announcement if it can otherwise be performed
+       by the procedure described above.

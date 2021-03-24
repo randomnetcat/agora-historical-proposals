@@ -1,0 +1,32 @@
+ID: 4785
+Title: option 2.1
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Goethe is a co-author on this proposal
+
+Amend Rule 2076 by replacing the text that reads:
+
+     Caption:  Not Your Turn
+     Elements: Budgeted, Delayed[2]
+     Exploit:  You may specify a card play that has occurred
+               in the past 48 hours, and (1) that card shall be
+               deemed to have not been played, and (2) the gambler
+               who originally played that card may not play a copy
+               of that card for the next 72 hours.
+
+ with
+
+
+     Caption:  Not Your Turn
+     Elements: Budgeted, Delayed[2]
+     Exploit:  You may specify a card play that has occurred
+               in the past 48 hours, and (1) that card shall be
+               deemed to have not been played, and (2) the gambler
+               who originally played that card may not play a copy
+               of that card for the next 72 hours.  If playing this
+               card directly leads to a condition which would
+               retroactively nullify its own play, the play is
+               ineffective.

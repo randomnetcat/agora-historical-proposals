@@ -1,0 +1,19 @@
+ID: 5979
+Title: Clarify quorum alterations
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2177 (The Senate) by replacing this text:
+
+     A proposal that ends its voting period in filibuster has a
+     quorum of the number of eligible voters plus 1, rules to the
+     contrary notwithstanding.
+
+with this text:
+
+     While a proposal is in filibuster, its quorum is the number of
+     eligible voters plus one, rules to the contrary notwithstanding.
+
+Amend Rule 2168 (Extending the voting period) by replacing "will
+immediately be" with "is instead".

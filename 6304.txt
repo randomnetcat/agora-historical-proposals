@@ -1,0 +1,23 @@
+ID: 6304
+Title: Protectorate Anarchy
+Author: Tiger
+Co-authors: 
+Adoption index: 2.0
+
+Repeal Rule 2147 (Protectorates).
+Repeal Rule 2159 (Protective Decrees).
+Amend Rule 2185 (Foreign Relations) to read:
+(
+      Recognition is a foreign nomic switch, tracked by the
+      Ambassador, with values Unknown (default), Friendly,
+      Neutral, Sanctioned, Hostile, and Abandoned.
+
+      The Ambassador CAN, without objection, flip a foreign nomic's
+      Recognition to any value. E SHALL inform that nomic of the
+      change as soon as possible.
+)
+If Rule 2207 has not been repealed, amend it to read:
+(
+      A player SHALL NOT export assets to a foreign nomic unless its
+      Recognition is Friendly or Neutral.
+)

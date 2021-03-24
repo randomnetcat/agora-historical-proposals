@@ -1,0 +1,35 @@
+ID: 5168
+Title: newbie award
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by appending to the list of ways that VCs can be
+gained (and lost, if both are in a single list) the new item
+
+      (+W) When a first-class person becomes a player and has never
+           been a player before, e gains one white VC.  When a
+           first-class person has been a player continuously for 100
+           days and has never been a player before that period, e
+           gains one white VC.
+
+[Long ago there was a currency award to new players.  This version of
+the newbie award has a couple of twists to make it interesting.  The
+immediate registration award, being only a single VC, can't be used
+for anything on its own, even to transfer to another player, so
+spamming registrations can't be used to inject lots of VCs into the
+economy.  White VCs can't be gained any other way, so they're valuable
+to a long-term player as a rare color, especially if we add ways to
+spend (say) six color together in the future, so there's a tension
+created between using the VC immediately and saving it up.  Finally,
+the 100-day bonus is not only an incentive to keep playing, it also
+opens up the possibility of transferring a white VC to another player
+who's collecting color, but only if the new player kept eir first
+white VC.  Incentive to enter into contracts early.]
+
+Change the color of all gray VCs to white.
+
+[If Murphy's colorising proposal passes and no one transfers gray VCs
+away from the partnerships first, the only gray VC in the game will be
+Manu's.  Its origin as a gratuitous VC back when VCs were invented
+makes this an appropriate translation.]

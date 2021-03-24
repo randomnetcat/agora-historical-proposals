@@ -1,0 +1,13 @@
+ID: 6350
+Title: <none>
+Author: coppro
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by appending to the list a new bullet
+reading as follows:
+
+{{
+      * ZOT, appropriate if the statement relates in some manner to
+        woodchucks.
+}}

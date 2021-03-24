@@ -1,0 +1,18 @@
+ID: 5045
+Title: Not Without Consent
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+If R2144 contains the following text remove it:
+{{
+If a registered partnership has the same basis as another
+    registered partnership, it can be deregistered by any player by
+    announcement.
+}}
+Then append the following text to R2144:
+{{
+If a registered partnership has the same basis as another
+    registered partnership, it can be deregistered by any player with
+Agoran Consent.
+}}

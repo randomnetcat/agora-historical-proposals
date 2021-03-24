@@ -1,0 +1,14 @@
+ID: 4918
+Title: An End To Silly Proposal Adoption Indices, v2
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 3
+
+
+Amend R106 by replacing the text:
+      The default adoption index of a proposal is one.
+
+With this text:
+
+The adoption index of a proposal is an integral multiple of 0.1, with a
+default and minimum value of 1.0.

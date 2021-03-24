@@ -1,0 +1,9 @@
+ID: 6111
+Title: Correction of Typos
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Create a new rule entitle "Correction of Proposal Response Typos" with power = 1 and the text:
+
+If in response to a proposal distribution an eligible voter submits a non-legal response that clearly and obviously resembles an acceptable response (AGANST, FR, etc.), the Assessor SHALL count eir vote as that response for which it most clearly resembles.

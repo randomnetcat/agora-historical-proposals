@@ -1,0 +1,24 @@
+ID: 6737
+Title: Festival Days
+Author: Murphy
+Co-authors: David Nicol
+Adoption index: 1.0
+
+PROPOSAL TEXT:
+Create a rule titled "Festival Days" with this text:
+
+       Agora Nomic recognizes and celebrates the following:
+
+         * January 12-14 - Agora's Unbirthday observed (as
+             described elsewhere)
+         * February 29 - St. Tib's Day
+         * March 19 - Mojoday
+         * April 1 - April Fool's Day
+         * May 25 - Towel Day
+         * June 30 - Agora's Birthday (as described elsewhere)
+         * July 15 - Confuflux
+         * August 12 - Zaraday
+         * September 26 - Bureflux
+         * October 24 - Maladay
+         * November 5 - Guy Fawkes Night
+         * December 8 - Afflux

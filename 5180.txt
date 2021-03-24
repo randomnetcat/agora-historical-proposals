@@ -1,0 +1,9 @@
+ID: 5180
+Title: reckless truthiness
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2149 by inserting the words "or which e is reckless
+regarding the veracity of" at the end of each sentence in the second
+paragraph.

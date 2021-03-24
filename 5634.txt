@@ -1,0 +1,17 @@
+ID: 5634
+Title: Specific crinimality
+Author: Taral
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing the text:
+
+      c) The action (which may be a failure to perform another action)
+         by which the defendant allegedly breached this rule.
+
+with the text:
+
+      c) A specific action (which may be a failure to perform another action)
+         by which the defendant allegedly breached this rule.
+
+      d) The messages (if any) in which the action occurred.

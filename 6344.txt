@@ -1,0 +1,23 @@
+ID: 6344
+Title: Nicked Off
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.0
+
+Create a new power=1 rule titled "Nicknames" with the text:
+{{
+As soon as possible after registering for the first time a player CAN
+and SHALL select a unique nickname to be used by Agora in the
+identification of that player on official documents. That nickname
+shall be used in the identification of that player even if later they
+cease to be registered. A person with a recognized nickname CAN change
+that nickname by announcement. Changing a nickname this way if it has
+been changed or created within the past 90 days is a class 5 crime of
+Assuming a Misleading Identity.
+
+Selecting a nickname that contains more than 20 characters, or more
+than two non-alphanumeric characters is the class 5 crime of Mentally
+Assaulting an Officer, unless at the same time as the selection the
+player changing nicknames supplies a suitable abbreviation which fits
+the required definition.
+}}

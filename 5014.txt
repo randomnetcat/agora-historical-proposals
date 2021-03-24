@@ -1,0 +1,13 @@
+ID: 5014
+Title: no private messages
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 478 by deleting the sentence
+
+                      A player performs an action "by private message"
+      to some player by sending an appropriate private message to the
+      specified player.
+
+[This definition is not used anywhere.]

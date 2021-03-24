@@ -1,0 +1,25 @@
+ID: 6163
+Title: Yes, it does matter. Anything can matter in Nomic.
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+Create a new power-3 rule with the following text:
+{{{
+A rule whose most recent Rule Change was by proposal is known as a
+Stable Rule.
+
+A rule whose most recent Rule Change was due to the rule amending
+itself, but where such a change was caused by a rule other than the rule
+itself, is known as a Brittle Rule. Any player can cause a Brittle Rule
+to repeal itself with 2.0 Agoran Consent.
+
+A rule whose most recent Rule Change was due to the rule amending
+itself, and where such a change was caused by the rule itself, is known
+as a Shattered Rule. Any player can cause a Shattered Rule to repeal
+itself with 1.2 Agoran Consent.
+
+A rule which is not Stable, Brittle, or Shattered, is Strange. Upon a
+win announcement that a given rule is Strange, nothing particularly
+interesting happens.
+}}}

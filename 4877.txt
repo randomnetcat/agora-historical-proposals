@@ -1,0 +1,8 @@
+ID: 4877
+Title: Conditional defugitation
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+If Proposal 4876 has been adopted, repeal Rule 1437.

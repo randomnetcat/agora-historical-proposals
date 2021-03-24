@@ -1,0 +1,19 @@
+ID: 4459
+Title: Clarify R1976
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1976 (Mentors' Bonus) to read:
+
+      In the four weeks immediately after eir Grace Period ends, a
+      Player (hereafter, the 'Protege') may award a Mentor's Bonus to
+      each Player (hereafter, a 'Mentor') e deems to have been helpful
+      to em as a new Player.
+
+      Each award is made by public announcement and must specify the
+      Mentor's name and a number of Stems. Upon such an announcement
+      the Bank shall incur a debt of that number of Stems to the named
+      Mentor.  The number of Stems a Protege may award in all of eir
+      Mentor's Bonuses shall not exceed the number of Stems in the New
+      Player Award.

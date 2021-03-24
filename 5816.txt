@@ -1,0 +1,41 @@
+ID: 5816
+Title: Tweak veracity
+Author: Murphy
+Co-authors: Pavitra
+Adoption index: 1.7
+
+Pavitra is a co-author of this proposal.
+
+Amend Rule 591 (Inquiry Cases) by replacing the paragraph beginning
+with "An inquiry case has a judicial question on veracity," with
+this text:
+
+      An inquiry case has a judicial question on veracity, which is
+      always applicable.  The valid judgements for this question are
+      as follows, based on the veracity on the statement at the time
+      the inquiry case was initiated:
+
+      * TRUE, appropriate if the statement was factually and logically
+        true
+
+      * FALSE, appropriate if the statement was factually and logically
+        false
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable or otherwise not capable of being accurately
+        described as either true or false
+
+      * FLOYD, appropriate if the statement logically could have been
+        consistently described as either true or false
+
+      * UNDETERMINED, appropriate if the statement is nonsensical or
+        too vague, or if the information available to the judge is
+        insufficient to determine which of the TRUE, FALSE, UNDECIDABLE,
+        and FLOYD judgements is appropriate; however, uncertainty as
+        to how to interpret or apply the rules cannot constitute
+        insufficiency of information for this purpose
+
+      * IRRELEVANT, appropriate if the veracity of the statement is
+        not relevant to the game
+
+[See ftp://ftp.nvg.ntnu.no/pub/frc/29 for the source of FLOYD]

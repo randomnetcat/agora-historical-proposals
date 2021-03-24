@@ -1,0 +1,16 @@
+ID: 5138
+Title: repeal obsolete veto
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2019 by deleting the paragraph that begins "The Speaker
+may veto".  Retitle rule 2019 to "Rubber Stamp".
+
+[The purpose of the veto, to stop ladder scams and other undemocratic
+measures being adopted by the undemocratic Ordinary Proposal
+procedure, has been superseded by the "Support Democracy" procedure of
+rule 2142.  R2142's procedure is superior not only because it confers
+immunity to scams even if they involve the speaker but also because it
+does not impose the turnaround time of reproposing a wrongly-vetoed
+proposal.]

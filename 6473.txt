@@ -1,0 +1,9 @@
+ID: 6473
+Title: That Was Easy
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Each person who, at the end of the voting period for the Agoran Decision
+to adopt this proposal, had a valid vote FOR this proposal and none
+AGAINST, wins the game.

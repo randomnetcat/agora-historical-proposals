@@ -1,0 +1,57 @@
+ID: 4783
+Title: Feexins
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+
+Enact a rule with power 2, titled "Notices of the Agoran Society" and
+reading:
+
+      A notice is a public message which sets forth the intent to
+      perform some action or which makes an allegation or
+      announcement.
+
+      Notices are presumptively valid.  The rules may provide
+      mechanisms by which notices may be invalidated.
+
+Amend rule 1941 (Fees) to read:
+
+      A fee is an index.  The rules may associate a fee with an
+      action.  Any such action is a fee-based action.  The
+      normalization of a fee is the least natural number greater than
+      or equal to the fee.
+
+      A feection is a notice submitted by a player (the Actor) which
+      sets out the intent to perform a fee-based action.  The feection
+      is valid only if:
+
+      (1) it specifies the action to be performed;
+
+      (2) either the fee is zero, or the feection specifies that there
+          is a fee for performing the action; and
+
+      (3) the Actor has at least as many kudos as the normalization of
+          the fee.
+
+      Upon the publication of a feection, the Actor's kudos are
+      decreased by the normalization of the fee.  If the feection is
+      valid, the described action is performed by the Actor.
+
+      A player throws the gauntlet by publicly alleging that a
+      specific feection is invalid because the Actor possessed
+      insufficient kudos to perform the action.
+
+      As soon as possible after a player throws the gauntlet, the
+      Herald shall confirm or deny the allegation.  E must confirm it
+      if e cannot determine by reasonable effort whether the
+      allegation is correct.
+
+      When the Herald confirms a thrown gauntlet:
+
+      (1) if the challenged feection was published no more than seven
+          days before the gauntlet was thrown, the Actor's kudos
+          are restored to em; and
+
+      (2) the action described in the feection shall be deemed not to
+          have been performed.

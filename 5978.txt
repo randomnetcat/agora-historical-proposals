@@ -1,0 +1,15 @@
+ID: 5978
+Title: Maximum Voting Limits
+Author: Elysion
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule entitled "Maximum Voting Limits" with power 2 reading as
+follows:
+
+     Other rules to the contrary notwithstanding, no entity may have
+     greater a voting limit than as allowed by this rule.
+
+     The maximum voting limit for any entity on an ordinary decision
+     is 8. The maximum voting limit for any entity on any other decision is
+     1.

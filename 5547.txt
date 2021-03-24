@@ -1,0 +1,7 @@
+ID: 5547
+Title: <none>
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by changing all instances of "VVLOP" to "VVLOD".

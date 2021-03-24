@@ -1,0 +1,9 @@
+ID: 6062
+Title: Social experiment
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Create a new rule, entitled Horses:
+
+        Milking cows is a weekly action.

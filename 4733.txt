@@ -1,0 +1,31 @@
+ID: 4733
+Title: Clarify Card Plays
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2069 by replacing the text that reads:
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule says otherwise, a Card is
+          automatically transferred to the Discard Pile immediately
+          after being Played.
+
+with:
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          clearly indicates the card whose Exploit e is performing and
+          e meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule says otherwise, a Card is
+          automatically transferred to the Discard Pile immediately
+          after being Played.

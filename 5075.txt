@@ -1,0 +1,15 @@
+ID: 5075
+Title: MMIify truthfulness
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2149 by replacing the text
+
+      Players are prohibited from deliberately or recklessly making
+      false statements in any public message.
+
+with
+
+      Players SHALL NOT deliberately or recklessly make false
+      statements in any public message.

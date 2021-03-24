@@ -1,0 +1,13 @@
+ID: 6604
+Title: Without Objection Pool Removal
+Author: Walker
+Co-authors: 
+Adoption index: 3.0
+
+Append the following to Rule 1607 (The Promotor):
+
+     The Promotor CAN, without objection, remove a specified proposal
+     from the proposal pool.
+
+Mutate Rule 1607 (The Promotor) to Power 3. [Pool removal is secured by
+R106.]

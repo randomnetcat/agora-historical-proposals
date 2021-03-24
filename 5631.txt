@@ -1,0 +1,14 @@
+ID: 5631
+Title: Sit in the corner and think about what you've done!
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.7
+
+In R1504 under the paragraph dealing with APOLOGY replace:
+{{
+within 72 hours
+}}
+with:
+{{
+as soon as possible
+}}

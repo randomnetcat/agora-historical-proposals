@@ -1,0 +1,23 @@
+ID: 4842
+Title: Clarify Rule 1567
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1567 (Making Oneself Ineligible to Judge a CFJ) by
+appending, after this text:
+
+      A Player makes emself ineligible to be the Judge of a specific
+      CFJ or type of CFJ by informing the Clerk of the Courts that e
+      does so.  Such a notice remains in effect for one month, or
+      until the Player informs the Clerk of the Courts that it is no
+      longer in effect, whichever is soonest.
+
+the following text:
+
+      A request identifying all CFJs within a time period shall be
+      interpreted as referring to all CFJs called within that period.
+
+[So if you really mean "I request to be ineligible to judge all CFJs;
+this request becomes ineffective after two weeks", then say so!]

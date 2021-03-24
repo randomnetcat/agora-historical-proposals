@@ -1,0 +1,36 @@
+ID: 5273
+Title: Exit clauses
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1742 (Contracts) to read:
+
+      A contract (syn. "binding agreement") is an agreement made by
+      a group of two or more persons with the intention that it be
+      binding upon them and be governed by the rules.
+
+      A contract CAN be modified, including terminating it or changing
+      the set of its parties, by agreement between all parties.  A
+      contract automatically terminates if the number of its parties
+      falls below two.
+
+      Parties to a contract SHALL act in accordance with it.  This
+      obligation is not impaired by contradiction between the contract
+      and any other contract, or between the contract and the rules.
+
+      When a player deregisters, e ceases to be a party to all
+      contracts, unless e specifies otherwise at the time, or the
+      contract specifies otherwise.
+
+Amend Rule 2136 (Contests) by appending to this text:
+
+      A contest is an agreement that identifies itself as such, and
+      identifies exactly one party as its contestmaster; all other
+      parties are its contestants.
+
+this text:
+
+      The contestmaster of a contest CAN cease to be a party to it by
+      announcement, in which case the contest terminates if it fails
+      to identify a different party as the new contestmaster.

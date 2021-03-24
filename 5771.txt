@@ -1,0 +1,17 @@
+ID: 5771
+Title: Let the CotC decide
+Author: root
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 by replacing this text:
+
+     When the CotC recuses a non-supine player with cause, e SHALL
+     flip that player's posture to supine by announcement in a timely
+     fashion.
+
+with this text:
+
+     When the CotC recuses a non-supine player with cause, e CAN
+     flip that player's posture to supine by announcement in a timely
+     fashion.

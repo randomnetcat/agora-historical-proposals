@@ -1,0 +1,7 @@
+ID: 5174
+Title: simplify revoting
+Author: Pavitra
+Co-authors: 
+Adoption index: 3
+
+Amend rule 683 by replacing the text "only the first N" with "only the last N".

@@ -1,0 +1,11 @@
+ID: 6370
+Title: Reasonable contestmaster rewards
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.0
+
+Remove the second paragraph of R2234. Append the following to the
+first paragraph of R2234:
+{{
+Upon making such an announcement that player is awarded 5+5i points.
+}}

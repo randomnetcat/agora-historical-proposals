@@ -1,0 +1,7 @@
+ID: 6584
+Title: Proposal
+Author: c.
+Co-authors: 
+Adoption index: 2.0
+
+Flip the contestmaster of Cookie Jar to none.

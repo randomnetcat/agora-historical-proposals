@@ -1,0 +1,32 @@
+ID: 4757
+Title: Limit Proposal Rewards
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+[Some of these rewards for adopted proposals are getting out of hand.]
+
+Amend the rule titled "The Assessor's Boon Duties" by
+replacing the text reading:
+
+         * If a Proposal passes, and that Proposal was submitted by a
+           Player within that Player's Grace Period, then the Assessor
+           shall award the Proposor the Boon of Prodigy.
+
+with:
+
+         * If a Proposal passes, and that Proposal was submitted by a
+           Player within that Player's Grace Period, then the Assessor
+           shall award the Proposor the Boon of Prodigy, unless the
+           Proposor has already received five or more such awards.
+
+
+Amend rule 2080 to read:
+
+      If a Proposal is adopted, the Proposer may draw from the deck by
+      announcing the Proposal number while drawing; so long as the
+      Proposer's Hand Size is smaller than the Maximum Hand Size plus
+      the number of Offices e holds, the Proposer performs the draw
+      within a week after the proposal's adoption, and the Proposer
+      has not already done so for the same proposal.

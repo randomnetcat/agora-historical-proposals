@@ -1,0 +1,12 @@
+ID: 5461
+Title: Prerogatives for Players
+Author: Wooble
+Co-authors: 
+Adoption index: 2
+
+In Rule 2019, replace:
+    the Speaker SHALL randomly assign each Minister Without Portfolio
+with:
+    the
+      Speaker SHALL randomly assign each Player who bears the patent title
+      Minister Without Portfolio

@@ -1,0 +1,27 @@
+ID: 5206
+Title: I feel, therefore I act
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2149 (Truthiness, or the Island of Knights and Knaves)
+to read:
+
+      Truthiness is a player switch, tracked by the Speaker, with
+      values Knight (default) and Knave.
+
+      A knight SHALL NOT publish statements e thinks are false.  A
+      knave SHALL NOT publish statements that e thinks are true;
+      however, if the rules otherwise permit a knave to perform an
+      action by announcement, then the knave is considered to /feel/
+      the announcement to be true, and this rule prohibits neither
+      the announcement nor the action.
+
+      A player SHALL NOT publish a statement whose veracity e believes
+      will be generally misinterpreted by other players.
+
+      Merely quoting a statement does not constitute publishing it for
+      the purposes of this rule.  Any disclaimer, conditional clause,
+      or other qualifier attached to a statement constitutes part of
+      the statement for the purposes of this rule; the truth or
+      falsity of the whole is what is significant.

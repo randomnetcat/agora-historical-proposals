@@ -1,0 +1,13 @@
+ID: 5766
+Title: root made me do it
+Author: ais523
+Co-authors: root
+Adoption index: 1.0
+
+Append the following to the rule titled "The Monster":
+{{{
+      Where the verb "to register" or "to deregister" is used
+      without an explicit direct Monster, the action is implicitly
+      reflexive.
+
+}}}

@@ -1,0 +1,15 @@
+ID: 5170
+Title: champion's reward
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by appending to the list of ways that VCs can be
+gained (and lost, if both are in a single list) the new item
+
+      (+U) When a player wins the game, e gains two ultraviolet VCs.
+
+[This has an interesting interaction with the win-by-palette proposal:
+it means that someone has to win in some other way first before a win
+by palette can occur.  Adds to the bragging rights of a
+champion-by-palette.]

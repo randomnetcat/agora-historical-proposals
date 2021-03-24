@@ -1,0 +1,60 @@
+ID: 5605
+Title: Return of the secret ballot
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 107 (Initiating Agoran Decisions) by appending this text:
+
+       A decision is secret if and only if the notice says it is.  Votes
+       on a secret decision SHALL NOT be disclosed to anyone other than
+       its vote collector during its voting period.
+
+Amend Rule 683 (Voting on Agoran Decisions) by replacing this text:
+
+       An eligible voter on a particular Agoran decision submits a
+       ballot to the vote collector by publishing a valid notice
+       indicating which one of the available options e selects.  To be
+       valid, the ballot must satisfy the following conditions:
+
+       (a) The ballot is submitted during the voting period for the
+           decision, and the submitter is an eligible voter at the
+           time of submission.
+
+       (b) The ballot clearly identifies the matter to be decided.
+
+       (c) The ballot clearly identifies the option selected by the
+           voter.
+
+       (d) The voter has not publicly retracted the ballot during the
+           voting period.
+
+with this text:
+
+       An eligible voter on a particular Agoran decision submits a
+       ballot by sending it to the vote collector.  To be valid, the
+       ballot must satisfy the following conditions:
+
+       (a) The ballot is submitted during the voting period for the
+           decision, and the submitter is an eligible voter at the
+           time of submission.
+
+       (b) The ballot clearly identifies the matter to be decided.
+
+       (c) The ballot clearly identifies the option selected by the
+           voter.
+
+       (d) The ballot is sent privately (if the decision is secret)
+           or publically (otherwise).
+
+       The submitter of a ballot can retract it (thus invalidating it)
+       by informing the vote collector that e does so.  To be valid, the
+       retraction must satisfy the following conditions:
+
+       (a) The retraction is submitted during the voting period for the
+           decision.
+
+       (b) The retraction clearly identifies the ballot to be retracted.
+
+       (c) The retraction is sent privately (if the decision is secret)
+           or publically (otherwise).

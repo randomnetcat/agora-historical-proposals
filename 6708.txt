@@ -1,0 +1,102 @@
+ID: 6708
+Title: The Gameplay-o-Matic
+Author: coppro
+Co-authors: comex, woggle
+Adoption index: 1.9
+
+COMMENTS:
+Basically, the idea is that everyone builds up a set of rules gradually,
+then they can be joined together into a coherent form and enacted by
+proposal. When this happens, the contributors to the amalgam proposal
+are rewarded - the high reward for authorship of a Defragmentation
+Proposal is intended to encourage competition in writing those
+proposals.
+
+No mechanism exists to remove individual Fragments, as bad Fragments
+simply will not get added to proposal Inodes, or else the proposal will
+not be adopted. Likewise, proposals that abuse the spirit of this rule
+will not be adopted.
+
+Some of the wording is bad, but I would rather enact this and start
+encouraging Fragment-based gameplay right away and fix it later.
+
+I'm upping Leadership Tokens so that they can actually destroy Rests;
+the 1.9 number was picked because 2 is too high but I don't want
+Leadership Tokens to rely on a Rule of lower power to be the
+recordkeepor.
+
+PROPOSAL TEXT:
+Enact a new Rule with power 1.9, entitled "Fragments", with the
+following text:
+{{
+       If
+         - e has not already done so, or
+         - if at least two other players done so so e last did so, or
+         - three days have passed since e last did so,
+       a player CAN publish a Fragment. A Fragment SHOULD be a short
+       (possibly as small as a sentence) body of text intended to become
+       a portion of a Rule. A new Fragment SHOULD bear some relation to
+       existing Fragments.
+
+       The Granulator is an office. Eir weekly report includes a
+       listing of all Fragments and their authors and is self-ratifying.
+
+       Fragments have ID numbers, to be assigned by the Granulator.
+
+       The Granulator CAN, without 3 Objections, cause all Fragments to
+       cease to be Fragments.
+}}
+
+Enact a new Rule with power 1.9, entitled "Defragmentation Proposals"
+with the following text:
+{{
+       Some proposals are Defragmentation Proposals (D-Proposals).
+       D-Proposals are associated with a number of Fragments; these
+       Fragments make up the D-Proposal's Inode.
+
+       A Proposal's author CAN, in the same message in which a Proposal
+       is submitted, make it a D-Proposal if, e adds at least four
+       Fragments to its Inode in that message.
+
+       A player CAN, without objection from the Proposal's author (or
+       by announcement if e is emself the author), add a Fragment to a
+       D-Proposal's Inode. A Fragment SHALL only be added to a
+       D-Proposal's Inode if the D-Proposal's adoption would cause the
+       text of the Fragment (or substantially similar text) to be
+       included in the Ruleset.
+
+       On an Agoran Decision to adopt a D-Proposal, the list of Fragments
+       in the Proposal's Inode along with their authors is an essential
+       parameter. The Promotor's report shall include the same
+       information for each D-Proposal in the report.
+
+       When a D-Proposal is adopted, immediately before it takes effect,
+       the author of that Proposal is awarded a Leadership Token.
+       Additionally, each player who authored one or more Fragments in
+       the Proposal's Inode is awarded Leadership Tokens equal to one
+       third the number of such Fragments e authored, rounded up.
+       Lastly, all Fragments cease to be Fragments.
+
+       If a Fragment that is a member of a Defragmentation Proposal's
+       Inode ceases to be a Fragment, it is still treated as one for the
+       purpose of rules relating to that Proposal.
+}}
+
+If there exist a rule entitled 'Leadership Tokens', amend it to read as
+follows; otherwise enact a rule entitled 'Leadership Tokens' with the
+following text:
+{{
+       Leadership Tokens are a currency tracked by the Granulator. A
+       player CANNOT destroy (redeem) Leadership Tokens in eir
+       possession except by announcement and for a specified one of the
+       following effects:
+
+         (a) A player CAN redeem 3 Leadership Tokens in eir possession
+             to satisfy the Winning Condition of Leadership.
+         (b) A player CAN redeem 1 Leadership Token in eir possession
+             to destroy up to 4 Rests e owns.
+         (c) A player CAN redeem 1 Leadership Token in eir possession
+             to award emself 7 ergs.
+}}
+
+Change the power of the rule entitled 'Leadership Tokens' to 1.7.

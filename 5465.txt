@@ -1,0 +1,35 @@
+ID: 5465
+Title: Simplify case transfer
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2164 (Judicial Self-Recusal and Case Transfer) by replacing
+this text:
+
+      Judicial cases can generally be transferred between judges by
+      this procedure: an entity (the transferee) CAN assign emself as
+      the judge of a judicial case by announcement if:
+
+      (a) the case has a judge assigned (the transferor); and
+
+      (b) the transferor and the transferee are different entities;
+          and
+
+      (c) the transferor has previously publicly consented to the
+          transfer and not publicly withdrawn that consent; and
+
+      (d) the transferee is qualified to be assigned as judge of the
+          case; and
+
+      (e) the transferee immediately (in the same announcement)
+          assigns a judgement to a judicial question in the case.
+
+with this text:
+
+      An entity (the transferee) CAN, with consent from the current
+      judge of a judicial case (the transferor), assign emself as the
+      new judge of that case, provided that e is qualified to be
+      assigned as judge of that case, and e immediately (in the same
+      announcement) assigns a judgement to a judicial question in
+      that case.

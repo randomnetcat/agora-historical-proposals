@@ -1,0 +1,27 @@
+ID: 4701
+Title: One Revolution per Quarter
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  One Revolution per Quarter
+
+[We have Guy Fawkes and Bastille Day, so...]
+
+Create the following Rule, entitled May Day:
+
+    A Worker is any player who is not an Officer.
+
+    On the First of May, any worker may remove any officer from
+    an office by public declaration.  The declaring worker becomes
+    the holder although not electee of that office, providing e
+    is otherwise eligible to hold the Office.
+
+
+Create the following Rule, entitled Spring Break:
+
+    The Caller of any Call for Judgement made on March 21 is
+    eligible to judge that same CFJ, even if other Rules would
+    make em ineligible.  The Clerk of the Courts must choose
+    the Caller to be the Trial Judge of that CFJ.

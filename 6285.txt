@@ -1,0 +1,16 @@
+ID: 6285
+Title: Precedence fix
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1030 (Precedence between Rules with Equal Power) by
+appending the following paragraph:
+
+      Any claim of precedence in a rule, including a claim of
+      precedence over "all" or similarly broad classes of rules,
+      is considered to be a claim of precedence over rules with
+      equal power only, unless it explicitly, clearly, and
+      directly claims to stipulate a means of determining
+      precedence between rules of different (i.e. higher, lower,
+      or otherwise unequal) power.

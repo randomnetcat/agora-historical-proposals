@@ -1,0 +1,23 @@
+ID: 6148
+Title: Clarifying Actions
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Create the following rule, entitled Do It On Time
+{{{
+     When a rule requires a player to complete an action, a player
+     SHALL complete the action with regards to the circumstances at the
+     time the action was first required. This is considered part of the
+     obligation to perform the action, and not a separate obligation.
+
+     If a player believes the action was incorrect due to changing
+     circumstances, e SHALL take the required action, while stating
+     that with N Agoran Consent, where N is an integral multiple of 0.1
+     from 2.0 to 9.9, e intends to retract the required action e
+     performed and instead perform another one. Such a change is not
+     retroactive, and as such it may only be possible to partially
+     retract the earlier action. If this is the case, the inability to
+     complete part of the retraction does not hamper the remainder of
+     the action.
+}}}

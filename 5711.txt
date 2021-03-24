@@ -1,0 +1,22 @@
+ID: 5711
+Title: Community service
+Author: Murphy
+Co-authors: woggle
+Adoption index: 1.7
+
+woggle is a co-author of this proposal.
+
+Amend Rule 1504 (Criminal Cases) by appending this text between the
+sections on FINE and CHOKEY:
+
+     * COMMUNITY SERVICE with a set of up to five tasks (the
+       prescribed tasks) that the ninny CAN reasonably perform,
+       appropriate for rule breaches of moderate consequence if the
+       severity of the rule breach is reasonably correlated with the
+       consequences of performing the tasks, and especially if any
+       other available non-null punishment would be either unjust or
+       insufficient.  The balance between compensatory and punitive
+       service is left to the judge's discretion.  While a sentence
+       of this type is in effect, the ninny SHALL perform the
+       prescribed tasks (as soon as possible, unless a different
+       time limit is specified).

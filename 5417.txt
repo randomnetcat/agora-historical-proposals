@@ -1,0 +1,16 @@
+ID: 5417
+Title: No notes for disinterested proposals
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2194 (Notes) by replacing this text:
+
+      (1) At the end of each week, for each player, let X be the
+          number of eir proposals that were adopted during that week,
+
+with this text:
+
+      (1) At the end of each week, for each player, let X be the number
+          of eir interested proposals that were adopted during that
+          week,

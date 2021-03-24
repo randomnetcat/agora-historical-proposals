@@ -1,0 +1,29 @@
+ID: 5171
+Title: I can has logic?
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Enact a power=2 rule with title "Grammar for Logic" and text
+
+      The following terms are defined for the discussion of logical
+      relationships between situations, events, and definitions.  The
+      key words are spelled in all capitals.  Where these words are
+      used in lowercase these definitions do not necessarily apply,
+      but SHOULD be used as a guide to interpretation.
+
+      * <x> IF <y>: if <y> is true then <x> is necessarily the case;
+        says nothing about situations where <y> is false.
+
+      * <x> ONLY IF <y>: <not-x> IF <not-y>.
+
+      * <x> IFF <y>: <x> IF <y> and <x> ONLY IF <y>.
+
+      * <x> UNLESS <y>: <x> IF <not-y>.
+
+      * IF <x> THEN <y>: <y> IF <x>.
+
+[Explicitly define these terms to have their usual propositional logic
+meaning.  Pavitra has reraised the issue of whether we need them.
+This rule text is from "clarify MMI", and is hopefully less
+controversial than the rest of that proposal.]

@@ -1,0 +1,12 @@
+ID: 5783
+Title: Fix dangling references
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 955 (Determining the Will of Agora) by replacing "is
+ordinary or democratic" with "has an adoption index".
+
+Amend Rule 2019 (Prerogatives) by replacing "(rounded using the same
+method as the weekly update of EVLOD)," with "(rounded to the nearest
+integer, breaking ties toward odd integers),".

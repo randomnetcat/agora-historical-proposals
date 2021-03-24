@@ -1,0 +1,25 @@
+ID: 6492
+Title: Three-tier voting limits
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1950 (Voting on Democratic Decisions) by appending this text:
+
+      For democratic decisions with an adoption index less than 3,
+      each eligible voter's limit is increased by one if eir caste
+      is at least Beta, and decreased by one for each positive
+      multiple of 12 Rests that e possesses at the start of the
+      voting period.
+
+Amend Rule 2222 (Maximum Voting Limits) by replacing this text:
+
+      The maximum voting limit for any entity on an ordinary decision
+      is 12. The maximum voting limit for any entity on any other
+      decision is 1.
+
+with this text:
+
+      The maximum voting limit for any entity is 12 for an ordinary
+      decision, 2 for a democratic decision, and 1 for any other
+      decision.

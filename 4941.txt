@@ -1,0 +1,13 @@
+ID: 4941
+Title: resurrect the Assessor
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 106 by replacing the text "the vote collector is the
+Speaker." with "the vote collector is the Assessor.  The Assessor is
+an office.".
+
+[There's no reason to tie vote collection duties to the Speakership.
+By making it a separate office, someone can specialise in it.]

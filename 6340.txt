@@ -1,0 +1,21 @@
+ID: 6340
+Title: Permission to Ratify
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2202 (Ratification Without Objection) by replacing:
+
+      A player SHALL NOT knowingly use or announce intent to use
+      Ratification Without Objection to ratify a (prior to
+      ratification) incorrect document when a corrected document could
+      be produced with reasonable effort.
+
+with:
+
+      A player SHALL NOT knowingly use or announce intent to use
+      Ratification Without Objection to ratify a (prior to
+      ratification) incorrect document when a corrected document could
+      be produced with reasonable effort, unless the general nature of
+      the document's error and reason for ratifying it is clearly
+      and plainly described in the announcement of intent.

@@ -1,0 +1,18 @@
+ID: 4823
+Title: Minor Switch Fix
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2040 by replacing the text that reads:
+
+      Whenever a state ceases to be a state of a switch, all entities
+      in the class that had previously been in that state shall be
+      flipped to the default state of the switch.
+
+with:
+
+      Whenever a state ceases to be a state of a switch, all entities
+      in the class that had previously been in that state shall be in
+      the default state of the switch.

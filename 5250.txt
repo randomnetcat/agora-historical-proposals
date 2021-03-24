@@ -1,0 +1,20 @@
+ID: 5250
+Title: Hawkishness
+Author: AFO
+Co-authors: 
+Adoption index: 1.5
+
+This proposal has no effect unless "Generalize poor qualification"
+was adopted.
+
+Amend Rule 1871 (The Standing Court) by inserting this text before the
+paragraph beginning "When the CotC assigns a standing player":
+
+      Hawkishness is a player switch with values Hanging, Hugging,
+      and Hemming-and-Hawing (default), tracked by the Clerk of the
+      Courts.  A player CAN flip eir hawkishness by announcement.
+
+      A hanging player is unqualified to be assigned as judge of any
+      inquiry case.  A hugging player is unqualified to be assigned as
+      judge of any criminal case, and poorly qualified to be assigned
+      as judge of any equity case.

@@ -1,0 +1,17 @@
+ID: 5754
+Title: The Endless Repeals: 1023.a.6-8
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1023 (Common Definitions) by removing:
+          (6) A "paragraph" identified by partial quotation is
+              determined by the minimum sub-tree containing the
+              entirety of that quotation.
+
+          (7) A "paragraph" identified by an ordinal n is determined
+              by the nth unbulleted unit and its descendants.
+
+          (8) A "paragraph" identified by enumerated section labels is
+              determined by the sub-tree arrived at by traversal from
+              the root, using the specified series of labels.

@@ -1,0 +1,16 @@
+ID: 6438
+Title: Dealer Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2253, replace
+      however the e SHALL only perform these actions as explicitly
+      permitted by the Rules.  E MAY transfer, play, or destroy cards
+      in eir own possession as any other player generally MAY.
+with
+      however e SHALL only perform these actions as explicitly permitted
+      by the Rules.  E MAY perform any card-related actions as would be
+      POSSIBLE for em to do so were it not for the above paragraph.
+[This fixes the rule and also expands it to include actions such as the
+destruction of LFD property, which recordkeepors can normally perform.]

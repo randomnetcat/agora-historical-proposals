@@ -1,0 +1,12 @@
+ID: 4514
+Title: A Duty to Vote
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule titled "A Duty to Vote" with this text:
+
+       When an election fails quorum, each eligible voter who did not
+       vote commits the Class 1 Infraction of Apathy, to be reported
+       by the vote collector.

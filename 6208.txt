@@ -1,0 +1,13 @@
+ID: 6208
+Title: Defining Forum
+Author: Yally
+Co-authors: 
+Adoption index: 3.0
+
+This proposal should help to alleviate the condition where a forum
+temporarily goes down.
+
+Add the following text to the beginning of Rule 478 (Fora):
+
+      A forum is any place where communication may take place or may
+      have taken place.

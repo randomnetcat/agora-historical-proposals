@@ -1,0 +1,29 @@
+ID: 4661
+Title: More cards
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: "More cards"
+
+Append the following to rule R2071 "Wacky Cards"
+
+ * Caption: Fancy Duds
+   Quota: 2
+   Elements: None
+   Exploit: You may discard X Dud Cards to draw X Cards for free.
+
+ * Caption:  Fish your Wish
+   Quota: 5
+   Elements: Handed[2]  Limited [Quazie while his hand is Frozen][1]
+   Exploit:  You may indicate any one card from the deck, to be known
+as the 'Wish', and any one player, to be known as the 'Fisherman',
+provided that the Fisherman is not currently indicated by any other
+'Fish your Wish' card.  If the Fisherman is already indicated by
+another 'Fish your Wish' card then the playing of the card is
+unsuccessful and this card does not leave the player's hand.  If the
+Fisherman's next draw is the Wish you get the card from them and get
+to draw one card for free. If the Fisherman's next draw is not the
+Wish you may pay a fee of 1 Kudo to draw a card and if you draw the
+Wish with this draw you get to draw a card for free.

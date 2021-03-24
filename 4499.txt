@@ -1,0 +1,27 @@
+ID: 4499
+Title: Loony Boons
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 1664 (Rebellion) by replacing the text "the emphemeral Patent
+Title Rebel Hero" with "the Boon of Revolution", and by removing this text:
+
+         - Any Indulgence Auction in progress is cancelled
+
+Amend Rule 1940 (Periodic Compensations) by replacing the text "boon of
+Public Service" with "Boon of Service", and by replacing each instance of
+the text "Public Service Boon" with "Boon of Service".
+
+Amend Rule 947 (Bonus for Repeal) by replacing the text "Boon of Tapecutter"
+with "Boon of Simplification".
+
+Amend Rule 1678 (Encourage Proposals by New Players) by replacing the text
+"Boon of Prodigy" with "Boon of Insight".
+
+Amend Rule 1661 (The Right of Patronage) by replacing the text "Boon Gold
+Star" with "Boon of Marviness".
+
+Amend Rule 2042 (Team Wins) by replacing the text "Boon Team Ribbon" with
+"Boon of Teamwork".

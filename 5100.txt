@@ -1,0 +1,10 @@
+ID: 5100
+Title: Recognize Foreign Agreements
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Amend R2145 by removing the following from the first sentance:
+{{
+governed by the rules
+}}

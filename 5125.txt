@@ -1,0 +1,29 @@
+ID: 5125
+Title: Retroactively colorize first-class VCs
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Create a rule titled "Retroactively colorize first-class VCs"
+with Power 2 and this text:
+
+      One second after the creation of this rule, each of these
+      players loses all eir Gray VCs, and gains an equal number of
+      VCs of the specified colors (in order, repeating until the
+      correct total gain is achieved):
+
+        bd_        Blue
+        BobTHJ     Green, Red, Green
+        Eris       Red
+        Murphy     Red, Blue, Green, Red, Blue
+        OscarMeyr  Green
+        Quazie     Blue, Red
+        root       Red, Blue
+        Wooble     Blue
+        Zefram     Red, Red, Green, Red, Blue, Red, Red
+
+      Two seconds after the creation of this rule, this rule is
+      repealed.
+
+      This rule takes precedence over all other rules pertaining
+      to VCs.

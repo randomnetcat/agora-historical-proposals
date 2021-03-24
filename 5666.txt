@@ -1,0 +1,20 @@
+ID: 5666
+Title: Proposal Auction
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+If the proposal titled "Chambers II" fails this proposal has no effect.
+
+Create a new rule titled "Proposal Auction" with Power=1 and the text:
+{{
+There exists an Auction chamber. The eligible voters on an auction
+decision are the players. The voting limit of an eligible voter on an
+auction decision is equal to the number of Points that player owns
+minus the number of valid ballots e has cast on any other auction
+proposals which are still in their voting period.
+
+When the voting period of an auction decision ends each player loses a
+number of points equal to the number of valid ballots e cast on that
+decision.
+}}

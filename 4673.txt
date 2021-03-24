@@ -1,0 +1,249 @@
+ID: 4673
+Title: The Proposal Queue
+Author: Sherlock
+Co-authors: 
+Adoption index: 3
+
+Each player shall gain one pending draw for each Distrib-u-Matic e holds.
+
+All Distrib-u-Matic Cards shall cease to exist.
+
+
+Rename Rule 1036 (The Proposal Pool) to "The Proposal Queue" and amend
+it to read:
+
+      All Proposals in the Proposal Queue are ordered from the top to the
+      bottom.  As soon as possible after the Promotor receives a new 
+      Proposal, e shall place this Proposal at the bottom of the Proposal
+      Queue, unless another rule specifies otherwise.  The Promotor shall
+      place Proposals in the Proposal Queue in the order in which they 
+      were submitted.
+      
+      If a rule mandates that a Proposal be put into the Queue but does 
+      not specify a location, that Proposal is placed at the bottom of 
+      the Queue.
+
+      No more than four Interested Proposals by one Proposer may exist 
+      in the Queue at any time.  If a Player submits a piece of text with
+      the stated intention that it is to become a Proposal and there are
+      four Interested Proposals Proposed by em in the Queue already, that
+      text does not become a Proposal.  The Proposer may remove one of 
+      eir Proposals from the Queue by notifying the Promotor that e does 
+      so.
+
+      The Priority of a Proposal in the Queue is an index, equal to the 
+      number of Proposals above it in the Queue.  A Player may move one
+      Proposal up or down one place in the Queue by paying that Proposal's
+      Queuing Fee.  The base Queuing Fee of a Proposal is 1, but this may
+      be altered by other Rules as long as it remains a positive integer.
+
+Amend Rule 1770 (Distributing Proposals) to read:
+
+      (a) For any given week, the Minimum Distribution is equal to the
+          minimum of the number of Proposers with Proposals in the Queue
+          at the beginning of the Week and half the number of Proposals
+          in the Queue at the beginning of the week, rounded up; and the
+          Maximum Distribution is equal to the maximum of the same.
+
+      (b) During each Week, the Promotor is required to distribute every
+          Proposal in the Queue that meets at least one of these
+          criteria:
+
+             i) The Proposal's Priority at the beginning of the week was
+                less than the week's Minimum Distribution;
+
+            ii) The Proposal is Disinterested;
+
+           iii) The Proposal entered the Queue more than one Agoran month
+                before the beginning of the week.
+
+      (c) During each week, the Promotor may additionally choose an
+          index no greater than the week's Maximum Distribution and
+          distribute every Proposal in the Queue whose Priority at
+          the beginning of the week was less than the chosen index.
+
+      (d) If there were no Proposals in the Queue at the beginning of
+          the Week, then the Promotor is required publically to note
+          this fact at some time during the Week.
+
+      (e) Failure by the Promotor to either distribute Proposals as
+          required in (a) or (b), or to make an announcement as 
+          required in (c), is the Class 1 Infraction of Promotor 
+          Tardiness, which any Player may report.
+
+      (f) The Promotor shall include with the distribution of each
+          Proposal the identity of its Proposing Entity, its Adoption
+          Index, and an indication of the Proposal's Chamber. However,
+          the failure of the Promotor to include any of these
+          accompaniments with a Proposal does not deprive the
+          distribution of the Proposal of any legal effect.
+
+      (g) A Proposal is legally distributed only if it is accompanied
+          by an explicit indication that it is being distributed. When
+          a Proposal is distributed, it is removed from the Proposal
+          Queue.
+
+Amend Rule 1724 (Urgent Proposals) to read:
+
+      A Proposal is Urgent if all the following conditions are met:
+
+         i) the text of the message wherein it is submitted
+            explicitly states that it is an Urgent Proposal,
+
+        ii) The Proposal is Interested.
+
+      The Promotor may distribute an Urgent Proposal as soon as it
+      moves to the top half or to the exact middle of the Proposal 
+      Queue, and e is required to do so within five days. Failure to
+      do so is the Class 1 Infraction of Lack of Urgency, which may
+      be reported by any Player.
+
+      An Urgent Proposal has its Queuing Fee increased by 1.
+
+      The Voting Period of an Urgent Proposal is five days from the
+      time the Proposal is distributed.
+
+Amend Rule 1953 (Sane Proposals) to read:
+
+      A Proposal is Sane if all the following conditions are met:
+
+         i) the text of the message wherein it is submitted
+            explicitly states that it is a Sane Proposal, or it has
+            been declared a Sane Proposal by other methods explicitly
+            stated in the Rules,
+
+        ii) The Proposal is Interested.
+
+       iii) The Proposal is Democratic.
+
+      An Sane Proposal has its Queuing Fee increased by 1.
+
+      On Sane Proposals, each Player has a Voting Power of one, unless
+      e has five or more Blots, in which case eir Voting Power is
+      zero; all other entities have a Voting Power of zero on Sane
+      Proposals.
+
+      This Rule takes precedence over other Rules which determine the
+      Voting Power of entities.
+
+Amend Rule 1933 (A Proposal's Chamber) to read:
+
+      Chamber is a stuck switch for Proposals with values Ordinary and
+      Democratic.
+
+      An Ordinary Proposal with Adoption Index of two (2) or greater
+      is a Stalled Proposal.  If a proposal is distributed that was 
+      Stalled at the time of distribution, the Promotor shall abort it
+      as soon as possible.
+
+      Every Proposal is initially Democratic, unless its Adoption
+      Index is less than two (2), in which case it is initially
+      Ordinary.  The Chamber of a Proposal may only be changed as
+      specified by an instrument with Power greater than or equal to
+      two (2).
+
+      Whenever a Proposal's Chamber is changed while the Proposal is
+      in its Voting Period, it is Aborted as described elsewhere and
+      entered at the top of the Proposal Queue with all of its 
+      characteristics intact.
+
+Amend Rule 2021 (Chamber Procedure) to read:
+
+      (a) The Chamber Fee for a Proposal is a Fee for changing the
+          Chamber of a Proposal.  For any given Proposal, the Chamber
+          Fee is initially 1.  When a Proposal's Chamber is changed
+          via this Rule, the Chamber Fee for the Proposal is doubled.
+
+      (b) An Untainted Speaker, with 2 Supporters, may Sanitise a
+          distributed Proposal that is not already Sane and for which
+          the Voting Period has not ended. If the Speaker Sanitises a
+          Proposal, the Proposal is Aborted as described elsewhere;
+          the Proposal becomes Democratic, Sane and placed at the
+          top of the Queue.
+
+Amend Rule 1623 (Disinterested Proposals) to read:
+
+      Interest is a stuck proposal switch with values Interested and
+      Disinterested.
+
+      A player may flip an undistributed Proposal's Interest to
+      Disinterested, without objection.
+
+Amend Rule 1965 (Complacent Corporation) to read:
+
+      As soon as possible after an ordinary proposal fails quorum, the
+      Assessor shall publish a Notice of Complacency to that effect.
+      In addition, at any time during the voting period of an ordinary
+      proposal for which the number of entities eligible to vote on
+      the proposal is less than the quorum of the proposal, the
+      Assessor may immediately publish a Notice of Complacency without
+      waiting for the proposal's voting period to end.
+
+      Upon publication by the Assessor of a Notice of Complacency for
+      a proposal, the proposal is immediately aborted.  In addition,
+      the copy of the proposal that is added to the top of the Proposal
+      Queue as a result of the abortion becomes Democratic.
+
+      Publication by the Assessor of a Notice of Complacency not
+      strictly authorized or required by this rule is the Class 2
+      Crime of Sending It Back Where It Don't Belong.
+
+Amend Rule 2033 (Aborting a Proposal) to read:
+
+      (a) When a Proposal is aborted:
+          (1)  the Voting Period for the Proposal immediately ends, if
+               it has not ended already;
+          (2)  all Votes cast on the Proposal are cancelled, and the
+               Proposal fails;
+          (3)  the Assessor is relieved of any duty to report on Votes
+               cast on the Proposal; and
+          (4)  a copy of the Proposal is added to top of the Proposal 
+               Queue.
+
+Amend Rule 2077 (Democratic Cards) by changing the text that reads
+"You may abort and make undistributable any non-sane proposal." to
+read "You may abort and move to the bottom of the Queue any non-sane
+proposal."
+
+Amend Rule 2067 (Cards in Play) to read:
+
+      The following Classes of Cards are defined:
+
+      * Caption: Absolv-o-Matic
+        Elements: Budgeted,
+                  Limited [Immaculate Players] [1]
+        Exploit: Expunge one Blot from any one entity.
+
+      * Caption: Debate-o-Matic
+        Elements: Budgeted, Powered [2]
+        Exploit: Change the Chamber of any one non-Sane Proposal to
+          the Chamber of your choice, provided it is legal for that
+          Proposal to be in the named Chamber.
+
+Amend Rule 2060 (Guy Fawkes Day) to read:
+
+      Any Proposal submitted on the Fifth of November shall become
+      upon delivery Democratic, Urgent, and Sane, rules to the 
+      contrary nonwithstanding.  The Promotor shall place it at the
+      top of the Proposal Queue, as well.
+
+      If a Proposal so submitted is subsequently adopted, the Assessor
+      shall award the Proposer the Boon of A Penny.
+
+Amend Rule 1483 (Definitions of Proposals) by changing the text that
+reads "Proposal Pool" to read "Proposal Queue."
+
+Amend Rule 1483 (Adoption Indices) by changing the text that
+reads "Pool" to read "Queue."
+
+Amend Rule 1607 (The Promotor) by changing the text that
+reads "proposal pool" to read "Proposal Queue."
+
+Repeal Rule 1774 (Discarding Proposals from the Pool).
+Repeal Rule 1952 (Making Proposals Distributable).
+
+The Proposal Queue shall initially contain all Proposals that
+were in the Proposal Pool when this Proposal passed, in the
+same order they appeared in the Proposal Pool.
+
+root co-authored the amendment to Rule 1770 (Distributing Proposals).

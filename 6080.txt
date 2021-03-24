@@ -1,0 +1,80 @@
+ID: 6080
+Title: Cacophony
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+If both the Conductor and the Insulator published eir reports during
+the voting period of the decision on whether to adopt this proposal,
+then this proposal has no effect.
+
+Change the title of Rule 2126 to "Bennies", and amend it to read:
+
+     Bennies (sing. Bennie) are a class of fixed assets.  Ownership
+     of Bennies is restricted to players.
+
+     The Payroll Clerk is an office, and the recordkeepor of Bennies.
+
+     Bennies are gained as follows:
+
+     (1) At the end of each week, each player who had at least one of
+         eir interested proposals adopted during that week gains a
+         Bennie.
+
+     (2) (a) At the end of each week, each player who completed the
+             non-empty set of weekly duties of at least one office
+             during that week gains a Bennie.
+
+         (b) At the end of each month, each player who completed the
+             non-empty set of monthly duties of at least one office
+             during that month gains a Bennie.
+
+     (3) At the end of each week, each player who published at least
+         one on-time judgement during that week gains a Bennie.
+
+Terminate the contract "Note Exchange".
+
+Change the title of Rule 2228 to "Slaps", and amend it to read:
+
+     Slaps are a fixed asset, whose recordkeepor is the Conductor.
+     The creation and destruction of Slaps is secured with a power
+     threshold of 1.7; a person generally CANNOT destroy Slaps except
+     as permitted by Rules explicitly stating methods by which Slaps
+     in particular CAN be destroyed.
+
+     Ownership of Slaps is restricted to first-class persons. If, in
+     the absence of this restriction, a number (N) of Slaps would be
+     created in the ownership of a non-first-class person, then for
+     each member of that person's basis, N Slaps are created in that
+     member's possession.
+
+     A player CAN spend two Bennies to destroy a Slap owned by another
+     player, or three Bennies to destroy a Slap owned by emself.
+
+Change the title of Rule 2229 to "Pain", and amend it by replacing
+each instance of "Rests" with "Slaps", and "Notes" with "Bennies".
+
+Amend Rule 2230 (Notices of Violation) by replacing each instance of
+"Rests" with "Slaps".
+
+Amend Rule 1504 (Criminal Cases) by replacing each instance of
+"Rests" with "Slaps".
+
+Amend Rule 2156 (Voting on Ordinary Decisions) to read:
+
+     The eligible voters on an ordinary decision are those entities
+     that were active players at the start of its voting period.  The
+     initial voting limit of each eligible voter on an ordinary
+     decision is one.
+
+     During the voting period of an ordinary decision, a player
+     CAN spend one Bennie to increase or decrease another
+     player's voting limit on that voting proposal by one, or
+     two Bennies to so alter eir own voting limit on it.
+
+Repeal Rule 2211 (The Grand Poobah).
+
+Terminate the contract "Grand Poobah Caste Policy".
+
+Amend Rule 2019 (Prerogatives) by removing the section defining
+the Wielder of Extra Votes.

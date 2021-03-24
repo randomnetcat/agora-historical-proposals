@@ -1,0 +1,42 @@
+ID: 5373
+Title: Wagers
+Author: Goddess Eris
+Co-authors: Murphy
+Adoption index: 1
+
+Murphy is a co-author of this proposal.
+
+Create a rule titled 'Making Wagers' with the following text:
+
+       A Wager is an announcement specifying the following:
+
+         (a) A statement that is, or will become, true or false,
+
+         (b) The number and color of Marks being wagered, which MUST be
+             less than or equal to the number of Marks possessed by that
+             player, and
+
+         (c) The outcome wagered on by the offering player.
+
+       Any other player with Marks greater than or equal to the amount
+       of the Wager CAN accept it by announcement, unless the Wager has
+       already been accepted.  E thereby wagers on the opposite outcome
+       from that wagered on by the offering player.
+
+Create a rule titled 'Resolving Wagers' with the following text:
+
+       A Wager MAY be resolved when the following conditions are met:
+
+         (a) The Wager has been accepted, and
+
+         (b) The statement that is the subject of the Wager is either
+             true or false.
+
+       An accepted Wager CAN be resolved by a correct announcement
+       specifying the truth value of the statement, which must be
+       exactly one of true or false.
+
+       As soon as possible after a Wager is resolved the player who
+       wagered on the incorrect outcome MUST transfer the agreed number
+       and color of Marks to the player who wagered on the correct
+       outcome.

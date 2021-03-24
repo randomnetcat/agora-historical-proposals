@@ -1,0 +1,24 @@
+ID: 6534
+Title: Audit Card Destruction Cleanup 
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2
+
+[NOTE: The audit rule is presently rather unclear when it comes to
+card destruction. While it seems coppro intended card destruction to
+occur in the same message there is trouble implementing that
+interpretation. What if the auditing entity is a non-person (say a
+rule?)? This proposal clarifies a separate time limit for card
+destruction related to an audit.]
+
+In R2259 ("Hand Limits") replace:
+{{
+When any other entity is audited, the auditing entity (or, if
+       there is none, the Accountor) CAN and SHALL by announcement
+}}
+with:
+{{
+When any other entity is audited the auditing entity (or the Accountor
+if the auditing entity is a non-person) CAN and SHALL as soon as
+possible (by announcement)
+}}

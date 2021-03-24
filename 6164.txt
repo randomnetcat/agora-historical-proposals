@@ -1,0 +1,10 @@
+ID: 6164
+Title: Low-priority Anarchism
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend the first paragraph of rule 2216 (The Repeal-o-Matic) to read:
+{
+The Anarchist is a low-priority office; its holder is responsible for proposing the repeal of rules.
+}

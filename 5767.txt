@@ -1,0 +1,23 @@
+ID: 5767
+Title: Be careful what you start
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2124 (Agoran Satisfaction) by replacing this text:
+
+     The Executor of such an announcement of intent CANNOT support
+     nor object to it.
+
+with this text:
+
+     The Executor of such an announcement of intent CANNOT support it,
+     but CAN generally object to it (withdrawal of intent is equivalent
+     to objection).
+
+[Just as the old tactic of "announce intent, let support build up,
+then don't go through with it" led to the amendment of R1728 to let a
+supporter go through with it, so this avoids the similar tactic of
+"announce intent, let partial support build up, then withdraw intent";
+this is important when going through with it is subject to a separate
+time limit, e.g. initiating an appeal.]

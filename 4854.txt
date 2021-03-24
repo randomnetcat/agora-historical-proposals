@@ -1,0 +1,51 @@
+ID: 4854
+Title: Third Vatican Council
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 681 (Conditions for Conclavity) to read:
+
+      A conclave must be convened if any of the following events have
+      occurred since the last time a player became a pope, and no
+      competing conclave is currently convened:
+
+      (a) the Speaker has resigned the Speakership;
+
+      (b) the Speaker has become inactive;
+
+      (c) the Herald has confirmed an allegation that the Speaker is
+          lawless;
+
+      (d) a valid notice of deregistration naming the Speaker has been
+          published;
+
+      (e) the success of a Call for Revolt has been announced, and the
+          Speaker was abiding at the time of the Call for Revolt, in
+          which case the cardinals who were abiding at the time of the
+          Call for Revolt are disqualified;
+
+      (f) two or more cardinals have simultaneously won the game, in
+          which case all other cardinals are disqualified;
+
+      (g) no pope has become Speaker in the past six months; or
+
+      (h) a pope has ceased to be pope without becoming Speaker.
+
+      So there's always hope
+      that you can be pope.
+
+Amend Rule 786 (Default Procedure for Conclaves) by appending, after
+this text:
+
+      A cardinal is qualified for a conclave unless the rules specify
+      otherwise.
+
+this text:
+
+      However, if a conclave would otherwise have no qualified
+      cardinals, then all cardinals are qualified for the duration of
+      that conclave.
+
+and by removing the text "quorum is zero,".

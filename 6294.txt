@@ -1,0 +1,8 @@
+ID: 6294
+Title: IADoP Must Announce FAILED QUORUM
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend the word SHOULD in Rule 2168 (Extending the Voting Period) to read
+SHALL.

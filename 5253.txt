@@ -1,0 +1,10 @@
+ID: 5253
+Title: Let the AFO judge
+Author: AFO
+Co-authors: 
+Adoption index: 2
+
+This proposal has no effect unless "Class expansion" was adopted.
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing "first-class"
+with "first-class, second-class, and third-class".

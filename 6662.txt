@@ -1,0 +1,13 @@
+ID: 6662
+Title: Maternal courage
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1681 (The Logical Rulesets) by replacing "strongly
+encouraged not to include" with "strongly DISCOURAGED from
+including", and by replacing "is also free to include" with
+"SHOULD also include".
+
+Amend Rule 2246 (Submitting a CFJ to the Justiciar) by replacing
+"encouraged" with "ENCOURAGED".

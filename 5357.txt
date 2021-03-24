@@ -1,0 +1,21 @@
+ID: 5357
+Title: Rubicon Rectification
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2177 (The Senate) by replacing the text:
+
+      During emergency session, any Senator declare a filibuster on a
+      proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in the
+      past.  Any Senator may end a filibuster on a proposal with 4
+      supporting Senators.
+
+with:
+
+      During emergency session, any Senator CAN declare a filibuster
+      on a proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in the
+      past.  Any Senator CAN end a filibuster on a proposal with 4
+      supporting Senators.

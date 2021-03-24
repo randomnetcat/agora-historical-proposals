@@ -1,0 +1,30 @@
+ID: 5108
+Title: time limits in elections
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2154 by replacing the paragraph that begins "If, at the end
+of this period," with
+
+      If, at the end of this period, there is more than one consenting
+      nominee, then officeholding cannot be changed by means of this
+      Agoran consent (even if consent was achieved), and the IADoP
+      SHALL as soon as possible initiate an Agoran decision to
+      determine the new officeholder.  Until this Agoran decision is
+      resolved, the office cannot change hands by the mechanism of
+      this rule.
+
+      In the Agoran decision to determine a new officeholder, the
+      valid options are the nominees, quorum is the lesser of three
+      and the number of active players (other rules on quorum
+      notwithstanding), the eligible voters are the active players,
+      and the vote collector is the IADoP.  In the notice resolving
+      the decision, the IADoP will select one nominee from the set of
+      nominees which each received the largest number of votes; this
+      chosen nominee becomes the officeholder upon the posting of the
+      valid notice.
+
+[Adds a missing asap requirement for the initiation of the Agoran
+decision.  Some other rewording, and a paragraph split, for clarity.
+Incorporates the quorum fix of proposal 5096.]

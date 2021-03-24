@@ -1,0 +1,19 @@
+ID: 6563
+Title: No Rest Multiplication
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+
+{{
+In Rule 2262, replace:
+      * Stool Pigeon     - Indicate a player who has not been
+                           indicated for this card within the last 72
+                           hours. A Rest is created in that player's
+                           possession.
+with:
+      * Stool Pigeon     - Indicate a first-class player who has not been
+                           indicated for this card within the last 72
+                           hours. A Rest is created in that player's
+                           possession.
+}}

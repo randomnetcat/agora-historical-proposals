@@ -1,0 +1,20 @@
+ID: 6518
+Title: Ordinary until proven Democratic
+Author: BobTHJ
+Co-authors: 
+Adoption index: 3.0
+
+[NOTE: With the move to cards proposals can now easily be made
+democratic with a card, or with the traditional support. There is
+little harm done in making proposals ordinary by default, and thereby
+increases the competition for the higher castes.]
+
+In R2196 replace: {{
+An Agoran decision with an adoption index greater
+      than or equal to 2 is democratic.  Any other Agoran decision
+      with an adoption index is ordinary by default.
+}}
+with:
+{{
+All Agoran decisions with an adoption index are ordinary by default.
+}}

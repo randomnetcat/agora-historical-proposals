@@ -1,0 +1,9 @@
+ID: 5969
+Title: Veracify interest
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2199 by replacing "interested" with "interesting".
+Amend Rule 2126 by replacing "interested" with "interesting".
+Amend Rule 2153 by replacing "disinterested" with "uninteresting".

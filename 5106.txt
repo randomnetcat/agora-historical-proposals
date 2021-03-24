@@ -1,0 +1,17 @@
+ID: 5106
+Title: revise separation of powers
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 1450 to read
+
+      Any change in officeholdings that would result in a single
+      entity holding the offices of promotor and assessor
+      simultaneously is INVALID.  This rule takes precedence over all
+      other rules regarding offices.
+
+[Restated more simply and more strongly, and using MMI.  Dropping
+Speaker/CotC mutual exclusion, because the Speaker no longer
+automatically has any judicial role (should have updated that aspect
+of R1450 in "judicial reform").]

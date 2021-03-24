@@ -1,0 +1,16 @@
+ID: 5671
+Title: Identity
+Author: Murphy
+Co-authors: Pavitra
+Adoption index: 3
+
+Pavitra is a co-author of this proposal.
+
+Amend Rule 2170 (Who Am I?) by prepending this text:
+
+      Rules regarding persons pertain to those persons directly, not
+      to rule-defined avatars or other entities representing those
+      persons within Agora.
+
+      A person SHALL NOT make a public statement intended to mislead
+      others as to the identity of its publisher.

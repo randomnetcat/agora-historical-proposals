@@ -1,0 +1,20 @@
+ID: 5977
+Title: Shoot Them All and Sort it Out Later
+Author: Elysion
+Co-authors: 
+Adoption index: 2.0
+
+All contracts are destroyed.
+
+The following rules are repealed:
+
+Rule 1742 (Contracts)
+Rule 2197 (Defining Contract Changes)
+Rule 2198 (Making Contract Changes)
+Rule 2178 (Public Contracts)
+Rule 2173 (The Notary)
+Rule 2191 (Pledges)
+Rule 2145 (Partnerships)
+Rule 2174 (Aliens)
+Rule 2136 (Contests)
+Rule 2169 (Equity Cases)

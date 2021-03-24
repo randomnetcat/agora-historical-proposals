@@ -1,0 +1,8 @@
+ID: 5985
+Title: Fix VLOD increases
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by replacing "voting
+limit" with "initial voting limit"

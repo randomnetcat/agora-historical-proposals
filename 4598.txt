@@ -1,0 +1,37 @@
+ID: 4598
+Title: Eliminate Redundant Kudos
+Author: Elysion
+Co-authors: 
+Adoption index: 2
+
+
+Amend rule 2047 (Kudos) by removing the text reading:
+
+      Agora, as a whole, also has a defined number of Kudos.  No other
+      non-Player entity has a defined number of Kudos.
+
+
+Amend rule 1941 (Fees) by replacing the sentence:
+
+      Upon said announcement, the action is performed,
+      the Actor's kudos are decreased by the fee, and Agora's kudos
+      are increased by the fee.
+
+with:
+
+      Upon said announcement, the action is performed,
+      the Actor's kudos are decreased by the fee.
+
+and deleting the text "(and Agora)"
+
+
+Amend rule 2051 (Tabla Rasa) by replacing the text reading:
+
+      (B) set Agora's kudos equal to the Tabla Rasa times
+          the current number of Players;
+
+      (C) revoke all ephemeral Patent Titles.
+
+with:
+
+      (B) revoke all ephemeral Patent Titles.

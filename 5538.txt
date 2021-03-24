@@ -1,0 +1,19 @@
+ID: 5538
+Title: <none>
+Author: comex
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 106 (Adopting Proposals) by adding this paragraph after the
+first one:
+      Proposals can include a title, which is a string of characters.
+      When submitting a proposal, the proposer CAN and SHALL set its
+      title.
+
+Amend Rule 1607 (The Promotor) by replacing:
+      a) Its author (and co-authors, if any).
+      b) Its interest index.
+with:
+      a) Its author (and co-authors, if any).
+      b) Its title, if any.
+      c) Its interest index.

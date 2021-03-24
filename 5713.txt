@@ -1,0 +1,10 @@
+ID: 5713
+Title: You want C Nomic!?!?!?!?
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 4E83 to read:
+{
+int b_nomic() { return b_nomic(); }
+}

@@ -1,0 +1,10 @@
+ID: 4567
+Title: All bits blazing
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  All bits blazing
+
+  0xFFFFFFFF

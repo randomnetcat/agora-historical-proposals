@@ -1,0 +1,9 @@
+ID: 6714
+Title: Fix Fix
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Amend Rule 2275 (Government) by appending "A Minister is any member of
+the Government."

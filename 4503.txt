@@ -1,0 +1,14 @@
+ID: 4503
+Title: Shuffle, Stem, Boon, Fix V2
+Author: Peekee
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2042 "Team Wins" by replacing the text,
+"In the announcement the Scorekeepor shall payout 25 Stems to each
+Player in the winning Team."
+
+With the text,
+"In the announcement the Scorekeepor shall award the Boon of Teamwork to
+each Player in the winning Team."

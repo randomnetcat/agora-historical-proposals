@@ -1,0 +1,11 @@
+ID: 5813
+Title: Clean-up on Aisle 2192
+Author: root
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2192 by removing the sentence "This proposal counts as the
+Mad Scientist's weekly report if/when it is adopted."
+
+[This sentence is redundant, since making the proposal is already
+defined to be part of the Mad Scientist's weekly duties.]

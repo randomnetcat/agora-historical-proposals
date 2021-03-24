@@ -1,0 +1,31 @@
+ID: 4809
+Title: Mirror, Mirror
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+   Create a rule entitled "Aroga Day" with the text:
+
+      Tuesdays shall be known as Aroga Day.
+
+      If a player votes for a proposal on Tuesday, e shall be
+      considered to have voted against it.  If a player votes against
+      a proposal on Tuesday, e shall be considered to have voted for
+      it.
+
+      If a player plays a card on Tuesday, e shall be considered to
+      have discarded it.  If a player discards a card on Tuesday, e
+      shall be considered to have not discarded it.
+
+      If a player submits more than one unlinked CFJ on a Tuesday,
+      those CFJ's shall be considered to have been linked by the
+      caller.  If a player submits a series of linked CFJ's on a
+      Tuesday, those CFJ's shall be considered to be unlinked.
+
+      If a player would have any Blots expunged on a Tuesday, e shall
+      instead gain that number of Blots.  If a player would gain a
+      number of Kudos on a Tuesday, e shall instead lose that number
+      of Kudos.
+
+      No recursion is implied or mandated by this rule.

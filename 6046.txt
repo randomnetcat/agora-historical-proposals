@@ -1,0 +1,8 @@
+ID: 6046
+Title: Cruft
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1023 by removing item (b) and all text under it, and by
+renaming item (c) to item (b).

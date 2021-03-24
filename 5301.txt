@@ -1,0 +1,18 @@
+ID: 5301
+Title: Allow retraction of CFJs
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Change the title of Rule 2175 (Excess CFJs) to "Judicial Retraction
+and Excess", and amend it to read:
+
+      If a judicial case has not had any judge assigned to it, then:
+
+        a) Its initiator CAN retract it by announcement, thus causing
+           it to cease to be a judicial case.
+
+        b) If its initiator previously initiated five or more cases
+           during the same Agoran week as that case, then the Clerk
+           of the Courts CAN refuse it by announcement, thus causing
+           it to cease to be a judicial case.

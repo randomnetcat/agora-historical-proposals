@@ -1,0 +1,34 @@
+ID: 6092
+Title: Secure Self-Ratification v0.2
+Author: woggle
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2201 (Self-Ratification) by replacing:
+
+    Any public document defined by the rules as self-ratifying
+
+with:
+
+    Any public document defined by rules with power at least 2 as
+    self-ratifying
+
+Enact a new rule titled "Official Pragmatism" with Power 2 and the text:
+
+    The portion of a public message purporting to be an IADoP's
+    report that lists the holder of each office is self-ratifying.
+
+Amend Rule 2138 (The International Associate Director of Personnel) by removing:
+
+    The portion of a public message purporting to be an IADoP's
+    report that lists the holder of each office is self-ratifying.
+
+Set the Power of Rule 2212 (Judicial Declarations) to 2 and amend by replacing:
+
+    A judicial declaration published by a judge as required by the
+    rules
+
+with:
+
+    A judicial declaration published by a judge as required by
+    rules with power at least 2

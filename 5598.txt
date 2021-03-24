@@ -1,0 +1,7 @@
+ID: 5598
+Title: Eliminate Redundancy
+Author: Wooble
+Co-authors: 
+Adoption index: 1
+
+      Delete the last paragraph of Rule 2181.

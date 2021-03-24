@@ -1,0 +1,16 @@
+ID: 4914
+Title: Fixing Voting Credits
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 3
+
+
+Delete from Rule 2126 the text reading:
+
+       The Promotor may accept reasonable synonyms for "expend" (such
+       as "pay" or "use") as valid actions under this rule.
+
+Append to Rule 2126 the following:
+
+Changes to voting limits under this rule take effect at the beginning  
+of the next week.

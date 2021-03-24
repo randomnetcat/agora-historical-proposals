@@ -1,0 +1,17 @@
+ID: 4706
+Title: Instant Library
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Replace the following from Rule 2089
+
+      As soon as possible after a Card is checked out from the Library
+      and it is within the Speaker's ability to do so, the Speaker
+      shall transfer the Card from the Library to the Borrower.
+
+with
+
+      Immediately after a Card is checked out from the Library
+      it is transfered from the Library to the Borrower.

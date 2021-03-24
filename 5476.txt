@@ -1,0 +1,15 @@
+ID: 5476
+Title: Spelling/grammar check
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2150 (Personhood) by replacing "a a" with "a".
+
+Amend Rule 2166 (Assets) by replacing "A asset" with "An asset".
+
+Amend Rule 1450 (Separation of Powers) by replacing "promotor and
+assessor" with "Promotor and Assessor".
+
+Amend Rule 591 (Inquiry Cases) by replacing "rulekeepor" with
+"Rulekeepor".

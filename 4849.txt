@@ -1,0 +1,114 @@
+ID: 4849
+Title: Fees, Please 1.3
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Changes from version 1.2:
+
+* Players can be refunded for overpayment as well as for failure.
+
+Changes from version 1.1:
+
+* The fee is pragmatically paid regardless of whether the Actor had
+  "sufficient cards".
+
+* Removed the crime of Card Swapping.  The Deckmastor will now
+  preferentially return the cards discarded to pay the fee.
+
+Changes from version 1.0:
+
+* A refund is given if the action fails for any reason, not just
+  insufficient cards.
+
+* Intentionally failing actions to replace bad cards or to dodge hand
+  reduction is a crime.
+
+
+Goethe is a coauthor of this proposal.
+
+
+Create a Rule titled "Fees", reading:
+
+      A fee-based action is an action with which the rules associate a
+      fee, which must be a natural number.  If the rules describe a
+      fee-based action but do not indicate the fee for that action,
+      then that fee is zero.
+
+      A player (the Actor) attempts to perform a fee-based action by
+      announcing that e performs it; specifying the action to be
+      performed; if the fee is nonzero, noting that there is a fee for
+      the action; and optionally indicating an ordered set of cards
+      (the Down Payment) in eir collection to be applied to the fee.
+      If the Down Payment is not indicated, then it is the empty set.
+      The Actor has sufficient cards to perform the action if the
+      number of cards in the Down Payment plus the number of pending
+      draws e has meets or exceeds the fee.
+
+      Upon the Actor's announcement, the following events occur in
+      order:
+
+      1) The Effective Fee for the attempt is set equal to the fee,
+         and the Payment for the attempt is set equal to zero.  The
+         Balance for the attempt is defined to be equal to the
+         Effective Fee less the Payment.
+
+      2) Each card in the Down Payment is discarded, and the Payment
+         is increased by the number of cards so discarded.
+
+      3) The Actor loses a number of pending draws equal to the
+         minimum of zero, the Balance, and the number of pending draws
+         e has; and the Payment is increased by the same number.
+
+      4) The Actor performs the action.
+
+      If the success of the Actor's attempt to perform a fee-based
+      action is publicly challenged within a week of the time the
+      action was attempted, then the Deckmastor shall, as soon as
+      possible, determine whether the Actor had sufficient cards when
+      e attempted to perform the action, and announce eir
+      determination.
+
+      If the Deckmastor announces that the Actor did not have
+      sufficient cards to perform a fee-based action at the time of
+      eir attempt, and eir announcement was published within a
+      fortnight from the time the action was attempted, then the
+      action shall be deemed not to have been performed.
+
+      If the success of an Actor's attempt to perform a fee-based
+      action is not publicly challenged within a week of the time the
+      action was attempted, then the action shall be deemed to have
+      been performed.
+
+      If for any reason the action is deemed not to have been
+      performed, then the Effective Fee shall be set to zero.
+
+      If the Balance of a fee-based action is negative, and the Actor
+      submits a request for refund to the Deckmastor within one week
+      of performing the action or within one week of the action being
+      deemed not to have been performed, then the Deckmastor shall
+      perform the following actions as soon as possible:
+
+      1) As long as the Balance remains negative and the Down Payment
+         remains non-empty, decrement the Payment, remove the last
+         card from the Down Payment, and:
+
+         a) Transfer to the Actor a copy of the same class of card
+            from the discard pile, if one exists; otherwise
+
+         b) Transfer to the Actor a copy of the same class of card
+            from the deck, if one exists; otherwise
+
+         c) Award the Actor a pending draw.
+
+      2) As long as the Balance remains negative, decrement the
+         Payment and award the Actor a pending draw.
+
+      Nothing in this rule shall act to prevent a person from
+      performing a fee-based action by another mechanism for
+      performing that action provided by the rules.
+
+
+Amend Rule 2106 by replacing the text "noting any fees" with the text
+"paying any fees".

@@ -1,0 +1,32 @@
+ID: 6318
+Title: One place for most wins.
+Author: Quazie
+Co-authors: 
+Adoption index: 1.0
+
+Create a new rule, power=2, entitled "Win by ___"
+With the following text:
+"
+The following are ways to win agora:
+(a)
+(b)
+(c)
+(d)
+(e)"
+
+Append the entire text (including rule title) of R 2110 after '(a)' in
+"Win by ___"
+Append the entire text (including rule title) of R 2245 after '(b)' in
+"Win by ___"
+Append the entire text (including rule title) of R 2223 after '(c)' in
+"Win by ___"
+Append the entire text (including rule title) of R 2188 after '(d)' in
+"Win by ___"
+Append the entire text (including rule title) of R 2187 after '(e)' in
+"Win by ___"
+
+Repeal rules R2110, R2245, R2223, R2188, and R2187
+
+[ Hopefully it should look like:
+(a) win by paradox - Blah
+(b) win by something else - blah2]

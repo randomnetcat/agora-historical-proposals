@@ -1,0 +1,24 @@
+ID: 5611
+Title: Decriminalization
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Create a rule titled "Decriminalization" with Power 2 and this text:
+
+      If a rule defines a method of breaching it as decriminalized, then
+      no person SHALL initiate a criminal case alleging that that rule
+      has been breached by that method, unless the defendant intended to
+      breach it by that method by performing the alleged action.
+
+Amend Rule 2158 (Judicial Questions) by replacing this text:
+
+      A judge SHALL NOT assign an inappropriate judgement to any
+      judicial question.
+
+with this text, followed by a paragraph break:
+
+      A judge SHALL NOT assign an inappropriate judgement to any
+      judicial question; however, this is a decriminalized breach,
+      and unintentional violations SHOULD be addressed by initiating
+      an appeal case concerning that assignment.

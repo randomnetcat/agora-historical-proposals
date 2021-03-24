@@ -1,0 +1,13 @@
+ID: 5706
+Title: The Monster Abroad
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Append the following to the rule titled "The Monster":
+{{{
+      A foreign nomic may grant certain powers and privileges to
+      Agora's Monster.  If so, the Monster shall generally exercise
+      such powers in such manner as e sees fit, subject to other
+      rules and orders.
+}}}

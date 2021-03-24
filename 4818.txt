@@ -1,0 +1,40 @@
+ID: 4818
+Title: Dud raffle
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Dud raffle
+
+ [Raffle Tickets are basically Duds execept for an interesting
+  property once a quarter.  If the maximum deck size is voted in
+  with the current limit, having lots of both is a waste.]
+
+The quota for Dud cards is hereby set to the current quota for dud
+cards plus the current quota for Raffle Tickets.
+
+The Deckmastor is hereby ordered to, asap, create one Dud copy for
+each Raffle Ticket copy held when this proposal clause takes effect,
+each in the hand of the Gambler that holds that Raffle Ticket copy.
+
+Delete the card class definition of Raffle Ticket from the Onepower
+Cardbook.
+
+Add the following card class definition to the Onepower Cardbook:
+
+      * Caption:   Lotto
+        Frequency: Unique
+        Elements:  Asleep[61]
+        Exploit:   As soon as possible after this card is played, the
+          Deckmastor shall randomly select a copy of a Dud in the
+          possession of a Player and announce eir selection, unless no
+          such copy exists.  Upon this announcement, the Player in
+          possession gains three instances of the ephemeral Patent
+          Title "Fortune's Fool", and each Dud in the possession of a
+          Player is automatically discarded.
+
+The Quota for Lotto is hereby set to 1.
+
+
+Repeal Rule 2093 (The New Raffle).

@@ -1,0 +1,49 @@
+ID: 5194
+Title: equity court
+Author: Zefram
+Co-authors: 
+Adoption index: 1.7
+
+Enact a power=1.7 rule with title "Equity Cases" and text
+
+      There is a subclass of judicial case known as an equity case.
+      An equity case's purpose is to correct a potential injustice in
+      the operation of a particular contract.  An equity case CAN be
+      initiated by any party to the contract, by announcement which
+      clearly identifies the contract, the set of parties to the
+      contract, and a state of affairs whereby events have not
+      proceeded as envisioned by the contract (such as, but not
+      limited to, a party acting in contravention of eir contractual
+      obligations).
+
+      The initiation of an equity case begins its pre-trial phase.
+      During the pre-trial phase, the case requires a judge.  In the
+      pre-trial phase the judge SHALL as soon as possible inform all
+      the contracting parties of the case and invite them to submit
+      arguments regarding the equitability of the situation.  The
+      pre-trial phase ends one week after the parties have been so
+      informed, or immediately when all parties have announced that
+      they wish to terminate the pre-trial phase.
+
+      The parties to the contract are all unqualified to be assigned
+      as judge of the case.
+
+      An equity case has a judicial question on equation, which is
+      applicable at all times following the pre-trial phase.  The
+      valid judgements for this question are the possible agreements
+      that the parties could make that would be governed by the rules.
+      A judgement is appropriate if and only if it is a reasonably
+      equitable resolution of the the situation at hand with respect
+      to the matters raised in the initiation of the case and by the
+      parties in the course of the case.
+
+      When an applicable question on equation in an equity case has a
+      judgement, and has had that judgement continuously for the past
+      week, the judgement is in effect as a binding agreement between
+      the parties.  In this role it is subject to modification or
+      termination by the usual processes governing binding agreements.
+
+      An appeal concerning any assignment of judgement in an equity
+      case within the past week, other than an assignment caused by a
+      judgement in an appeal case, CAN be initiated by any party to
+      the contract in question by announcement.

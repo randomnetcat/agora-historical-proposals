@@ -1,0 +1,17 @@
+ID: 6181
+Title: Try 3
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Create a new Power=2 Rule titled "Submitting a CFJ to the Justiciar", reading:
+
+      A CFJ may be submitted to the Justiciar.  For such a CFJ, the
+      Justiciar shall perform all duties and fulfill all roles that
+      would otherwise be assigned to the Clerk of the Courts. This
+      takes precedence over Rules that would otherwise assign duties
+      and roles regarding a CFJ to the Clerk of the Courts.
+
+      All persons are encouraged to submit a CFJ to the Justiciar only
+      when there is a good reason not to submit it to the Clerk of the
+      Courts.

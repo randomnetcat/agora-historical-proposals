@@ -1,0 +1,19 @@
+ID: 4911
+Title: An End To Silly Proposal Adoption Indices (sorry Zefram)
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 3
+
+
+Amend R106 by replacing the text:
+       The default adoption index of a proposal is one.  Before the
+       Promotor distributes a proposal, its proposer may modify its
+       adoption index by announcement.  A Proposal with an Adoption
+       Index of 1 is Ordinary.  All other Proposals are Democratic.
+
+With this text:
+
+The adoption index of a proposal is a positive integer, with a default
+value of one.  Before the Promotor distributes a proposal, its proposer
+may modify its adoption index by announcement.  A Proposal with
+an Adoption Index of 1 is Ordinary.  All other Proposals are Democratic.

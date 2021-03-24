@@ -1,0 +1,162 @@
+ID: 4614
+Title: Crimson Go
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+[Apologies to Murphy for the partial theft]
+
+Create a new rule titled "Takeover Proposals" with Power=2 and
+this text:
+
+       Initiative is a stuck player switch, tracked by the Assessor,
+       with values Gote and Sente.
+
+       A Takeover Proposal is a proposal meeting these requirements:
+
+         (a) It is labelled as a Takeover Proposal.
+         (b) No Takeover Proposal has been submitted earlier in the
+             same month.
+         (c) It specifies a set of players (hereafter the Corporate
+             Raiders) that is no larger than P/2 or smaller than P/3,
+             where P is the number of active noisy players at the time
+             of submission.
+
+       Rules to the Contrary nonwithstanding, a Takeover Proposal is
+       both Democratic and Sane.
+
+       At the beginning of a Takeover Proposal's voting period, all
+       players have their initiative flipped to Gote.  At the end of a
+       Takeover Proposal's voting period, all players have their
+       initiative flipped as follows:
+         (a) Adopted:  All Corporate Raiders gain Sente.
+         (b) Rejected:  All other players gain Sente.
+         (c) Failed quorum:  No one gains Sente.
+
+
+Amend Rule 1950 (Voting Power) by replacing:
+       (b) An entity's Voting Power on a Democratic Proposal is as
+           follows:
+
+             * A Player:
+                   (a) two plus that Player's Voting Potential if that
+                       Player has zero Share Holdings.
+                   (b) one plus that Player's Voting Potential
+                       otherwise.
+
+             * Any other entity: as defined in the Rules, with a
+               default of zero if the Rules don't specify the Voting
+               power on a Democratic Proposal for that entity.
+
+with:
+       (b) An entity's Voting Power on a Democratic Proposal is as
+           follows:
+           (1) A Player:
+                   (i)  that Player's Voting Potential if that Player
+                        has Sente.
+                   (ii) one otherwise.
+           (2) Any other entity: as defined in the Rules, with a
+               default of zero if the Rules don't specify the Voting
+               power on a Democratic Proposal for that entity.
+
+
+Amend Rule 1664 (Rebellion) by replacing:
+          - All Stock Cards in the possession of Abiding Players are
+            returned to the Deck
+
+with:
+          - All Stock Cards in the possession of Abiding Players are
+            returned to the Deck, and all Abiding Players have their
+            initiative switched to Gote.e a budget containing the Maximum Hand
+     Size and the Minimum Hand Size, each of which is a positive
+     integer between 2 and 10, with the Minimum being less than
+     the Maximum. In the absence of a budget, the Maximum Hand Size
+     shall be 5 and the Minimum Hand Size shall be 2.
+
+The Minimum Hand Size is hereby set to 2.
+
+//Now we remove the Old
+
+//First let's not cheat anyone
+When this Proposal takes effect, the team with the most points
+shall be awarded an amount of points equal to the Team Points Goal,
+and each member of that team shall be awarded the boon of a Daffodil,
+and the captain (if any) shall be awarded the Patent Title Admiral.
+
+//Then the destruction occurs
+Repeal Rule 1928 (The Scorekeepor)
+Repeal Rule 2055 (The Scorekeepor's Budget)
+Repeal Rule 1929 (Points)
+Repeal Rule 2041 (Teams)
+Repeal Rule 2053 (Team Points, Team Scores)
+Repeal Rule 2042 (Team Wins)
+Repeal Rule 2043 (New Player Team Assignment)
+Repeal Rule 2062 (Team Captains)
+Repeal Rule 2016 (Contested Proposals)
+Repeal Rule 2013 (Champion's Contests)
+
+Amend Rule 1922 (Defined Regular Patent Titles) by removing the
+text:
+     "(e)  Admiral, to be awarded to a Team Captain when eir Team
+          achieves a Team Win."
+
+Amend Rule 1963 (Eligible Shareholders)
+               by removing: "(3) e has fewer than zero points;"
+
+               and by replacing "(4)" with "(3)"
+
+               and by replacing "(5)" with "(4)"
+
+Amend Rule 1835 (Standing Down) by removing the text:
+                  "For the purposes of Rules on awarding Points,
+     that Election shall not be considered a contested Election."
+
+Amend Rule 1505 (Standard Classes of Crimes and Infractions)
+     by removing the text: " and a loss of 2*N Points"
+
+     and by removing the text: ", and a Notice of Award of the
+     Points penalty"
+
+     and by removing the text: "In the case of a vacated Sentencing
+     Order, the lost Points are to be Awarded back to the penalized
+     entity, provided that the game has not been Won between the
+     execution of the Sentencing Order and its vacation."
+
+Amend Rule 2070 (Card Powerz) by removing the text:
+     * Bleed [X], where X is a non-negative integer: At the beginning
+       of each week, the Holder of this card loses X Points.
+
+Amend Rule 1932 (Shareholders and the Corporation)
+   by removing the text "Bleed [2],"
+                    and "Bleed [4],"
+                    and "Bleed [6],"
+
+Amend Rule 2067 (Cards in Play) by removing the text:
+     * Caption: Boost-o-Matic
+       Elements: Budgeted
+       Exploit: Increase any one Team's Team Points by 5.
+       Exploit: Increase any one Team's Team Points by 10 for a Fee
+         of 1 Kudo.
+
+Amend Rule 2071 by removing the text:
+     * Caption: ZOT!
+       Quota: 1
+       Elements: Handed [3]
+       Exploit: For a Fee of X Kudos, an entity of your choice loses
+         (X times 10) Points. If this would cause that entity to have
+         fewer than zero Points, e shall instead have zero Points.
+
+  and by removing the text:
+     * Caption: Point Mine
+       Quota: 1
+       Elements: Persistent
+       Exploit: So long as you have not done so already during the
+         current week, you may gain 1 Point.
+
+   and by removing the text:
+     * Caption: Dud Fusion
+       Quota: 1
+       Elements: Bleed [2]
+       Exploit: You may discard X Dud Cards to gain X times 20
+         Points.

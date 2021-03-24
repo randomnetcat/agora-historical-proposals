@@ -1,0 +1,12 @@
+ID: 5657
+Title: enough already?
+Author: comex
+Co-authors: 
+Adoption index: 1.5
+
+Pledge #12 refers to the pledge with the text:
+{{
+This is a pledge.
+Anything may act on behalf of ehird by announcement.
+}}
+Upon the adoption of this proposal, pledge #12 is terminated.

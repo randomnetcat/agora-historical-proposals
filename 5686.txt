@@ -1,0 +1,12 @@
+ID: 5686
+Title: Contract Security
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Increase the power of Rule 2198 to 2.
+
+Amend Rule 2198 by prepending the following sentence to the
+first paragraph:
+
+    Contract changes are secured.

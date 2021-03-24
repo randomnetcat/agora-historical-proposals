@@ -1,0 +1,12 @@
+ID: 5281
+Title: <none>
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Create a rule named "Judicial abuse", with power 1.4, with the
+following text:
+
+A player may not make excessive, frivolous calls for judgement. Should
+a player be found to break this rule, he shall not be allowed to
+initiate a case for a week.

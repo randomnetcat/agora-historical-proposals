@@ -1,0 +1,40 @@
+ID: 5839
+Title: NOT GUILTY
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+ [INNOCENT isn't really a criminal concept, nor are the others.  All
+ that matters is guilty or not guilty, the rest is for the arguments].
+
+Amend R1504 by replacing:
+     * GUILTY, appropriate if the defendant breached the specified
+       rule via the specified act and none of the above judgements is
+       appropriate
+with:
+     * GUILTY, appropriate if the judge finds, beyond a reasonable
+       doubt, that ALL of the following are true:
+       (a) the defendant breached the specified rule via the specified
+           act;
+       (b) the breach occurred within 200 days prior to the case being
+           initiated;
+       (c) judgement has not already been reached in another criminal
+           case with the same defendant, the same rule, and substantially
+           the same alleged act;
+       (d) the defendant could not have reasonably believed that the
+           alleged act did not violate the specified rule;
+       (e) the defendant could have reasonably avoided committing the
+           breach without committing a different breach of equal or
+           greater severity.
+
+     * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
+       delivering this verdict, the judge SHOULD indicate which of
+       of the sub-requirements for a finding of guilty were not found
+       to be true beyond a reasonable doubt.
+
+Amend R1504 by deleting the paragraph that begins * OVERLOOKED.
+Amend R1504 by deleting the paragraph that begins * ALREADY TRIED.
+Amend R1504 by deleting the paragraph that begins * UNIMPUGNED.
+Amend R1504 by deleting the paragraph that begins * INNOCENT.
+Amend R1504 by deleting the paragraph that begins * UNAWARE.
+Amend R1504 by deleting the paragraph that begins * EXCUSED.

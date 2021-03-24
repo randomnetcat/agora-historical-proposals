@@ -1,0 +1,23 @@
+ID: 5723
+Title: Namespace conflicts (rule-defined entities)
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1586 (Definition and Continuity of Entities) by replacing
+this text:
+
+     Two Rule-defined entities CANNOT have the same name or nickname.
+
+with this text:
+
+     If multiple rules attempt to define an entity with the same
+     name, then they refer to the same entity.  A rule-defined
+     entity's name CANNOT be changed to be the same as another
+     rule-defined entity.
+
+Amend Rule 2161 (ID Numbers) by appending this text:
+
+     (f) If an instance of that type has an ID number, then its name
+         is the combination of its type and ID number.  Otherwise, it
+         has no name.

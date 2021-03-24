@@ -1,0 +1,18 @@
+ID: 5354
+Title: MMI parallelism
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2152 (Mother, May I?) by replacing this text:
+
+      4. CAN: Attempts to perform the described action are successful.
+
+      5. MAY: Performing the described action is permitted.
+
+with this text:
+
+      4. CAN: Attempts to perform the described action are successful.
+
+      5. MAY: Performing the described action does not violate the
+         rule in question.

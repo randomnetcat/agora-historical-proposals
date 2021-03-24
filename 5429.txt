@@ -1,0 +1,26 @@
+ID: 5429
+Title: rejig judgement obligations
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2158 by replacing the sentence
+
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge CAN assign a valid
+      judgement to it by announcement, and SHALL assign an appropriate
+      judgement to it as soon as possible.
+
+with
+
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge CAN assign a valid
+      judgement to it by announcement, and SHALL do so as soon as
+      possible.  A judge SHALL NOT assign an inappropriate judgement
+      to any judicial question.
+
+[Make inappropriate judgement immediately illegal, rather than the
+illegality merely being failure to assign appropriate judgement in
+time.  Removes the potential loophole of an inappropriate judgement
+being appealed, the case remanded, and a new judgement assigned all
+within the original judgement time limit.]

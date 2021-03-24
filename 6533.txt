@@ -1,0 +1,10 @@
+ID: 6533
+Title: Periodic Election Anarchy 
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Repeal R2217 ("Periodic Elections")
+
+[NOTE: Between the No Confidence card and the new assumption rule this
+is really no longer necessary.]

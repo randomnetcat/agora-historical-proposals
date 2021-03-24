@@ -1,0 +1,16 @@
+ID: 5144
+Title: head of state
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 402 by replacing the paragraph
+
+      The speaker is an office.
+
+with
+
+      The speaker is an office.  The speaker is the head of state of
+      this nomic.  The speaker embodies the spirit of Agora.
+      Diplomatic missions from this nomic to foreign nomics operate on
+      behalf of the speaker.

@@ -1,0 +1,15 @@
+ID: 5656
+Title: A one-off CotC exit clause
+Author: ais523
+Co-authors: 
+Adoption index: 1
+
+Assign a random player, other than Goethe, who is either sitting or
+standing to CFJ 2039.
+[Currently all the players in the game are barred from judging CFJ 2039;
+the exception for Goethe is because e recused emself from it, and thus
+presumably does not want to judge it. I think AI-1's enough for this; it
+seems wrong for the CotC to be obligated to do something e cannot do,
+though, so this proposal is to fix that. Besides, the case probably
+should be judged eventualy. (Hmm... I wonder if rule 101 allows us to
+imply a mechanism for assigning a judge to the case?)]

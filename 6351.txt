@@ -1,0 +1,44 @@
+ID: 6351
+Title: <none>
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+In the Rule "The Senate", replace:
+
+{{
+
+A Senator is any first-class player who has been registered continuously for
+the immediately preceding sixty days. The set
+of all Senators is known as the Senate. The Registrar's report
+includes a list of all Senators.
+
+}}
+
+with:
+
+{{
+
+A Senator is a person who has become a Senator by one of the following
+means:
+
+(1) A first-class player who has been registered continuously for the
+preceding sixty days, CAN be made into a Senator by announcement.
+
+(2) A player CAN become a Senator with 3 Senator Support and without Senator
+Objection.
+
+(3) A person CAN become a Senator with Senator Consent.
+
+A Senator CAN cease to be a Senator by announcement.
+
+A player CAN cause another person to cease to be a Senator with Senator
+Consent.
+
+The Registrar SHOULD attempt to make as many trustworthy players as possible
+into Senators. Becoming a Senator is a secured change.
+
+The set of all Senators is known as the Senate. The Registrar's
+report includes a list of all Senators.
+
+}}

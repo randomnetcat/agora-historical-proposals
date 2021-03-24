@@ -1,0 +1,9 @@
+ID: 6477
+Title: FRC Recognition
+Author: C-walker
+Co-authors: 
+Adoption index: 1.0
+
+Flip the Recognition of the FRC to Friendly.
+
+[[ Relevant link: http://groups.google.com/group/frc-play ]]

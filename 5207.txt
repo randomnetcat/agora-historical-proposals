@@ -1,0 +1,62 @@
+ID: 5207
+Title: Refactor elections
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 955 (Determining the Will of Agora) by inserting, between
+sections (b) and (d), this text:
+
+        (c) If the decision is an election, then the outcome is the
+            candidate that received the most votes, with ties broken
+            by the vote collector.  This candidate becomes holder of
+            the office in question.
+
+and by replacing "the decision's adoption index" with "the proposal's
+adoption index".
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      the adoption index is the adoption index of the proposal.
+
+with this text:
+
+      the vote collector is the Assessor.
+
+Amend Rule 2137 (The Assessor) to read:
+
+      The Assessor is an office; its holder is responsible for
+      collecting votes on proposals and keeping track of related
+      properties.
+
+Amend Rule 2154 (Replacing Officers) to read:
+
+      Any player may make an active player (hereafter the nominee) the
+      holder of an office, thus removing any previous holder from the
+      office, with Agoran consent, provided that the nominee consents
+      to hold the office after the announcement of intent is made.
+
+      If, at the end of the minimum waiting period between intent and
+      action defined for Agoran consent, there are any other consenting
+      nominees for the same office, then the IADoP SHALL initiate an
+      Agoran decision to elect a holder for that office (hereafter an
+      election).  For this decision:
+
+        (a) The valid options are the consenting nominees.
+
+        (b) Quorum is three (or the number of active players, if that
+            number is less), rules to the contrary notwithstanding.
+
+        (c) The eligible voters are the active players.
+
+        (d) The vote collector is the IADoP.
+
+      Until this election is resolved, no decision to fill that office
+      by Agoran consent may be resolved.
+
+      If no attempt to change the holder of a given office with Agoran
+      consent is made in a given quarter, then the IADoP SHALL attempt
+      to do so during the following quarter, and make the change if
+      POSSIBLE.  This requirement is waived if another player makes such
+      a change, or the IADoP initiates an election for that office,
+      during the following quarter.

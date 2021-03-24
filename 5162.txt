@@ -1,0 +1,17 @@
+ID: 5162
+Title: allow VC changes by proposal
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by replacing the sentence
+
+      VCs CANNOT be affected except as described by this rule.
+
+with
+
+      VCs CANNOT be affected except by the action of an instrument
+      with power greater than or equal to the power of this rule.
+
+[Avoids the need for temporary rules, without actually changing what
+has the capability to affect VCs.]

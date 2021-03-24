@@ -1,0 +1,10 @@
+ID: 6500
+Title: Redundant Redundancy Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In R1607, delete the paragraph reading
+       A player CAN flip a specified proposal to Distributable without
+       Objection.
+[The prior paragraph is sufficient.]

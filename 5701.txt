@@ -1,0 +1,11 @@
+ID: 5701
+Title: Working Holidays
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+Set the power of rule 1769 to 3.
+
+[Otherwise it can't take precedence over "as soon as possible"s defined
+in rules with a power greater than 2, which could create some tricky
+situations for people forced to act during a holiday.]

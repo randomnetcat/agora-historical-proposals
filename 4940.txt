@@ -1,0 +1,120 @@
+ID: 4940
+Title: instrument mechanics
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 1688 to read:
+
+      The power of an entity is a non-negative rational number.
+      An instrument is an entity with positive power.
+
+      The power of an entity cannot be set or modified except as
+      stipulated by the rules.  All entities have power zero except
+      where specifically allowed by the rules.
+
+[The former restriction of power to natural numbers is ineffective,
+and we have often found some use for non-integer powers.]
+
+Enact a rule with title "Power Controls Mutability", Power=3, and text:
+
+      No entity with power below the power of this rule can
+
+      (a) cause an entity to have power greater than its own.
+
+      (b) adjust the power of an instrument with power greater than
+          its own.
+
+      (c) modify any other substantive aspect of an instrument with  
+power
+          greater than its own.  A "substantive" aspect of an instrument
+          is any aspect that affects the instrument's operation.
+
+[This is the full generalisation of the power restrictions on rule
+changes.  Expressing it all in fully general form avoids prior scams
+concerned with instruments other than rules and proposals.  The  
+exception
+for entities with power greater than or equal to this rule is simply
+admitting what is effectively the case anyway.]
+
+Enact a rule with title "Role and Attributes of Rules", Power=3, and  
+text:
+
+      A rule is a type of instrument with the capacity to govern the
+      game generally.  A rule's content takes the form of a text, and
+      is unlimited in scope.  In particular, a rule may define in-game
+      entities and regulate their behaviour, make instantaneous changes
+      to the state of in-game entities, prescribe or proscribe certain
+      player behaviour, modify the rules or the application thereof,
+      or do any of these things in a conditional manner.
+
+      Every rule has power between one and four inclusive.  It is not
+      possible for a rule to have a power outside this range.
+
+      Every rule shall have a number for identification.  If a rule
+      ever does not have an identifying number, the Rulekeepor shall
+      assign a number to it by announcement as soon as possible.
+      The number assigned must be a natural number greater than any
+      number previously assigned to a rule.  Once properly assigned,
+      a rule's number cannot be changed.
+
+      Every rule shall have a title to aid in identification.  If a rule
+      ever does not have a title, the Rulekeepor shall assign a title
+      to it by announcement as soon as possible.
+
+      For the purposes of rules governing modification of instruments,
+      the text, power, number, and title of a rule are all substantive
+      aspects of the rule.
+
+[Defines the role of rules in the game.  Incorporates the restriction
+on the power of rules.  Assignment of numbers and default titles fits
+nicely here, not dependent on the particular mechanism for enactment.
+Also makes assignment of titles mandatory, and requires the Rulekeepor
+to announce assignments.]
+
+Amend the rule titled "Rule Changes" to read:
+
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
+
+      (a) enact a rule.  The new rule has power equal to the minimum of
+          the power specified by the enacting instrument, defaulting
+          to one if the enacting instrument does not specify, and the
+          maximum power permitted by other rules.  The enacting  
+instrument
+          may specify a title for the new rule, which if present shall
+          prevail.  The number of the new rule cannot be specified by  
+the
+          enacting instrument; any attempt to so specify is null and  
+void.
+
+      (b) repeal a rule.  When a rule is repealed, it ceases to be a  
+rule,
+          and the Rulekeepor need no longer maintain a record of it.
+
+      (c) amend the text of a rule.
+
+      (d) retitle a rule.
+
+      (e) change the power of a rule.
+
+      A rule change is any effect that falls into the above classes.
+      Rule changes always occur sequentially, never simultaneously.
+
+      Any ambiguity in the specification of a rule change causes that
+      change to be void and without effect.  A variation in whitespace
+      or capitalization in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule, but any other
+      variation does.
+
+      This rule provides the only mechanism by which rules can be  
+created,
+      modified, or destroyed, or by which an entity can become a rule
+      or cease to be a rule.
+
+[All generalised.  Any instrument can effect a rule change, and the
+ambiguity clause applies to all forms of rule change rather than just
+amendments.  Power-based restrictions are no longer in this rule; they
+are handled by the rule created above.  Now makes explicit the prior
+interpretation and game custom that rule changes happen one at a time.]

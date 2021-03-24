@@ -1,0 +1,19 @@
+ID: 5264
+Title: Stare Decisis
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Create a new rule, at power=1, titled "Stare Decisis":
+   The CotC's Monthly Report shall include the Stare Decisis, which
+   is a list of past CFJs. The following information shall be
+   included for each CFJ:
+
+    (i) its statement;
+   (ii) the date on which it was called;
+   (iii) the status of each of its judicial questions.
+
+   Whenever a CFJ is made, the CotC shall add it to the list. E
+   may, at eir discretion, add earlier CFJs. E may Without
+   Objection remove any CFJ e deems no longer relevant from the
+   list.

@@ -1,0 +1,7 @@
+ID: 5292
+Title: <none>
+Author: Proposal 5286
+Co-authors: 
+Adoption index: 1
+
+The enactment of this proposal does nothing.

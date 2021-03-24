@@ -1,0 +1,20 @@
+ID: 6056
+Title: NoV acceptance
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2230 (Notices of Violation) by replacing the text:
+
+     If a notice remains uncontested for four days, a number of Rests
+     are created in the possession of the Accused equal to the power
+     of the violated Rule rounded up.
+
+with the text:
+
+     A Notice that is still Uncontested four days after it is published
+     automatically becomes Closed instead. Any player CAN cause a Notice
+     specifying em as Accused to become Closed by announcement. When a
+     Notice becomes Closed, a number of Rests are created in the
+     possession of the Accused equal to the power of the violated Rule,
+     rounded up.

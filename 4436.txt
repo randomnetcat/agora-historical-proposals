@@ -1,0 +1,24 @@
+ID: 4436
+Title: Monastries
+Author: RedKnight
+Co-authors: 
+Adoption index: 1
+
+##
+Amend Rule 1987 to read:
+
+    The following Classes of Organizations exist:
+
+       a) Groups.
+       b) Contests.
+       c) Monasteries.
+
+Create a new Power = 1 rule titled Joining a Monastery with the following 
+text.
+
+A Player shall be added to the Membership of a Monastery only when the 
+Player to be added has sent the Administrator of the Monastery in question a 
+message requesting the be added to the membership of that Monastery and the 
+addition of that Player to that Monastery's membership is otherwise 
+permitted by that Monastery's SLC.
+##

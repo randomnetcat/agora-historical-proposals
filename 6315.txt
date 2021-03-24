@@ -1,0 +1,33 @@
+ID: 6315
+Title: Party Time
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2126, removing:
+      (6) During Agora's Birthday, a player CAN spend Notes forming
+          the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
+          a translation thereof) to satisfy the Winning Condition of
+          Musicianship,
+and renumbering the following sections.
+
+Create a new Power 2 rule entitled "Hats" with the following text:
+      Party Hats are a class of fixed assets, tracked by the
+      Conductor. Party hats can only be created as described in
+      this rule.
+
+      A player CAN spend Notes forming the melody "Happy
+      Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or a translation
+      thereof) to create a Party Hat in eir own possession.
+
+      During Agora's Birthday, a player CAN destroy a Party Hat
+      in eir own possession to satisfy the Winning Condition of
+      Celebration.
+
+[[Creates a way for players saving Notes for a long time to win on
+Agora's Birthday without making us wait a month and a half to replace
+Notes, although people who are close to having the required Notes will
+probably want to hold up completely replacing them for a little while
+unless the replacement introduces a new way to get a Hat with a
+transition of existing Notes to partially fulfill the new
+requirements.]]

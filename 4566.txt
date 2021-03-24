@@ -1,0 +1,23 @@
+ID: 4566
+Title: A Plastic Budget
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: A Plastic Budget
+
+Amend Rule 2055 (The Scorekeepor's Budget) by appending the
+following text:
+
+     If no Team Score is greater than half the Team Points Goal,
+     then:
+         (a) Any Player may amend the Scorekeepor's budget by
+             adding a valid scoring event, provided e does so
+             both without Objection from the Scorekeepor and
+             with Support from a member of a different team;
+
+         (b) The Scorekeepor may amend the budget by adding,
+             removing, or changing scoring events, provided
+             e does so both without 3 Objections and with
+             Support from a member of a different team.

@@ -1,0 +1,107 @@
+ID: 5418
+Title: Refactor Chamber
+Author: root
+Co-authors: 
+Adoption index: 3
+
+[Chamber is a property of decisions, not proposals.]
+
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the available options are FOR, AGAINST, and
+      PRESENT, and the adoption index is the adoption index of the
+      proposal.
+
+      The adoption index of a proposal is an integral multiple of 0.1,
+      with a minimum value of 1.0.  It may be set by the proposer at
+      the time of submission, or otherwise defaults to 1.0.  A
+      Proposal with an Adoption Index of less than 2 is Ordinary.  All
+      other Proposals are Democratic.
+
+with:
+
+      The adoption index of a proposal is an integral multiple of 0.1,
+      with a minimum value of 1.0.  It may be set by the proposer at
+      the time of submission, or otherwise defaults to 1.0.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the adoption index is the adoption index of
+      the proposal.
+
+
+Enact a rule with Power=3, titled "Standard Classes of Agoran
+Decisions" and reading as follows:
+
+      An Agoran decision with an adoption index is either ordinary or
+      democratic.  An Agoran decision with an adoption index greater
+      than or equal to 2 is democratic.  Any other Agoran decision
+      with an adoption index is ordinary by default.
+
+      If an Agoran decision has an adoption index, the message by
+      which it is initiated MUST include the following information:
+
+      a) Its adoption index.
+      b) Whether it is ordinary or democratic.
+
+      For any Agoran decision with an adoption index, the available
+      options are FOR, AGAINST, and PRESENT.
+
+
+Amend Rule 1607 (The Promotor) by replacing this text:
+
+      b) Its adoption index.
+      c) Whether it is ordinary or democratic.
+      d) Whether it is interested or disinterested.
+
+with:
+
+      b) Whether it is interested or disinterested.
+
+
+Amend Rule 1950 by retitling it "Voting on Democratic Decisions", and
+by replacing each instance of the word "proposal" with "decision".
+
+
+Amend Rule 2156 by retitling it "Voting on Ordinary Decisions", and by
+replacing each instance from the following list of words as indicated:
+
+      * "proposal" with "decision";
+      * "proposals" with "decisions";
+      * "BVLOP" with "BVLOD";
+      * "VVLOP" with "VVLOD";
+      * "EVLOP" with "EVLOD";
+
+
+Amend Rule 2134 (Win by Clout) by replacing each instance from the
+following list of words as indicated:
+
+      * "proposal" with "decision";
+      * "distributed" with "initiated";
+      * "BVLOP" with "BVLOD";
+      * "VVLOP" with "VVLOD";
+      * "EVLOP" with "EVLOD";
+
+
+Amend Rule 2019 (Prerogatives) by replacing each instance of
+"ordinary proposal" with "ordinary decision".
+
+
+Amend Rule 955 (Determining the Will of Agora) by replacing this text:
+
+      (b) If the decision is whether to adopt a proposal, then the
+          voting index is the ratio of the strength of FOR to the
+          strength of AGAINST.
+
+with:
+
+      (b) If the decision is ordinary or democratic, then the voting
+          index is the ratio of the strength of FOR to the strength of
+          AGAINST.
+
+
+Amend Rule 2142 (Support Democracy) to read:
+
+      A player CAN, with 2 support, change an ordinary decision to be
+      democratic.

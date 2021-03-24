@@ -1,0 +1,22 @@
+ID: 4681
+Title: Tiny addition to Illegality
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: 'Tiny addition to Illegality'
+
+Replace the following in R1561
+
+    Any Proposal which offers a bribe to a Player or Players to
+    vote either FOR or AGAINST a Proposal (either itself or another
+    Proposal) shall be completely without effect, even if it is
+    adopted, any Rule to the contrary notwithstanding.
+
+with
+
+    If any Proposal  offers a bribe to a Player or Players to vote
+either FOR or AGAINST a Proposal (either itself or another Proposal),
+then its text shall be completely without effect, even if it is
+adopted, any Rule to the contrary notwithstanding.

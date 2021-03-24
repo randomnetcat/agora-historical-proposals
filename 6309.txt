@@ -1,0 +1,15 @@
+ID: 6309
+Title: Failed Eris
+Author: Quazie
+Co-authors: 
+Adoption index: 1.0
+
+Append the following on to R 1922
+--
+(i) Failed Eris, to be awarded to those who have driven other, older,
+well respected, members of the Agora community out with abusive
+proposals.  Owning this Patent Title is a Losing Condition.
+--
+
+Award the Patent Title of 'Failed Eris' to every player who won the
+game as a result of the "Legislative Dominance" proposal

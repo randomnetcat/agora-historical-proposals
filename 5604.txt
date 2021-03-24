@@ -1,0 +1,93 @@
+ID: 5604
+Title: Judicial switches
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+comex is a co-author of this proposal.
+
+Amend Rule 2162 (Switches) by replacing this text:
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes the value of each instance of
+         that switch whose value is not its default value.
+
+with this text:
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes the value of each instance of
+         that switch whose value is not its default value, though it
+         need not include low-priority instances.
+
+and by replacing this text:
+
+       If an instance of a switch would otherwise fail to have a
+       possible value, it comes to have its default value.
+
+with this text:
+
+       If an instance of a switch would otherwise fail to have a
+       possible value, it comes to have its default value; however,
+       if a switch is defined by the rules as sticky, and its current
+       value ceases to be a possible value, then it remains at that
+       value anyway until otherwise changed.
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing this text:
+
+       At any time, a judicial case either has no judge assigned to it
+       (default) or has exactly one entity assigned to it as judge;
+       this is a persistent status that changes only according to the
+       rules.  To recuse a judge from a case means to deassign em as
+       judge.  To assign a judge to a case implicitly recuses any
+       existing judge.  A recusal is without cause unless stated
+       otherwise in the rules.
+
+       At any time, a judicial case either does not require a judge
+       (default) or requires a judge; this is not a persistent status,
+       but is evaluated instantaneously.
+
+with this text:
+
+       A judicial case requires a judge only while the rules say it
+       does.
+
+       Assignment is a sticky judicial case switch, tracked by the
+       Clerk of the Courts, with values null (default) and the set of
+       all entities qualified to be so assigned.  The assignment of a
+       closed case is low-priority.
+
+       To assign a judge to a case is to flip that case's assignment
+       to that judge.  To recuse a judge from a case is to flip that
+       case's assignment from that judge to another value (null if
+       not otherwise specified); the recusal is with cause only if
+       the rules say it is.
+
+and by removing this text:
+
+       Except where modified by other rules, the entities qualified to
+       be assigned as judge of a judicial case are the active
+       first-class players.  Being unqualified to be assigned as a
+       judge does not inherently prevent an entity from continuing to
+       be judge if already assigned.
+
+Amend Rule 2158 (Judicial Questions) by replacing this text:
+
+       Within a judicial case, one or more judicial questions may
+       arise.  Each judicial question is either inapplicable (default)
+       or applicable; this is not a persistent status but is evaluated
+       instantaneously.  Each judicial question either is open
+       (default), suspended, or has a particular judgement; this is a
+       persistent status that changes only according to the rules.  The
+       possible types of judgement for a judicial question vary
+       according to the type of question.
+
+with this text:
+
+       Each judicial question that arises within a judicial case is
+       applicable only while the rules say it is.
+
+       Decision is a judicial question switch, tracked by the Clerk of
+       the Courts, with values open (default), suspended, and the set
+       of all values defined by the rules as valid for the type of
+       question.  The decision of a judicial question within a closed
+       case is low-priority.

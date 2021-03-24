@@ -1,0 +1,12 @@
+ID: 5041
+Title: Preserve the Partnerships
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Amend R2145 by appending the paragraph:
+{{
+Agora recognizes an agreement that implicitly or explicitly assigns its
+rights, obligations, and responsibilities onto the parties of that agreement
+to be a non-natural person.
+}}

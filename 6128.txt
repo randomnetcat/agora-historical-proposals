@@ -1,0 +1,10 @@
+ID: 6128
+Title: Conditional Upgrade
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Increase the power of Rule 2127 (Conditional Votes) to 3.
+
+Anyone who votes conditionally on this proposal SHOULD be the
+first up againt the wall when the revolution comes.

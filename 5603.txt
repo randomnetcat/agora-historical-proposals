@@ -1,0 +1,264 @@
+ID: 5603
+Title: Ruleset as Contract
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Change the title of Rule 2141 to "Role and Attributes of Individual
+Rules", and amend it by replacing this text:
+
+      A rule is a type of instrument with the capacity to govern
+      the game generally.  A rule's content takes the form of
+      a text, and is unlimited in scope.  In particular, a rule
+      may define in-game entities and regulate their behaviour,
+      make instantaneous changes to the state of in-game entities,
+      prescribe or proscribe certain player behaviour, modify the
+      rules or the application thereof, or do any of these things
+      in a conditional manner.
+
+with this text:
+
+      A rule is a type of instrument with the capacity to govern
+      the game generally.  A rule's content takes the form of
+      a text, and is unlimited in scope with respect to defining the
+      gamestate.  In particular, a rule CAN define in-game entities
+      and regulate their behaviour, make instantaneous changes
+      to the state of in-game entities, prescribe or proscribe certain
+      participant behaviour, modify the rules or the application
+      thereof, or do any of these things in a conditional manner.
+
+[Jurisdiction extended from players to participants, but not to
+non-participants.]
+
+Create a rule titled "Role of the Ruleset as a Whole" with Power 3 and
+this text:
+
+      The ruleset is a contract consisting of all rules that currently
+      exist.  The ruleset CANNOT be terminated, rules to the contrary
+      notwithstanding.  Parties to the ruleset are known as
+      participants.  Changes to the set of parties to the ruleset are
+      secured.
+
+      A person who becomes and remains a player, or otherwise acts
+      with the clear intent of influencing the gamestate, thereby
+      agrees to be bound by the ruleset until e announces that e is no
+      longer a participant.
+
+      The proposal, fora, and registration processes are, prima facie,
+      considered protective of a participant's rights and privileges
+      with respect to making and changing the ruleset and the agreement
+      to be bound by it.
+
+      The ruleset CANNOT bind non-participants while they remain
+      non-participants, rules to the contrary notwithstanding, but
+      CAN bind them with respect to acts that would cause them to
+      become participants.
+
+Create a rule titled "Abandonment" with Power 3 and this text:
+
+      A player who has been continuously Inactive for at least three
+      months CAN be deregistered by any other player without objection.
+
+      A non-player participant who has not acted with the clear intent
+      of influencing the gamestate CAN have eir participanthood removed
+      by any person by announcement.
+
+Amend Rule 2130 (Activity) by removing this text:
+
+      A player who has been continuously Inactive for at least three
+      months CAN be deregistered by any other player without objection.
+
+[Merged into "Abandonment".]
+
+Create a rule titled "Dissolution" with Power 3 and this text:
+
+      A player who is not a person and has never been a first-class
+      person CAN be deregistered by any player by announcement.
+
+      If a registered partnership has the same basis as another
+      player, any player CAN deregister it with Agoran Consent.
+
+Change the power of Rule 869 (How to Join and Leave Agora) to 3, and
+amend it by replacing this text:
+
+      A player CAN deregister by announcement.  E CANNOT register
+      within thirty days after doing so.
+
+      A player who is not a person and has never been a first-class
+      person CAN be deregistered by any player by announcement.
+
+with this text:
+
+      A player CAN deregister by announcement; this also constitutes
+      an announcement that e is no longer a participant, unless e
+      specifies otherwise.  A player CANNOT register within thirty
+      days after eir voluntary deregistration.
+
+[Time limit generalized to other methods of voluntary deregistration,
+i.e. Writ of FAGE.  Second paragraph merged into "Dissolution".]
+
+Amend Rule 2144 (Limited Partnerships) by removing this text:
+
+      If a registered partnership has the same basis as another
+      player, any player CAN deregister it with Agoran Consent.
+
+[Merged into "Dissolution".]
+
+Amend Rule 101 (Agoran Rights and Privileges) to read:
+
+      A person's defined rights CANNOT be removed or restricted beyond
+      reasonable effort by any interpretation of Agoran law or contract,
+      rules to the contrary notwithstanding.  A person's defined
+      privileges are assumed to exist in the absence of explicit Agoran
+      law or contract to the contrary.
+
+         i. Every person has the privilege of doing what e wilt.
+
+        ii. Every person has the right to perform an unregulated action.
+
+       iii. Every person has the right to initiate a formal process to
+            resolve a matter of controversy, with the reasonable
+            expectation that the controversy will thereby be resolved.
+            Every person has the right to cause formal reconsideration
+            of any judicial determination that e should be punished.
+
+        iv. Every person has the right to refuse to become party to
+            a contract.  The absence of a person's explicit, willful
+            consent shall be considered a refusal.
+
+         v. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, which e has
+            not had the reasonable opportunity to review.
+
+        vi. Freedom of speech being essential for the healthy
+            functioning of any non-Imperial nomic, every player
+            has the right and every person has the privilege of
+            participation in the fora.
+
+       vii. Every person has the right to not be penalized more than
+            once for any single action or inaction.
+
+      viii. Every person has the right to become a participant, and
+            the privilege of becoming and remaining a player.
+
+        ix. Every person has the right to cease being a participant.
+
+      Please treat Agora right good forever.
+
+[Rights /can/ be restricted within reasonable effort, e.g. "don't lie"
+or "wait a week", but not "include a page from the 1947 Vladivostok
+phone book" or "wait 10106 years".  If you voluntarily sign away some
+of your rights, then evidently you considered those limits reasonable.]
+
+Amend Rule 478 (Fora) by removing the first paragraph.
+
+[Merged into Rule 101 (vi).]
+
+Change the power of Rule 1742 (Contracts) to 3, and amend it by
+replacing this text:
+
+      Contracts are binding agreements governed by the rules.  Any
+      agreement made by one or more persons with the intention that it
+      be binding on them and governed by the rules is a contract
+      (unless it would automatically terminate as a contract).
+
+with this text:
+
+      Any agreement made in writing by one or more persons, with the
+      explicit intention that it be binding on them and governed by
+      the rules, thereby becomes a contract, and remains one until
+      terminated.
+
+and by replacing this text:
+
+      Parties to a contract SHALL act in accordance with that
+      contract.  This obligation is not impaired by contradiction
+      between the contract and any other contract, or between the
+      contract and the rules.
+
+with this text:
+
+      Parties to (syn. members of) a contract SHALL act in accordance
+      with that contract.  This obligation is not impaired by
+      contradiction between the contract and any other contract, even
+      if the other contract is the ruleset.
+
+Amend Rule 2150 (Personhood) by replacing this text:
+
+      The basis of a first-class person is the singleton set
+      consisting of that person.
+
+with this text:
+
+      Each person has a basis, which is a set of one or more persons
+      (its feet).  The basis of a first-class person is the set
+      consisting of that person.
+
+[Avoid "member of basis", as it can easily be confused with "member
+of contract".]
+
+Amend Rule 1504 (Criminal Cases) by replacing "member of the basis"
+with "foot", and by replacing "member of the defendant's basis" with
+"foot of the defendant".
+
+Amend Rule 2169 (Equity Cases) by replacing this text:
+
+      The members of the bases of the parties to the contract are all
+      unqualified to be assigned as judge of the case.
+
+with this text:
+
+      The feet of the parties to the contract are all unqualified to
+      be assigned as judge of the case, unless the contract is the
+      ruleset or ruleset-descended.
+
+and by replacing this text:
+
+      the judgement is in effect as a binding agreement between the
+      parties.
+
+with this text:
+
+      the judgement is in effect as a new contract between the parties,
+      acting in conjunction with the original contract.  If the original
+      contract is the ruleset or ruleset-descended, then the new
+      contract is ruleset-descended.
+
+Change the title of Rule 2197 to "Contract Changes", and amend it to read:
+
+      A Contract Change is any of the following:
+
+        a) A person voluntarily becoming party to a contract.
+
+        b) A person ceasing to be a party to a contract.
+
+        c) Amending a contract.
+
+        d) Terminating a contract.
+
+      Contract Changes CAN be performed in any of the following ways:
+
+        a) As allowed by the contract, provided that the method is not
+           otherwise PREVENTED or PROHIBITED.
+
+        b) Any person CAN become party to a contract by announcement,
+           unless the contract purports to regulate doing so.
+
+        c) By any party to the contract with the support of all other
+           parties, if the minimum number of parties is at least two.
+
+        d) By any party to the contract without objection, if the
+           minimum number of parties is less than two.  Any party to
+           the contract CAN object to such an attempt.
+
+      The above notwithstanding, a Contract Change CANNOT be performed
+      if it is ambiguous, or if its permissibility cannot be determined
+      with certainty.
+
+Repeal Rule 2198 (Making Contract Changes).
+
+[Merged into Rule 2197.]
+
+Amend Rule 2145 (Partnerships) by replacing "the the" with "the".
+
+Amend Rule 2174 (Aliens) by replacing "member of the basis" with "foot".

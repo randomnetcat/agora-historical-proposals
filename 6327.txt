@@ -1,0 +1,24 @@
+ID: 6327
+Title: Does a public message have the <X> nature?
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2125 (Regulation Regulations) by appending to this text:
+
+      c) The rules explicitly state that it CAN be performed while
+         certain conditions are satisfied.  Such an action CANNOT be
+         performed except as allowed by the rules.
+
+this text:
+
+         In particular, if the action in question is publishing a
+         type of document, then a public message is not that type of
+         document (even if it is labeled as such) except as allowed
+         by the rules.
+
+Amend Rule 2230 (Notices of Violation) by replacing "MAY publish" with
+"CAN publish".
+
+Amend Rule 911 (Appeal Cases) by replacing "may publish" with "CAN
+publish".

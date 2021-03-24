@@ -1,0 +1,9 @@
+ID: 6027
+Title: <none>
+Author: Elysion
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2124 (Agoran Satisfaction) by appending the following sentence to the end of the first paragraph:
+
+For the purposes of any determination defined by this rule, objections shall always be considered withdrawn if they were made prior to the announcement of intent to perform the action.

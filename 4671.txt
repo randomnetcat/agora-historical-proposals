@@ -1,0 +1,26 @@
+ID: 4671
+Title: History lengthened
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: History lengthened
+
+Amend Rule 2044 (Awardable Degrees) by REPLACING the text:
+   The Degree of Doctor of Nomic History requires a Thesis of at
+   least 750 words and containing a narrative covering significant
+   events which have occurred in Agora within the eight weeks prior
+   to the publication of the Thesis.
+
+                  ()()()()()()()()()()
+           <***---!!!---- WITH ----!!!---***>
+                  ()()()()()()()()()()
+
+   The Degree of Doctor of Nomic History requires a Thesis of at
+   least 750 words and containing a narrative and analysis of
+   past events of specific significance to Agora.
+
+
+[Why 8-weeks?  I want to write about some real history.
+The thesis committee can decide if it's significant.]

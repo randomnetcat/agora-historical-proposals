@@ -1,0 +1,9 @@
+ID: 5746
+Title: The Notary web site is there to be used 
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2127 (Conditional Votes) by replacing "information published
+within the voting period" with "information reasonably available during
+the voting period".

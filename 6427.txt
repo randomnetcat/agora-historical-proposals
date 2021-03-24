@@ -1,0 +1,10 @@
+ID: 6427
+Title: NOV ID Numbers
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+Append the following to R2230:
+{{
+Valid NOVs have ID numbers, to be assigned by the Insulator.
+}}

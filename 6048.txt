@@ -1,0 +1,17 @@
+ID: 6048
+Title: the rules are special
+Author: Wooble
+Co-authors: 
+Adoption index: 3.0
+
+WHEREAS the enactment, repeal, or amendment of Rules in a nomic should
+be more protected than the rest of the Gamestate,
+
+and WHEREAS requiring ratification by proposal of the Rules should be
+expected to lead to a more careful examination of the ratified text,
+
+Amend Rule 2202 (Ratification Without Objection), adding at the end:
+
+Ratification Without Objection CANNOT cause the repeal, amendment,
+enactment, or mutation of any Rule, rules to the contrary
+notwithstanding.

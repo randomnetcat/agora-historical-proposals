@@ -1,0 +1,13 @@
+ID: 5558
+Title: Score Index Lubrication
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2187 by replacing this text:
+
+      The Scorekeepor CAN change the Score Index without objection.
+
+with this text:
+
+      The Scorekeepor CAN change the Score Index with Agoran consent.

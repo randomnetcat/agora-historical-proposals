@@ -1,0 +1,16 @@
+ID: 5624
+Title: Rights are Concrete
+Author: Goethe
+Co-authors: 
+Adoption index: 1.8
+
+Rights are Concrete
+
+Create the following Rule, "Standing for Rights", power 1.8:
+
+    If an inquiry case purports that an interpretation of Agoran
+    Law may abridge, reduce, limit, or remove a defined Right, but
+    the CFJ statement does not refer to a specific instance, that
+    has actually occurred, in which the interpretation has been
+    applied in a way that materially affects game play, the case
+    Lacks Standing and the appropriate judgement is UNDETERMINED.

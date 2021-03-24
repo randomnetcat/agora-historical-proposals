@@ -1,0 +1,15 @@
+ID: 5386
+Title: Revise criminal defenses
+Author: Murphy
+Co-authors: Zefram
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing the paragraph
+containing "EXCUSED, appropriate if" with this text:
+
+      * UNAWARE, appropriate if the defendant reasonably believed
+        that the alleged act did not violate the specified rule
+
+      * EXCUSED, appropriate if the defendant could not reasonably
+        avoid breaching the rules in a manner at least as serious
+        as that alleged

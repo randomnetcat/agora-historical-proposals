@@ -1,0 +1,14 @@
+ID: 6437
+Title: Objection cap
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1728 (Dependent Actions) by replacing this text:
+
+            1) Without N Objections, where N is a positive integer.
+
+with this text:
+
+            1) Without N Objections, where N is a positive integer
+               no greater than 8.

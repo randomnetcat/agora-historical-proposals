@@ -1,0 +1,12 @@
+ID: 6185
+Title: coppro Can't Post
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Create a new 1-power rule with the following text:
+{{
+      If the agora-discussion mailing list is otherwise a Discussion
+      Forum, and coppro is a player, then, for coppro's messages only,
+      the agora-discussion mailing list is a Public Forum.
+}}

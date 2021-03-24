@@ -1,0 +1,121 @@
+ID: 4743
+Title: Contracts
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+Create a new Rule entitled "Contracts" which reads as follow:
+
+      There exists a type of agreement known as a Contract. A Contract
+      is an Entity. The content of a Contract is called its
+      Regulations. The first Player to announce the creation of a
+      Contract is its Executor and is known as the Notary of that
+      Contract. Any other Player may decide to become part of a
+      Contract by notifying that Contract's Notary. Players party to a
+      Contract, including the Notary, are the Members of this
+      Contract. A Member may leave a Contract at any time by notifying
+      the Notary.
+
+      A Contract may contain any number of Regulations. Regulations
+      have the power to constrain the actions of Players in the same
+      manner as the Rules.  However, Regulations have power over only
+      those Players that are Members of that Contract. All Members
+      are required to abide by the Regulations, unless doing so would
+      violate the Rules. Violation of this requirement is the Class 1
+      Crime of Insubordination. A Contract may include in its
+      Regulations ways for Players to leave the Contract.
+
+      Rules to the contrary notwithstanding, no Player shall ever
+      involuntarily become a Member of a Contract.
+
+      If the Notary of a Contract becomes Silent, all Members of this
+      Contract cease to be Members of this Contract and the Contract
+      ceases to exist.
+
+      Only Members of a Contract may CFJ that a Member has violated
+      that Contract. All Members of a Contract are automatically
+      ineligible to Judge a CFJ that a Member has violated that
+      Contract.
+
+      All Rules regulating agreements that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
+
+Create a new Rule entitled "Contract Maintenance" that reads:
+
+      The Notary of a given Contract must provide a copy of its
+      Regulations to any other Player who requests it, as soon as
+      possible after the request is made.  The Notary of a
+      Contract must also provide an updated copy of the Regulations
+      to all Members as soon as possible after the Regulations change
+      for any reason. Regulations can not be changed except in
+      accordance with the Rules. Regulations are permitted to define
+      their own mechanisms for changing their own content, and any
+      change to Regulations adopted in accordance with their own
+      mechanisms is legal.
+
+      The Notary may, without objection, change the Regulations
+      provided e sends a copy of the new Regulations to all Members
+      as soon as possible.
+
+Rename Rule 2096 to "Card-Carrying Contracts" and amend it to read:
+
+      A Contract may be made into a Card-Carrying Contract by its
+      Notary acting with two support and without two objections.
+      A player may only be Notary of one Card-Carrying Contract
+      at a time.
+
+      A Card-Carrying Contract is a gambler, and may perform the
+      following actions only as explicitly permitted by its
+      regulations:
+        1.  As long as the Contract has at least three Members and its
+            hand size is less than the maximum hand size, it may draw
+            a number of cards each month equal to its number of
+            Members at the beginning of the month divided by two and
+            rounded up.
+        2.  Transfer or discard cards.
+
+      A Card-Carrying Contract may not play cards.
+
+
+Amend Rule 910 to read:
+
+       The Justiciar is an office; its holder is responsible for
+       justice, serving on a Board of Appeals when necessary.
+
+
+In Rule 1727, replace the part that reads:
+
+      BE IT FURTHER RESOLVED that the Herald may select one Contest,
+      in existence on Agora's Birthday, which has as its purpose
+      encouraging the celebration of Agora's Birthday.  Within the
+      month following Agora's Birthday, that Contest may award its
+      Members the Patent Title Nth Anniversary Ribbon, where N is the
+      number of years of Agora's existence;
+with:
+      BE IT FURTHER RESOLVED that the Herald may select one Contract,
+      in existence on Agora's Birthday, which has as its purpose
+      encouraging the celebration of Agora's Birthday.  Within the
+      month following Agora's Birthday, that Contract may award its
+      Members the Patent Title Nth Anniversary Ribbon, where N is the
+      number of years of Agora's existence;
+
+
+Repeal Rule 1588 (Subordinate Legal Codes)
+Repeal Rule 1595 (Precedence of SLCs)
+Repeal Rule 1591 (Jurisdiction of SLCs)
+Repeal Rule 1594 (Violation of SLCs)
+Repeal Rule 1457 (Judicial Procedure for Violations of an SLC)
+Repeal Rule 1590 (Notary of SLCs)
+Repeal Rule 1589 (Modification of SLCs)
+Repeal Rule 1592 (Authority of SLCs to Change Properties)
+Repeal Rule 1528 (Organizations)
+Repeal Rule 1614 (Names of Organizations)
+Repeal Rule 1987 (Classes of Organizations)
+Repeal Rule 1612 (Charters of Organizations)
+Repeal Rule 1531 (Administrators of Organizations)
+Repeal Rule 1533 (Application to Create an Organization)
+Repeal Rule 1397 (Dissolution of Organizations)
+Repeal Rule 2038 (Joining a Monastery)
+Repeal Rule 1446 (Contests)
+Repeal Rule 1539 (Regulations and Membership of Contests)

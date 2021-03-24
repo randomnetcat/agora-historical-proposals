@@ -1,0 +1,42 @@
+ID: 4735
+Title: The Map of Agora
+Author: Maud
+Co-authors: 
+Adoption index: 1
+
+
+Enact a rule, titled "The Map of Agora", reading:
+
+                              ____  _        /|
+                   DARWIN ->  \_  |/ |      / \
+                             __/    /      |  |
+           <- DSV          /      /        |  \
+                       _   \      \_       |   \
+                 MORNINGTON CRESCENT ->    /    |      <- GREAT BARRIER REEF
+                _ _/       |         \_/\_/     \
+               / \\ <- SHARK BAY      |         |
+              /            |          |          \ <- TOWNSVILLE
+           ___/            |          |           \_
+        __/                |          |             |
+       /                   |          |             \
+      /           O <- L. DISAPPOINTMENT            |/\
+     |                     |          |               |_
+     |                     |          |  EMERALD ->     \
+     \                     |__________=_____,             \
+      /                    |                |             | <- BRISBANE
+      \      O <- LT. ANNE MOORE            |        __  _\
+       \                   |                |_______/  \/ |
+        |                __/\      <- TARCOOLA           /   LORD HOWE ->
+        \             __/    \_             /           /
+PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
+         /    _/ \/             \ / /       |         /
+        |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+          \_/                         \    | \_    _|
+                                      |    |   \__/
+                                       \___=_  ___|
+                                MELBOURNE -> \/
+
+                                           /\__
+                                           |   |
+                                            |  /
+                                            \_/ <- HOBART

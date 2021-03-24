@@ -1,0 +1,16 @@
+ID: 6550
+Title: Relevant Pool Report
+Author: Tiger
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1607 by replacing the section now reading:
+
+     Distributability is a proposal switch tracked by the Promotor,
+     with values Undistributable (default) and Distributable.
+
+to read:
+
+     Distributability is switch possessed by proposals in the
+     proposal pool, tracked by the Promotor, with values
+     Undistributable (default) and Distributable.

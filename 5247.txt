@@ -1,0 +1,7 @@
+ID: 5247
+Title: <none>
+Author: AFO
+Co-authors: 
+Adoption index: 3
+
+Change Rule 2152 to have Power=3

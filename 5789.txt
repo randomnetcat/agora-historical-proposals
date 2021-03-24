@@ -1,0 +1,24 @@
+ID: 5789
+Title: Return of truthfulness
+Author: Murphy
+Co-authors: Zefram, Michael, Goethe
+Adoption index: 2.0
+
+Create a rule titled "Truthfulness" with Power 2 and this text:
+
+     A person SHALL NOT make a public statement on a matter relevant
+     to the rules that is intended to mislead others as to its truth
+     (or, in the case of a public statement that one performs an
+     action, its effectiveness).
+
+     For the purpose of this rule:
+
+       a) Merely quoting a statement does not constitute making
+          that statement.
+
+       b) Any conditional clause or other qualifier attached to a
+          statement constitutes part of the statement; the nature of
+          the whole is what is significant.
+
+[A proposal to amend a rule into this form was previously adopted,
+but another proposal had repealed that rule first.]

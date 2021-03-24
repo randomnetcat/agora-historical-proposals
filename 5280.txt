@@ -1,0 +1,23 @@
+ID: 5280
+Title: truthfulness
+Author: Zefram
+Co-authors: Murphy
+Adoption index: 1
+
+Murphy is a coauthor of this proposal.
+
+Retitle rule 2149 to "Truthfulness", and amend it to read
+
+      A person SHALL NOT make a public statement unless e believes
+      that in doing so e is telling the truth.  Merely quoting a false
+      statement does not constitute making it for the purposes of this
+      rule.  Any disclaimer, conditional clause, or other qualifier
+      attached to a statement constitutes part of the statement for
+      the purposes of this rule; the truth or falsity of the whole is
+      what is significant.
+
+[Truthiness doesn't work and isn't going anywhere.  This proposal
+restores the former truthfulness provision, with an extension: it
+applies to all persons, not just players.  This extension is useful
+with the present range of game activities that non-players engage in.
+Also incorporated Murphy's clearer wording into the first sentence.]

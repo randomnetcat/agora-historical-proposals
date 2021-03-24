@@ -1,0 +1,15 @@
+ID: 5002
+Title: power law quorum
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 879 to read:
+
+      The quorum for an Agoran decision is NEV^0.55, rounded up, where
+      NEV is the number of eligible voters with a positive voting
+      limit on that decision.
+
+[Smoothly varying quorum proportion, no need for multiple formulae.  A
+power law roughly matches the way attendance levels tend to go in
+committees.]

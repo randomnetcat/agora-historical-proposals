@@ -1,0 +1,28 @@
+ID: 6704
+Title: Hawk Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 1.5
+
+PROPOSAL TEXT:
+Amend Rule 2203 (Hawkishness) to read as follows:
+       Hawkishness is a player switch, tracked by the Clerk of the
+       Courts, with the following values:
+
+       * Hanging.  Hanging players are unqualified to be assigned as
+         judge of any inquiry case.
+
+       * Hugging.  Hugging players are unqualified to be assigned as
+         judge of any criminal case.
+
+       * Hemming-and-Hawing (default).
+
+       * Hovering.  Hovering players are poorly qualified to be
+         assigned as judge of any inquiry case, unless there is no
+         non-inquiry case requiring assignment, at least one inquiry
+         case requiring assignment, and no such inquiry case with any
+         non-Hovering player well-qualified to be assigned to it.
+
+       Changes to hawkishness are secured.
+
+       A player CAN flip eir hawkishness by announcement.

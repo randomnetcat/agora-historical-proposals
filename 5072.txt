@@ -1,0 +1,10 @@
+ID: 5072
+Title: judicial power realignment 2
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Change the power of rule 1503 to 2.
+
+[A judicial-related rule with stupidly high power.  There's no reason
+for this to have higher power than the judicial rules.]

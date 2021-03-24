@@ -1,0 +1,15 @@
+ID: 4950
+Title: initialise VLOP properly
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 2126 by replacing the text "eir VCs are set to zero" with
+"eir VCs are set to zero and eir voting limit on ordinary proposals is
+set to one".
+
+[VLOP isn't explicitly set for new players anywhere.  Without this
+amendment, a former player rejoining probably has eir old VLOP,  
+unaffected
+by intervening win-induced resets of players' VLOPs.]

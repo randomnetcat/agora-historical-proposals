@@ -1,0 +1,19 @@
+ID: 5084
+Title: platonic patent titles
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 649 by replacing the text
+
+      As soon as possible after the Rules state that a Patent title
+      shall be awarded or revoked, the Herald shall publicly award or
+      revoke that Patent Title.
+
+with
+
+      As soon as possible after a patent title is awarded or revoked,
+      the herald SHALL announce the award or revocation.
+
+[We really don't need the extra step of the herald performing the
+award or revocation.  It was poorly specified anyway.]

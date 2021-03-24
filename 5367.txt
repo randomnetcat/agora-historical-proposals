@@ -1,0 +1,18 @@
+ID: 5367
+Title: <none>
+Author: Levi
+Co-authors: 
+Adoption index: 1
+
+Modify Rule 2138 to read:
+
+      The International Associate Director of Personnel is an
+      low-priority office; its holder is responsible for keeping
+      track of officers and reports.
+
+      The IADoP's report includes the following:
+
+      a) The holder of each office.
+      b) The date on which each holder last came to hold that office.
+      c) The date of the most recent attempt to achieve Agoran Consent
+         for changing the holder of that office.

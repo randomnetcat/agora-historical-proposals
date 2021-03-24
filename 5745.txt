@@ -1,0 +1,9 @@
+ID: 5745
+Title: Deregulation
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2198 by removing the paragraph:
+      If a contract does not purport to regulate becoming a party to
+      it, than any person CAN become a party to it by announcement.

@@ -1,0 +1,49 @@
+ID: 5218
+Title: distributor as an office
+Author: Zefram
+Co-authors: Murphy
+Adoption index: 3
+
+Murphy is a coauthor of this proposal.
+
+Amend rule 478 by replacing the paragraphs
+
+      Publicity is a forum switch with values Public, Discussion, and
+      Null (default), tracked by the Registrar.
+
+      The Registrar's report includes, for each forum with non-null
+      publicity, sufficient instructions for players to receive
+      messages there.
+
+with
+
+      The distributor is an office.
+
+      Publicity is a forum switch with values Public, Discussion, and
+      Null (default), tracked by the distributor in eir monthly
+      report.  The distributor's monthly report includes, for each
+      forum with non-null publicity, sufficient instructions for
+      players to receive messages there.
+
+      The distributor SHALL send eir monthly report to each forum with
+      non-null publicity at least once each quarter.
+
+and then replacing each remaining instance of "Registrar" with
+"distributor".
+
+[Tracking fora is a pretty distinct job from tracking players, and the
+registrar has it only for historical reasons.  We've often formally
+tracked a distributor, and it may as well be an office with the
+obvious responsibility for fora.  The new bit about reporting to all
+fora provides a regular test of the backup fora and ensures that
+someone with out-of-date contact details will at least find out where
+we really are.]
+
+Install Goddess Eris as holder of the office of distributor.
+
+[E in fact has this role currently.]
+
+Amend rule 2162 by replacing "That officer's report" with "That
+officer's report (weekly unless otherwise specified)".
+
+[Additional option used by the new R478.]

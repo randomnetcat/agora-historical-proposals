@@ -1,0 +1,14 @@
+ID: 5415
+Title: Reject Democracy
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Repeal Rule 2142 (Support Democracy).
+
+[R2142 has been broken for a while now, as a result of the
+simultaneous rejection of Proposal 5209 and adoption of Proposal 5210,
+which apparently was arranged for the express purpose of subtly
+breaking it.
+Besides, we currently have the Veto, which effectively does the same
+thing that R2142 did before it was broken.]

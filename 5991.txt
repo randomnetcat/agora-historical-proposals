@@ -1,0 +1,12 @@
+ID: 5991
+Title: Cantus Cygneus Only If You Mean It v2
+Author: Elysion
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 1789 (Cantus Cygneus) by appending the following text to the
+end of the last paragraph:
+
+     A player who has deregistered in a Writ of FAGE may not register
+     within thirty days of eir deregistration, other rules to the contrary
+     notwithstanding.

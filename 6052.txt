@@ -1,0 +1,18 @@
+ID: 6052
+Title: Easier hermitage
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2186 (Victory) by replacing this text:
+
+     While all but one player satisfy at least one Losing Condition,
+     that player satisfies the Winning Condition of Solitude.
+
+with this text:
+
+     While a player is the only active first-class player not to
+     satisfy at least one Losing Condition, e satisfies the Winning
+     Condition of Solitude.
+
+Repeal Rule 2218 (Win by Not Losing).  [Redundant and underpowered.]

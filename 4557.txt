@@ -1,0 +1,49 @@
+ID: 4557
+Title: Clarify Report Frequencies
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend R559 by replacing:
+      The Registrar's Report shall include all of the following
+      information:
+With:
+      The Registrar's Weekly Report shall include all of the
+      following information:
+
+Amend R1377 by replacing:
+      The Herald's Report shall include the following:
+With:
+      The Herald's Weekly Report shall include the following:
+
+Amend R889 to read:
+
+      The Clerk of the Courts (CotC) is an office; its holder is
+      responsible for receiving and distributing Calls for Judgement
+      (CFJs) and Appeals.
+
+      The CotC's Weekly Report shall include the following:
+         (i) Each Player's Orientation.
+
+      The CotC's Monthly Report shall include the Stare Decisis, which
+      is a list of past CFJs.  The following information shall be
+      included for each CFJ:
+
+        (i) its statement;
+       (ii) the date on which it was called;
+      (iii) its outcome (if any) on Judgement; and
+       (iv) its outcome (if any) on Appeal.
+
+      Whenever a CFJ is made, the CotC shall add it to the list.  E
+      may, at eir discretion, add earlier CFJs.  E may Without
+      Objection remove any CFJ e deems no longer relevant from the
+      list.
+
+Amend R1871 by replacing:
+      Orientation is a stuck player switch with values unturned and
+      turned.  The Clerk of the Courts shall maintain and report
+      records for this switch.
+With:
+      Orientation is a stuck player switch with values unturned and
+      turned.

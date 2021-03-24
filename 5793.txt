@@ -1,0 +1,11 @@
+ID: 5793
+Title: Secure points
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Upmutate Rule 2136 to power 2.
+Upmutate Rule 2179 to power 2, and amend it by appending to the first
+paragraph the text:
+
+     Changes to point holdings are secured.

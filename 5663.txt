@@ -1,0 +1,28 @@
+ID: 5663
+Title: Clarify contract creation
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1742 (Contracts) by replacing this text:
+
+      Contracts are binding agreements governed by the rules.  Any
+      agreement made by one or more persons with the intention that it
+      be binding on them and governed by the rules is a contract
+      (unless it would automatically terminate as a contract).
+
+      A contract automatically terminates if the number of parties to
+      it falls below the number of parties the rules require for the
+      contract.  If other rules do not specify such a number for a
+      contract, then a contract requires at least two parties.
+
+with this text:
+
+      Contracts are binding agreements governed by the rules.
+
+      Each contract requires a certain number of parties (two if not
+      otherwise specified by the rules).  Any agreement made by one or
+      more persons, with the intention that it be binding on them and
+      governed by the rules, becomes a contract when it comes to have
+      at least the required number of parties, and terminates when it
+      comes to have less than the required number of parties.

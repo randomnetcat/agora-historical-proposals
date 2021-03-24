@@ -1,0 +1,16 @@
+ID: 5288
+Title: Encourage controversy
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      (-R) When a proposal's voting index is less than half its
+           adoption index, its proposer loses one Red VC.
+
+with this text:
+
+      (-R) When a proposal's voting index is less than half its
+           adoption index, its proposer loses one Red VC, unless e
+           lost a VC in this way earlier in the same week.

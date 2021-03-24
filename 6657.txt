@@ -1,0 +1,34 @@
+ID: 6657
+Title: Fix Winning and Losing Conditions
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2186 (Victory) to read:
+
+       Winning Conditions and Losing Conditions are conditions defined
+       as such by the rules.  If such a condition is defined by the
+       rules as being satisfied when an event occurs (as opposed to
+       being satisfied while certain other conditions hold), then it
+       thereafter continues to be satisfied until the rules explicitly
+       say otherwise.
+
+       When one or more persons satisfy at least one Winning Condition
+       and do not satisfy any Losing Conditions, all such persons win
+       the game.  The game CANNOT be won in any other way, rules to the
+       contrary notwithstanding.
+
+       Each Winning Condition should (if needed) specify a cleanup
+       procedure to prevent an arbitrary number of wins arising from
+       essentially the same conditions.  When one or more persons win
+       the game:
+
+         a) For each Winning Condition satisfied by at least one of
+            those persons, its cleanup procedure (if any) occurs.
+
+         b) Each of those persons ceases to satisfy any Winning
+            Conditions.
+
+       A win announcement is a factually correct announcement
+       explicitly labeled as a win announcement and/or clearly stating
+       that one or more persons win the game.

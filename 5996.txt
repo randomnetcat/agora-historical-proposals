@@ -1,0 +1,22 @@
+ID: 5996
+Title: Remove power-1 scams
+Author: Warrigal
+Co-authors: 
+Adoption index: 3.0
+
+In rule 1728, "Dependent Actions", replace "A person (the performer)
+CAN perform an action dependently" with "A rule allows a person (the
+performer) to perform an action dependently", "The rules" with "The
+rule", and "A dependent action CAN be performed non-dependently as
+otherwise permitted by the rules." with "An action being defined as a
+dependent action does not prevent it from being performed
+non-dependently as otherwise permitted by the rules."
+
+In rule 1769, "Holidays", after the sentence "A Holiday is a period of
+time designated as such by the Rules.", add the sentence "Designating
+a period of time as a Holiday is secured."
+
+In rule 107, "Initiating Agoran Decisions", after paragraph (e), add
+the paragraph "Defining information as an essential parameter for an
+Agoran decision is secured, with power threshold equal to the power of
+the rule authorizing its initiation."

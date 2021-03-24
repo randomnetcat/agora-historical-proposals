@@ -1,0 +1,13 @@
+ID: 4558
+Title: Judges Please Speak Up
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule titled "The Silent are Ineligible", with the following
+text:
+
+      When a Player becomes Silent, e becomes turned.
+
+      Whenever a Silent Player becomes unturned, e becomes turned.

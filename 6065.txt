@@ -1,0 +1,20 @@
+ID: 6065
+Title: Rebellion
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+A Rebellious Player is a Player who cast all eir valid votes FOR this proposal.
+
+Destroy all Rests held by Rebellious Players.
+
+Amend Rule 2158 (Judicial Questions) by adding, after:
+
+     When a judicial question is applicable and open, and its case
+     has a judge assigned to it, the judge CAN assign a valid
+     judgement to it by announcement, and SHALL do so as soon as
+     possible.
+
+the text:
+
+     Failure to do so is the Class-0 Crime of Late Judgement.

@@ -1,0 +1,8 @@
+ID: 6594
+Title: Lost and Found is Running the Show
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend rule 2275 by replacing the word "entities" with the text
+"entities, other than the Lost and Found Department,".

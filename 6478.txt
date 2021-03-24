@@ -1,0 +1,25 @@
+ID: 6478
+Title: No Vacancy v.2
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+Create a Power-2 rule, "Assumption of Vacant Offices", with the text:
+
+      Assumption is an elected office switch with values Postulated
+      (default) and Assumed. Changes to Assumption are secured.
+
+      An active first-class player can make emself the holder of an
+      elected office by announcement, provided that both
+
+        (1) the office is either vacant or Assumed, and
+
+        (2) there is no election for that office currently in progress.
+
+      Upon doing so, the office's Assumption is flipped to Assumed.
+
+      When the holder of an office ceases to be an active player, the
+      office's Assumption is flipped to Assumed.
+
+      When an election for an office ends with an outcome that is a
+      candidate, the office's Assumption is flipped to Postulated.

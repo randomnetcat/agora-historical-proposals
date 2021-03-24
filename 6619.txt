@@ -1,0 +1,11 @@
+ID: 6619
+Title:  Encourage dependent disclosure
+Author: <Unknown>
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1728 (Dependent Actions) by appending this text:
+
+     The actor SHOULD publish a list of supporters if the action
+     depends on support, and a list of objectors if it depends on
+     objections.

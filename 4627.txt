@@ -1,0 +1,20 @@
+ID: 4627
+Title: Limit Surprises
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2071 by replacing the text:
+
+     * Caption: It's a Surprise!
+       Quota: 1
+       Elements: Handed [2]
+       Exploit: You may Draw two Cards without paying a Fee.
+
+with:
+
+     * Caption: It's a Surprise!
+       Quota: 1
+       Elements: Handed [2], Delayed [3]
+       Exploit: You may Draw two Cards without paying a Fee.

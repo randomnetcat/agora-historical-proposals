@@ -1,0 +1,44 @@
+ID: 4827
+Title: What's a duckway?
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: What's a duckway?
+
+[Rule 1919 allows an "impeachment" with a power-1 rather than power-2
+proposal. We should call it what it is.  This cleans that up (appends
+a shorter version of R1919 to the Witch hunt Rule).]
+
+Amend Rule 1486 (Procedure for an Orderly Witch Hunt) to read:
+
+      An active player (the Witch Hunter) may hold a referendum to
+      remove an officer from office.  For this referendum:
+
+      (a) The set of eligible voters is the set of active players
+          besides the Witch Hunter and the named officer.
+
+      (b) The adoption index is 2.
+
+      (c) "BURN THE WITCH" is a synonym for "FOR".
+
+      (d) "LET THE WITCH LIVE" is a synonym for "AGAINST".
+
+      (e) "OF COURSE THE WITCH IS GUILTY, BUT I WANT TO SEE WHAT OTHER
+          PEOPLE THINK" is a synonym for "PRESENT".
+
+      If the referendum is adopted, it shall have the effect of
+      removing the named player from the named office.
+
+      A player who weighs more than a duck may be installed into an
+      office as electee by the adoption of a proposal with an adoption
+      index of 2 or greater.  If that office is already held by a
+      player, that player is removed from the office.
+
+
+Set the power of Rule 1486 to 2.
+
+Repeal Rule 1919 (Installing Officers through Proposal).
+Repeal Rule 2098 (May Day).  [Pretty useless Rule I made up.
+                              Rebellion is better]

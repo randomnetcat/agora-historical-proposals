@@ -1,0 +1,33 @@
+ID: 4759
+Title: Olive Repeals
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+Co-author: Sherlock
+
+Repeal Rule 651  (Heroes).
+Repeal Rule 1064 (Freedom of Information Act).
+Repeal Rule 1550 (Ratification by Proposal).
+Repeal Rule 1630 (Impersonation).
+Repeal Rule 1717 (The Senate).
+Repeal Rule 1726 (The Guillotine).
+
+Amend Rule 1764 (Modes of Voting) by replacing the text that reads:
+
+      (e) If the mode of voting is Private or Unrestricted, then the
+          status of any votes cast privately is secret until the
+          end of the voting period.
+
+with text that reads:
+
+      (e) If the mode of voting is Private or Unrestricted, then the
+          status of any votes cast privately is secret until the
+          end of the voting period.  Any player who knowingly reveals
+            the status of any vote to any player besides the Assessor
+          commits the Crime of Unlawful Vote Disclosure, a Class 5
+          Crime.
+
+Repeal Rule 1926 (The Official Secrets Act).
+Repeal Rule 2056 (Invisibilitating).

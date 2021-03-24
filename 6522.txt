@@ -1,0 +1,33 @@
+ID: 6522
+Title: Rest Reform
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+[ Allows the judge to specify any number of Rest less than 15 when
+judging SILENCE, and when the judgement remains in effect for a
+continuous week, any player can create the rests in the possession of
+the ninny. I've kept Class-N Crimes in though, as there may still be
+cases in which the defendant admits guilt and creates the Rests
+straight-away. ]
+
+Amend Rule 1504 (Criminal Cases) by replacing
+
+      * SILENCE, a number of Rests, equal to the defined Class of the
+        Crime or (if the breach is not a defined crime) the power of
+        the breached Rule, rounded to the nearest integer with ties
+        broken by rounding up, are created in the possession of the
+        Ninny.  The judge CAN, with 2 Support, set the fine at a
+        different integral level between one half and double that
+        amount, and SHOULD attempt to do so if necessary to ensure
+        that the correlation between the fine and the severity of the
+        breach is appropriate, or to account for the faith (good or
+        bad) shown by the Ninny in contesting the notice or in aiding
+        or obstructing the course of justice.
+
+with:
+
+      * SILENCE with a positive number less than 15 (X). If a
+        judgement of SILENCE has been in effect continuously for one
+        week (or longer), any player CAN create a number of Rests
+        equal to X in the possession of the ninny, by announcement.

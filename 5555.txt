@@ -1,0 +1,13 @@
+ID: 5555
+Title: <none>
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Create a power-3 rule with the following text:
+{{{
+All attempts to perform an action by announcement fail if
+the action is not unambiguously specified. This rule takes
+precedence over all rules that allow performance of an
+action by announcement.
+}}}

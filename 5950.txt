@@ -1,0 +1,8 @@
+ID: 5950
+Title: Actually modest this time
+Author: Warrigal
+Co-authors: 
+Adoption index: 3.0
+
+Remove all instances of the letter H from the
+rules, except for rules 2105, 1727, 104, 2151, and 2029.

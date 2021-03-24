@@ -1,0 +1,100 @@
+ID: 4657
+Title: The University of Agora
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+[ V1.2 - Thanks to Quazie and root, again - there is now a check in
+         place against outrageous Research Grant awards and also a
+         guard against the same Card being checked out by different
+         Players.
+
+  V1.1 - Thanks to Quazie for suggestions and to root for a rewrite of
+         the Library rules.  The Library works more like a book store
+         now and should be effectively closed when Cards are frozen.
+         Players may still request Cards during this time, however.
+ 
+         I also rewrote some sections and renamed the Boons.
+
+  V1.0 - Components of this proposal:
+
+         - The University becomes a functioning Entity.
+         - The Speaker assumes a role as President of the University.
+         - The President may offer research grants to stimulate Agoran
+           growth.  These are purposefully vague; I could see them
+           ranging anywhere from "Write a proposal that cleans up typos
+           in the Ruleset" to "Assemble an Agora website".
+         - A monthly Book Club fosters public discussion of the rules.
+         - The Library acts as a public resource for Cards.
+
+         I envision the University as something that would grow over time.
+         The basic framework is provided in this proposal along with three
+         applications.  There are many more possibilities with this theme
+         and I would encourage expansion of the campus by other Players
+         if and when this passes.
+
+         Thanks to Maud for some new phrasing in the Book Club section. ]
+
+Rename the Rules Category "Degrees and Theses" to "The University of
+Agora".
+
+Create a rule entitled "The University of Agora":
+
+    The University is an Entity.  
+
+    As President of the University, the Speaker is the sole Executor of 
+    the University, but may take no action on behalf of The University 
+    except as explicitly permitted by the Rules.
+
+    Education is a stuck Player switch with values Student and Faculty 
+    Member.  The Herald shall flip the Education switch to Faculty 
+    Member for a Player as soon as possible after that Player is awarded 
+    a Degree.  The Herald is the recordkeepor of Education.
+
+Create a rule entitled "Research Grants":
+
+    The University offers Research Grants for projects that improve
+    the intellectual, cultural and social life of Agora.  The Speaker
+    may announce a Research Grant by publicly describing a task to be
+    performed and stating a number between one and five.
+
+    If another Player completes this task to the Speaker's satisfaction
+    within the next month, the Speaker shall award to that Player an 
+    equal number of Boons of Achievement, without two objections.  No 
+    more than one Player may receive this award.  If more than one Player
+    undertakes the task, the Speaker shall choose only one Player to 
+    receive the award.
+
+Create a rule entitled "The University Book Club":
+
+    The University sponsors a monthly Book Club.  During the first week
+    of each month the first Player who publically specifies a rule as 
+    that month's Book Club Selection becomes the Moderator for the
+    University Book Club.  The Assessor shall award one Boon of
+    Refinement apiece to the Moderator and Proposer for the first passed 
+    proposal within the next thirty days that either amends or repeals
+    this Selection.
+
+Create a rule entitled "Gardner Library":
+
+    The University (hereafter the Library) is a Gambler.  Whenever the
+    Library has fewer than five Cards, the Deckmastor shall as soon as
+    possible deal randomly chosen Cards to the Library until it has
+    five cards.
+ 
+    A Player (hereafter the Borrower) may check out a specified Card
+    from the Library by paying a Fee for the Library's upkeep.  The
+    fee is 2 Kudos for Students and 1 Kudo for Faculty Members.  The
+    Card is considered reserved and may not be checked out by any
+    Player until it is dealt to the Library again by the Deckmastor.
+
+    As soon as possible after a Card is checked out from the Library 
+    and it is within the Speaker's ability to do so, the Speaker shall 
+    transfer the Card from the Library to the Borrower. 
+
+All Players who Bear a Degree at the time of the passing of this Proposal 
+immediately have their Education switches set to Faculty Member.
+
+The Deckmastor shall as soon as possible after the passing of this
+Proposal deal five randomly chosen cards to the Library.

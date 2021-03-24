@@ -1,0 +1,12 @@
+ID: 6205
+Title: Consider Intersting Things
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Create a new power-2 rule with the following text:
+{{
+The quorum of an Agoran Decision on whether to adopt a proposal is the
+value specified by Rule 879, increased by that proposal's Interest
+Index. This rule supersedes Rule 879.
+}}

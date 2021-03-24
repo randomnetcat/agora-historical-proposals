@@ -1,0 +1,43 @@
+ID: 4821
+Title: PH'NGLUI
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2105 (The Map of Agora) to read:
+
+                               ____  _        /|
+                    DARWIN ->  \_  |/ |      / \
+                              __/    /      |  |
+            <- DSV          /      /        |  \
+                        _   \      \_       |   \
+                  MORNINGTON CRESCENT ->    /    |  <- GOETHE BARRIER REEF
+                 _ _/       |         \_/\_/     \
+                / \\ <- SHARK BAY      |         |
+               /            |          |          \ <- TOWNSVILLE
+            ___/            |          |           \_
+         __/                |          |             |
+        /                   |          |             \
+       /           O <- SHERLOCK NESS  |             |/\
+      |                     |          |               |_
+      |                     |          |  EMERALD ->     \
+      \                     |__________=_____,             \
+       /                    |                |             | <- BRISBANE
+       \      O <- LT. ANNE MOORE            |        __  _\
+        \                   |                |_______/  \/ |
+         |                __/\      <- TARCOOLA           /   LORD HOWE ->
+         \             __/    \_             /           /
+ PERTH -> |      _  __/         |   /| IVANHOE ->       | <- WOLLONGONG
+          /    _/ \/             \ / /       |         /
+         |_   /     <- ESPERANTO  v /__     |_        / <- CANBERRA
+           \_/                         \    | \_    _|
+                                       |    |   \__/
+                 --/===\\               \___=_  ___|
+                /        \       MANUBOURNE -> \/
+             ___|         !
+            .              \                 /\__
+           /     R'LYEH     /                |   |
+           |               /                  |  /
+            \          _._/                   \_/ <- HOBART
+             \________/

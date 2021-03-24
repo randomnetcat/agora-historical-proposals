@@ -1,0 +1,17 @@
+ID: 4548
+Title: Legality of Santa Clauses
+Author: Magu
+Co-authors: 
+Adoption index: 1
+
+
+Add the following text to the end of Rule 1870:
+
+      There exists a Boon known as Shiny New Toy, and an Albatross known
+      as Lump of Coal.  For the purposes of this rule, Players with a
+      Stain of at least one Blot are known as Naughty, and Players with a
+      Stain of less than one Blot are known as Nice.
+
+      As soon as possible after the conclusion of the Holiday described
+      above, the Herald shall award a Shiny New Toy to each Nice Player,
+      and a Lump of Coal to each Naughty player.

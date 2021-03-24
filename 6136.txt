@@ -1,0 +1,23 @@
+ID: 6136
+Title: Simpler ticket ration
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+     A player MAY publish a Notice of Violation (with N support,
+     where N is the number of valid Notices of Violation e previously
+     published during the same week, or by announcement if N is zero)
+     alleging that a single entity (the Accused) has broken a Rule.
+     To be considered a valid notice of violation, the notice must
+     specify all of:
+
+with this text:
+
+     A player CAN publish up to five Notices of Violation per week
+     alleging that a single entity (the Accused) has broken a Rule.
+     To be considered a valid notice of violation, a notice must
+     specify all of:
+
+Repeal Rule 2239 (Grandfather Forgiveness).

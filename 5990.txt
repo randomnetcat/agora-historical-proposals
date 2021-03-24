@@ -1,0 +1,10 @@
+ID: 5990
+Title: Fix ratification
+Author: ehird
+Co-authors: 
+Adoption index: 3.0
+
+Set the state of everything to what it would be if all purported
+ratifications that were not challenged succeeded.
+
+Remove ", specifying its scope" from rule 2202.

@@ -1,0 +1,12 @@
+ID: 6176
+Title: This case is too hard
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 2225 (Interest Index of Judicial Cases) by appending this
+text:
+
+     When a player recuses emself from a judicial case whose interest
+     index equals eir rank, e CAN increase its interest index by 1
+     by announcement.

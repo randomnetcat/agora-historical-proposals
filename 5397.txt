@@ -1,0 +1,13 @@
+ID: 5397
+Title: Allow revocation of points
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2136 (Contests) by appending this text:
+
+      The total number of points a Contest MAY revoke in a given week
+      is equal to 2 times the number of its members that are first-
+      class players.  Points up to this total CAN be revoked by the
+      contestmaster from other members by public announcement, and MUST
+      be revoked as explicitly described in the contract.

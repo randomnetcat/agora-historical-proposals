@@ -1,0 +1,8 @@
+ID: 6664
+Title: Clarify eye-hurt
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2143 (Official Reports and Duties) by replacing "Publishing
+reports that deviate" with "Publishing a report that deviates".

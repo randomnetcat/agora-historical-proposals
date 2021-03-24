@@ -1,0 +1,26 @@
+ID: 6206
+Title: Criminal Appeal Clarification
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504, Criminal Cases, by replacing the paragraph reading
+{{
+      An appeal concerning any assignment of judgement in a criminal
+      case within the past week CAN be initiated by the accused by
+      announcement.  If a verdict or sentence that led to the creation
+      of Rests is overruled, remanded, or reassigned, the Rests are
+      still considered to have been created, but the appeals panel CAN
+      and SHALL destroy any created Rests by announcement.
+}}
+with
+{{
+      An appeal concerning any assignment of judgment in a criminal
+      case within the past week CAN be initiated by the accused by
+      announcement. Unless otherwise specified, an appeal of a judgment
+      in a criminal case is assumed to be appealing the question of
+      culpability. If a verdict or sentence that led to the creation of
+      Rests is overruled, remanded, or reassigned, the Rests are still
+      considered to have been created, but the appeals panel CAN and
+      SHALL destroy any created Rests by announcement.
+}}

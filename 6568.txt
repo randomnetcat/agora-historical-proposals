@@ -1,0 +1,15 @@
+ID: 6568
+Title: Remove Stupid Report
+Author: Walker
+Co-authors: 
+Adoption index: 1.1
+
+{{
+
+In Rule 2216 (The Repeal-o-Matic), remove
+
+     The Anarchist's monthly report includes a list of the titles and
+     texts of the proposals e submitted as part of eir weekly duties
+     in the preceding month.
+
+}}

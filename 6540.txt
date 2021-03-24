@@ -1,0 +1,18 @@
+ID: 6540
+Title: No More Free Distributability 
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Replace the following paragraph from Rule 1607 (The Promotor)
+
+       A player CAN flip a specified Interested proposal to
+       Distributable without a number of objections equal to 4 - II
+       (where II is the Interest Index of the specified proposal).
+       A player CAN flip a specified Disinterested proposal to
+       Distributable by announcement.
+
+with:
+
+       A player CAN flip a specified proposal to Distributable without
+       2 objections.

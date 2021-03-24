@@ -1,0 +1,15 @@
+ID: 4977
+Title: Formalize Partnerships
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.1
+
+Create a rule "Partnerships" with Power 1 that reads:
+
+"A non-natural person that is created by an Agreement between two or more
+persons is known as a Partnership. A Partnership comes into existence with
+the initiation of the Agreement that creates it, and it ceases to exist when
+that Agreement is terminated. The persons who are party to the Agreement may
+change during the course of that Agreement (if the Agreement allows for it)
+without disrupting the existence of the Partnership as a person as long as
+that Agreement remains in effect."

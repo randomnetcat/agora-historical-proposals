@@ -1,0 +1,78 @@
+ID: 4993
+Title: Property
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Create a new rule titled "Property" with Power 1 and the text:
+
+{
+A Magnate is a type of entity. An entity is not a Magnate unless specified
+by the rules. Magnates may own other entities called Properties. All
+Properties must be owned by a Magnate. If a Property is ever not owned by a
+Magnate, it becomes owned by the Agoran Treasury. The Magnate that owns a
+Property has the sole right to use that Property in the manner the rules
+allow. No Magnate can use a Property that it does not own.
+
+Properties can not be created or destroyed except as the rules specify.
+Specific types of Properties can be either fungible or non-fungible.
+
+All Players are Magnates.
+}
+
+Create a new rule titled "Property Transfer" with Power 1 and the text:
+{
+Whenever a Property or Properties are transferred, the following occur
+simultaneously:
+* The Property or Properties ceasee to be owned by their current owner
+Magnate.
+* The Property or Propreties becomee owned by the Magnate identified as
+receiving the transfer
+
+Any Magnate can transfer one or more Properties they own to a different
+Magnate by making a "Transfer Notice" announcement to the Public Forum,
+unless otherwise prohibited. This Transfer Notice must clearly identify the
+following information:
+* The Magnate who will receive the Property or Properties in question
+* Each Property to be transferred as part of this notice
+The Property or Properties in question are transferred upon the posting of a
+valid Transfer Notice.
+
+If a rule states that a Magnate may pay a specified type and amount of
+property, then that Magnate may do so by Transfer Notice, but is not
+obligated to.
+
+If a rule states that a Magnate is obliged to pay a specified type and
+amount of property, then that Magnate must do so as soon as possible by
+Transfer Notice.
+
+If a rule states that a Magnate pays a specified type and amount of
+property, then that property is transferred to the designated receiving
+Magnate instantly (if possible) upon that requirement taking effect.
+
+Property may only be transferred from one Magnate to a different Magnate.
+Property may not be transferred from a Magnate to itself.
+}
+
+Create a new rule titled "Secretary of the Treasury" with Power 1 and the
+text:
+{
+There exists an Office titled "Secretary of the Treasury". The holder of
+this office is responsible for tracking Properties and Magnates. The
+Secretary of the Treasury's report shall include:
+* A list of each Magnate and the Properties it owns.
+* A summary of all recent events involving the creation, destruction, or
+transfer of Property
+}
+
+When this Proposal passes, BobTHJ becomes the holder of the Office of
+Secretary of the Treasury.
+
+Create a new rule titled "Currency" with Power 1 and the text:
+{
+Currency is a fungible type of Property. One unit of Currency is known as an
+Agoran Dollar. Currency may be referenced using the dollar sign ($).
+}
+
+When this Proposal passes, $10,000 shall be created and owned by each
+registered Player who is a natural person.

@@ -1,0 +1,38 @@
+ID: 5772
+Title: Loose ordering of ID numbers
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2161 (ID Numbers) by replacing this text:
+
+     greater than any orderly ID number,
+
+with this text:
+
+     greater than any orderly ID number (unless the type of entity
+     is defined as loosely ordered),
+
+Amend Rule 991 (Judicial Cases Generally) by appending this text to
+the last paragraph:
+
+     Judicial cases are loosely ordered.
+
+[Due to the heterogeneous nature of judicial cases and the processing
+thereof, there are three orders - initiation (chronological), entry
+into the database (determines ID numbers in practice), and publication
+(legally determines ID numbers) - none of which are the same.]
+
+[Could also be applied to proposals, but proposals are homogeneous
+so there is no practical need.  Cannot be applied to rules, where
+order affects precedence.]
+
+Upon the adoption of this proposal, each judicial case lacking an ID
+number, and initiated after the creation of Rule 2161 (ID Numbers) but
+before the distribution of this proposal, is assigned the ID number
+(if any) informally assigned to it by the CotC database
+(http://zenith.homelinux.net/cotc/).
+
+[A technicality.  No other aspects of the judicial process explicitly
+depend on ID numbers, and references to legally-ineffective ID numbers
+are still effective to the extent that intent was unambiguous.]

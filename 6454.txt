@@ -1,0 +1,40 @@
+ID: 6454
+Title: Dunce Caps
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2253 ("Cards") replace:
+{{
+and either its Exploit or its Position, but not both.
+}}
+with:
+{{
+and one of: its Exploit, its Position, or its Effect.
+}}
+
+Create a new rule titled "Effect Cards" with Power=2 and the text:
+{{
+If a card has an Effect, the results of that effect are continuously
+applied to the owner of that card for as long as e hold the card. Any
+reference to "you" in the card's effect refers to the owner of that
+card.
+}}
+
+In R2260, R2261, and R2262 replace:
+{{
+listed by Title followed by Exploit
+}}
+with:
+{{
+listed by Title followed by Exploit (default) or Effect (if marked as such)
+}}
+
+Add the following card to the list in R2262 ("The Deck of Justice"):
+{{
+* Dunce Cap - (Effect) Holding this card is a Losing Condition. The
+holder of this card CAN NOT voluntarily destroy it by announcement,
+and CAN NOT transfer it unless e has held it for at least one week.
+}}
+
+Upon the adoption of this proposal set the Frequency of the card Dunce Cap to 2.

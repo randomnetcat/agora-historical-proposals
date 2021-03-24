@@ -1,0 +1,10 @@
+ID: 5399
+Title: Awful Proposals
+Author: comex
+Co-authors: 
+Adoption index: 4
+
+Create the following rule (power=2) titled "Awful Proposals":
+      A proposal SHALL NOT be submitted if it is truly, horrifically
+      awful.  Any player may, without two objections, deem a proposal
+      awful.

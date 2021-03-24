@@ -1,0 +1,22 @@
+ID: 5665
+Title: Hall of Champions
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1.5
+
+If the proposal titled "Chambers II" fails this proposal has no effect.
+
+Create a new rule titled "Hall of Champions" with Power=1.5 and the
+following text:
+{{
+There exists a Champion Chamber. The eligible voters on a champion's
+decision are the players who bear the patent title Champion. The
+voting limit of each eligible voter on a champion's decision is equal
+to the number of Champion patent titles e holds.
+}}
+
+Append to paragraph 3 in R649:
+{{
+The list of bearers of any rule-defined patent title in the Herald's
+report is self-ratifying.
+}}

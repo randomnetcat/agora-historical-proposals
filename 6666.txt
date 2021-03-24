@@ -1,0 +1,9 @@
+ID: 6666
+Title: Slow down activity-related wins
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2130 (Activity) by appending this text:
+
+       Having been inactive within the past week is a Losing Condition.

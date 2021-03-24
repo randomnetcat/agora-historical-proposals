@@ -1,0 +1,8 @@
+ID: 6168
+Title: A Silly Bribe
+Author: Warrigal
+Co-authors: 
+Adoption index: 1.1
+
+Set the power of every player with at least one valid FOR vote and no
+valid AGAINST votes on this proposal to 1.05.

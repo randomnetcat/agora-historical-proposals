@@ -1,0 +1,36 @@
+ID: 4734
+Title: Card Experiments
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule entitled "Contreras Card Labs" with the following text in
+the category "The University of Agora":
+
+      The University encourages Card experimentation.
+      
+      A Player may publish a piece of text and note that it is a Card 
+      Blueprint.  If this text contains a Caption, a copy of that Card 
+      is created in the possession of the Library.  The Card Blueprint 
+      may also specify Elements and Exploits, as defined by other rules, 
+      and these are included on the Card in the same way they would be
+      if they were included on a rules-defined Card.
+
+      Cards created by this method have a Quota of 1 and are considered 
+      to be in eir Trial Run.  A Card in its Trial Run may not be checked
+      out of the Library until seven days have passed since its creation.
+      Any player may destroy a Card in its Trial Run by announcing e does
+      so.  
+
+      A Card in its Trial Run is transferred to the Library after it is
+      played.
+
+Amend 2068 (The Deckmastor) by changing the text that reads:
+
+      Only the Deckmastor may create or destroy Cards, and
+
+to read:
+
+      Only the Deckmastor may create or destroy Cards not in eir Trial
+      Run, and

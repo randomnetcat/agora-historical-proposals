@@ -1,0 +1,17 @@
+ID: 5230
+Title: reintroduce "players must follow the rules", albeit at lower power
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Enact the following rule at Power=1:
+      In general, the Rules shall be adjudicated as if the Rules were
+      a binding agreement between all Players, entered into by every
+      player as a part of becoming a Player.  An actual or alleged
+      Rule violation shall be treated as the violation of a binding
+      agreement to be bound by the Rule or Rules in question.
+
+      The proposal, fora, and registration processes shall, prima
+      facie, be considered to be protective of a Player's rights and
+      privileges with respect to making and changing the agreement to
+      be bound by the rules.

@@ -1,0 +1,29 @@
+ID: 4961
+Title: no VCs for Democratic proposals
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 2126 by replacing the text
+
+      When a proposal is adopted, its proposer gains VCs equal to the
+      integer portion of the proposal's adoption index, and each
+      co-author of the proposal gains one VC.
+
+with
+
+      When an Ordinary proposal is adopted, its proposer gains VCs
+      equal to the integer portion of twice the proposal's adoption
+      index, and each co-author of the proposal gains one VC.
+
+[VCs are henceforth not earned for Democratic proposals, removing the
+incentive to vote a Democratic proposal up or down for tactical reasons
+concerning VCs.  Proposer's award is doubled, to compensate for being
+applicable to fewer proposals.]
+
+Upon the adoption of this proposal, its proposer loses the VCs that
+e was (or is being, or will immediately be) awarded by the rules for
+its adoption.
+
+[Getting an early start on the new regime.]

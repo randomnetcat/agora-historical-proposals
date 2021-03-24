@@ -1,0 +1,9 @@
+ID: 5067
+Title: upmutate Agoran Consent
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Change the power of rule 2124 to 2.
+
+[This should match the power of Dependent Actions.]

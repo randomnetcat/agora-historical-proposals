@@ -1,0 +1,17 @@
+ID: 4775
+Title: Regulations Precedence
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+In the rule entitled "Contracts", amend the part reading:
+
+      A Contract may contain any number of Regulations.
+
+with:
+
+      A Contract may contain any number of Regulations, which must be
+      numbered, starting to 1. If two or more Regulations conflict
+      with one another, then the Regulation with the lower number
+      takes precedence.

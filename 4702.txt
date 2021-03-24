@@ -1,0 +1,24 @@
+ID: 4702
+Title: Simple free distribution
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Simple free distribution
+
+Amend Rule 1952 by replacing the text:
+      A player may flip a proposal's depth to distributable by paying
+      a fee equal to its Distribution Cost, or to undistributable by
+      paying a fee equal to twice its Distribution Cost.
+
+with:
+      A player may flip the depth of a Proposal that e proposed to
+      distributable by paying a fee equal to its Distribution Cost.
+
+      A player may flip the depth of a Proposal that e did not
+      propose to distributable by paying a fee equal to its
+      Distribution Cost minus one (minimum zero).
+
+      A player may flip the depth of any Proposal to undistributable
+      by paying a fee equal to twice its Distribution Cost.

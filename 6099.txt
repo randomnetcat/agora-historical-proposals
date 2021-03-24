@@ -1,0 +1,19 @@
+ID: 6099
+Title: Clean up the deregistration mess
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+Amend paragraph 3 of rule 869 (How to Join and Leave Agora) to read:
+     A first-class person CAN (unless explicitly forbidden or
+     prevented by the rules) register by announcing that e registers,
+     wishes to register, requests registration, or requests
+     permission to register.
+
+Amend paragraph 5 of rule 869 to read:
+     A player CAN deregister by announcement. A person CANNOT
+     register within thirty days after being deregistered by any
+     means other than by a mechanism that the rules explicitly
+     describe as a means of honorable deregistration.
+
+Remove the last paragraph of rule 1789 (Cantus Cygneus).

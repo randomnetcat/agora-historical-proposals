@@ -1,0 +1,14 @@
+ID: 6730
+Title: weird
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+Enact a new power-2 Rule entitled "The Play-o-Matic" with the follwing
+text:
+       The Machine is a second-class person and a player. Its basis is
+       the set of all players.
+
+       Any player CAN cause the Machine to perform one action for a
+       charge of one erg.

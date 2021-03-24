@@ -1,0 +1,39 @@
+ID: 5536
+Title: Refactor Regulation
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2125 (Regulation Regulations) to read:
+
+      An action is regulated if:
+
+        a) It is IMPOSSIBLE.
+
+        b) It is ILLEGAL.
+
+        c) The rules explicitly state that it CAN be performed while
+           certain conditions are satisfied.  Such an action CANNOT
+           be performed except as allowed by the rules.
+
+        d) The rules explicitly state that it MAY be performed while
+           certain conditions are satisfied.  Such an action MAY NOT
+           be performed except as allowed by the rules.
+
+        e) It would, as part of its effect, modify information for
+           which some player is required to be a recordkeepor.  Such
+           an action CANNOT modify that information except as allowed
+           by the rules.
+
+        f) A judicial finding has determined that it is regulated,
+           and has not been superseded by subsequent legislation.
+
+Change the title of Rule 1698 to "Agora Is a Nomic", and amend it to
+read:
+
+      In the interest of safeguarding Agora's nomic-ness, if a change
+      to the gamestate would otherwise make it IMPOSSIBLE to make
+      arbitrary rule changes and/or adopt arbitrary proposals within a
+      four-week period by any combinations of actions by players, then
+      that change is canceled and does not occur, any rule to the
+      contrary notwithstanding.

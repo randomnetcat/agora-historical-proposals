@@ -1,0 +1,184 @@
+ID: 5404
+Title: Synaesthesia v1.3
+Author: Murphy
+Co-authors: pikhq, root
+Adoption index: 2
+
+pikhq and root are co-authors of this proposal.
+
+Change the title of Rule 2126 to "Ribbons", and amend it to read:
+
+      Ribbons are a class of fixed assets.  Changes to Ribbon holdings
+      are secured.  Ownership of Ribbons is restricted to players.
+
+      Each Ribbon has exactly one color.  Colors with different names
+      are distinct, regardless of spectral proximity.  Each color of
+      Ribbon is a currency.
+
+      The Tailor is a low-priority office, and the recordkeepor of
+      Ribbons.
+
+      Ribbons are gained as follows, unless the player already
+      possesses the color of Ribbon to be gained:
+
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >= 3, its proposer gains a Red Ribbon.
+
+      (+O) When an interested proposal is adopted by voting with no
+           valid votes AGAINST, its proposer gains an Orange Ribbon.
+
+      (+G) At the end of each month, each player who held at least one
+           office continuously during that month gains a Green Ribbon,
+           unless e violated a requirement to submit a report within a
+           time limit.
+
+      (+C) When a player deputises for an office, e gains a Cyan Ribbon.
+
+      (+B) When a player assigns a judgement to a judicial question
+           other than a question on sentencing, e gains a Blue Ribbon,
+           unless e violated a requirement to submit that judgement
+           within a time limit.
+
+      (+K) When a player assigns a judgement to a judicial question on
+           sentencing, e gains a Black Ribbon, unless e violated a
+           requirement to submit that judgement within a time limit.
+
+      (+W) When a first-class person becomes a player for the first
+           time, e gains a White Ribbon.  When a first-class person
+           has been a player continuously for at least three months,
+           was never a player before that period, and names another
+           first-class player as eir mentor (and has not named a
+           mentor in this fashion before), that player gains a White
+           Ribbon.
+
+      (+M) When, during Agora's birthday, a player publicly acknowledges
+           the occasion, e gains a Magenta Ribbon.
+
+      (+U) When a player is awarded the Patent Title Champion, e gains
+           an Ultraviolet Ribbon.
+
+      (+V) When a player is awarded a Patent Title, e gains a Violet
+           Ribbon, unless e gains a different Ribbon for the award.
+
+      (+I) When a player is awarded a degree, e gains an Indigo Ribbon.
+
+      (+Y) At the end of each month, for each contest that awarded
+           points to at least three different contestants during that
+           month, the contestmaster gains a Yellow Ribbon.
+
+      If this rule mentions at least six different specific colors
+      for Ribbons, then a player CAN destroy one Ribbon of each such
+      color in eir possession to satisfy the Winning Condition of
+      Renaissance.
+
+If "Structured Victory" has not been adopted, then amend Rule 2126 by
+replacing "satisfy the Winning Condition of Renaissance" with "win the
+game".
+
+Upon the adoption of this proposal, for each color of Ribbon, each
+player who owned at least one VC of that color immediately before the
+adoption of this proposal gains that color of Ribbon.
+
+Create a rule titled "Notes" with Power 2 and this text:
+
+      Notes are a class of fixed assets.  Ownership of Notes is
+      restricted to players.  Changes to Note holdings are secured.
+
+      Each Note has exactly one pitch from the chromatic scale (ignoring
+      octaves, and treating enharmonics as equivalent).  Each pitch of
+      Note is a currency.
+
+      The Conductor is an office, and the recordkeepor of Notes.
+
+      Notes are gained as follows:
+
+        (1) At the end of each week, for each player, let X be the
+            number of eir proposals that were adopted during that
+            week, and let Y be the number of eir interested quorate
+            proposals that were rejected during that week with
+            VI >= AI/2:
+
+            (F)  If X > Y > 0, then e gains an F Note.
+            (F#) If X > Y = 0, then e gains an F# Note.
+            (G)  If X = Y > 0, then e gains a G Note.
+            (Ab) If Y > X = 0, then e gains an Ab Note.
+            (A)  If Y > X > 0, then e gains an A Note.
+
+        (2) (E)  At the end of each week, each player who published
+                 at least one weekly report during that week gains
+                 an E Note.
+
+            (Eb) At the end of each month, each player who published
+                 at least one monthly report during that month gains
+                 an Eb Note.
+
+        (3) (D)  At the end of each week, each player who published
+                 at least one on-time judgement during that week gains
+                 a D Note.
+
+        (4) (C)  At the end of each week, each player who gained at
+                 least one Point during that week gains a C Note.
+
+            (C#) At the end of each week, each contestmaster who
+                 awarded at least one Point during that week gains
+                 a C# Note.
+
+      Notes CAN be spent (destroyed) as follows:
+
+        (1) A player CAN spend three Notes forming a major chord to
+            increase another player's VVLOP by 1.
+
+        (2) A player CAN spend five Notes forming the start of a major
+            scale to increase eir own VVLOP by 1.
+
+        (3) A player CAN spend three Notes forming a minor chord to
+            decrease another player's VVLOP by 1.
+
+        (4) A player CAN spend two Notes of the same pitch to make
+            another player gain one Note of that pitch.
+
+        (5) During Agora's Birthday, a player CAN spend Notes forming
+            the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC
+            or a translation thereof) to satisfy the Winning Condition
+            of Musicianship, unless another player has already done so
+            during that Birthday.
+
+If "Structured Victory" has not been adopted, then amend the Rule
+"Notes" by replacing "satisfy the Winning Condition of Musicianship"
+with "win the game".
+
+[Future proposals can define ways to gain Bb and B.]
+
+Create a rule titled "Rests" with Power 2 and this text:
+
+      Rests are a fixed currency.  Ownership of Rests is restricted
+      to players.  Changes to Rest holdings are secured.
+
+      The Conductor is the recordkeepor of Notes.
+
+      Whenever a player possesses a Rest, the Conductor CAN destroy
+      it and award a Note of random pitch to that player, and SHALL
+      do so as soon as possible.
+
+      Upon a correct announcement by the Conductor that no player
+      possesses a Rest, this rule is repealed.
+
+Upon the adoption of this proposal, each player gains a number of
+Rests equal to the number of VCs e possessed immediately before the
+adoption of this proposal.
+
+[Rests might be re-used later, if someone can think of a good way to
+add durations to the system.]
+
+Repeal Rule 2155 (Parties).
+
+Amend Rule 1504 (Criminal Cases) by replacing the paragraph containing
+"FINE" with this text:
+
+      * FINE, appropriate for rule breaches of small consequence.  When
+        in effect, the ninny SHALL within 72 hours destroy one of eir
+        Notes.  The ninny is only obliged to perform one destruction
+        per question on sentencing, even if sentences of this type are
+        assigned more than once or go into effect more than once.
+
+Repeal Rules 2182 (Making Wagers) and 2183 (Resolving Wagers).

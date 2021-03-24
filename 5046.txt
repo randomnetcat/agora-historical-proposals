@@ -1,0 +1,8 @@
+ID: 5046
+Title: A Suffusion of Yellow
+Author: comex
+Co-authors: 
+Adoption index: 3
+
+   Replace all numbers in the ruleset with the phrase
+   "A Suffusion of Yellow".

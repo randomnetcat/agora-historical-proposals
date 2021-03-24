@@ -1,0 +1,33 @@
+ID: 6147
+Title: Report Accessibility
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Create a new rule of Power 1, named Reports, with the following text:
+{{{
+     When a player is required to publish a report, e SHALL do so using
+     one of the following methods:
+
+       (1) By placing the text of the report in a public message.
+
+       (2) By posting, in a public message, a URL or URLs to the
+           publicly accessible text of the report.
+
+     All reports shall be clearly identified as such by the player
+     publishing them, along with its expiration date.
+
+     If the text of a report was not placed in a public message, the
+     text of the report must remain publicly accessible by at least
+     one means at all times until it expires. A player CANNOT be held
+     responsible for the inaccessibility of a report arising from
+     circumstances beyond his control provided e republish it as soon
+     as possible and withing 24 hours.
+
+     A periodic report generally expires when the next such report is
+     issued. A non-periodic report generally expires after one month.
+     It is a Class-4 Crime to modify text identified as a report or to
+     provide more than one location for a report with different texts,
+     including republishing an inaccessible report with text different
+     from the original.
+}}}

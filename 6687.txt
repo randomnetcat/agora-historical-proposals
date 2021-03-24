@@ -1,0 +1,8 @@
+ID: 6687
+Title: Singularize
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2150 (Personhood) by replacing the first instance of "rules"
+with "a rule".

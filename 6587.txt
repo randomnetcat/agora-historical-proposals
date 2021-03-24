@@ -1,0 +1,21 @@
+ID: 6587
+Title: Citrine Fix
+Author: c.
+Co-authors: 
+Adoption index: 2.0
+
+[Justiciar isn't defined anymore, get rid of references.]
+If a rule named "Major Arcana" exists, this proposal has no effect.
+
+Amend Rule 1450 (Separation of Powers) by removing:
+
+     Lest the entire judicial process fall under the control of a
+     single entity, any change that would result in the holder of
+     Clerk of the Courts and the owner of Justiciar being entangled
+     is canceled and does not occur, rules to the contrary
+     notwithstanding.
+
+Repeal Rule 2246 (Submitting a CFJ to the Justiciar).
+
+Amend Rule 911 (Appeal Cases) by replacing the text from "then:" to
+"otherwise, the CotC" (inclusively) with "then the CotC".

@@ -1,0 +1,41 @@
+ID: 5403
+Title: Public contract repair
+Author: Murphy
+Co-authors: Goethe
+Adoption index: 1.5
+
+Goethe is a co-author of this proposal.
+
+Amend Rule 1742 (Contracts) by removing this text:
+
+      A public contract is a contract that identifies itself as such.
+      Any other contract is private.
+
+Change the Power of Rule 2178 (Public Contracts) to 1.5, and amend it
+to read:
+
+      A public contract is a contract that has been identified as such,
+      as specified by this rule.  Any other contract is private.
+
+      A member of a contract CAN identify it as a public contract by
+      publishing its text and membership, provided that at least one of
+      the following is true:
+
+        (a) The contract contains a clause identifying it as public.
+
+        (b) The publication is accompanied by a notice, indicating
+            unanimous consent of members, that the contract be public.
+
+        (c) The publication is accompanied by a notice, published
+            without objection of its members, that the contract be
+            public.
+
+      A partnership CAN identify its contract as a public contract by
+      publishing its text and membership.
+
+      If the text of a potential contract is published with a clear
+      indication that the contract will be public when it forms, then
+      it is identified as a public contract when it becomes a contract.
+
+      Changes in the text or membership of a public contract do not
+      become effective until they are published.

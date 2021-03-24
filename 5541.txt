@@ -1,0 +1,10 @@
+ID: 5541
+Title: Motto of the Monster
+Author: ais523
+Co-authors: 
+Adoption index: 1
+
+Append the following to rule 2193:
+{{{
+The Monster's adopted motto is "Le monstre n'est pas une fontaine."
+}}}

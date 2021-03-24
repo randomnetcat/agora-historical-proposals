@@ -1,0 +1,50 @@
+ID: 5499
+Title: Fixing Elections v2
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+Fixing Elections v2
+
+[v2. fixed double asap]
+
+Amend R2154 to read:
+
+      Any player CAN by announcement nominate one or more active
+      players to be candidate(s) for an Office, this begins a
+      nomination period for that office, during which other candidates
+      may be so nominated.  The nomination period lasts for four days.
+      Once a nomination period begins, a new one CANNOT begin for the
+      same office until the nomination or resulting election is resolved.
+      A player who has not refused eir nomination is a consenting
+      candidate.
+
+      As soon as possible after the nomination period ends, then: (a) if
+      there is only one consenting candidate, the IADoP SHALL install em
+      in the Office by announcement; (b) if there are two or more
+      consenting candidates, then the IADoP SHALL initiate an Agoran
+      decision to determine the new officeholder; this process is known
+      as an election.
+
+      In an election, the valid options are the consenting nominees
+      (hereafter the candidates), quorum is the lesser of three and
+      the number of active players (other rules on quorum
+      notwithstanding), the eligible voters are the active players.
+      If a player refuses eir nomination during the election, e
+      ceases to be a valid option.
+
+      In the notice resolving the decision, the IADoP will select a
+      candidate that received at least as many votes as any other
+      candidate (if any); this candidate thereby becomes the
+      officeholder.
+
+      Stability is an elected office switch, tracked by the IADoP,
+      with values Temporal (default) and Perpetual.  Any player CAN
+      flip an office's stability without 2 objections.  A Perpetual
+      office becomes Temporal when its holder leaves office.
+
+      If an office is Temporal at the end of a quarter, and no nomination
+      period began for that office during that quarter, then the IADoP
+      SHALL make at least one nomination for the office during the
+      following quarter.  These requirements are waived if another
+      player so makes a nomination.

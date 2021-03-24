@@ -1,0 +1,18 @@
+ID: 4506
+Title: Will Do
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1959 (Wills) to read:
+
+      (a) An entity's Will is a description of how the entity's Property
+          should be distributed in the event that the entity ceases to
+          have an Executor.  An entity may never have more than one Will.
+
+      (b) An entity creates a Will for emself by publishing it.
+
+      (c) An entity changes or destroys eir Will by announcing e does so.
+
+      (d) The Notary shall keep a record of all Wills.

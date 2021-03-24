@@ -1,0 +1,22 @@
+ID: 5683
+Title: Fix Elections
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+     In Rule 2154, in the second paragraph, replace:
+            this process is known
+            as an election.
+     with
+            this process is known
+            as an election; (c) if there are no consenting nominees and
+            the office is vacant, the IADOP SHALL, as soon as possible,
+            resolve the nomination as Failed by announcement and begin
+            a new nomination period by nominating at least one
+            player to hold the office.
+
+     and at the end of the third paragraph, insert:
+            If at any time during an election there remains only one
+            valid option, the election stops and the IADOP SHALL
+            install the remaining candidate in the office by 
+            announcement.

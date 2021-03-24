@@ -1,0 +1,14 @@
+ID: 4959
+Title: Bears as Threats
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule titled "What colour was the bear?" with the following  
+text:
+
+Each player whose Agoran nickname or real name contains the word  
+"bear", as a word unto itself and not contained in any other word,  
+and in any Human language, shall be designated as a Threat of the  
+type Bear.

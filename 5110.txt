@@ -1,0 +1,60 @@
+ID: 5110
+Title: Regulate ID numbers
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Create a rule titled "ID Numbers" with Power 2 and this text:
+
+      If a rule defines a type of entity as having ID numbers, then:
+
+        (a) Whenever an instance of that type does not have an ID
+            number, the player held responsible by that rule (or, if
+            there is no such player, the Speaker) SHALL assign an ID
+            number to it by announcement as soon as possible.
+
+        (b) Such an assignment is INVALID unless the number is a
+            natural number (expressed as a decimal literal with at
+            most 14 digits) distinct from any ID number, and greater
+            than any orderly ID number, previously assigned to an
+            entity of that type.  The player SHALL select the smallest
+            number possible, unless e reasonably believes that selecting
+            any smaller number might be invalid or confusing.
+
+        (c) Each ID number is either orderly (default) or chaotic.  Upon
+            a judicial finding that the assignment of an ID number was
+            ILLEGAL, the ID number becomes chaotic.
+
+        (d) Once assigned, an ID number cannot be changed.
+
+        (e) If an office is responsible for assigning ID numbers, then
+            that officer's report SHALL include the greatest orderly ID
+            number, and a list of all chaotic ID numbers, previously
+            assigned to the type of entity.
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing the
+paragraph containing "Every rule shall have a number for identification"
+with this text:
+
+      Rules have ID numbers, to be assigned by the Rulekeepor.
+
+and by replacing "text, power, number, and title" with "text, power,
+ID number, and title".
+
+Amend Rule 1030 (Precedence between Rules with Equal Power) by replacing
+"Number" with "ID number".
+
+Amend Rule 105 (Rule Changes) by replacing "number" with "ID number".
+
+Amend Rule 1681 (The Logical Rulesets) by replacing "number, revision
+number" with "ID number, revision number".
+
+Amend Rule 1607 (The Promotor) by appending this text:
+
+      Distributed proposals have ID numbers, to be assigned by the
+      Promotor.
+
+Amend Rule 991 (Judicial Cases Generally) by appending this text:
+
+      Judicial cases other than appeal cases have ID numbers, to be
+      assigned by the Clerk of the Courts.

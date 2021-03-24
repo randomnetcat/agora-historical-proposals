@@ -1,0 +1,18 @@
+ID: 6355
+Title: Eliminate Annoying Judge Requirements
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Amend the paragraph of Rule 1504 (Criminal Cases) reading:
+
+      When a judicial question on culpability is judged after a number
+      of rests have been created in the Accused's possession due to
+      the associated notice, the judge CAN and SHALL destroy any such
+      rests by announcement as soon as possible.
+
+to read:
+
+      When a judicial question on culpability is judged after a number
+      of rests have been created in the Accused's posession due to the
+      associated notice, those rests are destroyed.

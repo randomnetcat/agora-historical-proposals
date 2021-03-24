@@ -1,0 +1,10 @@
+ID: 4429
+Title: Fix Nomination
+Author: The Goddess Eris
+Co-authors: 
+Adoption index: 1
+
+Proposal: Fix Nomination
+
+Amend Rule 1647 (The Speaker-Elect) by replacing the text "cannot
+Nominate" with the text "cannot be Nominated".

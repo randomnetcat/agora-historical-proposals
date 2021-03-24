@@ -1,0 +1,39 @@
+ID: 6449
+Title: Banks v2
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+Create a new rule titled "Banks" (Power=2) with the text:
+{{
+A Bank is a public contract whose purpose includes facilitating a
+means of asset exchange between players. Any party to a contract CAN cause that
+contract to become a Bank without three objections. Any player CAN
+cause a Bank to cease to be a Bank without three objections. A Bank
+may own any rule or contract defined asset regardless of any
+restrictions placed upon ownership of that class of asset, unless the
+asset's backing document specifically excludes Banks from owning that
+asset. Any player CAN transfer a non-fixed asset to a Bank (as
+permitted by that Bank's contract), however if the transfer of an
+asset is permitted
+by its backing document but restricted in some means those
+restrictions still apply. A Bank CAN transfer any assets it owns (as
+permitted by that Bank's contract) to any entity which is able to own
+that asset (subject to any restrictions imposed on the transferring of
+that asset by its backing document). If the transferring of an asset
+would cause a secondary effect to occur, that effect is nullified if
+the asset is transferred to or from a Bank.
+}}
+
+In R2179 ("Points") replace:
+{{
+Players generally CAN transfer points they own to other players,
+     subject to the restrictions that no more than 5 points can be
+     transferred this way to any one player, nor from any one player,
+     per week.
+}}
+with:
+{{
+Entities CAN transfer up to a total of 5+5i points they own to other
+entities that are capable of owning points each week.
+}}

@@ -1,0 +1,10 @@
+ID: 6610
+Title: Abduct the Aliens
+Author: c.
+Co-authors: 
+Adoption index: 1.0
+
+[ The word "Alien" appears only three times in Rule text. All three
+instances are in the Rule which defines the term. ]
+
+Repeal Rule 2174 (Aliens).

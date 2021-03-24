@@ -1,0 +1,53 @@
+ID: 5114
+Title: tighten definition of VCs
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by replacing the text
+
+      Voting Credits (VCs) are a measure of each player's ability to
+      affect voting limits on ordinary proposals.  VCs CANNOT be
+      affected except as described in this rule.
+
+      When a player registers or deregisters, e loses all eir VCs.
+
+      The assessor's report includes the number of VCs of each color
+      possessed by each player.
+
+      When one or more players win the game, each player's VVLOP is
+      set to eir BVLOP.
+
+      Each VC has a color (Gray if not otherwise specified).  If a
+      player loses a color of VC that e does not possess, then e loses
+      a VC of eir Party's color instead; if e has no VCs at all, then
+      the loss is waived (you can't get blood from a turnip).
+
+with
+
+      Voting Credits (VCs) are items that can be possessed by players
+      and used to affect voting limits on ordinary proposals.  VCs
+      CANNOT be affected except as described by this rule.  VCs CANNOT
+      be possessed by any entity other than a player: in any situation
+      that would otherwise violate this condition, the offending VCs
+      are lost or never gained.
+
+      Each VC has a color.  If a player is meant to lose a VC of a
+      color that e does not possess, then e loses a VC of eir Party's
+      color instead; if e has no VCs at all, then the loss is waived
+      (you can't get blood from a turnip).
+
+      The assessor's report includes the number of VCs of each color
+      possessed by each player.
+
+and inserting immediately after the list of ways to spend VCs the
+paragraph
+
+      When one or more players win the game, each player's VVLOP is
+      set to eir BVLOP.
+
+[Tighten up ownership, to make non-player VC ownership impossible.
+Use the possession terminology in introductory sentence, matching the
+rest of the rule.  In the color substitution provision, don't speak of
+the impossible loss as actually happening.  Some reordering of
+paragraphs.]

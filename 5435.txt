@@ -1,0 +1,8 @@
+ID: 5435
+Title: It's Alive!
+Author: avpx
+Co-authors: 
+Adoption index: 3
+
+Append the following text (from rule 2034) to rule 2193:
+"A public Monster purporting to resolve an Agoran decision is self-ratifying."

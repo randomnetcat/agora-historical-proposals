@@ -1,0 +1,21 @@
+ID: 6324
+Title: Just my Opinion
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+[It seems to me that a lot of voters read a proposal, decide whether
+they like the intent of it, and vote based on that, without
+remembering potentially important criticisms (or praise!) levied by
+other players when it was proposed.  As it can take up to a week for a
+proposal to be distributed, this isn't surprising.]
+
+Create a new Rule titled "Just my Opinion", reading:
+
+      Each player has an opinion on each proposal, which is a body of
+      text no more than 100 words long, empty by default.  Any player
+      CAN set eir opinion on a proposal by announcement; to clear an
+      opinion is to set it to the empty string.  Players SHOULD keep
+      their opinions reasonably minimal in order to avoid cluttering
+      distributions.  When a person distributes a proposal, e SHALL
+      include with its text all nonempty opinions on it.

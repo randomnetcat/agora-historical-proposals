@@ -1,0 +1,10 @@
+ID: 5703
+Title: Fix contract termination
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Increase the power of Rules 1742, 2173 and 2191 to 2.
+
+[Proposal 5686 broke contract termination clauses of each of these
+ rules by securing contract changes.]

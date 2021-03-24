@@ -1,0 +1,11 @@
+ID: 6595
+Title: De-caste-ify
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend rule 2272 by replacing bullet (d) with the following:
+ (d) A player CAN redeem 1 Leadership Token in eir possession
+     to earn five draws from a single defined Basic Deck, chosen
+     at the time of redemption.
+and by swapping the order and lettering of bullets (c) and (d).

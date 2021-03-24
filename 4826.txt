@@ -1,0 +1,24 @@
+ID: 4826
+Title: Graft be ... gone?
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal:  Graft be ... gone?
+
+[Now that bonus clauses are no longer illegal, Grafty can be moved to
+a cardbook without worrying about illegality.]
+
+Add the following Card Element to the Twopower Cardbook:
+
+        Grafty: If a card is Grafty, then its initial quota is set
+        equal to one plus the number of Players who voted FOR the
+        Proposal that first defined that class of card as Grafty.
+        When the Deckmastor initially creates cards to fulfil this
+        quota, e shall first destroy all existing copies of the card,
+        then create one copy in the possession of the Deck, and
+        finally create one copy in the possession of each Player who
+        voted FOR said proposal.
+
+Repeal Rule 2059 (Legality of Bonus Clauses)

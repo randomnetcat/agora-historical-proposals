@@ -1,0 +1,8 @@
+ID: 6464
+Title: Fix R107
+Author: c.
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 107 by replacing "correctly identified" with "publicly
+identified".

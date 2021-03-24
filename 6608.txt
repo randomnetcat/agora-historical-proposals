@@ -1,0 +1,14 @@
+ID: 6608
+Title: A Terrible Proposal
+Author: c.
+Co-authors: 
+Adoption index: 1.0
+
+Create a rule with the following text:
+{{{
+Any set of persons who between them have at least 10 instances of the
+patent title Champion can create arbitrary instruments (which need not
+be rules or proposals) by unanimous consent, followed by announcement of
+the fact to a public forum. Such instruments are authorised to change
+the rules.
+}}}

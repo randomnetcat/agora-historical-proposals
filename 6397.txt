@@ -1,0 +1,8 @@
+ID: 6397
+Title: Support Diplomacy
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2145 (Partnerships) by replacing "active first-class players"
+with "first-class persons".

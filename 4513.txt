@@ -1,0 +1,21 @@
+ID: 4513
+Title: Invisibilitating
+Author: Steve
+Co-authors: 
+Adoption index: 1
+
+
+Proposal 
+Invisibilitating
+
+Be it resolved, that the proposer of an adopted proposal (besides this
+proposal) that includes a provision that proposes to make changes to
+parts of the gamestate, where no player is required to report those
+changes in an official report, with the exception of the publication of
+that proposal by the Promotor and the Assessor, shall be guilty of the
+Class 0 Infraction of Invisibilitating.
+
+Enact a rule, titled "Invisibilitating", reading:
+
+        Each player is authorised to report the Infraction of
+        Invisibilitating.

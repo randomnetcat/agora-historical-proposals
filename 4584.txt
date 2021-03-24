@@ -1,0 +1,26 @@
+ID: 4584
+Title: Clarify Judicial Rotation
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Upon the adoption of this proposal, the Clerk of the Courts'
+Weekly Report published on Mon, 31 May 2004 13:51:23 -0700
+is ratified.
+
+Upon the adoption of this proposal, the Title of Rule 1550
+(Ratification) is changed to "Ratification by Proposal".
+
+Amend Rule 1871 (Turns for All) by replacing this text:
+
+      Whenever there are no players eligible to be Trial Judge of a
+      CFJ, all turned players become unturned.
+
+with this text:
+
+      Whenever an open CFJ has no Trial Judge assigned to it, and
+      there are no players eligible to be assigned, the Clerk of
+      the Courts shall publish a Notice of Rotation, specifying
+      at least one such CFJ.  Upon such an announcement, all turned
+      players become unturned.

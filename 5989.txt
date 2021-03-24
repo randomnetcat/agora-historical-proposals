@@ -1,0 +1,12 @@
+ID: 5989
+Title: One Recordkeepor Per Switch
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+
+In Rule 2136, remove the sentence "The Scorekeepor's report contains
+the contestmaster of each contest."
+
+[This switch is tracked by the Notary; making it part of another
+entity's report is redundant.]

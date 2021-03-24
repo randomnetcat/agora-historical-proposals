@@ -1,0 +1,14 @@
+ID: 5010
+Title: <none>
+Author: Levi
+Co-authors: 
+Adoption index: 3
+
+In rule 106 replace the following text
+
+
+      A Proposal with an Adoption Index of 1 is Ordinary.
+
+with
+
+      A Proposal with an Adoption Index of less than 2 is Ordinary.

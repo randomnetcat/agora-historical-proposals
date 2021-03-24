@@ -1,0 +1,18 @@
+ID: 5478
+Title: VLOD decay
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by inserting this
+text immediately after "eir EVLOD is set to eir VVLOD,":
+
+      reduced by ten percent (to a minimum of eir BVLOD) if it is the
+      first end-of-week that month,
+
+[Monthly rate of decay for integer values of VVLOD:
+   0-5   -0
+   6-14  -1
+  15-25  -2
+  26-34  -3
+  35-45  -4  etc.]

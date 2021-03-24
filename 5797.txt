@@ -1,0 +1,18 @@
+ID: 5797
+Title: Office with care
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2154 by replacing the text:
+
+     A consenting candidate is a player who was nominated during the
+     first half of the nominating period and did not refuse, or who was
+     nominated during the second half and accepted.
+
+with the text:
+
+     A consenting candidate is a first-class player who was nominated
+     during the first half of the nominating period and did not refuse,
+     or any player who was nominated during the nominating period and
+     accepted.

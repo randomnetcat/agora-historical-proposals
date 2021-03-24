@@ -1,0 +1,19 @@
+ID: 4957
+Title: Protection Racket (2)
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+[We will, of course, relinquish this power and implement a fix, in
+return for a suitable token.  To do otherwise would be Not Fun.]
+
+Create a rule with this text:
+
+      Murphy, OscarMeyr, and Quazie are Oligarchs.
+
+      An Oligarch may refuse a CFJ by announcement.  A refused CFJ
+      ceases to be a CFJ.
+
+      An Oligarch may refuse a proposal by announcement.  A refused
+      proposal ceases to be a proposal.

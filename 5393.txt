@@ -1,0 +1,66 @@
+ID: 5393
+Title: Foreign trade
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Create a rule titled "Cimons" with this text:
+
+      Cimons are a currency, tracked by the Ambassador.  Ownership of
+      cimons is restricted to players (from Agora's perspective).
+
+      The Ambassador SHOULD encourage foreign nomics interested in trade
+      with Agora to adopt rules recognizing the export of cimons, e.g.
+      by converting them to a comparable currency native to that nomic.
+
+Create a rule titled "Currency Exchange Office" with Power 2 and
+this text:
+
+      A player CAN spend N+1 VCs of different colors to gain N cimons.
+
+      A player CAN spend N+1 cimons to gain N VCs of a color that e
+      gained within the past week.
+
+Create a rule titled "Pier 6" with this text:
+
+      A player CAN export cimons to a foreign nomic (destroying them,
+      from Agora's perspective) by announcement.  E SHALL inform that
+      nomic of the export as soon as possible.
+
+      When a foreign nomic imports N units (N > 0) of a foreign currency
+      to Agora, specifying exactly one Agoran player as the recipient:
+
+        a) If the rules do not specify a positive exchange rate for that
+           foreign currency, then the foreign currency is politely
+           accepted and made into bead necklaces.
+
+        b) Otherwise, the specified player gains floor(N*R) cimons,
+           where R is the exchange rate for that foreign currency (i.e.
+           the number of cimons that one unit of that foreign currency
+           is worth).  However, if this would result in more than 10
+           cimons being gained from imports within a single Agoran
+           week, then the excess is impounded by the customs office
+           (destroyed, from Agora's perspective) to prevent
+           hyperinflation.
+
+      An announcement claiming that such an import has occurred is
+      self-ratifying.
+
+Create a rule titled "Trade Embargo" with this text:
+
+      A player SHALL NOT export cimons to a foreign nomic unless its
+      Recognition is Protected, Friendly, or Neutral.
+
+Create a rule titled "Cimons are not for domestic use" with this text:
+
+      A player SHALL NOT spend other assets to gain cimons, except for
+      the purpose of exporting those cimons.
+
+      A player SHALL NOT transfer cimons to another player, except for
+      the purpose of collecting cimons for simultaneous export, or
+      distributing imported cimons as requested by the foreign nomic
+      at the time of import.
+
+Create a rule titled "Current Exchange Rates" with this text:
+
+      The exchange rate for B Nomic's Mackerel is 1/50.

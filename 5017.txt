@@ -1,0 +1,22 @@
+ID: 5017
+Title: simplify Judicial Orders
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Repeal rule 1803.
+
+Amend rule 1794 by appending to item (c) the sentence "A Judicial
+Oredr is executed by announcement.".
+
+[We don't need the complex execution mechanism: announcement will do
+fine. The second paragraph of rule 1803 is vacuous, as it merely
+describes a particular application of the Motion mechanism.]
+
+Amend rule 1564 by replacing each instance of "Judicial or Sentencing
+Order" with "Judicial Order".
+
+Amend rule 1804 by replacing each instance of "Judicial Order or
+Sentencing Order" with "Judicial Order".
+
+[Sentencing Orders are a subclass of Judicial Orders.]

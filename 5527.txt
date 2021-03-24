@@ -1,0 +1,13 @@
+ID: 5527
+Title: Something's missing here
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2181 (The Accountor) by replacing the second paragraph
+with this text:
+
+      The Accountor is the default recordkeepor for all assets that do
+      not specify a different recordkeepor.  If any such assets exist,
+      then the Accountor's report includes a list of their backing
+      documents; otherwise, the Accountor has no report.

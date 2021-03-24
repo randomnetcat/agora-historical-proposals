@@ -1,0 +1,27 @@
+ID: 5726
+Title: Opinion in both directions
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+
+Amend Rule 911 by replacing the definitions of REMAND and REASSIGN with
+this text:
+
+     * REMAND, appropriate if there is serious doubt about the
+       appropriateness of the prior judgement; the prior question
+       is rendered open again; this judgement SHOULD be assigned
+       if the judge believes that the judge of the prior case will
+       make a better judgement if given a new opportunity
+
+     * REASSIGN, appropriate if there is serious doubt about the
+       appropriateness of the prior judgement, or if the prior judge
+       exhibited corruptive self-interest (material, with a specific
+       and obvious impact on eir judgement and arguments, and not
+       arising merely due to a difference of opinion or a wholly
+       incidental material benefit common among many players); the
+       judge of the prior case (if any) is recused, and the prior
+       question is rendered open again; this judgement SHOULD be
+       assigned if the judge believes that the judge of the prior
+       case will not make a better judgement if given a new
+       opportunity

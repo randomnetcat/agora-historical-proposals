@@ -1,0 +1,33 @@
+ID: 4435
+Title: Non-Preferential Treatment
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Upon the adoption of this Proposal, each Player's preferred e-mail
+address(es) become listed.
+
+Amend Rule 559 (The Registrar) by replacing "preferred" with "listed".
+
+Amend Rule 514 (Keep the Registrar Informed of Your Address) to read:
+
+      Each Player may list or unlist an e-mail address by informing
+      the Registrar that e is doing so.  When a Player registers, the
+      address used to send eir registration becomes listed.
+
+      A listing is only valid if the Player sends a public message
+      from the listed address within one week of the listing.  (This
+      message may be the listing itself.)  An unlisting is only valid
+      if the Player keeps at least one address listed.
+
+      If a Player fails to notify the Registrar of a change of address,
+      then the Registrar is not responsible for any e-mail that fails
+      to reach that Player.
+
+Create a Rule titled "Orange Alert" with this text:
+
+      If a Player has no listed e-mail address, then the address used
+      to send eir next public message becomes listed.
+
+      If each Player has at least one listed address, then the Registrar
+      may repeal this Rule by announcing that e does so.

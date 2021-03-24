@@ -1,0 +1,23 @@
+ID: 5359
+Title: Concurring opinions
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 911 (Appeal Cases) by appending this text:
+
+      A panel CAN publish a concurring opinion when judging AFFIRM,
+      and SHALL do so if and only if the reasoning by which the prior
+      judge reached eir judgement was incorrect in whole or part.  Each
+      concurring opinion SHALL explain the nature of the error(s) in
+      the prior judge's reasoning.  Each concurring opinion has an error
+      rating, an integer from 1 to 99; it CAN be specified by the panel
+      when the concurring opinion is published, or else defaults to 50.
+
+and by replacing "of the of the" with "of the".
+
+Amend Rule 2176 (Marks) by lower-casing all section labels, and by
+appending this text to section (-b):
+
+      When a concurring opinion is published, the prior judge loses a
+      number of Blue Marks equal to its error rating.

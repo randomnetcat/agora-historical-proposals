@@ -1,0 +1,22 @@
+ID: 6487
+Title: Audits are Too Severe
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2259 by replacing
+      Any entity CAN audit itself by announcement. When an active
+      player is audited that player gains one Rest for each
+      rule-defined card e owns in excess of eir hand limit (minimum
+      0). When any other entity is audited X random cards that entity
+      owns are destroyed, where X equals the number of card that
+      entity owns minus eir hand limit (minimum 0)..
+with
+      Any entity CAN audit itself by announcement. When a first-class
+      player is audited, that player gains one Rest for each 5 Cards or
+      portion thereof which e owns in excess of eir Hand Limit. When any
+      other entity is audited, the auditing entity (or, if there is
+      none, the Accountor) CAN and SHALL by announcement destroy X of
+      eir cards, selected at random, where X is one-half rounded up of
+      the number of cards e owns in excess of eir Hand Limit. Position
+      Cards are not considered Cards for the purposes of this rule.

@@ -1,0 +1,44 @@
+ID: 6408
+Title: Fix Office Salary
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend the rule entitled "Cards" by removing "Any office whose
+      duties include being a dealer is a high-priority office (rules
+      to the contrary notwithstanding), and holdings of cards from
+      that deck are part of that officer's weekly report; a dealer's
+      report of card holdings is self-ratifying."
+
+[The bit about holdings being part of the report and self-ratifying are
+ rather irrelevant as the rules for recordkeepors of assets already
+ cover that.]
+
+Amend the rule entitled  "Rule, Decks, Draws, and Salaries" by replacing
+[N.B. for the Rulekeepor: this is not the entire paragraph.]
+{{
+      At the beginning of each
+      week, each holder of a high-priority office who completed a non-
+      empty set of duties in the prior week earns a number of draws
+      from the deck indicated by the switch equal to the interest
+      index for the office.  At the beginning of each month, each
+      holder of a low-priority office who held the office for 16 or
+      more days in the prior month earns a number of draws from the
+      deck indicated by the switch equal to the interest index of the
+      office.
+}}
+with
+{{
+      At the beginning of each
+      week, each holder of an office with a weekly report who published
+      that report in the previous week earns a number of draws from the
+      deck indicated by the switch equal to the interest index for that
+      office. At the beginning of each month, each holder of an office
+      without a weekly report who held the office for 16 or more days in
+      the prior month earns a number of draws from the deck indicated by
+      the switch equal to the interest index of the office.
+}}
+
+Each player earns the deals e would have earned if this proposal had
+been adopted immediately after the adoption of the "Coda" proposal,
+minus any deals e actually earned for eir offices.

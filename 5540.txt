@@ -1,0 +1,10 @@
+ID: 5540
+Title: <none>
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Append the following to the end of Rule 2193:
+{{{
+"First-class Monster" means a Monster of a biological nature.
+}}}

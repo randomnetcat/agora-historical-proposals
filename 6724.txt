@@ -1,0 +1,22 @@
+ID: 6724
+Title: Agora Should Stay A Nomic
+Author: Spitemaster
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Amend Rule 1698 (Agora Is a Nomic) by changing it from:
+
+       In the interest of safeguarding Agora's nomic-ness, if a change
+       to the gamestate would otherwise make it IMPOSSIBLE to make
+       arbitrary rule changes and/or adopt arbitrary proposals within a
+       four-week period by any combinations of actions by players, then
+       that change is canceled and does not occur, any rule to the
+       contrary notwithstanding.
+  to
+       In the interest of safeguarding Agora's nomic-ness, if a change
+       to the gamestate would otherwise make it IMPOSSIBLE to make
+       arbitrary rule changes and/or adopt arbitrary proposals within any
+       future four-week period by any combinations of actions by players,
+       then that change is canceled and does not occur, any rule to the
+       contrary notwithstanding.

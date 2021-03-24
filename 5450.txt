@@ -1,0 +1,19 @@
+ID: 5450
+Title: Optional is optional
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 208 (Resolving Agoran decisions) by replacing this text:
+
+      The vote collector for an unresolved Agoran decision may resolve
+      it by announcement, indicating the option selected by Agora.  E
+      SHALL do so as soon as possible after the end of the voting
+      period.
+
+with this text:
+
+      The vote collector for an unresolved Agoran decision CAN resolve
+      it by announcement, indicating the option selected by Agora.  If
+      it was required to be initiated, then e SHALL resolve it as soon
+      as possible after the end of the voting period.

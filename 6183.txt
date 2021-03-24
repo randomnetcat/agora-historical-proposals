@@ -1,0 +1,17 @@
+ID: 6183
+Title: Opposite Proposals
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Create a new Rule which reads:
+
+      Each time the Promotor distributes Proposals, e shall first
+      select at random a single distributable Proposal (the Target)
+      and submit an Opposite Proposal for the Target, to be
+      distributed with those Proposals.
+
+      An Opposite Proposal should be clearly marked as such.  It
+      should be substantially the opposite, in spirit or effect, of
+      its Target. An Opposite Proposal SHOULD have the same adoption
+      index as its Target.

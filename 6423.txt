@@ -1,0 +1,11 @@
+ID: 6423
+Title: Why Can't We Oust Him Already?
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2154 by replacing "When an election is initiated, the current
+holder of the office (if any) is initially considered to have been
+nominated and have accepted." with "When an election is initiated, the
+current holder of the office, if an active player, is initially
+considered to have been nominated and have accepted."

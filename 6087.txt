@@ -1,0 +1,21 @@
+ID: 6087
+Title: Strict Priority
+Author: Pavitra
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 217 to read:
+     When interpreting and applying the rules, the following
+     considerations take precedence in order from top to bottom, each
+     having no weight unless all points above it collectively yield
+     no clear interpretation or application of the rules:
+
+       a) the text of the rules;
+
+       b) past judgements;
+
+       c) game custom;
+
+       d) the best interests of the game;
+
+       e) common sense.

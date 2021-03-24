@@ -1,0 +1,44 @@
+ID: 5709
+Title: Form 2126-EZ
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+
+Amend Rule 2126 (Notes) to read:
+
+     Notes are a currency.  Ownership of Notes is restricted to
+     players.  Changes to Note holdings are secured.
+
+     The Payroll Clerk is an office, and the recordkeepor of Notes.
+
+     At the end of each week, each player gains a Note for each of
+     the following things that e did at least once during that week:
+
+       1) Had one of eir proposals with II >= 1 adopted.
+       2) Had one of eir proposals with II >= 2 adopted.
+       3) Had one of eir proposals with II >= 3 adopted.
+       4) Had one of eir proposals with II >= 1 meet quorum, but
+            be rejected with VI >= AI/2.
+       5) Complete the non-empty set of weekly duties of an office.
+       6) Judge a judicial case on time.
+       7) Gain a point.
+       8) Award a point as a contestmaster.
+
+     At the end of each month, each player gains a Note for each of
+     the following things that e did at least once during that month:
+
+       a) Complete the non-empty set of monthly duties of an office.
+
+     A player CAN spend four Notes to increase or decrease any
+     player's caste by 1 level.
+
+     The maximum FINE amount for Notes is 2.
+
+Upon the adoption of this proposal, each player comes to have a
+number of Notes equal to the total number of all pitches of Notes
+that e had immediately before the adoption of this proposal.
+
+Upon the adoption of this proposal, the player who was Conductor
+immediately before the adoption of this proposal is installed as
+Payroll Clerk.

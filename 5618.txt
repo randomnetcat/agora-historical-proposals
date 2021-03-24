@@ -1,0 +1,15 @@
+ID: 5618
+Title: Let's find out if the ambassador is working
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+ Add the following to R2126 after the following paragraph:
+      (Bb) At the end of each week, each player who authored at
+              least one proposal with an Interest Index of 3 that
+              passed during that week gains a Bb note.
+{
+(6) (A) Within one month of joining, a first-class player who was
+never before a first-class player may publicly inform Agora of where E
+found out about Agora.  Upon so informing Agora E gains an A Note.
+}

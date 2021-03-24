@@ -1,0 +1,19 @@
+ID: 4924
+Title: fixing a number, fixed edition
+Author: Zefram
+Co-authors: 
+Adoption index: 4
+
+
+Create a rule with Power=4, title "Fix Number of Rule Changes Rule",
+and text
+
+      Immediately upon the creation of this rule, rule 105 is amended by
+      appending the sentence "This rule takes precedence over all other
+      rules with Power less than or equal to 3." to its final paragraph.
+
+      Immediately after a rule has been amended by the preceding
+      paragraph, rule 105's number is changed to 2131.
+
+      Immediately after a rule has been renumbered by the preceding
+      paragraph, this rule is repealed.

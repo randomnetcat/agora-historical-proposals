@@ -1,0 +1,20 @@
+ID: 5609
+Title: Prevent last-minute unwanted nominations
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2154 (Replacing Officers) by replacing this text:
+
+      A player who has not refused eir nomination is a consenting
+      candidate.
+
+with this text:
+
+      A consenting candidate is a player who was nominated during
+      the first half of the nominating period and did not refuse,
+      or who was nominated during the second half and accepted.
+
+[Hypothetical situation:  I nominate myself and refuse.  3 days and
+23 hours later, I nominate another player; under the current system,
+that player has only 1 hour to refuse.]

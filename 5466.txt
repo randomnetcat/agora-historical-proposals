@@ -1,0 +1,76 @@
+ID: 5466
+Title: Group cause with effect
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+      An appeal case has a judicial question on disposition, which is
+      applicable if and only if the prior question is applicable.  The
+      valid judgements for the question on disposition are:
+
+      * AFFIRM, appropriate if the prior judgement was appropriate for
+        the prior question
+
+      * REMAND, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement but the judge believes
+        that the judge of the prior case can make a better judgement
+        if given a new opportunity
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement
+
+      * OVERRULE with a valid replacement judgement for the prior
+        question, appropriate if the prior judgement was inappropriate
+        in the prior question and the replacement judgement is
+        appropriate for the prior question
+
+      Initiation of an appeal case renders the prior question
+      suspended.  It remains suspended as long as the question on
+      disposition in the appeal case has no judgement.  When the
+      question on disposition has a judgement, things happen according
+      to that judgement:
+
+      * if AFFIRM, the prior judgement is assigned to the prior
+        question again
+
+      * if REMAND, the prior question is rendered open again
+
+      * if REASSIGN, the judge of the prior case (if any) is recused,
+        and the prior question is rendered open again
+
+      * if OVERRULE with a replacement judgement, the replacement
+        judgement is assigned to the prior question
+
+with this text:
+
+      An appeal case has a judicial question on disposition, which is
+      applicable if and only if the prior question is applicable.  The
+      valid judgements for the question on disposition, and their
+      effects, are as follows:
+
+      * AFFIRM, appropriate if the prior judgement was appropriate for
+        the prior question; the prior judgement is assigned to the
+        prior question again
+
+      * REMAND, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement but the judge believes
+        that the judge of the prior case can make a better judgement
+        if given a new opportunity; the prior question is rendered
+        open again
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement; the judge of the prior
+        case (if any) is recused, and the prior question is rendered
+        open again
+
+      * OVERRULE with a valid replacement judgement for the prior
+        question, appropriate if the prior judgement was inappropriate
+        in the prior question and the replacement judgement is
+        appropriate for the prior question; the replacement judgement
+        is assigned to the prior question
+
+      When an appeal case is initiated, the prior question is suspended,
+      and remains so until the question on disposition in the appeal
+      case is judged.

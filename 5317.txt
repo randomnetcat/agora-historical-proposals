@@ -1,0 +1,110 @@
+ID: 5317
+Title: Judicial fixes
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 991 (Judicial Cases Generally) by replacing this text:
+
+      A judicial case, also known as a call for judgement (CFJ), is a
+      procedure to settle a matter of controversy.  There are
+      subclasses of judicial case with particular features defined by
+      other rules.  Subclasses of judicial case exist only as defined
+      by the rules.
+
+with this text:
+
+      A judicial case, also known as a call for judgement (CFJ), is a
+      procedure to settle a matter of controversy.
+
+      Each judicial case has exactly one subclass, with particular
+      features as defined by other rules.  Subclasses of judicial case
+      exist only as defined by the rules.  A judicial case's subclass
+      CAN be specified by its initiator, or otherwise defaults to
+      inquiry.
+
+and by replacing this text:
+
+      Judicial cases other than appeal cases have ID numbers, to be
+      assigned by the Clerk of the Courts.
+
+with this text:
+
+      Judicial cases (other than appeal cases, which have historically
+      been identified by reference to the prior case) have ID numbers,
+      to be assigned by the Clerk of the Courts.
+
+[If you fail to meet the requirements for initiating a judicial case of
+the subclass you claim, then you fail to initiate the case.  Explain why
+appeal cases don't have ID numbers, for the benefit of new players.]
+
+Amend Rule 1868 (Judge Assignment Generally) to read:
+
+      At any time, a judicial case either has no judge assigned to it
+      (default) or has exactly one entity assigned to it as judge.  This
+      is a persistent status that changes only according to the rules.
+
+      At any time, a judicial case either does not require a judge
+      (default) or requires a judge.  This is not a persistent status,
+      but is evaluated instantaneously.
+
+      When a judicial case requires a judge and has no judge assigned,
+      the CotC CAN assign a qualified entity to be its judge by
+      announcement, and SHALL do so as soon as possible.
+
+      The entities qualified to be assigned as judge of a judicial case
+      are the active first-class players, subject to modification by
+      other rules.  Being unqualified to be assigned as a judge does
+      not inherently prevent an entity from continuing to be judge of a
+      case to which e is already assigned.
+
+      When a player is poorly qualified to be assigned as judge of a
+      judicial case, the Clerk of the Courts SHALL not assign em to be
+      the judge of that case; if e has done so, and that player is
+      still the judge of that case, then e CAN recuse that judge from
+      that case by announcement.
+
+      Making an entity unqualified or poorly qualified to judge is
+      secured, with a power threshold of 1.5.
+
+      To recuse a judge from a case is to deassign em as its
+      judge.  Assigning a judge to a case implicitly recuses its
+      existing judge, if any.  A recusal is "with cause" if and only
+      if stated as such by the rules.
+
+[Reorganization and minor language cleanup.]
+
+Amend Rule 2158 (Judicial Questions) to read:
+
+      A judicial question is a question that arises within a judicial
+      case.  Judicial questions arise only as defined by the rules.
+
+      At any time, each judicial question is either inapplicable
+      (default) or applicable.  This is not a persistent status, but
+      is evaluated instantaneously.
+
+      At any time, each judicial question is either open (default),
+      suspended, or has exactly one judgement.  This is a persistent
+      status that changes only according to the rules.  The possible
+      types of judgement for a judicial question depend on the type
+      of question.
+
+      When a judicial question is applicable and open, its case
+      requires a judge.
+
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge CAN assign a valid
+      judgement to it by announcement, and SHALL assign an appropriate
+      judgement to it as soon as possible.  A judgement is valid and/or
+      appropriate only as defined by the rules.  If more than one
+      judgement is valid and appropriate, then the choice between them
+      is left to the judge's discretion.
+
+      When a judicial question is applicable and open, and its case
+      has the same judge assigned to it, continuously for one week,
+      the Clerk of the Courts CAN recuse that judge with cause by
+      announcement.  When these conditions have all held continuously
+      for two weeks, the Clerk of the Courts SHALL so recuse that
+      judge as soon as possible.
+
+[Reorganization and minor language cleanup.]

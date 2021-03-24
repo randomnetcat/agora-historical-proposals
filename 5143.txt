@@ -1,0 +1,10 @@
+ID: 5143
+Title: Support Ordinary
+Author: ?Peekee
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2142 by adding the paragraph:
+      Any player may cause a Democratic proposal with an Adoption
+      Index of 2 to become Ordinary, With 2 Supporters.  This rule
+      takes precedence over Rule 106.

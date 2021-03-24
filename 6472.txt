@@ -1,0 +1,33 @@
+ID: 6472
+Title: Fix judicial demotion, redux
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 2226 (Judicial Rank) by replacing this text:
+
+      A player CAN flip eir judicial rank to any value by
+      announcement.
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 0, then it is decreased by 1, and e CANNOT
+      increase it for 30 days afterward (the rest of this rule
+      notwithstanding), unless eir new rank is 0, in which case e CAN
+      increase it to 1 at any time with 3 support.
+
+      "District", "Circuit", and "Supreme" are synonymous with
+      judicial ranks 1, 2, and 3, respectively.
+
+with this text:
+
+      A player CAN flip eir judicial rank to any value by announcement,
+      unless eir rank was decreased due to an overrule within the past
+      30 days.
+
+      When a judgement is overruled on appeal, if the prior judge's
+      judicial rank is higher than 0, then it is decreased by 1.
+
+      A player CAN flip eir judicial rank from 0 to 1 with 3 support.
+
+      "Supreme", "Circuit", "District", and "Night" are synonymous
+      with judicial ranks 3, 2, 1, and 0, respectively.

@@ -1,0 +1,15 @@
+ID: 5307
+Title: <none>
+Author: Levi
+Co-authors: Goethe
+Adoption index: 1
+
+Goethe is coauthor of this proposal.
+
+Create a rule with the following text and Power 1:
+
+    A player MAY NOT initiate or encourage hostile action against Agora.
+
+[[[
+Borrow Goethe's proposal idea, but leaves punishment to the courts.
+]]]

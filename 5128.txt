@@ -1,0 +1,22 @@
+ID: 5128
+Title: democratic interest
+Author: Zefram
+Co-authors: Murphy
+Adoption index: 2
+
+Murphy is a coauthor of this proposal.
+
+Amend rule 2126 by replacing item "a)" of the list of ways that VCs
+may be gained with
+
+      a) When an interested proposal is adopted, its proposer gains a
+         number of Red VCs equal to the integer portion of the
+         proposal's adoption index, minus the number of Red VCs that e
+         has gained in this way earlier in the same week (down to a
+         minimum of zero), and each coauthor named in the proposal
+         gains one Red VC unless e gained a VC in this way earlier in
+         the same week.
+
+[I've got bored of waiting for Murphy to propose VC rewards for
+democratic proposals as e protoed.  This version incorporates my
+refinement of the one-per-week clause.]

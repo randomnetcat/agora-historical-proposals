@@ -1,0 +1,11 @@
+ID: 5975
+Title: This sounds like a job for the Rulekeepor
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Create a rule titled "Cleanliness" with Power 3 and this text:
+
+     The Rulekeepor CAN clean a rule without objection by specifying
+     one or more spelling and/or grammar corrections; the rule is
+     amended as specified.

@@ -1,0 +1,13 @@
+ID: 6123
+Title: Removing Unqualified Senators
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2177 (The Senate) by adding the following text as a separate paragraph to the end of the rule:
+
+Any Senator can declare a Senator not a Senator without 2 Senator objections. Any player can declare a player who has been declared not a Senator a Senator with 4 Senator support.
+
+Amend rule 2177 (The Senate) by changing the text of the third paragraph to read:
+
+The roll call of an emergency session is the set of senators at the time the emergency session was called.  During emergency session, the previous definition of senator does not apply; instead, a senator is a first-class player who is a member of the roll call who has not been declared not a Senator since the last roll call.  The Assessor's report includes the roll call of the most recent emergency session.

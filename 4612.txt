@@ -1,0 +1,42 @@
+ID: 4612
+Title: Cards for Votes
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2059 (Legality of Bonus Clauses) to read:
+
+   The following Element is defined for cards:
+
+     Grafty:  If a card is Grafty, then it is Budgeted, with its
+     initial quota set equal to one plus the number of Players who
+     voted FOR the Proposal that first defined that class of card
+     as Grafty.  When the Deckmastor initially creates cards to
+     fulfil this quota, e shall, Rules to the contrary nonwithstanding,
+     first destroy all existing copies of the card, then create one
+     copy in the possession of the Deck, and finally create one copy
+     in the possession of each Player who voted FOR said proposal.ent, the Scorekeepor shall award the Boon of
+     Teamwork to each Winner.
+
+     In the announcement, the Scorekeepor shall reassign Players to
+     Teams as follows, based on Scores immediately before the Score
+     Reset:
+
+     1) The Player with the highest Score in the Team with the
+        highest Team Score is assigned to the Team with the lowest
+        Team Score.
+
+     2) The Player who has the lowest Score in the Team with the
+        lowest Team Score is assigned as to distribute the players as
+        evenly as possible among the Teams.
+
+     3) All other Players remain assigned to the same Teams.
+
+     If in any of the above there is a choice of more than one Player
+     or Team, the Scorekeepor shall choose between the applicable
+     Players or Teams as e sees fit.  The Scorekeepor shall include
+     the details of the reassignments in eir announcement.
+
+     In the announcement, the Scorekeepor may rename one or more Teams
+     by specifying the new name of each Team e is renaming.

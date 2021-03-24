@@ -1,0 +1,22 @@
+ID: 5815
+Title: The Registrar is an office again now.
+Author: Pavitra
+Co-authors: Murphy
+Adoption index: 2.0
+
+Murphy is a coauthor of this proposal.
+
+Amend rule 1789 (Cantus Cygneus) by replacing "Clerk of the Courts" in 
+the first paragraph with "Registrar", and replacing the second 
+paragraph with the following:
+
+      As soon as possible after receiving a Cantus Cygneus, the
+      Registrar shall publish this document along with a Writ of
+      Fugere Agorae Grandissima Exprobratione, commanding the Player
+      to be deregistered. The Registrar shall note the method of
+      deregistration for that Player in subsequent Registrar Reports,
+      as long as the Player remains deregistered.
+
+Amend rule 1922 by replacing the text "the Clerk of the Courts or the 
+Registrar (whichever one gets around to it first)" with "the 
+Registrar".

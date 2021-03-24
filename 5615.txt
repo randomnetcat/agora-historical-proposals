@@ -1,0 +1,9 @@
+ID: 5615
+Title: Non-newbies deserve Ribbons
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+Upon the passing of this proposal each player that does not have a
+White Ribbon and has never satisfied the Winning Condition of
+Renaissance gains a White Ribbon.

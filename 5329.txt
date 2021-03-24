@@ -1,0 +1,73 @@
+ID: 5329
+Title: Sweeping partnerships under the rug
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Upon adoption of this proposal, all players who are not first-class
+are deregistered.
+
+Repeal Rule 2144 (Limited Partnerships).
+Repeal Rule 2145 (Partnerships).
+
+Amend Rule 869 (How to Join and Leave Agora) by deleting the text
+reading:
+
+      A player who is not a person and has never been a first-class
+      person CAN be deregistered by any player by announcement.
+
+
+Amend Rule 2150 (Personhood) to read:
+
+      A person is an entity that has the general capacity to be the
+      subject of rights and obligations under the rules.  Any
+      biological organism that is capable of communicating by email in
+      English is a person.  Nothing else is a person.
+
+      All players are first-class.
+
+
+Amend Rule 1728 (Dependent Actions) by deleting the text
+"first-class".
+
+If Proposal 5313 was adopted, then amend the rule titled "States and
+Districts" by replacing the text:
+
+        d) A district baseline (DB), which is five if the state's
+           representative is a first-class player, zero otherwise.
+
+        e) A district minimum (DM), which is one if the state's
+           representative is a first-class player, zero otherwise.
+
+with:
+
+        d) A district baseline (DB), which is five.
+
+        e) A district minimum (DM), which is one.
+
+
+Otherwise, amend Rule 2156 (Voting on Ordinary Proposals) by
+replacing this text:
+
+      Each player has a parameter known as eir base voting limit on
+      ordinary proposals (BVLOP).  The BVLOP of a first-class player
+      is four, and the BVLOP of any other player is zero.  BVLOP
+      cannot be modified.
+
+with:
+
+      Each player has a parameter known as eir base voting limit on
+      ordinary proposals (BVLOP).  The BVLOP of each player is four.
+      BVLOP cannot be modified.
+
+
+Amend Rule 2126 (Voting Credits) by deleting each instance of the text
+"first-class".
+
+Amend Rule 1868 (Judge Assignment Generally) by deleting the text
+"first-class".
+
+Amend Rule 2136 (Contests) by deleting the text "First-class" and the
+text "first-class".
+
+Amend Rule 2174 (Aliens) by deleting the text "the basis of".

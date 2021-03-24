@@ -1,0 +1,22 @@
+ID: 6503
+Title: fix ancient cards
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2262 (The Deck of Justice) by replacing:
+       * Discard Picking  - Indicate a card that was played or
+                            destroyed in the past 72 hours.  It is
+                            transferred to your hand.
+with:
+       * Discard Picking  - Indicate a card that was played or
+                            destroyed in the past 72 hours.  It is
+                            created in your hand.
+
+
+Amend Rule 2261 (The Deck of Change) by replacing the word "discard"
+with "destroy" where it appears in the rule.
+
+
+Amend Rule 2260 (The Deck of Government) by replacing "Vote Power"
+with "voting limit" where it appears in the rule.

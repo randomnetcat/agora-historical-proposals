@@ -1,0 +1,37 @@
+ID: 4662
+Title: More Awesomer than not
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: "More Awesomer than not"
+
+create a new rule called "Levels of Awesome" with the following text
+
+The following are Patent Titles
+
+(a) Nano-Awesome, to be awarded to any player who has earned one and
+only one boon of Gold Star since they joined Agora Nomic. This Patent
+Title is revoked once a player has earned more than 1 Gold Star.
+
+(b) Micro-Awesome, to be awarded to any player who has earned two and
+only two boons of Gold Star since they joined Agora Nomic. This Patent
+Title is revoked once a player has earned more than 2 Gold Stars.
+
+(c) Semi-Awesome, to be awarded to any player who has earned three and
+only three boons of Gold Star since they joined Agora Nomic. This
+Patent Title is revoked once a player has earned more than 3 Gold
+Stars.
+
+(d) Quasi-Awesome, to be awarded to any player who has earned four and
+only four boons of Gold Star since they joined Agora Nomic. This
+Patent Title is revoked once a player has earned more than 4 Gold
+Stars.
+
+(e) Awesome, to be awarded to any player who has earned five and only
+five boon of Gold Star since they joined Agora Nomic.  This Patent
+Title is revoked once a player has earned more than 5 Gold Stars.
+
+(f) Uber-Awesome, to be awarded to any player who has earned six or
+more boons of Gold Star since they joined Agora Nomic.

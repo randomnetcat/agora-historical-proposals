@@ -1,0 +1,32 @@
+ID: 5840
+Title: No accounting of private assets
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2166 (Assets) by appending to the final paragraph the text:
+
+     A class of assets is public if its backing document is a rule or
+     a public contract; otherwise it is private.
+
+
+Amend Rule 2181 (The Accountor) by replacing this text:
+
+     The Accountor's report includes a list of all classes of assets,
+     and their backing documents and recordkeepors.
+
+with this text:
+
+     The Accountor's report includes a list of all public classes of
+     assets and their backing documents and recordkeepors.
+
+and by replacing this text, if it exists:
+
+     The Accountor is the default recordkeepor for all assets whose
+     backing document does not specify a different recordkeepor.
+
+with this text:
+
+     The Accountor is the default recordkeepor for all public classes
+     of assets whose backing document does not specify a different
+     recordkeepor.

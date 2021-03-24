@@ -1,0 +1,12 @@
+ID: 6267
+Title: Herald Must Announce a Change in Speaker
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 402 (Identity of the Speaker) by adding the following to
+the end of the first paragraph:
+
+      As soon as possible after the Speaker changes, the Herald SHALL
+      announce this fact along with the identity of the new Speaker
+      and the date of the change.

@@ -1,0 +1,16 @@
+ID: 6352
+Title: Begin at the beginning
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2244 (The Games of Agora) by replacing this text:
+
+                                 The "first game" was the period of
+      time prior to the first instant at which a person won the game.
+
+with this text:
+
+                                 The "first game" was the period of
+      time between June 30, 1993, 00:04:30 GMT +1200, and the first
+      instant at which a person won the game.

@@ -1,0 +1,20 @@
+ID: 6511
+Title: Fix point awards
+Author: ais523
+Co-authors: 
+Adoption index: 1.0
+
+Amend the second paragraph of rule 2233 ("Awarding and Revoking Points")
+to read:
+{{{
+      The contestmaster of a contest CAN and SHALL award and revoke
+      points as directed by that contract up so long as the total
+      number of points awarded or revoked on any axis in any week
+      do not exceed that contest's threshold index. Awards and
+      revocations that counteract a previous award or revocation for
+      that contest that was not in accordance with it's contract or that
+      exceeded the contest's threshold index do not count against this
+      weekly limit.
+}}}
+[[Re-adds a weekly time period to the rule; it was accidentally removed
+by proposal 6369.]]

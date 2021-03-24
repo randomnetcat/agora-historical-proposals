@@ -1,0 +1,15 @@
+ID: 4607
+Title: Discard and Draw
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2071 (Wacky Cards) by appending the text:
+
+     * Caption: Discard and Draw
+       Quota: 1
+       Elements: None
+       Exploit: Discard X cards from your hand.  For a fee of
+         X Kudos, draw X cards.  Do not include this card as
+         one of the discarded cards.

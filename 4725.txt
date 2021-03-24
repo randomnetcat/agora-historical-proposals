@@ -1,0 +1,52 @@
+ID: 4725
+Title: A More Sanitary Pool
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+[Policy cards are broken.]
+
+Create a Power-2 Rule titled "Sanitizing Proposals", reading:
+      When a non-Sane Proposal in the Pool is Sanitized, it becomes
+      Democratic and Sane.
+
+      When a non-Sane Proposal whose Voting Period has begun but has
+      not yet ended is Sanitized, it is Aborted as described
+      elsewhere, and the copy resulting from the Abortion remains
+      Distributable but becomes Democratic and Sane.
+
+      A Proposal may only be Sanitized by the operation of an
+      Instrument whose Power is at least 2.
+
+
+Amend Rule 2021 by replacing the text reading:
+
+      (b) An Untainted Speaker, with 2 Supporters, may Sanitize a
+          Distributed Proposal that is not already Sane and for which
+          the Voting Period has not ended. If the Speaker Sanitizes a
+          Proposal, the Proposal is Aborted as described elsewhere;
+          the Proposal remains Distributable, but becomes Democratic
+          and Sane.
+
+with:
+
+      (b) An Untainted Speaker, with 2 Supporters, may Sanitize a
+          Distributed Proposal that is not already Sane and for which
+          the Voting Period has not ended.
+
+
+Change the Power of Rule 2077 to 2 and amend it by replacing the text
+reading:
+
+      * Caption:  Policy
+        Elements: Budgeted
+        Exploit:  You may sanitize a Proposal, as described elsewhere
+                  in the Rules.
+
+with:
+
+      * Caption:  Policy
+        Elements: Budgeted, Powered [2]
+        Exploit:  You may sanitize a Proposal, as described elsewhere
+                  in the Rules.

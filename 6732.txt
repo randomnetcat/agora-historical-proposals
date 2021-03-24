@@ -1,0 +1,32 @@
+ID: 6732
+Title: Clarify inconsequentiality
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Amend Rule 754 by replacing:
+       (1) A difference in spelling, grammar, or dialect,
+with:
+       (1) A difference in spelling, grammar, whitespace,
+           capitalization, or dialect,
+
+Amend Rule 2221 to read:
+
+       Any player CAN clean a rule without objection by specifying one
+       or more corrections to spelling, grammar, whitespace,
+       capitalization, and/or dialect in its text and/or title; the
+       rule is amended by this rule as specified by that person.
+
+Amend Rule 105 by replacing:
+
+                                                   A variation in
+       whitespace or capitalization in the quotation of an existing
+       rule does not constitute ambiguity for the purposes of this
+       rule, but any other variation does.
+
+with:
+
+                                                   An inconsequential
+       variation in the quotation of an existing rule does not
+       constitute ambiguity for the purposes of this rule.

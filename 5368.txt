@@ -1,0 +1,14 @@
+ID: 5368
+Title: Elephants
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Create the following rule:
+        There are 5 elephants.
+        There is an elephant switch, known as Elephant Location; its valid values are
+        North, South, East, West, and Over There (default). It is tracked by the
+        Department of Mental Health.
+
+Upon adoption of this proposal: four elephants have their Elephant Location
+set to the cardinal directions.

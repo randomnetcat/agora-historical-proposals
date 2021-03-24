@@ -1,0 +1,45 @@
+ID: 6313
+Title: Tap the Brakes
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+coauthor: ais523
+
+[Proposals cost something from 2000-2007, were free since then.
+ It affected the speed of play and the care people took in proto-ing
+ proposals.  Free makes sense when there are fewer players, but
+ with multiple players, care and coordination through support is
+ better.]
+
+Amend Rule 1607 (The Promotor) by replacing:
+      The Promotor CAN and MAY distribute a proposal in the Proposal
+      Pool at any time.  The Promotor's weekly duties include the
+      distribution of each proposal that has been in the Proposal Pool
+      since the beginning of that week.
+with:
+      Distributability is a proposal switch tracked by the Promotor,
+      with values Undistributable (default) and Distributable.
+
+      In a given Agoran week, the Promotor CAN and SHALL, as part
+      of eir weekly duties, distribute any proposal that is in the
+      Proposal Pool and was Distributable at the beginning of that
+      Agoran week.  The Promotor CAN but SHALL NOT, in a given
+      Agoran week, distribute a any proposal that is in the Pool
+      but was Undistributable at the beginning of that Agoran week.
+
+      A player CAN flip a specified proposal to Distributable
+      with 3 Support, or by spending 1 Note.
+
+      A player CAN flip a specified proposal to Undistributable
+      by spending 3 Notes.
+
+All proposals in the proposal pool when this proposal takes
+effect are hereby flipped to Distributable (free first round).
+
+[Note:  progressive costs for each flip don't work very well,
+as one can just start over with another identical proposal,
+promoting proposal-carpet-bombing as a strategy.   For now,
+this makes undistributable-making a pay-for option only, we
+can revisit the balance with the new economic system.  The
+'with support' option might be temporary as well.]

@@ -1,0 +1,12 @@
+ID: 5719
+Title: Raaaaaaaaaaaaaargh!
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2193 by replacing:
+     A player MAY perform an action on behalf of The Monster with
+     Monstrous Consent.
+with:
+     A player CAN perform an action on behalf of The Monster with
+     Monstrous Consent.

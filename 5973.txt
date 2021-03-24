@@ -1,0 +1,12 @@
+ID: 5973
+Title: Highly Limited Partnerships
+Author: woggle
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 869 (How to Join and Leave Agora) by replacing "A person
+CAN register" with "A first-class person CAN register" and appending a
+new paragraph after the third paragraph:
+   A second-class person CAN register with Agoran Consent.
+
+Amend rule 2144 (Limited Partnerships) by removing the first paragraph.

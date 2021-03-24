@@ -1,0 +1,11 @@
+ID: 6700
+Title: Proposal
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+PROPOSAL TEXT:
+Enact a new Power=1 Rule reading:
+     comex CAN cause this rule to amend itself by announcement, as
+     long as e published the amendment for public review at least 24
+     hours ago.

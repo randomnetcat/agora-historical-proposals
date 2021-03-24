@@ -1,0 +1,12 @@
+ID: 6678
+Title: Flight Tax
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2282 by replacing item (b) with the following:
+        (b) For each player, that player is awarded 6 ergs if e is
+            the Captain, 5 props if e is a Pilot, 3 props if e is a
+            Marine, and 4 props otherwise; then
+        (c) For each office, its holder is awarded a number of ergs
+            equal to the interest index of that office.

@@ -1,0 +1,31 @@
+ID: 4481
+Title: Fix Dereliction of Duty
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1686 by changing it to read:
+
+       The Rules may designate certain information to be part of an
+       Office's Weekly Report or Monthly Report.  An Office's Weekly
+       Reports and Monthly Reports constitute the Office's Official
+       Report.  All information that is part of an Office's Official
+       Report shall be maintained by the corresponding officer.
+
+       The rules may specify conditions under which a player is mauve;
+       that player is not mauve unless the rules explicitly state at
+       least one such condition and all such conditions are satisfied.
+       As soon as possible after a player becomes mauve, the Speaker
+       shall announce this fact.  The only condition for mauveness is
+       being nicknamed Blob.
+
+       Each officer with a Weekly Report must publish it weekly; each
+       officer with a Monthly Report must publish it monthly.  Failure
+       to do so is the Class 2 Infraction of Failure to Report.  If an
+       officer fails to do so for at least three consecutive reporting
+       periods, e may be cited for either Failure to Report or the
+       Class 10 Infraction of Dereliction of Duty but not both.  Any
+       officer cited for Dereliction of Duty is immediately removed
+       from that office. The Assistant Director of Personnel and the
+       Speaker may report these Infractions.

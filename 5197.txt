@@ -1,0 +1,41 @@
+ID: 5197
+Title: spending multiple VCs on VVLOP
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by replacing the text
+
+      a) A player may spend two VCs of different colors to increase
+         another player's VVLOP by one.
+
+      b) A player may spend three VCs of different colors to increase
+         eir own VVLOP by one.
+
+      c) A player may spend two VCs of different colors to decrease
+         another player's VVLOP by one (to a minimum of zero).
+
+      d) A player may spend three VCs of different colors to decrease
+         another player's VVLOP by ten percent.
+
+with
+
+      a) A player may spend N+1 VCs of different colors to increase
+         another player's VVLOP by N, where N >= 1.
+
+      b) A player may spend N+2 VCs of different colors to increase
+         eir own VVLOP by N, where N >= 1.
+
+      c) A player may spend N+1 VCs of different colors to decrease
+         another player's VVLOP by N (to a minimum of zero).
+
+      d) A player may spend N+2 VCs of different colors to multiply
+         another player's VVLOP by (10-N)/10, where 1 <= N <= 10.
+
+[Generalises all current ways to spend VCs on VVLOP, to produce
+progressively greater per-VC effect as the number of colors involved
+rises.  With rare colors around, this introduces a tension between the
+efficiency of spending more colors at once and the desire to collect
+all colors for the palette win (if that's adopted).  In some cases
+it's even worth transferring VCs (via the one-for-two mechanism) in
+order to cooperate in a VC spend.]

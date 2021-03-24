@@ -1,0 +1,37 @@
+ID: 5472
+Title: Reasonable judicial effort
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing this text:
+
+       * UNDETERMINED, appropriate if the statement is nonsensical or
+         too vague, or if the information available to the judge is
+         insufficient to determine which of the FALSE, TRUE, and
+         UNDECIDABLE judgements is appropriate; however, uncertainty as
+         to how to interpret or apply the rules cannot constitute
+         insufficiency of information for this purpose
+
+with this text:
+
+       * UNDETERMINED, appropriate if the statement is nonsensical or
+         too vague, or if the judge makes a reasonable effort to collect
+         relevant information but still finds it insufficient to
+         determine which of the FALSE, TRUE, and UNDECIDABLE judgements
+         is appropriate; however, uncertainty as to how to interpret or
+         apply the rules cannot constitute insufficiency of information
+         for this purpose
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+       * SLIPPERY, appropriate if the information available to the
+         judge is insufficient to determine beyond a reasonable doubt
+         whether or not the defendant performed the alleged act
+
+with this text:
+
+       * SLIPPERY, appropriate if the judge makes a reasonable effort to
+         collect relevant information but still finds it insufficient to
+         determine beyond a reasonable doubt whether or not the
+         defendant performed the alleged act

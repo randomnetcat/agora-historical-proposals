@@ -1,0 +1,10 @@
+ID: 6289
+Title: I Fone
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Create a new power-1 rule with the following text:
+
+      If a public message claims to have been sent from a particular
+      device or class of device, that claim is self-ratifying.

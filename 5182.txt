@@ -1,0 +1,21 @@
+ID: 5182
+Title: partially regularise speakership
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 402 by deleting the paragraphs that start "If an active
+player" and "A speaker who became".
+
+[Proposal 5145 to fully regularise the speakership is being rejected
+at AI=3, but at the time of writing has a majority of votes in favour.
+Reminder of rationale: as the speakership has lost almost all of its
+executive power, transmuted into a figurehead with (currently) a minor
+administrative duty, there's no reason for the special provisions
+regarding installation into office.
+
+This proposal simplifies the speakership significantly, at AI=1,
+omitting (from P5145) only the repeal of rule 103 which provides for
+the speakership to be magically never vacant.  The provisions being
+deleted concern installation of game winners into office and a
+restriction on replacing the speaker.]

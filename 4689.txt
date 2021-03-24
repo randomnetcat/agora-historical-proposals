@@ -1,0 +1,59 @@
+ID: 4689
+Title: The President's Marks
+Author: Sherlock
+Co-authors: 
+Adoption index: 2
+
+
+Create a rule entitled "The President's Marks" with the text:
+
+       As soon as possible after the Assessor publishes the results of
+       voting on a Proposal, the President of the University shall
+       publically assign a Grade to that Proposal and include with it
+       an explanation of why e chose that Grade.
+       
+       A Grade may be any letter in the Roman alphabet between A and F,
+       except E.  Each Grade is worth a number of Credits, as follows:
+
+        * A is worth two Credits.
+        * B is worth one Credit.
+        * C is worth zero Credits.
+        * D is worth negative one Credit.
+        * F is worth negative two Credits.
+
+       The effect of the President announcing the Grade of a Proposal
+       is to add that Grade's worth to the Proposer's number of 
+       Credits.  The President may only make this announcement once
+       per individual Proposal.
+
+       As soon as possible after the Turning of a New Parchment, the
+       President shall award the ephemeral Patent Title of Teacher's
+       Pet to the Player with the highest Credit immediately prior to
+       the Turning.
+
+       If any Player receives the Patent Title of Teacher's Pet three
+       times in one Agoran year, the President shall immediately award
+       em the regular Patent Title of Head of the Class.
+
+Amend Rule 2051 (Tabla Rasa) by changing the text that reads
+
+      (B) revoke all ephemeral Patent Titles.
+
+to read:
+
+      (B) revoke all ephemeral Patent Titles;
+
+      (C) set each Player's Credit to zero.
+
+Amend the Rule entitled "The Office of Secretary of the University" by
+changing the text that reads:
+
+      (e) The running history of all of the preceding."
+
+with text that reads:
+
+      (e) Each Player's number of Credits.
+
+      (f) The running history of all of the preceding.
+
+Upon adoption of this Proposal, all Players have zero Credits.

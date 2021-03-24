@@ -1,0 +1,19 @@
+ID: 5147
+Title: more knaves
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Amend the rule titled "Truthiness, or the Island of
+Knights and Knaves" by replacing the entire text of the rule with:
+      Truthiness is a player switch, tracked by the Speaker, with the
+      following possible values:
+
+      KNIGHT - the player is a knight (default)
+      KNAVE  - the player is a knave
+      SPY    - the player is neither a knight nor a knave
+      FOOL   - the player is both a knight and a knave
+
+      A knight SHALL NOT publish statements that e believes are
+      false. A knave SHALL NOT publish statements that e believes
+      are true.

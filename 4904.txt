@@ -1,0 +1,8 @@
+ID: 4904
+Title: some deeming
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+Upon the adoption of this proposal, Goethe is deemed to be a banana.

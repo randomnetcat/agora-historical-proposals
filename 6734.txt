@@ -1,0 +1,25 @@
+ID: 6734
+Title: Effect cleanup
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Amend Rule 106 by removing:
+
+                                                    This rule takes
+       precedence over any rule which would permit a proposal to take
+       effect.
+
+and:
+
+                                                      It does not
+       otherwise take effect.
+
+and by adding the following paragraph before the last paragraph:
+
+       A proposal with a decision on which the option selected by Agora
+       is not ADOPTED does not take effect, rules to the contrary
+       notwithstanding.
+
+[Clarify what "it" is, and deseparate those clauses.]

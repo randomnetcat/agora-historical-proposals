@@ -1,0 +1,11 @@
+ID: 5501
+Title: It's Alive!
+Author: avpx
+Co-authors: 
+Adoption index: 2
+
+Append the following to rule 2193 (modified from 2188):
+
+     Upon the adoption of a proposal awarding a win to one or more
+     Monsters, all those Monsters satisfy the Winning Condition of
+     Legislation.

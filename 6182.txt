@@ -1,0 +1,13 @@
+ID: 6182
+Title: Secrecy
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Create a new Rule which reads:
+
+      The Rules may designate certain pieces of information to
+      be secret. Any player who knowingly reveals secret information
+      to another player, except as explicitly permitted or required
+      by the rules, commits the Crime of Unlawful Disclosure, a Class
+      5 Crime.

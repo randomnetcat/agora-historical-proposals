@@ -1,0 +1,40 @@
+ID: 5309
+Title: Rubicon
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+Rubicon
+
+Enact a rule entitled "The Senate" with the following text and a
+power of 2:
+
+      A Senator is any Player who has been registered continuously for
+      the immediately preceding sixty days.  The collection of Senators
+      is the Senate.
+
+      A Senator CAN call an Emergency Session with 2 Senate supporters,
+      provided no other emergency session existed at any time in the
+      preceding 48 hours.  An emergency session lasts for 21 days after
+      being called.
+
+      During emergency session, any Senator declare a filibuster on
+      a proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in
+      the past.  During emergency session, any Senator may end a
+      filibuster on a proposal with 4 supporting Senators.
+
+      A proposal that ends its voting period in filibuster has a
+      quorum of the number of eligible voters plus 1, rules to the
+      contrary notwithstanding, and its voting period is not extended
+      due to lack of quorum.
+
+      When an emergency session begins, all non-Senators' postures
+      become supine, and non-Senators CANNOT flip their posture
+      while the session lasts.
+
+[Filibuster is on once, off once.  Prevents the "race" if its used
+to kill legitimate proposals.  Net result:  the invasion has to bribe
+a quorum of Senators to get its proposals through, and a quorum of
+Senators can end a coalition of Senators blocking legitimate proposals.
+Enough protection?]

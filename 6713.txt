@@ -1,0 +1,33 @@
+ID: 6713
+Title: Eliminate past repetitive wins
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+   Each player who satisfied the Winning Condition of Renaissance
+   on or before 15 Mar 2010 00:00:00 UTC thereby won the game at
+   most once, at the first moment at which e satisfied that Winning
+   Condition and did not satisfy any Losing Conditions.
+
+     [i.e. ais523 on/about 30 Jun 09, Murphy on/about 24 Nov 09,
+      coppro on/about 22 Feb 10]
+
+     ["at most" is in case they already satisfied another Winning
+      Condition at the time]
+
+   Each player who satisfied the Winning Condition of Dictatorship
+   on or before 15 Mar 2010 00:00:00 UTC thereby won the game at
+   most once, at the first moment at which e satisfied that Winning
+   Condition and did not satisfy any Losing Conditions.
+
+     [i.e. ais523 and the AFO on/about 3 Feb 09, comex on/about
+      27 Feb 09, G. and OscarMeyr on/about 16 Mar 09]
+
+   Each player who satisfied the Winning Condition of Clout
+   on or before 15 Mar 2010 00:00:00 UTC thereby won the game at
+   most once, at the first moment at which e satisfied that Winning
+   Condition and did not satisfy any Losing Conditions.
+
+     [i.e. ais523 on/about 1 Mar 09, coppro on/about 15 Sep 09,
+      comex on/about 23 Feb 10]

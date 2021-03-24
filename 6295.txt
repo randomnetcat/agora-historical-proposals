@@ -1,0 +1,11 @@
+ID: 6295
+Title: Enough already
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by replacing 4) with 5), and by
+adding the following item between 3) and 5):
+
+       4) Quorum is the lesser of three and the number of active
+          players (other rules on quorum notwithstanding).

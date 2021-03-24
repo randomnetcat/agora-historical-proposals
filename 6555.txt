@@ -1,0 +1,8 @@
+ID: 6555
+Title: Guaranteed to Pass
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+
+Increase the Power of Rule 104 to 4.

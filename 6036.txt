@@ -1,0 +1,10 @@
+ID: 6036
+Title: Contest NoVs correctly
+Author: ais523
+Co-authors: Wooble
+Adoption index: 2.0
+
+Replace "A valid Notice of Violation is initially Uncontested if a Crime
+is named, Contested otherwise." with "A valid Notice of Violation is
+initially Uncontested unless a Crime is named, Contested otherwise." in
+rule 2230.

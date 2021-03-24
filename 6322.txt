@@ -1,0 +1,27 @@
+ID: 6322
+Title: Better Reports
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2143, add the following paragraph at the end:
+
+      Reports SHALL be published in plain text.  Tabular data must
+      line up properly when viewed in a monospaced font.  Publishing
+      reports that deviate from these regulations is the Class 6 Crime
+      of Making My Eyes Bleed.
+
+Replace the text of Rule 2139 with:
+
+      The Registrar is an office; its holder is responsible for
+      keeping track of players.
+
+      The Registrar's report includes:
+
+      a) Information sufficient to identify and contact each player.
+      b) The date on which each player most recently became a player.
+      c) The Activity of each player, and when each Inactive player
+         became Inactive.
+      d) For each former player for which the
+         information is reasonably available, the dates on which e
+         registered and deregistered.

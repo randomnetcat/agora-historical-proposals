@@ -1,0 +1,38 @@
+ID: 4430
+Title: Lingering Grace
+Author: Cecilius
+Co-authors: 
+Adoption index: 1
+
+Proposal: Lingering Grace
+
+Extend the Grace Period of Cecilius until Fri 14 Feb 18:00:26.
+
+Amend Rule 869 ("Registered Players") by striking out the phrase "Whenever
+a person registers as a Player in Agora," and everything that follows it,
+and substituting the following text:
+
+	Whenever a person registers as a Player in Agora, and that person
+has not been registered as a Player in Agora at any time within the 365
+previous days, e becomes Unready and is subject to a Grace Period that
+begins at the time of eir registration and ends sixty days afterwards,
+unless otherwise provided by this Rule.  A Player is only subject to the
+Grace Period resulting from eir own registration.
+
+	Whenever:
+
+(i) any Holiday occurs completely between the start of any Player's Grace
+Period and its scheduled conclusion, or
+
+(ii) any Player's Grace Period is scheduled to conclude during any
+Holiday,
+
+eir Grace Period shall be extended by a period of time equal in length to
+that Holiday.
+
+	For the purposes of determining when a Player's Grace Period is
+scheduled to conclude, where more than one Holiday falls fully or
+partially within that Grace Period, the calculation shall be made
+separately for each Holiday.
+
+	Whenever a Player's Grace Period concludes, e becomes Ready.

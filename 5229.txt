@@ -1,0 +1,42 @@
+ID: 5229
+Title: Early announcement of voting options
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 208 (Resolving Agoran Decisions) by replacing the text
+reading:
+
+      (c) It clearly identifies the options available.
+
+      (d) It specifies which option was selected by Agora, as
+          described elsewhere, and provides a tally of the voters'
+          valid ballots on the various options.
+
+with:
+
+      (c) It specifies which option was selected by Agora, as
+          described elsewhere, and provides a tally of the voters'
+          valid ballots on the various options.
+
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing the text
+reading:
+
+      (c) The identity of the vote collector.
+
+      (d) Any additional information required by the rules for this
+          announcement.
+
+with:
+
+      (c) A clear indication of the options available.
+
+      (d) The identity of the vote collector.
+
+      (e) Any additional information required by the rules for this
+          announcement.
+
+
+[Moves the requirement to announce the available options from the
+ resolution to the initiation, where it makes more sense.]

@@ -1,0 +1,15 @@
+ID: 4722
+Title: Looting the dead v.2
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Looting the dead v.2
+
+Append the following to Rule 2071
+
+      * Caption: Loot the Dead
+        Quota: 1
+        Exploit: You may indicate one silent player.  All of eir cards
+                 are immediately discarded from their hand.

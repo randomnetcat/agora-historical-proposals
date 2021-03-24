@@ -1,0 +1,42 @@
+ID: 4528
+Title: Fi Fo Fum Fees
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal:  Fi Fo Fum Fees
+
+Amend Rule 1941 to read:
+
+      If the Rules associate a non-negative cost, price, charge, or
+      fee with an action, that action is a fee-based action.  If the
+      specified cost is not an integer, the actual fee is the next
+      highest integer.
+
+      To perform a fee-based action, a Player (the Actor) who is
+      otherwise permitted to perform the action must announce that e
+      is performing the action and announce that there is a fee for
+      that action.  Upon said announcement, the action is performed,
+      the Actor's kudos are decreased by the fee, and Agora's kudos
+      are increased by the fee.
+
+      Any Player (hereafter the challenger) may announce that the
+      Actor possessed insufficient Honor (kudos) to perform the
+      action, provided e issues eir challenge within 7 days of the
+      attempted action.
+
+      As soon as possible after such a challenge, the Herald shall
+      confirm or deny whether the Actor possessed kudos equal to or
+      greater than the fee at the time e attempted the action.
+      If the Actor in fact possessed insufficient honor, or the honor
+      of the Actor cannot be determined by reasonable effort, the action
+      shall be deemed to have not occurred and the kudos of the Actor
+      (and Agora) shall be deemed to have not been changed by the fee.
+
+      If a Player issues a challenge as above, but more than 7 days
+      have passed since the attempted action, then the action shall be
+      permitted to stand.  As soon as possible after a late challenge
+      is issued, the Herald shall confirm or deny its correctness.
+      But in this case the Fee shall be recorded even if the Actor is
+      left with negative kudos.

@@ -1,0 +1,61 @@
+ID: 4744
+Title: Make those cards work 2.01
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+root is a co-author on this proposal
+
+Replace the following from Rule 2076
+
+      Caption:  Reshuffle
+      Quota:    3
+      Elements: Asleep[15]
+      Exploit:  The Deckmastor must Reshuffle before dealing
+                any cards.
+
+with
+
+      Caption:  Reshuffle
+      Quota:    3
+      Elements: Asleep[15]
+      Exploit:  You may perform a Reshuffle.
+
+Replace the following from rule 2079
+
+     Exploit: If this card has not been Played in the current
+              quarter, then, as soon as possible after this card is
+              played, the Deckmastor shall simultaneously transfer
+              all cards from non-Deck hands to a temporary Gambler
+              known as Fate.  E shall then deal cards at random from
+
+with
+
+    Exploit: If this card has not been played in the current quarter,
+                 then you may simultaneously transfer all cards that are
+                 not in the Deck or Discard Pile to a temporary Gambler
+                 known as Fate.  As soon as possible after this card is
+                 played, the Deckmastor shall then deal cards at random from
+
+Replace the following wherever it appears in the ruleset
+
+    * Caption: Library Renewal
+      Elements: Budgeted
+      Exploit: Upon playing this card you may indicate a number
+               1 through 5.  ASAP after you do this the speaker
+               must randomly discard that many cards from the
+               Library's hand that are not reserved.  If the
+               Speaker has discarded all non reserved cards
+               then e does not need to discard any more.
+
+with
+
+    * Caption: Library Renewal
+      Elements: Budgeted
+      Exploit: You may indicate a number 1 through 5. As
+               soon as possible after you do this the Speaker
+               must randomly discard that many cards from the
+               Library's hand.  If there are fewer cards in the
+               Library's hand then the number you indicate the
+               Speaker must discard them all.

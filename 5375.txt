@@ -1,0 +1,16 @@
+ID: 5375
+Title: Mother, May I Limit Partnerships?
+Author: root
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2144 (Limited Partnerships) to read:
+
+      A partnership SHALL NOT register if its basis is the same as
+      that of any player.  Whenever a judgement of GUILTY is assigned
+      in a criminal case alleging that a partnership has violated this
+      rule, the judge SHOULD assign an EXILE judgement to the question
+      on sentencing in that case.
+
+      If a registered partnership has the same basis as another
+      player, any player CAN deregister it with Agoran Consent.

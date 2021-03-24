@@ -1,0 +1,28 @@
+ID: 4954
+Title: public policy
+Author: Zefram
+Co-authors: 
+Adoption index: 1.1
+
+
+Enact a rule with Power=1.1, title "Public Policy", and text:
+
+      The Speaker is obliged to veto, as defined by rule 2019, any
+      Ordinary Proposal whose effect if adopted would in eir estimation
+      achieve any of these results:
+
+      * seriously hinder, or allow any person or group of people to
+        seriously hinder, the adoption of Democratic proposals where the
+        proportion of players expressing an opinion who are in favour
+        is at least than AI/(AI+1)
+
+      * allow the adoption of Democratic proposals where the proportion
+        of players expressing an opinion who are in favour is less
+        than AI/(AI+1)
+
+      * impair the effectiveness of this rule
+
+      For the purposes of this rule, the Speaker's estimation is not
+      required to be accurate.  Failing to veto a proposal that would
+      have one of the above effects is a violation of this rule if and
+      only if the Speaker was aware that such an effect was likely.

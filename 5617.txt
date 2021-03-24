@@ -1,0 +1,11 @@
+ID: 5617
+Title: Excess proposals
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+Create a rule entitled 'Excess proposals' with the following text:
+"If any Player has submitted 10 proposals during the same Agoran week,
+any additional proposal submitted by that player during that Agoran
+week may be remove from the Proposal Pool by the Promotor without
+being distributed

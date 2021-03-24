@@ -1,0 +1,17 @@
+ID: 5426
+Title: Corporate judges
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing this text:
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active first-class players,
+
+with this text:
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active first-class players, plus the active
+      non-first-class players whose basis does not contain any
+      standing or sitting players,

@@ -1,0 +1,12 @@
+ID: 5215
+Title: Tweak parties
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2155 (Parties) to read:
+
+      Each player's Party is the color of VC that e possesses the most
+      of, or Gray if e possesses none.  Ties are lost by the color(s)
+      that e gained most recently; ties not resolved by this method
+      are won by the color that comes first in alphabetical order.

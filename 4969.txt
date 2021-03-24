@@ -1,0 +1,15 @@
+ID: 4969
+Title: fix judicial turns
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+If possible, amend rule 1871 by replacing the text "if e was turned
+when it was called" with "if e is turned".  Otherwise, amend rule 1871
+by replacing the text "if e was not standing when it was called" with
+"if e is not standing".
+
+[Turn status matters at the moment of assignment, not when the CFJ is
+called.  Two versions of the amendment to make the same logical change
+regardless of whether "The Standing Court" passes.]

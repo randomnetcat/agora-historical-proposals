@@ -1,0 +1,45 @@
+ID: 4483
+Title: Team Shuffling
+Author: Peekee
+Co-authors: 
+Adoption index: 1
+
+
+[Changed from proto: The high score player is from the high score Team.
+Changed wording to make clear team changes are made after Stems are payed
+out.]
+
+
+Proposal: "Team Shuffling"
+
+
+Amend Rule 2042 "Team Wins" to read as follows,
+
+
+A Team achieves a Team Win when its Team Score reaches 400.
+
+
+The Scorekeepor shall make a public announcement of the Team Win as soon as
+possible after the Team Win is achieved.  In the announcement the
+Scorekeepor shall payout 25 Stems to each Player in the winning Team.
+
+
+Later in the same announcement the Scorekeepor shall reassign the grouping
+of Players into Teams as follows;
+
+
+1) The Player with the highest Score in the Team with the highest Team Score
+is assigned to the Team with the lowest Team Score.
+2) The Player who has the lowest Score in the Team with the lowest Team
+Score is assigned as to distribute the players as evenly as possible among
+the Teams.
+3) All other Players remain assigned to the same Teams.
+
+
+If in any of the above there is a choice of more than one Player or Team,
+the Scorekeepor shall choose between the applicable Players or Teams as e
+sees fit. The Scorekeepor shall include the details of the reassignments in
+eir announcement.
+
+
+Upon the Scorekeepor's announcement, all Players' Scores are set to zero.

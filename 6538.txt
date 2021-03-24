@@ -1,0 +1,16 @@
+ID: 6538
+Title: Coauthor rewards 
+Author: coppro
+Co-authors: 
+Adoption index: 2
+
+In R2261, replace
+       When a proposal authored by a player is adopted and takes
+       effect, that player earns a number of draws from the Change Deck
+       equal to the Interest Index of the proposal.
+with
+       When a proposal authored by a player is adopted and takes
+       effect, that player earns a number of draws from the Change Deck
+       equal to the Interest Index of the proposal and, if the proposal
+       was interested, its coauthors, if players, each earn one draw from
+       the Change Deck.

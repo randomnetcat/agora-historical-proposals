@@ -1,0 +1,47 @@
+ID: 4832
+Title: Condense ratification
+Author: Maud
+Co-authors: 
+Adoption index: 3
+
+
+Change the title of rule 1551 (Documents Subject to Ratification) to
+"Ratification", increase its power to 3, and amend it to read:
+
+      A document required to be maintained and published by a player
+      can be ratified if and only if:
+
+      (a) the correctness of the document is not under dispute;
+
+      (b) the information within the document has not been superseded
+          by a subsequent document which contradicts it and whose
+          correctness is not under dispute; and
+
+      (c) the document is not the ruleset.
+
+      If a player attempts to ratify a document, or a legislative
+      order executed by the adoption of a proposal would ratify a
+      document, then that document is not ratified unless it can be
+      ratified.
+
+      The electee to an office is permitted to ratify, without
+      objection, an official report e produced and was required to
+      maintain by virtue of holding that office.  The Speaker is
+      permitted to ratify, without objection, any official report.  In
+      either case, a claim of error on such a report shall be deemed
+      to constitute an objection to ratification.
+
+      When a document is ratified, the gamestate is modified so that
+      the ratified document was completely true and accurate at the
+      time it was published.  Nevertheless, the ratification of a
+      document does not invalidate, reverse, alter, or cancel any
+      messages or actions, even if they were unrecorded or overlooked,
+      or change the legality of any attempted action.
+
+      After a document has been ratified, its maintainer shall
+      annotate all subsequent publications of that document with the
+      date of publication of the most recent issue of that published
+      that was ratified.
+
+Repeal rule 1791 (Ratificiation Without Objection).
+Repeal rule 1552 (Requirements for Ratification).

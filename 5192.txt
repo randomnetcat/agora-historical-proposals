@@ -1,0 +1,19 @@
+ID: 5192
+Title: Fix Contests
+Author: root
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2136 by replacing the text reading:
+
+      A contestmaster may award a total of up to 10 points per week to
+      one or more contestants as permitted by the contest, unless e
+      was contestmaster of a different contest for at least 3 days of
+      the previous week.
+
+with:
+
+      A contestmaster may award a total of up to 10 points per week to
+      one or more contestants as permitted by the contest, unless e
+      is contestmaster of a different contest simultaneously or has
+      been at any time during the preceding span of seven days.

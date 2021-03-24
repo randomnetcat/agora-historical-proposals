@@ -1,0 +1,12 @@
+ID: 6202
+Title: Actual Periodic Elections
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Add the following paragraph to the end of Rule 2217 (Periodic Elections):
+
+      As soon as possible after the start of each month, the IADoP SHALL
+      intiate an election for the office for which the most time has
+      passed since an election was initiated for that office, nominating
+      that office's current holder (if any).

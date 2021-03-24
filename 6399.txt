@@ -1,0 +1,17 @@
+ID: 6399
+Title: decriminalize self-recusals
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2158, replace:
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge CAN assign a valid
+      judgement to it by announcement, and SHALL do so as soon as
+      possible.
+with:
+      When a judicial question is applicable and open, and its case
+      has a judge assigned to it, the judge CAN assign a valid
+      judgement to it by announcement, and SHALL do so as soon as
+      possible, unless e is recused from the case before the time limit
+      for doing so has expired.

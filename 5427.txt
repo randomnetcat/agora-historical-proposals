@@ -1,0 +1,21 @@
+ID: 5427
+Title: Bandwagoning
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2127 (Conditional Votes) by appending this text:
+
+      Casting a vote endorsing another voter is equivalent to
+      conditionally casting a vote whose value is the same as the
+      most common value (if any) among that voter's valid votes on
+      that decision.
+
+      Casting a vote denouncing another voter is equivalent to
+      conditionally casting a vote whose value is opposite to the
+      most common value (if any) among that voter's valid votes on
+      that decision.  FOR and AGAINST are opposites; SUPPORT and
+      OBJECT are opposites; PRESENT is its own opposite.
+
+Upon the adoption of this proposal, root is awarded the Patent Title
+of Dernier Cri.

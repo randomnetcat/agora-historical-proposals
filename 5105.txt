@@ -1,0 +1,18 @@
+ID: 5105
+Title: generalise rule interpretation rule
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Retitle rule 217 to "Interpreting the Rules" and amend it to read
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence.  Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense,
+      past judgements, and consideration of the best interests of the
+      game.
+
+[This rule used to apply itself only to judgements, but actually this
+part is applicable even when judgement is not invoked.  The second
+paragraph, on the interpretation of the statement of a CFJ, is
+obsolete, having been incorporated into the new version of rule 591.]

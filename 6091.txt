@@ -1,0 +1,7 @@
+ID: 6091
+Title: Return Null
+Author: Goethe
+Co-authors: 
+Adoption index: 1.0
+
+This Proposal outlines no changes to the Game State.

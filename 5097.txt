@@ -1,0 +1,16 @@
+ID: 5097
+Title: limited VC market
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by appending to the list of ways that VCs may be spent
+
+      e) A player may spend two VCs of the same color to make another
+         player gain one VC of that color.
+
+[If someone only earns VCs in one way, and so of only one color, e can
+acquire VCs of a second color (in order to spend them in the
+interesting ways) by cooperation.  It's a lot less efficient than
+earning VCs of a second color oneself, so there's still the incentive
+to partake of more than one in-game activity.]

@@ -1,0 +1,31 @@
+ID: 5121
+Title: No retroactive Green VCs
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      b) At the end of each month, for each office, the player (if
+         any) who held that office for the majority of that month
+         gains two Green VCs, unless the Speaker publicly announces
+         within a week after the end of the month that the officer
+         performed eir duties poorly or not at all.
+
+with this text:
+
+      b) At the end of each month, for each office, the player (if
+         any) who held that office for the majority of that month
+         gains two Green VCs.
+
+and by replacing this text:
+
+      b) When an officer forfeits eir salary due to announcement by
+         the Speaker, e loses one Green VC.
+
+with this text:
+
+      b) When the Speaker announces within a week after the end of
+         a month that an officer performed eir duties poorly or not
+         at all during that month, the player (if any) who held that
+         office for the majority of that month loses three Green VCs.

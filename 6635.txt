@@ -1,0 +1,20 @@
+ID: 6635
+Title: Agree to Disagree
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Repeal every rule (in numerical order) that, in the most recent
+publication of the FLR prior to the publication of this proposal, was
+in the Contract Law category.
+
+Repeal Rule 2169 (Equity Cases).
+Repeal Rule 2145 (Partnerships).
+Enact a new Rule with power 3:
+{{
+For greater certainty, no entity is a contract for the purposes
+of Rules.
+}}
+[This prevents people from abusing real-law contracts in the remaining
+rules that refer to them, since I'm too lazy and busy to amend those
+rules appropriately.]

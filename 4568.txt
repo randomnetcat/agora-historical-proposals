@@ -1,0 +1,16 @@
+ID: 4568
+Title: Move Or
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+
+Amend rule 1963 (Eligible Oligarchs) by replacing the text reading:
+          
+          (4) e is the Electee to the Office of Speaker-Elect;
+          (5) e is the Grand Warden of the Oligarchy; or
+
+with text reading:
+
+          (4) e is the Electee to the Office of Speaker-Elect; or
+          (5) e is the Grand Warden of the Oligarchy.

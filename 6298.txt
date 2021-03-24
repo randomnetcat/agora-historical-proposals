@@ -1,0 +1,14 @@
+ID: 6298
+Title: Ratify Victories
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend bullet (d) of Rule 1922 to read as follows:
+
+      (d)  Champion, to be awarded by the Herald to any person who
+           wins the game, along with a specification (possibly
+           implicit) of the method of victory.  The Herald's monthly
+           report includes how the player won. A message awarding
+           Champion to a player constitutes a self-ratifying claim that
+           the player in question won the game through that method.

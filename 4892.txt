@@ -1,0 +1,26 @@
+ID: 4892
+Title: Fix Separated Powers
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+(In case Rule 1450 is interpreted as having kept me out of the
+Speakership.  Possibly-ex-Speaker Sherlock is my second nominee
+for CotC; I considered making em my first nominee, but if R1450
+blocked my Speakership, then it would possibly block still-Speaker
+Sherlock's Clerkship as well.)
+
+This proposal has no effect unless Murphy's proposal "Fix Separation
+of Powers" has been previously adopted.
+
+This proposal has no effect unless at least one candidate for Clerk
+of the Courts votes for it.
+
+Upon the adoption of this proposal, Murphy becomes Speaker, and the
+first candidate for Clerk of the Courts who voted for it becomes
+Clerk of the Courts.
+
+The candidates for Clerk of the Courts are:
+   1) GreyKnight
+   2) Sherlock

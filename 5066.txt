@@ -1,0 +1,27 @@
+ID: 5066
+Title: drop Stare Decisis report
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 889 by deleting the text
+
+      The CotC's Monthly Report shall include the Stare Decisis, which
+      is a list of past CFJs.  The following information shall be
+      included for each CFJ:
+
+        (i) its statement;
+       (ii) the date on which it was called;
+      (iii) its outcome (if any) on Judgement; and
+       (iv) its outcome (if any) on Appeal.
+
+      Whenever a CFJ is made, the CotC shall add it to the list.  E
+      may, at eir discretion, add earlier CFJs.  E may Without
+      Objection remove any CFJ e deems no longer relevant from the
+      list.
+
+[We're not in practice using the Stare Decisis report, and it was
+never a really useful form of the information anyway.  Its purpose is
+better served by annotations in the FLR.  Dropping the report does not
+drop the *principle* of stare decisis, of course, which is enshrined
+in rule 217.]

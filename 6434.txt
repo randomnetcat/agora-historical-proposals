@@ -1,0 +1,16 @@
+ID: 6434
+Title: Poweriffic Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1728 by replacing
+      A person CAN perform a dependent action authorized by a contract
+      as if that contract were a rule, provided that the above
+      requirements are otherwise met, and that the effects of that
+      action are restricted to altering entities and/or attributes
+      whose existence depends on that contract.
+with
+      A contract can define dependent actions as a rule can, provided
+      that the contract could allow one of its parties to perform that
+      action by announcement.

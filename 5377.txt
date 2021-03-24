@@ -1,0 +1,12 @@
+ID: 5377
+Title: Repeal Marks
+Author: pikhq
+Co-authors: root
+Adoption index: 2
+
+Upon adoption of this proposal, for every color of mark, for every player,
+each player with 100 or more of a color of mark spends 100 marks to gain one
+VC. This process repeats for each player until no more marks can be converted
+into VCs.
+
+Repeal Rule 2176.

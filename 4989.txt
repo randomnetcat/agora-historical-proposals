@@ -1,0 +1,17 @@
+ID: 4989
+Title: down with non-person players
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 869 by appending the paragraph:
+
+      A player who is not a person and has never been a natural person
+      can be deregistered by any player by announcement.
+
+[We are faced with some players that used to be non-natural legal
+persons and are no longer persons.  Such entities can't actually act
+as players.  This would allow them to be removed from playerhood in
+these circumstances.  The "never been a natural person" provision
+is paranoia, to prevent a problem with the definition of personhood
+triggering deregistration of humans.]

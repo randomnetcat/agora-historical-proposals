@@ -1,0 +1,51 @@
+ID: 6717
+Title: Simplify Degrees
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Amend Rule 1367 (Degrees) by replacing
+        - The available options are FAILING GRADE and each degree that
+          the author does not have. The available options can change
+          during the voting period.
+
+        - The eligible voters are each active player at the time the
+          decision is initiated.
+
+        - Each player's voting limit on the decision is three, plus
+          five for each  degree e held at that time (the high limit is
+          so as to allow a player to cast votes for different titles
+          and ensure that an inappropriate title is not awarded).
+
+        - The specific thesis for which the degree is to be awarded is
+          an essential parameter of the decision (but not the text of
+          that thesis).
+
+       When the Herald resolves the decision, e CAN and SHALL award the
+       author the degree selected by Agora, or no degree if FAILING
+       GRADE was the outcome.
+with
+        - The available options are FAILING GRADE and each degree that
+          the author does not have. The available options can change
+          during the voting period.
+
+        - The eligible voters are each active player at the time the
+          decision is initiated.
+
+        - Each player's voting limit on the decision is one plus the
+          number of degrees e holds.
+
+        - The specific thesis for which the degree is to be awarded is
+          an essential parameter of the decision (but not the text of
+          that thesis).
+
+        - The outcome is, rules to the contrary notwithstanding, the
+          highest-ranked degree such that more than half the votes cast
+          were for that degree or a higher degree, or FAILING GRADE if
+          there was no such degree.
+
+       When the Herald resolves the decision, e CAN and SHALL award the
+       author the degree selected by Agora, or no degree if FAILING
+       GRADE was the outcome.
+and by setting its power to 3.

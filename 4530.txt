@@ -1,0 +1,16 @@
+ID: 4530
+Title: 10 GOTO 10
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend R2042 by replacing:
+
+      Upon the Scorekeepor's announcement, all Players' Scores are set
+      to zero.
+
+With:
+
+      Upon the Scorekeepor's announcement, all Players' Scores and
+      all Teams' Scores are set to zero.

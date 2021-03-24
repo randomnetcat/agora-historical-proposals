@@ -1,0 +1,17 @@
+ID: 4440
+Title: Ought implies can
+Author: Steve
+Co-authors: 
+Adoption index: 3
+
+Proposal
+Ought implies can
+
+AI = 3, please.
+
+Create a Power=3 Rule, entitled "Ought implies can", which reads:
+
+      Other Rules to the contrary notwithstanding, the failure to      
+perform an action required by the Rules, where the person required      to 
+act was not empowered to do so, shall never constitute the      commission 
+of a Crime or Infraction.

@@ -1,0 +1,27 @@
+ID: 5126
+Title: objective salary forfeiture
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by replacing item "b)" of the list of ways that VCs
+may be gained with
+
+      b) At the end of each month, for each office with a report, the
+         player (if any) who held that office for the majority of that
+         month gains two Green VCs (if the office has a weekly report)
+         or one Green VC (if it has only a monthly report), unless
+         another person deputised for that office while that player
+         held that office during that month.
+
+and replacing item "b)" of the list of ways that VCs may be lost with
+
+      b) At the end of each month, for each office, for each player
+         who has held that office during that month, if another person
+         deputised for that office while that player held that office
+         during that month then that player loses one Green VC.
+
+[No need for retroactivity, and everything is handled in one go at the
+end of the month.  Deputisation provides a well-defined way to
+determine whether an officer is failing in eir duties in a way that
+the players care about.]

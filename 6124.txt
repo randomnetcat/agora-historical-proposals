@@ -1,0 +1,38 @@
+ID: 6124
+Title: Nobody's using them, so might as well de-cruft
+Author: ehird
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing this text:
+
+ Every rule is assigned to a number of committees (possibly zero).
+
+ For the purposes of rules governing modification of instruments,
+ the text, power, ID number, title, and committee assignments (if
+ any) of a rule are all substantive aspects of the rule.
+
+with this text:
+
+ For the purposes of rules governing modification of instruments,
+ the text, power, ID number, and title of a rule are all
+ substantive aspects of the rule.
+
+
+Amend Rule 1681 (The Logical Rulesets) by replacing this text:
+
+ The listing of each rule in the SLR must include the rule's ID
+ number, revision number, power, committee assignments (if any),
+ title, and text.
+
+with this text:
+
+ The listing of each rule in the SLR must include the rule's ID
+ number, revision number, power, title, and text.
+
+
+Repeal rule 2235 (Committee Rejection).
+
+Repeal rule 2236 (Committee Membership).
+
+Repeal rule 2237 (Subsidized Contracts).

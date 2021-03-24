@@ -1,0 +1,25 @@
+ID: 5462
+Title: Make notes more valuable
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Notes) by replacing this text:
+
+      (1) A player CAN spend three Notes forming a major chord to
+          increase another player's VVLOP by 1.
+
+with this text:
+
+      (1) A player CAN spend three Notes to increase another
+          player's VVLOP by 1, or 2 if they form a major chord.
+
+and by replacing this text:
+
+      (3) A player CAN spend three Notes forming a minor chord to
+          decrease another player's VVLOP by 1.
+
+with this text:
+
+      (3) A player CAN spend three Notes to decrease another
+          player's VVLOP by 1, or 2 if they form a minor chord.

@@ -1,0 +1,28 @@
+ID: 4676
+Title: Takeover Takeover
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+This is a Takeover Proposal.  The set of Corporate Raiders is The
+Goddess Eris, Goethe, Kolja, Manu, OscarMeyr, Quazie, and Riail.
+
+
+Repeal Rule 2078.
+
+
+Amend Rule 1950 by replacing the text that reads:
+
+      (b) An entity's Voting Power on a Democratic Proposal is as
+          follows:
+          (1) A Player:
+                  (i)  that Player's Voting Potential if that Player
+                       has Sente.
+                  (ii) one otherwise.
+
+with:
+
+      (b) An entity's Voting Power on a Democratic Proposal is as
+          follows:
+          (1) A Player: that Player's Voting Potential.

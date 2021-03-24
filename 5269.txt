@@ -1,0 +1,13 @@
+ID: 5269
+Title: <none>
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+I make the following proposal:
+
+Amend rule 1922 by adding the following text to the end:
+    (e) Lazy, to be awarded to the holder of an office who does not
+        make reports for two or more months.
+
+Provide the current herald with the title "Lazy".

@@ -1,0 +1,23 @@
+ID: 6016
+Title: Order of the Hero
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 3.0
+
+Create a power 2 rule titled "Order of the Hero of Agora Nomic" with the following text:
+{
+The set of patent titles defined in this rule constitute the Order of the Hero of Agora Nomic; the titles may be collectively referred to as "Heroic titles" and a Bearer of a Heroic title as a Hero.
+
+Heroic titles are Agora's premier titles of distinction, and may be awarded to persons for meritorious service only by a proposal of power 3 or greater.  Heroic titles SHOULD NOT be revoked.  Heroes are entitled to use the abbreviation of eir title as postnomial letters in Agora communications and reports.
+
+The Heroic titles in decreasing precedence are:
+
+Grand Hero of Agora Nomic (GHAN) -- This title may be awarded to any person for the most exemplary meritorious service to Agora or to the game of Nomic at large.  As this title is the highest honour that Agora may bestow, a Bearer of this title OUGHT to be treated right good forever.
+
+Hero of Agora Nomic (HAN) -- This title may be awarded to any person for outstanding meritorious service to Agora above and beyond the call of duty.
+}
+
+Upon adoption of this proposal:
+* Peter Suber's title of Hero is upgraded to Grand Hero of Agora Nomic, for creating the game of Nomic.
+* Chuck Carroll's title of Hero is upgraded to Grand Hero of Agora Nomic, for writing the initial ruleset of Agora, and serving as Rulekeepor for eight years.
+* Douglas Hofstadter's title of Hero is upgraded to Grand Hero of Agora Nomic, for publicizing the game of Nomic in eir column Metamagical Themas.

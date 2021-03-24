@@ -1,0 +1,10 @@
+ID: 5109
+Title: fix wording in sentencing
+Author: Zefram
+Co-authors: 
+Adoption index: 1.7
+
+Amend rule 1504 by replacing the words "active judgements" with
+"active sentences".
+
+[The more specific term should be used in this context.]

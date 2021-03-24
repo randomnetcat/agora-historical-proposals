@@ -1,0 +1,36 @@
+ID: 5348
+Title: Refactor regulation
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2125 (Regulation Regulations) to read:
+
+      An action is regulated if and only if at least one of the
+      following is true:
+
+        (a) The rules specify that the action CANNOT be performed in
+            some or all circumstances.
+
+        (a) The rules specify that the action MAY NOT be performed in
+            some or all circumstances.
+
+        (c) The action would, as part of its effect, modify information
+            that some player is REQUIRED to record.  Any such action
+            CANNOT be performed except as allowed by the rules.
+
+        (d) The action would, as part of its effect, make it IMPOSSIBLE
+            to make arbitrary modifications to the rules by any
+            combination of actions by persons within a four-week
+            period.  Any such action CANNOT be performed.
+
+        (e) A judicial finding states that the action is regulated.
+
+[Specify which things are IMPOSSIBLE and which are ILLEGAL.  Block
+Terrible Proposals that would allow proposal adoption within four
+weeks, but not rule changes.  Allow for the possibility of non-players
+participating in the process of modifying rules.]
+
+Repeal Rule 1698 (The Proposal System Is Protected).
+
+[Now covered by Rule 2125.]

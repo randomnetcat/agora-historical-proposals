@@ -1,0 +1,45 @@
+ID: 5212
+Title: Refactor ratification
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1551 (Ratification) to read:
+
+      For the purpose of this rule:
+
+        a) A document is part (possibly all) of a public message.
+
+        b) An official document is a document labeled as part
+           (possibly all) of an official report.  The scope of an
+           official document is the part of the official report
+           that the official document is labeled as being.
+
+      Any player CAN, without objection, ratify part or all of an
+      official document.  The date of this ratification and the
+      scope of the ratified document become part of the official
+      report in question, until the same scope is ratified at a
+      later date.
+
+      Any document defined by the rules as self-ratifying is ratified
+      one week after its publication, unless explicitly challenged
+      during that period.
+
+      When a document is ratified, the gamestate is modified so that
+      the ratified document was completely true and accurate at the
+      time it was published.  Nevertheless, the ratification of a
+      document does not invalidate, reverse, alter, or cancel any
+      messages or actions, even if they were unrecorded or overlooked,
+      or change the legality of any attempted action.
+
+Amend Rule 2034 (Vote Protection and Cutoff for Challenges) by replacing
+the paragraph containing "If the success of the resolution" with this text:
+
+      The resolution of an Agoran decision is self-ratifying.
+
+Create a rule titled "Who Am I?" with Power 3 and this text:
+
+      A public message's claim as to who published it is self-ratifying,
+      unless the claim is self-contradictory, or a challenge of identity
+      pertaining to the claimed publisher has been issued within one
+      month before its publication.

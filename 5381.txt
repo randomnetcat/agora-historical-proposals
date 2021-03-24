@@ -1,0 +1,14 @@
+ID: 5381
+Title: Public Partnerships II
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+Public Partnerships II
+
+Amend Rule 2145 by replacing:
+      A partnership whose basis contains at least two persons is a
+      person.
+with:
+      A partnership that is a public contract and whose basis contains
+      at least two persons is a person.

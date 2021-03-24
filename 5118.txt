@@ -1,0 +1,15 @@
+ID: 5118
+Title: make chokey reduce voting power
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2156 by replacing the text "is eir EVLOP at the start of
+its voting period." with
+
+      is eir EVLOP at the start of its voting period, or half that
+      (rounded up) if the voter is in the chokey at the start of the
+      voting period.
+
+[Make chokey do something significant.  Doesn't affect Democratic
+proposals, though, because that would be undemocratic.]

@@ -1,0 +1,20 @@
+ID: 5553
+Title: Belle
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 (Notes) by replacing this text:
+
+      Notes are gained as follows:
+
+with this text:
+
+      Key is a player switch, tracked by the Conductor, with values
+      equal to the pitches that Notes can have, defaulting to C.  A
+      player CAN change eir Key to any value by announcement, unless
+      e has already done so during the current month.
+
+      Notes are gained as follows, except that the pitch actually gained
+      is as many semitones higher than the pitch listed below as the
+      player's Key is higher than C at the time of the gain:

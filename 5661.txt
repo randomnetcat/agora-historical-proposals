@@ -1,0 +1,12 @@
+ID: 5661
+Title: Conscientious objectors
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Insert the following paragraph immediately before the last paragraph
+of Rule 1728:
+      If the action is to be performed With N Supporters, the
+      performer SHALL list all Objectors.  If the action is to be
+      performed Without N Objections, the performer SHALL list all
+      Supporters.

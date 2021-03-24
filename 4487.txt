@@ -1,0 +1,33 @@
+ID: 4487
+Title: Streamline complacency
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+[Allows the Assessor to preemptively publish a Notice of Complacency
+ for ordinary proposals that are fated to fail quorum.
+
+ Also cleans up the definition of Sending It Back Where It Don't Belong
+ a smidgeon.]
+
+Proposal: Streamline complacency
+
+Amend Rule 1965 by changing it to read:
+
+      As soon as possible after an ordinary proposal fails quorum, the
+      Assessor shall publish a Notice of Complacency to that effect.
+      In addition, at any time during the voting period of an ordinary
+      proposal for which the number of entities eligible to vote on
+      the proposal is less than the quorum of the proposal, the
+      Assessor may immediately publish a Notice of Complacency without
+      waiting for the proposal's voting period to end.
+
+      Upon publication by the Assessor of a Notice of Complacency for a
+      proposal, the proposal is immediately aborted.  In addition, the
+      copy of the proposal that is added to the proposal pool as a result
+      of the abortion becomes democratic and distributable.
+
+      Publication by the Assessor of a Notice of Complacency not strictly
+      authorized or required by this rule is the Class 2 Crime of Sending
+      It Back Where It Don't Belong.

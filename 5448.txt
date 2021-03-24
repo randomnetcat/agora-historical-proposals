@@ -1,0 +1,13 @@
+ID: 5448
+Title: Provincial Voice in Government (Greater)
+Author: Pavitra
+Co-authors: 
+Adoption index: 3
+
+If the text of rule 2156 contains the word "province", then amend rule 1950 to
+read as follows:
+
+     The eligible voters on a democratic decision are those entities
+     that were either active first-class players or active provinces
+     at the start of its voting period.  The voting limit of each
+     eligible voter on a democratic decision is one.

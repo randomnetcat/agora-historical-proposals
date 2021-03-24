@@ -1,0 +1,12 @@
+ID: 4524
+Title: Fix Proposal 4514
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend the rule titled "A Duty to Vote" by changing it to read:
+
+       When an election fails quorum, each eligible voter who did not
+       vote or declare emself present commits the Class 1 Infraction of
+       Apathy, to be reported by the vote collector.

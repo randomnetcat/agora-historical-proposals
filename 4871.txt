@@ -1,0 +1,16 @@
+ID: 4871
+Title: High-Power Deference
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Amend Rule 1482 (Precedence between Rules with Unequal Power) by  
+appending
+this text:
+
+       If the Rule with the higher Power explicitly says of itself  
+that it
+       defers to another Rule (or type of Rule), then such provisions  
+shall
+       supercede the Power method for determining precedence.

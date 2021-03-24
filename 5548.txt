@@ -1,0 +1,20 @@
+ID: 5548
+Title: Chronological order
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2161 (ID Numbers) by appending this text to item (a):
+
+      The player SHOULD assign ID numbers in the order the entities
+      were created.
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing this text:
+
+      Rules have ID numbers, to be assigned by the Rulekeepor.
+
+with this text:
+
+      Rules have ID numbers, to be assigned by the Rulekeepor.  The
+      Rulekeepor SHALL assign ID numbers to rules in the order they
+      were created.

@@ -1,0 +1,13 @@
+ID: 5529
+Title: <none>
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Append the following text:
+{{{
+Upon a win announcement that a Monster has continuously been a
+Monster for no greater than four and no less than two weeks,
+the initiator satisfies the Winning Condition of Paradox.
+}}}
+to rule 2193.

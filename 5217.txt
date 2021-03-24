@@ -1,0 +1,14 @@
+ID: 5217
+Title: No double negatives
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing this text:
+
+      A recusal is without cause unless stated otherwise in the rules.
+
+with this text:
+
+      A recusal is with cause if and only if stated as such by the
+      rules.

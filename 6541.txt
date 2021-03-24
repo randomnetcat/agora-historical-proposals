@@ -1,0 +1,20 @@
+ID: 6541
+Title: Flowers for Wooble 
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1607 (The Promotor) by replacing this text:
+
+       Distributability is a proposal switch tracked by the Promotor,
+       with values Undistributable (default) and Distributable.
+
+with this text:
+
+       Distributability is a switch possessed by proposals that have
+       not been distributed, tracked by the Promotor, with values
+       Undistributable (default) and Distributable.
+
+Destroy 24 Rests in the possession of the person who was generally
+known as Wooble when this proposal was submitted; if e has less than
+24 Rests, then destroy all eir Rests.

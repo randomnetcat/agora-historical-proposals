@@ -1,0 +1,49 @@
+ID: 5562
+Title: Agorans Against Paradox Escalation
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Append the following to rule 2144:
+{{{
+A partnership CANNOT register unless its basis and the
+text of its backing document are unambiguously known.
+A partnership CANNOT peform an action unless it is
+unambiguous that its backing document allows it to do
+so.
+}}}
+
+Insert the word "unambiguously" before each of the four
+occurrences of "defined" in rule 2166. Insert the word
+"unambiguously" before each of the two occurrences of
+"specify" in rule 2181.
+
+Change {{{This notice is invalid if it lacks}}} to
+{{{This notice is invalid if it lacks or does not
+unambiguously specify}}} in rule 107, and change
+{{{the lack}}} to {{this}} in rule 107.
+
+Add the following after paragraph (e) of rule 107:
+{{{
+The notice is also invalid if it is ambiguous whether
+its initiator is authorized to initiate it.
+}}}
+
+Change paragraphs (c) and (d) of rule 2197 to this:
+{{{
+(c) amending a contract;
+
+(d) terminating a contract; and
+
+(e) causing a contract to become a pledge or to cease
+to be a pledge
+}}}
+
+Insert the word "unambiguously" before "identifying"
+in rule 2191.
+
+Insert the word "unambiguously" before the first
+occurrence of "devolves" in rule 2145.
+
+Just before the full stop in rule 2184, insert "as
+long as that specification is unambiguous."

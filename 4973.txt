@@ -1,0 +1,23 @@
+ID: 4973
+Title: Registration Prohibits Silent Partners
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1742 (Agreements between Players) by appending, after this
+text:
+
+      Players may make agreements among themselves with the intention
+      that such agreements will be binding; i.e. that they become
+      parties to the agreement and agree to be bound by the agreement.
+
+the following text:
+
+      If such an agreement is registered, then as soon as possible
+      after its membership changes, it shall announce which players
+      have joined and which have left.  This requirement is satisfied
+      if the information is published by a member of the agreement,
+      or a person who was a member immediately before the change.
+
+Upon the adoption of this proposal, each registered partnership is
+ordered to publish a list of all its Partners as soon as possible.

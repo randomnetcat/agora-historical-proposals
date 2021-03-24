@@ -1,0 +1,15 @@
+ID: 4608
+Title: Battery packs
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+    Each Player who votes FOR this Proposal has their Voting
+    Potential increased by ten.d,
+                 Restricted [Rebellious]
+       Exploit: For a fee of N Kudos, where N is the current number
+         of Rebellious Players, increase the effective number of
+         Rebellious Players by 1 for 10 days (which is one week
+         on the Revolutionary Calendar).  Count the day this Card
+         is played as day #1.

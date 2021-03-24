@@ -1,0 +1,15 @@
+ID: 4666
+Title: More cards 3 part 1
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: "More cards 3 part 1 "
+
+Append the following to rule R2071 "Wacky Cards"
+
+* Caption: Dud Development
+Quota: 2
+Elements: None
+Exploit: You may discard X Dud Cards to draw X Cards for free.

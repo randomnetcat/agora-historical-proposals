@@ -1,0 +1,18 @@
+ID: 5360
+Title: Clarify judicial precedent
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing this text:
+
+      The judgement of the question in an inquiry case SHOULD guide
+      future play, including future judgements, but does not directly
+      affect the veracity of the statement.
+
+with this text:
+
+      The judgement of the question in an inquiry case, and the
+      reasoning by which it was reached, SHOULD guide future play
+      (including future judgements), but do not directly affect
+      the veracity of the statement.

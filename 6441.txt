@@ -1,0 +1,11 @@
+ID: 6441
+Title: Move the synonym
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 693 (Voting on Agoran Decisions) by replacing "a player
+can select PRESENT" with "a player can select PRESENT (syn. ABSTAIN)".
+
+Amend Rule 2196 (Standard Classes of Agoran Decisions) by replacing
+"FOR and AGAINST (syn. ABSTAIN)" with "FOR and AGAINST.".

@@ -1,0 +1,14 @@
+ID: 6113
+Title: Intended Proposals Only
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend R106 (Adopting Proposals) by replacing the first paragraph
+with:
+
+     A proposal is a fixed body of text which has been made
+     into a proposal using a process specifically described
+     in the Rules.  A proposal SHOULD outline changes to be
+     made to Agora, including enacting, repealing, or amending
+     rules, or making other explicit changes to the gamestate.

@@ -1,0 +1,7 @@
+ID: 5579
+Title: Race the Hare.
+Author: Quazie
+Co-authors: Sgeo
+Adoption index: 3
+
+In R2110 change 'initiator' to 'initiator of the tortoise'

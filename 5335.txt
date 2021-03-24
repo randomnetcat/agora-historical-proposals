@@ -1,0 +1,17 @@
+ID: 5335
+Title: Fix timing of Red Mark awards
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend the rule "Marks" by lower-casing all section labels, and by
+replacing this text in section (+r):
+
+       At the end of a proposal's voting period,
+
+with this text:
+
+       When the Agoran decision of whether to adopt a proposal is
+       resolved,
+
+[Make Red Mark awards happen at the same time as Red VC awards.]

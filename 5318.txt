@@ -1,0 +1,14 @@
+ID: 5318
+Title: <none>
+Author: Levi
+Co-authors: 
+Adoption index: 2
+
+In Rule 1728 replace the following text:
+
+      (g) If the outcome is APPROVED, then the vote collector performs
+          the action upon resolving the decision.
+
+with:
+      (g) If the outcome is APPROVED, then the vote collector MUST perform
+          the action as soon as possible after resolving the decision.

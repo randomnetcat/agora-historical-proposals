@@ -1,0 +1,26 @@
+ID: 5037
+Title: Agoran arms in a rule
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+GreyKnight, having devised the blazon contained within this proposal,
+is a coauthor of this proposal.
+
+Enact a rule titled "Agoran Arms" with text
+
+      The escutcheon of Agora is defined by the following blazon:
+      Tierced palewise sable, argent, and sable, charged with a quill
+      and an axe in saltire, proper, and in the chief a capital letter
+      A, gules.
+
+[The blazon was given by proposal 4898, but not put in a rule, so that
+proposal is probably ineffective in creating a lasting definition.
+This proposal corrects the term "coat of arms" from P4898 to
+"escutcheon"; the escutcheon (shield) is all that the blazon defines,
+but a coat of arms would also include a helmet, crest, supporters, and
+possibly other elements.  We don't have a full coat of arms for Agora
+yet.]
+
+[A rendering of the escutcheon defined by this blazon is at
+<http://greyfire.org/picture_library/agora.png>.]

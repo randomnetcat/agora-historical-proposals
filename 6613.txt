@@ -1,0 +1,11 @@
+ID: 6613
+Title: De-cartes
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Repeal every rule (in numerical order) that, in the most recent
+publication of the FLR prior to the publication of this proposal, was
+in the Cards category.
+
+[They don't think, so they shouldn't exist]

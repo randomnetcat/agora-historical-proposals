@@ -1,0 +1,154 @@
+ID: 6213
+Title: It's only a game
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 101 by replacing "player" with "active player" in item
+(iv), and by removing item (vii).
+
+Repeal Rule 869 (How to Join and Leave Agora).
+
+Amend Rule 2130 (Activity) to read:
+
+      Activity is a person switch with values inactive (default) and
+      active, tracked by the Registrar.  The Registrar's report
+      includes the date on which each non-active person's activity
+      last changed.
+
+      A person CAN flip eir activity by announcement.  "To go on hold"
+      or to be deactivated is to become inactive; "to come off hold"
+      or to be activated is to become active.  A player CAN flip
+      another player's activity to inactive without objection.
+
+      A person who has become inactive through a mechanism not defined
+      in this rule CANNOT become active for thirty days thereafter,
+      rules to the contrary notwithstanding.
+
+Repeal Rule 2145 (Partnerships).
+
+Amend Rule 1742 (Contracts) by removing "that has never been a
+partnership".
+
+Amend Rule 2178 (Public Contracts) by removing the paragraph starting
+with "A partnership CAN identify its contract as a public contract".
+
+Amend Rule 2200 (Nomic Definitions) by removing the paragraph starting
+with "An embassy is a registered partnership".
+
+Amend Rule 2150 (Personhood) by replacing the entire rule with:
+
+      A person is a biological organism that is generally capable of
+      communicating by email in English (including via a translation
+      service).
+
+Amend Rule 2177 (The Senate) by replacing "first-class player who has
+been registered" with "person who has been active" and by replacing
+"first-class player who is a member of the roll call" with "person who
+is a member of the roll call".
+
+Amend Rule 2228 (Rests) by removing the paragraph starting with
+"Ownership of Rests is restricted to first-class persons", and by
+replacing "A first-class player CAN" with "A person CAN".
+
+Amend Rule 2124 (Agoran Satisfaction) by replacing "first-class
+player" with "person".
+
+Amend Rule 1950 (Voting on Democratic Decisions) by replacing
+"first-class players" with "persons".
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by removing "(default
+for active first-class players and provinces)" and "(default for all
+other players)".
+
+Amend Rule 591 (Inquiry Cases) by removing "first-class".
+
+Amend Rule 1504 (Criminal Cases) by removing "first-class".
+
+Amend Rule 1868 (Judge Assignment Generally) by removing "first-class".
+
+Amend Rule 2136 (Contests) by replacing "first-class players" with
+"active persons".
+
+Amend Rule 2233 (Awarding and Revoking Points) by removing
+"first-class".
+
+Amend Rule 2233 (Victory) by removing "first-class".
+
+Amend Rule 2199 (Ribbons) by replacing:
+
+      (+W) When a first-class person becomes a player for the first
+           time, e gains a White Ribbon.  When a first-class person
+           has been a player continuously for at least three months,
+           was never a player before that period, and names another
+           player as eir mentor (and has not named a mentor in this
+           fashion before), that player gains a White Ribbon.
+
+with:
+
+     (+W) When a person becomes active for the first time, e gains a
+          White Ribbon.  When a person has been active continuously
+          for at least three months, was never active before that
+          period, and names another active person as eir mentor (and
+          has not named a mentor in this fashion before), that person
+          gains a White Ribbon.
+
+Amend Rule 1789 (Cantus Cygneus) by replacing:
+
+      As soon as possible after receiving a Cantus Cygneus, the
+      Registrar shall publish this document along with a Writ of
+      Fugere Agorae Grandissima Exprobratione, commanding the Player
+      to be deregistered. The Registrar shall note the method of
+      deregistration for that Player in subsequent Registrar Reports,
+      as long as the Player remains deregistered.
+
+      The Player is deregistered as of the posting of the Writ, and
+      the notation in the Registrar's Report will ensure that,
+      henceforth, all may know said Player deregistered in a Writ of
+      FAGE.
+
+with:
+
+      As soon as possible after receiving a Cantus Cygneus, the
+      Registrar shall publish this document along with a Writ of
+      Fugere Agorae Grandissima Exprobratione, commanding the Player
+      to be rendered inactive. The Registrar shall note the method of
+      deactivation for that Player in all subsequent Registrar
+      Reports.
+
+      The Player becomes inactive as of the posting of the Writ, and
+      the notation in the Registrar's Report will ensure that,
+      henceforth, all may know said Player deactivated emself in a
+      Writ of FAGE.
+
+Amend Rule 2229 (Just Resting) by replacing "deregistered" with "made
+inactive", and by replacing "not a player" by "inactive".
+
+Amend Rule 1922 (Defined Regular Patent Titles) by replacing
+"deregistered in" with "submitted".
+
+Amend Rule 402 (Identity of the Speaker) by replacing "registered"
+with "active".
+
+Amend Rule 2139 by replacing:
+
+      The Registrar's report includes, for each player:
+
+      a) Information sufficient to identify and contact em.
+      b) The date on which e most recently became a player.
+
+with:
+
+      The Registrar's report includes, for each active person:
+
+      a) Information sufficient to identify and contact em.
+      b) The date on which e most recently became active.
+
+
+Amend each rule, in order of ID number, by replacing "player" with
+"person".
+
+[Repeal partnerships.  Repeal playership and fall back to activity;
+everyone is a player.  This allows a more natural entrance to the
+game.  It's radical, but nomic is all about challenging the
+traditional notion of a game: why can't everyone be a player?]

@@ -1,0 +1,29 @@
+ID: 6032
+Title: Rest Adjustments
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In R2156 (Voting on Ordinary Decisions), replace:
+The
+ voting limit of an eligible voter on an ordinary decision is eir
+ caste at the start of its voting period, reduced to the next
+ lower caste (minimum Savage) for each positive multiple of 4
+ Rests that the voter posesses at the start of the voting period.
+with:
+ The voting limit of an eligible voter on an ordinary decision is set
+to eir caste at the start of its voting period, and may be changed
+after it is set as allowed by the rules.  Changing a voting limit on
+an ordinary decision is secured. At the end of the voting period, for
+each 4 Rests a voter possessed at the start of the voting period, eir
+voting limit on each ordinary decision is halved, rounding up.
+
+[Doesn't completely eliminate voting rights for anyone with Rests
+anymore, applies punishments to note-adjusted voting limits after
+they're adjusted, and clarifies that "is" didn't really mean "is"]
+
+In the rule "Notices of Violation", replace:
+  A valid Notice of Violation is initially Uncontested if a Crime
+  is named, Contested otherwise.
+with:
+  A valid Notice of Violation is initially Uncontested.

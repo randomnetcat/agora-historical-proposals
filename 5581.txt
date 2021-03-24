@@ -1,0 +1,21 @@
+ID: 5581
+Title: Ribbon Clarification
+Author: Sgeo
+Co-authors: 
+Adoption index: 2
+
+In Rule 2199, replace
+{
+      If this rule mentions at least six different specific colors for
+      Ribbons, then a player CAN destroy one Ribbon of each such color
+      in eir possession to satisfy the Winning Condition of
+      Renaissance.
+}
+
+with
+{
+      If this rule mentions at least six different specific colors for
+Ribbons, then a player CAN destroy one Ribbon of each such color
+mentioned in this rule in eir possession to satisfy the Winning
+Condition of Renaissance.
+}

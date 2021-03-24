@@ -1,0 +1,8 @@
+ID: 6291
+Title: Polish
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2221 (Cleanliness) by replacing "amended as specified" with
+"amended by this rule as specified by that person".

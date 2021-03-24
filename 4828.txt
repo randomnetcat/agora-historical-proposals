@@ -1,0 +1,30 @@
+ID: 4828
+Title: Welcome All Coauthors
+Author: Maud
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 1430 (Mandatory Rule Annotations) to read:
+
+      Whenever a rule is changed in any way, the Rulekeeper shall
+      record a historical annotation to the rule indicating:
+
+      (a) the type of change;
+      (b) if the rule was changed due to a proposal, a reference to
+          that proposal, its proposer, and any coauthors explicitly
+          named in that proposal;
+      (c) if the rule was changed by some other mechanism, the
+          mechanism which specified the change; and
+      (d) the date on which the change took effect.
+
+      Other rules may require additional information to appear in an
+      annotation for certain types of Rule Change.
+
+      Annotations to a rule are not part of the rule, and annotating a
+      rule is not a rule change.  The Rulekeepor shall indicate all
+      annotations in such a way that they are readily distinguished
+      from the text of the rule.
+
+      When a rule is repealed, all annotations attached to it are
+      discarded, and need not appear in the published Ruleset.

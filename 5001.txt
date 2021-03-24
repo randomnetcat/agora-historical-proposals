@@ -1,0 +1,18 @@
+ID: 5001
+Title: Putting the bar back into barrister
+Author: root
+Co-authors: Quazie
+Adoption index: 1
+
+Quazie is a co-author of this proposal.
+
+Amend R897 by replacing the section reading:
+
+     A Player Barred from Judging a CFJ is ineligible to Judge that
+     CFJ.
+
+with:
+
+     A player barred from judging a CFJ is ineligible to judge that
+     CFJ.  The caller of a CFJ is automatically barred from judging
+     it.

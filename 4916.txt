@@ -1,0 +1,20 @@
+ID: 4916
+Title: Timing without Orders, take two
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1006 ("Offices") by deleting the paragraph that starts "If
+an Officer or the Speaker fails to satisfy a Timing Order".
+
+Amend Rule 1794 ("Classes of Orders") by deleting item (d).
+
+Create a rule titled "Default Timing" in the category "Definitions"
+with the text:
+
+        Where the Rules oblige a person to perform some action but do
+        not otherwise specify a time limit by which the action must be
+        performed, the action must be performed as soon as possible
+        after the first instant when both the person was obliged to
+        perform that action and the action was logically possible.

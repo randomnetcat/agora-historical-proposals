@@ -1,0 +1,139 @@
+ID: 5113
+Title: Really Generalize Dependent Actions
+Author: Murphy
+Co-authors: Maud
+Adoption index: 3
+
+Maud is a co-author of this proto-proposal.
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+      This rule takes precedence over any rule which would require
+      a voting period for some decision to be shorter than seven days.
+
+with this text:
+
+      This rule takes precedence over any rule which would require
+      a voting period for some decision to be shorter than seven days,
+      unless the decision is whether to approve a dependent action.
+
+Amend Rule 208 (Resolving Agoran decisions) to read:
+
+      The vote collector for an unresolved Agoran decision may resolve
+      it by announcement, indicating the option selected by Agora.  E
+      SHALL do so as soon as possible after the end of the voting
+      period.  To be valid, this announcement must satisfy the
+      following conditions:
+
+        (a) It is published after the voting period has ended.
+
+        (b) It clearly identifies the matter to be resolved.
+
+        (c) It clearly identifies the options available.
+
+        (d) It specifies which option was selected by Agora, as
+            described elsewhere, and provides a tally of the voters'
+            valid ballots on the various options.
+
+      Each Agoran decision has exactly one vote collector.
+
+      This rule takes precedence over any rule that would provide
+      another mechanism by which an Agoran decision may be resolved.
+
+Repeal Rule 2117 (Replacing the Vote Collector).
+
+Amend Rule 2146 (Indices) by appending this text:
+
+      The ratio of a positive index to zero is positive infinity.  The
+      ratio of a negative index to zero is negative infinity.  The ratio
+      of zero to any index is zero.
+
+Amend Rule 955 (Determining the Will of Agora) to read:
+
+      The outcome of an Agoran decision is determined as follows.
+
+        (a) If there is more than one available option, and the number
+            of distinct voters who submitted valid ballots is less
+            than quorum, then the outcome is FAILED QUORUM, regardless
+            of the remainder of this rule.  Otherwise, the decision
+            achieved quorum.
+
+        (b) If the decision is whether to adopt a proposal, then the
+            voting index is the ratio of the strength of FOR to the
+            strength of AGAINST.  If the voting index is greater than
+            1, and greater than or equal to the decision's adoption
+            index, then the outcome is ADOPTED; otherwise, the outcome
+            is REJECTED.
+
+        (d) If the decision is whether to approve a dependent action:
+
+            (1) If the strength of OBJECT is greater than or equal to
+                the objection index (if any), then the outcome is
+                REJECTED.
+
+            (2) If the strength of SUPPORT is less than the support
+                index (if any), then the outcome is REJECTED.
+
+            (3) If the ratio of the strength of SUPPORT to the combined
+                strength of SUPPORT and OBJECT is less than or equal to
+                the majority index (if any), then the outcome is
+                REJECTED.
+
+            (4) Otherwise, the outcome is APPROVED.
+
+Amend Rule 879 (Quorum) to read:
+
+      Quorum for an Agoran decision is N/3 (where N is the number of
+      eligible voters with a positive voting limit on that decision),
+      rounded up, with a minimum of five (unless this is greater than
+      N, in which case quorum is N, or the decision is whether to
+      approve a dependent action, in which case quorum is zero).
+
+Amend rule 1728 (Dependent Actions) to read:
+
+      An announcement of intent to perform a dependent action,
+      unambiguously describing the action and method of dependent
+      action, initiates the Agoran decision of whether to approve
+      the action.  For this decision:
+
+        (a) The vote collector is the announcer.
+
+        (b) The available options are SUPPORT and OBJECT.
+
+        (c) The voting period ends after fourteen days or immediately
+            before it is resolved, whichever comes first.
+
+        (d) The eligible voters are those entities that were active
+            first-class players at the start of the voting period,
+            except for the vote collector, and any entities disqualified
+            by the rule specifying that the action can be performed
+            dependently.
+
+        (e) The voting limit of each eligible voter is one.
+
+        (f) The vote collector of such a decision CANNOT resolve it if
+            it was initiated more than fourteen days ago, or (if it has
+            an objection and/or majority index) less than four days ago.
+
+        (g) If the outcome is APPROVED, then the vote collector performs
+            the action upon resolving the decision.
+
+      The specification in the rules that an action can be performed
+      dependently does not prohibit performing that action
+      independently if doing so would otherwise be permissible.
+
+Change the title of rule 2124 to "Methods of Dependent Actions", and
+amend it to read:
+
+      The following methods of dependent actions are defined:
+
+        (a) With N Supporters.  For this method, the support index is
+            N.  "With Support" is synonymous with "With 1 Supporter".
+
+        (b) Without N Objections.  For this method, the objection
+            index is N.  "Without Objection" is synonymous with
+            "Without 1 Objection".
+
+        (c) With N Agoran Consent.  For this method, the majority
+            index is N.  "With Agoran Consent" is synonymous with
+            "With 1/2 Agoran Consent".

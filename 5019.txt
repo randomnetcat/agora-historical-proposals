@@ -1,0 +1,124 @@
+ID: 5019
+Title: Re-divide some offices
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+[Smaller Offices may be less intimidating to newer players.]
+
+Create a rule titled "The Assessor" with this text:
+
+      The Assessor is an office; its holder is responsible for
+      collecting votes and keeping track of related properties.
+
+      The Assessor is the default vote collector for all Agoran
+      decisions that do not specify a different vote collector.
+
+      The Assessor's report shall include the following:
+
+        a) Each player's voting limit on ordinary proposals.
+        b) Each player's voting credits.
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the available options are FOR, AGAINST, and
+      PRESENT, and by default, the eligible voters are the active
+      players, the adoption index is the adoption index of the
+      proposal, and the vote collector is the Speaker.
+
+with this text:
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the available options are FOR, AGAINST, and
+      PRESENT, and by default, the eligible voters are the active
+      players, and the adoption index is the adoption index of the
+      proposal.
+
+Upon the adoption of this proposal, the office of Assessor becomes
+held by the Speaker.
+
+Create a rule titled "The International Associate Director of Personnel"
+with this text:
+
+      The International Associate Director of Personnel is an office; its
+      holder is responsible for keeping track of officers and reports.
+
+      The Director of Personnel's report shall include the following:
+
+        a) The holder of each office.
+        b) The date on which each holder last came to hold that office.
+        c) The date of the most recent attempt to achieve Agoran Consent
+             for changing the holder of that office.
+
+Amend Rule 1006 (Offices) by removing this text:
+
+               The Herald shall list the holder of each office, and
+      the date upon which each holder last came to hold that office.
+
+and by replacing this text:
+      If no attempt to achieve Agoran Consent for changing the holder
+      of particular office is announced in a given quarter, then the
+      Speaker shall make at least one such attempt to change the
+      officeholder in the following quarter, and make the change if
+      consent is achieved.
+
+with this text:
+
+      If no attempt to achieve Agoran Consent for changing the holder
+      of a particular office is announced in a given quarter, then the
+      Director of Personnel shall make at least one such attempt to
+      change the officeholder in the following quarter, and make the
+      change if consent is acheived.
+
+Upon the adoption of this proposal, the office of Director of Personnel
+becomes held by the Herald.
+
+Create a rule titled "The Registrar" with this text:
+
+      The Registrar is an office; its holder is responsible for keeping
+      track of players.
+
+      The Registrar's report shall include the following:
+
+        a) Each player's nickname (if any) and listed e-mail address(es).
+        b) The date on which each player most recently registered.
+        c) A list of all public or discussion fora, with sufficient data
+             regarding each forum to players to receive messages there.
+
+Amend Rule 478 (Fora) by removing this text:
+
+      The Herald's report shall include a list of all public or
+      discussion fora and sufficient data regarding each to allow
+      players to receive messages via that medium.  The Herald need
+      not keep track of null fora.
+
+and by replacing each instance of "Herald" with "Registrar".
+
+Upon the adoption of this proposal, the office of Registrar becomes held
+by the Herald.
+
+Amend Rule 1377 (The Herald) to read:
+
+      The Herald is an office; its holder is responsible for keeping
+      track of the History of Agora and its players.
+
+      The Herald's report shall include the following:
+
+        a) A list of each Patent Title and Degree that at least one
+             person Bears, with a list of which persons Bear it.
+        b) A list of one or more Threats, including Bears.
+
+Amend Rule 1450 (Separation of Powers) to read:
+
+      The following sets of positions are mutually exclusive:
+
+        a) Promotor and Assessor
+        b) Speaker and Clerk of the Courts
+
+      A player holding two or more positions within one of these sets
+      is removed from all but one of them.  If one of them is the
+      Speakership, then e retains it; otherwise, e retains the position
+      e came to hold most recently.
+
+      This rule takes precedence over all rules governing offices.

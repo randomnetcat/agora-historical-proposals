@@ -1,0 +1,50 @@
+ID: 5334
+Title: Refactor co-authors
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      A player submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal, which
+      places the proposal in the Proposal Pool.  The proposer of a
+      proposal may remove it from the Pool by announcement.
+
+with this text:
+
+      A player submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal, which
+      places the proposal in the Proposal Pool.  That player is
+      its author (syn. proposer).  The author of a proposal may
+      remove it from the Pool by announcement.
+
+      A person is a co-author of a proposal if and only if e is
+      distinct from its author, and unambiguously identified by
+      its author as being its co-author at the time of submission.
+
+Amend Rule 1681 (The Logical Rulesets) by replacing this text:
+
+      Whenever a rule is changed in any way, the Rulekeepor shall
+      record a historical annotation to the rule indicating the type
+      of change, the date on which the change took effect, the
+      mechanism which specified the change, and if the rule was
+      changed due to a proposal, a reference to that proposal, its
+      proposer, and any coauthors explicitly named in that proposal.
+
+with this text:
+
+      Whenever a rule is changed in any way, the Rulekeepor shall
+      record a historical annotation to the rule indicating:
+
+        a) The type of change.
+
+        b) The date on which the change took effect.
+
+        c) The mechanism that specified the change.
+
+        d) If the rule was changed due to a proposal, then that
+           proposal's ID number, author, and co-author(s) (if any).
+
+Amend Rule 2126 (Voting Credits) by replacing "each coauthor named
+in the proposal" with "each coauthor of the proposal".

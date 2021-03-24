@@ -1,0 +1,22 @@
+ID: 6620
+Title:  Registration is not dependent
+Author: <Unknown>
+Co-authors: 
+Adoption index: 2.0
+
+[This is a copy of Proposal 6603, which failed quorum over the holiday
+but received unanimous support from those who did vote.]
+
+Amend Rule 869 (How to Join and Leave Agora) by replacing this text:
+
+     A first-class person CAN (unless explicitly forbidden or
+     prevented by the rules) register by publishing a message that
+     indicates reasonably clearly and reasonably unambiguously that e
+     intends to become a player.
+
+with this text:
+
+     A first-class person CAN (unless explicitly forbidden or
+     prevented by the rules) register by publishing a message that
+     indicates reasonably clearly and reasonably unambiguously that e
+     intends to become a player at that time.

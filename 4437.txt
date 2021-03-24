@@ -1,0 +1,18 @@
+ID: 4437
+Title: Rouse the Rabble
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1445 (Defaults for Elections) by appending, after this text:
+
+      * Failure of Referendum: If the Referendum fails for any reason
+        (e.g. Quorum is not achieved), then the Election has no
+        winner.
+
+this text:
+
+        If the Referendum fails because Quorum is not achieved, then
+        each Player who was eligible to Vote for the entire Voting
+        Period, but did not Vote or declare Presence, commits the
+        Class 1 Infraction of Apathy.

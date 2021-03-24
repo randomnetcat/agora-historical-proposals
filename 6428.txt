@@ -1,0 +1,48 @@
+ID: 6428
+Title: Office Rewards/Penalties Revision v2
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2143 ("Official Reports and Duties") after the sentence:
+{{
+Any information defined by the rules as part of an office's
+      report, without specifying which one, is part of its weekly
+      report.
+}}
+append to the same paragraph:
+{{
+Failure of the holder of an office to perform any duty required of
+that office within the alloted time is the Class-N crime of Tardiness,
+where N in the Interest Index of that office.
+}}
+
+In R2258, if the following text exists:
+{{
+At the beginning of each
+      week, each holder of a high-priority office who completed a non-
+      empty set of duties in the prior week earns a number of draws
+      from the deck indicated by the switch equal to the interest
+      index for the office.  At the beginning of each month, each
+      holder of a low-priority office who held the office for 16 or
+      more days in the prior month earns a number of draws from the
+      deck indicated by the switch equal to the interest index of the
+      office.
+}}
+or the following text exists:
+{{
+At the beginning of each
+     week, each holder of an office with a weekly report who published
+     that report in the previous week earns a number of draws from the
+     deck indicated by the switch equal to the interest index for that
+     office. At the beginning of each month, each holder of an office
+     without a weekly report who held the office for 16 or more days in
+     the prior month earns a number of draws from the deck indicated by
+     the switch equal to the interest index of the office.
+}}
+Replace it with:
+{{
+At the beginning of each week, each holder of an office earns a number
+of draws from the deck indicated by the switch equal to the interest
+index for that office.
+}}

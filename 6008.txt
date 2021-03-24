@@ -1,0 +1,13 @@
+ID: 6008
+Title: Give partnerships a chance
+Author: Perlnomic Partnership
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2199, replace:
+   first-class player as eir mentor
+with:
+   player as eir mentor
+
+[It's currently impossible for a partnership to gain a white ribbon and
+win by Renaissance; none of the other ribbons have this restriction.]

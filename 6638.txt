@@ -1,0 +1,23 @@
+ID: 6638
+Title: Canceling Charge
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Append the following text to Rule 2284 (Fee-based actions)
+
+     - A player CAN destroy an erg in the possession of a specified
+     player for a charge of 2 ergs. The PSM SHALL note such a
+     destruction in eir report.
+
+[The part about the PSM reporting the event serves to require
+the PSM to not only show that 2 ergs were spent, but also
+that 1 erg was destroyed.]
+
+End Proposal
+
+I spend one erg to make the above distributable.
+
+Proposal: 2284 Cleanup (AI = 2, II = 0)
+
+Change the text of Rule 2284 from "Fee-based actions" to "Fee-based Actions".

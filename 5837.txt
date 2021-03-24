@@ -1,0 +1,18 @@
+ID: 5837
+Title: The rules command you
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Create a rule titled "Infernal Revenue Service" with this text:
+
+     The Tax Collectors are ais523, Goethe, Murphy, OscarMeyr,
+     Taral, and Wooble.
+
+     Each week, each non-Tax Collector SHALL transfer to a Tax
+     Collector at least one asset defined by one of the following
+     contracts:
+
+       * Agoran Agricultural Association
+       * Protection Racket
+       * Vote Market

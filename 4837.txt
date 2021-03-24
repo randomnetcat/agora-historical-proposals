@@ -1,0 +1,134 @@
+ID: 4837
+Title: Kudononsuch
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: Kudononsuch
+
+Amend Rule 2069 by removing the following text:
+
+      (e) A nonsite gambler whose hand size is smaller than the
+          maximum hand size, plus the number of offices e holds, may
+          draw a card for a fee equal to the number of times during
+          the current month e has previously drawn a card in this
+          manner.
+
+      (f) When a gambler draws a card, e gains a pending draw.  As
+          soon as possible afterward, the Deckmastor shall deal a card
+          to that gambler.  When e does so, the draw is no longer
+          pending.
+
+and by replacing:
+
+                            A gambler's hand size is the size of this
+          collection, plus one for each pending draw for that gambler.
+
+with:
+
+                            A gambler's hand size is the size of this
+          collection, plus one for each free pending draw for that
+          gambler.
+
+
+Create the following Rule, entitled "Satisfying draws":
+
+      When a gambler draws a card as specified by the Rules, e gains a
+      Pending Draw.
+
+      Encumbrance is a stuck switch for pending draws, with values
+      Free and Heavy.  Drawing a [Encumbrance value] card is a synonym
+      for gaining a pending draw with the indicated encumbrance.
+
+      As soon as possible after a gambler draws a card, the Deckmastor
+      shall satisfy the draw by dealing a card to the gambler with the
+      pending draw, but only if the draw is Satisfiable.  A draw is
+      satisfiable unless defined otherwise.
+
+      A heavy pending draw is not satisfiable as long as the gambler
+      with the draw has a hand size equal to or greater than eir
+      defined maximum hand size.  If a gambler has both heavy and free
+      pending draws, the Deckmastor must satisfy all satisfiable heavy
+      draws before satisfying any free draws for that gambler.
+
+      If the Rules state that a gambler loses a pending draw, than
+      that draw is considered satisfied without the dealing of a card,
+      whether or not it is satisfiable.  E shall first lose all free
+      draws before losing any heavy draws.  If e has no draws, the
+      Deckmastor shall discard a random card from that gambler's hand.
+      If e has no cards, then the deckmastor shall satisfy the next
+      pending draw e gains without dealing a card.
+
+      A satisfied draw is no longer pending.
+
+
+Amend Rule 2080 (Cards for Proposals) by renaming it "Basic Draws" and
+amending it to read:
+
+      The maximum hand size for a Player is defined as the maximum
+      hand size in the Deckmastor's Budget plus the number of Offices
+      (including the Speakership) that the Player holds.
+
+      Any Player may draw up to three heavy cards in a single month by
+      announcement.  If a Player draws a card without specifying the
+      explicit circumstances allowing the draw, it shall be considered
+      an attempt to draw one of these heavy cards.
+
+      Any Player may draw one free card in a single month, by noting
+      it is eir free draw for the month.
+
+      Any Player may draw one heavy card for each Proposal e proposes
+      that is adopted, by noting the Proposal's number.
+
+
+AMEND RULE 2049 (Ephemera) to read:
+
+      Players may be permitted or required by the Rules to grant Boons
+      or Albatrosses to other Players.  If so, these awards are
+      performed by public announcement.  The Herald shall note the
+      granting of all such awards.
+
+      A Player who gains a Boon is considered to have drawn a free
+      card for that boon.  A Player who gains an Albatross loses a
+      pending draw.
+
+
+AMEND RULE 2089 (Gardner Library) by replacing:
+
+      A player (hereafter the Borrower) may check out a specified card
+      from the Library by paying a Fee for the Library's upkeep.  The
+      fee is 2 Kudos for Students and 1 Kudo for Faculty Members.  The
+      card is reserved and may not be checked out by any player until
+      it is dealt to the Library again by the Deckmastor.
+
+with:
+
+      A player (hereafter the Borrower) may check out a specified card
+      from the Library by announcement, which must satisfy a number of
+      satisfiable pending draws that e, in fact, possesses.  The
+      number is 2 pending draws for Students and 1 pending draw for
+      Faculty Members.  The card is reserved and may not be checked
+      out by any player until it is dealt to the Library again by the
+      Deckmastor.
+
+
+Amend Rule 2075 (Winning Hands) by replacing:
+
+      Exactly one week after a true announcement, the Flux of all
+      Gamblers except the Deck shall become frozen.
+
+with:
+
+      Exactly one week after a true announcement, the Flux of all
+      Gamblers except the Deck shall become frozen, and all heavy
+      pending draws shall be deemed satisfied.
+
+REPEAL RULE 2051 (Tabla Rasa)
+REPEAL RULE 2096 (Ephemeral Time Limits)
+REPEAL RULE 2047 (Kudos)
+REPEAL RULE 2048 (Enlightenment)
+REPEAL RULE 1941 (Fees)
+REPEAL RULE 2018 (Expunging Blots)
+
+[Kudo card deletions in upcoming proposal]

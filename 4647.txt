@@ -1,0 +1,31 @@
+ID: 4647
+Title: Kudos for Cards
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Create a power 1 Rule called "Cash Cards" with the following text
+
+"* Caption: Greedy Bastard
+Elements: Budgeted
+Exploit:  Gain one Kudo, but also gain the Albatross of Greed.
+
+* Caption: Charity Brings Happiness
+Elements: Budgeted
+Exploit: For a fee of one Kudo you may indicate any other player to
+gain one Kudo, as long as they have fewer Kudos than you do and is not
+yourself.  Upon doing this you gain the boon of Charity.
+
+* Caption: Thieves in the Night
+Element: Grafty, Delayed[5]
+Exploit: Provided that fewer than half of all gamblers, besides the
+deck, have a 'Thieves in the Night' card in their hand, and the player
+you indicate does not have a 'Thieves in the Night' card in their
+hand, That player losses one Kudo and you gain one Kudo.  For each of
+the aforementioned  stipulations that is false upon the playing of
+this card, you gain the Albatross of Thief."
+
+These are the following budgets
+Greedy Bastard - 3
+Charity Brings Happiness - 6

@@ -1,0 +1,24 @@
+ID: 5311
+Title: Urgent Actions
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1728 by replacing item (f) of the list in that rule with:
+      (f) The vote collector of such a decision CANNOT resolve it if
+          it was initiated more than fourteen days ago, or less than
+          its urgency ago.
+and appending to the list:
+      (h) The urgency of such a decision is by default:
+            * four days, if it has an objection and/or majority
+              index;
+            * zero days otherwise.
+
+Amend Rule 2172 by replacing the entire text with:
+      A player CAN perform an action on behalf of Agora with Agoran
+      Consent.
+
+      A player MAY perform an action on behalf of Agora with Agoran
+      Consent.  For the decision of whether to approve this dependent
+      action, the urgency is 24 hours.  This SHOULD only be done in
+      cases where urgent action is required.

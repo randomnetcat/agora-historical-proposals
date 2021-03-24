@@ -1,0 +1,22 @@
+ID: 5521
+Title: Recordkeepors must recordkeep
+Author: Ivan Hope
+Co-authors: 
+Adoption index: 2
+
+In rule 2166, replace the following paragraph:
+
+"The recordkeepor of a class of assets is the entity defined as such
+by its backing document.  That entity's report includes a list of all
+instances of that class and their owners.  This portion of that
+entity's report is self-ratifying."
+
+with:
+
+"The recordkeepor of a class of assets is the entity defined as such
+by its backing document.  If the recordkeepor is an office, that
+office's report includes a list of all instances of that class and
+their owners.  This portion of that office's report is self-ratifying.
+ If the recordkeepor is a person, that person SHALL publish a list of
+all instances of that class and their owners once per week.  Such a
+list is self-ratifying."

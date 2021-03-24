@@ -1,0 +1,54 @@
+ID: 5061
+Title: explicate personhood
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Change the power of rule 2145 to 2.
+
+Amend rule 2145 to read
+
+      A binding agreement governed by the rules which devolves its
+      legal obligations onto a subset of its parties, numbering at
+      least two, collectively, is a partnership.  The members of a
+      partnership are those parties onto whom the partnership's legal
+      obligations are collectively devolved.  A partnership's identity
+      and partnershiphood are not disrupted by changes to its
+      membership provided that it continues to meet the definition of
+      a partnership.
+
+      A partnership's basis is the set consisting of the union of the
+      set of its non-partnership members with the bases of each of its
+      partnership members.  Where circularity occurs in this
+      definition, it is resolved by using the minimum basis sets that
+      provide consistency.
+
+      A partnership whose basis contains at least two persons is a
+      person.
+
+[Explicate how a partnership qualifies as a person.  Incorporate (in
+clarified form) the definition of "basis" from rule 2144, because it
+fits nicely here and is useful in restricting which partnerships
+qualify as persons.]
+
+Amend rule 2144 by deleting the paragraph which begins "A
+partnership's basis".
+
+["Basis" is now defined in rule 2145.  Rule 2144 is left with only
+regulation, not definition.]
+
+Amend rule 2150 by inserting at the beginning the paragraphs
+
+      A person is an entity that has the general capacity to be the
+      subject of rights and obligations under the rules.  An entity is
+      a person if and only if it is defined to be so by rules with
+      power 2 or greater.
+
+      Any biological organism that is capable of communicating by
+      email in English is a person.
+
+[Explicit definition of natural personhood.  Close the door on
+judicial arguments for novel types of personhood: it's a matter for
+legislation, now, not jurisprudence.  Power restriction puts this
+rather important matter out of reach of the easier scams and likely
+accidents.]

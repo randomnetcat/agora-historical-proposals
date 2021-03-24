@@ -1,0 +1,76 @@
+ID: 4912
+Title: Multiple judicial fixes
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2024 (Linked Statements) to read:
+
+       Linked CFJs are multiple Calls for Judgement deemed to be
+       sufficiently similar that they should have a single judge.
+
+       Linkage is transitive.  When a set of one or more linked CFJs
+       change jurisdiction, they remain linked to each other, but
+       become unlinked from any other CFJs; they may become linked
+       to one or more CFJs within the new jurisdiction.
+
+       Multiple CFJs, submitted in a single message and clearly
+       labelled as Linked CFJs, become linked.  The players (if any)
+       barred by the caller from judging the first CFJ are the only
+       players e may bar from judging the others.
+
+       The Clerk of the Courts shall not assign judges directly to the
+       members of a set of Linked CFJs, but shall assign a judge to the
+       set, as if it was a single CFJ.  The judge must be eligible to
+       judge each member of the set, and is simultaneously assigned
+       as judge of each member of the set.
+
+       The judge of a set of Linked CFJs shall submit eir judgement of
+       each of those CFJs in a single message.
+
+       A trial judge may remand one or more linked CFJs to the Clerk of
+       the Courts by announcement.  E ceases to be their judge.
+
+       A trial judge may transfer one or more of eir CFJs to a second
+       trial judge by announcement (identifying one of the second  
+judge's
+       CFJs), provided that the second judge consents, and is  
+eligible to
+       judge all of them.  The transferred CFJs become linked to the
+       second judge's CFJ (and any others to which it is already  
+linked).
+
+Create a rule titled "Excess CFJs" with this text:
+
+       A CFJ made by a person who has previously made five or more CFJs
+       during the same Agoran Week as that CFJ is an Excess CFJ.  The
+       Clerk of the Courts may dismiss an Excess CFJ by announcement.
+
+Amend Rule 1871 (Turns for All) to read:
+
+       When a player is selected as Trial Judge of a CFJ, e becomes
+       turned.  A player is ineligible to be Trial Judge of a CFJ if
+       e was turned when it was called.
+
+       When a player registers, e becomes turned.
+
+       The Clerk of the Courts may (without 2 objections) turn a
+       player.  E is encouraged to do this only if e expects the
+       player to judge CFJs slowly or not at all.
+
+       When the Clerk of the Courts publishes a Notice of Rotation, all
+       players become unturned.  The Clerk of the Courts shall only do
+       so when all open CFJs without a Trial Judge have no players
+       eligible to be assigned, and at least one of them has at least
+       one player ineligible solely to being turned; e shall list all
+       CFJs in the first set, and at least one in the second.  However,
+       failing to meet these requirements does not deprive the Notice
+       of effect.
+
+Create a Rule titled "Pragmatic Judicial Assignments" with this text:
+
+       If the Clerk of the Courts errs in good faith by assigning an
+       ineligible judge, then the selection stands.  However, if the
+       player has not yet delivered judgement, then the Clerk of the
+       Courts may point out eir error and recuse the player.

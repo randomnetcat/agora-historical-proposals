@@ -1,0 +1,30 @@
+ID: 6276
+Title: Privelege of the Minister
+Author: Pavitra
+Co-authors: Goethe
+Adoption index: 2.0
+
+This proposal has no effect unless "Privilege of the Champion" passed.
+
+Goethe is a coauthor of this proposal.
+
+Amend rule 2186 (Victory) by replacing the final paragraph with:
+      A person CAN spend a Laurel to win the game.
+
+      A player (the trumpeter) CAN act on behalf of another player (the
+      reluctant victor) to cause em to spend a Laurel, provided that all
+      of the following conditions are satisfied:
+
+        The reluctant victor is not a Minister without Portfolio.
+
+        The reluctant victor owns a Laurel.
+
+        If the reluctant victor has ever spent or been caused to spend a
+        Laurel, then e has borne the Patent Title Minister without
+        Portfolio at least once since the most recent time e did so or
+        was caused to do so.
+
+      Upon the trumpeter doing so, the reluctant victor wins the game.
+
+      A person CANNOT win the game except as specified in this rule,
+      rules to the contrary notwithstanding.

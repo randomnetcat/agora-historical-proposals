@@ -1,0 +1,10 @@
+ID: 6316
+Title: Speaking of which...
+Author: comex
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2169 (Equity Cases) by replacing "a particular contract"
+with "a particular Equitable contract".
+
+[Restrict equity cases to Equitable contracts, as opposed to Legalistic ones.]

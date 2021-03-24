@@ -1,0 +1,13 @@
+ID: 6722
+Title: Titles can be cleaned too
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+Amend Rule 2221 (Cleanliness) to read:
+
+       Any player CAN clean a rule without objection by specifying one
+       or more corrections to spelling, grammar, and/or capitalization
+       in its text and/or title; the rule is amended by this rule as
+       specified by that person.

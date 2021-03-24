@@ -1,0 +1,12 @@
+ID: 6440
+Title: Want not NEED NOT
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+In rule 2152, add the following bullet to the list:
+      6. NEED NOT:  Failing to perform the described action does not
+         violate the rule in question.
+Renumber the other entries in the list accordingly, retaining their
+relative order, so that the list begins at 1 remains consecutive. [N.B.
+there is only one such renumbering]

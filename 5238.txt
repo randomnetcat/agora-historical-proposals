@@ -1,0 +1,36 @@
+ID: 5238
+Title: More types of judges
+Author: AFO
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 (The Standing Court) by replacing the first three
+paragraphs with this text:
+
+      Posture is a player switch with values Standing, Sitting, Leaning,
+      and Supine (default), tracked by the Clerk of the Courts.  A
+      non-standing player CAN flip eir posture to any non-standing value
+      by announcement.
+
+      Hawkishness is a player switch with values Hanging, Hugging,
+      and Hemming-and-Hawing (default), tracked by the Clerk of the
+      Courts.  A player CAN flip eir hawkishness by announcement.
+
+      A supine player is unqualified to be assigned as judge of any
+      judicial case.  A sitting or leaning player is poorly qualified
+      to be assigned as judge of any judicial case.
+
+      A hanging player is unqualified to be assigned as judge of any
+      inquiry case.  A hugging player is unqualified to be assigned as
+      judge of any criminal case, and poorly qualified to be assigned
+      as judge of any equity case.
+
+      When a player is poorly qualified to be assigned as judge of a
+      judicial case, the Clerk of the Courts SHALL not assign em to be
+      the judge of that case; if e has done so, and that player is still
+      the judge of that case, then e CAN recuse that judge from that
+      case by announcement.
+
+[Leaning players are candidates for judicial panels, but not for
+non-appeal cases, hence they are not part of the sitting-to-standing
+process.  "Poorly qualified" is generalized.]

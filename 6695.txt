@@ -1,0 +1,103 @@
+ID: 6695
+Title: Sentencing Reform
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) to read as follows:
+
+       Criminal cases are a subclass of judicial cases.  Any
+       first-class person can initiate a criminal case by an
+       announcement calling for judgement on the circumstances
+       surrounding a specified valid Notice of Violation alleging a
+       rules breach by a single entity (the Accused).  The initiator
+       and each member of the Accused's basis are unqualified to be
+       assigned as judge of the case.
+
+       A criminal case has a judicial question on culpability, which is
+       applicable at all times following the call for judgement.  The
+       valid judgements for this question are:
+
+       * GUILTY, appropriate if the judge finds, beyond a reasonable
+         doubt, that ALL of the following are true:
+        (a) the Accused breached the specified rule via the specified
+            act;
+        (b) the breach occurred within 90 days prior to the case being
+            initiated;
+        (c) judgement has not already been reached in another criminal
+            case, or punishment already applied through another
+            uncontested notice of violation, with the same Accused, the
+            same rule, and substantially the same alleged act;
+        (d) the Accused could not have reasonably believed that the
+            alleged act did not violate the specified rule;
+        (e) the Accused could have reasonably avoided committing the
+            breach without committing a different breach of equal or
+            greater severity.
+
+       * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
+         delivering this verdict, the judge SHOULD indicate which of
+         the sub-requirements for a finding of guilty were not found to
+         be true beyond a reasonable doubt.
+
+       When a judicial question on culpability is judged after a number
+       of Rests have been created in the Accused's possession due to
+       the associated notice, an equal number of Rests in the Accused's
+       possession are destroyed.
+
+Enact a new power-2 rule entitled "Sentences" that reads as follows:
+
+       A criminal case has a judicial question on sentencing, which is
+       applicable if the question on culpability is applicable and has
+       a judgement of GUILTY.  If a criminal case has an applicable
+       question on sentencing which has a judgement, the Accused is
+       hereafter known as the ninny, and the judgement in the question
+       on sentencing is known as the sentence.
+
+       If a sentence has been continuously assigned to a case for at
+       least one week, any player CAN cause it to take effect by
+       announcement; the effects of the various sentences are described
+       below. No appeal can be initiated regarding a criminal case if
+       its sentence has taken effect.
+
+       This rule defers to other rules that define the apporpriateness
+       of sentences.
+
+       The valid sentences are:
+
+       * DISCHARGE, appropriate only in extraordinary circumstances if
+         any available non-null punishment would be manifestly unjust.
+         Has no effect.
+
+       * APOLOGY with a set of up to ten prescribed words (the empty
+         set if none is explicitly specified), appropriate for rule
+         breaches of small consequence.  When it takes effect, the ninny
+         SHALL as soon as possible publish a formal apology of at least
+         200 words, including all the prescribed words, explaining eir
+         error, shame, remorse, and ardent desire for self-improvement.
+         Failure to do so is a Class-3 Crime of Failure to Apologize.
+
+       * SILENCE with a positive number less than 15 (X), appropriate
+         for Crimes. X SHOULD be equal to the Class of the Crime. When
+         it takes effect, the ninny is awarded X Rests.
+
+       * COMMUNITY SERVICE with a set of up to five tasks (the
+         prescribed tasks) that the ninny CAN reasonably and legally
+         perform, appropriate for rule breaches of moderate consequence
+         if the severity of the rule breach is reasonably correlated
+         with the consequences of performing the tasks, and especially
+         if any other available non-null punishment would be either
+         unjust or insufficient.  The balance between compensatory and
+         punitive service is left to the judge's discretion. When it
+         takes effect, the ninny SHALL perform  the prescribed tasks. If
+         no time limit for the tasks is specified, they must be
+         completed in a timely manner. Failure to complete the tasks on
+         time is the Class-5 Crime of Individuality Disservice.
+
+       * TIME OUT with a number of days between 7 and 21, appropriate
+         for major breaches of Agoran trust. When the sentence comes
+         into effect, the ninny becomes inactive, and SHALL NOT become
+         active for the number of days specified. Becoming inactive
+         during this period is the Class-10 Crime of Leaving the Corner.
+
+       Players SHOULD NOT create rules defining Crimes of a Class
+       greater than 14.

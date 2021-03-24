@@ -1,0 +1,11 @@
+ID: 5494
+Title: Monster Power
+Author: OscarMeyr
+Co-authors: Pavitra
+Adoption index: 1
+
+Append to the first paragraph of R2192 the following sentence:
+
+The Mad Scientist CAN act on behalf of the Monster to take any action
+that the Monster may take, and SHALL act on behalf of the Monster to
+ensure that the Monster fulfills all of its duties.

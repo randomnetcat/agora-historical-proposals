@@ -1,0 +1,22 @@
+ID: 6216
+Title: Secret ballots
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 107 (Initiating Agoran Decisions) by appending this text:
+
+       A decision is secret if and only if defined as such by rules
+       with Power at least 2.  Votes on a secret decision are sent
+       and retracted by sending a message to its vote collector
+       instead of sending a public message, and these actions SHALL
+       NOT be disclosed to anyone else during its voting period.
+
+Create a rule titled "Secret Proposals" with Power 2 and this text:
+
+       Once per week, a player CAN make one of eir proposals secret
+       by announcement.  The decision on whether to adopt a secret
+       proposal is secret.
+
+[Includes generalized framework for secret officer elections as well,
+with criteria TBD.]

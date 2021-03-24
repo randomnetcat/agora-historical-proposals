@@ -1,0 +1,198 @@
+ID: 5078
+Title: refactor voting limits
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 683 by inserting immediately after the itemised list the
+paragraph
+
+      Among the otherwise-valid votes on an Agoran decision, only the
+      first N submitted by each entity are valid, where N is the
+      entity's voting limit on that decision.  The voting limit of an
+      entity that is not an eligible voter on an Agoran decision is
+      zero.  The voting limit of an eligible voter on an Agoran
+      decision is one, except where rules say otherwise.
+
+[The basic voting limit mechanism may as well merge into the other
+rule on vote validity.  Default voting limit governs Agoran decisions
+that don't specify otherwise.  There's nothing specific to proposals
+here.]
+
+Retitle rule 1950 to "Voting on Democratic Proposals" and amend it to
+read
+
+      The eligible voters on a democratic proposal are those entities
+      that were active first-class players at the start of its voting
+      period.  The voting limit of each eligible voter on a democratic
+      proposal is one.
+
+[VLDP needs to remain at power=3.  VLOP is defined below.]
+
+Enact a power=2 rule titled "Voting on Ordinary Proposals" with text
+
+      Each player has a parameter known as eir base voting limit on
+      ordinary proposals (BVLOP).  The BVLOP of a first-class player
+      is one, and the BVLOP of any other player is zero.  BVLOP cannot
+      be modified.
+
+      Each player has a parameter known as eir volatile voting limit
+      on ordinary proposals (VVLOP).  Whenever a player is registered,
+      eir VVLOP is set to eir BVLOP.  VVLOP can be modified by the
+      action of an instrument with power greater than or equal to the
+      power of this rule, but not by any other means.
+
+      Each player has a parameter known as eir effective voting limit
+      on ordinary proposals (EVLOP).  Whenever a player is registered,
+      eir EVLOP is set to eir BVLOP.  At the end of each week, each
+      player's EVLOP is set to eir VVLOP, rounded to an integer,
+      breaking ties towards odd integers, and eir VVLOP is set to the
+      same rounded value.  EVLOP cannot be modified by any other
+      means.  The assessor's report includes each player's EVLOP.
+
+      The eligible voters on an ordinary proposal are those entities
+      that were active players at the start of its voting period.  The
+      voting limit of an eligible voter on an ordinary proposal is eir
+      EVLOP at the start of its voting period.
+
+[These provisions, defining the VLOP mechanism, are deliberately at
+lower power than before, just out of reach of ordinary proposals.
+This is why this rule needs to be separate from "Voting on Democratic
+Proposals".]
+
+[VVLOP is what we currently implicitly track as what R2126 is going to
+set VLOP to at the end of the week.  Making it explicit makes
+everything clearer.  EVLOP is the current VLOP.  BVLOP is the default
+VLOP, without any "reduced by one" confusion.]
+
+[In the absence of chamber changes, voter eligibility and voting
+limits are determined at the start of the voting period and do not
+change thereafter.  If a proposal changes from ordinary to democratic,
+its voter eligibility and voting limits are determined as of the start
+of the voting period, as if it had been democratic all along.]
+
+Amend rule 106 by deleting the text "and by default, the eligible
+voters are the active players,".
+
+[Eligibility is now set explicitly in the two rules for separate
+chambers.  We don't want to allow overriding by lower-power rules.]
+
+If the recent proposal "Three-Tone Economics" was not adopted, amend
+rule 2126 by replacing the text
+
+      When one or more players win the game, all players' voting
+      limits on ordinary proposals are reset to one, subject to
+      modification by other rules.
+
+      When a player joins Agora, eir VCs are set to zero and eir
+      voting limit on ordinary proposals is set to one.
+
+with
+
+      When a player is registered, e initially has zero VCs.
+
+      The assessor's report includes the number of VCs possessed by
+      each player.
+
+      When one or more players win the game, each player's VVLOP is
+      set to eir BVLOP.
+
+and replacing the text
+
+      A player may expend two VCs to increase eir own voting limit on
+      ordinary proposals by one.
+
+      A player may expend one VC to increase any other player's voting
+      limit on ordinary proposals by one.
+
+      A player may expend two VCs to decrease any other player's
+      voting limit on ordinary proposals by one, down to a minimum
+      voting limit of zero.  Attempts to decrease a player's voting
+      limit on ordinary proposals below this minimum fail.
+
+with
+
+      A player may expend two VCs to increase eir own VVLOP by one.  A
+      player may expend one VC to increase any other player's VVLOP by
+      one.  A player may expend two VCs to decrease any other player's
+      VVLOP by one, down to a minimum VVLOP of zero.
+
+and deleting the text
+
+      Changes to voting limits under this rule take effect at the
+      beginning of the next week.
+
+If the recent proposal "Three-Tone Economics" was adopted, amend rule
+2126 by replacing the text
+
+      When one or more players win the game, each player's voting
+      limit on ordinary proposals is reset to its default value.
+
+with
+
+      The assessor's report includes the number of VCs of each color
+      possessed by each player.
+
+      When one or more players win the game, each player's VVLOP is
+      set to eir BVLOP.
+
+and replacing the text
+
+      VCs may be spent as follows, by announcement (INVALID unless
+      the color is specified).  All changes to voting limits are applied
+      at the end of the week, in the order the VCs were spent, after
+      which any fractional voting limits are rounded to the nearest
+      integer (nearest odd integer if the fractional part is 0.5).
+
+        a) A player may spend two VCs of different colors to increase
+           another player's voting limit on ordinary proposals by one.
+
+        b) A player may spend three VCs of different colors to increase
+           eir own voting limit on ordinary proposals by one.
+
+        c) A player may spend two VCs of different colors to decrease
+           another player's voting limit on ordinary proposals by one
+           (to a minimum of zero).
+
+        d) A player may spend three VCs of different colors to decrease
+           another player's voting limit on ordinary proposals by ten
+           percent.
+
+with
+
+      VCs may be spent as follows, by announcement (INVALID unless
+      the color is specified):
+
+        a) A player may spend two VCs of different colors to increase
+           another player's VVLOP by one.
+
+        b) A player may spend three VCs of different colors to increase
+           eir own VVLOP by one.
+
+        c) A player may spend two VCs of different colors to decrease
+           another player's VVLOP by one (to a minimum of zero).
+
+        d) A player may spend three VCs of different colors to decrease
+           another player's VVLOP by ten percent.
+
+[Now affects VVLOP instantaneously, rather than VLOP in delayed
+fashion.  Two radically different versions of this amendment, because
+"Three-Tone Economics" proposes to completely restructure this rule.]
+
+Amend rule 2137 by deleting the text
+
+      The Assessor's report shall include the following:
+
+      a) Each player's voting limit on ordinary proposals.
+      b) Each player's voting credits.
+
+[Reporting requirements moved into specific rules above.]
+
+Immediately after the above amendments have occurred, the EVLOP of
+each player is set to exactly what eir VLOP was immediately before the
+amendments occurred, and the VVLOP of each player is set to what eir
+VLOP was plus whatever modifications were due to have been made by
+rule 2126 at the next end of week.
+
+[Continuity.  Would be tricky to determine what rule 1586 would do
+without the explicit clause.]

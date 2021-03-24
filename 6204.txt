@@ -1,0 +1,12 @@
+ID: 6204
+Title: Depending Actions
+Author: coppro
+Co-authors: comex
+Adoption index: 3.0
+
+Amend Rule 1728, Dependent Actions, by adding a new bullet reading
+{{
+       e) If a set of conditions for the performance of the action was
+          given in the announcement of intent to perform the action, all
+          those conditions are met.
+}}

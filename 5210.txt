@@ -1,0 +1,10 @@
+ID: 5210
+Title: Support democracy without raising AI
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2142 (Support Democracy) to read:
+
+      A player CAN, with 2 support, flip a proposal's chamber from
+      ordinary to democratic.

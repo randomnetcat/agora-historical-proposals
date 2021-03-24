@@ -1,0 +1,31 @@
+ID: 4717
+Title: Extraordinary Proposals
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Create a rule titled "Extraordinary Proposals" with this text:
+
+      When an ordinary proposal becomes extraordinary, it is immediately
+      aborted, and the copy of it that is added to the proposal pool due
+      to the abortion becomes democratic and distributable.
+
+Amend Rule 1965 (Complacent Corporation) by replacing this text:
+
+      Upon publication by the Assessor of a Notice of Complacency for
+      a proposal, the proposal is immediately aborted.  In addition,
+      the copy of the proposal that is added to the proposal pool as a
+      result of the abortion becomes democratic and distributable.
+
+with this text:
+
+      When the Assessor publishes a Notice of Complacency for a
+      proposal, it becomes extraordinary.
+
+Amend Rule 2019 (The Speaker's Veto) to read:
+
+      At any time during the voting period of an ordinary proposal,
+      the Speaker may veto that proposal with the support of one-third
+      of all shareholders, rounded down.  When e does so, the proposal
+      becomes extraordinary.

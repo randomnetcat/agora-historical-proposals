@@ -1,0 +1,55 @@
+ID: 6014
+Title: Re-streamline Appeals
+Author: Goethe
+Co-authors: 
+Adoption index: 1.7
+
+[The change back in the great repeals of requiring consensus appeals
+ judgements was interesting, but ultimately I think its (a) more
+ streamlined to require individual appeals member votes on a
+ judgement with a default if theres no majority and (b) better for
+ Agora to give each and every panel member a separate requirement to
+ deliver an appropriate judgment.  The default of REMAND seems the
+ most reasonable; the original judge can directly address appellants
+ comments but keep the same judgment (for the next panel if needed).
+ Also, takes to CotC out of choice].
+
+Amend Rule 2157 (Judicial Panels) by replacing:
+     A judicial panel CAN send messages by means of any of its
+     members sending a message identified as being from the panel,
+     with the unanimous Support of the panel's other members, or
+     (unless the CotC is a member of the panel, the prior judge, or
+     unqualified to be assigned as judge of the prior case) with the
+     Support of at least half the other members and the Support of
+     the CotC.  The CotC SHOULD so Support a majority action if the
+     panel has made a reasonable effort to achieve consensus.  By
+     this mechanism a judicial panel can act, in situations where the
+     rules state that an action is performed by sending a message.
+with:
+     A judicial panel CAN send messages by means of any of its
+     members sending a message identified as being from the panel,
+     with the unanimous Support of the panel's other members.  By
+     this mechanism a judicial panel can act, in situations where the
+     rules state that an action is performed by sending a message.
+     The rules may specify other mechanisms by which the judicial
+     panel CAN act.
+
+Amend Rule 911 (Appeal Cases) by adding, immediately following this
+paragraph:
+     When an appeal case is initiated, the prior question is
+     suspended, and remains so until the question on disposition in
+     the appeal case is judged.
+this paragraph:
+     As soon as possible after a judicial panel is assigned, each
+     member of the panel SHALL publish an appeals opinion indicating
+     a valid and appropriate judgement to assign to the case  only
+     the first such published opinion for each member is used to
+     determine the outcome.  Each member SHOULD include arguments for
+     eir choice of judgement. If, immediately after either all members
+     have so published or the time limit for so publishing has ended,
+     a majority of the members have opined for the same judgement, the
+     panel acts to deliver the judgement in question.  If the time
+     period ends with no majority judgement, the panel acts to deliver
+     a judgement of REMAND.  If the panel publishes a valid judgement
+     via another mechanism specified in the Rules, the requirement for
+     individual members to publish individual opinions is waived.

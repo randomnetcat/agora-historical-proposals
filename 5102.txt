@@ -1,0 +1,16 @@
+ID: 5102
+Title: determinism
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 1023 by deleting the item that defines "random" and then
+changing the letters in all the top-level item labels to form a
+consecutive sequence from "a".
+
+[The definition given for "random" doesn't address the difficult
+aspects of randomness, where a definition would be useful, and on the
+easy aspects it says very little.  As we've abolished all the uses of
+randomness in the ruleset, it doesn't seem worth fixing the
+definition, so might as well just repeal it.  We can bring in a proper
+definition if we later find some use for randomness.]

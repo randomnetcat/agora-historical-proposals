@@ -1,0 +1,10 @@
+ID: 5200
+Title: no indefinite deputisation notice
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2160 by replacing the text "at least two days earlier" with
+"between two and fourteen days earlier".
+
+[It's inconvenient to have to handle old deputisation notices.]

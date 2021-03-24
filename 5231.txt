@@ -1,0 +1,33 @@
+ID: 5231
+Title: No pointless dependent-action votes
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1728 (Dependent Actions) by replacing this text:
+
+      (b) The available options are SUPPORT and OBJECT.
+
+with this text:
+
+      (b) The available options are SUPPORT and OBJECT, subject to
+          further restriction based on the method of dependent action.
+
+Amend Rule 2124 (Methods of Dependent Actions) by replacing this text:
+
+      (a) With N Supporters.  For this method, the support index is N.
+          "With Support" is synonymous with "With 1 Supporter".
+
+      (b) Without N Objections.  For this method, the objection index
+          is N.  "Without Objection" is synonymous with "Without 1
+          Objection".
+
+with this text:
+
+      (a) With N Supporters.  For this method, the support index is N,
+          and the only available option is SUPPORT.  "With Support" is
+          synonymous with "With 1 Supporter".
+
+      (b) Without N Objections.  For this method, the objection index
+          is N, and the only available option is OBJECT.  "Without
+          Objection" is synonymous with "Without 1 Objection".

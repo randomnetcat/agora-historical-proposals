@@ -1,0 +1,11 @@
+ID: 4473
+Title: Fix PWIN
+Author: Peekee
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1990 "Points Contests" by replacing the text, "PWIN is the
+number of points required for a Player to achieve a win condition, as
+defined elsewhere in the Rules.  PPP (Points Per Player) is PWIN divided
+by twenty." with the text "PWIN is 100."

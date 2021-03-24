@@ -1,0 +1,22 @@
+ID: 6360
+Title: Holiday Clean-up
+Author: Quazie
+Co-authors: 
+Adoption index: 3.0
+
+Create a new, power=3, rule entitled "Official Holidays" with the
+following text:
+"
+The following are Agoran Holiday's as defined by R1769:
+
+(a) Winter Break -
+The period each year from midnight GMT on the morning of 24
+      December to the beginning of the first Agoran week to begin
+      after 2 January.
+"
+
+Remove the final Paragraph from R1769
+
+[I would also like to do an unofficial holiday's section.  This would
+include read-the-ruleset week and agora's birthday, though I feel like
+there would be great opposition to modifying the birthday rule]

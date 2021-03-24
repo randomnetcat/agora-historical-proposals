@@ -1,0 +1,7 @@
+ID: 6013
+Title: Repeal 'Dependent Actions'
+Author: Bayes
+Co-authors: 
+Adoption index: 3.0
+
+  Repeal Rule 1728 (Dependent Actions).

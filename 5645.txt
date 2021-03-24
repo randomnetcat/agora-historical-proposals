@@ -1,0 +1,15 @@
+ID: 5645
+Title: Plugging another loophole
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+      * UNIMPUGNED, appropriate if the alleged act was not proscribed
+        by the specified rule at the time it allegedly occurred
+
+with this text:
+
+      * UNIMPUGNED, appropriate if the alleged act would not have
+        violated the specified rule

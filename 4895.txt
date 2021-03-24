@@ -1,0 +1,17 @@
+ID: 4895
+Title: Once is funny, twice would just be annoying
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2024 (Linked Statements) by appending, after this text:
+
+       Linked CFJs are multiple Calls for Judgement that are submitted
+       in a single message and clearly labelled as Linked CFJs.
+
+this text:
+
+       When submitting Linked CFJs, the players (if any) barred by the
+       caller from judging the first CFJ are the only players e may bar
+       from judging any of the other CFJs.

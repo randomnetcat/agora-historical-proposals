@@ -1,0 +1,13 @@
+ID: 6665
+Title: s/if not/unless/
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by replacing section 2 with
+this text:
+
+        2) The eligible voters are the active first-class players,
+           unless there is an Emergency Session at the time the
+           decision is initiated, in which case the eligible voters
+           are the active Senators.

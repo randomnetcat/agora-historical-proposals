@@ -1,0 +1,7 @@
+ID: 5822
+Title: PBA Busting
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+Upon the adoption of this proposal the PBA contract is terminated.

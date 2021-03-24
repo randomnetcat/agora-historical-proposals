@@ -1,0 +1,14 @@
+ID: 5343
+Title: Clarify win by voting power
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2134 (Voting Limits are Limited) to read:
+
+      Upon a correct announcement that a single player's EVLOP is
+      greater than the combined EVLOP of all other players, that
+      player wins the game.
+
+[Clarify which measure of VLOP is used.  Also change >= to >, as an
+ordinary "I win the game" proposal would need >50% support to pass.]

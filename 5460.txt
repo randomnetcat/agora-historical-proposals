@@ -1,0 +1,14 @@
+ID: 5460
+Title: It's Alive!
+Author: avpx
+Co-authors: 
+Adoption index: 1
+
+Append the following to rule 2193 (modified from rule 693):
+      When the rules calls for an Agoran Monster to be made, the
+      Monster-making process takes place in the following three
+      stages, each described elsewhere:
+
+          (a) Initiation of the Monster.
+          (b) Voting of the people.
+          (c) Resolution of the Monster.

@@ -1,0 +1,21 @@
+ID: 6335
+Title: fix favoring bug
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Proposal: fix favoring bug (AI=2)
+
+Amend the paragraph of Rule 1868 by replacing:
+      A player CAN favor or disfavor a judicial case by announcement.
+      When assigning a judge to a judicial case, the CotC, if
+      possible, SHALL assign a player who has favored it and SHALL NOT
+      assign a player who has disfavored it.
+with:
+      A player CAN favor or disfavor a judicial case by announcement.
+      When assigning a judge to a judicial case, the CotC SHALL
+      assign a player who has favored it and SHALL NOT assign a player
+      who has disfavored it, as long as this is POSSIBLE and LEGAL.
+
+[If a poorly qualified player favors a case, the CotC would be
+required to assign em despite it being ILLEGAL to do so.]

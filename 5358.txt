@@ -1,0 +1,8 @@
+ID: 5358
+Title: 1 is 1
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2156 (Voting on Ordinary Proposals) by replacing each
+instance of "a parameter" with "an associated number".

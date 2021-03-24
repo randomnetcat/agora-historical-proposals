@@ -1,0 +1,10 @@
+ID: 5018
+Title: simplify legislative orders
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Repeal rule 1891.
+
+[Sections (a) and (b) are implicit in the definition of legislative
+orders in R1794.  Section (c) just seems pointless.]

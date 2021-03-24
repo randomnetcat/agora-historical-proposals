@@ -1,0 +1,19 @@
+ID: 5717
+Title: Resolve ambiguous executors
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2170 (Who Am I?) by inserting, between these sentences:
+
+      The Executor of a public message is the first-class person who
+      sends it, or who most directly and immediately causes it to be
+      sent.  The executor of an action performed by announcement is
+      the executor of the announcement.
+
+this text:
+
+      (Upon a judicial finding that the Executor of a public message
+      cannot otherwise be determined within reasonable effort, the
+      judge SHALL as soon as possible publish a judicial declaration
+      specifying the identity of that message's Executor.)

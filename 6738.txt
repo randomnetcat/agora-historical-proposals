@@ -1,0 +1,20 @@
+ID: 6738
+Title: Fix proposal amendment
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+PROPOSAL TEXT:
+If Proposal 6728 passed, amend Rule 106 by replacing:
+
+       A proposal is a fixed body of text which has been made into a
+       proposal using a process specifically described in the Rules.
+       When creating proposals, the person who creates them SHOULD
+
+with:
+
+       A proposal is a body of text which has been made into a proposal
+       using a process specifically described in the Rules.  Proposals
+       CANNOT be modified except as allowed by this rule.
+
+       When creating proposals, the person who creates them SHOULD

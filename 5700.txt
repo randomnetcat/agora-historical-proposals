@@ -1,0 +1,30 @@
+ID: 5700
+Title: Caste Distribution
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+[I think caste is too unstable at the moment. The primary cause of
+caste changes is monthly demotion. To correct this, I submit that
+Gamma and Delta should admit more members at once.]
+
+Amend Rule 2211 by replacing this text:
+        2) Demotions.  Each step is repeated as many times as needed.
+
+           b->c) While there are more than two Betas,
+                   flip a Beta's caste to Gamma
+           c->d) While there are more than three Gammas,
+                   flip a Gamma's caste to Delta
+           d->e) While there are more than four Deltas,
+                   flip a Delta's caste to Epsilon
+
+with this text:
+        2) Demotions.  Each step is repeated as many times as needed.
+           N is the number of active players.
+
+           b->c) While there are more than max(N/8+1,2) Betas,
+                   flip a Beta's caste to Gamma
+           c->d) While there are more than max(N/5+1,4) Gammas,
+                   flip a Gamma's caste to Delta
+           d->e) While there are more than max(N/3+1,8) Deltas,
+                   flip a Delta's caste to Epsilon

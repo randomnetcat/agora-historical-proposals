@@ -1,0 +1,12 @@
+ID: 5826
+Title: Minimum disclosure for equity cases
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2169 (Equity Cases) by appending this text:
+
+      If an announcement claiming to initiate an equity case regarding
+      a private contract would otherwise be invalid solely because the
+      contract does not exist or the initiator is not party to it, then
+      it is valid, but its judge SHALL assign it a null judgement.

@@ -1,0 +1,19 @@
+ID: 6017
+Title: Resurrect Rule 2140
+Author: Elysion
+Co-authors: 
+Adoption index: 3.0
+
+Create a rule entitled "Power Controls Mutability" with Power 3 reading as follows:
+
+     No entity with power below the power of this rule can
+
+     (a) cause an entity to have power greater than its own.
+
+     (b) adjust the power of an instrument with power greater than
+         its own.
+
+     (c) modify any other substantive aspect of an instrument with
+         power greater than its own.  A "substantive" aspect of
+         an instrument is any aspect that affects the instrument's
+         operation.

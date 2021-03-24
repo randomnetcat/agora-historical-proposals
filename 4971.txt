@@ -1,0 +1,37 @@
+ID: 4971
+Title: Delete, Delete, Delete!
+Author: Human Point Two
+Co-authors: 
+Adoption index: 1.1
+
+Upon the adoption of this proposal, Human Point Two wins the game.
+
+Upon the adoption of this proposal, the following players are
+deregistered:
+  Human Point Three
+  Human Point Four
+  Human Point Five
+  Human Point Six
+  Human Point Seven
+  Human Point Eight
+  Human Point Nine
+  Human Point Ten
+  Human Point Eleven
+  Human Point Twelve
+  Human Point Thirteen
+  Human Point Fourteen
+
+Amend Rule 1023 (Common Definitions) by appending this text:
+
+      (f) The term "person" shall mean "natural person or
+          partnership of natural persons".
+
+Create a rule titled "Limited Partnerships" with this text:
+
+      If a partnership contains exactly the same members as
+      another registered partnership, then it is prohibited
+      from registering.
+
+      If a registered partnership's membership changes such
+      that it contains exactly the same members as another
+      registered partnership, then it is deregistered.

@@ -1,0 +1,13 @@
+ID: 6709
+Title: The Chronicles of Agora
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+COMMENTS:
+Hopefully this will make it easier for new players to participate.
+
+PROPOSAL TEXT:
+Enact a new Rule with the following text:
+       The Chroniclor is an office; eir weekly report includes a concise
+       summary of all goings-on in Agora in the prior Agoran week.

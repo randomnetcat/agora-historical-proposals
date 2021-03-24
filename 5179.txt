@@ -1,0 +1,13 @@
+ID: 5179
+Title: contextual truthiness
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2149 by appending the paragraph
+
+      Merely quoting a statement does not constitute publishing it for
+      the purposes of this rule.  Any disclaimer, conditional clause,
+      or other qualifier attached to a statement constitutes part of
+      the statement for the purposes of this rule; the truth or
+      falsity of the whole is what is significant.

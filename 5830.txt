@@ -1,0 +1,26 @@
+ID: 5830
+Title: Spread democracy
+Author: Murphy
+Co-authors: comex
+Adoption index: 3.0
+
+comex is a co-author of this proposal.  [e protoed a more generous
+version of this in October 2007.]
+
+Amend Rule 1950 (Voting on Democratic Decisions) to read:
+
+      The eligible voters on a democratic decision are those entities
+      that, at the start of its voting period, were either
+
+        a) active first-class players, or
+
+        b) active partnerships with at least two first-class but
+             unregistered partners who are not partners of any other
+             active partnership.  The Notary SHOULD inform the Assessor
+             of partnerships gaining or losing this status.
+
+      The voting limit of each eligible voter on a democratic decision
+      is one.
+
+[Currently, no partnerships would qualify, though the PNP would have
+done so at various points in its history.]

@@ -1,0 +1,23 @@
+ID: 5007
+Title: generalise naturalhood
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Enact a Power=2 rule with title "Personhood" and text:
+
+      "First-class person" means a person of a biological nature.
+
+      "First-class player" means a player who is a first-class person.
+
+[Logically this rule should first define "person".  In the present
+form it leaves the meaning implicit, as it currently is.]
+
+Amend rule 1728 by replacing each instance of the words "players who
+are natural persons" with "first-class players".
+
+Amend rule 1950 by replacing the text "natural person" with
+"first-class person".
+
+Amend rule 869 by replacing the text "never been a natural person"
+with "never been a first-class person".

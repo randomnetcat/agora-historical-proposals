@@ -1,0 +1,10 @@
+ID: 6600
+Title: Oh Mee Oh My
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new Power-1 Rule reading as follows:
+     coppro CAN, by announcement, cause this Rule to make any Rule
+     Change, provided e has put it up for at least 4 days public
+     review first.

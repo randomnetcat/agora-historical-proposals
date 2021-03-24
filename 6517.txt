@@ -1,0 +1,11 @@
+ID: 6517
+Title: Fix Audits
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2262 ("The Deck of Justice") replace the entire effect of the card
+"Penalty Box" with:
+{{
+Specify an entity. That entity is audited.
+}}

@@ -1,0 +1,15 @@
+ID: 5081
+Title: renumeration II.0
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 1023 by deleting the item that defines "number" and then
+changing the letters in all the top-level item labels to form a
+consecutive sequence from "a".
+
+[With scores now restricted to integers, each instance of "number" in
+the ruleset either is discussing a value that is inherently a natural
+number or is explicitly qualified as "rational" or some other subset
+of the real numbers.  The default restriction of the meaning of
+"number" rarely had any effect, and is now definitively dead wood.]

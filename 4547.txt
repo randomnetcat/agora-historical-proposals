@@ -1,0 +1,43 @@
+ID: 4547
+Title: Liven Up Team Names
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+[ This change would allow the Scorekeepor to rename Teams after a Win. ]
+
+Alter Rule 2042, "Team Wins", to read:
+
+      A Team achieves a Team Win when its Team Score reaches reaches
+      the Team Points Goal, as set in the Scorekeepor's Budget.
+
+      The Scorekeepor shall make a public announcement of the Team Win
+      as soon as possible after the Team Win is achieved.  In the
+      announcement the Scorekeepor shall award the Boon of Teamwork to
+      each Player in the winning Team.
+
+      Later in the same announcement the Scorekeepor shall reassign
+      the grouping of Players into Teams as follows;
+
+      1) The Player with the highest Score in the Team with the
+         highest Team Score is assigned to the Team with the lowest
+         Team Score.
+
+      2) The Player who has the lowest Score in the Team with the
+         lowest Team Score is assigned as to distribute the players as
+         evenly as possible among the Teams.
+
+      3) All other Players remain assigned to the same Teams.
+
+      If in any of the above there is a choice of more than one Player
+      or Team, the Scorekeepor shall choose between the applicable
+      Players or Teams as e sees fit. The Scorekeepor shall include
+      the details of the reassignments in eir announcement.
+
+      The Scorekeepor may rename any Team in this announcement, if e
+      chooses to do so.  That Team shall be known by its new name
+      henceforth.
+
+      Upon the Scorekeepor's announcement, all Players' Scores and all
+      Teams' Scores are set to zero.

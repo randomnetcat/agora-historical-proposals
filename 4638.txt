@@ -1,0 +1,29 @@
+ID: 4638
+Title: Penalties for Stock Cards
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 1932 (Shareholders and the Corporation) by replacing the text
+reading:
+
+    * Caption: One Share
+      Elements: Budgeted, Shares [1]
+
+    * Caption: Two Shares
+      Elements: Budgeted, Shares [2]
+
+    * Caption: Three Shares
+      Elements: Budgeted, Shares [3]
+
+with the text:
+
+    * Caption: One Share
+      Elements: Budgeted, Shares [1], Handed [2]
+
+    * Caption: Two Shares
+      Elements: Budgeted, Shares [2], Handed [3]
+
+    * Caption: Three Shares
+      Elements: Budgeted, Shares [3], Handed [4]

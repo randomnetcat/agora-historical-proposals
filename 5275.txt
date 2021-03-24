@@ -1,0 +1,44 @@
+ID: 5275
+Title: Clarify ratification
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1551 (Ratification) to read:
+
+      A public document is part (possibly all) of a public message.
+
+      An official document is a public document purported to be part
+      (possibly all) of an official report; this part is the document's
+      scope.  Any player CAN, without objection, ratify an official
+      document, specifying its scope.  The date of this ratification
+      and the scope of the ratified document become part of the
+      official report in question, until the same scope is ratified at
+      a later date.
+
+      Any public document defined by the rules as self-ratifying is
+      ratified one week after its publication, unless explicitly
+      challenged during that period.
+
+      When a public document is ratified, the gamestate is modified so
+      that the ratified document was completely true and accurate at the
+      time it was published.  Nevertheless, the ratification of a public
+      document does not invalidate, reverse, alter, or cancel any
+      messages or actions, even if they were unrecorded or overlooked,
+      or change the legality of any attempted action.
+
+Amend Rule 2034 (Vote Protection and Cutoff for Challenges) to read:
+
+      Any proposal that would otherwise change the validity of any
+      existing vote on any specific unresolved Agoran decision is wholly
+      without effect, rules to the contrary notwithstanding.  This does
+      not prevent amendment of the rules governing the validity of votes
+      on Agoran decisions in general.
+
+      Once an Agoran decision has been resolved, votes on it CANNOT be
+      validly submitted or retracted, and its outcome CANNOT be changed
+      in any way, rules to the contrary notwithstanding.  This does not
+      prevent correcting errors in reporting its resolution.
+
+      A public document purporting to resolve an Agoran decision is
+      self-ratifying.

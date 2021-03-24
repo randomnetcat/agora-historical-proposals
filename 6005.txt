@@ -1,0 +1,52 @@
+ID: 6005
+Title: Contract precedence
+Author: Murphy
+Co-authors: woggle
+Adoption index: 2.0
+
+woggle is a co-author of this proposal.
+
+Create a new rule titled "Precedence of Contracts" with Power 2 and
+this text:
+
+     In a conflict between a rule and a contract, or between two
+     contracts:
+
+       a) If the conflict pertains to obligation or prohibition, then
+          neither entity takes precedence; it is up to the party to
+          avoid such conflicts.  If the conflict pertains to existence
+          or possibility, then the following clauses apply.
+
+       b) In a conflict between a rule and a contract, the rule takes
+          precedence.
+
+       c) In a conflict between a public contract and a private
+          contract, the public contract takes precedence.
+
+       d) In a conflict between two public contracts, the one that has
+          been public longer takes precedence.
+
+       e) In a conflict between two private contracts, the older one
+          takes precedence.
+
+Amend Rule 1586 (Definition and Continuity of Entities) by replacing
+this text:
+
+     If multiple rules or contracts (hereafter documents) attempt to
+     define an entity with the same name, then they refer to the same
+     entity.  A document-defined entity's name CANNOT be changed to
+     be the same as another document-defined entity.
+
+with this text:
+
+     If multiple rules and/or contracts (hereafter documents) attempt
+     to define an entity with the same name, then only one succeeds in
+     doing so; this constitutes a conflict, which is resolved according
+     to precedence.  Rules to the contrary notwithstanding, the name of
+     a document-defined entity CANNOT be changed to be the same as that
+     of another document-defined entity, and a contract CANNOT be
+     amended to define an entity already defined by a different public
+     contract.
+
+     If multiple documents attempt to refer to an entity with the same
+     name, then they refer to the same entity.

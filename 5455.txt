@@ -1,0 +1,26 @@
+ID: 5455
+Title: Refactor initiation requirements
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+      (e) Any additional information required by the rules for this
+          announcement.
+
+with this text:
+
+      (e) Any additional information defined by the rules as
+          essential parameters.
+
+Amend Rule 2196 (Standard Classes of Agoran Decisions) by replacing
+this text:
+
+      If an Agoran decision has an adoption index, the message by
+      which it is initiated MUST include the following information:
+
+with this text:
+
+      If an Agoran decision has an adoption index, then the following
+      are essential parameters:

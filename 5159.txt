@@ -1,0 +1,9 @@
+ID: 5159
+Title: voluntary reduction of VVLOP
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2156 by adding the following paragraph to the end:
+      Any player may by announcement decrease eir VVLOP by a positive
+      integer not more than eir current VVLOP (i.e., down to zero).

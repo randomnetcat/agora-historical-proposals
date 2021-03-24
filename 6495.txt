@@ -1,0 +1,10 @@
+ID: 6495
+Title: FIXME
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Ratify the following document:
+{
+Proposal 6448 did not take effect.
+}

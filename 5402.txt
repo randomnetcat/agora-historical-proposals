@@ -1,0 +1,9 @@
+ID: 5402
+Title: <none>
+Author: pikhq
+Co-authors: 
+Adoption index: 2
+
+The VLOPs and all currency holdings of any partnerships that were deregistered
+due to not being a person that are now a person are reset to what they were
+when they were deregistered.

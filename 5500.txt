@@ -1,0 +1,13 @@
+ID: 5500
+Title: Don't require a no-op
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 (The Standing Court) by replacing this text:
+
+      When the CotC recuses a player with cause,
+
+with this text:
+
+      When the CotC recuses a non-supine player with cause,

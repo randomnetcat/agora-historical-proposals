@@ -1,0 +1,17 @@
+ID: 5601
+Title: When Am I?
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Create a rule titled "When Am I?" with this text:
+
+      A public message's claim to have been published as of the
+      time in its Date: header is self-ratifying, unless a challenge
+      of falsified Date: header pertaining to the publisher has been
+      issued within one month before its publication.
+
+      A message's Date: header SHOULD only be challenged if it is
+      sufficiently inaccurate to have non-trivial legal significance,
+      and the challenger SHOULD clearly identify which date-stamp e
+      believes is most accurate.

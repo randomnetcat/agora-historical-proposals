@@ -1,0 +1,64 @@
+ID: 4494
+Title: Team Scores
+Author: Peekee
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: "Team Scores"
+
+[Changed scoring clause (c), to Steve's Suggestion.]
+
+Amend Rule 2041 "Teams" to read as follows,
+
+All Players are grouped into units known as Teams.  No Player may belong
+to more than one Team at any time.
+
+Each Team shall have a Team Name by which it is known.  A Player in a
+Team may change that Team's Team Name with the Support of two other
+Players in the same Team.
+
+
+Create a rule titled "Team Points, Team Scores" to read as follows,
+
+A Team Score is at all times an integer.  The Team Score of a Team is
+the total sum of all Points of all Players grouped into that Team, plus
+the Team's Team Points.
+
+A Team who has not been Awarded or Penalized since the last Team Win has
+zero Team Points.
+
+The Rules may specify that certain events may cause a certain Team to be
+Awarded or Penalised Team Points. If said event occurs, then any Player
+may notify the Scorekeepor of the Award or Penalty. The Scorekeepor
+shall then note the change in the affected Team Points.
+
+Such a notification must meet the following requirements, else it is
+ineffective:
+-- It must be sent within 7 days of the event
+-- It must unambiguously describe the event
+-- It must indicate the Rule allowing the Award or Penalty
+-- It must be the first valid notification for that specific event
+
+
+Create a rule titled "Team Scoring" to read as follows,
+
+(a) If all the Players on a Team Vote on a Democratic Proposal, the Team
+may be Awarded 10 Team Points.
+(b) If none of the Players on a Team Vote on a Democratic Proposal, the
+Team may be Penalised 20 Team Points.
+(c) If all the players on a Team vote FOR a Democratic Proposal and none
+of them vote AGAINST it, or all the players on a Team vote AGAINST a
+Democratic Proposal and none of them vote FOR it, the Team may be
+awarded 10 Team points. (d) If all the Players on a Team Vote in an
+Election, the Team may be Awarded 10 Team Points.
+(e) If none of the Players on a Team Vote in an Election, the Team may
+be Penalised 20 Team Points.
+(f) If all the Players on a Team Vote for the same Candidate in an
+Election, the Team may be awarded 10 Team Points.
+(g) If a Revolt succeeds, and every Player on a Team is Rebellious, the
+Team may be Awarded 30 Points.
+(h) If a Revolt fails, and every Player on a Team is Rebellious, the
+Team may be Penalised 30 Points.
+(i) Once in each Agoran week if all the Players on a Team are
+Immaculate, the Team may be Awarded 5 Team Points.

@@ -1,0 +1,33 @@
+ID: 5669
+Title: Opinion in both directions
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 by replacing this text:
+
+      * REMAND, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement but the judge believes
+        that the judge of the prior case can make a better judgement
+        if given a new opportunity; the prior question is rendered
+        open again
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement; the judge of the prior
+        case (if any) is recused, and the prior question is rendered
+        open again
+
+with this text:
+
+      * REMAND, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement; the prior question
+        is rendered open again; this judgement SHOULD be assigned
+        if the judge believes that the judge of the prior case will
+        make a better judgement if given a new opportunity
+
+      * REASSIGN, appropriate if there is serious doubt about the
+        appropriateness of the prior judgement; the judge of the prior
+        case (if any) is recused, and the prior question is rendered
+        open again; this judgement SHOULD be assigned if the judge
+        believes that the judge of the prior case will not make a
+        better judgement if given a new opportunity

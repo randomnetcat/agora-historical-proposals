@@ -1,0 +1,60 @@
+ID: 6448
+Title: Hand Limit Remodel v3
+Author: BobTHJ
+Co-authors: 
+Adoption index: 3.0
+
+Append to the numbered list in R1728 ("Dependent Actions"), bullet item a):
+{{
+4) With Notice.
+}}
+and replace:
+{{
+(if the action depends on objections)
+}}
+with:
+{{
+(if the action depends on objections or notice)
+}}
+
+Append to the numbered list in R2124 ("Agoran Satisfaction"):
+{{
+(4) The action to be performed is With Notice.
+}}
+
+Replace the text of R2259 with:
+{{
+Every entity has an integer Hand Limit (default 7 for first-class
+players, 3 for contests, 0 for all others). Changes to Hand Limit are
+secured. If an entity's Hand Limit would be set to a number less than
+0, it is instead set to 0. The Accountor's report includes a list of
+all entities whose Hand Limit is set to a non-default value.
+
+Any entity CAN audit itself by announcement. When an active player is
+audited that player gains one Rest for each rule-defined card e owns
+in excess of eir hand limit (minimum 0). When any other entity is
+audited X random cards that entity owns are destroyed, where X equals
+the number of card that entity owns minus eir hand limit (minimum 0)..
+}}
+
+Append to the list of cards in R2261 ("The Deck of Change"):
+{{
+Supersize Me - Specify an entity. That entity's Hand Limit is increased by 1.
+
+Shrink Potion - Specify an entity. That entity's Hand Limit is
+decreased by 10% (rounded up).
+}}
+
+Append to the list of cards in R2262 ("The Deck of Justice"):
+{{
+Penalty Box - Specify an entity. When you play this card you CAN audit
+that entity With Notice (you must have previously declared intent as
+per other rules), so long as you do so in the same message as playing
+this card and that entity has not been audited since you declared
+intent.
+}}
+
+Upon the adoption of this proposal set the Frequency of cards as follows:
+Supersize Me - 30
+Shrink Potion - 10
+Penalty Box - 5

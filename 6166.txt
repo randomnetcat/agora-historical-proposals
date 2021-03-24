@@ -1,0 +1,19 @@
+ID: 6166
+Title: Periodic ruleset ratification
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Ratify the message published to agora-official most recently before
+this proposal was submitted which
+ (a) is titled "Short Logical Ruleset",
+ (b) starts with "THE SHORT LOGICAL RULESET", and
+ (c) ends with "END OF THE SHORT LOGICAL RULESET";
+
+however, where a rule includes a note stating that its text might be
+different due to a scam, the entire text of the rule is considered
+unclearly identified and is specifically excluded from ratification.
+[In accordance with the policy I posted recently, there are four such
+notes; they start with '[!'.]
+
+[Ratifying the ruleset without objection has been impossible since P6048.]

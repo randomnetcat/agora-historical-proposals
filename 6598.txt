@@ -1,0 +1,21 @@
+ID: 6598
+Title: Coup Fix
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2269 (Couple Coups) by replacing
+     When the Admiral of the Navy begins a coup, the coup is a coup
+     d'etat if it has been at least two months since the Speaker last
+     Formed the Government and since the last coup d'etat ended and
+     if the Admiral of the Navy is not the Speaker, a coup de grace
+     if there is an ongoing coup d'etat and e did not already begin a
+     coup de grace in the same week, and a chicken coup otherwise.
+with
+     When the Admiral of the Navy begins a coup, the coup is a coup
+     d'etat if it has been at least two months since a player last
+     Formed the Government (if ever) and since the last coup d'etat
+     ended (if there was one) and if the Admiral of the Navy is not the
+     Speaker, a coup de grace if there is an ongoing coup d'etat and e
+     did not already begin a coup de grace in the same week, and a
+     chicken coup otherwise.

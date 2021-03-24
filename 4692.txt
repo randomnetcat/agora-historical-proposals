@@ -1,0 +1,21 @@
+ID: 4692
+Title: Raffles, Again
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Create a new rule titled "The New Raffle", reading:
+
+      The following class of cards is defined:
+
+      * Caption: Raffle Ticket
+        Elements: Grafty
+
+      As soon as possible after the 13th day of the third month of
+      each quarter, the Deckmastor shall randomly select a copy of a
+      Raffle Ticket in the possession of a Player and announce eir
+      selection, unless no such copy exists.  Upon this announcement,
+      the Player in possession gains three instances of the ephemeral
+      Patent Title "Fortune's Fool", and each Raffle Ticket in the
+      possession of a Player is automatically discarded.

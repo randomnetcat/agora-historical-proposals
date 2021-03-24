@@ -1,0 +1,9 @@
+ID: 6173
+Title: Real Officers
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Make any office currently held by a second-class person vacant.
+
+Amend rule 1006 (Offices) by replacing "player" with "first-class player".

@@ -1,0 +1,21 @@
+ID: 4685
+Title: Slight addenda to two rules
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: "Slight addenda to two rules" (AI=2) 
+
+Murphy is a co-author on this proposal
+
+Append the following to rule 2040:
+
+      Whenever a state ceases to be a state of a switch, all entities
+      in the class that had previously been in that state shall be
+      flipped to the default state of the switch.
+
+Append the following to rule 1950
+
+      Other rules with Power of at least 2 may modify a player's Voting 
+      Power.

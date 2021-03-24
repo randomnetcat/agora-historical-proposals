@@ -1,0 +1,19 @@
+ID: 5395
+Title: Pledges
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Create a rule titled "Pledges" with Power 1.5 and this text:
+
+      A pledge is a contract identifying itself as such.  The
+      minimum number of parties for a pledge is one.
+
+      A pledge CAN be modified or terminated by any party without
+      objection.
+
+      An equity case regarding a pledge CAN be initiated by a
+      non-party, provided that all other requirements for initiating
+      an equity case are met.  The initiator of such a case is
+      considered to be a party to the pledge for the purpose of
+      that case.

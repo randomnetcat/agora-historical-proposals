@@ -1,0 +1,63 @@
+ID: 4591
+Title: Team Shuffling
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Team Shuffling
+
+Amend Rule 2042 (Team Wins) by replacing this text, if the Proposal
+"Fix Team Wins" was not adopted:
+
+      1) The Player with the highest Score in the Team with the
+         highest Team Score is assigned to the Team with the lowest
+         Team Score.
+ 
+      2) The Player who has the lowest Score in the Team with the
+         lowest Team Score is assigned as to distribute the players as
+         evenly as possible among the Teams.
+                                                                                
+      3) All other Players remain assigned to the same Teams.
+
+or this text, if it was adopted:
+
+          a) The Winner who had the highest Score at the time of the
+             Team Win shall be reassigned to the Team that had the
+             lowest Team Score at the time of the Team Win.
+
+          b) The Good Try'er who had the lowest Score at the time of
+             the Team Win shall be reassigned so as to distribute the
+             Players as evenly as possible among the Teams.
+
+          c) All other Players remain assigned to the same Teams.
+
+with this text:
+
+      1) For each Team with a positive Team Score, each Player on that
+         Team gain Points equal to the Team Score divided by the number of
+         Players on the Team.  For each Team with a negative Team Score,
+         each Player on that Team loses Points equal to the absolute value
+         of the Team Score divided by the number of Players on the Team.
+
+      2) All Players cease to be assigned to a Team, and all Team Scores
+         are set to zero.
+
+      3) While there is at least one unassigned Player with a positive
+         Score, the one with the highest Score is assigned to the Team
+         with the lowest combined Player Score.
+
+      4) While there is at least one unassigned Player with a negative
+         Score, the one with the lowest Score (i.e. Score with highest
+         absolute value) is assigned to the Team with the highest combined
+         Player Score.
+
+      5) While there is at least one unassigned Player, one of em is
+         assigned to the Team with the least number of Players.
+
+and, if the Proposal "Fix Team Wins" was adopted, then remove this text:
+
+        For the purpose of this Rule, "Winners" refers to Players who
+        belonged to the winning Team at the time of the Team Win, and
+        "Good Try'ers" refers to Players who belonged to the Team with
+        the lowest Team Score at the time of the Team Win.

@@ -1,0 +1,123 @@
+ID: 4820
+Title: The Fortinbras Repeal v1.1
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Proposal: the Fortinbras Repeal v1.1
+(AI-2)
+
+v1.1
+Simplifies R2036 (1/3 less text) without loss of function.
+
+v1.0
+Same as 0.2, looks ok to me.
+
+v0.2
+Brings proposal up to date (maybe?) with current Ruleset.
+Also, simplifies language of R2036.  Net Rules change is
+only -1, so Repeal is now singular, but elimination of
+noisiness is still a procedural simplification.
+
+v0.1
+Noisiness and activity can be condensed.  While "inactive"
+has more ramifications than "quiet", this is compensated by
+finally protecting against quieting scams. Net change: -3 Rules.
+
+
+Amend Rule 1016 (Activity Levels) to read:
+
+      Activity is a stuck player switch with values active and
+      inactive.
+
+      "Off hold" and "on hold" are unambiguous synonyms for "active"
+      and "inactive", respectively.
+
+      A player may flip eir activity, unless e has done so within the
+      past week.
+
+      A player may, with Support and without 2 Objections, flip the
+      activity of another player to inactive, if that other player has
+      not made a public post in the last 30 days.  A player made
+      inactive by this method becomes active immediately upon eir next
+      public post.
+
+      Inactive players may not vote, make proposals, hold office, or
+      be a judge of a CFJ.  An inactive player may not be required by
+      the rules to perform any duty or action, unless the rules
+      explicitly state that they can require inactive players to
+      perform that duty or action.
+
+      This rule takes precedence over all other rules that regulate
+      activity, or the powers or duties that a player may have because
+      of eir activity.
+
+
+Amend Rule 2036 (The Silent Treatment) to read:
+
+      If a player (hereafter the Silent One) has been inactive
+      continuously for three months, then any player may publish a
+      Notice of Abandonment, identifying the silent one and alleging
+      that e has abandoned the game.
+
+      The publication of a Notice of Abandonment commences the Silent
+      Treatment for the silent one.  If at any time during the silent
+      treatment the silent one is not, or ceases to be, inactive, then
+      the treatment is terminated, and the Registrar is relieved of
+      all powers and responsibilities regarding it.
+
+      As soon as possible after the commencement of the silent
+      treatment, the Registrar shall publish in all designated Public
+      Fora, and send to each listed e-mail address of the silent one,
+      a Notice of Intent to Deregister, announcing the Registrar's
+      intent to deregister the silent one after one month has passed.
+
+      If the silent treatement has not terminated a month after the
+      publication of the Notice of Intent to Deregister, then the
+      Registrar shall, as soon as possible, publish in all designated
+      Public Fora, and send to each listed e-mail address of the
+      silent one, a Notice of Deregistration identifying the silent
+      one.  A Notice of Deregistration is valid if and only if it is
+      published by the Registrar, following the procedures described
+      in this Rule.
+
+      Upon publication of a valid Notice of Deregistration, the
+      following events occur in order:
+
+      (1) if the silent one is the Speaker, e ceases to be Speaker;
+
+      (2) the silent one is deregistered;
+
+      (3) the silent treatment for that player concludes.
+
+
+Amend Rule 559 (The Registrar) by replacing:
+
+         (v) each player's activity level, and the most recent date on
+             which that player's activity level changed;
+
+        (vi) each player's Noisy/Quiet/Silent status, and the most
+             recent date on which that player became Noisy, Quiet,
+             or Silent; and
+
+       (vii) the identity of the Distributor.
+
+with:
+
+         (v) each player's activity level, and the most recent date
+             and method by which that player's activity level changed;
+
+        (vi) the identity of the Distributor.
+
+
+Amend Rule 2107 (Contracts) by replacing the text 'becomes Silent'
+                                   with the text 'is deregistered'
+
+Amend Rule 698 (Always an Eligible Judge) by deleting all occurrences
+of the term 'non-silent' and then by deleting all occurrences of the
+term 'silent'.
+
+Repeal Rule 1042 (Deregistration Due to Silence).
+
+Delete the 'Loot the Dead' card definition from the Onepower cardbook.

@@ -1,0 +1,60 @@
+ID: 5667
+Title: Some players are more equal than others
+Author: BobTHJ
+Co-authors: Murphy
+Adoption index: 1.9
+
+If the proposal titled "Chambers II" fails this proposal has no effect.
+
+Create a new rule titled "Oligarchy" with Power=2 and the following text:
+{{
+There exists an Oligarch Chamber.
+
+Caste is a player switch, tracked by the Grand Poobah, with the
+following values and their numeric equivalents:
+
+       Alpha   - 8
+       Beta    - 5
+       Gamma   - 3
+       Delta   - 2
+       Epsilon - 1 (default for first-class players and provinces)
+       Savage  - 0 (default for all other players)
+
+     Changes to caste are secured.
+
+     The eligible voters on an oligarch decision are those entities
+     that were active players at the start of its voting period.  The
+     voting limit of an eligible voter on an oligarch decision is eir
+     caste at the start of its voting period, or half that (rounded
+     up) if the voter was in the chokey at that time.
+}}
+
+Create a rule titled "Grand Poobah" with Power=2 and the text:
+{{
+     The Grand Poobah is an office; its holder is responsible for
+     keeping track of castes.
+
+     At the beginning of each month, each Alpha's caste is flipped to
+     eir default value.  As soon as possible after the beginning of
+     each month, the Grand Poobah SHALL do the following, in order,
+     at each step choosing (if possible) a player who has not yet
+     been chosen during the current procedure:
+
+       1) Promotions.  At each step, the Grand Poobah SHALL choose a
+          player whose caste is as high as possible without equalling
+          or exceeding the new caste:
+
+          a) Flip a player's caste to Alpha
+          b) Flip a player's caste to Beta
+          c) Flip a player's caste to Gamma
+          d) Flip a player's caste to Delta
+
+       2) Demotions.  Each step is repeated as many times as needed.
+
+          b->c) While there are more than two Betas,
+                  flip a Beta's caste to Gamma
+          c->d) While there are more than three Gammas,
+                  flip a Gamma's caste to Delta
+          d->e) While there are more than four Deltas,
+                  flip a Delta's caste to Epsilon
+}}

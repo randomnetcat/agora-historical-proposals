@@ -1,0 +1,14 @@
+ID: 6140
+Title: reward contest activity
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2234 (Rewarding Contestmasters) by replacing:
+                         where N is the number of players who were
+     contestants of that contest at any time during that month.
+with:
+                         where N is either the number of players who
+     were contestants of that contest at any time during that month,
+     or the number of points awarded by that contest on that axis
+     during that month, whichever is less.

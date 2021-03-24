@@ -1,0 +1,16 @@
+ID: 6088
+Title: Unstable
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Reduce the power of rule 2217 to 1, and change its text to:
+{{{
+     Within a week (or month, if the office is low-priority) after an
+     elected office ceases to have (or is created without) an active
+     holder, or after an election for the office ends and the office
+     still lacks an active holder, the IADoP SHALL initiate an election
+     for that office.  This requirement is waived if the office comes
+     to have an active holder, or if another player initiates an
+     election for the office.
+}}}

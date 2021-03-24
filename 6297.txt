@@ -1,0 +1,34 @@
+ID: 6297
+Title: Quick-and-dirty-fix 2
+Author: comex
+Co-authors: Goethe, comex
+Adoption index: 1.0
+
+Amend Rule 1551 (Ratification) to read: [added "rules to the contrary
+notwithstanding"]
+      A public document is part (possibly all) of a public message.
+
+      When a public document is ratified, rules to the contrary
+      notwithstanding, the gamestate is modified so that the ratified
+      document was completely true and accurate at the time it was
+      published.  Nevertheless, the ratification of a public document
+      does not invalidate, reverse, alter, or cancel any messages or
+      actions, even if they were unrecorded or overlooked, or change
+      the legality of any attempted action.
+
+      Ratifying a public document is secured.
+
+Change the power of Rule 1698 (Agora Is a Nomic) to 3.1.
+
+Ratify the following document: { Proposal 4942 did not take effect. }
+
+Amend Rule 1030 (Precedence between Rules with Equal Power) by
+appending the following paragraph:
+
+      Any claim of precedence in a rule, including a claim of
+      precedence over "all" or similarly broad classes of rules,
+      is considered to be a claim of precedence over rules with
+      equal power only, unless it explicitly, clearly, and
+      directly claims to stipulate a means of determining
+      precedence between rules of different (i.e. higher, lower,
+      or otherwise unequal) power.

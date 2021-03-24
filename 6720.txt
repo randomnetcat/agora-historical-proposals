@@ -1,0 +1,14 @@
+ID: 6720
+Title: Coauthor Reward
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+PROPOSAL TEXT:
+If Proposal 6710 was ADOPTED, amend the rule it enacted by replacing
+       Whenever a proposal is adopted, its author earns a number of
+       farads equal to its interest index.
+with
+       Whenever a proposal is adopted, its author earns a number of
+       farads equal to its interest index, and, if it was interested,
+       each of its coauthors earns one farad.

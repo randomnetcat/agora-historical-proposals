@@ -1,0 +1,19 @@
+ID: 5277
+Title: Secure judicial qualification
+Author: Murphy
+Co-authors: Zefram
+Adoption index: 2
+
+Zefram is a co-author of this proposal.
+
+Amend Rule 1868 (Judge Assignment Generally) by appending this text,
+if "Generalize Security" was adopted:
+
+      Making an entity unqualified or poorly qualified to judge is
+      secured, with a power threshold of 1.5.
+
+or this text, otherwise:
+
+      An entity CANNOT be made unqualified or poorly qualified to
+      judge except as allowed by an instrument with power greater
+      than or equal to 1.5.

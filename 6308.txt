@@ -1,0 +1,12 @@
+ID: 6308
+Title: Wrong officer
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2229, replace
+      The Herald's monthly report shall include a list of
+      all Fugitives and the number of Rests they possess.
+with
+      The Insulator's report shall include a list of all
+      Fugitives.

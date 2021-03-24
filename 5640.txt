@@ -1,0 +1,23 @@
+ID: 5640
+Title: Take it to Equity!
+Author: Goethe
+Co-authors: 
+Adoption index: 1.5
+
+Take it to Equity!
+
+[Equity first, then criminal].
+
+Amend Rule 1742 by appending the following paragraph:
+
+     As it is manifestly unjust to bring criminal punishment
+     into a manner of equity, if a player is found GUILTY of
+     violating this Rule by failing to act in accordance with
+     a contract, the only appropriate sentence is DISCHARGE,
+     unless said failure is with respect to a previously-
+     imposed Equity judgement.
+
+[GUILTY beyond reasonable doubt could still be a finding of
+fact, perhaps to be used in a later equity case, but you can't be
+punished for it via this mechanism, at least until the equity
+courts have had their say].

@@ -1,0 +1,20 @@
+ID: 6041
+Title: Allow contract-defined dependent actions
+Author: Murphy
+Co-authors: Warrigal
+Adoption index: 3.0
+
+Warrigal is a co-author of this proposal.
+
+Amend Rule 1728 (Dependent Actions) by appending this text:
+
+     A person CAN perform a dependent action authorized by a contract
+     as if that contract were a rule, provided that the above
+     requirements are otherwise met, and that the effects of that
+     action are restricted to altering entities and/or attributes
+     whose existence depends on that contract.
+
+Upon the adoption of this proposal, the gamestate becomes what it
+would have been if all dependent actions that failed, but would have
+succeeded if Rule 1728 had always had the above text appended to it,
+had instead succeeded.

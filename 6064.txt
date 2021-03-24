@@ -1,0 +1,11 @@
+ID: 6064
+Title: Adding to the Game
+Author: Wooble
+Co-authors: Goethe
+Adoption index: 2.0
+
+Goethe is a co-author of this proposal.
+
+In R2158, replace every instance of "SHALL" with "SHOULD".
+
+In R2143, replace every instance of "SHALL" with "SHOULD".

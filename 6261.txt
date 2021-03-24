@@ -1,0 +1,47 @@
+ID: 6261
+Title: An ambiguous proposal
+Author: Quazie
+Co-authors: Murphy
+Adoption index: 1.0
+
+Create a rule named "Schroedingor" with the following body:
+---
+Schroedingor is an office;  Its holder is responsible for the tracking
+of Cats.
+
+Schroedingor's weekly duties include the reporting of all Cats that
+have had  a change in Liveliness since the last report and all Cats
+and Kittens that currently have a Liveliness of Unknown.  It will also
+contain a description of each Cat and what each Cat depeneds on.
+---
+
+Create a rule named "Schroedingor's Cats" with the following body:
+---
+A Cat is a point of ambiguity in the current state of Agora.  Any
+player may indicate that a Cat exists.  A Cat must be a situation that
+either happened, or did not, but the current state of the Cat is not
+known at this time.
+
+Cats have a switch called Liveliness which may either be Dead, Mostly
+Dead, Unknown, Mostly Alive, or Alive, with a default of Unknown.  A
+Dead cat did not happen, an Alive cat did happen, and Unknown cat has
+not been looked at yet.
+
+Schroedingor CAN flip a Cat's Liveliness to any value without objection.
+
+Upon a judicial finding that a Cat occurred, Schrodingor SHALL ASAP
+flip its Liveliness to Mostly Alive.  Upon the expiration of all
+deadlines to appeal that finding, e SHALL ASAP flip the Cat's
+Liveliness to Alive.
+
+Upon a judicial finding that a Cat did not accour, Schrodingor SHALL
+ASAP flip its Liveliness to Mostly Dead.  Upon the expiration of all
+deadlines to appeal that finding, e SHALL ASAP flip the Cat's
+Liveliness to Dead.
+
+If a Cat's Liveliness is Unknown and an action has happened that
+depends on that Cat being Dead or Alive, a new Cat, henceforth known
+to as a Kitten is created.  Players SHOULD NOT create Kittens without
+explicitly stating that a Kitten is being created.  Once a Cat becomes
+Dead/Alive Schroedingor SHOULD resolve all Kittens dependent on that
+Cat to the best of eir ability.

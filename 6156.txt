@@ -1,0 +1,9 @@
+ID: 6156
+Title: Ambassador Anarchy v2
+Author: Yally
+Co-authors: Tiger
+Adoption index: 1.0
+
+Repeal rule 2148 (The Ambassador).
+
+[This is a repaired version of Tiger's Proposal 6137]

@@ -1,0 +1,8 @@
+ID: 4981
+Title: no free dependent actions
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 1728 by replacing each instance of "N players" with "N players
+who are natural persons".

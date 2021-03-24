@@ -1,0 +1,13 @@
+ID: 6488
+Title: Fix audits
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2259 (Hand Limits) by appending this text:
+
+      As soon as possible after the beginning of each month, each dealer
+      of a basic deck SHALL by announcement audit each entity who owns
+      at least as many cards from that basic deck as any other entity.
+
+[This was removed between the first and second drafts of Proposal 6448.]

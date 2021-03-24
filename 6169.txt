@@ -1,0 +1,15 @@
+ID: 6169
+Title: Mutant Anarchy
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Change the name of rule 2216 to {The Repeal-O-Matic and the Mutant} and amend it by adding a new bullet with the following text:
+{{
+        c) For one or two of these Rules, excluding ones chosen for step
+           b), submit a proposal to change the Rule's power by
+           increasing or decreasing it by a maximum of 1. The proposal
+           cannot propose to reduce a Rule's power to 0. The proposal
+           shall have Adoption Index equal to the greater of the Rule's
+           current power and its proposed power, and Interest Index 0.
+}}

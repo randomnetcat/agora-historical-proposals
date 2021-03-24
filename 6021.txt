@@ -1,0 +1,15 @@
+ID: 6021
+Title: Definition of definitions
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 754 (Definition Definitions) by appending this text to
+section (2):
+
+         The following clauses, where X and Y are both nouns or
+         noun phrases, SHOULD be interpreted as "X is/are defined
+         as Y":
+
+           a) "X is/are Y"
+           b) "Y is/are known as X"

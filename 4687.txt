@@ -1,0 +1,18 @@
+ID: 4687
+Title: Two for the price of one V.2
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Manu is a co author on this proposal.
+
+Append the following to Rule 2067
+
+     * Caption: Two for One
+       Elements: Budgeted
+       Exploit: For a fee of one Kudo make 2 undistributable proposals,
+                     provided that each has a Distribution Cost of 1,
+distributable.
+
+Budget - 8

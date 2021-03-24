@@ -1,0 +1,11 @@
+ID: 5122
+Title: ambassador to advertise
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Retitle rule 2135 to "Advertising", and amend it by replacing each
+instance of the word "Herald" with "ambassador".
+
+[Now that we have an ambassador, advertising seems more like eir thing
+than the herald's.]

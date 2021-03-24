@@ -1,0 +1,25 @@
+ID: 5670
+Title: But what is truth?
+Author: Murphy
+Co-authors: Zefram, Michael
+Adoption index: 2
+
+Zefram and Michael are co-authors of this proposal.  Goethe is a
+co-author of this proposal if and only if e publically accepts it
+during its voting period.
+
+Change the power of Rule 2149 (Truthfulness) to 2, and amend it to read:
+
+      A person SHALL NOT make a public statement on a matter relevant
+      to the rules that is intended to mislead others as to its truth
+      (or, in the case of a public statement that one performs an
+      action, its effectiveness).
+
+      For the purpose of this rule:
+
+        a) Merely quoting a statement does not constitute making
+           that statement.
+
+        b) Any conditional clause or other qualifier attached to a
+           statement constitutes part of the statement; the nature of
+           the whole is what is significant.

@@ -1,0 +1,75 @@
+ID: 5077
+Title: MMI in practice
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1586 (Definition and Continuity of Entities) to read:
+
+      Two Rule-defined entities CANNOT have the same name or
+      nickname.
+
+      If the Rules defining an entity are repealed or amended
+      such that they no longer define that entity, then that
+      entity and its properties cease to exist.
+
+      If the Rules defining an entity are amended such that they
+      still define that entity but with different properties,
+      then that entity and its properties continue to exist to
+      whatever extent is possible under the new definitions.
+
+[Would-be violations of the first paragraph are presumably treated
+as rule conflicts, and resolved accordingly.]
+
+Amend Rule 1023 (Common Definitions) by replacing each instance of
+"shall mean" with "means".
+
+Amend Rule 1769 (Holidays) by replacing this text:
+
+      During a Holiday, no Proposal may be distributed by the
+      Promotor, nor may any Call for Judgement, Judgement, notice of
+      Appeal, Decision of Appeals Boards, or Opinion be published by
+      the Clerk of the Courts; however, if any of the above do take
+      place during the Holiday in violation of this Rule, this Rule
+      does not deprive them of their usual effects.
+
+with this text:
+
+      During a Holiday, the Promotor SHALL NOT distribute any
+      proposals, and the Clerk of the Courts SHALL NOT publish any
+      Call for Judgement, Judgement, notice of Appeal, Decision of
+      Appeals Boards, or Opinion.
+
+Amend Rule 1607 (The Promotor) to read:
+
+      The Promotor is an office; its holder is responsible for
+      receiving and distributing proposals.
+
+      The Promotor MAY distribute a proposal in the Proposal Pool at
+      any time.  During each week, the Promotor SHALL distribute each
+      proposal that has been in the Proposal Pool since the beginning
+      of that week.
+
+      The Promotor distributes a proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is distributed,
+      it is removed from the Proposal Pool.  The distribution of a
+      proposal initiates the Agoran decision of whether to adopt the
+      proposal, as described elsewhere.
+
+      When distributing a proposal, the Promotor SHALL specify the
+      following:
+
+        a) Its author (and co-authors, if any).
+        b) Its adoption index.
+        c) Whether it is ordinary or democratic.
+        d) Whether it is interested or disinterested.
+
+Amend Rule 1810 (Satisfying Orders) by replacing this text:
+
+      Willfully performing contrary to valid orders, either through
+      action or inaction, is a violation of this Rule.
+
+with this text:
+
+      A player SHALL NOT willfully perform contrary to a valid
+      unsatisfied order, either through action or inaction.

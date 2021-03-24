@@ -1,0 +1,19 @@
+ID: 5557
+Title: Monster Changes
+Author: ais523
+Co-authors: 
+Adoption index: 1.5
+
+Append the following to rule 2193:
+{{{
+A Monster Change can be one or more of any of the following:
+
+(a) a person who intends to be bound by a Monster becoming a
+party to the Monster;
+
+(b) a person ceasing to be a party to the Monster;
+
+(c) amending a Monster; and
+
+(d) terminating a Monster
+}}}

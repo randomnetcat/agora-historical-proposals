@@ -1,0 +1,28 @@
+ID: 4599
+Title: Fix Chamber-Changing
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2021 (Chamber Procedure) by changing it to read:
+
+      (a) The Chamber Fee for a Proposal is a Fee for changing the
+          Chamber of a Proposal.  For any given Proposal, the Chamber
+          Fee is initially 1.  When a Proposal's Chamber is changed
+          via this Rule, the Chamber Fee for the Proposal is doubled.
+
+      (b) An Untainted Speaker, with 2 Supporters, may Sanitise a
+          Distributed Proposal that is not already Sane and for which
+          the Voting Period has not ended. If the Speaker Sanitises a
+          Proposal, the Proposal is Aborted as described elsewhere;
+          the Proposal remains Distributable, but becomes Democratic
+          and Sane.
+
+
+Amend Rule 1933 (A Proposal's Chamber) by appending the text:
+
+      Whenever a Proposal's Chamber is changed while the Proposal is
+      in its Voting Period, it is Aborted as described elsewhere and
+      returned to the Proposal Pool with its Distributability and
+      other characteristics intact.

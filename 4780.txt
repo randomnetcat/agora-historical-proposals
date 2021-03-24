@@ -1,0 +1,9 @@
+ID: 4780
+Title: Fix Mute Grammar
+Author: Maud
+Co-authors: 
+Adoption index: 1
+
+
+Amend rule 2085 by replacing the text "may have awarded" with the text
+"may have been awarded".

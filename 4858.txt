@@ -1,0 +1,79 @@
+ID: 4858
+Title: Streamlined hand reductions
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Streamlined hand reductions
+
+[Takes out requirements that draws be satisfied before reduction
+announced, and also the restriction against drawing.  Also lengthens
+time between reductions but allows deckmastor to deal with shortages].
+
+Amend Rule 2083 (Hand Reductions) to read:
+
+      The Rules may declare that a nonsite Gambler's hand is subject
+      to a Hand Reduction.  A particular hand reduction must have a
+      maximum hand size associated with it; if none is defined, the
+      Maximum Hand Size in the Deckmastor's budget is used.
+
+      As soon as possible after a requirement for a reduction arises,
+      the Deckmastor shall:
+
+        (i) Announce the pending hand reduction;
+
+       (ii) Wait at least four days after the announcement;
+
+      (iii) Discard cards at random from that Gambler's hand until eir
+            hand size is equal to or less than maximum associated with
+            the reduction.
+
+       (iv) If a gambler loses no cards during a reduction, and has
+            neither played nor transferred a card since the last
+            reduction, the Deckmastor shall discard one card at random
+            from the gambler's hand (if it has any cards).
+
+      If a dispute on the gambler's hand size or pending draws is
+      raised and not resolved prior to (iii), above, the Deckmastor
+      shall not perform (iii) for that hand until the dispute is
+      resolved.  If no dispute is raised prior to (iii) being
+      performed, then the reduction shall stand regardless of
+      subsequent disputes.  However, a Judge in such a dispute may
+      Order the Deckmastor to perform further card transfers to
+      resolve such disputes.
+
+      If the Deckmastor knowingly reduces a hand incorrectly, e
+      commits the Class 4 Crime of Card Thievery.
+
+      If more than one hand reduction is pending for the same hand,
+      then the Deckmastor need only perform the reduction for the
+      reduction with the lowest associated maximum; this shall satisfy
+      all pending reductions.
+
+      At the beginning of each Quarter, every Player's hand becomes
+      subject to a hand reduction to the maximum hand size in the
+      Deckmastor's Budget plus the number of Offices (including the
+      Speakership) that e holds.  If at any time there are more
+      unsatisfied pending draws then cards in the Deck and Discard
+      Pile put together, the Deckmastor may announce a Shortage, with
+      subjects every Player's hand to such a hand reduction.
+
+
+Add the following Card to the Onepower Cardbook:
+
+    * Caption:   I Fold
+      Frequency: Rare
+      Elements:  Asleep[30], Costly[3]
+      Exploit:   Reduce your hand size to N by discarding one or more
+                 cards.  Every Player becomes subject to a Hand
+                 Reduction to a maximum of N.
+
+
+The Quota for I Fold is hereby set to 2.
+
+
+Amend the Costly exploit in the Onepower cardbook to read:
+
+       * Costly [ Y a nonnegative integer]: There is a fee of Y to
+         play this card.

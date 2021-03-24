@@ -1,0 +1,19 @@
+ID: 4715
+Title: browsing shelf
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 2089 (Gardner Library) by replacing the
+text:
+
+  A Player (hereafter the Borrower) may check out a specified Card
+  from the Library by paying a Fee for the Library's upkeep.
+
+with:
+
+  A Player (hereafter the Borrower) may check out a specified Card
+  from the Library by paying a Fee for the Library's upkeep,
+  provided that card has been in the Library's possession for
+  24 hours or more.

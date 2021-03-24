@@ -1,0 +1,53 @@
+ID: 4684
+Title: More corporate cards
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Create a rule with power 2 titled "Corporate Cards", reading:
+
+      The following Elements for Cards are defined:
+
+      * Shares [X], where X is a positive integer. The Holder is
+        considered to possess X shares (cumulative with any other
+        Cards).
+
+      The following Classes of Cards are defined:
+
+      * Caption: One Share
+        Elements: Budgeted, Shares [1], Handed [2]
+
+      * Caption: Two Shares
+        Elements: Budgeted, Shares [2], Handed [3]
+
+      * Caption: Three Shares
+        Elements: Budgeted, Shares [3], Handed [4]
+
+      * Caption: Corporate Bankruptcy
+        Quota: 1
+        Elements: Limited [Shareholders] [3]
+        Exploit: For a fee of 3 kudos, all Stock Cards are returned
+          to the Deck.
+
+      * Caption: Share Split
+        Quota: 1
+        Exploit: You may double the quotas of all Budgeted Stock Cards.
+
+      * Caption: Merger
+        Quota: 1
+        Exploit: You may halve the quotas of all Budgeted Stock Cards.
+
+
+Amend Rule 1932 to read:
+
+      All cards with the Element "Shares [X]" are cumulatively known
+      as the Stock Cards.
+
+      An entity's Share Holdings is equal to the number of Shares
+      possessed. The Number of Shares is the sum of the Share Holdings
+      of all entities.
+
+      A Shareholder is an Eligible Shareholder with positive Share
+      Holdings. A Plebeian is a Player who is not a Shareholder. The
+      Corporation is the set of all Shareholders.

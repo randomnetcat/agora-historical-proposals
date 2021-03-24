@@ -1,0 +1,19 @@
+ID: 6489
+Title: Chaotic fix
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2161 (ID Numbers) by replacing this text:
+
+      (c) Each ID number is either orderly (default) or chaotic.  Upon
+          a judicial finding that the assignment of an ID number was
+          ILLEGAL, the ID number becomes chaotic.
+
+with this text:
+
+      (c) Each ID number is either orderly (default) or chaotic.  Upon
+          a judicial finding that an ID number is unreasonably large,
+          the ID number becomes chaotic.
+
+[What constitutes "unreasonably large" is left to judicial discretion.]

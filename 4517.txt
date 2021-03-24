@@ -1,0 +1,33 @@
+ID: 4517
+Title: Generalize Ratification
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1552 (Requirements for Ratification) to read:
+
+        An Official Document is legally permissible to Ratify
+        if and only if all of the following are true:
+
+          a) The Rules required some specific Player to produce and/or
+             maintain the document.
+
+          b) The Rules required it to be published.  (A requirement
+             that it be sent to all Players fulfills this criterion.)
+
+          c) It is not currently subject to a Claim of Error (COE).
+
+          d) It is not currently subject to a pending Call for
+             Judgement (CFJ), or a pending Appeal of a CFJ.
+
+          e) The information within the Document has not been
+             superseded by a subsequent Document that contradicts
+             it.  (This does not apply if a COE alleging the
+             contradiction is in error is admitted.)
+
+          f) The Document is not the Ruleset. The Ruleset is
+             specifically excluded from Ratification.
+
+        Ratification by Proposal is effective only if the Document is
+        legally permissible to Ratify when the Proposal takes effect.

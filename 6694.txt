@@ -1,0 +1,84 @@
+ID: 6694
+Title: Prejudice
+Author: comex
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2226 (Judicial Rank) by replacing:
+
+       When a judgement is overruled on appeal, if the prior judge's
+       judicial rank is higher than 0, then it is decreased by 1.
+
+with:
+
+       When an appeal of a judicial case is judged with prejudice, if
+       the prior judge's judicial rank is higher than 0, then it is
+       decreased by 1.
+
+Amend Rule 911 (Appeal Cases) by replacing:
+
+       An appeal case has a judicial question on disposition, which is
+       applicable if and only if the prior question is applicable.  The
+       valid judgements for the question on disposition, and their
+       effects, are as follows, based on the appropriateness of the
+       prior judgement at the time it was delivered:
+
+with:
+
+       An appeal case has a judicial question on disposition, which is
+       applicable if and only if the prior question is applicable.  The
+       valid judgements for the question on disposition are of the form
+       "<action> with prejudice" or "<action> without prejudice".  Such
+       a judgement is generally appropriate if and only if
+       (1) the action is appropriate, and
+       (2) the judgement is with prejudice if and only if the prior
+           judge made an error in eir judgement which could have been
+           reasonably avoided, or generally inappropriately discharged
+           eir duties in the case.
+
+       The valid values of <action> and their associated effects are as
+       follows:
+
+and by replacing:
+
+       * REMAND, appropriate if there is serious doubt about the
+         appropriateness of the prior judgement
+
+with:
+
+       * REMAND, appropriate if there is serious doubt about whether
+         the prior judgement was appropriate
+
+and by replacing:
+
+       * REASSIGN, appropriate if there is serious doubt about the
+         appropriateness of the prior judgement
+
+with:
+
+       * REASSIGN, appropriate if there is serious doubt about whether
+         the prior judgement was appropriate
+
+and by replacing:
+
+         deliver a judgement of either REMAND or REASSIGN, whichever e
+         feels is most appropriate.
+
+with:
+
+         judgement of either REMAND or REASSIGN with or without
+         prejudice, whichever e feels is most appropriate.
+
+and by adding this paragraph after the list of judgements:
+
+       The appropriateness of the prior judgement is measured at the
+       time it was assigned.
+
+[Greater flexibility in appeal cases: judge X with prejudice if it's
+the judge's fault, or X without prejudice otherwise.  Currently, the
+penalty for OVERRULE punishes said-TRUE-when-I-meant-FALSE, but does
+not address cases where, say, the judge made a grossly inappropriate
+judgement, but the issue is too important for the panel to choose a
+replacement judgement.  Some combinations are less likely than others,
+but I can think of reasons to use any combination of action and
+prejudice, so they are all allowed.]

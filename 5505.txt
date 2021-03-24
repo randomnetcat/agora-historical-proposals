@@ -1,0 +1,24 @@
+ID: 5505
+Title: Don't require a no-op here, either
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+      The initiation of a criminal case begins its pre-trial phase.
+      In the pre-trial phase the CotC SHALL as soon as possible inform
+      the defendant of the case and invite em to rebut the argument
+      for eir guilt.  The pre-trial phase ends one week after the
+      defendant has been so informed.  At any time during the
+      pre-trial phase, the defendant CAN end the pre-trial phase by
+      announcement.
+
+with this text:
+
+      The initiation of a criminal case begins its pre-trial phase.  If
+      the plaintiff and defendant are the same first-class person, then
+      the pre-trial phase ends immediately.  Otherwise, the CotC SHALL
+      as soon as possible inform the defendant of the case and invite em
+      to rebut the argument for eir guilt; the pre-trial phase ends one
+      week after the defendant has been so informed.  At any time during
+      the pre-trial phase, the defendant CAN end the pre-trial phase by
+      announcement.

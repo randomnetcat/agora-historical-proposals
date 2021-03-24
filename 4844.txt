@@ -1,0 +1,22 @@
+ID: 4844
+Title: Boon Cash-Out
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  boon cash-out.
+
+Upon the adoption of this proposal, the following players gain
+the following number of heavy pending draws:
+
+Goddess Eris     4 
+Goethe          12 
+Manu             7 
+Maud            12
+Michael          3 
+Murphy           6 
+OscarMeyr        7 
+root            13
+
+[from Herald's report 07-Oct-05]

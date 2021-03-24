@@ -1,0 +1,7 @@
+ID: 5698
+Title: Power Patent Titles
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Change the power of Rule 1922 to 3.

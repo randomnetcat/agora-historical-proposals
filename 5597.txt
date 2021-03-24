@@ -1,0 +1,14 @@
+ID: 5597
+Title: Breaking Contracts
+Author: Sgeo
+Co-authors: 
+Adoption index: 1.5
+
+Create a Power=1.5 rule titled "Breaking Contracts" with the following text
+{{
+Rules to the contrary notwithstanding, a player bound by a contract or
+pledge CAN, by announcement, leave any contract e is bound by at any
+time. E MAY do so if and only if the contract or pledge e is leaving
+does not explicitly prohibit em leaving the contract, rules to the
+contrary notwithstanding.
+}}

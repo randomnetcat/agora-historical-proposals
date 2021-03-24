@@ -1,0 +1,13 @@
+ID: 4617
+Title: Reshuffle!
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 2
+
+
+1.  All pending draws are canceled.
+
+2.  All cards, except Stock cards, are returned to the Deck.
+
+3.  The Deckmastor is ordered to deal random cards to each Player,
+sufficient to bring each Player's hand up to three cards.

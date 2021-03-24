@@ -1,0 +1,29 @@
+ID: 4660
+Title: Look Ma, No Hand-Waving (It's Invisibilitated)
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+A new rule with power 2 shall be created, with the text:
+
+      Upon the creation of this rule, all unsatisfied requirements to
+      discard one or more cards that arose from from Rule 2075/1 or Rule
+      2083/0 prior to March 19, 2005 are hereby voided and are deemed to
+      have never existed.
+
+
+The same rule shall then be repealed.
+
+
+Rule 2074 shall be amended to read:
+
+      Flux is a stuck switch for Gamblers with states Free and Frozen.
+      Rules to the contrary notwithstanding, a Gambler with frozen
+      flux may not play, discard, or transfer cards from eir hand, nor
+      may the Deckmastor satisfy pending draws for that hand. However,
+      the Deckmastor may by public announcement discard cards from
+      any Frozen Gambler as required by the Rules.
+
+      The Deck's flux shall always be free, rules to the contrary
+      notwithstanding.

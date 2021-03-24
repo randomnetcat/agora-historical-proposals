@@ -1,0 +1,25 @@
+ID: 5612
+Title: Fix OVERLOOKED
+Author: Murphy
+Co-authors: Ivan Hope, Pavitra
+Adoption index: 1.7
+
+Ivan Hope and Pavitra are co-authors of this proposal.
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+      * INNOCENT, appropriate if the defendant did not perform the
+        alleged act
+
+with this text:
+
+      * INNOCENT, appropriate if the defendant did not perform the
+        alleged act within 200 days before the case was initiated
+
+      * OVERLOOKED, no longer appropriate, retained to avoid
+        invalidating past judgements
+
+and by removing this text:
+
+      * OVERLOOKED, appropriate if the alleged act allegedly occurred
+        at least 200 days before the case was initiated

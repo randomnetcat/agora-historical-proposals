@@ -1,0 +1,27 @@
+ID: 4646
+Title: Tic Tac Toe 2.0
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Append the following to rule 1922
+
+ (e) Tic Tac Toe Champ, To be awarded to any player who, during a
+given quarter, has gained 3 boons of '3 in a row'.  If a player holds
+this  patent title, immediatly after the turning of a new parchment
+they earn the boon  of 'O' and the albatross of 'X'.  Within two weeks
+of the turning of a  new parchment, the bearer of this patent title
+may proclaim by public  announcement that they either revoke both of
+these ephemeral patent  titles, and then claim which other player now
+bears them, or they may  keep both the 'X' and the 'O'.   If such a
+proclamation is made, it shall take effect as soon as possible. They
+must either keep both or  relinquish both.
+
+ Create a rule called 'Tic Tac Toe' with the following text:
+
+ "If during a given week a player earns either exactly  3 boons or 
+exactly 3 albatrosses excluding the boon of '3 in a row' a player may
+make a public announcement indicating they have gotten 3 in a row
+noting which boons/albatrosses they have earned and when.  If this
+annoncement is factual, the player earns to boon of '3 in a row'."

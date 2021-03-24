@@ -1,0 +1,178 @@
+ID: 5570
+Title: Chambers
+Author: BobTHJ
+Co-authors: 
+Adoption index: 3
+
+Create a new rule titled "Chambers" with Power=3 and the text:
+{{
+A player who is a member of an existing public contract CAN make the
+contract into a chamber with Agoran consent. A chamber requires no
+parties. The authority index of a chamber is an rational number from 0
+to 4, and is by default 0. A player CAN set the authority index of any
+chamber to any valid value with Agoran consent. The authority index
+CANNOT be changed by any other means. A chamber CAN through its own
+internal mechanisms increase or decrease the power of any proposal by
+an amount less than or equal to its authority index as a result of an
+Agoran Decision regarding the acceptance of that proposal in that
+chamber.
+
+Any player CAN cause a chamber to cease to be a chamber with Agoran consent.
+}}
+
+Repeal R2196 ("Standard Classes of Agoran Decisions")
+
+Amend R106 ("Adopting Proposals") by replacing:
+{{
+Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the adoption index is the adoption index of
+      the proposal, and the vote collector is the Assessor.
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.
+}}
+with:
+{{
+Whenever the power of a proposal ever is equal to or exceeds its
+adoption index then the proposal then the Rulekeepor SHALL adopt that
+proposal in a timely fashion. When the Rulekeepor adopts a proposal,
+unless other rules prevent it from taking effect, its power is set to
+the the minimum of four and its adoption index, and it then is removed
+from the Proposal Pool and takes effect. A proposal does not otherwise
+take effect.
+}}
+
+Amend R1607 ("The Promotor") by replacing:
+{{
+The Promotor MAY distribute a proposal in the Proposal Pool at
+      any time.  The Promotor's weekly duties include the distribution
+      of each proposal that has been in the Proposal Pool since the
+      beginning of that week.
+
+      The Promotor distributes a proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is
+      distributed, it is removed from the Proposal Pool.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.
+
+      For an Agoran decision of whether to adopt a proposal, the
+      following are essential parameters:
+
+      a) Its author (and co-authors, if any).
+      b) Its interest index.
+}}
+with:
+{{
+The author of a proposal in the Proposal Pool CAN request it be
+distributed to a specific chamber by announcement. Any Player CAN,
+with 2 support, request a proposal be distributed to a specific
+chamber. The Promotor SHALL distribute each such requested proposal to
+the specified chamber in a timely fashion unless that proposal has
+already been distributed to that chamber previously.
+
+The Promotor CAN remove any proposal from the proposal pool which the
+author has not requested to be distributed within the past two weeks
+or which has a negitive power. The Promotor SHALL remove any such
+propoal from the pool in a timely fashion.
+
+The Promotor distributes a proposal by publishing it with the clear
+intent of distributing it. Distributing a proposal initiates an Agoran
+decision for the acceptance of the  proposal in the specified chamber.
+An agoran decision for the acceptance of a proposal in a specific
+chamber may also be known as a chamber decision (generic) or an "XXX
+Decision" (where XXX is the name of the chamber). For an agoran
+decision regarding the acceptance of a proposal the following are
+essential parameters:
+
+a) Its author (and co-authors, if any).
+b) Its interest index.
+c) The specified chamber.
+
+The eligible voters on a chamber decision are the list of eligible
+voters defined in that chamber, or in the case there is no such list
+all parties to that chamber. The voting limit of each eligible voter
+on chamber decision is equal to the voting limit(s) defined by that
+chamber, or in the case there is none defined the voting limit is 1.
+}}
+
+Repeal R2142 ("Support Democracy")
+
+Amend R2019 ("Prerogitives") by replacing:
+{{
+      c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
+         decision in its voting period by announcement; this increases
+         its Adoption Index by 1.
+
+      d) Wielder of Rubberstamp.  The Wielder of Rubberstamp CAN
+         rubberstamp an ordinary decision in its voting period by
+         announcement; this decreases its quorum to 3, rules to the
+         contrary notwithstanding.
+}}
+with:
+{{
+c) Wielder of Veto. The Wielder of Veto CAN veto any proposal in the
+proposal pool by announcement; this increases its Adoption Index by 1.
+
+d) Wielder of Rubberstamp. The Wielder of Rubberstamp CAN (once per
+proposal) rubberstamp any proposal in the proposal pool by
+announcement; this increases its Power by 0.5.
+}}
+
+Amend R2177 ("The Senate") by replacing:
+{{
+During emergency session, any Senator CAN declare a filibuster
+      on a proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in the
+      past.  Any Senator CAN end a filibuster on a proposal with 4
+      supporting Senators.
+
+      A proposal that ends its voting period in filibuster has a
+      quorum of the number of eligible voters plus 1, rules to the
+      contrary notwithstanding.
+}}
+with:
+{{
+During emergency session, any Senator CAN declare a filibuster on a
+proposal in the proposal pool, with 2 supporting Senators, provided no
+filibuster has been declared on that proposal in the past. Any Senator
+CAN end a filibuster on a proposal with 4 supporting Senators.
+
+A proposal in filibuster may not have its power modified, rules to the
+contrary notwithstanding.
+}}
+
+Create the following contract and cause it to become a chamber with an
+authority index of 4:
+{{
+1. The name of this contract is the Democratic Chamber. This is a
+public contract.
+
+2. This chamber defers to the rules of agora to determine the eligible
+voters on its chamber decisions and eir voting limits.
+
+3. The vote collector for democratic decisions is the Agoran Assessor.
+
+4. As soon as possible after a democratic decision is ADOPTED the
+Assessor shall increase its Power by the minimum of its voting index
+or the authority index of this chamber. As soon as possible after a
+democratic decision is REJECTED the Assessor shall decrease its Power
+by the authority index of this chamber.
+}}
+Create the following contract and cause it to become a chamber with an
+authority index of 1:
+{{
+1. The name of this contract is the Ordinary Chamber. This is a public contract.
+
+2. This chamber defers to the rules of agora to determine the eligible
+voters on its chamber decisions and eir voting limits.
+
+3. The vote collector for democratic decisions is the Agoran Assessor.
+
+4. As soon as possible after an ordinary decision is ADOPTED the
+Assessor shall increase its Power by 1. As soon as possible after an
+ordinary decision is rejected the Assessor shall decrease its power by
+1.
+}}

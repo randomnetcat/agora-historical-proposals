@@ -1,0 +1,22 @@
+ID: 4970
+Title: define reports
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with title "Official Reports" and text:
+
+      For each office, the rules may designate certain information
+      to be part of the corresponding officer's weekly report or
+      monthly report.  Any information designated to be part of the
+      officer's report without specifying which report shall be part
+      of the weekly report.  If no information is designated to be
+      part of the weekly (or monthly) report, then that office has
+      no weekly (or, respectively, monthly) report.  Each officer's
+      report is an official report.
+
+      The holder of an office for which there is an officer's
+      report is obliged to maintain all information in the report.
+      E is obliged to publish the weekly report, if there is one, at
+      least once each week, and the monthly report, if there is one,
+      at least once each month.

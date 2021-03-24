@@ -1,0 +1,30 @@
+ID: 4835
+Title: Move your ors
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Move your ors
+
+Amend Rule 698 by replacing:
+                       A player who is inactive, unready, or is
+          ineligible to judge CFJs.
+with:
+                       A player who is inactive or unready is
+          ineligible to judge CFJs.
+
+and by replacing:
+          (1) all ready, active, non-barred, players become
+with:
+          (1) all ready, active, non-barred players become
+
+and by replacing:
+              ready, active, barred, players, other than
+with:
+              ready, active, barred players, other than
+
+and by replacing:
+              active, players, other than the caller
+with:
+              active players, other than the caller

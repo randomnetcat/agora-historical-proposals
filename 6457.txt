@@ -1,0 +1,17 @@
+ID: 6457
+Title: Increase Proposal Card Gains
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2261 (The Deck of Change) replace
+
+      When a proposal authored by a player is adopted and takes
+      effect, that player earns a number of draws from the Change Deck
+      equal to the Interest Index of the proposal.
+
+with:
+
+      When a proposal authored by a player is adopted and takes
+      effect, that player earns a number of draws from the Change Deck
+      equal to the Interest Index of the proposal plus one.

@@ -1,0 +1,26 @@
+ID: 4520
+Title: Default noteworthiness
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Default noteworthiness, AI-2
+
+Amend Rule 2047 by appending the following text:
+
+  If an entity has a defined number of Kudos, but
+  the number has not been set by the Rules, then the 
+  entity has 1 Kudo.
+
+Amend Rule 1677 by appending the following text:
+
+  If a Player joins the game, but is neither subject
+  to a Grace Period nor been a Player at any time
+  since the last Turning of a New Parchment, then
+  the Herald shall set eir Kudos to half the Tabla
+  Rasa (rounded up).
+
+Goethe's Kudos are hereby set to 1.
+ [Tabla Rasa - oligarch fee, tho keeping the distribution
+  cost as a freebie].

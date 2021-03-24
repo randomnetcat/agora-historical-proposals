@@ -1,0 +1,16 @@
+ID: 5549
+Title: Earning Interest
+Author: Wooble
+Co-authors: 
+Adoption index: 2
+
+      In Rule 2126, add to the list of ways to gain Notes:
+
+      (5) (B)  At the end of each week, each player who authored at least one
+                 proposal with an Interest Index of 2 that passed
+during that week
+                 gains a B note.
+          (Bb) At the end of each week, each player who authored at least one
+                 proposal with an Interest Index of 3 that passed
+during that week
+                 gains a Bb note.

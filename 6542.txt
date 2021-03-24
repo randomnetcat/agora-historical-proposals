@@ -1,0 +1,19 @@
+ID: 6542
+Title: High-rank appeals prefer high-rank panels
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by replacing the paragraph beginning
+
+     The entities qualified to be assigned as judge of an appeal case
+
+with this text:
+
+     The entities qualified to be assigned as judge of an appeal case
+     are the judicial panels consisting of max(3,1+2*R) members (where
+     R is the rank of the prior case), where each of the members is
+     qualified to be assigned as judge of the prior case and none is
+     the prior judge.  If possible, the CotC SHALL assign a panel where
+     each of the members is well qualified to be assigned as judge of
+     the prior case.

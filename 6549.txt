@@ -1,0 +1,16 @@
+ID: 6549
+Title: More Voting Fun (AI=2, II=0)
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In the fifth paragraph of Rule 2156, replace the second sentence with
+"The voting limit of a player on an ordinary decision is eir base
+voting limit on that decision (as defined elsewhere in the rules),
+plus one for each Extra Vote card e owns, minus one for each positive
+multiple of two Rests the player owns. This rule defers to other rules
+of equal power in the determination of voting limits."
+
+Create a new Power-2 Rule entitled "Base Voting Limits" with the same
+text as the last three paragraphs of Rule 2156, and delete those
+paragraphs from Rule 2156.

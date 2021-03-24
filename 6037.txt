@@ -1,0 +1,18 @@
+ID: 6037
+Title: Contest Patch
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+[Multiple rapid contest-creation has been exploited.  This
+change replaces the "only one contest per
+contestmaster" with a slow-play limit, that allows more contests
+per contestmaster but slows scams].
+
+Amend Rule 2136 (Contests) by replacing:
+      b) Doing so would cause a player to be contestmaster of more
+         than one contest.
+with:
+      b) Doing so would cause a player to be contestmaster when a
+         member of eir basis has already become a contestmaster
+         within the past seven days.

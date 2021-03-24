@@ -1,0 +1,59 @@
+ID: 6471
+Title: Simple satisfaction fix
+Author: c.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2124 (Agoran Satisfaction) by removing:
+      (4) The action to be performed is With Notice.
+}
+
+I submit the following proposal, and play Distrib-u-Matic to make it
+Distributable:
+{
+Refactor dependent actions (AI=3)
+[Hopefully gets rid of R1728 loopholes once and for all.]
+
+Amend Rule 1728 (Dependent Actions) to read:
+
+      A rule or contract which purports to allow a person (the
+      performer) to perform an action dependently (a dependent action)
+      by a set of one or more of the following methods (N is 1 unless
+      otherwise specified):
+
+       1) Without N Objections, where N is a positive integer no
+          greater than 8.
+       2) With N Supporters, where N is a positive integer.
+       3) With N Agoran Consent, where N is an integer multiple of 0.1
+          with a minimum of 1.
+       4) With Notice.
+
+      thereby allows em to perform the action by announcement if and
+      only if all of the following are true:
+
+       a) A person (the initiator) announced intent to perform the
+          action, unambiguously and clearly specifying the action and
+          method(s) (including the value of N for each method), at
+          most fourteen days earlier, and (if the action depends on
+          objections or notice) at least four days earlier.
+
+       b) At least one of the following is true:
+
+            1) The performer is the initiator.
+
+            2) The initiator was authorized to perform the action due
+               to holding a rule-defined position now held by the
+               performer.
+
+            3) The initiator is authorized to perform the action, the
+               action depends on support, the performer has supported
+               the intent, and the rule authorizing the performance
+               does not explicitly prohibit supporters from performing
+               it.
+
+       c) Agora is Satisfied with the announced intent, as defined by
+          other rules.
+
+       d) If a set of conditions for the performance of the action was
+          given in the announcement of intent to perform the action,
+          all those conditions are met.

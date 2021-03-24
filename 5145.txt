@@ -1,0 +1,17 @@
+ID: 5145
+Title: regularise speakership
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 402 by deleting the paragraphs that start "If an active player"
+and "A speaker who became".
+
+Repeal rule 103.
+
+[Murphy's proposals turn the speaker into a regular administrative office.
+With that sort of duties, there's no reason for the special provisions
+regarding installation into office.  R103 goes because we have no greater
+need for the speaker than for any other office, and the R402 provisions
+being deleted concern installation of game winners into office and a
+restriction on replacing the speaker.]

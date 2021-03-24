@@ -1,0 +1,10 @@
+ID: 5353
+Title: Fix MMI bullets
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2152 (Mother, May I?) by replacing
+  "6." with "7."
+and by replacing the second
+  "5." with "6."

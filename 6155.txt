@@ -1,0 +1,21 @@
+ID: 6155
+Title: Refactor falsity
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+WHEREAS Officers hold offices of their own free will, and are
+fittingly rewarded for it,
+WHEREAS they are relied upon to provide accurate information and
+almost unilaterally trusted,
+WHEREAS it is appropriate to require from them compliance with the
+rules exceeding that of ordinary players,
+AND WHEREAS, even if they will normally be DISCHARGED for honest
+mistakes, the judge should have the option of providing at least some
+penalty for sloppiness,
+
+Rule 2143 (Official Reports and Duties) is amended by adding the paragraph:
+
+     While performing weekly or monthly duties or publishing weekly
+     or monthly reports, officers SHALL NOT publish information that
+     is inaccurate or misleading.

@@ -1,0 +1,7 @@
+ID: 5590
+Title: This sort of thing almost destroyed B Nomic
+Author: ais523
+Co-authors: 
+Adoption index: 1
+
+Change "MAY" to "MAY and CAN" in rule 2172.

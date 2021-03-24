@@ -1,0 +1,13 @@
+ID: 6106
+Title: Fix Rule 2201
+Author: Murphy
+Co-authors: ais523
+Adoption index: 3.0
+
+ais523 is a co-author of this proposal.
+
+Amend Rule 2201 (Self-Ratification) by appending this text to
+section a):
+
+        The original document is never ratified due to this rule,
+        the rest of this rule notwithstanding.

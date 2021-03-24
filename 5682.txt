@@ -1,0 +1,15 @@
+ID: 5682
+Title: Eligible Monsters
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Append the following to the rule entitled "The Monster":
+{{{
+      The eligible Monsters on an ordinary decision are those entities
+      that were active players at the start of its Monsterising period.
+      The Monsterising limit of an eligible Monster on an ordinary
+      decision is eir caste at the start of its Monsterising period, or
+      half that (rounded up) if the Monster was in the chokey at that
+      time.
+}}}

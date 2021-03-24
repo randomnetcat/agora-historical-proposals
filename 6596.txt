@@ -1,0 +1,17 @@
+ID: 6596
+Title: Wild Cards
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2262 (The Deck of Justice) by adding the following bullets:
+
+      * Wild Card      - Indicate a player other than yourself. That
+                         player is awarded a Leadership Token.
+
+      * Witness Reward - You are awarded a Leadership Token.
+
+
+Set the Frequency of Wild Card to 3, the Frequency of Dunce Cap to 5,
+and the Frequency of Witness Reward to 1.
+[ This sets the total DoJ frequencies at 85 ]

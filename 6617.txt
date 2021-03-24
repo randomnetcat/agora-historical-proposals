@@ -1,0 +1,8 @@
+ID: 6617
+Title:  Fix repetition
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 693 (Agoran Decisions) by replacing "(syn. ABSTAIN) (syn.
+ABSTAIN)" with "(syn. ABSTAIN)".

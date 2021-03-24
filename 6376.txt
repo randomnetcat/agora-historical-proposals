@@ -1,0 +1,13 @@
+ID: 6376
+Title: Oh no, not again!
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by appending this text:
+
+      The judge of a previously-appealed question SHALL NOT assign
+      the same judgement to it without new reasoning that addresses
+      the serious doubt about its appropriateness.  Violating this
+      prohibition is the Class-N Crime of Lazy Judging, where N is
+      the judge's rank when e so judged.

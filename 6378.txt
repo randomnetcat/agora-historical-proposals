@@ -1,0 +1,16 @@
+ID: 6378
+Title: Changing votes
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 683 (Voting on Agoran Decisions) by replacing this text:
+
+      (d) The voter has not publicly retracted the ballot during the
+          voting period.
+
+with this text:
+
+      (d) The voter has not publicly retracted the ballot during the
+          voting period.  ("Changing" a vote is equivalent to retracting
+          it and casting a vote with the new value.)

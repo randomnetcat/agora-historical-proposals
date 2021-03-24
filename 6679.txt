@@ -1,0 +1,22 @@
+ID: 6679
+Title: Capacitance
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Create the following rule, entitled "Capacitors" at Power 2:
+       Capacitors are a class of fixed assets tracked by the PSM;
+       their ownership is restricted to players.
+
+       When an event is described as earning a player a number of
+       farads, e CAN, once per such event and in a timely fashion, award
+       emself an equal number of capacitors by announcement, but only if
+       e cites the specific event allowing em to do so in the
+       announcement.
+
+Amend Rule 2282 (Energy) by replacing item (a) with the following:
+         (a) All ergs and capacitors are destroyed; then
+and inserting the following item after it, relettering the proceeding
+items accordingly:
+         (b) For each capacitor destroyed in item (a), an erg is awarded
+             to its former owner.

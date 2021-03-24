@@ -1,0 +1,51 @@
+ID: 4507
+Title: Third Time's the Charm, Part 3 of 3
+Author: Murphy
+Co-authors: 
+Adoption index: 4
+
+
+[Put mathematical terms in their place.]
+
+Upon the adoption of this Proposal, the Gamestate becomes what it would be if
+all terms used in mathematical contexts, but primarily used with a different
+ordinary-language meaning, were interpreted to have their ordinary-language
+meaning, Rule 754 (Spelling, Quoting, and Terminology) notwithstanding.
+
+Set the Power of Rule 754 (Spelling, Quoting, and Terminology) to 3.
+
+Change the Title of Rule 754 to "Freedom of Communication".
+
+Amend Rule 754 (Freedom of Communication) to read:
+
+      Freedom of speech being essential for the healthy functioning
+      of any non-Imperial nomic, it is hereby resolved:
+
+      (1) No Player shall be prohibited from participating in the Fora.
+
+      (2) No Player shall be punished for accurately quoting a Rule,
+          Proposal, Statement, Judgement, another Player, or another
+          reference.
+
+      Regularity of communication being essential for the healthy
+      function of any nomic, it is hereby resolved:
+
+      (3) A difference in spelling, grammar, or dialect, or the use of
+          a synonym or abbreviation in place of a word or phrase, is
+          inconsequential in all forms of communication, as long as the
+          difference does not create an ambiguity in meaning.
+
+      (4) A term explicitly defined by the Rules shall be interpreted
+          as having that meaning, as shall its ordinary-language synonyms
+          not explicitly defined by the rules.  In particular, the term
+          "number" shall be interpreted as "real number".
+
+      (5) Any term primarily used in mathematical or legal contexts, and
+          not addressed by previous provisions of this Rule, shall be
+          interpreted as having the meaning it has in those contexts.
+
+      (6) Any term not addressed by previous provisions of this Rule
+          shall be interpreted as having its ordinary-language meaning.
+
+      This rule takes precedence over any other rules which dictate       
+terminology or grammar.

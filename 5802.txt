@@ -1,0 +1,17 @@
+ID: 5802
+Title: Referential point security
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+This proposal has no effect unless Proposals 5791 (Referential
+security) and 5793 (Secure points) were both adopted.
+
+Amend Rule 2179 (Points) by replacing this text:
+
+     Changes to point holdings are secured.
+
+with this text:
+
+     If winning is secured, then changes to point holdings are secured
+     with the same power threshold.

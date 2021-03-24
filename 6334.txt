@@ -1,0 +1,43 @@
+ID: 6334
+Title: Two tiered tiebreaker
+Author: Goethe
+Co-authors: ais523
+Adoption index: 2.0
+
+Amend Rule 911 (Appeal Cases) by deleting:
+                 If the time period ends with no majority judgement,
+      the panel acts to deliver a judgement of REMAND.
+
+ Amend Rule 911 (Appeal Cases) by inserting the following new
+ paragraphs immediately after the paragraph in which the above
+ deletion occurred:
+
+      If the time period ends with no majority judgement, then:
+      - if the Justiciar has published an opinion on the case
+        clearly marked as the Justiciar's Opinion and indicating
+        a valid judgement, and that judgement is the same as
+        one given by at least one panel member (other than the
+        Justiciar), then the panel delivers that judgement;
+
+      - otherwise, the case enters an overtime period, which
+        lasts for four days.  The CotC SHOULD publicly remind the
+        Justiciar when an overtime period begins.  During
+        this period, if the  Justiciar publishes a Justiciar's
+        Opinion that is the same as one panel member's as
+        described above, then the panel delivers that judgement;
+
+      - otherwise, the CotC CAN and SHALL, asap after the
+        overtime period ends, act for the panel by announcement
+        to deliver a judgement of either REMAND or REASSIGN,
+        whichever e feels is most appropriate.
+
+
+Amend Rule 2019 (Prerogatives) by replacing the paragraph
+that begins with "b) Justiciar" with the following paragraph:
+
+      b) Justiciar.  The Justiciar may be granted particular
+      abilities or privileges associated with the judicial
+      process as described elsewhere in the Rules.
+
+ [The Justiciar can just submit an opinion when e feels like it,
+ and it's used as the tiebreaker when needed].

@@ -1,0 +1,92 @@
+ID: 6426
+Title: Contract Anarchy
+Author: Tiger
+Co-authors: 
+Adoption index: 3.0
+
+Repeal Rule 1742 (Contracts)
+
+Repeal Rule 2197 (Defining Contract Changes)
+
+Repeal Rule 2198 (Making Contract Changes)
+
+Repeal Rule 2178 (Contract Switches)
+
+Repeal Rule 2173 (The Notary)
+
+Repeal Rule 2191 (Pledges)
+
+Repeal Rule 2136 (Contests)
+
+Repeal Rule 2232 (Contest Axes)
+
+Repeal Rule 2233 (Awarding and Revoking Points)
+
+Repeal Rule 2242 (Champion's Contests)
+
+Repeal Rule 2234 (Rewarding Contstmasters)
+
+Repeal Rule 2196 (Equity Cases)
+
+Repeal Rule 2145 (Partnerships)
+
+Repeal Rule 2174 (Aliens)
+
+Amend Rule 2200 (Nomic Definitions) by removing the last paragraph.
+
+Amend Rule 2199 (Ribbons) by removing the bullet point (+Y).
+
+Amend Rule 2126 (Notes) by removing the bullet point (C#).
+
+Amend Rule 1728 (Dependent Actions) by removing the last paragraph.
+
+Amend Rule 1586 (Definition and Continuity of Entities) by replacing
+the first paragraph with the following text:
+(
+      If multiple rules attempt to define an entity with the same
+      name, then they refer to the same entity.  A rule-defined
+      entity's name CANNOT be changed to be the same as another
+      rule-defined entity's name.
+)
+and by replacing all instances of "document" in it with the "rule".
+
+Amend Rule 754 (Definitions) by replacing the bullet point (4) with
+the following text:
+(
+      (4) Any term not addressed by previous provisions of this Rule
+          by default has its ordinary-language meaning. In determining
+          the ordinary-language meaning of a term, definitions
+          contained in lower-powered Rules, followed by definitions
+          used in other Agoran legal documents, SHOULD be used for
+          guidance.
+)
+
+Amend Rule 2166 (Assets) to read:
+(
+      An asset is an entity defined as such by the rules.
+
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.  If
+      the rules restrict the ownership of an asset to a class of
+      entities, then that asset CANNOT be gained by or transferred to
+      an entity outside that class, and is transfered to the Lost and
+      Found Department if it is owned by an entity outside that class.
+       If an asset is owned by the Lost and Found department any
+      player CAN transfer or destroy it without objection.  The Lost
+      and Found department may own any asset.
+
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by the rules.  That entity's report includes a
+      list of all instances of that class and their owners.  This
+      portion of that entity's report is self-ratifying.
+
+      To "gain" an asset is to have it created in one's possession; to
+      "award" an asset to an entity is to create it in that entity's
+      possession.
+)
+
+Amend Rule 2181 by replacing the last paragraph with the following text:
+(
+      The Accountor's monthly report includes a list of all classes of
+      assets and their recordkeepors.
+)

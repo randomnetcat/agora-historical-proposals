@@ -1,0 +1,8 @@
+ID: 5454
+Title: Close Pandora's box
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2160 (Deputisation) by replacing each instance of
+"position" with "office".

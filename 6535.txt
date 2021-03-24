@@ -1,0 +1,13 @@
+ID: 6535
+Title: Workaround for broken time limits 
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1023 (Common Definitions) by appending this text to the
+section defining ASAP:
+
+       A requirement to perform an action at an exact instant (e.g.
+       "when X, Y SHALL Z"), but not "in the same message", is instead
+       interpreted as a requirement to perform that action in a timely
+       fashion after that instant.

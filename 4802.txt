@@ -1,0 +1,37 @@
+ID: 4802
+Title: How to Join Agora
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+
+Repeal rule 2094 (Corporate Players).
+
+Change the title of rule 869 (Registered Players) to "How to Join
+Agora", and amend it to read:
+
+      A person who is not currently registered as a player and is not
+      prohibited from registering may become a registered player by
+      sending a message to a public forum which sets forth eir intent
+      to register.
+
+Amend rule 1677 (Honoring the New) to read:
+
+      Readiness is a stuck player switch with values unready and
+      ready.  A player may flip eir readiness to ready.
+
+      Whenever a player registers who has not been registered within
+      the previous year, e becomes unready and is subject to a Grace
+      Period beginning immediately and lasting for sixty days, not
+      including Holidays.  At the end of eir Grace Period, e becomes
+      ready.
+
+      As soon as possible after the beginning of a player's Grace
+      Period, the Registrar shall announce eir arrival.  This
+      announcement shall have the effect of setting that player's
+      kudos to twice the Tabla Rasa.
+
+      If a player joins the game, but is neither subject to a Grace
+      Period nor has been a player at any time since the last Turning
+      of a New Parchment, then the Herald shall set eir kudos to half
+      the Tabla Rasa (rounded up).

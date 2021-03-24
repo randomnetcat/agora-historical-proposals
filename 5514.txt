@@ -1,0 +1,12 @@
+ID: 5514
+Title: Judgement of Monsters
+Author: avpx
+Co-authors: 
+Adoption index: 2
+
+Append the following to rule 2193, modified from rule 991:
+
+The CotC's report includes the status of all Monster-related cases
+that either require
+a Monster or have at least one applicable Monster-related question
+that has no judgement.

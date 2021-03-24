@@ -1,0 +1,14 @@
+ID: 5627
+Title: Time to trade notes
+Author: Quazie
+Co-authors: woggle
+Adoption index: 2
+
+Remove the word 'fixed' from the first paragraph of R2126
+
+Remove the following paragraph from R2126 renumbering surrounding
+paragraphs accordingly:
+{
+ (4) A player CAN spend two Notes of the same pitch to make
+          another player gain one Note of that pitch.
+}

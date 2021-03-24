@@ -1,0 +1,9 @@
+ID: 5259
+Title: finish generalising poor qualification
+Author: Zefram
+Co-authors: 
+Adoption index: 1.5
+
+Amend rule 1871 by replacing the phrase "all entities qualified to be
+so assigned are sitting players" with "all entities qualified to be so
+assigned are poorly qualified".

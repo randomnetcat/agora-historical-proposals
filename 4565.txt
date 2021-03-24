@@ -1,0 +1,18 @@
+ID: 4565
+Title: Grant typo
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Grant typo
+
+Amend Rule 2055 (The Scorekeepor's Budget) by replacing the text:
+        b) The Player Points Limit, a positive integer.
+        c) Points Per Player, a positive integer.
+        d) One or more scoring events, each with the following
+           information:
+with:
+        b) The Champion's Grant, a positive integer.
+        c) One or more scoring events, each with the following
+           information:

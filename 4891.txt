@@ -1,0 +1,19 @@
+ID: 4891
+Title: Clarify Win by Paradox
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Amend Rule 2110 (Win by Paradox) to read:
+
+       If the legality of an action cannot be determined with finality,
+       or if by a Judge's best reasoning, not appealed within a week of
+       eir Judgement, an action appears equally legal and illegal, then
+       the first player to announce this fact wins the game.
+
+Amend Rule 1922 (Defined Regular Patent Titles) by appending this text:
+
+       (d)  Champion, to be awarded to any player who wins the game.   
+The
+            Herald's report shall record how the player won.

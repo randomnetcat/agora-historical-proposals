@@ -1,0 +1,12 @@
+ID: 5319
+Title: Restore the reasonable unawareness defense
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1504 (Criminal Cases) by inserting this text before the
+paragraph starting with "GUILTY":
+
+      * UNAWARE, appropriate if the defendant violated the specified
+        rule via the specified action, but reasonably believed at the
+        time that e was not violating a rule

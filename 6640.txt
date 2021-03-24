@@ -1,0 +1,63 @@
+ID: 6640
+Title: Hold still, take two
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Create a rule titled "Timing of Voting Limits" with Power 3 and this
+text:
+
+     Voting eligibility and voting limits for an Agoran decision are
+     fixed according to the gamestate at the start of the voting
+     period, with the following exceptions:
+
+       a) When a decision becomes democratic during its voting period,
+          voting eligibility and voting limits are re-measured
+          according to the gamestate at the start of the voting period
+          as it pertained to democratic decisions.
+
+       b) During the voting period, an eligible voter CAN by
+          announcement cause eir voting limit to be re-measured
+          according to the gamestate at the time of the announcement;
+          this causes any votes e previously cast on that decision to
+          be retracted.
+
+[Moves the burden of noticing a change in potential voting limit from
+the Assessor to the voter.]
+
+Amend Rule 1950 (Voting on Democratic Decisions) to read:
+
+     The eligible voters on a democratic decision are the active
+     first-class players.
+
+[Remove redundancies with the above rule and Rule 683.]
+
+Amend Rule 2154 (Election Procedure) by removing this text from
+section 3:
+
+     Each eligible voter's voting limit is one.
+
+[Redundant with Rule 683.]
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by replacing the
+paragraph beginning with this text:
+
+     The eligible voters on an ordinary decision are
+
+with this text:
+
+     The eligible voters on an ordinary decision are the active
+     players.  The voting limit of a player on an ordinary decision
+     is eir base voting limit on that decision (as defined elsewhere
+     in the rules, equal to one if it would otherwise be undefined or
+     ambiguous), subject to modification by rules with power at least
+     as great as this one.
+
+[Refactor Rest modifier into a separate rule.  Remove redundancy with
+the new rule created above.  Protect against the definition of base
+voting limits being broken.]
+
+Create a rule titled "Penalty for Rests" with Power 2 and this text:
+
+     The voting limit of a player on an ordinary decision is decreased
+     by one for every two Rests e owns.

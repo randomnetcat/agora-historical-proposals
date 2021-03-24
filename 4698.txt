@@ -1,0 +1,41 @@
+ID: 4698
+Title: Office Condensation
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Office Condensation
+
+The Notary is hereby awarded one boon of Public Service.
+
+Amend Rule 1531 by replacing all occurrences of the word "Notary"
+with the word "Justiciar".
+
+Amend Rule 1533 by replacing all occurrences of the word "Notary"
+with the word "Justiciar".
+
+Repeal Rule 1458.
+
+Amend Rule 910 to read:
+
+      The Justiciar is an office; its holder is responsible for
+      justice, serving on a Board of Appeals when necessary, and
+      for maintaining a record of organizations and their
+      jurisdictions.
+
+      The Justiciar's monthly report shall contain the following
+      information for each organization:
+
+        a) Its name.
+        b) Its administrator.
+        c) Its executor.
+        d) The maintainer of its charter.
+        e) A list of players within its jurisdiction.
+        f) The charter of each organization.
+
+      In addition, as soon as possible after the Justiciar is
+      informed of a change in any of the properties a-f above
+      for an organization, the Justiciar shall report the change.
+
+The Justiciar is hereby retired from that office.

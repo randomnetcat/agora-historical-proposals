@@ -1,0 +1,88 @@
+ID: 4456
+Title: Switches
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+Enact a rule of power 2, titled "Switches", reading:
+
+      A switch is a set of states associated with a class of entities.
+      Each switch shall have a default state, which if not otherwise
+      specified shall be the first state mentioned in the rule defining
+      the switch.
+
+      The recordkeepor for a class of entities shall also maintain
+      records of any switches associated with that class, as well as
+      for each entity of the class the current state of the switch.  If
+      the recordkeepor is required to publish a report, that report
+      shall include records of these switches.
+
+      Whenever an entity is created in a class of entities associated
+      with a switch, it shall be in the state of the switch specified
+      by the order or provision creating it; if no state is specified,
+      it shall be in the default state of the switch.
+
+      Whenever an entity joins a class of entities associated with a
+      switch, the entity shall be in the default state of the switch.
+
+      A player who may flip a switch on an entity to some state may do
+      so by announcement.  In eir announcement, e must indicate the
+      entity, switch, and new state.  When a switch on an entity is
+      flipped to some state, the entity shall come to be in that state
+      and simultaneously cease to be in any other state of the switch.
+
+      Viscosity is a stuck switch for switches with values loose and
+      stuck.
+
+      An executor of an entity may flip any of the loose switches on
+      that entity, unless the rules otherwise prohibit doing so.
+
+      The stuck switches on an entity can be flipped only when the
+      rules so indicate.
+
+      Whenever a switch is created, or becomes associated with a class
+      of entities, then each entity in the class that had previously
+      been in a state that is now a state of the switch shall continue
+      to be in that state; all other entities in the class shall be in
+      the default state of the switch.
+
+
+Amend rule 478 (The Public Forum) to read:
+
+      Publicity is a stuck forum switch with values null, Discussion,
+      and Public.
+
+      The Registrar may, without objection, flip the publicity of a
+      forum.  In addition to any other requirements the rules place on
+      this action, the Registrar's announcement of intent must be sent
+      to that forum, and if the forum is being made Public, then the
+      announcement by which the Registrar performs the modification
+      must be sent to all existing Public fora.
+
+      It is the responsibility of each active player to ensure that
+      e can receive messages via each Public forum.
+
+      The Registrar shall include as part of eir Report all Public or
+      Discussion fora and sufficient data regarding each such forum to
+      allow players to receive messages via that medium.  The Registrar
+      need not keep track of fora with null state.
+
+      A message is not public unless some rule states that it is public.
+      A message is public if it is sent via a Public forum, or if it is
+      sent to all players via a combination of fora and contains a clear
+      designation of intent to be public.
+
+      A player publishes information by publicly sending a message
+      containing that information, and announces something by publishing
+      it.
+
+      If the rules state that a player may perform an action by
+      announcement, then that player may perform that action by
+      announcing that e performs it.  If the rules state that a player
+      may perform an action by private message to some player, then
+      that player may perform that action by sending a message privately
+      to the specified player indicating that e performs it.  In either
+      case, such a message must unambiguously describe the action to be
+      performed.
+
+Change the title of rule 478 to "Fora".

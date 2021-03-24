@@ -1,0 +1,10 @@
+ID: 5524
+Title: No unappealable judgements
+Author: Pavitra
+Co-authors: Murphy
+Adoption index: 1.7
+
+Murphy is the coauthor of this proposal.
+
+Amend rule 911 by deleting the text "an assignment caused by a
+judgement in an appeal case, nor ".

@@ -1,0 +1,34 @@
+ID: 6481
+Title: PNP cleanup
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+The PerlNomic Partnership contract is amended to read:
+
+1. This is a binding agreement and Public Contract governed by the
+  Rules of Agora. Parties to this agreement are known as PerlNomicites.
+
+2. No one may join this contract.  Any party CAN leave it by announcement.
+
+3. The parties shall jointly act as a partnership, in a manner
+  governed by this agreement.  The ability of each PerlNomicite to act
+  as an individual is not thereby impaired.  The partnership shall
+  be known as the PerlNomic Partnership.
+
+4. The PerlNomic Partnership may incur obligations, rights, and
+  privileges under the Rules of Agora.  The Partners may act on
+  behalf of the PerlNomic Partnership to satisfy such obligations
+  and to exercise such rights and privileges, as permitted by
+  this agreement.
+
+5. The PerlNomicites shall ensure that the PerlNomic Partnership obeys
+  the Rules of Agora to the maximum possible extent.
+
+6. The parties agree that amending this contract by unanimous consent
+   of the parties is an equitable act, former language to the contrary
+   notwithstanding.
+
+7.  Any party CAN cause the PNP to transfer 16 3 crops to Wooble
+   and 13 3 crops, 1 4 crop, 1 8 crop, 1 9 crop, and a / mill to ais523.
+   Upon doing this, e CAN cause this contract to terminate.

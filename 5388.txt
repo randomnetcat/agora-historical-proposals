@@ -1,0 +1,9 @@
+ID: 5388
+Title: Only private assets can hyperinflate
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2166 (Assets) by replacing "An asset generally CAN be
+created" with "An asset whose backing document is not a rule generally
+CAN be created".

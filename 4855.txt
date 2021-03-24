@@ -1,0 +1,12 @@
+ID: 4855
+Title: Fixing Your Turn
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend the Onepower Cardbook by appending the following text to the
+exploit of Your Turn:
+
+If that player has no cards at the time you play this card, then this
+card has no effect.

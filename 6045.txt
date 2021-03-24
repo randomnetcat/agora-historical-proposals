@@ -1,0 +1,13 @@
+ID: 6045
+Title: We already have appeals
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2158, replace the text:
+
+A judge SHALL NOT assign an inappropriate judgement to any judicial question.
+
+with the text:
+
+A judge SHOULD NOT assign an inappropriate judgement to any judicial question.

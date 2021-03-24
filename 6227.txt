@@ -1,0 +1,27 @@
+ID: 6227
+Title: Fix point limits
+Author: Murphy
+Co-authors: comex
+Adoption index: 2.0
+
+Amend Rule 2233 (Awarding and Revoking Points) to read:
+
+      For each of a contest's axes, where N is the number of its
+      parties that were active first-class players at the beginning of
+      the week, the contestmaster of that contest:
+
+        a) CAN award <axis> points to its other parties by announcement
+           specifying that contest, unless the total points awarded in
+           this way for that contest and week would thereby exceed 5N.
+
+        b) CAN revoke <axis> points from its other parties by
+           announcement specifying that contest, unless the total points
+           revoked in this way for that contest and week would thereby
+           exceed 2N.
+
+        c) SHALL award and revoke <axis> points as explicitly described
+           in its contract (subject to the above limits), or as needed
+           to counteract an award/revocation specifying that contest but
+           not explicitly described in either its contract or this
+           clause (in which case neither the corrected award/revocation
+           nor the correction count against the contest's weekly limit).

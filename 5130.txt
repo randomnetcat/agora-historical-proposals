@@ -1,0 +1,7 @@
+ID: 5130
+Title: Capitalize every word in the rules.
+Author: root
+Co-authors: 
+Adoption index: 4
+
+Capitalize every word in the rules.

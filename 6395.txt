@@ -1,0 +1,24 @@
+ID: 6395
+Title: Emergency Powers
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 1607, replace
+
+      In a given Agoran week, the Promotor CAN and SHALL, as part of
+      eir weekly duties, distribute any proposal that is in the
+      Proposal Pool and was Distributable at the beginning of that
+      Agoran week.  The Promotor CAN but SHALL NOT, in a given Agoran
+      week, distribute a any proposal that is in the Pool but was
+      Undistributable at the beginning of that Agoran week.
+
+with
+
+      In a given Agoran week, the Promotor CAN and SHALL, as part of
+      eir weekly duties, distribute any proposal that is in the
+      Proposal Pool and was Distributable at the beginning of that
+      Agoran week.  The Promotor CAN but SHALL NOT, in a given Agoran
+      week, distribute any proposal that is in the Pool but was
+      Undistributable at the beginning of that Agoran week, or was
+      entered into the Pool during that Agoran week.

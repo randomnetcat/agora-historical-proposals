@@ -1,0 +1,39 @@
+ID: 5629
+Title: Preparing for ostracism
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 by replacing:
+      * EXILE with a duration (the tariff) up to 60 days multiplied by
+        the power of the highest-power rule allegedly broken,
+        appropriate if the severity of the rule breach is reasonably
+        correlated with the length of the tariff, the middle of the
+        tariff range being appropriate for severe rule breaches
+        amounting to a breach of trust.  While a sentence of this type
+        is active, the ninny is exiled.  No entity is exiled except as
+        required by this rule.  If an exiled entity is ever a player,
+        e is deregistered.  An exiled entity CANNOT register.
+with:
+      * EXILE with a duration (the tariff) up to 60 days multiplied by
+        the power of the highest-power rule allegedly broken,
+        appropriate if the severity of the rule breach is reasonably
+        correlated with the length of the tariff, the middle of the
+        tariff range being appropriate for severe rule breaches
+        amounting to a breach of trust.  While a sentence of this type
+        is active, the ninny is exiled.
+
+Change the Power of Rule 869 (How to Join and Leave Agora) to 1.5.
+Change the Power of Rule 2130 (Activity) to 1.5.
+
+Create a new Rule (Power=1.5) titled "Exile and Ostracism", with the text:
+{{
+      Causing an entity to be exiled is a secured change.  If an
+      exiled entity is ever a player, e is deregistered.  An exiled
+      entity CANNOT register.
+
+      Causing an entity to be ostracized is a secured change.  If an
+      ostracized player is ever Active, e becomes Inactive.  An
+      ostracized player's Activity CANNOT otherwise be changed, rules
+      to the contrary notwithstanding.
+}}

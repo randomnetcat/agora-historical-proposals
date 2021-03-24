@@ -1,0 +1,18 @@
+ID: 5592
+Title: Overturn 1103
+Author: Sgeo
+Co-authors: 
+Adoption index: 3
+
+Change the first paragraph of Rule 1482 from
+{{
+      In a conflict between Rules with different Power, the Rule with
+      the higher Power takes precedence over the Rule with the lower
+      Power.
+}}
+to
+{{
+      In a conflict between Rules with different Power, the Rule with
+      the higher Power takes precedence over the Rule with the lower
+      Power, unless the Rule with the higher Power says otherwise.
+}}

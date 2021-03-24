@@ -1,0 +1,23 @@
+ID: 5510
+Title: One-hit wonders
+Author: Murphy
+Co-authors: Zefram
+Adoption index: 2
+
+Zefram is a co-author of this proposal (he suggested the idea behind
+#8 a long while back IIRC).
+
+Amend Rule 2126 (Notes) by appending this text to the list of ways to
+spend Notes:
+
+      (6) A player CAN spend one Note to increase another player's
+          voting limit on an ordinary proposal whose voting period is
+          in progress by 1.
+
+      (7) A player CAN spend two Notes to increase eir voting limit
+          on an ordinary proposal whose voting period is in progress
+          by 1.
+
+      (8) A player CAN spend three Notes to gain a Note whose pitch
+          is as many semitones distant from one of the Notes spent
+          as the distance between the other two Notes spent.

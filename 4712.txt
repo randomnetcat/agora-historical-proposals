@@ -1,0 +1,25 @@
+ID: 4712
+Title: Library Cards
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Create a new rule entitled "Library Cards" with the following text
+
+     * Caption: Library Renewal
+       Elements: Budgeted
+       Exploit: Upon playing this card you may indicate a number
+                1 through 5.  ASAP after you do this the speaker
+                must randomly discard that many cards from the
+                Library's hand that are not reserved.  If the
+                Speaker has discarded all non reserved cards
+                then e does not need to discard any more.
+
+     * Caption: Library Card
+       Elements: Budgeted, Limited [Faculty Members][1]
+       Exploit: Check a card out from the Library for no fee. 
+
+Budgets:
+Library Card - 2
+Library Renewal - 2

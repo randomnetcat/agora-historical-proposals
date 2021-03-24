@@ -1,0 +1,25 @@
+ID: 6712
+Title: TITLE:
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+COMMENTS:
+needs more spacing anyway
+
+PROPOSAL TEXT:
+Amend Rule 2105 by replacing:
+
+                 /  \ | /  \     MANUBOURNE -> \/      NEW C.LAND \}
+                     \|/                                           \)
+                _,.---v---._                 /\__                   )`-']
+       /\__/\  /            \                |   |  COPPRO STRAIGHT(    !
+       \_  _/ /              \                |  /      MICHAELTON->)  /
+
+with:
+
+                 /  \ | /  \     MANUBOURNE -> \/      NEW C.LAND \}
+                     \|/                                           \)
+                _,.---v---._                 /\__   COPPRO STRAIT  ()`-']
+       /\__/\  /            \                |   |                 (    !
+       \_  _/ /              \                |  /      MICHAELTON->)  /

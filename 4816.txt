@@ -1,0 +1,49 @@
+ID: 4816
+Title: Oscar Night 1.0
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Oscar Night 1.0
+
+[Re-written assuming Cobalt passes]
+
+Steve is the co-author of this proposal, and therefore the Rulekeepor
+shall include eir name, as if e were a player co-author, in any
+historical annotations added due to this Proposal (I think this latter
+legislative order is necessary and legal as Steve is not a Player
+[R1430]).
+
+[Because Nth Anniversary ribbons never really went anywhere]
+
+Amend Rule 1727 (Happy Birthday) by replacing:
+
+      BE IT FURTHER RESOLVED that the Herald may select one Contract,
+      in existence on Agora's Birthday, which has as its purpose
+      encouraging the celebration of Agora's Birthday.  Within the
+      month following Agora's Birthday, that Contract may award its
+      Members the Patent Title Nth Anniversary Ribbon, where N is the
+      number of years of Agora's existence;
+
+with:
+
+      BE IT FURTHER RESOLVED that the Herald shall initiate an Agoran
+      decision to determine a Rule version to receive the Spirit of
+      the Game award.  Available options are every Rule version that
+      took effect since the last Birthday.  Eligible voters are all
+      persons, and the Herald is the vote collector.  The Rulekeepor
+      shall add an annotation of each award to the historical
+      annotations of change for the winning Rule versions.
+
+Amend Rule 1750 (Read the Ruleset Week) by appending the following
+paragraph:
+
+      The Rulekeepor shall, during Read the Ruleset Week, initiate an
+      Agoran decision to determine a Rule version to receive the Best
+      Rule award.  Available options are every Rule version that took
+      effect since the beginning of the last Read the Ruleset Week.
+      Eligible voters are all persons, and the Rulekeepor is the vote
+      collector.  The Rulekeepor shall add an annotation of each award
+      to the historical annotations of change for the winning Rule
+      versions.

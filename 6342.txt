@@ -1,0 +1,10 @@
+ID: 6342
+Title: Prop2
+Author: Quazie
+Co-authors: 
+Adoption index: 2.0
+
+Create a new rule entitled 'Officer's Proposals' with the following text:
+"Any proposal submitted as part of an officer's duties has its
+Distributability flipped to Distributable upon entering the Proposal
+Pool."

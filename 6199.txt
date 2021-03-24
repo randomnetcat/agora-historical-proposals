@@ -1,0 +1,8 @@
+ID: 6199
+Title: Ancient history is low-priority
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2177 (The Senate) by replacing each instance of
+"Assessor's report" with "Assessor's monthly report".

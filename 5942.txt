@@ -1,0 +1,8 @@
+ID: 5942
+Title: Transporter Accident Repair
+Author: woggle
+Co-authors: 
+Adoption index: 1.0
+
+Repeal rules 2214 (Export Bootstrapping), 2192 (The Mad Scientist),
+and 2193 (The Monster).

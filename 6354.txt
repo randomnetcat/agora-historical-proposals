@@ -1,0 +1,8 @@
+ID: 6354
+Title: Sensible Rest destruction
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Replace "the appeals panel CAN and SHALL" with "any player CAN" in the
+last paragraph of rule 1504.

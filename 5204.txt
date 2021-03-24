@@ -1,0 +1,16 @@
+ID: 5204
+Title: truthfulness in registration
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 869 by appending to the paragraph that describes how to
+register the sentence
+
+      Any entity that CANNOT register MUST NOT make such an
+      announcement.
+
+[This adds a R2149-like requirement for truthfulness in purported
+registrations.  Should discourage shenanigans such as Peekee's recent
+fake registration, though obviously it has no practical power over the
+truly malicious.]

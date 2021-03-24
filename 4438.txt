@@ -1,0 +1,31 @@
+ID: 4438
+Title: The Wormhole
+Author: Peekee
+Co-authors: 
+Adoption index: 1
+
+Proposal "The Wormhole"
+----
+Create a rule titled "The Wormhole" with text as follows.
+
+The Wormhole is a bridge between two distinct Land Units in Arcadia, which
+causes those Land Units to be adjacent. As soon as possible after the
+fifteenth of each Agoran Month the Mapkeepor will determine the Land Units
+that the Wormhole bridges as follows,
+
+(1)   The first Land unit will always be (0,0)
+(2)   The second Land Unit will be chosen at random but such that it is
+distinct from (0,0) and all Land Units adjacent to (0,0)
+
+The Mapkeepor will then report which Land Units the Wormhole bridges.
+
+----
+On the adoption of this proposal the Wormhole bridges (0,0) and (0,1). As
+soon as possible after the adoption of this proposal the Mapkeepor will
+determine the Land Units that the Wormhole bridges as follows,
+
+(1) The first Land unit will always be (0,0)
+(2)   The second Land Unit will be chosen at random but such that it is
+distinct from (0,0) and all Land Units adjacent to (0,0)
+
+The Mapkeepor will then report which Land Units the Wormhole bridges.

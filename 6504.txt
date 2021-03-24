@@ -1,0 +1,11 @@
+ID: 6504
+Title: We don't need this exception
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2168 (Extending the voting period) by removing the text
+"and the vote collector".
+
+[If e wants to resolve an unpopular proposal during the second week,
+despite having voted FOR it emself, then e can retract eir vote first.]

@@ -1,0 +1,7 @@
+ID: 6038
+Title: Moment of Silence
+Author: comex
+Co-authors: 
+Adoption index: 1.7
+
+Award each of {j, Murphy, ais523, 0x44, Billy Pilgrim} one Rest.

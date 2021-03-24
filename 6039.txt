@@ -1,0 +1,12 @@
+ID: 6039
+Title: Bah Humbug!
+Author: Wooble
+Co-authors: 
+Adoption index: 3.0
+
+Repeal Rule 1769 (Holidays).
+
+Amend Rule 1727, removing:
+; but,
+     since that falls within a Holiday, is observed during the entire
+     days of January 12 through 14, GMT +1200, of each year

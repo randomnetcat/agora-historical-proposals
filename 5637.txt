@@ -1,0 +1,39 @@
+ID: 5637
+Title: Agora is my conditional value
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+In R2127 replace:
+{
+     Casting a vote endorsing another voter is equivalent to
+     conditionally casting a vote whose value is the same as the most
+     common value (if any) among that voter's valid votes on that
+     decision.
+
+     Casting a vote denouncing another voter is equivalent to
+     conditionally casting a vote whose value is opposite to the most
+     common value (if any) among that voter's valid votes on that
+     decision.  FOR and AGAINST are opposites; PRESENT is its own
+     opposite.
+
+}
+
+with:
+
+{
+Casting a vote endorsing another voter is equivalent to conditionally
+casting a vote whose value is the same as the most common value (if
+any) among that voter's valid votes on that decision.  Casting a vote
+endorsing Agora is equivalent to conditionally casting a vote whose
+value is the same as the most common value (if any) among all votes
+that have been cast on that decision.
+
+Casting a vote denouncing another voter is equivalent to conditionally
+casting a vote whose value is opposite to the most common value (if
+any) among that voter's valid votes on that decision.  Casting a vote
+denouncing Agora is equivalent to conditionally casting a vote whose
+value is opposite to the most common value (if any) among all votes
+that have been cast on that decision.  FOR and AGAINST are opposites;
+PRESENT is its own opposite.
+}

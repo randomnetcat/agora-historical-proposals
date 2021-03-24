@@ -1,0 +1,22 @@
+ID: 5083
+Title: simplify AI setting
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 106 by replacing the text
+
+      The adoption index of a proposal is an integral multiple of 0.1,
+      with a default and minimum value of 1.0.  Before the Promotor
+      distributes a proposal, its proposer may modify its adoption
+      index by announcement.
+
+with
+
+      The adoption index of a proposal is an integral multiple of 0.1,
+      with a minimum value of 1.0.  It may be set by the proposer at
+      the time of submission, or otherwise defaults to 1.0.
+
+[There's no particular reason to modify the AI after submission, so
+may as well set it definitively at submission time.  Errors can be
+corrected by withdrawing the proposal entirely.]

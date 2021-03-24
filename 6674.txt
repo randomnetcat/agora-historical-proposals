@@ -1,0 +1,14 @@
+ID: 6674
+Title: Proposal Title
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Create the following Rule:
+
+     When a player satisfies the Winning Condition of Tautology, e
+     satisfies the Winning Condition of Tautology.
+
+     Cleanup Procedure:  Each such winner SHALL, as soon as possible,
+     perform the Cleanup Procedure for the Winning Condition of
+     Tautology.

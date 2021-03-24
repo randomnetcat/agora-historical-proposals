@@ -1,0 +1,16 @@
+ID: 5741
+Title: Namespace conflicts (players)
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2170 (Who Am I?) by appending, after this paragraph:
+
+     A person SHALL NOT make a public statement intended to mislead
+     others as to the identity of its publisher.
+
+this paragraph:
+
+     A player SHALL NOT select a confusing nickname, including but
+     not limited to a name that has generally been used to refer to
+     another entity within the past three months.

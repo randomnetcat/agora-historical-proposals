@@ -1,0 +1,29 @@
+ID: 5050
+Title: Still supporting democracy
+Author: Levi
+Co-authors: 
+Adoption index: 3
+
+Repeal rule 2142
+
+Modify Rule 106 by replacing the following text:
+
+     The adoption index of a proposal is an integral multiple of 0.1,
+     with a default and minimum value of 1.0.  Before the Promotor
+     distributes a proposal, its proposer may modify its adoption
+     index by announcement.  A Proposal with an Adoption Index of
+     less than 2 is Ordinary.  All other Proposals are Democratic.
+
+with:
+
+     The adoption index of a proposal is an integral multiple of 0.1,
+     with a default and minimum value of 1.0.  Before the Promotor
+     distributes a proposal, its proposer may modify its adoption
+     index by announcement.
+
+     A Proposal with an Adoption Index of less than 2 at the time it
+     is distributed is initially Ordinary. All other Proposals are
+     Democratic.
+
+     An Ordinary proposal may be made Democratic by any player during
+     its voting period With 3 Supporters.

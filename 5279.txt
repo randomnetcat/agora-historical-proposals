@@ -1,0 +1,11 @@
+ID: 5279
+Title: <none>
+Author: comex
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2149 by replacing the entire text with:
+      A person SHALL NOT make a public statement unless e believes e
+      is telling the truth.
+[Truthiness is going to die; why not reduce useless clutter at the same
+time?]

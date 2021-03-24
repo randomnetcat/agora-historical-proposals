@@ -1,0 +1,13 @@
+ID: 4908
+Title: No Silly Orders
+Author: Greyknight
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1793, "Orders" by appending the following paragraph:
+
+     Any Order which requires any entity to perform an impossible or
+illegal action, or to refrain from performing an action which that
+entity is either legally required to perform or which it is impossible
+not to perform, is considered an invalid order.

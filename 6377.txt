@@ -1,0 +1,8 @@
+ID: 6377
+Title: inflation
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+In rule 2138's text, replace each instance of "International" with
+"Intergalactic" and then do the same replacement on the Rule's title.

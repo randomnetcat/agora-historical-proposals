@@ -1,0 +1,57 @@
+ID: 4829
+Title: The Cobalt Repairs
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+
+Change the title of rule 1932 (Shareholders and the Corporation) to
+"Shares and Shareholders", and amend it to read:
+
+      A Stock Card is a card with the Element "Shares [X]".
+
+      The Share Holdings of an entity is the number of Shares
+      possessed by that entity.  The Number of Shares is the sum of
+      the Share Holdings of all entities.
+
+      A Shareholder is an entity with positive Share Holdings.  A
+      Plebeian is a player who is not a Shareholder.  The Corporation
+      is the collection of all Shareholders.
+
+Repeal rule 1963 (Eligible Shareholders).
+
+Amend rule 1483 (Definition of Proposals) to read:
+
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
+
+      A legislator submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal.  As soon as
+      possible afterward, the Promotor shall add this proposal to the
+      Proposal Pool.
+
+      Before the Promotor distributes a proposal, its proposer may
+      modify its adoption index by announcement.  The default adoption
+      index of a proposal is one.
+
+      All players are legislators.
+
+Repeal rule 1953 (Sane Proposals).
+
+Amend rule 1952 (Making Proposals Distributable) to read:
+
+      The Promotor shall have a budget containing the per-player
+      proposal limit, which shall be a positive integer defaulting to
+      four.
+
+      Depth is a stuck proposal switch with values undistributable and
+      distributable.
+
+      Before the Promotor distributes a proposal, its proposer may
+      flip its depth by announcement as long as the number of eir
+      distributable proposals which have been submitted but have not
+      been distributed or retracted is less than the per-player
+      proposal limit.
+
+Repeal rule 2021 (Chamber Procedure).

@@ -1,0 +1,112 @@
+ID: 5313
+Title: The Republic of Agora
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Create a rule titled "States and Districts" with Power 2 and this text:
+
+      Each player represents exactly one distinct state with the
+      following attributes:
+
+        a) A name, which its representative CAN set by announcement.
+
+        b) A non-negative integral number of districts (ND), which
+           CANNOT be modified except as specified by this rule.
+
+        c) A non-negative number of planned districts (NPD), which
+           CANNOT be modified except by an instrument with power at
+           least as great as that of this rule.
+
+        d) A district baseline (DB), which is five if the state's
+           representative is a first-class player, zero otherwise.
+
+        e) A district minimum (DM), which is one if the state's
+           representative is a first-class player, zero otherwise.
+
+      The Assessor's report includes a list of states and their
+      attributes.
+
+      When a state's ND is set to a value, its NPD is set to the
+      same value.
+
+      If a state's ND would otherwise be undefined, it is set to
+      its DB.
+
+      At the end of each week, each state's ND is set to its NPD,
+      rounded to an integer, breaking ties toward odd integers,
+      with a minimum of its DM.
+
+      When one or more players win the game, each state's NPD is
+      set to its DB.
+
+[Create the republic metaphor.  VLOP -> Districts, and increase
+default from 4 to 5.]
+
+Change the title of Rule 2156 to "Voting on District Proposals", and
+amend it to read:
+
+      The eligible voters on a District proposal are those entities
+      that were active players at the start of its voting period.  The
+      voting limit of an eligible voter on a District proposal is eir
+      state's ND at the start of its voting period, halved (rounding
+      up) if e is in the chokey at that time.
+
+[Ordinary proposal -> District proposal.  The details on districts
+are now in "States and Districts", allowing this rule to parallel
+Rule 1950 more closely.]
+
+Change the title of Rule 1950 to "Voting on State Proposals", and
+amend it to read:
+
+      The eligible voters on a State proposal are those entities that
+      were active first-class players at the start of its voting
+      period.  The voting limit of an eligible voter on a State
+      proposal is two.
+
+[Democratic proposal -> State proposal, and increase default voting
+strength from 1 to 2.]
+
+Amend Rule 2126 (Voting Credits) by replacing "voting limits on
+ordinary proposals" with "the redistricting process", and by replacing
+each instance of "VVLOP" with "NPD", and by removing this text:
+
+      When a game win occurs, each player's VVLOP is set to eir BVLOP.
+
+[The reset-on-win clause is now in "States and Districts".]
+
+Change the title of Rule 2134 to "Win by Districts", and amend it to read:
+
+      Upon a correct announcement that a state's ND is greater than or
+      equal to the sum of the ND of all other states, that state's
+      representative wins the game.
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      A Proposal with an Adoption Index of less than 2 is Ordinary.  All
+      other Proposals are Democratic.
+
+with this text:
+
+      A Proposal is initially a District proposal if its Adoption Index
+      is less than 2, or a State proposal otherwise.  Changing a proposal
+      to a District proposal is secured, with a power threshold of 2.
+
+[Allow Rule 2142 to make changes.  Allow future rules to make changes in
+the other direction, within limits.]
+
+Amend Rule 1607 (The Promotor) by replacing this text:
+
+      c) Whether it is ordinary or democratic.
+
+with this text:
+
+      c) Whether it is a District or State proposal.
+
+Change the title of Rule 2142 to "State Procedure", and amend it to read:
+
+      A player CAN, with 2 support, convert a District proposal into a
+      State proposal.
+
+Amend Rule 2019 (Prerogatives) by replacing each instance of "ordinary
+proposal" with "District proposal".

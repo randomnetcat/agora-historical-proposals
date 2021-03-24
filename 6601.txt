@@ -1,0 +1,15 @@
+ID: 6601
+Title: Make My Job a Little Easier
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Amend the sentence in Rule 2177 (The Senate) reading:
+
+     A Senator is any first-class player whose most recent
+     registration was at least sixty days ago.
+
+to read:
+
+     A Senator is any first-class player whose most recent
+     registration was at least two months ago.

@@ -1,0 +1,23 @@
+ID: 6139
+Title: Pragmatize decisions
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2034 (Vote Protection and Cutoff for Challenges) by
+replacing this text:
+
+     A public document purporting to resolve an Agoran decision is
+     self-ratifying.
+
+with this text:
+
+     A public document purporting to resolve an Agoran decision
+     constitutes self-ratifying claims that
+
+       a) such a decision existed,
+       b) it was resolved as indicated, and
+       c) (if the matter indicated was whether to adopt a proposal) the
+            proposal was not prevented from taking effect.
+
+[Mostly to guard against undetected committee rejections.]

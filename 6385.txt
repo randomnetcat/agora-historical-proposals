@@ -1,0 +1,30 @@
+ID: 6385
+Title: No More Distributability
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1607 (The Promotor) to read:
+
+      The Promotor is an office; its holder is responsible for
+      receiving and distributing proposals.
+
+      The Promotor CAN and MAY distribute a proposal in the Proposal
+      Pool at any time.  The Promotor's weekly duties include the
+      distribution of each proposal that has been in the Proposal Pool
+      since the beginning of that week.
+
+      For an Agoran decision of whether to adopt a proposal, the
+      following are essential parameters:
+
+      a) Its author (and co-authors, if any).
+      b) Its interest index.
+
+      Distributed proposals have ID numbers, to be assigned by the
+      Promotor.
+
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool.
+
+[This is the exact same version as before the recent Distributability
+amendment.]

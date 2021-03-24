@@ -1,0 +1,39 @@
+ID: 4730
+Title: Glub Glub
+Author: Murphy
+Co-authors: 
+Adoption index: 4
+
+
+Proposal:  Glub Glub
+(AI=4, please)
+
+Create a rule titled "Free Sea" with this text:
+
+                _____
+             _-^     ^-_
+       _____/           \_____
+      |                       |
+      |   This Power-4 Rule   |
+      | (the second ever) was |
+      |  placed to honor The  |
+      |  Agoran Tradition of  |
+      |  Democratic Progress  |
+      | by Murphy, Quazie and |
+      | root, Scamsters. Look |
+      | but don't swim, until |
+      | an hour after eating. |
+      |      Hail Andre!      |
+      |_____             _____|
+            \_         _/
+              ^-_____-^
+
+Amend Rule 1950 (Voting Power) by replacing this text:
+
+                  (i)  that Player's Voting Potential if that Player
+                       has Sente.
+
+with this text:
+
+                  (i)  that Player's Voting Potential or one, whichever
+                       is larger, if that Player has Sente.

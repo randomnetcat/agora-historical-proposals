@@ -1,0 +1,12 @@
+ID: 5621
+Title: More regulations!
+Author: Quazie
+Co-authors: 
+Adoption index: 3
+
+Append the following to the end of R 2125
+
+If a Player is a member to a contract, actions created by that
+contract are regulated in respect to that player if any point a-f in
+this rule would be true in respect to that action if points a-f
+referred to that contract and not to the rules.

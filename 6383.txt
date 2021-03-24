@@ -1,0 +1,16 @@
+ID: 6383
+Title: Clarify conditional votes
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2127 (Conditional Votes) by replacing the first two
+paragraphs with this text:
+
+      If a vote on an Agoran decision is submitted conditionally
+      (e.g. "FOR if <X> is true, otherwise AGAINST"), then the
+      selected option is evaluated based on the value of the
+      condition(s) at the end of the voting period, and is
+      clearly specified if and only if the value of the condition(s)
+      can be reasonably determined (without circularity or paradox)
+      from information reasonably available during the voting period.

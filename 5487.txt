@@ -1,0 +1,18 @@
+ID: 5487
+Title: Spelling it out
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled "Judicial Arguments and Evidence" with this text:
+
+      Each of the following participants in a judicial case SHOULD
+      present such arguments and/or evidence (explicitly labeled)
+      relevant to that case as e is reasonably able to collect:
+
+        1) The initiator, when initiating the case.
+        2) For a criminal case, the defendant, during the pre-trial
+           phase.
+        3) For an equity case, the parties to the agreement in
+           question, during the pre-trial phase.
+        4) The judge, when delivering judgement.

@@ -1,0 +1,10 @@
+ID: 4901
+Title: fix proposal efficiacy
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Be it therefore resolved that Rule 106 "Adopting Proposals" be amended
+by replacing the text "and then it takes effect" with "and then if its
+power is at least 1 then it takes effect".

@@ -1,0 +1,27 @@
+ID: 6229
+Title: Broader review of complex cases
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of three members, where each
+      of the members is qualified to be assigned as judge of the prior
+      case and none of the members is the prior judge.
+
+with this text:
+
+      The entities qualified to be assigned as judge of an appeal case
+      are the judicial panels consisting of max(3,1+2*R) members (where
+      R is the rank of the prior case), where each of the members is
+      qualified to be assigned as judge of the prior case and none of
+      the members is the prior judge.
+
+[Inspired by Rule 384/0]
+
+[note: this and Binding Inquiry Cases can be adopted in either order;
+if this is adopted first, then BIC still replaces the "third paragraph"
+of R911; if BIC is adopted first, then this becomes a no-op because the
+old text is no longer present, thus failing to break BIC]

@@ -1,0 +1,26 @@
+ID: 5556
+Title: Transposition
+Author: Murphy
+Co-authors: Zefram
+Adoption index: 2
+
+Zefram is a co-author of this proposal.
+
+Amend Rule 2126 (Notes) by replacing this text:
+
+      (8) A player CAN spend three Notes to gain a Note whose pitch
+          is as many semitones distant from one of the Notes spent
+          as the distance between the other two Notes spent.
+
+with this text:
+
+      (8) A player CAN spend two notes (hereafter X and Y) to gain a
+          note whose pitch is as many semitones above the pitch of Y
+          as Y is above the pitch of X.
+
+      (9) A player CAN spend three Notes (hereafter X, Y, and Z) to
+          gain a Note whose pitch is as many semitones above the pitch
+          of Z as Y is above the pitch of X.
+
+[The old #8 and new #9 is my mis-remembered version of Zefram's
+idea; the new #8 is eir original idea.]

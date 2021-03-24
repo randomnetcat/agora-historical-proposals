@@ -1,0 +1,14 @@
+ID: 6160
+Title: A finer grade of hawkishness
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 2203 (Hawkishness) by appending this text to the list of
+values of Hawkishness:
+
+     * Hovering.  Hovering players are poorly qualified to be assigned
+       as judge of any inquiry case, unless there is no non-inquiry
+       case requiring assignment, at least one inquiry case requiring
+       assignment, and no such inquiry case with any non-Hovering
+       player well-qualified to be assigned to it.

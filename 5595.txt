@@ -1,0 +1,31 @@
+ID: 5595
+Title: No more half-hearted causes
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2192 (The Mad Scientist) by replacing this text:
+
+      The Mad Scientist is an office; its holder is responsible for
+      building the Monster.  The Mad Scientist CAN act on behalf of
+      the Monster to take any action that the Monster may take, and
+      SHALL act on behalf of the Monster to ensure that the Monster
+      fulfills all of its duties.
+
+with this text:
+
+      The Mad Scientist is an office; its holder is responsible for
+      building the Monster.  The Mad Scientist CAN cause the Monster
+      to take any action that the Monster may take, and SHALL thus
+      ensure that the Monster fulfills all of its duties.
+
+Change the title of Rule 2172 to "Causing Agora to Act", and amend it
+by replacing "MAY perform an action on behalf of Agora" with "CAN
+cause Agora to perform an action".
+
+Amend Rule 2189 (Win by Extortion) by replacing "acting on behalf of"
+with "causing".
+
+Upon the adoption of this proposal, all members of contracts using
+phrases like "X CAN act on behalf of Y" SHOULD amend them to "X CAN
+cause Y to act".

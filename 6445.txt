@@ -1,0 +1,9 @@
+ID: 6445
+Title: Excess Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+In rule 2175, append the following sentence to the last paragraph
+      When e does so, e fulfills any obligations with regards to that
+      case.

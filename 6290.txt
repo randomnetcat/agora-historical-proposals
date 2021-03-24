@@ -1,0 +1,14 @@
+ID: 6290
+Title: Broom shakalaka
+Author: Quazie
+Co-authors: Goethe
+Adoption index: 3.0
+
+Replace the text of R2221 with the following:
+
+      A Broom is a power 3 entity that can only be created as specified
+      by this rule.  A Broom consists of both a rule and a non-empty set
+      of spelling and/or grammar corrections to be made to that rule.
+
+Any player CAN create a Broom without objection.  The Broom may then
+amend the rule as specified.

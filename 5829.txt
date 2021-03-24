@@ -1,0 +1,17 @@
+ID: 5829
+Title: It's convenient
+Author: ehird
+Co-authors: 
+Adoption index: 2.0
+
+Modify rule 1006 to read:
+{{
+       A role is an office if and only if it is so defined by the
+       rules.  Each office at any time either is vacant (default) or is
+       filled (held) by exactly one player.  The holder of an office is
+       the Speaker, and e may be referred to by the name of the office.
+}}
+
+Repeal rule 2154.
+
+Repeal rule 2138.

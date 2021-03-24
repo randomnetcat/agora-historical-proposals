@@ -1,0 +1,27 @@
+ID: 5948
+Title: Fix elections, this time for real
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+[Completes the changes intended by Proposal 5831, which passed 9/2
+ but only requested AI = 2 rather than 3.]
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+    voting period for a decision cannot be shorter than seven days.
+
+with this text:
+
+    voting period for a decision with at least two options cannot
+    be shorter than seven days.  The vote collector for a decision
+    with less than two options CAN end the voting period by
+    announcement, provided that e resolves the decision in the same
+    message.
+
+Amend Rule 955 (Determining the Will of Agora) by appending this text:
+
+    (c) If the decision is for an election, then the outcome is the
+        candidate with the most votes.  In case of a tie, the vote
+        collector SHALL select one of the leaders as the outcome.  If
+        there are no candidates, then the outcome is null.

@@ -1,0 +1,12 @@
+ID: 4495
+Title: Repeal Ohm's Law
+Author: RedKnight
+Co-authors: 
+Adoption index: 1
+
+
+Proposal
+
+Title: "Repeal Ohm's law."
+
+Upon the adoption of this proposal, Ohm's law is hereby repealed.

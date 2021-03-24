@@ -1,0 +1,23 @@
+ID: 6639
+Title: Revert the Speakership
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend the text in Rule 402 (Identity of the Speaker) reading:
+
+     The Speaker is the active player on the List of Succession who
+     became part of the list the longest time ago.  The Herald SHALL
+     announce the ascension of a new Speaker asap after it occurs.
+
+to:
+
+     The Speaker is the active player on the List of Succession who
+     won the game most recently. The Herald SHALL announce the
+     ascension of a new Speaker as soon as possible after it occurs.
+
+[Traditionally, the Speaker was the most recent Player to win the
+game. It seems trivial to assign the fifth most recent player to win
+the game to be Speaker. This has the added benefit of giving Players
+who are already on the List of Succession a reason to win the game
+again.]

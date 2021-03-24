@@ -1,0 +1,29 @@
+ID: 5101
+Title: revise ratification
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 1551 to read
+
+      Any player CAN ratify any purported publication of all or part
+      of an official report, without objection.
+
+      When a document is ratified, the gamestate is modified so that
+      the ratified document was completely true and accurate at the
+      time it was published.  Nevertheless, the ratification of a
+      document does not invalidate, reverse, alter, or cancel any
+      messages or actions, even if they were unrecorded or overlooked,
+      or change the legality of any attempted action.
+
+      Where part of an official report has been the subject of a
+      ratification, the date of the most recent such ratification is
+      part of the same official report.
+
+[Clarified based on the distinction between an official report (which
+is a set of information) and a publication intended to reflect that
+report.  Allow ratification of part of a report, to handle situations
+where a single officer reports on more than one thing, or where
+reporting obligations are switched between officers.  Allow anyone to
+ratify, not just officer and Speaker, to help in cases where officer
+identities (including the Speaker, as at present) are in doubt.]

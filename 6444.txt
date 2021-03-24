@@ -1,0 +1,11 @@
+ID: 6444
+Title: Clarify Termination
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R 2178 ("Contract Switches") replace bullet item c) with:
+{{
+c) Contract Changes to a public contract do not become effective until
+published.
+}}

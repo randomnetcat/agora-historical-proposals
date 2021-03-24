@@ -1,0 +1,10 @@
+ID: 5009
+Title: enforce agreements
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 1742 by deleting the sentence
+
+      If a Civil CFJ is called by anyone who is not party to that
+      agreement, then it lacks standing and shall be dismissed.

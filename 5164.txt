@@ -1,0 +1,26 @@
+ID: 5164
+Title: list VC behaviour by color
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+For the purposes of this proposal, in rule 2126 the list of ways that
+VCs may be gained shall be referred to as "list A", and the list of
+ways that VCs may be lost shall be referred to as "list B".
+
+Amend rule 2126 by replacing the two consecutive top-level paragraphs
+that contain list A and list B with a replacement paragraph that
+consists of the introductory sentence "VCs are gained and lost as
+follows:" followed by a list made up of these items in this order:
+    * label "(+R)", body of item "a)" from list A;
+    * label "(-R)", body of item "a)" from list B;
+    * label "(+G)", body of item "b)" from list A;
+    * label "(-G)", body of item "b)" from list B;
+    * label "(+B)", body of item "c)" from list A;
+    * label "(-B)", body of item "c)" from list B.
+
+[Meaningful item labels, which are easier to refer to from memory and
+are easier to maintain because there's no attempt at an alphabetical
+sequence.  Puts rewards and corresponding penalties next to each
+other, for easier comprehension.  List's introductory sentence made
+less equivocal.]

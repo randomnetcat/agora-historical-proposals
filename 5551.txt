@@ -1,0 +1,10 @@
+ID: 5551
+Title: Empower the Notary
+Author: BobTHJ
+Co-authors: 
+Adoption index: 1
+
+Append to R2173 ("The Notary"):
+{{
+The Notary CAN terminate any contract without objection.
+}}

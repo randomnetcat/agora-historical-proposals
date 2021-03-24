@@ -1,0 +1,15 @@
+ID: 6677
+Title: Don't Fly So Fast
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend the rule entitled "Props" by replacing
+      Players with at least 23 props are Pilots; the Pilot with the
+      most props (if any) is the Captain. Players with less than
+      5 props are Marines.
+with
+      Players with at least 19 props are Pilots; the Pilot with the
+      most props (if any) is the Captain. Players with less than
+      9 props are Marines.
+[This only actually adds one Pilot based on current scores.]

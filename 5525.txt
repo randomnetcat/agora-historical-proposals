@@ -1,0 +1,21 @@
+ID: 5525
+Title: Give the Scorekeepor a lever
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2187 (Win by High Score) by replacing this text:
+
+      Cleanup procedure:  Each player's score is set to 0.
+
+with this text:
+
+      Cleanup procedure:  All those players have eir scores set
+      to 0.  All other players have eir scores set to floor(N*S/10),
+      where N is eir previous score and S is the Score Index.
+
+      The Score Index is an integer from 0 to 5, and part of the
+      Scorekeepor's report.  The Scorekeepor CAN change the Score
+      Index without objection.
+
+Upon the adoption of this proposal, the Score Index is set to 0.

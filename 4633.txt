@@ -1,0 +1,13 @@
+ID: 4633
+Title: Pragmatic deals
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Append the following paragraph to R2069:
+
+     If the Deckmastor errs, in good faith, in selecting a
+     particular card to deal, and that error does not greatly
+     change the probability of selecting that card, that deal
+     shall be allowed to stand.

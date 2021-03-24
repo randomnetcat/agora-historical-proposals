@@ -1,0 +1,82 @@
+ID: 6461
+Title: An Apologetic Proposal
+Author: C-walker
+Co-authors: 
+Adoption index: 3.0
+
+[[ This proposal turns Senatorship into a switch, clarifies dependent
+actions with only specific types of players allowed to support/object,
+turns Senators into the only eligible voters on a democratic decision
+initiated during an Emergency Session, allows the Promotor to
+distribute any proposal during an emergency session. ]]
+
+Amend Rule 2177 (The Senate) to read as follows:
+
+     Senate Membership is a person switch, tracked by the Registrar,
+     with values Citizen (default) and Senator. Changes to Senate
+     Membership are secured. The set of all Senators is known as the
+     Senate.
+
+     A first-class non-Senator player whose most recent registration
+     was at least sixty days ago CAN flip eir Senate Membership
+     Senator by announcement.
+
+     A Senator CAN call an Emergency Session with 2 Senator support,
+     provided no other emergency session existed at any time in the
+     preceding 48 hours.  An emergency session lasts until it is
+     terminated.  An unterminated emergency session terminates 21
+     days after it was called.  A Senator CAN terminate an emergency
+     session without 3 Senator objections.  Terminating an emergency
+     session is a secured change.  The Assessor's monthly report
+     includes the dates when the most recent emergency session was
+     called and terminated.
+
+      During an Emergency Session, any Senator CAN declare a
+      filibuster on a proposal in its voting period, with 2 supporting
+      Senators, provided no filibuster has been declared on that
+      proposal in the past.  Any Senator CAN end a filibuster on a
+      proposal with 4 supporting Senators and without Senator
+      objection. While a proposal is in filibuster, quorum on any
+      Agoran Decision regarding its adoption is the number of eligible
+      voters plus one, rules to the contrary notwithstanding.
+
+      During an Emergency Session, quorum on any non-filibustered
+      Decision is N/3 (rounded up), where N is the number of active
+      first-class player Senators, Rules to the contrary
+      notwithstanding.
+
+     When an emergency session begins, all non-Senators' postures
+     become supine, and non-Senators CANNOT flip their posture while
+     the session lasts.
+
+Amend Rule 2124 by appending the following to the paragraph beginning
+with "The Executor of such an announcement..."
+
+     Specifically, an intent to perform an action which CAN be
+     performed with N support, with N objection or with N consent,
+     where N is a class of entity, CAN only be supported or objected
+     to by entities of class N.
+
+Amend Rule 1950 by replacing its entire text with:
+
+     The eligible voters on a democratic decision are those entities
+     that were active first-class players at the start of its voting
+     period, or the active Senators if there is an Emergency Session.
+      The voting limit of each eligible voter on a democratic
+     decision is one.
+
+Amend 1607 (The Promotor) by inserting the following  paragraph after
+the paragraph beginning with "In a given Agoran week,"
+
+     During an Emergency Session, the above restrictions are waived,
+     and the Promotor MAY distribute any proposal in the Proposal
+     Pool.
+
+Flip the Senate Membership of each acitve player who was a Senator
+immediately before the adoption of this proposal to Senator, and flip
+the Senate Membership of every other entity to Citizen.
+
+Flip the Senate Membership of Hilary Rodham Clinton to Senator, by way
+of apology for false accusations made over a year ago. The Ambassador
+SHALL, as soon as possible after the adoption of this proposal, inform
+Hilary Rodham Clinton of this change and its effects.

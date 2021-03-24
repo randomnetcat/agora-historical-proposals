@@ -1,0 +1,20 @@
+ID: 5539
+Title: An elephant sometimes forgets
+Author: comex
+Co-authors: Murphy, Ivan Hope
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing the text:
+      * OVERLOOKED, appropriate if the alleged act allegedly occurred
+        at least 200 days before the case was initiated
+with:
+      * OVERLOOKED, appropriate if the alleged act did not occur
+        within one month before the case was initiated, although the
+        initiator of the case could have reasonably initiated it
+        within that period
+
+[In most cases, CFJ 1935 would have been an improper CFJ because it
+was called substantially after the fact, and OVERLOOKED should have
+been appropriate.  In this case, admittedly, the delay was only due to
+a similar equity case the judgement of which I rejected, so it
+wouldn't be.]

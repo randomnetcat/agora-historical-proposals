@@ -1,0 +1,25 @@
+ID: 5641
+Title: Pragmatic ribbons
+Author: Taral
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2199 (Ribbons) as follows:
+
+1) Replace the text:
+
+     Ribbons are gained as follows, unless the player already
+     possesses the color of Ribbon to be gained:
+
+with the text:
+
+     A player becomes eligible for a ribbon as follows:
+
+2) Replace all instances of "gains" with "becomes eligible for"
+3) Before the last paragraph insert the text:
+
+     If a player has become eligible for a ribbon within the last 7
+     days and does not already have that ribbon, any player CAN award
+     em that ribbon by announcement. Any such announcement is
+     ineffective unless it clearly and unambigiously specifies the
+     event that made the recipient eligible.

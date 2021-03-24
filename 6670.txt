@@ -1,0 +1,16 @@
+ID: 6670
+Title: Clarification of Rule Effect
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2141 by replacing
+{{
+       A rule is a type of instrument with the capacity to govern
+       the game generally.
+}}
+with
+{{
+       A rule is a type of instrument with the capacity to govern
+       the game generally, and is always taking effect.
+}}

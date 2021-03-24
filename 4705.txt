@@ -1,0 +1,26 @@
+ID: 4705
+Title: Rogues' Gallery 1.1
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+
+Amend R2084 (Cash Cards) by replacing the text that reads:
+
+        Exploit: Provided that fewer than half of all gamblers,
+          besides the deck, have a 'Thieves in the Night' card in
+          their hand, and the player you indicate does not have a
+          'Thieves in the Night' card in their hand, That player
+          losses one Kudo and you gain one Kudo.  For each of the
+          aforementioned stipulations that is false upon the playing
+          of this card, you gain the Albatross of Thief.
+
+with the text:
+
+        Exploit: Provided that fewer than half of all Players have a
+          Thieves in the Night card in their hand, and the player you
+          indicate does not have a Thieves in the Night card in their
+          hand, that player losses one Kudo and you gain one Kudo.  
+          For each of the aforementioned stipulations that is false 
+          upon the playing of this card, you gain the Albatross of 
+          Thief.

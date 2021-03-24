@@ -1,0 +1,37 @@
+ID: 6300
+Title: Fix contract problems
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Change the power of Rule 2136 (Contests) to 2.
+
+[This fixes two bugs:  R2198 allows contestmaster to be flipped, and
+secures the flipping of contract switches so that R2136 cannot allow
+contestmaster to be flipped.]
+
+Ratify the following document:  {
+
+  The following contracts have the following contestmasters.  No other
+  contracts are contests.
+
+  Enigma                 ais523
+  Fantasy Rules Contest  Murphy
+  Nomic Wars III         BobTHJ
+  AAA                    Wooble
+  Cookie Jar             Murphy
+  Three-Scroll Rodney    coppro
+
+}
+
+Amend Rule 2173 (The Notary) by appending this text:
+
+      The Notary tracks all contract switches not assigned to
+      another officer.
+
+For each contract and each contract switch that previously failed to
+be a switch because no officer was assigned to track it, flip it to the
+value it would have had if the Notary had been assigned to track it.
+
+[The C# scam is not fixed here, because it's not obvious how it
+should be fixed.]

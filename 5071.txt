@@ -1,0 +1,12 @@
+ID: 5071
+Title: judicial power realignment
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Change the power of rule 217 to 2.
+
+[R217 is the only judicial rule with a power of 3, which makes no
+sense.  It started out at power=1, and this proposal brings it down to
+the level of R991 "Invoking Judgement".  All other judicial rules have
+power=1; some upmutation might be appropriate.]

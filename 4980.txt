@@ -1,0 +1,22 @@
+ID: 4980
+Title: Don't force redundant elections
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1006 by replacing this text:
+
+      If no attempt to achieve Agoran Consent for changing the holder
+      of a particular office is announced in a given quarter, then the
+      Director of Personnel shall make at least one such attempt to
+      change the officeholder in the following quarter, and make the
+      change if consent is acheived.
+
+with this text:
+
+      If no attempt to achieve Agoran Consent for changing the holder
+      of a particular office is announced in a given quarter, then the
+      IADoP shall make at least one such attempt to change the
+      officeholder in the following quarter, and make the change if
+      consent is achieved.  This requirement is waived if another player
+      changes the officeholder in this way during the following quarter.

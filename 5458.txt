@@ -1,0 +1,13 @@
+ID: 5458
+Title: Secure the court II
+Author: woggle
+Co-authors: 
+Adoption index: 1.5
+
+Amend rule 1871 by replacing:
+
+    Changes to posture are secured.
+
+with:
+
+    Changes to posture and changes to hawkishness are secured.

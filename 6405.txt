@@ -1,0 +1,236 @@
+ID: 6405
+Title: That's Just Criminal
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2230 to read as follows:
+{{
+      Any person CAN publish a document alleging that a single entity
+      (the Accused) has broken a Rule.  A person CAN make such a
+      document into a Notice of Violation with 2 support, or by
+      announcement if e has done so less than 3 times in the same Agoran
+      Week. A Notice of Violation is invalid if it lacks any of the
+      following information, and the lack is correctly identified within
+      one week after the notice is published:
+       (a) The identity of the Accused;
+       (b) The allegedly illegal action/inaction in question;
+       (c) The Crime that was committed;
+       (d) The Severity of that Crime.
+
+      Knowingly issuing a Notice of Violation with incorrect
+      information is the Crime of Libel.
+
+      A Notice of Violation is valid if and only if:
+        (1) it clearly specifies the required information for a Notice
+            of Violation;
+        (2) no previous valid notice specified substantially identical
+            information (i.e. the same violation for the same specific
+            act);
+        (3) the Crime is specified in the rules;
+        (4) it clearly specifies a specific act (rather than, for
+            example, a set of actions each one of which may be illegal).
+
+      Neither a Notice's incorrectness (i.e. whether its allegation is
+      false) nor its unfairness (i.e. whether the punishment resulting
+      from leaving it Uncontested would be manifestly unfair according
+      to the guidance of the Rules) affects its validity.
+
+      As soon as possible after a player makes an announcement that is
+      reasonably recognizable as an attempt to issue such a notice,
+      the Insulator SHALL announce whether the Notice was valid.  Such
+      an announcement is self-ratifying.  Affirming the validity of
+      the notice does not in itself certify the correctness of the
+      allegation.
+
+      After a Notice of Violation has been published, any player CAN
+      close it by announcement, provided e is the accused or it has been
+      at least 7 days since the publication of the Notice of Violation,
+      and that no criminal case has been initiated for that particular
+      Notice of Violation. When a Notice of Violation is closed in this
+      manner, a number of Rests equal to the Severity of the specified
+      Crime are created in the accused's possession.
+}}
+
+Amend Rule 2143 by removing "Class 2".
+
+Amend Rule 2202 by removing "Class-8".
+
+Amend Rule 911 by removing "Class-N".
+
+Create a new power-2 rule entitled "Crimes":
+{{
+      A Crime is an offense against Agora, committed by violating a rule
+      of Agora. There are two types of Crimes - Generic and Specific. A
+      Specific Crime is an action defined as being a Crime by the Rules,
+      and such a definition implicitly defines the action as being
+      illegal. A Generic Crime is any violation of a Rule that is not a
+      Specific Crime.
+
+      Every Specific Crime has a name given to it by the Rule defining
+      it, while each Generic Crime's name is "Violating Rule N",
+      where N is the ID Number of the Rule being violated. If multiple
+      Crimes have the same name, they are the same Crime.
+
+      Severity is a Crime switch, tracked by the Insulator, with values
+      equal to each integer between 0 and 24, inclusive. Changes to
+      Severity are secured. Any player CAN flip a given Crime's Severity
+      without objection, or without 2 objections if the new value is
+      within 2 of the old value. A Specific Crime's default Severity is
+      the Power of the Rule defining it, rounded up; a Generic Crime's
+      default Severity is the Power of the Rule for which it is a
+      violation, rounded up.
+
+      When issuing reports containing the Severity of Crimes, the
+      Insulator need not list a Generic Crime if its Severity is at its
+      default value.
+}}
+
+For each Crime that was defined in the Rules prior to the adoption of
+this proposal, flip its Severity to the Class it had prior to the
+adoption of this proposal.
+
+Amend Rule 2125 by replacing
+{{
+      d) The rules explicitly state that it MAY be performed while
+         certain conditions are satisfied.  Except as allowed by the
+         rules, performing such an action is the Class-N Crime of
+         Restricted Behavior, where N is the maximum power of the
+         rules explicitly allowing it (rounded up as needed to become
+         a valid Class of Crime).
+}}
+with
+{{
+      d) The rules explicitly state that it MAY be performed while
+         certain conditions are satisfied.  Except as allowed by the
+         rules, performing such an action is a violation of the rule or
+         rules allowing it to be performed legally.
+}}
+
+Amend Rule 1504 by removing "Players SHOULD NOT create rules defining
+Crimes of a Class greater than 14." and "When a judicial question on
+culpability is judged after a number of rests have been created in the
+Accused's posession due to the associated notice, those rests are
+destroyed.", by replacing
+{{
+      Criminal cases are a subclass of judicial cases.  Any
+      first-class person can initiate a criminal case by an
+      announcement calling for judgement on the circumstances
+      surrounding a specified valid Notice of Violation alleging a
+      rules breach by a single entity (the Accused).  The initiator
+      and each member of the Accused's basis are unqualified to be
+      assigned as judge of the case.
+}}
+with
+{{
+      Criminal cases are a subclass of judicial cases.  Any
+      first-class person can initiate a criminal case by an
+      announcement calling for judgement on the circumstances
+      surrounding a specified valid unclosed Notice of Violation
+      alleging a rules breach by a single entity (the Accused).  The
+      initiator and each member of the Accused's basis are unqualified
+      to be assigned as judge of the case.
+}},
+and by replacing
+{{
+      * SILENCE, a number of Rests, equal to the defined Class of the
+        Crime or (if the breach is not a defined crime) the power of
+        the breached Rule, rounded to the nearest integer with ties
+        broken by rounding up, are created in the possession of the
+        Ninny.  The judge CAN, with 2 Support, set the fine at a
+        different integral level between one half and double that
+        amount, and SHOULD attempt to do so if necessary to ensure
+        that the correlation between the fine and the severity of the
+        breach is appropriate, or to account for the faith (good or
+        bad) shown by the Ninny in contesting the notice or in aiding
+        or obstructing the course of justice.
+}}
+with
+{{
+      * SILENCE, a number of Rests are created in possession of the
+        Ninny, to be determined by the judicial question on severity.
+
+      A criminal case has a judicial question on severity, which is
+      applicable if the question on sentencing is applicable and has
+      a judgement of SILENCE.
+
+      The valid judgments for the judicial question on severity are the
+      nonnegative integers within 2 of the Severity of the Crime
+      breached by the Ninny. When the judicial question on severity is
+      assigned a judgment, a number of Rests equal to the judgment are
+      awarded to the Ninny. In addition, any player CAN, within the
+      next two weeks and without 4 objections, set the Severity of that
+      Crime to the judgment, unless the judgment has been set aside or
+      the question on severity is inapplicable.
+
+      If the judge believes that the Severity of the Crime does not give
+      him the leeway to assign an appropriate number of Rests, e MAY and
+      SHOULD delay eir judgment long enough for em to make a
+      reasonable attempt to change the Severity of that Crime. The CotC
+      SHOULD NOT recuse for lateness a judge attempting to change the
+      Severity of a Crime.
+}}.
+
+Amend Rule 2170 by replacing
+{{
+      A person SHALL NOT make a public statement intended to mislead
+      others as to the identity of its publisher.
+
+      A player SHALL NOT select a confusing nickname, including but
+      not limited to a name that has generally been used to refer to
+      another entity within the past three months.
+}}
+with
+{{
+      A person SHALL NOT make a public statement intended to mislead
+      others as to the identity of its publisher. Doing so is the Crime
+      of Being Unable to Face Oneself.
+
+      A player SHALL NOT select a confusing nickname, including but
+      not limited to a name that has generally been used to refer to
+      another entity within the past three months. Doing so is the Crime
+      of Confusion.
+}}
+
+Amend Rule 2154 by replacing
+{{
+       4) If there are no valid options for the Decision, instead of
+          initiating the Decision, the IADoP SHALL, in place of
+          initiating the decision, announce this fact, ending the
+          election.  If there is exactly one valid option for the
+          Decision, the IADoP SHALL, in place of initiating the
+          Decision, announce the valid option (the candidate), thus
+          installing that candidate into the office and ending the
+          election.
+}}
+with
+{{
+       4) If there are no valid options for the Decision, instead of
+          initiating the Decision, the IADoP SHALL, in place of
+          initiating the decision, announce this fact, ending the
+          election.  If there is exactly one valid option for the
+          Decision, the IADoP SHALL, in place of initiating the
+          Decision, announce the valid option (the candidate), thus
+          installing that candidate into the office and ending the
+          election. Failing to do either is the Crime of Wasting Our
+          Precious Time.
+}}
+
+Amend Rule 649 by replacing
+{{
+      As soon as possible after a patent title is awarded or revoked,
+      the herald SHALL announce the award or revocation.
+}}
+with
+{{
+      As soon as possible after a patent title is awarded or revoked,
+      the Herald SHALL announce the award or revocation. Failure to do
+      so is the Crime of Really Awful Trumpetry.
+}}
+
+[Note: this is not a comprehensive list of rule violations. Rather, it
+picks some key points in the rules where several ways to violate a rule
+exist and they should be distinguished so as to allow different
+penalties. Rules where many SHALLs exist (such as Equity Cases and Grand
+Poobah) were not considered as they will require more exacting
+consideration.]

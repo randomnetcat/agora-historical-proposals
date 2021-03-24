@@ -1,0 +1,141 @@
+ID: 4555
+Title: Vox Populi
+Author: Elysion
+Co-authors: 
+Adoption index: 2
+
+
+[Friends, Agorans, lend me your ears. We have been subject to the
+tyrannical rule of an aristocracy. It is time for the people to make
+their voices heard and replace these institutions with a representative
+republic. The revolution is upon us!
+
+The outline of the new system is:
+
++ Each player has a Lobbying Strength, which may be increased by paying
+  a fee
+
++ Players may use eir Lobbying Strength to support another player by
+  joining that player's coalition
+  
++ A player is eligible to become an Oligarch only if eir coalition has
+  enough Lobbying Strength
+
+Changes since the proto:
+
++ "than than" was corrected in the proposed amendment to rule 1936
+]
+
+Upon the adoption of this proposal, the Potency Threshold is set to
+equal 6, the Political Charge is set to equal the Oligarchy Charge
+Requirement immediately prior to the adoption of this proposal, and the
+Lobbying Strength of each Player is set to 1.
+
+Create a rule with power 2 entitled "Coalitions" reading:
+
+      Each Player shall have associated with them a list known as that
+      Player's Coalition. A Coalition consists of a set (possibly null)
+      of registered Players. At any time, a player may be a member of at
+      most one Coalition. A player may be a member of eir own Coalition.
+      Whenever a member of a Coalition ceases to be a Player, e is
+      removed from that Coalition.
+
+      A Player may join a Coalition by announcing e does so and
+      specifying which Coalition e is joining, provided e has not
+      successfully made such an announcement in the past week and is not
+      currently a member of another Coalition. A Player may leave a 
+      Coalition e is a member of by announcing e does so.
+
+
+Create a rule with power 2 entitled "Potency and Lobbying" reading:
+
+      Each Player has two associated non-negative integral numbers
+      known as that Player's Potency and Lobbying Strength.
+
+      A Player's Potency is equal to the sum of the Lobbying Strengths
+      of the members of eir Coalition.
+
+      At any time, a Player may, by announcement, increase their
+      Lobbying Strength by a positive integral amount, N. The Fee
+      associated with this action is the Political Charge multiplied by
+      N, or half that amount (rounded up) if the Player is a Politician.
+
+      At the beginning of each new month, every Player's Lobbying
+      Strength is set to 1. Whenever a Player registers, eir Lobbying
+      Strength is set to 1.
+
+
+Rename rule 1932 (The Oligarchy) to "Oligarchs and the Oligarchy" and
+amend it to read:
+
+      Class is a stuck player switch with values Plebeian and Oligarch.
+      A Plebeian may flip eir class if eir Potency is greater than or
+      equal to the
+ Potency Threshold. An Oligarch may flip eir class at
+      any time.
+
+      The Oligarchy is the set of all Players who are Oligarchs.
+
+
+Amend rule 1955 (The Grand Warden of the Oligarchy) to read:
+
+      (a) The Grand Warden of the Oligarchy (GWotO) is an office; its
+          holder is recordkeepor of Oligarchs.
+
+      (b) The GWotO's Weekly Report shall include a list of all
+          Oligarchs, the membership of each Player's Coalition, the
+          Potency and Lobbying Strength of each Player, the
+          identity of the Speaker, and the date of the next quarterly
+          Speaker transition.
+                                                                        
+                                     
+      (c) The GWotO shall have a budget containing the Political Charge,
+          which is a positive integer less than 10, and the Potency
+          Threshold, which is a positive integer less than 10.
+                                                                        
+                                     
+      (d) The GWotO may Without 2 Objections from Oligarchs replace
+          the budget with a proto-budget e publishes when e announces
+          eir intent to do so.
+
+
+Amend Rule 1963 (Eligible Oligarchs) by replacing the text reading:
+
+          (5) e is the Grand Warden of the Oligarchy; or
+
+with:
+
+          (5) e is the Grand Warden of the Oligarchy; or
+          (6) eir Potency is less than the Potency Threshold and
+              has been continuously so for at least five days;
+
+
+[And some cleanup.]
+
+Repeal rule 2027 (Vacant Oligarchy)
+Repeal rule 1936 (Oligarchic Service)
+
+Amend rule 1664 (Rebellion) by replacing the text reading:
+
+      - The GWotO shall remove all Abiding Oligarchs from the Oligarchy
+
+with:
+
+      - The Lobbying Strength of each Abiding Player is set to 0
+
+and removing the text reading ", Oligarchy membership"
+
+
+Amend rule 2058 (Removing Oligarchs from the Oligarchy) by replacing:
+
+      If this notice is correct, the named Player ceases to be an
+      Oligarch as of the GWotO's announcement.
+
+with:
+
+      If this notice is correct, the named Player's class is flipped
+      to Plebeian as of the GWotO's announcement.
+
+
+Amend rule 2052 (Voting Potential) by replacing all instances of
+"Oligarchy Charge Requirement" with "Political Charge"

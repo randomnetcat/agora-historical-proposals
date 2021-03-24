@@ -1,0 +1,12 @@
+ID: 4999
+Title: fix dependent actions
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 1728 by replacing the text "action; or" with "action; and".
+
+[Before this amendment, an action to be performed Without Objection
+can actually be performed despite objections, on the grounds that it
+trivially satisfies (e)(2) which is ORed with (e)(1).  To make (e)(1)
+matter in that case it must be ANDed with (e)(2).]

@@ -1,0 +1,30 @@
+ID: 6142
+Title: Better SHOULD fix
+Author: coppro
+Co-authors: ais523, Sgeo
+Adoption index: 3.0
+
+If the proposal entitled "Fix recursive SHOULD" was adopted at the same
+time as this proposal, it is of no effect.
+
+Amend rule 2152 by replacing the text after the colon in bullet 3 with
+{{{
+     The described action SHALL NOT be performed unless its performance
+     has been properly considered, as described below.
+}}},
+by replacing the text after the colon in bullet 7 with
+{{{
+     An explanation for performing the action may be requested as
+     below.
+}}},
+and by appending the following text to the rule, after the bulleted
+list:
+{{{
+     If an action requires consideration (bullets 3 and 7), then any
+     player may issue a request for explanation of the action within
+     seven days. The person performing the action SHALL as soon as
+     possible provide an explanation for the action that indicates that
+     he had understood and carefully weighed the implications of
+     performing or failing to perform the action prior to performing or
+     failing to perform it.
+}}}

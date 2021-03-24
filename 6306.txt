@@ -1,0 +1,21 @@
+ID: 6306
+Title: Patch objections
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2124 (Agoran Satisfaction) by replacing this text:
+
+      For the purposes of any determination defined by this rule,
+      objections shall always be considered withdrawn if they were
+      made prior to the announcement of intent to perform the action.
+
+with this text:
+
+      The above notwithstanding, if the action depends on objections,
+      and an objection to it has been withdrawn within the past 24
+      hours, then Agora is not Satisfied with the intent.
+
+      A person CANNOT support or object to an announcement of intent
+      before the intent is announced, or after e has withdrawn the.
+      same type of response.

@@ -1,0 +1,15 @@
+ID: 6591
+Title: power => mutability
+Author: G.
+Co-authors: 
+Adoption index: 3.9
+
+Increase the power of Rule 2140 (Power Controls Mutability) to 3.9
+Increase the power of Rule 106 (Adopting Proposals) to 3.9
+
+[Note: not all the text in R106 has to be high-powered, only the
+last two paragraphs.  Split/refactor of 106 into proposal definition
+and submission versus proposal adoption useful?]
+
+[Difference between 3.9 and 4.0 is trivial in terms of votes and
+reserved for emergencies in terms of precedence].

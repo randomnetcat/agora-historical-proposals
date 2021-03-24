@@ -1,0 +1,10 @@
+ID: 5283
+Title: <none>
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+The 10,000 inquiry cases asking whether "This is Sparta", made by
+comex in Message-Id <200710281809.40881.comexk@gmail.com>, are removed
+from the game. All changes to the game state caused by these cases are
+removed from the game.

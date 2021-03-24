@@ -1,0 +1,14 @@
+ID: 6508
+Title: Fix contest limits
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2233 (Awarding and Revoking Points) by replacing the
+second paragraph with this text:
+
+      The contestmaster of a contest CAN and SHALL award and revoke
+      points as directed by that contract, except that e CANNOT
+      thus cause either the total number awarded or the total number
+      revoked on any axis due to that contest in a given week to
+      exceed that contest's threshold index.

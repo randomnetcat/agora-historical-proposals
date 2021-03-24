@@ -1,0 +1,14 @@
+ID: 4686
+Title: Non transitory rebellion
+Author: Quazie
+Co-authors: 
+Adoption index: 2
+
+
+Replace the following from rule 1664
+
+     - A Speaker Transition occurs
+
+with
+      
+      - If the Speaker is not Rebellious, A Speaker Transition occurs

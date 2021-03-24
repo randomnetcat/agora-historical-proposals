@@ -1,0 +1,19 @@
+ID: 6115
+Title: Get on with it!
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2168 (Extending the Voting Period) by replacing this text:
+
+     Upon such an occurrence, the vote collector for the decision
+     SHOULD issue a humiliating public reminder to the slackers who
+     have not yet cast any votes on it despite being eligible.
+
+with this text:
+
+     Upon such an occurrence, the vote collector for the decision
+     SHOULD issue a humiliating public reminder to the slackers who
+     have not yet cast any votes on it despite being eligible, and
+     CAN end the voting decision by announcement if the result would
+     no longer be FAILED QUORUM.

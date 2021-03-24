@@ -1,0 +1,8 @@
+ID: 5228
+Title: Citizenship cleansing
+Author: root
+Co-authors: 
+Adoption index: 1
+
+If eekeeP is a player distinct from Peekee, e is deregistered.
+If hedgehogcull is a player distinct from Peekee, e is deregistered.

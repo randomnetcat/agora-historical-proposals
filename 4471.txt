@@ -1,0 +1,53 @@
+ID: 4471
+Title: Q-bert
+Author: OscarMyer
+Co-authors: 
+Adoption index: 1
+
+Proposal:  Let's Play Q*Bert (tm)
+
+ [Add a new Land Type.]
+ Amend R1997 to read:
+       In addition to Aether, the following Land Types are defined:
+         (a) Black;
+         (b) White;
+         (c) Purple.
+
+ [Create Q*Bert.]
+ Create a new rule titled "Q*Bert (tm)" with the following text:
+
+       Q*Bert (tm) is an entity in Arcadia.  Q*Bert moves
+       one space per week, according to the following procedure:
+
+       Q*Bert moves one space in a random direction, but
+       not to the space it last moved from.  Q*Bert is permitted to
+       move to an undefined destination or to Aether.  If Q*Bert
+       moves to an undefined destination, its location becomes
+       undefined, and the next week it will move to (0,0).
+
+       Normally, Q*Bert moves in a diagonal direction.  If Q*Bert
+       ends its diagonal movement at a location that another
+       entity ends eir movement at for that week, then in the
+       following week Q*Bert will say "@!#?@!" and move in a
+       random orthogonal direction.
+
+       Q*Bert has a color, which is a defined Land Type other than Aether
+       and that does not have Sente.  When Q*Bert moves to a space, it
+       changes the Land Type of that space.  If the current Type is not
+       the same as Q*Bert's color, Q*Bert changes that space's type to
+       its color.  Otherwise, Q*Bert changes that space's type to the
+       Land Type that currently has Sente.
+
+       The Mapkeepor is a Limited Executor of Q*Bert, and its Prime
+       Executor for its movement in Arcadia.  The Mapkeepor is to
+       make the random determination of Q*Bert's movement direction
+       and publish Q*Bert's movement and its effect as soon as possible
+       after the start of the Agoran week.
+
+       Upon the Mapkeepor's report that Q*Bert's color has Sente,
+       Q*Bert's color becomes a random Land Type other than Aether or
+       the old color.  The Mapkeepor will make this random determination.
+
+ [Initialize values]
+ Set Q*Bert's location to (0,0).
+ Set Q*Bert's color to Purple.

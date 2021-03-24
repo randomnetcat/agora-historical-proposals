@@ -1,0 +1,8 @@
+ID: 5414
+Title: Generalise deputisation
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2160 (Deputisation) by replacing each instance of "office"
+with "position".

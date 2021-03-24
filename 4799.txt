@@ -1,0 +1,22 @@
+ID: 4799
+Title: Not Your Turn No More
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Upon adoption of this proposal, each Gambler other than the Deck gains
+one pending draw for each copy of "Not Your Turn" in eir hand.
+
+Upon adoption of this proposal, the Deckmastor's budget is amended by
+deleting the quota for "Not Your Turn".
+
+Amend Rule 2076 by deleting the text that reads:
+
+      Caption:  Not Your Turn
+      Elements: Budgeted, Delayed[2]
+      Exploit:  You may specify a card play that has occurred
+                in the past 48 hours, and (1) that card shall be
+                deemed to have not been played, and (2) the gambler
+                who originally played that card may not play a copy
+                of that card for the next 72 hours.

@@ -1,0 +1,136 @@
+ID: 6629
+Title: HotFix
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Change the power of Rule 1698 (Agora is a Nomic) to 3.14159.
+Change the power of Rule 1551 (Ratification) to 3.1.
+[It is intentional that other Rules, in particular 105, remain at 3].
+Amend Rule 1551 (Ratification) to read as follows:
+{{
+     A public document is part (possibly all) of a public message.
+
+     When a public document is ratified, the game state is modified to
+     what it would be if, at the time of that document's publication,
+     it had been completely true and accurate, notwithstanding that if
+     that were the case, the ratification might not have occurred.
+     This does not change anything retroactively, nor does it amend
+     facts that are not a part of a game state or create a legal
+     fiction to replace them. Players MAY, however, refer to past
+     events as if the document had been completely true at the time,
+     even the parts that are not a part of the game state; they SHALL
+     NOT do so if there is specific need for the truth.
+
+     All parts of a ratification occur simultaneously. No effect
+     occurs indirectly due to the changes made in a ratification, as
+     all such effects will have been taken into account in the
+     ratification itself and repeating them would go against its
+     purpose. Indirect effects may still occur based on the new state
+     after the ratification is complete. If any part of a ratification
+     would be unsuccessful, the remainder is unaffected and is still
+     completed.
+
+     Ratifying a public document is secured at power threshold 3.
+}}
+
+Enact a new Rule at Power 3 entitled (Game State), with the following text:
+{{
+     The game state generally consists of the following:
+         - All properties defined by game entities.
+         - The existence and non-physical properties of entities
+           defined by game entities, including the game entities
+           themselves.
+         - Any ongoing effects, including obligations, created by game
+           entities.
+     but not the following:
+         - Any physical property.
+         - The possibility or legality of an action that has occurred.
+
+     A game entity is a rule or contract.
+
+     This Rule defers to any Rule, including one of lower Power,
+     insofar that it excludes or includes anything it defines, or any
+     property thereof, from the game state.
+}}
+
+Amend Rule 1030 (Precedence between Rules) by replacing the first bullet
+with the following
+{{
+     - In a conflict between Rules with different Power, the Rule of
+       higher Power takes precedence over the Rule of lower Power
+       unless:
+            - The Rule with the higher Power explicitly defers to the
+              Rule of lower Power; and,
+            - In that deferral, explicitly mentions the possibility of
+              deferral to a Rule of Lower Power; and,
+            - The Rule of lower Power does not explicitly defer to the
+              Rule of higher Power,
+       in which case the Rule of lower Power takes precedence;
+       otherwise,
+}}
+[A better wording would be appreciated]
+
+Amend Rule 106 (Adopting Proposals) by replacing
+{{
+     If the option selected by Agora on this decision is ADOPTED,
+     then the proposal is adopted, and unless other rules prevent it
+     from taking effect, its power is set to the minimum of four and
+     its adoption index, and then it takes effect. It does not
+     otherwise take effect.
+}}
+with
+{{
+     When an Agoran Decision to adopt a proposal is resolved with an
+     outcome of ADOPTED, then the proposal is adopted, and unless
+     other rules prevent it from taking effect, its power is set to
+     the minimum of four and its adoption index, and then it takes
+     effect. Proposals do not otherwise take effect.
+}}
+
+Amend Rule 208 (Resolving Agoran decisions) by replacing
+{{
+     This rule takes precedence over any rule that would provide
+     another mechanism by which an Agoran decision may be resolved.
+}}
+with
+{{
+     This rule provides the only mechanism by which an Agoran Decision
+     can be resolved, and it takes precedence over any rule that would
+     provide another mechanism for an Agoran Decision to be resolved.
+}}
+and also by replacing
+{{
+     (b) It clearly identifies the matter to be resolved.
+}}
+with
+{{
+     (b) It clearly identifies the matter to be decided.
+}}
+and also by prepending the following paragrah:
+{{
+     Every Agoran Decision is either resolved or unresolved.
+}}
+[The addition of this definition should make it clear that the property
+of 'resolvedness' exists within the game state and thus within the scope of
+ratification.]
+
+Amend Rule 2034 (Vote Protection and Cutoff for Challenges by replacing
+{{
+     c) (if the indicated outcome was to adopt a proposal) such a
+     proposal existed, was adopted, and took effect.
+}}
+with
+{{
+     c) unless otherwise specified, that any effects directly
+        associated with the resolution of that Agoran decision did or
+        did not occur, as appropriate to the outcome.
+}}
+[This makes additional safeties; it ratifies that proposals that are
+REJECTED are ratified out, that office elections are ratified, and
+anything else that my arise. At the same time, it does not apply
+indirectly to add safety, and it's specifically ment]
+
+Ratify the Short Logical Ruleset published by the Rulekeepor most
+immediately prior to the initial publication of this proposal to a
+public forum.

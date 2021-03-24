@@ -1,0 +1,17 @@
+ID: 6109
+Title: Extra votes?
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend the following paragraph in Rule 2019:
+
+     e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
+        start of an ordinary proposal's voting period has a voting
+        limit on that proposal of 1.4 times what it would be
+        otherwise (rounded to the nearest integer, breaking ties
+        toward odd integers), rules to the contrary notwithstanding.
+
+by replacing "1.4" with "1.5" and "odd" with "even".
+
+[Surely I deserve  _one_ extra vote.]

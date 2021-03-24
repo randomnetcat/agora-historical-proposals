@@ -1,0 +1,14 @@
+ID: 4932
+Title: Clarifying Excess CFJs
+Author: Levi
+Co-authors: 
+Adoption index: 1
+
+
+Replace the entire text of rule 2132 with the following text:
+     A CFJ submitted by a person who has previously submitted five or  
+more CFJs during
+   the same Agoran Week as that CFJ is an Excess CFJ. The Clerk of  
+the Courts may
+   Refuse an Excess CFJ by announcement. A Refused CFJ ceases to be a  
+CFJ.

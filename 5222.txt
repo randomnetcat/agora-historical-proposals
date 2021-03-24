@@ -1,0 +1,9 @@
+ID: 5222
+Title: Consistent terminology, please
+Author: root
+Co-authors: 
+Adoption index: 1
+
+Retitle Rule 2134 (Win by Voting Power) to "Voting Limits are
+Limited", and amend it by replacing each instance of the word "power"
+with the word "limit".

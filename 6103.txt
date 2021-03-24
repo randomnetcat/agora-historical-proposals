@@ -1,0 +1,15 @@
+ID: 6103
+Title: Ticket Ration
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+     A player MAY publish a Notice of Violation
+
+with this text:
+
+     A player MAY publish a Notice of Violation (with N support, where
+     N is the number of valid Notices of Violation e previously
+     published during the same week, or by announcement if N is zero)

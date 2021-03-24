@@ -1,0 +1,17 @@
+ID: 6372
+Title: Transition Team
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1006 by appending the following paragraph:
+
+   If the holder of an elected office resigns or announces an intent to
+   resign eir office, and in doing so designates another active player to
+   replace em who is qualified to hold the office;  then the designee CAN,
+   in the week following the officer's announcement, make emself the
+   holder of the office by announcement; the ADoP SHALL initiate an
+   election for the office asap after such an office change.
+
+[can resign by naming a temporary (temporary until election) replacement
+instead of leaving the office empty)].

@@ -1,0 +1,15 @@
+ID: 4791
+Title: Quiet means Quiet 2.01
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:Quiet means Quiet 2.01
+
+Insert the following into Rule 1042
+
+      The noisiness of an active player may not be changed if e has
+      posted to a public forum in the past 120 hours.
+
+Directly after the first hard return in rule 1042

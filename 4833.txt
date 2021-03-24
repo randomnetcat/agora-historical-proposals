@@ -1,0 +1,111 @@
+ID: 4833
+Title: Tension makes a tangle
+Author: Maud
+Co-authors: 
+Adoption index: 3
+
+
+Change the title of rule 101 (Obey the Rules) to "Agora May I?",
+and amend it to read:
+
+      Any player is permitted to perform an action which is not
+      regulated.  An action is regulated if:
+
+      (a) the action is prohibited;
+
+      (b) the rules indicate that if certain conditions are satisfied,
+          then some player is permitted to perform the action;
+
+      (c) the action would, as part of its effect, modify information
+          for which some player is required to be a recordkeepor;
+
+      (d) the action would, as part of its effect, make it impossible
+          to make arbitrary modifications to the rules by any
+          combinations of actions by players; or
+
+      (e) the courts have held that the action is regulated, and this
+          finding has not been overturned.
+
+      A player besides the Speaker is always permitted to deregister
+      rather than continue to play.  Please treat Agora right good
+      forever.
+
+Repeal rule 1011 (Definition of Nomic Property).
+
+[Shouldn't this be "Can't implies needn't"?]
+
+Amend rule 2039 (Ought implies can) to read:
+
+      No player may be required to do anything e is not empowered to
+      do, and the failure of a player to do something e was not
+      empowered to do shall never constitute the commission of a crime
+      or infraction.
+
+[Should I define "note"?  Use a different word?]
+
+Change the title of rule 1527 (Timing of Multiple Events in One
+Message) to "Unsnarling Tangles", and amend it to read:
+
+      Whenever a message contains more than one note on which the
+      rules place some legal significance, the notes shall be taken to
+      have been sent sequentially in the order they appear in the
+      message.
+
+      A tangle is any set of two or more notes in a message, none of
+      which can be determined to appear in the message before the
+      others.  If a message containing a tangle does not provide an
+      order for the notes in that tangle, then the notes in that
+      tangle shall be considered ambiguous and without effect if the
+      effects of those notes on the gamestate would depend on the
+      order in which they take effect, discounting the mere fact of
+      their taking effect in a different order.
+
+Change the title of rule 869 (How to Join Agora) to "How to Join and
+Leave Agora", and amend it to read:
+
+      A person who is not currently registered as a player and is not
+      prohibited from registering is permitted to register.
+
+      A person registers or deregisters by announcement.
+
+      Whenever a person registers, e becomes a player.
+
+      Whenever a player deregisters or is deregistered, e ceases to be
+      a player and is prohibited from registering for the next thirty
+      days.
+
+Repeal rule 1043 (Deregistration).
+
+Amend rule 478 (Fora) to read:
+
+      Publicity is a stuck forum switch with values null, Discussion,
+      and Public.  A forum's publicity may not be changed except as
+      described in this rule.
+
+      The Registrar may flip the publicity of a forum without
+      objection as long as:
+
+      (a) e sends eir announcement of intent to that forum; and
+
+      (b) if the forum is to be made public, the announcement by which
+          the Registrar makes that forum public is sent to all
+          existing public fora.
+
+      Each active player should ensure e can receive messages via each
+      public forum.
+
+      The Registrar's report shall include a list of all public or
+      discussion fora and sufficient data regarding each to allow
+      players to receive messages via that medium.  The Registrar need
+      not keep track of null fora.
+
+      A message is public if and only if it is sent via a public forum
+      or is sent to all players and contains a clear designation of
+      intent to be public.  A player "publishes" or "announces"
+      something by sending a public message.
+
+      A player performs an action "by announcement" by announcing that
+      e performs it.  A player performs an action "by private message"
+      to some player by sending an appropriate private message to the
+      specified player.  Any action performed by sending a message is
+      performed at the time date-stamped on that message.

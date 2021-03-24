@@ -1,0 +1,26 @@
+ID: 6049
+Title: Finish cleanup of contract definitions
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+[This is the part of Proposal 6025 that failed, now fixed to account
+for Proposal 5989.  The change of switch tracker is deliberate; the
+Scorekeepor needs to know it in order to know which point awards are
+valid, while the Notary has no comparable need.]
+
+Amend Rule 2136 (Contests) by replacing this text:
+
+     Contestmaster is a public contract switch, tracked by the
+     Notary, with a default value of 'none', and a set of possible
+     values which consists of all first-class players and 'none'.
+
+     A public contract is a contest if and only if it has a
+     contestmaster other than 'none'.
+
+with this text:
+
+     Contestmaster is a public contract switch, tracked by the
+     Scorekeepor, with values 'none' (default) and all first-class
+     players.  A contest is a public contract whose contestmaster
+     is not 'none'.

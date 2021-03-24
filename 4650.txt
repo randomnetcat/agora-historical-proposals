@@ -1,0 +1,36 @@
+ID: 4650
+Title: Late Announcement of Elections for Offices
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1558 (Defaults for Elections for Offices) by appending
+this text:
+
+     * If the Vote Collector fails to meet an ASAP requirement to
+       publish a list of Candidates, or the identity of the
+       winning Candidate, then the Election/Referendum does not
+       fail, but becomes Stale.  If a new Election for the same
+       Office is initiated, then the stale Election/Referendum fails.
+
+Amend Rule 790 (Filling Vacant Offices) by replacing this text:
+
+     As soon as possible after an Office ceases to have an
+     Electee (or is created without installing an Electee),
+     the designated conductor of Office Elections shall
+     initiate an Election for that Office, as described by
+     other Rules.
+
+with this text:
+
+     As soon as possible after
+
+       a) an Office ceases to have an Electee;
+       b) an Office is created without installing an Electee; or
+       c) an Election for an Office without an Electee becomes Stale;
+
+     the designated conductor of Office Elections shall
+     initiate an Election for that Office, as described by
+     other Rules.  This requirement is cancelled if the Office
+     comes to have an Electee.

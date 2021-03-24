@@ -1,0 +1,17 @@
+ID: 4862
+Title: Update "Everybody Gets One"
+Author: OscarMeyr
+Co-authors: 
+Adoption index: 1
+
+
+Amend the Exploit of the card Everybody Gets One in the Blueprint
+Cardbook by replacing the sentence:
+
+   Gain one draw for each card you give away, plus one draw for
+playing this card.
+
+With the sentence:
+
+   Gain one white chip for each card you give away, plus one white
+chip for playing this card.

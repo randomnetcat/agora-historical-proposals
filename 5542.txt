@@ -1,0 +1,30 @@
+ID: 5542
+Title: equation as amendment
+Author: Wooble
+Co-authors: 
+Adoption index: 1.7
+
+In Rule 2169, replace:
+      An equity case has a judicial question on equation, which is
+      applicable at all times following the pre-trial phase.  The
+      valid judgements for this question are the possible agreements
+      that the parties could make that would be governed by the rules.
+with:
+      An equity case has a judicial question on equation, which is
+      applicable at all times following the pre-trial phase.  The
+      valid judgements for this question are the possible amendments
+      to the contract.
+
+and replace:
+      When an applicable question on equation in an equity case has a
+      judgement, and has had that judgement continuously for the past
+      week (or all parties to the contract have approved that
+      judgement), the judgement is in effect as a binding agreement
+      between the parties.  In this role it is subject to modification
+      or termination by the usual processes governing binding
+      agreements.
+with:
+      When an applicable question on equation in an equity case has a
+      judgement, and has had that judgement continuously for the past
+      week (or all parties to the contract have approved that
+      judgement), the contract is amended as specified in the judgement.

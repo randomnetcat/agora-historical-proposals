@@ -1,0 +1,40 @@
+ID: 5475
+Title: Asset unsmashing
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+For the purpose of this proposal, time T is the time (if any)
+at which Rule 2166 ceased to exist.
+
+If Rule 2166 no longer exists, then create a rule with the same
+title, power, and text that Rule 2166 had immediately before time T.
+
+Amend Rule 2166 (or, if it no longer exists, the rule created as
+described above) by replacing this text:
+
+      An asset is an entity defined as such by an instrument or
+      contract (hereafter its backing document).
+
+with this text:
+
+      An asset is an entity defined as such by an instrument or
+      contract (hereafter its backing document), and existing
+      solely because its backing document defines its existence.
+
+If Rule 2166 no longer exists, then upon the adoption of this
+proposal:
+
+  * All partnerships that existed immediately before time T are
+    reinstated into existence with the attributes they possessed
+    immediately before time T.
+
+  * All instances of assets that existed immediately before time T
+    are reinstated into existence in the possession of their owner
+    immediately before time T.
+
+  * If Ivan Hope's VVLOD is greater than 2,400,000, then it is
+    decreased by 2,400,000.
+
+  * If Ivan Hope's EVLOD is greater than 2,400,000, then it is
+    decreased by 2,400,000.

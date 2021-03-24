@@ -1,0 +1,395 @@
+ID: 4455
+Title: Two-tone Economics
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Create a new Rule titled "Colors" with this text:
+
+      Red, Yellow, Blue, and Octarine are Primary Colors.
+
+      Red and Yellow make Orange.
+      Red and Blue make Purple.
+      Yellow and Blue make Green.
+      Red and Octarine make Infrared.
+      Yellow and Octarine make Mellow.
+      Blue and Octarine make Ultraviolet.
+
+      Any Color made by two Primary Colors is a Secondary Color.
+
+Create a new Rule titled "The Color of Money" with this text:
+
+      For each Primary Color and Secondary Color, there is a Bank Currency
+      of <Color> Tokens.
+
+      The Recordkeepor of all <Primary Color> Tokens is the Treasuror.
+
+      The Recordkeepor of Orange Tokens is the Assessor.
+
+      The Recordkeepor of Purple Tokens is the Promotor.
+
+      The Recordkeepor of Green Tokens is the Herald.
+
+      The Recordkeepor of Infrared Tokens and Mellow Tokens is the Grand
+      Warden of the Oligarchy.
+
+      The Recordkeepor of Ultraviolet Tokens is the Assistant Director
+      of Personnel.
+
+Create a new Rule titled "Primary Circulation" with this text:
+
+      The Ideal <Primary Color> Token Circulation Level is equal to the
+      number of Players.
+
+      For Red and Octarine Tokens, the IRTCL is ten times the number of
+      Players.
+
+      For Yellow and Blue Tokens, the IYTCL and IBTCL are increased by
+      half the total Stain of all Players.
+
+      The Actual <Primary Color> Token Circulation Level is equal to the
+      sum of the following:
+
+        (a) The total number of <Primary Color> Tokens owned by entities
+            other than the Bank.
+
+        (b) The total number of <Primary Color> Tokens being Auctioned
+            in an Auction that has not yet concluded.
+
+        (c) The total number of <Primary Color> Tokens that have been
+            Auctioned in an Auction that has concluded, but for which
+            the debts arising from Winning Bids have neither paid nor
+            defaulted upon.
+
+        (d) The total number of <Primary Color> Tokens that have been
+            Auctioned in an Auction that has concluded, and the debts
+            arising from Winning Bids have been paid, but the <Primary
+            Color> Tokens have not yet been transferred to the Winning
+            Bidders.
+
+      The <Primary Color> Token Surplus is the I<PC>TCL minus the A<PC>TCL,
+      with a minimum of zero.
+
+      As soon as possible after the beginning of the month, for each
+      Primary Color with a non-zero Surplus, the Recordkeepor of <Primary
+      Color> Tokens shall initiate a <Primary Color> Token Auction as
+      soon as possible.  The items to be Auctioned are individual <Primary
+      Color> Tokens.  The number of items is the <Primary Color> Surplus
+      at the beginning of the month, rounded to the nearest integer.  The
+      Auction Currency is Stems.  Only Players whose Color matches the
+      Tokens being Auctioned may bid.
+
+Create a new Rule titled "Secondary Circulation" with this text:
+
+      An entity may buy N <Secondary Color> Tokens from the Bank by paying
+      a Fee of N <Primary Color #1> Tokens plus N <Primary Color #2> Tokens,
+      provided that <Primary Color #1> and <Primary Color #2> make 
+<Secondary
+      Color>.  Upon payment of such a Fee, the Bank incurs a debt of N
+      <Secondary Color> Tokens to the entity.
+
+Upon the adoption of this Proposal, for each entity possessing N Voting
+Entitlements, 5*N Red Tokens and 5*N Yellow Tokens are created in that
+entity's possession.
+
+Upon the adoption of this Proposal, for each entity possessing N Papyri,
+N/2 Red Tokens and N/2 Blue Tokens are created in that entity's possession.
+
+Upon the adoption of this Proposal, for each entity possessing N 
+Indulgences,
+N/2 Yellow Tokens and N/2 Blue Tokens are created in that entity's 
+possession.
+
+Upon the adoption of this Proposal, 5 Octarine Tokens are created in the
+possesion of each Player.
+
+Change the title of Rule 1960 to "Player Colors", and amend it to read:
+
+      Color is a stuck Player switch with values Gray, <all Primary
+      Colors>.
+
+      A Player may change eir Color by announcement if one of the
+      following is true:
+
+        1) Eir Color is Gray.
+
+        2) E has not changed eir Color in the past three months.
+
+        3) E has not changed eir Color in the past six weeks, and e
+           pays a Fee of 1 Token of eir current Color plus 1 Token
+           of eir new Color.
+
+        4) E pays a Fee of 3 Tokens of eir current Color plus 3
+           Tokens of eir new Color.
+
+      The Registrar's Weekly Report shall include each Player's Color.
+
+Repeal Rule 1986 (Role-Based Powers).
+
+Repeal Rule 1992 (Monks).
+
+Amend Rule 1664 (Rebellion) by replacing "Indulgence" with "Green Token".
+
+Amend Rule 1955 (The Grand Warden of the Oligarchy) by replacing this text:
+
+          (2) the Base Seating Fee, which is a number of Voting
+              Entitlements between 0.1 and 0.5 inclusive.
+
+with this text:
+
+          (2) the Base Seating Fee, which is an integral number
+              of Mellow Tokens from 1 to 5 (inclusive).
+
+Amend Rule 1936 (Auctioning Positions in the Oligarchy) by replacing "Stems"
+with "Infrared Tokens".
+
+Amend Rule 2010 (Oligarchy Upkeep) to read:
+
+      As soon as possible after the beginning of the month, the GWotO
+      shall bill each Oligarch the Base Seating Fee, excluding those
+      who entered the Oligarchy during the previous month.
+
+      If an Oligarch does not pay this debt within a week of the GWotO's
+      announcement of the debt, then the GWotO shall remove the Oligarch
+      from the Oligarchy, and Order the Bank to forgive the debt.
+
+Amend Rule 2027 (Vacant Oligarchy) to read:
+
+      Whenever the number of Oligarchs is less than Quorum for an
+      Ordinary Proposal, the Grand Warden of the Oligarchy may do
+      either of the following:
+
+        (a) Conduct an Auction for a number of Oligarch positions
+            equal to Quorum for an Ordinary Proposal minus the
+            number of Oligarchs.
+
+        (b) Appoint any eligible Player to become an Oligarch, With
+            Support from that Player, and Without 3 Objections.  The
+            Player becomes an Oligarch upon paying the Base Seating
+            Fee within a week of the appointment.
+
+Amend Rule 1623 (Disinterested Proposals) to read:
+
+      Interest Level is a stuck Proposal switch with values Interested,
+      Disinterested.
+
+      The Proposer of a Proposal may make it Disinterested, Without
+      Objection, unless the Proposal has already been Distributed.
+
+      When a Proposal becomes Disinterested, it immediately becomes
+      Distributable, and may not become Undistributable by any means
+      as long as it remains Disinterested.
+
+Amend Rule 1607 (The Promotor) to read:
+
+      The Promotor is an office; its holder is responsible for receiving
+      and distributing Proposals.
+
+      The Promotor's Weekly Report shall include a list of the titles
+      and submission dates of all Proposals in the Proposal Pool.
+
+Repeal Rule 1951 (Papyri).
+
+Repeal Rule 1954 (Distribution of Papyri).
+
+Amend Rule 1036 (The Proposal Pool) to read:
+
+      As soon as possible after the Promotor receives a new Proposal,
+      e shall place this Proposal in the Proposal Pool.
+
+      A Proposal's Distribution Cost is an integral number of Purple
+      Tokens.  The base Distribution Cost of a Proposal is 1, but
+      this may be altered by other Rules.
+
+Amend Rule 1952 (Making Proposals Distributable) to read:
+
+      Release Level is a stuck Proposal switch with values
+      Undistributable, Distributable.
+
+      Any Player may make a Proposal Distributable by paying a Fee
+      equal to its Distribution Cost.  Any Player may make a Proposal
+      Undistributable by paying a Fee equal to twice its Distribution
+      Cost.
+
+Amend Rule 2033 (Aborting a Proposal) by replacing this text:
+
+          (4)  a copy of the Proposal is added to the Proposal Pool.
+
+with this text:
+
+          (4)  a Distributable copy of the Proposal is added to the
+               Proposal Pool.
+
+Amend Rule 1449 (The Assessor) to read:
+
+      The Assessor is an office; its holder is responsible for receiving
+      and announcing the results of votes on proposals.
+
+      The Assessor's Weekly Report shall include a list of the
+      identity and voting power for Proposals in each Chamber, for all
+      entities with nonzero voting power in at least one Chamber.
+
+Amend Rule 1950 (Voting Power) to read:
+
+      (a) An entity's Voting Power on an Ordinary Proposal is as
+          follows:
+
+            (1) An Oligarch: one;
+
+            (2) Any other entity: zero.
+
+      (b) An entity's Voting Power on a Democratic Proposal is as
+          follows:
+
+            (1) A Player: one, plus one for every ten Orange Tokens
+                e possesses, minus one for every five Blots e has,
+                with a minimum of zero and a maximum of:
+
+                (a) for an Oligarch, two;
+
+                (b) for a non-Oligarch, five.
+
+            (2) The Bank: zero;
+
+            (3) Any other entity: as defined in the Rules, with a
+                default of zero if the Rules don't specify the Voting
+                power on a Democratic Proposal for that entity.
+
+      (c) An entity's Voting Power on a Parliamentary Proposal is as
+          follows:
+
+            (1) One, if the entity is a Color Estate.
+
+            (2) Any other entity, zero.
+
+      (d) The value of an entity's Voting Power for any given Chamber
+          at the beginning of each Week shall be in effect for all
+          Proposals distributed during that Week. However, if a
+          Proposal's Chamber is changed after it has been distributed,
+          the Voting Power of each entity for that Proposal is
+          redetermined at the time the Chamber is changed.
+
+      (e) An entity may cast as many votes as e wishes on a Proposal,
+          in any combination, up to the limit determined by that
+          entity's Voting Power on that Proposal, with the exceptions
+          that:
+
+              (1) no Player may vote on an Ordinary Proposal unless e
+                  is an Oligarch at the time e casts eir vote.
+
+              (2) Votes on Parliamentary Proposals shall only be cast
+                  through specific mechanisms indicated by the Rules
+                  for each specific entity with Voting Power on
+                  Parliamentary Proposals.
+
+Amend Rule 2020 (Parliamentary Votes) by replacing this text:
+
+      (a) The First Estate consists of all Players who are Acolytes,
+          the Second Estate of all Players who are Politicians, and
+          the Third Estate of all Players who are Scribes.
+
+with this text:
+
+      (a) For each Primary Color, there is a Color Estate consisting of
+          all Players with that Color.
+
+Amend Rule 2021 (Chamber Procedure) to read:
+
+      Any Player may change the Chamber of a non-Sane Proposal to
+      another Chamber of eir choice by paying the Chamber Fee,
+      unless the Rules prohibit the Proposal from being in the
+      new Chamber.  If the Proposal is in its Voting Period,
+      then it is Aborted as described elsewhere.
+
+      The Chamber Fee for a Proposal is 1 Ultraviolet Token, doubled
+      for each time the Proposal's Chamber has previously been changed
+      by paying the Chamber Fee.
+
+Create a new Rule titled "Speaker Sanitation" with this text:
+
+      An Untainted Speaker may, With 2 Supporters, Sanitise a non-Sane
+      Distributable Proposal whose Voting Period has not ended.  The
+      Proposal is Aborted as described elsewhere, and the copy added
+      to the Proposal Pool becomes Democratic and Sane.
+
+Amend Rule 1678 (Encourage Proposals by New Players) to read:
+
+      If an Interested Proposal submitted during a Player's Grace
+      Period is adopted, then the Assessor shall pay out 1 Purple
+      Token to that Player.
+
+Repeal Rule 1583 (Proposal Penalties Halved for New Players).
+
+Amend Rule 1434 (Default Procedure for Referendum Voting) by replacing this
+text:
+
+      * Vote Strength: Every Vote has equal strength.  No Voter may
+        Vote more than once on any single Referendum.
+
+with this text:
+
+      * Vote Strength: Every Vote has equal strength.  An entity's
+        Voting Power on a Referendum is as follows:
+
+            (1) A Player: one, plus one for every ten Ultraviolet Tokens
+                e possesses, minus one for every five Blots e has, with
+                a minimum of zero and a maximum of three.
+
+            (2) Any other entity: zero.
+
+Amend Rule 559 (The Registrar) by replacing this text:
+
+       (vii) the identity of the Distributor; and
+
+      (viii) a list of players who are Monks.
+
+with this text:
+
+       (vii) the identity of the Distributor.
+
+Amend Rule 1974 (Restriction on Minting of Bank Currencies by the Bank) to
+read:
+
+      The Bank, by the Treasuror, may (Without Objection)Mint new units
+      of a Bank Currency.
+
+Repeal Rule 1945 (Voting Entitlements).
+
+Repeal Rule 1946 (Distribution of Voting Entitlements).
+
+Amend Rule 1377 (The Herald) by replacing this text:
+
+      The Herald is an office; its holder is recordkeepor of
+      Indulgences and is responsible for keeping track of Blots.
+
+with this text:
+
+      The Herald is an office; its holder is responsible for keeping
+      track of Blots.
+
+Repeal Rule 1435 (Indulgences).
+
+Change the title of Rule 2018 to "Expunging Blots with Green Tokens", and 
+amend
+it to read:
+
+      When an entity transfers an amount of Green Tokens to the Bank,
+      and specifies in the Notice of Transfer that the transfer is for
+      the purpose of expunging the Blots of a specified entity, then
+      an equal amount of the entity's Blots are expunged.  (If the
+      amount of the transfer exceeds the entity's Stain at the time of
+      the transfer, then all of the entity's Blots are expunged, and
+      the Bank incurs a Green Token debt to the transferor equal to
+      the amount of the original transfer minus the entity's previous
+      Stain.)
+
+Repeal Rule 1712 (Distribution of Indulgences).
+
+Amend Rule 1747 (Pardoning Lawlessness) by replacing each instance of
+"Indulgences" with "Green Tokens".
+
+Amend Rule 2004 (Land Auctions) by replacing "Indulgences" with "Ultraviolet
+Tokens".
+
+Repeal Rule 2005 (Tolls).  [Complex and rarely used.  Anyone wishing to
+                            reinstate Tolls should adapt them to Colors.]

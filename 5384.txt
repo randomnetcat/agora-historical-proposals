@@ -1,0 +1,38 @@
+ID: 5384
+Title: Refactor excess CFJs
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2175 (Judicial Retraction and Excess) by replacing this text:
+
+      b) If its initiator previously initiated five or more cases
+         during the same Agoran week as that case, then the Clerk of
+         the Courts CAN refuse it by announcement, thus causing it to
+         cease to be a judicial case.
+
+with this text:
+
+      b) If its initiator previously initiated five or more cases
+         during the same Agoran week as that case, then it is an
+         excess case, and the Clerk of the Courts CAN refuse it by
+         announcement, thus causing it to cease to be a judicial case.
+
+Amend Rule 2176 (Marks) by replacing this text:
+
+      (+b) When a person calls for judgement, e gains one Blue Mark,
+           except as noted below.
+
+with this text:
+
+      (+b) When a person initiates a non-excess judicial case, e
+           gains one Blue Mark.
+
+and by replacing this text:
+
+      (-b) When a person calls for judgement, and has already done so
+           at least five times in the same week,
+
+with this text:
+
+      (-b) When a person initiates an excess judicial case,

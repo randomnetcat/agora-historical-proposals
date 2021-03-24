@@ -1,0 +1,10 @@
+ID: 6343
+Title: They're Proposals Too!
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 1607, remove the word "Distributed" in the second-to-last paragraph.
+
+Assign each proposal the distributed proposal ID number it had prior to
+the adoption of this proposal, if any.

@@ -1,0 +1,93 @@
+ID: 4472
+Title: Heavy Weather
+Author: Sherlock
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2011 (Stems Weather) by retitling it "Weather" and making it
+read:
+
+      Each Bank currency shall have an associated switch named Forecast.
+      Forecast may have two states: Clear and Stormy.  The Treasuror
+      may flip any such switch.
+
+      As soon as possible after the beginning of each month, the
+      Treasuror shall randomly Determine the Weather for each currency 
+      whose Forecast is Stormy.  The Weather can be one of either Foul, 
+      Fair, or Plenty, and shall be determined as follows:
+
+        - Let FOUL be the number of that Bank currency owned by the
+          Bank, multiplied by the Foul Weather Factor for that 
+          currency as set in the Treasuror's Budget, and then rounded
+          up to the nearest integer.
+        - Let PLENTY be the number of that currency owned by all 
+          Entities, excluding the Bank.
+        - Let SAME and FAIR both be the sum of FOUL and PLENTY,
+          divided by 4, rounding up to the nearest integer.
+        - Let TOTAL by the sum of FOUL, PLENTY, SAME, and FAIR.
+        - The weather shall be determined using the following
+          probabilities:
+                (FOUL   / TOTAL)  Foul.
+                (FAIR   / TOTAL)  Fair.
+                (PLENTY / TOTAL)  Plenty.
+                (SAME   / TOTAL)  Same as the previous month.
+
+      When the Treasuror posts eir Determination of the Weather for a
+      month, the following events shall occur in the listed sequence
+      immediately after the Weather is Determined:
+
+           (a) A number of that currency in the Bank's possession, 
+               equal to the number of Players in the game multiplied
+               by the Minimum Income, multiplied by the Weather 
+               Intensity Factor as set in the Treasuror's Budget, and
+               then rounded up to the nearest integer, shall be
+               Destroyed. If this value is greater than the number of
+               that currency in the Possession of the Bank, all of that 
+               currency in the Possession of the Bank shall be Destroyed
+               instead.
+           (b) A number of that currency shall be Created in the Bank's
+               Possession, equal to the number Destroyed in (a) above
+               multiplied by:
+                    0.50 if the Weather is Foul;
+                    1.00 if the Weather is Fair;
+                    1.50 if the Weather is Plenty.
+
+      The Treasuror shall announce the number of currency Created and
+      Destroyed by this Rule in the message in which e announces the
+      Weather for that currency.
+
+      The Bank may not otherwise Mint new units of a Bank Currency
+      except through the mechanism set forth in this Rule.
+
+Repeal Rule 1974 (Restriction on Minting of Bank Currencies by the Bank).
+
+Amend Rule 2022 (Sente and Gote) by replacing the text that reads:
+
+                     * if the Weather is Plenty, 3 Stems for each 5
+                       Land Units with Sente that e owns;
+                     * if the Weather is Fair, 2 Stems for each 5
+                       Land Units with Sente that e owns;
+                     * if the Weather is Foul, 1 Stem for each 5
+                       Land Units with Sente that e owns;
+
+   with the text:
+
+                     * if the Weather for Stems is Plenty, 3 Stems
+                       for each 5 Land Units with Sente that e owns;
+                     * if the Weather for Stems is Fair, 2 Stems for
+                       each 5 Land Units with Sente that e owns;
+                     * if the Weather for Stems is Foul, 1 Stem for 
+                       each 5 Land Units with Sente that e owns;
+
+Amend Rule 1893 (The Treasuror's Budget) by replacing the text that reads:
+
+      The Treasuror's Budget shall also contain the Foul Weather
+      Factor and the Weather Intensity Factor. Both are numbers
+      between 0 and 10 inclusive that are evenly divisible by 0.1.
+
+   with the text:
+
+      The Treasuror's Budget shall also contain the Foul Weather
+      Factor and the Weather Intensity Factor for each Bank currency. 
+      Both are numbers between 0 and 10 inclusive that are evenly 
+      divisible by 0.1.

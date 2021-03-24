@@ -1,0 +1,19 @@
+ID: 5516
+Title: Anarchy
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Anarchy
+
+Create a rule with the following text, entitled "Anarchy Now!":
+
+     If the Rules define an action as regulated, then any player
+     may perform that action by announcement.  This rule takes
+     precedence over other rules that explicitly limit the
+     performance of regulated actions.
+
+[A fine example of a Ladder Loophole.  I'm aware the precedence
+claim only works for power-1 rules.  But it also works for higher
+powered rules where actions aren't *explicitly* prohibited (hence
+the ladder)].

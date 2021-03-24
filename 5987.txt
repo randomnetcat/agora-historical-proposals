@@ -1,0 +1,15 @@
+ID: 5987
+Title: End the Era of Impunity
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 1504, remove ", with 2 Support," from the first paragraph, and, after:
+
+d) The messages (if any) in which the action occurred.
+
+add, as a new paragraph:
+
+A person SHALL NOT initiate a criminal case unless e reasonably
+believes the defendant violated the specified rule in committing the
+alleged act.

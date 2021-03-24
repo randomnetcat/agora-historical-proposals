@@ -1,0 +1,22 @@
+ID: 5056
+Title: Disinterested Proposals
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+[This was our old solution to racking up bonuses for otherwise
+uncontroversial fix proposals.]
+
+Create a rule titled "Disinterested Proposals" with this text:
+
+      A proposal is disinterested if it is labeled as such by its
+      author at the time of submission.  A proposal should be
+      disinterested if and only if its effects are limited to
+      correcting errors and/or ambiguities.
+
+      The author and co-author(s) of a disinterested proposal
+      do not receive any rewards for its adoption, rules to the
+      contrary notwithstanding.
+
+Amend Rule 2126 (Voting Credits) by replacing "When an Ordinary proposal
+is adopted" with "When an Ordinary Interested proposal is adopted".

@@ -1,0 +1,11 @@
+ID: 5569
+Title: At Most One Monster per Switch
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+Append the following to rule 2193:
+{{{
+If an instance of a switch comes to have a Monster, it ceases to have any
+other Monster.
+}}}

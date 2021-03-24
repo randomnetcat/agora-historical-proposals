@@ -1,0 +1,14 @@
+ID: 4905
+Title: Cleaning up after myself
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+[Anyone who takes issue with this wording should also take issue
+with the similar wording of Rule 1551 (Ratification).]
+
+Upon the adoption of this proposal, the gamestate is modified so
+that Goethe was deregistered due to Rule 1789 (Cantus Cygneus) as
+of the posting of Murphy's message on or about Mon, 18 Dec 2006
+07:44:10 -0800.

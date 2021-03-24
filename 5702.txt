@@ -1,0 +1,10 @@
+ID: 5702
+Title: Alpha Strike
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Repeal Rule 2134.
+
+[It's basically impossible to win by clout nowadays, except via a scam,
+due to voting power being capped at 8 by the caste system.]

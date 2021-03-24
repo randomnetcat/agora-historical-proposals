@@ -1,0 +1,13 @@
+ID: 5812
+Title: Quis custodiet ipsos custodes?
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2169 (Equity Cases) by replacing the paragraph beginning "The
+members of the bases of the parties to the contract" with this text:
+
+     The initiator is unqualified to be assigned as judge of the
+     case.  All other members of the bases of the parties to the
+     contract are also unqualified, except while this would result
+     in all entities being unqualified.

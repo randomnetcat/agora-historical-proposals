@@ -1,0 +1,47 @@
+ID: 5998
+Title: Senator-only elections
+Author: Sgeo
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 to read
+{
+
+     Any player CAN by announcement initiate an election for an
+     elected office for which no election is already in progress,
+     nominating at least one active player.
+
+     During the first four days of the election (the nomination
+     period), any player CAN by announcement nominate one or more
+     active players.
+
+     As soon as possible after the nomination period ends, the IADoP
+     SHALL initiate an Agoran decision to determine the new
+     officeholder. For this decision:
+
+      1) The valid options (hereafter the candidates) are the active
+         players who, during the election,
+
+           a) received and accepted a nomination for the office
+              before the decision was initiated (self-nomination
+              constitutes acceptance), and
+
+           b) did not decline a nomination for the office, and
+
+           c) are Senators if there is currently an Emergency Session.
+
+         The set of candidates can change after the decision is
+         initiated.
+
+      2) If there is no Emergency Session at the time the decision is
+initiated, the eligible voters are the active players. Otherwise, the
+eligible voters are the active Senators.
+
+      3) Each eligible voter's voting limit is one. An ordered list
+         of multiple choices constitutes a conditional vote for the
+         first choice if it could be the outcome, otherwise the
+         second choice if it could be the outcome, and so forth.
+
+     Upon the resolution of this decision, its outcome (if a
+     candidate) is installed into the office, and the election ends.
+}

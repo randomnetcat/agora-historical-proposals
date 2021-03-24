@@ -1,0 +1,22 @@
+ID: 5834
+Title: Powered defines v0.3
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 754 by replacing:
+     (2) A term explicitly defined by the Rules by default has that
+         meaning, as do its ordinary-language synonyms not explicitly
+         defined by the rules.
+with:
+     (2) A term explicitly defined by the Rules by default has that
+         meaning when used in any Rule of equal or lesser power, as
+         do its ordinary-language synonyms not explicitly defined by
+         the rules.
+
+and by appending the following sentence to the paragraph labeled (4):
+
+     In determining the ordinary-language meaning of a term,
+     definitions contained in lower-powered Rules, followed
+     by definitions used in contracts or other Agoran legal
+     documents, SHOULD be used for guidance.

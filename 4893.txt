@@ -1,0 +1,12 @@
+ID: 4893
+Title: Inactivity Revisited
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule titled "Inactivity" with this text:
+
+       A player may become active or inactive by announcement.
+
+       A player may, without objection, make another player inactive.

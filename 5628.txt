@@ -1,0 +1,24 @@
+ID: 5628
+Title: Age of Contracts
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2173 (The Notary) by replacing this text:
+
+      The Notary is a low-priority office; its holder is responsible
+      for keeping track of contracts.
+
+      The parties to a public contract SHALL keep the Notary informed
+      of its text and set of parties.  The Notary's report includes
+      this information for each public contract.
+
+with this text:
+
+      The Notary is an office; its holder is responsible for keeping
+      track of contracts.
+
+      The parties to a public contract SHALL keep the Notary informed
+      of its text and set of parties.  The Notary's weekly report
+      includes a list of all public contracts; the Notary's monthly
+      report includes each public contract's text and set of parties.

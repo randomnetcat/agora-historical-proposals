@@ -1,0 +1,32 @@
+ID: 5652
+Title: Awful proposal
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 649 by replacing "person" with "entity" and by replacing
+the entire second paragraph with:
+      Awarding or revoking a Patent Title is a secured change.
+
+Amend Rule 2162 by replacing its entire text with:
+
+      A switch is a class of Patent Titles that the Rules define as a
+      switch, and specify the following:
+
+      a) The classes of entity to which the switch is restricted (the
+         switch's range).  If an entity not in a switch's range ever
+         holds a value of that switch, the value is destroyed.
+
+      b) One or more possible values for that switch, exactly one of
+         which is designated as the default.  If an entity in a
+         switch's range ever does not hold a value of that switch, eir
+         value of that switch is flipped to the default.
+
+      c) Exactly one officer who tracks instances of that switch.
+         That officer's report includes each value of the switch which
+         is not its default value.
+
+      A "value of a switch" is a Patent Title which refers to that
+      switch and a value.  To flip an entity's value of a switch is to
+      revoke all other values of that switch from em and then to award
+      em a value.

@@ -1,0 +1,15 @@
+ID: 6031
+Title: Undo the aftermath of 5956
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+If a rule other than 2218 defines the Winning Condition of Solitude,
+then repeal Rule 2218.  Otherwise, amend it to read:
+
+     While all but one player satisfy at least one Losing Condition,
+     that player satisfies the Winning Condition of Solitude.
+
+     Cleanup procedure:  The same person cannot satisfy this Winning
+     Condition again until at least one other player ceases to
+     satisfy any Losing Condition.

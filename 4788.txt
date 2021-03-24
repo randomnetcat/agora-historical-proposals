@@ -1,0 +1,15 @@
+ID: 4788
+Title: SotU's Ephemera
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:SotU's Ephemera
+Create a new rule entitled "SotU's Ephemera" with the following text:
+
+   At the end of each month the SotU may award the following
+   ephemeral patent titles:
+
+  * Studious, to be given, twice, to the player who checked out the
+    most cards from the Library during the month.

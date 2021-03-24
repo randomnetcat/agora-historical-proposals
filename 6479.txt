@@ -1,0 +1,16 @@
+ID: 6479
+Title: Flag fix
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Any Agoran decision to decide the flag of Agora currently in progress
+is terminated with no result.  The Herald is relieved of any
+responsibility to hold such an election or conduct any part of it;
+if e has been punished for failure to act with respect to such an
+election, the punishment is canceled/removed.
+
+Amend the Rule that was originally titled "Placeholder Arms" to have
+the title "Agora Has No Flag" and the text:
+
+  Ceci n'est pas un drapeau.

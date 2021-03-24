@@ -1,0 +1,30 @@
+ID: 5971
+Title: Only Active Contestmembers Count
+Author: Elysion
+Co-authors: 
+Adoption index: 2.0
+
+
+Amend rule 2136 (Contests) by replacing the text:
+
+     The total number of points a Contest MAY award in a given week
+     is equal to 5 times the number of its members that are first-
+     class players.
+
+with:
+
+     The total number of points a Contest MAY award in a given week
+     is equal to 5 times the number of its members that are active
+     first-class players.
+
+and the text:
+
+     The total number of points a Contest MAY revoke in a given week
+     is equal to 2 times the number of its members that are first-
+     class players.
+
+with:
+
+     The total number of points a Contest MAY revoke in a given week
+     is equal to 2 times the number of its members that are active
+     first-class players.

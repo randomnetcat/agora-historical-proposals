@@ -1,0 +1,10 @@
+ID: 6069
+Title: <none>
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Create a rule that reads:
+{
+Anyone CAN cause this rule to amend itself by announcement.
+}

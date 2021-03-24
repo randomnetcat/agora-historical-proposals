@@ -1,0 +1,12 @@
+ID: 5008
+Title: allow exceptions to definitions
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+Amend rule 754 by adding after item (4) the item:
+
+      (5) Any term may be granted a different meaning from its
+          standard meaning by means of a qualification or a specific
+          redefinition applying to a particular communication or set
+          of communications.

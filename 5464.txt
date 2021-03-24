@@ -1,0 +1,35 @@
+ID: 5464
+Title: Secure more judicial aspects
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 991 (Judicial Cases Generally) by replacing this text:
+
+      Subclasses of judicial case exist only as defined by the rules.
+
+with this text:
+
+      Subclasses of judicial case exist only as defined by the rules.
+      Defining a subclass of judicial case is secured, with a power
+      threshold of 1.7.
+
+Amend Rule 2158 (Judicial Questions) by replacing this text:
+
+      Judicial questions arise only as defined by the rules.
+
+with this text:
+
+      Judicial questions arise only as defined by the rules.  Defining
+      a judicial question is secured, with a power threshold of 1.7.
+
+and by replacing this text:
+
+      A judgement is valid and/or appropriate only as defined by the
+      rules.
+
+with this text:
+
+      A judgement is valid and/or appropriate only as defined by the
+      rules.  Defining these things is secured, with a power threshold
+      of 1.7.

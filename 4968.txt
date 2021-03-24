@@ -1,0 +1,13 @@
+ID: 4968
+Title: precedence takes precedence
+Author: Zefram
+Co-authors: 
+Adoption index: 4
+
+
+Change the Power of rule 1482 to 4.
+
+[At Power=3, R1482 doesn't work properly in the Power>=3 region, because
+a Power=3 rule can take precedence over R1482 to stipulate a different
+precedence-determining rule.  By its nature, R1482 should have the
+highest Power of all rules.]

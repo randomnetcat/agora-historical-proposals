@@ -1,0 +1,12 @@
+ID: 4843
+Title: Generalize Compensation for Ex-Cards
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Create a rule titled "Cards for Ex-Cards" with this text:
+
+      When a class of cards ceases to exist, each non-site gambler
+      gains a pending draw for each instance of that class that e
+      possessed immediately before it ceased to exist.

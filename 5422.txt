@@ -1,0 +1,12 @@
+ID: 5422
+Title: Indeterminize Game Actions
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Create a new Rule, at Power=4, titled "Spectator", with the text:
+      Any person CAN and may at any time by observing this rule make
+      any change whatsoever to the gamestate, including but not
+      limited to enacting, repealing, or amending a rule.
+
+      This rule takes precedence over all other rules.

@@ -1,0 +1,20 @@
+ID: 4758
+Title: Inactive rights part 1
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Inactive rights part 1
+
+Replace the following from Rule 1042
+
+      A player may flip another player's noisiness from noisy to
+      quiet, unless e has done so for another player within the past
+      24 hours.
+
+with
+
+      An active player may flip another active player's noisiness from
+      noisy to quiet, unless e has done so for another player within the
+      past 24 hours.

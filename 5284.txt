@@ -1,0 +1,17 @@
+ID: 5284
+Title: Reinstate Excess CFJs
+Author: root
+Co-authors: pikhq
+Adoption index: 1
+
+Enact a rule titled "Excess CFJs", reading:
+
+      A judicial case initiated by a person who has previously
+      initiated five or more cases during the same Agoran Week as that
+      case is an Excess CFJ.  The Clerk of the Courts CAN, by
+      announcement, refuse an Excess CFJ that has not had any judge
+      assigned to it.  Refusal of an Excess CFJ causes it to cease to
+      be a judicial case.
+
+[I tried to merge this into an existing rule, but I couldn't find any
+ place that is approprate in both subject and power.]

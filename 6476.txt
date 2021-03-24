@@ -1,0 +1,10 @@
+ID: 6476
+Title: No More Paradox
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend point d of Rule 2143 to read:
+
+      For every non-IADoP report, the date on which it was last
+      submitted.

@@ -1,0 +1,16 @@
+ID: 4590
+Title: Fixed Stalled Proposals
+Author: Elysion
+Co-authors: 
+Adoption index: 2
+
+
+Amend rule 1933 by replacing the string
+
+"Rules to the contrary notwithstanding, a Stalled Proposal may not be
+distributed."
+
+with
+
+"Rules to the contrary notwithstanding, a Proposal is Undistributable
+while it is Stalled."

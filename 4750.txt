@@ -1,0 +1,34 @@
+ID: 4750
+Title: Power Adjustments
+Author: root
+Co-authors: 
+Adoption index: 3
+
+
+[The purpose of this proposal is to increase the power of a number of
+rules that may be easy targets for Power-1 scams.]
+
+Increase the Power of each of the following rules to 2:
+
+      Rule 1478 (Executors and Limited Executors);
+      Rule 459  (Agoran Epochs);
+      Rule 869  (Registered Players);
+      Rule 1755 (No Non-Player Responsibilities);
+      Rule 1842 (Power of Attorney);
+      Rule 1726 (The Guillotine);
+      Rule 1434 (Default Procedure for Referendum Voting);
+      Rule 1626 (Applications);
+      Rule 1450 (Judicial Separation);
+      Rule 591  (Legal Judgements);
+      Rule 217  (Judgements Must Accord with the Rules);
+      Rule 1830 (No Compulsion of Judges);
+      Rule 1941 (Fees);
+      Rule 2069 (Card Definitions);
+      Rule 1591 (Jurisdiction of SLCs); and
+      Rule 1592 (Authority of SLCs to Change Properties).
+
+
+Increase the Power of each of the following rules to 3:
+      Rule 1079 (Definition of "Random");
+      Rule 1513 (Authority of Non-Rule Entities); and
+      Rule 1483 (Definition of Proposals).

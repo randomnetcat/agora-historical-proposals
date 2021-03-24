@@ -1,0 +1,17 @@
+ID: 5088
+Title: Compensate for vacant offices and speaker as an office
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1006 (Offices) by replacing this text:
+
+      If an officer fails to satisfy a Timing Order to perform a
+      certain official duty, than the player who executed the order
+      may perform the duty as if e were the officer.
+
+with this text:
+
+      If a Timing Order directed at an office is not satisfied on time,
+      or if the office is vacant, then the player who executed the order
+      may perform the duty as if e held that office.

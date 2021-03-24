@@ -1,0 +1,58 @@
+ID: 4839
+Title: Odds and Ends
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Odds and Ends
+
+[Just a couple odds and ends].
+
+
+Repeal Rule 1989 (Prime Executors).
+   [Holdover from economics days really, other rules specify who
+    is responsible for what without this].
+
+
+Amend Rule 1727 (Happy Birthday) by replacing:
+
+      BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
+      the entire day of June 30, GMT +1200, of each year;
+
+      BE IT FURTHER RESOLVED that, as soon as possible after the end
+      of Agora's Birthday, the Herald shall award the boon of
+      celebration to each Player who, during Agora's Birthday,
+      publicly recognized Agora's Birthday;
+
+      BE IT FURTHER RESOLVED that the Herald may select one Contract,
+      in existence on Agora's Birthday, which has as its purpose
+      encouraging the celebration of Agora's Birthday.  Within the
+      month following Agora's Birthday, that Contract may award its
+      Members the Patent Title Nth Anniversary Ribbon, where N is the
+      number of years of Agora's existence;
+
+      BE IT FURTHER RESOLVED that the Courts shall be closed on
+      Agora's Birthday; that is, the Clerk of the Courts shall not
+      publish any Calls For Judgement, Judgements, notices of Appeals,
+      Decisions of Appeals Boards, or Opinions, on Agora's Birthday;
+      nor shall any Player submit to the Clerk of the Courts a Call
+      For Judgement, notice of ineligibility to Judge, Judgement, call
+      for Appeal, or Appellate Decision, on Agora's Birthday; nor
+      shall any Player submit an Application to Submit an Opinion on
+      Agora's Birthday; however, if any of the above do take place on
+      Agora's Birthday, in violation of this Rule, this Rule does not
+      deprive them of their usual effects.
+
+with:
+
+      BE IT THEREFORE RESOLVED that Agora's Birthday is defined to be
+      the entire day of June 30, GMT +1200, of each year, and as soon
+      as possible after the end of Agora's Birthday, the Herald shall
+      award the boon of celebration to each Player who, during Agora's
+      Birthday, publicly recognizes this Grand Event.
+
+
+[Why bother to close the courts for a day?  And also, that contest
+hasn't been used since it was created.  The best part of the birthday
+is just saying happy birthday!]

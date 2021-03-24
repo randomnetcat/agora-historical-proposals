@@ -1,0 +1,28 @@
+ID: 5308
+Title: Hang, hang!
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Hang, hang!
+
+[What's war without overreaction?]
+
+Enact the following rule:
+
+    A player MUST NOT provide material support or substantial
+    encouragement to another nomic in taking hostile action against
+    Agora.  A judge who finds a player guilty of breaking this
+    Rule SHALL award the guilty party the patent title Traitor.
+
+    A player is instantly deregistered when e comes to hold the
+    patent title Traitor.  A person holding the patent title
+    Traitor CANNOT register.
+
+Amend Rule 649 (Patent Titles) by appending the following text:
+
+    If the rules require or allow a player to award (or revoke)
+    a patent title, that player CAN make the described award (or
+    revocation) by announcement.
+
+[Used to be in the Rules, I thought it still was].

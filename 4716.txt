@@ -1,0 +1,49 @@
+ID: 4716
+Title: Blocked Proposals
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Upon the adoption of this proposal, the gamestate becomes what it would be
+if all proposals that were adopted since the creation of Rule 1561
+(Illegality of Bonus Clauses), and satisfying the following condition from
+that rule:
+
+      Any Proposal which offers a bribe to a Player or Players to
+      vote either FOR or AGAINST a Proposal (either itself or another
+      Proposal)
+
+had been completely without effect.
+
+Amend Rule 106 (Adopting Proposals) to read:
+
+      All Proposals made and distributed in the proper way shall
+      be voted upon.  A Proposal shall be adopted if and only if
+
+        (a) it receives the required number of votes,
+        (b) it achieves the required number of voters, and
+        (c) it is not blocked.
+
+Amend Rule 879 (Quorum) to read:
+
+      The minimum required number of voters for a proposal is
+
+        (a) for ordinary proposals, three;
+
+        (b) for democratic proposals, one third of the number of
+            active noisy players (measured when it was distributed
+            or became democratic, whichever is later).
+
+Amend Rule 1003 (No Coercive Proposals) to read:
+
+      Any proposal whose obvious and direct intent is to coerce a player
+      into voting against eir conscience is blocked.
+
+Amend Rule 1561 (Illegality of Bonus Clauses) to read:
+
+      Any proposal which offers a bribe to one or more players based on
+      how those players vote or declare presence on a proposal (either
+      itself or another proposal) is blocked.  This does not apply to
+      bribes offered by a rule, unless the rule would be created or
+      amended by a proposal on which the bribe is based.

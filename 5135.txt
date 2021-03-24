@@ -1,0 +1,11 @@
+ID: 5135
+Title: <none>
+Author: Wooble
+Co-authors: 
+Adoption index: 1.7
+
+In Rule 1504, insert the following text at the end of the second paragraph:
+{{
+At any time during the pre-trial phase after the defendant has been
+informed, the defendant CAN end the pre-trial phase by announcement.
+}}

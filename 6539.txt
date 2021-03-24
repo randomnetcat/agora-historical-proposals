@@ -1,0 +1,171 @@
+ID: 6539
+Title: Dealing Refactor 
+Author: coppro
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2253 to read as follows:
+{{
+       Cards are any class of assets defined by the Rules to be cards.
+       For the rules to define a class of assets to be a card, the
+       Rules must define its Title, its Deck, and one of: its Exploit,
+       its Position, or its Effect.  Card instances of the same class
+       are fungible.  Ownership of cards is restricted to players and
+       contests, and may be further restricted by the Rule defining a
+       given variety of Card.
+
+       The Dealor is an office, and the Recordkeepor of Cards.
+
+       The Dealor CAN, by announcement:
+        * create a Card in the possession of any entity qualified to
+          own that Card;
+        * destroy any Card;
+        * transfer a Card between any two entities;
+       however e SHALL only perform these actions as explicitly
+       required by the Rules, or as would be POSSIBLE and LEGAL for em
+       to do were e not the Dealor.
+
+       The maximum FINE amount for each card is two, except where
+       specified otherwise.
+}}
+
+Set the Interest Index of the Dealor to 3.
+Set the Interest Index of the Grand Poobah, the Insulator, and the
+Anarchist to 1.
+
+Amend Rule 2255 by removing "whose dealer is the Herald.".
+
+Amend Rule 2257 to read as follows:
+{{
+       Each defined Exploit or Effect card type shall have a Frequency,
+       which is a non-negative integer defaulting to 0.
+       The Frequency of each card type is part of the Dealor's weekly
+       report.
+
+       Changing the frequency of each card type is secured, and the
+       frequency of a card type CAN be changed:
+           * by the Dealor without 2 objections;
+           * by any player with Agoran Consent;
+           * as soon as possible after a player wins an election for
+             Dealor, if e publicly stated that e intended to change a
+             given Card's Frequency to a certain value if elected, e
+             CAN and CALL change that Card's Frequency by announcement,
+             and SHALL NOT deal a card before e does so.
+
+       Whenever the rules indicate that the Dealer SHALL deal a Card to
+       from a Deck an entity, the Dealor SHALL, as soon as possible,
+       create a Card from that Deck in the possession of that entity,
+       with the Card chosen at random from among Cards in that Deck,
+       with the relative probability of a particular Card being chosen
+       chosen being the Frequency of that Card. If no Card from the
+       specified Deck has a positive Frequency, or if the entity is not
+       eligible to own the Card selected, the Dealor SHALL, rather than
+       create a Card, announce why e cannot.
+}}
+
+Enact a new Rule with Power 2, reading as follows:
+{{
+       The Rules may state that a player Earns a Draw from a given Deck
+       for various reasons. The Rule stating that a player
+       Earns a Draw may also state an office responsible for tracking
+       tracking that Draw; if not specified, the Dealor tracks that
+       Draw.
+
+       After the end of each week, the officers so responsible SHALL,
+       as soon as possible, publicly post a listing of each Draw Earned
+       (for which e is responsible to track) during the previous week
+       and by whom and from which Deck it was Earned.
+
+       As soon as possible as a report of Draws Earned for a given week
+       is issued, the Dealor SHALL, as soon as possible, deal to each
+       entity named in the report the approrpiate number of cards from
+       the appropriate deck.
+}}
+
+Amend Rule 2258 to read as follows:
+{{
+       Some Decks may be Basic Decks, as defined by the Rules.
+
+       Salary is a first-class player switch, tracked by the Registrar,
+       with possible values N,M,O,P where each letter is replaced with
+       a defined Basic Deck.  The default value for this switch is
+       Change,Change,Justice,Government. Ordering of N,M,O,P is not a
+       significant differentiating aspect of the switch value, only the
+       number of times each deck type is listed within the switch.
+
+       A player CAN change the value of eir own Salary switch by
+       announcement.
+
+       At the end of each month, each first-class player Earns a number
+       of Draws from each Basic Deck equal to the number of times that
+       deck appeared in eir salary switch at the beginning of the
+       month. These Draws are tracked by the Registrar.
+
+       Office Salary is a switch for each office, tracked by the IADoP,
+       with possible values being the names of each Basic Deck (default
+       Government).  The holder of each OFFICE CAN change that office's
+       salary by announcement. At the end of each week, each holder of
+       an office Earns a number of Draws from the Deck indicated by the
+       office's Office Salary to the interest index for that office.
+       These Draws are tracked by the IADoP.
+
+       When a first-class player registers, e Earns two Draws from each
+       Basic Deck. These Draws are tracked by the Registrar.
+}}
+
+Amend Rule 2259 by replacing "Accountor" with "Dealor" and by replacing
+the last paragraph with the following:
+{{
+       As soon as possible after the beginning of each month, the
+       Dealor CAN and SHALL by announcement audit, for each Basic Deck,
+       the entity or entities who owned the most Cards from that Deck
+       at the beginning of the month.
+}}
+
+Amend Rule 2260 by replacing the first two paragraphs with the
+following:
+{{
+       When a player wins an election, e Earns two Draws from the
+       Government Deck. These Draws are tracked by the IADoP.
+
+       The Deck of Government is a Basic Deck consisting of the
+       following cards, listed by title followed by Exploit (default)
+       or Effect (if marked as such).
+}}
+
+Amend Rule 2261 by replacing the first paragraph with the following if
+the Rule does not contain the word "coauthors"
+{{
+       When a proposal authored by a player is adopted and takes
+       effect, that player Earns a number of Draws from the Change Deck
+       equal to the Interest Index of the proposal. These Draws are
+       tracked by the IADoP.
+}}
+otherwise by replacing the first paragraph with the following:
+{{
+       When a proposal authored by a player is adopted and takes
+       effect, that player Earns a number of Draws from the Change Deck
+       equal to the Interest Index of the proposal and, if the proposal
+       was interested, its coauthors, if players, each Earn one Draw from
+       the Change Deck. These Draws are tracked by the IADoP.
+}}
+and, in any case, by replacing the second paragraph with the following:
+{{
+       The Deck of Change is a Basic Deck consisting of the following
+       cards, listed by title followed by Exploit (default) or Effect
+       (if marked as such).
+}}
+
+Amend Rule 2262 by replacing the first two paragraphs with the
+following:
+{{
+       When a judge judges an interested case within its time limit, e
+       earns a draw from the Deck of Justice.  These Draws are tracked
+       by the CotC. If a judge's judgement is OVERTURNED on appeal, one
+       justice on the appeals panel CAN destroy one Justice card e
+       indicates in the judge's possession by announcement.
+
+       The Deck of Justice is a Basic Deck consisting of the following
+       cards, listed by title followed by Exploit (default) or Effect
+       (if marked as such).
+}}

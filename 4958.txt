@@ -1,0 +1,10 @@
+ID: 4958
+Title: Improved Turn Radius
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1871 (Turns for All) by replacing "at least one in the
+second" with "at least one (and at least one such player for it)
+in the second".

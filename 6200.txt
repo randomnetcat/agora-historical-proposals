@@ -1,0 +1,10 @@
+ID: 6200
+Title: Clarify publicity changes
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 478, Fora, by adding {A forum's publicity CANNOT be changed
+except as provided in this rule, or by proposal.} at the end of the
+second paragraph and by replacing the word {may} with {CAN} in the
+fourth paragraph.

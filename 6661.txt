@@ -1,0 +1,21 @@
+ID: 6661
+Title: Yellow ribbons are pointless, and other contract cleanup
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2199 (Ribbons) by removing section (+Y).
+
+[Impossible to earn now that contests have been repealed.]
+
+Amend Rule 2263 (Acting on Behalf).
+
+[Apparently unusable now that contracts have been repealed.]
+
+Amend Rule 2203 (Hawkishness) by replacing the Hugging section
+with this text:
+
+       * Hugging.  Hugging players are unqualified to be assigned as
+         judge of any criminal case.
+
+[Eliminate dangling reference to equity cases.]

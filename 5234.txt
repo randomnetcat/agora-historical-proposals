@@ -1,0 +1,30 @@
+ID: 5234
+Title: Contests open to all
+Author: Levi
+Co-authors: Zefram
+Adoption index: 1
+
+Zefram is a coauthor of this proposal.
+
+In Rule 2136 replace the following text:
+
+       A contest is an agreement that identifies itself as such, and
+       identifies exactly one party as its contestmaster; all other
+       parties are its contestants.
+
+ with:
+
+       A contest is an agreement that
+
+       (a) identifies itself as a contest,
+
+       (b) identifies exactly one party as its contestmaster,
+
+       (c) allows any First-class player to become a party,
+
+       (d) is published before any contestants become a party to it, and
+
+       (e) is fair to all contestants.
+
+       All parties to the agreement who are not the contestmaster are its
+       contestants.

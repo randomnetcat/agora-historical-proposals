@@ -1,0 +1,7 @@
+ID: 6141
+Title: Fix 754
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 754 by replacing the first instance of {SHOULD} with {SHALL}.

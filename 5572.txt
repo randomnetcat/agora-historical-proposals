@@ -1,0 +1,15 @@
+ID: 5572
+Title: Stop that!
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      The adoption index of a proposal is an integral multiple of 0.1,
+      with a minimum value of 1.0.
+
+with this text:
+
+      The adoption index of a proposal is an integral multiple of 0.1
+      from 1.0 to 9.9.

@@ -1,0 +1,13 @@
+ID: 4658
+Title: Some Things Are More Trouble Than They're Worth
+Author: root
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1483 by deleting the text that reads:
+
+     The delivery of text identical to another Proposal which was
+     Proposed less than three weeks previous does not create a
+     new Proposal unless accompanied by a clear and explicit
+     indication that the intent was to Propose a duplicate Proposal.

@@ -1,0 +1,20 @@
+ID: 5205
+Title: allow non-player wins
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by replacing the text "When one or more players win
+the game" with "When a game win occurs".
+
+Amend rule 1922 by replacing the text "any player who wins the game"
+with "any person who wins the game".
+
+[This doesn't actually allow a non-player to win, because each win
+method is still restricted to players.  This just sets things up for
+non-player wins to have the usual effect, once we allow them.  We're
+generally allowing non-players to take more game actions, such as
+calling for judgement (since CFJ 888) and entering into contracts and
+partnerships.  The NomicWiki has a new category "ExtendedStatus" for
+nomics that do this sort of thing.  There's no particular reason to
+restrict winning.]

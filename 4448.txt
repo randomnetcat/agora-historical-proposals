@@ -1,0 +1,15 @@
+ID: 4448
+Title: Win by Proposing
+Author: RedKnight
+Co-authors: 
+Adoption index: 1
+
+Proposal
+Win by Proposing
+
+[Thanks to Maud for the wording help]
+
+Create a rule titled "Win by Proposing" with the following text.
+
+Being the proposer of 15 or more distributable proposals currently
+in the proposal pool is a win condition.

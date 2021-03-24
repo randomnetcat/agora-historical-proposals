@@ -1,0 +1,12 @@
+ID: 5517
+Title: Fix IADoP Report requirements
+Author: Wooble
+Co-authors: 
+Adoption index: 1
+
+In Rule 2138, replace:
+         c) The date of the most recent attempt to achieve Agoran Consent
+         for changing the holder of that office.
+with:
+         c) The date when the most recent nomination period for that
+         office began.

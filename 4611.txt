@@ -1,0 +1,18 @@
+ID: 4611
+Title: Potential Decay
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2052 by replacing:
+       (a) Associated with every Player is a non-negative integral
+           number known as that Player's Voting Potential.  At the
+           beginning of each new month, every Player's Voting Potential
+           is set to zero.
+
+with:
+       (a) Associated with every Player is a non-negative integral
+           number known as that Player's Voting Potential.  At the
+           beginning of each new month, every Player's Voting Potential
+           is divided by two and rounded down.

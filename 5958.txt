@@ -1,0 +1,17 @@
+ID: 5958
+Title: Agoran History
+Author: Warrigal
+Co-authors: 
+Adoption index: 1.0
+
+Create the following power-1 rule titled "Agoran History":
+
+"The Book of History is a document which can be amended without 3
+objections. It should contain accurate information about Agora's
+history.
+
+The Historian is a low-priority office whose report includes the
+current text of the Book of History. The Historian SHOULD propose
+amendments to the Book of History on a regular basis."
+
+Set the Book of History to the empty document.

@@ -1,0 +1,117 @@
+ID: 4853
+Title: Alternate Conclaves
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Alternate Conclaves
+
+[V1.0 Changes from first version: Should be no different in effects,
+ tightened language (for example, realized reasons for Speaker
+ deregistering (e.g. lawlessness) could be generalized. Also, found
+ that it could be written as two rules and not 3. Bonus: if we ever
+ repeal the rule "Conclaves", "Church and State" on its own will put
+ us back to Ur-Agora, where you became speaker by winning. ]
+
+[V0.1 Adds mechanism of Agoran consent for quick decisions, rewrites
+ Conclaves with that mechanism, and fixes Conclave bugs that have
+ turned up].
+
+Create the following Rule, entitled "Agoran Consent"
+
+      If the Rules specify that an entity may perform an action with
+      Agoran Consent, then the entity may perform the action with M
+      supporters and without N objections, as long as M is greater
+      than N.
+
+
+Amend Rule 2104 (Contreras Card Labs) by replacing:
+
+      Any Player may add, delete, or amend a Scoring Instruction in
+      the Blueprints Cardbook, with M support and without N
+      Objections, where M is greater than or equal to N at the time
+      the change is performed, and N is at least 1.
+
+with:
+
+      Any Player may add, delete, or amend a Scoring Instruction in
+      the Blueprints Cardbook, with Agoran Consent.
+
+
+Amend Rule 681 (Conditions for Conclavity) by changing its title to
+"Conclaves" and amending it to read:
+
+      Agora exits from Conclave whenever a player becomes a pope.
+
+      Agora enters into Conclave whenever there is no pope and one of
+      the following triggering events occurs:
+
+      (a) the Speaker resigns the Speakership, becomes inactive, or
+          otherwise ceases to be Speaker without another player being
+          installed as Speaker;
+
+      (b) the success of a Call for Revolt is announced, and the
+          Speaker was abiding at the time of the Call for Revolt, in
+          which case the rebellious cardinals are the only qualified
+          cardinals;
+
+      (c) two or more cardinals simultaneously win the game, in which
+          case these cardinals are the only qualified cardinals;
+
+      (d) no pope has become Speaker for the past six months; or
+
+      (e) a pope ceases to be pope without becoming Speaker.
+
+      As soon as possible after Agora enters into conclave, the
+      Associate Director of Personnel must announce the fact and
+      publish a list of qualified cardinals.  All cardinals are
+      considered qualified unless specifically restricted by the
+      particular triggering event.  If Agora is already in conclave
+      when a triggering event occurs, Agora remains in conclave, but
+      the qualification of each cardinal is modified to reflect the
+      more recent event.
+
+      While Agora is in conclave, any player may make a qualified
+      Cardinal into a pope, with Agoran consent.  If the legality of
+      this action is not challenged within seven days of it being
+      attempted, then it shall be allowed to stand, even if is
+      subsequently found to be illegal.
+
+      So there's always hope
+      that you can be pope.
+
+
+Repeal Rule 786 (Default Procedure for Conclaves).
+
+
+Amend Rule 402 (Church and State) to read:
+
+      A cardinal is an active, ready player who is neither the current
+      Speaker nor the Associate Director of Personnel.
+
+      For seven days after a cardinal wins the game with no other
+      players simultaneously winning, that cardinal may announce that
+      e becomes a pope.  Upon this announcement, that player becomes a
+      pope, so please treat em right good forever.
+
+      When a cardinal becomes a pope, any previous pope immediately
+      ceases being a pope.  Whenever a pope is not a cardinal, e
+      immediately ceases being a pope.
+
+      As soon as possible after a cardinal becomes a pope, the
+      Associate Director of Personnel shall install that pope as
+      Speaker, by announcement.  Upon this announcement, if the player
+      is still a pope, then the current Speaker ceases to be Speaker,
+      and the pope is installed as the new Speaker and ceases to be a
+      pope.
+
+      This installation cannot be performed if there are unresolved
+      challenges regarding the pope-ness of the player.  If the
+      legality of an installation is not challenged within seven days
+      of it being attempted, then it shall be allowed to stand, even
+      if is subsequently found to be illegal.
+
+      If the office of ADoP is ever vacant, or the identity of its
+      holder cannot be determined with reasonable certainty, then
+      installation may be performed by any player by announcement.

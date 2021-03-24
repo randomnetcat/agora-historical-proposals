@@ -1,0 +1,12 @@
+ID: 6042
+Title: Without Objection
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+Flip each of the following offices' IIs to the corresponding value:
+
+Assessor: 2
+Conductor: 3
+Promotor: 2
+Rulekeepor: 2

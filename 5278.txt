@@ -1,0 +1,11 @@
+ID: 5278
+Title: Restore definition of public contracts
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+If Rule 1742 (Contracts) does not contain this text, then amend it
+by appending this text:
+
+      A public contract is a contract that identifies itself as such.
+      Any other contract is private.

@@ -1,0 +1,19 @@
+ID: 5119
+Title: Retroactively colorize partnership VCs
+Author: Murphy
+Co-authors: 
+Adoption index: 3.1
+
+Create a rule titled "Retroactively colorize partnership VCs" with
+Power = 3.1 and this text:
+
+      One second after the creation of this rule, each of these
+      players loses all eir Gray VCs, and gains an equal number of
+      VCs of the specified colors (in order, repeating until the
+      correct total gain is achieved):
+
+        Human Point Two           Green, Blue, Green
+        Pineapple Partnership     Blue
+
+      Two seconds after the creation of this rule, this rule is
+      repealed.

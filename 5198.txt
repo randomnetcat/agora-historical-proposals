@@ -1,0 +1,7 @@
+ID: 5198
+Title: Make Bob's messages valid
+Author: BobTHJ
+Co-authors: 
+Adoption index: 3
+
+Flip the publicity of agora-discussion@agoranomic.org to "Public"

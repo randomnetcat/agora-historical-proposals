@@ -1,0 +1,44 @@
+ID: 5153
+Title: Separate rule from act in criminal cases
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+                                               A criminal case CAN be
+      initiated by any player, by announcement which clearly
+      identifies the defendant and specifies the action (which may be
+      a failure to perform another action) by which the defendant
+      allegedly breached the rules.
+
+with this text:
+
+                                               A criminal case CAN be
+      initiated by any player, by announcement which clearly specifies
+      all of the following:
+
+        a) The identity of the defendant.
+
+        b) Exactly one rule allegedly breached by the defendant.
+
+        c) The action (which may be a failure to perform another action)
+           by which the defendant allegedly breached this rule.
+
+and by replacing this text:
+
+      * ALREADY TRIED, appropriate if judgement has already been
+        reached in another criminal case with the same defendant and
+        substantially the same alleged act
+
+      * UNIMPUGNED, appropriate if the alleged act was not proscribed
+        by the rules at the time it allegedly occurred
+
+with this text:
+
+      * ALREADY TRIED, appropriate if judgement has already been
+        reached in another criminal case with the same defendant, the
+        same rule, and substantially the same alleged act
+
+      * UNIMPUGNED, appropriate if the alleged act was not proscribed
+        by the specified rule at the time it allegedly occurred

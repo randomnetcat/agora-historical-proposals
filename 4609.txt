@@ -1,0 +1,45 @@
+ID: 4609
+Title: Buying Seats
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+    Each Shareholder at the time this Proposal takes effect has their
+    Voting Potential increased by twelve.d Rule 2053 (Team Points, Team Scores) by replacing the text "the
+last Team Win" with "the last Score Reset".
+
+Amend Rule 2042 (Team Wins) to read:
+
+     A Team achieves a Team Win when its Team Score reaches the Team
+     Points Goal, as set in the Scorekeepor's Budget.  When this
+     occurs, no other Team may achieve a Team Win until after the
+     next Score Reset.
+
+     The Scorekeepor shall announce a Team Win as soon as possible
+     after it occurs.  Upon this announcement, a Score Reset occurs.
+
+     In the announcement, the Scorekeepor shall award the Boon of
+     Teamwork to each Winner.
+
+     In the announcement, the Scorekeepor shall reassign Players to
+     Teams as follows, based on Scores immediately before the Score
+     Reset:
+
+     1) The Player with the highest Score in the Team with the
+        highest Team Score is assigned to the Team with the lowest
+        Team Score.
+
+     2) The Player who has the lowest Score in the Team with the
+        lowest Team Score is assigned as to distribute the players as
+        evenly as possible among the Teams.
+
+     3) All other Players remain assigned to the same Teams.
+
+     If in any of the above there is a choice of more than one Player
+     or Team, the Scorekeepor shall choose between the applicable
+     Players or Teams as e sees fit.  The Scorekeepor shall include
+     the details of the reassignments in eir announcement.
+
+     In the announcement, the Scorekeepor may rename one or more Teams
+     by specifying the new name of each Team e is renaming.

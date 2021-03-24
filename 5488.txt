@@ -1,0 +1,22 @@
+ID: 5488
+Title: <none>
+Author: Ivan Hope
+Co-authors: 
+Adoption index: 2
+
+Create a new rule with power 2:
+
+{A face is a type of contract requiring at least zero parties. Every
+face represents exactly one foreign nomic, and every foreign nomic is
+represented by at most one face. A foreign nomic that is represented
+by a face is a person. A person can send a public message on behalf of
+a foreign nomic as explicitly allowed by its face.
+
+If the ambassador truthfully makes a public statement that a foreign
+nomic's ruleset requests that a face be created for it, or that a
+Contract Change be made to its face, the face is created or the
+Contract Change is made, unless doing so would result in the nomic
+having more than one face, or the face states that it cannot be
+changed in this manner. The ambassador SHOULD make this public
+statement whenever e becomes aware of the request. This is the only
+way a face can be created.}

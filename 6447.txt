@@ -1,0 +1,9 @@
+ID: 6447
+Title: Terrible
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+The four players who players who cast the most valid unconditional votes
+FOR this proposal with no votes AGAINST each win. In case of a tie, all
+the tied players win as well.

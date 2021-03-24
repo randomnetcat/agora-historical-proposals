@@ -1,0 +1,9 @@
+ID: 6389
+Title: Janitor Cleaning
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2247, change "rule set" to read "ruleset"
+
+[This version is used throughout the rest of the Rules.]

@@ -1,0 +1,72 @@
+ID: 5421
+Title: Refactoring Contracts
+Author: woggle
+Co-authors: 
+Adoption index: 1.5
+
+Amend rule 1742 to read:
+
+    Contracts are binding agreements governed by the rules. Any
+    agreement made by one or more persons with the intention that it be
+    binding on them and governed by the rules is a contract (unless it
+    would automatically terminate as a contract).
+
+    A contract automatically terminates if the number of parties to it
+    falls below the minimum number of parties defined by the rules for
+    that contract. If not otherwise specified, the minimum number of
+    parties is two. If other rules specify different minimum number of
+    parties for a contract, then the largest such number takes
+    precedence.
+
+    Parties to a contract SHALL act in accordance with that
+    contract. This obligation is not impaired by contradiction
+    between the contract and any other contract, or between the
+    contract and the rules.
+
+[The minimum party count preedence rule doesn't actually change anything now
+because of how the pledge, location, and contest rules take precedence over
+each at the moment.]
+
+Enact a new rule titled "Defining Contract Changes", with Power 1.5:
+
+    A Contract Change can be one or more of any of the following:
+
+    (a) a person who intends to be bound by a contract becoming a party
+        to the contract;
+
+    (b) a person ceasing to be a party to the contract;
+
+    (c) amending a contract; and
+
+    (d) terminating a contract
+
+    If a Contract Change is ambiguous or the its permissability
+    cannot be determined with certainty at the time it is attempted,
+    then that change has no effect.
+
+[Prevent annoyances like "This contract CAN be amended by announcement
+if Goldbach's Conjecture is true."]
+
+Enact a new rule titled "Making Contract Changes", with Power 1.5:
+
+    If a contract specifies a mechanism by which Contract Changes to
+    it can be performed, then such changes CAN be performed using that
+    mechanism.
+
+    If a contract does not purport to regulate becoming a party to it,
+    than any person CAN become a party to it by announcement.
+
+    If the minimum number of parties for a contract is at least two,
+    then Contract Changes CAN be made to it by agreement between all
+    the parties to the contract. Otherwise, any party to the contract
+    CAN make Contract Changes to that contract without Objection if,
+    before the dependant action is resolved, no party blocks the change
+    by announcement.
+
+[Blocking needed to prevent non-player parties or non-first-class parties from
+being screwed over.]
+
+Amend rule 2191 by removing the text:
+
+    A pledge CAN be modified or terminated by any party without
+    objection.

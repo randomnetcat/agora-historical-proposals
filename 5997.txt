@@ -1,0 +1,22 @@
+ID: 5997
+Title: Internment
+Author: Sgeo
+Co-authors: Goethe, Murphy
+Adoption index: 3.0
+
+Create a rule with the following text
+{
+ During an Emergency session, a non-Senator
+ may be placed in Internment by the Agoran Consent
+ of Senators.
+
+ Internment ends with the end of the Emergency Session.  No
+ Senator is ever in Internment, and no player
+ is ever in internment outside of an Emergency Session.
+ Being in internment is secured.
+
+ When a Player is in Internment, e is not an eligible voter on
+ any Agoran Decision, including those that were in their
+ voting period when the player was placed in internment, rules
+ to the contrary notwithstanding.
+}

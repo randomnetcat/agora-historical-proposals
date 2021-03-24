@@ -1,0 +1,26 @@
+ID: 5248
+Title: Generalize poor qualification
+Author: AFO
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1868 (Judge Assignment Generally) by appending this text:
+
+      When a player is poorly qualified to be assigned as judge of a
+      judicial case, the Clerk of the Courts SHALL not assign em to be
+      the judge of that case; if e has done so, and that player is still
+      the judge of that case, then e CAN recuse that judge from that
+      case by announcement.
+
+Amend Rule 1871 (The Standing Court) by replacing this text:
+
+                      The CotC SHALL NOT assign a sitting player to be
+      the judge of any judicial case.  If the CotC has assigned a
+      sitting player as judge, and that player is still the judge of
+      that case, the CotC CAN recuse that judge from that case by
+      announcement.
+
+with this text:
+
+                      A sitting player is poorly qualified to be
+      assigned as judge of any judicial case.

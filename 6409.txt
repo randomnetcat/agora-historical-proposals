@@ -1,0 +1,36 @@
+ID: 6409
+Title: Right Power
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+[ > and >> quoted lines are for reference only, from
+  Rulekeepor's report of previous proposal].
+
+>> Position Cards, AI-2:
+> Enacted as Rule 2254 in category "Cards".
+Change the power of Rule 2254 to 2.
+
+>> Exploit Cards, AI-2:
+> Enacted as Rule 2256 (Power-1, see above) in category "Cards".
+Change the power of Rule 2256 to 2.
+
+>> Decks, Draws, and Salaries, AI-2:
+> Enacted as Rule 2258 (Power-1) in category "Cards".
+Change the power of Rule 2258 to 2.
+
+>> Basic Hand Limits, AI-2:
+> Enacted as Rule 2259 (Power-1) in category "Cards".
+Change the power of Rule 2259 to 2.
+
+>> The Deck of Government, AI-2:
+> Enacted as Rule 2260 (Power-1) in category "Cards".
+Change the power of Rule 2260 to 2.
+
+>> The Deck of Change, AI-2:
+> Enacted as Rule 2261 (Power-1) in category "Cards".
+Change the power of Rule 2261 to 2.
+
+>> the Deck of Justice, AI-2:
+> Enacted as Rule 2262 (Power-1) in category "Cards".
+Change the power of Rule 2262 to 2.

@@ -1,0 +1,16 @@
+ID: 5154
+Title: Simplify quorum
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 879 (Quorum) to read:
+
+      Quorum for an Agoran decision is 5, unless
+
+        a) this is larger than the number of eligible voters with a
+           positive voting limit on that decision, in which case
+           quorum is that number; or
+
+        b) the decision is whether to approve a dependent action, in
+           which case quorum is zero.

@@ -1,0 +1,13 @@
+ID: 5320
+Title: Non-reporting Office
+Author: pikhq
+Co-authors: 
+Adoption index: 1
+
+Create a rule with the following text:
+{
+There exists an office of Governmental Waste. This office shall have no
+duties, shall make no reports, and shall exist as the sole result of
+governmental waste.
+}
+[ I want to see some green marks in play. ;) ]

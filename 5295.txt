@@ -1,0 +1,52 @@
+ID: 5295
+Title: clarify proposal distribution
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Retitle rule 1607 to "Distribution of Proposals", change its power to
+2, and amend it to read
+
+      The promotor is an office; its holder is responsible for
+      receiving and distributing proposals.
+
+      A proposal CAN be distributed by the promotor at any time, by
+      publishing it with the clear intent of distributing it.  A
+      proposal distribution is VALID regardless of whether the
+      proposal existed prior to its distribution.  Distributed
+      proposals have ID numbers, to be assigned by the promotor.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.
+
+      When distributing a proposal, the promotor SHALL specify its
+      author (and coauthors, if any), its adoption index, and whether
+      it is ordinary or democratic.
+
+      If a proposal being distributed is identical (in meaning) to a
+      proposal in the proposal pool, then this is a distribution of
+      the proposal from the proposal pool, and the act of distribution
+      removes it from the proposal pool.  If a proposal being
+      distributed is not identical (in meaning) to any proposal in the
+      proposal pool, then the distribution creates a new proposal.
+
+      The promotor SHALL in each week distribute each proposal that
+      was in the proposal pool at the beginning of the week, except
+      for proposals that have been subsequently removed from the pool.
+      The promotor SHALL NOT distribute any proposal that is not in
+      the pool at the time of distribution.
+
+[MMI language incorporates judgements regarding distribution of
+unsubmitted proposals.  Add explicit obligation to not make such
+distributions.  Remove the reporting requirement for the pool, because
+that was only present to give the promtor a weekly report for salary
+purposes and e now has to report ID numbers.  Increase power because
+this is important machinery.]
+
+Amend rule 2153 by appending the paragraph:
+
+      When distributing a proposal, the promotor SHALL specify its
+      interest index.
+
+[Moved from rule 1607.  This fixes the reporting requirement (which
+hadn't been updated for the change to an index), and puts it next to
+the definition of the index for maintainability.]

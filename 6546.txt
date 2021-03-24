@@ -1,0 +1,25 @@
+ID: 6546
+Title: Pragmatize strict ordering
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2161 (ID Numbers) by replacing:
+
+     (b) Such an assignment is INVALID unless the number is a natural
+         number (expressed as a decimal literal with at most 14
+         digits) distinct from any ID number previously assigned to
+         an entity of that type, and (if the type of entity is
+         defined by the rules as strictly ordered) greater than any
+         orderly ID number so assigned.  The player SHOULD select the
+         smallest number possible.
+
+with:
+
+     (b) Such an assignment is INVALID unless the number is a natural
+         number (expressed as a decimal literal with at most 14
+         digits) distinct from any ID number previously assigned to
+         an entity of that type, and (if the type of entity is
+         defined by the rules as strictly ordered) ILLEGAL unless the
+         number is greater than any orderly ID number so assigned.
+         The player SHOULD select the smallest number possible.

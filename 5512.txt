@@ -1,0 +1,15 @@
+ID: 5512
+Title: Mandate II
+Author: Goethe
+Co-authors: 
+Adoption index: 3
+
+Mandate II
+
+Amend R2152 by appending the following text:
+
+   8.  If an entity is MANDATED to perform an action or an
+       action is a MANDATE for a entity, then the entity
+       SHALL perform the action and CAN do so by announcement.
+       If no other time limit is specified, e SHALL do so
+       as soon as possible.

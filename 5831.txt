@@ -1,0 +1,91 @@
+ID: 5831
+Title: Fix elections
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+     voting period for a decision cannot be shorter than seven days.
+
+with this text:
+
+     voting period for a decision with at least two options cannot
+     be shorter than seven days.  The vote collector for a decision
+     with less than two options CAN end the voting period by
+     announcement, provided that e resolves the decision in the same
+     message.
+
+[Allow uncontested decisions to be resolved early.]
+
+Amend Rule 955 (Determining the Will of Agora) by appending this text:
+
+     (c) If the decision is for an election, then the outcome is the
+         candidate with the most votes.  In case of a tie, the vote
+         collector SHALL select one of the leaders as the outcome.  If
+         there are no candidates, then the outcome is null.
+
+[Moved from Rule 2154.  Allow null outcomes.]
+
+Create a rule titled "Periodic Elections" with Power 2 and this text:
+
+     Stability is an elected office switch, tracked by the IADoP,
+     with values Temporal (default) and Perpetual.  Any player CAN
+     flip an elected office's stability without 2 objections.  A
+     Perpetual office becomes Temporal when its holder leaves office.
+
+     The IADoP SHALL initiate an election for an elected office
+     under the following circumstances:
+
+       a) During a quarter, if the office was Temporal at the start
+          of that quarter and no such attempt was made during the
+          previous quarter.  This requirement is waived if another
+          player makes such a change during the current quarter.
+
+       b) Within a week (or month, if the office is low-priority)
+          after the office ceases to have an active holder, or after
+          an election for the office ends and the office fails to have
+          an active holder.  This requirement is waived if the office
+          comes to have an active holder during that week (month).
+
+[Moved from Rule 2154, along with retrying failed elections.]
+
+Change the title of Rule 2154 to "Election Procedure", and amend it
+to read:
+
+     Any player CAN by announcement initiate an election for an
+     elected office for which no election is already in progress,
+     nominating at least one active player.
+
+     During the first four days of the election (the nomination
+     period), any player CAN by announcement nominate one or more
+     active players.
+
+     As soon as possible after the nomination period ends, the
+     IADoP SHALL initiate an Agoran decision to determine the new
+     officeholder.  For this decision:
+
+       1) The valid options (hereafter the candidates) are the
+          active players who, during the election,
+
+            a) received and accepted a nomination for the office
+               before the decision was initiated (self-nomination
+               constitutes acceptance), and
+
+            b) did not decline a nomination for the office.
+
+          The set of candidates can change after the decision is
+          initiated.
+
+       2) The eligible voters are the active players.
+
+       3) Each eligible voter's voting limit is one.  An ordered list
+          of multiple choices constitutes a conditional vote for the
+          first choice if it could be the outcome, otherwise the second
+          choice if it could be the outcome, and so forth.
+
+     Upon the resolution of this decision, its outcome (if a candidate)
+     is installed into the office, and the election ends.
+
+[General cleanup.  All nominations must be accepted.  Declinations are
+final.  Instant-runoff voting.  Default quorum.]

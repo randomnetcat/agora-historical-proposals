@@ -1,0 +1,13 @@
+ID: 5439
+Title: Reinforced panels
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2157 (Judicial Panels) by inserting, immediately before
+"with the majority agreement", this text:
+
+      (if the CotC is not a member)
+
+and by inserting a paragraph break immediately before "A judicial
+panel can incur".

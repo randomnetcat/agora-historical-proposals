@@ -1,0 +1,8 @@
+ID: 5818
+Title: Require Clear Announcements
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rules 478 and 1728 by replacing "unambiguously specifying" with
+"unambiguously and clearly specifying".

@@ -1,0 +1,13 @@
+ID: 5602
+Title: Explain why we need this
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1450 (Separation of Powers) to read:
+
+      Lest the entire proposal process fall under the control of a
+      single entity, any change that would result in the same entity
+      holding the offices of Promotor and Assessor simultaneously is
+      canceled and does not occur, rules to the contrary
+      notwithstanding.

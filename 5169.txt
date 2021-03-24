@@ -1,0 +1,15 @@
+ID: 5169
+Title: birthday presents
+Author: Zefram
+Co-authors: OscarMeyr, Pavitra
+Adoption index: 2
+
+OscarMeyr and Pavitra are coauthors of this proposal.
+
+Amend rule 2126 by appending to the list of ways that VCs can be
+gained (and lost, if both are in a single list) the new item
+
+      (+M) When, during Agora's birthday, a player publicly
+           acknowledges the occasion, e gains one magenta VC, unless e
+           previously gained a VC in this manner during the same
+           birthday.

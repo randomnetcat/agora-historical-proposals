@@ -1,0 +1,19 @@
+ID: 6669
+Title: Criminalize Gaming the System
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2224, change the text of the second paragraph from:
+
+       The submitter of a proposal SHOULD set its interest index to 0
+       if and only if the proposal's effects are limited to correcting
+       errors and/or ambiguities.
+
+to
+       The submitter of a proposal SHALL set its interest index to 0 if
+       and only if the proposal's effects are limited to correcting
+       errors and/or ambiguities.
+
+[As of now, players can easily submit any proposal as II=0 to avoid
+paying the fee associated with making it Distributable.]

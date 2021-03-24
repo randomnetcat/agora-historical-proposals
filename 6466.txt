@@ -1,0 +1,12 @@
+ID: 6466
+Title: Chaos Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+In rule 2161 (ID Numbers), remove the entry with the bullet (c) and
+reletter each subsequent bullet with the previous letter of the
+alphabet. Then remove the word "orderly" wherever else it occurs in the
+rule.
+[It is no longer possible to illegally assign an ID Number; to my
+knowledge there exist no chaotic numbers]

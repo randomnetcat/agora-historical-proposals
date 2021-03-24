@@ -1,0 +1,25 @@
+ID: 6502
+Title: Creative Offices
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Create a new power-2 rule entitled "Creative Offices" and the following text:
+
+      A creative office is a role defined as such by the rules. All
+      creative offices are offices. When a player ceases to hold a
+      creative office, then, rules to the contrary notwithstanding,
+      that player CAN NOT come to hold that office again for 3 months.
+      When a player has held a creative office consecutively for 3
+      months, any player CAN cause that creative office to become
+      vacant by announcement. The IADoP tracks which players, if any,
+      are not permitted to hold a particular creative office
+
+Amend the first sentence of Rule 2247 to read:
+
+      The Janitor is a creative office; its holder is responsible for
+      cleaning the rules.
+Amend the first sentence of Rule 2216 to read:
+
+      The Anarchist is a creative office; its holder is responsible
+      for proposing the repeal of rules.

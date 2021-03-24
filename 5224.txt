@@ -1,0 +1,20 @@
+ID: 5224
+Title: Re-enact perpetuity
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2154 (Replacing Officers) by replacing the paragraph
+containing "If no attempt to achieve Agoran Consent" with this text:
+
+      Stability is an office switch, tracked by the IADoP, with
+      values Temporal (default) and Perpetual.  Any player CAN flip
+      an office's stability without 2 objections.  A Perpetual office
+      becomes Temporal when its holder leaves office.
+
+      If an office is Temporal at the end of a quarter, and no attempt
+      to change the holder of that office with Agoran consent was made
+      during that quarter, then the IADoP SHALL make at least one such
+      attempt in the following quarter, and SHALL make the change if
+      consent is achieved.  These requirements are waived if another
+      player makes such a change during the following quarter.

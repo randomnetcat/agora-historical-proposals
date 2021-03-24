@@ -1,0 +1,22 @@
+ID: 6070
+Title: Limited liability
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2228 (Rests) by replacing this text:
+
+     Ownership of Rests is restricted to first-class persons. If, in
+     the absence of this restriction, a number (N) of Rests would be
+     created in the ownership of a non-first-class person, then for
+     each member of that person's basis, N Rests are created in that
+     member's possession.
+
+with this text:
+
+     Ownership of Rests is restricted to first-class persons. If, in
+     the absence of this restriction, a number (N) of Rests would be
+     created in the ownership of a non-first-class person, then for
+     each member of that person's basis onto whom that person
+     devolves its relevant legal obligation, N Rests are created in
+     that member's possession.

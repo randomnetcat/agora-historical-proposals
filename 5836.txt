@@ -1,0 +1,25 @@
+ID: 5836
+Title: Generalize continuity
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1586 (Definition and Continuity of Entities) to read:
+
+     If multiple rules or contracts (hereafter documents) attempt to
+     define an entity with the same name, then they refer to the same
+     entity.  A document-defined entity's name CANNOT be changed to be
+     the same as another document-defined entity.
+
+     A document referring to an entity by name refers to the entity
+     that had that name when the document first came to include that
+     reference, even if the entity's name has since changed.
+
+     If the documents defining an entity are repealed or amended such
+     that they no longer define that entity, then that entity and its
+     properties cease to exist.
+
+     If the documents defining an entity are amended such that they
+     still define that entity but with different properties, then that
+     entity and its properties continue to exist to whatever extent
+     is possible under the new definitions.

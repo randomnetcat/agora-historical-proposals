@@ -1,0 +1,84 @@
+ID: 5970
+Title: Generalize complexity 
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule titled "Interest Index of Proposals" with this text:
+
+      Each proposal has an interest index, which CAN be set by
+      its author at the time of submission.  A proposal SHOULD
+      be disinterested if and only if its effects are limited
+      to correcting errors and/or ambiguities.
+
+Amend Rule 2153 (Interest Index) to read:
+
+      An entity's interest index is an integer from 0 to 3, default
+      value 1.  An entity's interest index SHOULD be proportional to
+      its complexity.
+
+      "Disinterested" is a synonym for "interest index 0".
+
+Create a rule titled "Interest Index of Judicial Cases" with Power 1.5
+and this text:
+
+      Each judicial case has an interest index, which CAN be set by
+      its initiator at the time of initiation, and CAN be changed
+      by any player without 2 objections, or by the Clerk of the
+      Courts or Justiciar without 3 objections.
+
+Create a rule titled "Judicial Rank" with Power 1.5 and this text:
+
+      Judicial rank is a player switch, tracked by the Clerk of the
+      Courts, with the same range and default as interest indices.
+
+      A player is poorly qualified to judge judicial cases whose
+      interest index exceeds eir judicial rank.
+
+      A player CAN flip eir judicial rank to any value by announcement.
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 1, then it is decreased by 1, and e CANNOT
+      increase it for 30 days afterward (the rest of this rule
+      notwithstanding).
+
+      "District", "Circuit", and "Supreme" are synonymous with judicial
+      ranks 1, 2, and 3, respectively.
+
+Create a rule titled "Interest Index of Offices" with this text:
+
+      Each office has an interest index.
+
+      A player CAN flip an office's interest index to any value without
+      objection, or without 2 objections if e holds the office.
+
+Amend Rule 2126 (Notes) by replacing this text:
+
+      (2) (E)  At the end of each week, each player who completed the
+               non-empty set of weekly duties of at least one office
+               during that week gains an E Note.
+
+          (Eb) At the end of each month, each player who completed the
+               non-empty set of monthly duties of at least one office
+               during that month gains an Eb Note.
+
+      (3) (D)  At the end of each week, each player who published at
+               least one on-time judgement during that week gains a D
+               Note.
+
+with this text:
+
+      (2) (E)  At the end of each week, each player who completed the
+               non-empty set of weekly duties of at least one office
+               during that week gains a number of E Notes equal to the
+               highest interest index among all such offices.
+
+          (Eb) At the end of each month, each player who completed the
+               non-empty set of monthly duties of at least one office
+               during that month gains a number of Eb Notes equal to the
+               highest interest index among all such offices.
+
+      (3) (D)  At the end of each week, each player who published at
+               least one on-time judgement during that week gains a
+               number of D Notes equal to the highest interest index
+               among all such cases.

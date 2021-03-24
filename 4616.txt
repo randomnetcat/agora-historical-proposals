@@ -1,0 +1,27 @@
+ID: 4616
+Title: Some card fixes
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+[Fix Debate-o-matic]
+The Power of Rule 2067 (Cards in Play) is hereby set to 2.
+
+[Fix a typo]
+Amend Rule 2075 by replacing:
+                                     except that no boon shall be
+       awarded nor shall extra winner's be dealt.
+with
+                                     except that no boon shall be
+       awarded nor shall extra winner's cards be dealt.
+
+[Fix Political Charge]
+Amend Rule 2052 (Voting Potential) by appending the following text:
+        (d) the Political Charge is a positive integer that is initially
+        4, and may be changed only as defined by instruments of a power
+        of 2 or greater.  Rules to the contrary nonwithstanding, if the
+        current value of the Political Charge cannot be determined by
+        reasonable effort, it shall be considered to be reset to 4.  The
+        Assessor is responsible for tracking the current Political
+        Charge.

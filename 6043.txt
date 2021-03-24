@@ -1,0 +1,10 @@
+ID: 6043
+Title: paradoxes must exist
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Rule 2110/5 (Win by Paradox) by replacing:
+      actual or hypothetical, but
+with:
+      actual or attempted, but not hypothetical,

@@ -1,0 +1,9 @@
+ID: 6501
+Title: That's Dumb
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Enact a new rule with the following text:
+       A player CAN act on behalf of a contract where permitted by that
+       contract's text.

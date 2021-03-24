@@ -1,0 +1,10 @@
+ID: 5593
+Title: Speaker, Activate
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Speaker, Activate
+
+Amend Rule 402 by inserting the word "active" immediately before
+the first occurrence of the word "player".

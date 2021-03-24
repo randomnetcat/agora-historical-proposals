@@ -1,0 +1,14 @@
+ID: 4890
+Title: Fix Separation of Powers
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1450 (Separation of Powers) to read:
+
+       The positions of Speaker, Clerk of the Courts, and Promotor
+       are mutually exclusive.  Whenever a player holds more than
+       one of these positions, e is removed from all of them except
+       Speaker (if he holds it) or the position e came to hold most
+       recently (otherwise).

@@ -1,0 +1,14 @@
+ID: 5482
+Title: Don't reward a sinecure
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2181 (The Accountor) to read:
+
+      The Accountor is a low-priority office; its holder is responsible
+      for keeping track of miscellaneous assets.
+
+      The Accountor is the default recordkeepor for all assets that do
+      not specify a different recordkeepor.  While there are no such
+      assets, the Accountor has no report.

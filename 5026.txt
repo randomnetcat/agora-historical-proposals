@@ -1,0 +1,8 @@
+ID: 5026
+Title: Power to the Partnerships
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2
+
+Amend R1728 Dependant Actions by removing all occurrences of the phrase "who
+are natural persons"

@@ -1,0 +1,20 @@
+ID: 4704
+Title: Magical Mute Refinement V.2
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Rewrite R 2085 (Mute Exemption) to read as follows:
+
+      A Legislator who is Mute may, with two support, submit a body
+      of text, labeled a Mute Exemption Proposal which acts as if it
+      were a normal Proposal if it meets all rule requirements for a
+      Proposal other than the Proposer not being Mute.
+
+      As soon as possible after a Proposal with Mute Exemption passes,
+      the Assessor shall expunge a number of Blots from the Proposer
+      equal to the Adoption Index of the Proposal.  In the event that
+      the Adoption Index is greater than 5 then a maximum of 5 blots shall
+      be expunged. The Proposer shall receive no Boons that may have
+      awarded by other rules for the passing of the Proposal.

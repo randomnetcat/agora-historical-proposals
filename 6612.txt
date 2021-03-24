@@ -1,0 +1,16 @@
+ID: 6612
+Title: Vinci
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new rule with power 1:
+{{
+     coppro CAN, by announcement, cause this Rule to make any Rule
+     Change e specifies. For the purposes of this rule, if coppro has
+     publicly posted potential Rule Change that is substantially the
+     same in content more than 72 hours prior, and if e has given full
+     consideration to every comment and complaint brought against it
+     (even if he chooses to ignore them), then any requirement for
+     public review has been met for a Rule Change made by this rule.
+}}

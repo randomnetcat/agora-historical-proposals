@@ -1,0 +1,16 @@
+ID: 4709
+Title: Inside Agent
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+Append the following to Rule 2071:
+
+      * Caption: Police State
+        Elements: Budgeted,
+                  Restricted [Abiding]
+        Exploit: For a fee of N Kudos, where N is the current number
+          of Rebellious Players, decrease the effective number of
+          Rebellious Players by 1 for seven days.  Count the day this
+          Card is played as day #1.

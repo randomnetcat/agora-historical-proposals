@@ -1,0 +1,12 @@
+ID: 6575
+Title: Herald Decorations
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2199 (Ribbons) by replacing:
+     The Tailor is an office, and the recordkeepor of Ribbons.
+with:
+     The Herald is the recordkeepor of Ribbons.
+
+[The reporting duty is minor now that anyone can do the awarding].

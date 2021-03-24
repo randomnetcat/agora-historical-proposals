@@ -1,0 +1,12 @@
+ID: 5062
+Title: real scores
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2136 by replacing the text "is eir score" with "is eir
+score, which is always a real number, and scores are not categorically
+prevented from being any particular real number".
+
+[This will be overridden if "algebraic scores", "rational scores", or
+"integer scores" is adopted.]

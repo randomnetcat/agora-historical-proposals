@@ -1,0 +1,14 @@
+ID: 5761
+Title: The Endless Repeals: 478.5
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+[Now for repeals.  These are based on random repeals generated from a
+script that would have had Bayes propose them.  However, ehird rather
+dislikes the idea, so I think that's scrapped.  Anyway, these have
+been manually edited, whereas the raw random repeals would often make
+the ruleset nonsensical.]
+Amend Rule 478 (Fora) by removing:
+      Each active player should ensure e can receive messages via each
+      public forum.

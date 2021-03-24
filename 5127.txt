@@ -1,0 +1,8 @@
+ID: 5127
+Title: report protectorates monthly
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2147 by replacing the words "ambassador's report" with
+"ambassador's monthly report".

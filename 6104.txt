@@ -1,0 +1,13 @@
+ID: 6104
+Title: Grandfather Forgiveness
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule titled "Grandfather Forgiveness" with Power 2 and this
+text:
+
+     Rules to the contrary notwithstanding, any Notice of Violation
+     alleging a rule violation prior to the adoption of this rule
+     is invalid.  If this rule has existed for at least 200 days,
+     then any player CAN (by announcement) cause it to repeal itself.

@@ -1,0 +1,14 @@
+ID: 6281
+Title: All Together Now, Discordantly
+Author: Wooble
+Co-authors: ais523, Quazie
+Adoption index: 2.0
+
+In Rule 2126, replace #6 under "Notes CAN be spent (destroyed) as
+follows:" with:
+
+      (6) During Agora's Birthday, a player CAN spend Notes forming
+          the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
+          a translation thereof) to satisfy the Winning Condition of
+          Musicianship, unless another player has already done so
+          using the same translation during that Birthday.

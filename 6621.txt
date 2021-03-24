@@ -1,0 +1,11 @@
+ID: 6621
+Title: R101 Safety Net
+Author: c.
+Co-authors: 
+Adoption index: 3.0
+
+Enact a new Power=3 Rule reading:
+
+     comex CAN cause this rule to amend itself by announcement, as
+     long as e published the amendment for public review at least 24
+     hours ago.

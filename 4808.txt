@@ -1,0 +1,23 @@
+ID: 4808
+Title: Pragmatize Late Judgement
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 408 (Late Judgement) by replacing this text:
+
+      During a Judge's Overtime Period, if e has not yet Judged the
+      CFJ, then the Clerk of the Courts may recuse the Judge by
+      announcing that e does so.  At the end of a Judge's Overtime
+      Period, if e has not yet Judged the CFJ, then e is automatically
+      recused.
+
+with this text:
+
+      During a Judge's Overtime Period, if e has not yet Judged the
+      CFJ, then the Clerk of the Courts may recuse em by announcement.
+
+      Upon the end of a Judge's Overtime Period, if e has not yet
+      Judged the CFJ, then the Clerk of the Courts shall recuse em by
+      announcement as soon as possible.

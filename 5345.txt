@@ -1,0 +1,16 @@
+ID: 5345
+Title: Deflate Blue Marks
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Upon the adoption of this proposal:
+
+1) Each player loses Blue Marks equal to eir Blue Mark holdings
+   rounded down to the nearest multiple of 100.
+
+2) Each player who spent Blue Marks to gain Blue VCs since the
+   submission of this proposal loses Blue VCs equal to the number
+   of Blue VCs that e gained in this way.
+
+[Simplicity over exactitude.]

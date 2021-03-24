@@ -1,0 +1,9 @@
+ID: 4900
+Title: fix unanimity
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Be it therefore resolved that Rule 955 "Determining the Will of Agora"
+be amended by replacing the word "Unanimity" with "aleph-0".

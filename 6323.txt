@@ -1,0 +1,15 @@
+ID: 6323
+Title: Active Players Must Do Something Useful
+Author: ais523
+Co-authors: 
+Adoption index: 1.7
+
+Create a power-1.7 rule with the following text:
+{{{
+At the start of each month, one Rest is created in the possession of
+each active player.
+}}}
+[The idea is that players who have done anything useful can trivially
+burn off the Rests with the Notes they got for it; even players who are
+just here to participate in contests will get Notes for earning points
+in them. It's only the players who do nothing who'll be hurt by this.]

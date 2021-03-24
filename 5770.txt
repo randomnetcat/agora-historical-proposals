@@ -1,0 +1,9 @@
+ID: 5770
+Title: <none>
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+     Express the Sense of Agora that the Registrar SHOULD stop
+     tracking Watchers for whom working email addresses are not
+     available.

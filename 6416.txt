@@ -1,0 +1,7 @@
+ID: 6416
+Title: EUDI Recognition
+Author: C-walker
+Co-authors: 
+Adoption index: 1.0
+
+Flip the Recognition of the EUDI (http://eudi.forumotion.net/) to Neutral.

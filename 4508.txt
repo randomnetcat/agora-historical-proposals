@@ -1,0 +1,26 @@
+ID: 4508
+Title: Vote Collector for Offices Does Not Move
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+[Improved parallelism with Rules 1434 (Default Procedure for Referendum
+  Voting) and 1445 (Defaults for Elections).  Change "shall be" to "is",
+  and add "at the time the Election begins".]
+
+Amend Rule 1558 (Defaults for Elections for Offices) by replacing this text:
+
+       * The Vote Collector of the Election shall be the Assistant
+         Director of Personnel, unless the Office which the Election is
+         seeking to fill is that of the Assistant Director of
+         Personnel, in which case the Vote Collector shall be the
+         Speaker; and
+
+with this text:
+
+       * The Vote Collector is the Assistant Director of Personnel at
+         the time the Election begins, unless the Election seeks to
+         fill the Office of Assistant Director of Personnel, in which
+         case the Vote Collector is the Speaker at the time the Election
+         begins.

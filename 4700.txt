@@ -1,0 +1,26 @@
+ID: 4700
+Title: Card-carrying Contests
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Card-carrying Contests
+
+Create the following Rule, entitled Card-Carrying Contests:
+
+   A contest may be made into a Card-Carrying Contest by its
+   contestmaster acting with two support and without two objections.
+   A player may only be contestmaster of one card-carrying contest
+   at a time.
+
+   A Card-Carrying Contest is a gambler, and may perform the
+   following actions only as explicitly permitted by its
+   regulations:
+     1.  As long as the contest has at least three members and its
+         hand size is less than the maximum hand size, it may draw a
+         number of cards each month equal to its number of members
+         at the beginning of the month divided by two and rounded up.
+     2.  Transfer or discard cards.
+
+   A Card-Carrying Contest may not play cards.

@@ -1,0 +1,16 @@
+ID: 5552
+Title: Clerk disinterest
+Author: Murphy
+Co-authors: root
+Adoption index: 1.7
+
+root is a co-author of this proposal.
+
+Amend Rule 2157 (Judicial Panels) by replacing this text:
+
+      (if the CotC is not a member)
+
+with this text:
+
+      (unless the CotC is a member of the panel, the prior judge, or
+      unqualified to be assigned as judge of the prior case)

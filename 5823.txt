@@ -1,0 +1,37 @@
+ID: 5823
+Title: Secure contract adjustments
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2197 by replacing this text:
+
+      A Contract Change can be one or more of any of the following:
+
+      (a) a person who intends to be bound by a contract becoming a
+          party to the contract;
+
+      (b) a person ceasing to be a party to the contract;
+
+      (c) amending a contract; and
+
+      (d) terminating a contract
+
+
+with this text:
+
+      A Contract Change can be one or more of any of the following:
+
+      (a) a person who intends to be bound by a contract becoming a
+          party to the contract;
+
+      (b) a person ceasing to be a party to the contract;
+
+      (c) amending a contract;
+
+      (d) terminating a contract;
+
+      (e) a change to holdings of a class of assets defined by the
+          contract; and
+
+      (f) a change to any other property defined by the contract

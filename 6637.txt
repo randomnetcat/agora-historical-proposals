@@ -1,0 +1,27 @@
+ID: 6637
+Title: Point Blank
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+[Keeps Paradox, Medals, Proposal, Leadership, and Solitude as ways to
+win. Gets rid of Ribbons, Junta, Clout, High Score/Points).
+
+Repeal Rule 2199 (Ribbons)
+Repeal Rule 2223 (Win by Junta)
+Repeal Rule 2134 (Win by Clout)
+Repeal Rule 2187 (Win by High Score)
+Repeal Rule 2179 (Points)
+Repeal Rule 2232 (Contest Axes)
+Repeal Rule 2233 (Awarding and Revoking Points)
+Repeal Rule 2234 (Rewarding Contestmasters)
+Amend Rule 2272 (Leadership Tokens) to read:
+
+     Leadership Tokens are a currency tracked by the Assessor. A
+     player CANNOT destroy (redeem) Leadership Tokens in eir
+     possession, except that e CAN:
+
+     (a) redeem 3 Leadership Tokens in eir possession to satisfy the
+         Winning Condition of Leadership;
+     (b) redeem 1 Leadership Token in eir possession to create 4 ergs
+         in eir possession.

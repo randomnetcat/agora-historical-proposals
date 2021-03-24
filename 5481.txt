@@ -1,0 +1,10 @@
+ID: 5481
+Title: Grarrgghh!
+Author: avpx
+Co-authors: 
+Adoption index: 2
+
+Append the following to rule 2193 (modified from rule 991):
+      Each judicial case has exactly one Monster, with particular
+      features as defined by other rules.  Monsters of judicial case
+      exist only as defined by the rules.

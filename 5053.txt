@@ -1,0 +1,35 @@
+ID: 5053
+Title: Mother, May I with Power 1?
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Create a rule titled "Mother, May I?" with this text:
+
+      The following terms are defined.  These definitions are used
+      when a rule includes a term in all caps, and SHOULD be used when
+      a rule includes a term otherwise.  Earlier definitions take
+      precedence over later ones.  If a rule specifies one or more
+      players in connection with a term, then the term applies only to
+      the specified player(s).
+
+        1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
+           perform the described action are unsuccessful.
+
+        2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED:
+           Performing the described action violates the rule in
+           question.
+
+        3. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
+           described action, the full implications of performing it
+           should be understood and carefully weighed.
+
+        4. CAN X ONLY IF Y:  Equivalent to "CANNOT X unless Y".  Similar
+           for (MUST, MAY, SHALL, SHOULD) X ONLY IF Y.
+
+        5. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+           described action violates the rule in question.
+
+        6. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+           the described action, the full implications of failing to
+           perform it should be understood and carefully weighed.

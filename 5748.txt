@@ -1,0 +1,21 @@
+ID: 5748
+Title: Let's Get Our Names Right, Shall We?
+Author: ehird
+Co-authors: 
+Adoption index: 3.0
+
+Replace rule 2029 with:
+{
+               /\   /\
+               / \ / \
+                  T
+                 his
+               Power-4
+        Rule (the first ever)
+         was placed to honor
+    The Agoran  Spirit Of The Game
+    by Goethe, Steve, Murphy, root
+    and OscarMeyr, Scamsters. Look
+    on our works, ye Marvy, but do
+always Dance a Powerful Dance. Hail Taral!
+}

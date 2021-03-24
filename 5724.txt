@@ -1,0 +1,49 @@
+ID: 5724
+Title: Combining the Gamestates
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+Ratify the following document:
+{{{{
+CFJs 1935 and 1936 were appealed, and their judgements were affirmed.
+CFJ 1937 was appealed, and remanded back to Wooble, who judged FALSE on
+it a second time.
+CFJ 1932 was reassigned on appeal, and the new judge assigned the
+following contest, with contestmaster root, as a judgement:
+{{{
+1) It being entirely within the power of the initiator of CFJ 1932 to
+resolve the alleged inequity in that case, e SHALL make a reasonable
+effort to do so within a timely fashion.
+
+2) This is a public contract.
+
+3) This contract is a pledge if and only if it has exactly one member.
+
+4) Any first-class player CAN join this contract by announcement.  Any
+party to this contract CAN leave it by announcement, as long as that
+party has continuously been a party to this contract for the preceding
+168 hours.
+
+5) The founding members of this contract are the members root, ehird and
+ais523.  A founding member CAN amend this paragraph to change the list
+of founding members, without objection from any founding member, or
+with the consent of all other founding members.  ("Founding member"
+always has this meaning within the scope of this contract, rather than
+any meaning it might have more generally within Agora.)
+
+6) Upon the request of a founding member, the contestmaster SHALL as
+soon as possible award points as requested up to the limit allowed by
+the rules, as long as the number of points requested is no more than the
+limit of points awardable by the rules per Agoran week divided by the
+number of founding members, as long as the requestor has not made such
+a request within the previous 168 hours. Such awards SHALL
+be made on a first-come, first-serve basis.
+
+7) A founding member CAN amend the text of this contract with the
+agreement of all other founding members.  When this occurs, any member
+who has not explicitly consented to the change is excused from the
+contract.
+}}}
+tusho has the Patent Title Champion.
+}}}}

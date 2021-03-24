@@ -1,0 +1,11 @@
+ID: 6184
+Title: Joining other nomics
+Author: Tiger
+Co-authors: 
+Adoption index: 1.0
+
+Add the following after the third section of rule 2148 (the ambassador):
+
+"If a foreign nomic allows for one player to join on behalf of Agora,
+only the ambassador may do so. The ambassador MAY then, without 3
+objections, take any action in that nomic."

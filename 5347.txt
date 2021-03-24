@@ -1,0 +1,40 @@
+ID: 5347
+Title: Don't overload "active"
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+[Reserve "active" for players.  Criminal sentences are "in progress"
+rather than "active".]
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+      Some types of sentence include a duration known as the tariff.
+      When a sentence with a tariff is in effect, the sentence is
+      thereafter either active or not.  The sentence is inactive for
+      the first week after it first takes effect.  Thereafter, the
+      sentence is active if and only if it is still in effect and
+      sentences of the same type on the same question on sentencing
+      have been active for a total duration less than the tariff.  The
+      CotC's report includes the status of all active sentences.
+
+with this text:
+
+      Some types of sentence include a duration known as the tariff.
+      When a sentence with a tariff is in effect, the sentence is
+      in progress while all of the following are true:
+
+        a) The sentence first took effect at least one week earlier, and
+           is still in effect.
+
+        b) Sentences of the same type on the same question on sentencing
+           have been in progress for a total duration less than the
+           tariff.
+
+      The CotC's report includes the status of all sentences in
+      progress.
+
+and by replacing each other instance of "active" with "in progress".
+
+Amend Rule 2126 (Voting Credits) by replacing "a sentence becomes
+active" with "a sentence becomes in progress".

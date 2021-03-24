@@ -1,0 +1,19 @@
+ID: 6090
+Title: Proposal protection
+Author: Murphy
+Co-authors: ais523
+Adoption index: 3.0
+
+ais523 is a co-author of this proposal.
+
+Amend Rule 106 (Adopting Proposals) by appending, to this paragraph:
+
+     A proposal is a document outlining changes to be made to Agora,
+     including enacting, repealing, or amending rules, or making
+     other explicit changes to the gamestate.
+
+this text:
+
+     The text of a proposal CANNOT change after it is distributed;
+     however, this does not affect any other entity (proposal or
+     otherwise) solely because that entity has the same text.

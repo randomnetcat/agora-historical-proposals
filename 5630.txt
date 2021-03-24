@@ -1,0 +1,23 @@
+ID: 5630
+Title: One-off ostracism
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+By voting FOR this proposal you agree that an OSTRACISM is necessary
+for Agora Nomic.
+
+Create a new Rule (Power=1.5) titled "Ostracism (7/08)", with the text:
+{{
+      Upon the creation of this Rule, the Registrar CAN and SHALL as
+      soon as possible initiate an Agoran decision to determine who
+      should be ostracized.  In this decision, the valid options are
+      all entities, and the eligible voters are the active players.
+
+      When the voting period of this decision ends, if the result is
+      not FAILED QUORM, the entity selected by Agora is ostracized for
+      thirty days.  After that duration, this rule repeals itself.  If
+      the result is FAILED QUORUM, this rule repeals itself
+      immediately.
+
+}}

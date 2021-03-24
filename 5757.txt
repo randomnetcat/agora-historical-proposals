@@ -1,0 +1,20 @@
+ID: 5757
+Title: Platonic Poobah 2
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2211 by replacing:
+      The Grand Poobah is an office; its holder is responsible for
+      keeping track of castes.
+with:
+      The Grand Poobah is an imposed office; its holder is responsible
+      for keeping track of castes.
+and by appending this item to the list of steps that the Grand Poobah
+shall take:
+        3) Imposition.  The Grand Poobah SHALL announce the identity
+           of a player whose caste is Alpha: that player thereby
+           becomes the Grand Poobah.
+
+[The original would fail due to insufficient power, and probably cause
+an infinite loop.]

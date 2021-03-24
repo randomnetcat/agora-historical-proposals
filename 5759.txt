@@ -1,0 +1,15 @@
+ID: 5759
+Title: Non-Nuclear Option
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Amend this paragraph in Rule 1742:
+      As it is manifestly unjust to bring criminal punishment into a
+      manner of equity, if a player is found GUILTY of violating this
+      Rule by failing to act in accordance with a contract, the only
+      appropriate sentence is DISCHARGE, unless said failure is with
+      respect to a previously-imposed Equity judgement.
+by replacing "contract" with "contract that has never been a partnership".
+
+[A contract could terminate or cease to be a partnership.]

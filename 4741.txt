@@ -1,0 +1,19 @@
+ID: 4741
+Title: Ephemera from the Promotor
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Proposal: Ephemera from the Promotor
+Create a new rule entitled "Promotor's ephemera" with the following text:
+
+    At the end of each month the Promotor may award the following
+    ephemeral patent titles:
+
+   * UberProposor, to the player who submitted the best proposal in
+     the eyes of the Promotor, during the month.
+
+   * PromotorsBane (Dynamic, but with its Karma set initially to
+     Albatross), to the player who removed the most proposals from the
+     pool during the month.

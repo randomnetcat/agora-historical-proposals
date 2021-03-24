@@ -1,0 +1,195 @@
+ID: 6010
+Title: Rests
+Author: ais523
+Co-authors: Goethe, Murphy, comex, OscarMeyr
+Adoption index: 2.0
+
+Create a power-2 rule called "Rests" with the following text:
+
+    Rests are a fixed asset, whose recordkeepor is the Conductor.
+    The creation and destruction of Rests is secured with a power
+    threshold of 1.7, a person generally CANNOT destroy rests
+    except as permitted by Rules explicitly stating methods by
+    which rests in particular CAN be destroyed.
+
+    Ownership of Rests is restricted to first-class persons. If, in
+    the absence of this restriction, a number (N) of Rests would
+    be created in the ownership of a non-first-class person, then for
+    each member of that person's basis, N Rests are created in that
+    member's possession.
+
+    A player CAN spend two Notes in order to destroy a Rest owned
+    by a player e specifies.
+
+
+Create a power-2 rule called "Just Resting" with the following text:
+
+   Owning one or more Rests is a Losing Condition.
+
+   While a person owns at least 8 Rests, that person CANNOT spend
+   Notes except to destroy Rests e owns.  This takes precedence
+   over any other rule.
+
+   While a player owns at least 24 Rests, that player CAN be
+   deregistered by any player by announcement.  A person who owns
+   at least 6 Rests, or where every member of eir basis owns 6 Rests,
+   CANNOT register, rules to the contrary notwithstanding.
+
+   A person who has one or more rests but is not a player is a
+   Fugitive.  The Herald's report shall include a list of all
+   Fugitives and the number of Rests they possess.  At the
+   beginning of each month, half of each Fugitive's rests (rounded
+   down) are destroyed.
+
+
+Amend Rule 2156 ("Voting on Ordinary Decisions") by replacing the last
+paragraph with:
+
+   The eligible voters on an ordinary decision are those entities
+   that were active players at the start of its voting period.  The
+   voting limit of an eligible voter on an ordinary decision is eir
+   caste at the start of its voting period, reduced to the next
+   lower caste (minimum Savage) for each positive multiple of 4
+   Rests that the voter posesses at the start of the voting period.
+
+
+Repeal rule 2190 ("Crime Doesn't Pay").
+
+
+Create a power-2 rule called "Notices of Violation" with the
+following text:
+    A player MAY publish a Notice of Violation alleging that a
+    single entity (the Accused) has broken a Rule.  To be considered
+    a valid notice of violation, the notice must specify all of:
+       (a) The identity of the Accused;
+       (b) The allegedly illegal action/inaction in question;
+       (c) The Rule that was allegedly broken;
+       (d) The name of the Class-N Crime (if any) specified in the
+           Rules as being associated with the alleged breach, where N
+           is the positive integer specified in the Rules for that
+           Crime.
+
+    Knowingly issuing a Notice of Violation with incorrect
+    information is ILLEGAL, and the Class-4 Crime of Libel.
+
+    A Notice of Violation is valid if and only if:
+        (1) it clearly specifies the required information for a
+            Notice of Violation;
+        (2) no previous valid notice specified substantially
+            identical information (i.e. the same violation for the
+            same specific act).
+        (3) when a crime is named, the crime is specified within
+            the Rules.
+
+    Neither a Ticket's incorrectness (i.e. whether its allegation
+    is false) nor its unfairness (i.e. whether the punishment resulting
+    from leaving it Uncontested would be manifestly unfair according to
+    the guidance of the Rules) affects its validity.
+
+    As soon as possible after a player makes an announcement that
+    is reasonably recognizable as an attempt to issue such a
+    notice, the Clerk of the Courts SHALL announce whether the
+    Notice was valid. Such a Clerk of the Court's announcement is
+    self-ratifying.  Affirming the validity of the notice does not
+    in itself certify the correctness of the allegation.
+
+    A valid Notice of Violation is initially Uncontested if a Crime
+    is named, Contested otherwise.  Within four days after the
+    publication of an Uncontested Ticket, any player CAN make it
+    Contested by announcement; a player SHOULD do so if e believes
+    it is incorrect and/or unfair.  An Uncontested Ticket becomes
+    Contested upon the initiation of a judicial case questioning
+    its incorrectness and/or unfairness (but not merely by
+    questioning its validity).
+
+    If a notice remains uncontested for four days, a number of
+    Rests are created in the possession of the Accused equal to
+    the power of the violated Rule rounded up.  If the notice
+    becomes contested after four days, these Rests remain, but CAN
+    be later destroyed by judicial processes as described
+    elsewhere.
+
+
+Amend Rule 1504 to read:
+     There is a subclass of judicial case known as a criminal case.
+     Any first-class person can initiate a criminal case by an
+     announcement calling for judgement on the circumstances
+     surrounding a specified valid Notice of Violation alleging a
+     rules breach by a single entity (the Accused).  The initiator
+     and each member of the Accused's basis are unqualified to be
+     assigned as judge of the case.
+
+     A criminal case has a judicial question on culpability, which is
+     applicable at all times following the call for judgement.  The
+     valid judgements for this question are:
+
+     * GUILTY, appropriate if the judge finds, beyond a reasonable
+       doubt, that ALL of the following are true:
+       (a) the Accused breached the specified rule via the specified
+           act;
+       (b) the breach occurred within 200 days prior to the case being
+           initiated;
+       (c) judgement has not already been reached in another criminal
+           case, or punishment already applied through another
+           uncontested notice of violation, with the same Accused, the
+           same rule, and substantially the same alleged act;
+       (d) the Accused could not have reasonably believed that the
+           alleged act did not violate the specified rule;
+       (e) the Accused could have reasonably avoided committing the
+           breach without committing a different breach of equal or
+           greater severity.
+
+     * NOT GUILTY, appropriate if GUILTY is not appropriate.  In
+       delivering this verdict, the judge SHOULD indicate which of
+       of the sub-requirements for a finding of guilty were not found
+       to be true beyond a reasonable doubt.  If the Accused is
+       found to be NOT GUILTY after a number of rests have been
+       created in eir possession due to the notice in question, the
+       judge CAN and SHALL destroy any such rests by announcement as
+       soon as possible.
+
+     A criminal case has a judicial question on sentencing, which is
+     applicable if the question on culpability is applicable and has
+     a judgement of GUILTY.  If a criminal case has an applicable
+     question on sentencing which has a judgement, the Accused is
+     hereafter known as the ninny, the judgement in the question on
+     sentencing is known as the sentence, and the sentence is in
+     effect.
+
+     The valid sentences are:
+
+     * DISCHARGE, appropriate only in extraordinary circumstances, if
+       any available non-null punishment would be manifestly unjust.
+       Has no effect.
+
+     * APOLOGY with a set of up to ten words (the prescribed words),
+       appropriate for rule breaches of small consequence.  When in
+       effect, the ninny SHALL as soon as possible publish a formal
+       apology of at least 200 words, including all the prescribed
+       words, explaining eir error, shame, remorse, and ardent
+       desire for self-improvement.   Failure to do so is a Class-3
+       Crime of Failure to Apologize.
+
+     * SILENCE, a number of Rests, equal to the defined Class of the
+       Crime or (if the breach is not a defined crime) the power
+       of the breached Rule, are created in the possession of the
+       Ninny.  If the Ninny showed bad faith by contesting an
+       obviously-correct notice or by obstructing the course of
+       justice, the judge CAN double the amount of the fine with
+       2 Support.
+
+     Players SHOULD NOT create rules defining Crimes of a Class
+     greater than 14.
+
+     An appeal concerning any assignment of judgement in a criminal
+     case within the past week CAN be initiated by the accused by
+     announcement.  If a verdict or sentence that led to the
+     creation of Rests is overruled, remanded, or reassigned, the
+     Rests are still considered to have been created, but the
+     appeals panel CAN and SHALL destroy any created Rests by
+     announcement.
+
+For each person in the chokey immediately before this proposal was
+adopted, create 1 Rest in eir possession for each week remaining in the
+tariff of the sentence that causes em to be in the chokey, to a maximum
+of 23 Rests for that person.

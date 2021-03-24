@@ -1,0 +1,14 @@
+ID: 6573
+Title: Free Parking
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2262, add the following to the list of cards in the Deck of Justice:
+{{
+* Free Parking - Choose one fixed / transfer-restricted asset OR three
+other assets owned by the Lost and Found Dept. Those assets are
+transferred to you. This takes precedence over any rule which would
+restrict or prevent the transfer of that asset.
+}}
+Upon the adoption of this proposal set the Frequency of Free Parking to 2.

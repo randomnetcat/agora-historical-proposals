@@ -1,0 +1,11 @@
+ID: 6258
+Title: The Standing Court
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 (The Standing Court) by appending this text:
+
+      A player who recuses emself without cause CAN flip eir posture
+      to standing by announcement in the same message, unless e has
+      already done so within the past week.

@@ -1,0 +1,17 @@
+ID: 5835
+Title: pledge fixup
+Author: Goethe
+Co-authors: 
+Adoption index: 2.0
+
+Amend R2178 by appending the following paragraph after the
+paragraph labeled (c):
+
+     (d) the contract, or a notice accompanying its publication,
+         contains a clause or indication that the contract is
+         a pledge.
+
+All pledges that existed immediately prior to proposal 5817 taking
+effect, and whose text and membership, as they existed at that time,
+had or have been published, are hereby considered to have become
+public at that moment.

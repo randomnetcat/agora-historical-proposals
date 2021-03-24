@@ -1,0 +1,15 @@
+ID: 6357
+Title: 3 support is boring
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 1607 (The Promotor) by replacing:
+
+      A player CAN flip a specified proposal to Distributable with 3
+      Support, or by spending 1 Note.
+
+with:
+
+      A player CAN flip a specified proposal to Distributable without
+      objection, or by spending 1 Note.

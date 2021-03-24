@@ -1,0 +1,11 @@
+ID: 4714
+Title: The following classes of cards are defined
+Author: Quazie
+Co-authors: 
+Adoption index: 1
+
+
+Place the following text at the very beginning of Rule 2076, 2084, and
+the rule entitled "Library Cards" if it exists.
+
+      The following classes of cards are defined:

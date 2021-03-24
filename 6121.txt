@@ -1,0 +1,29 @@
+ID: 6121
+Title: Champion's Contests
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Create a new power-2 rule, called "Champion's Contests", with the
+following text:
+{{{
+Medals are a type of asset, tracked by the Scorekeepor; ownership of
+Medals is limited to contests and to non-contest players. Medals can
+only be transferred, created, and destroyed as defined in this rule.
+
+A contest's contestmaster CAN create a Medal in that contest's
+possession without 2 objections. While a contest owns a Medal, it is
+known as a Champion's Contest.
+
+A contest's contestmaster CAN transfer ownership of or destroy a Medal
+in that contest's possession, but only as explicitly described by the
+contest's text; one exception to this is that a contest CANNOT transfer
+a Medal to its contestmaster.
+
+A Medal is automatically destroyed if the text of a contest owning it
+changes.
+
+Upon a win announcement that a specified non-contest player owns a
+Medal, that player satisfies the Winning Condition of Championship.
+Cleanup procedure: One Medal owned by that player is destroyed.
+}}}

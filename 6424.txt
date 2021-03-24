@@ -1,0 +1,23 @@
+ID: 6424
+Title: Patent Title Cleanup
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 649 (Patent Titles) by replacing the paragraph beginning
+"A Patent Title CAN only be awarded" with this text:
+
+      A person specifically authorized by the rules to award (revoke)
+      a Patent Title SHALL do so as soon as possible after the
+      conditions authorizing em to do so are announced, unless there
+      is an open judicial question contesting the validity of those
+      conditions.  Awarding or revoking a Patent Title by any other
+      method is secured.
+
+[Restricts revocation.  Removes the proposal-only restriction; rules
+could just claim precedence, and if you figure out how to abuse a
+non-rule non-proposal instrument then you probably deserve to have it
+work.  Does not prevent proposals from awarding Patent Titles normally
+awarded by announcement, e.g. to recognize players who satisfied the
+condition before it was added to the rules, or satisfied the intended
+condition but the actual condition in the rules was buggy.]

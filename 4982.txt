@@ -1,0 +1,17 @@
+ID: 4982
+Title: deregister the absent
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+If arkestra is inactive, e is hereby deregistered.
+
+If GreyKnight is inactive, e is hereby deregistered.
+
+If Peter is inactive, e is hereby deregistered.
+
+If sproingie is inactive, e is hereby deregistered.
+
+[The long-term inactive players have been screwing up CFJ assignment.
+As we no longer have a rule on deregistering for absence, it must be
+done by proposal.]

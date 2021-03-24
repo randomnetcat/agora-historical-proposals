@@ -1,0 +1,8 @@
+ID: 5952
+Title: Promotor protection
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Change the power of Rule 1607 to 2.
+If it has passed, set the power of "No more distribution spam" to 2.

@@ -1,0 +1,73 @@
+ID: 6644
+Title: Urgent Proposals
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+{{{
+Amend Rule 1607 (The Promotor) by replacing
+{{
+     Distributability is switch possessed by proposals in the
+     proposal pool, tracked by the Promotor, with values
+     Undistributable (default) and Distributable.
+
+     In a given Agoran week, the Promotor CAN and SHALL, as part of
+     eir weekly duties, distribute any proposal that is in the
+     Proposal Pool and was Distributable at the beginning of that
+     Agoran week.  The Promotor CAN but SHALL NOT, in a given Agoran
+     week, distribute any proposal that is in the Pool but was
+     Undistributable at the beginning of that Agoran week, or was
+     entered into the Pool during that Agoran week.
+
+     A player CAN flip a specified Interested proposal to
+     Distributable without a number of objections equal to 4 - II
+     (where II is the Interest Index of the specified proposal).
+     A player CAN flip a specified Disinterested proposal to
+     Distributable by announcement.
+}}
+with
+{{
+     The Promotor CAN distribute any proposal in the Proposal Pool.
+}}
+
+Enact a new Power-2 Rule entitled {Distributability} with the following text:
+{{
+     Distributability is switch possessed by proposals in the
+     proposal pool, tracked by the Promotor, with values
+     Undistributable (default), Distributable, and Urgent.
+
+     In a given Agoran week, the Promotor SHALL, as part of eir weekly
+     duties, distribute every proposal that has been in the Proposal
+     Pool since the beginning of the week and was not Undistributable
+     at that time.
+
+     The Promotor SHALL NOT, in a given Agoran week, distribute any
+     proposal that is in the Pool but was Undistributable at the
+     beginning of that Agoran week or was entered into the Pool during
+     that Agoran week, unless that proposal is Urgent.
+
+     The Promotor SHOULD distribute an Urgent proposal as soon as
+     possible after it becomes Urgent.
+
+     A player CAN make a specified interested proposal
+     Distributable without a number of objections equal to 4 - II,
+     where II is the Interest Index of that proposal.
+
+     A player CAN make a specified disinterested proposal
+     Distributable by announcement.
+}}
+
+Amend Rule 2284 (Fee-based actions) by replacing
+{{
+     - A player CAN make a proposal Distributable for a charge of 1
+       erg.
+}}
+with
+{{
+     - A player CAN make a proposal Distributable for a charge of 1
+       erg.
+
+     - A player CAN make a proposal Undistributable or Urgent for a
+       charge of 2 ergs.
+}}
+}}}

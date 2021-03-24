@@ -1,0 +1,27 @@
+ID: 6593
+Title: Restrict Card Destruction Window
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Amend the first paragraph of Rule 2262 from
+
+     When a judge judges an interested case within its time limit, e
+     earns a draw from the Deck of Justice.  These Draws are tracked
+     by the CotC. If a judge's judgement is OVERTURNED on appeal, one
+     justice on the appeals panel CAN destroy one Justice card e
+     indicates in the judge's possession by announcement.
+
+to
+
+     When a judge judges an interested case within its time limit, e
+     earns a draw from the Deck of Justice.  These Draws are tracked
+     by the CotC. If a judge's judgement is OVERTURNED on appeal, one
+     justice on the appeals panel CAN, in a timely fashion, destroy
+     one Justice card e indicates in the judge's possession by
+     announcement.
+
+[Under the previous wording a justice on an appeals panel could
+theoretically wait years, possibly until the original judge drew a
+rare card, to destroy a card he earned from the original judgement.
+Under this wording, he may only take that action with 7 days.]

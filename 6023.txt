@@ -1,0 +1,100 @@
+ID: 6023
+Title: Cleanup of Power=2 definitions
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2186 (Victory) by replacing this text:
+
+     Winning Conditions and Losing Conditions exist only as defined
+     by rules.
+
+with this text:
+
+     Winning Conditions and Losing Conditions are conditions defined
+     as such by the rules.
+
+and by replacing this text:
+
+     This is the only way to win the game
+
+with this text:
+
+     The game CANNOT be won in any other way
+
+Amend Rule 2177 (The Senate) by replacing this text:
+
+     The collection of Senators is the Senate.
+
+with this text:
+
+     The set of all Senators is known as the Senate.
+
+and by replacing this text:
+
+     any first-class player who is a member of the roll call is a
+     senator.
+
+with this text:
+
+     a senator is a first-class player who is a member of the roll
+     call.
+
+and by replacing "Senate supporters" with "Senator supporters",
+and by replacing "Senate objections" with "Senator objections".
+
+Amend Rule 2166 (Assets) by replacing this text:
+
+     A class of assets is public if its backing document is a rule or
+     a public contract; otherwise it is private.
+
+with this text:
+
+     A public class of assets is a class of assets whose backing
+     document is a rule or a public contract.  All others are private.
+
+Amend Rule 1006 (Offices) by replacing this text:
+
+     A role is an office if and only if it is so defined by the
+     rules.  Each office at any time either is vacant (default) or is
+     filled (held) by exactly one player.  The holder of an office is
+     an officer, and may be referred to by the name of the office.
+
+     An office is imposed if it is so described by the rule defining
+     it; otherwise, it is elected.
+
+with this text:
+
+     An office is a role defined as such by the rules.  Each office
+     is either vacant (default) or filled (held) by exactly one
+     player.  An officer is the holder of an office, who may be
+     referred to by the name of that office.
+
+     An imposed office is an office described as such by the rule
+     defining it.  All others are elected.
+
+Amend Rule 2159 (Protective Decrees) by replacing this text:
+
+     A protective decree is an act of Agora the intended effect of
+     which is to make explicit changes to the state of a protectorate
+     nomic.
+
+with this text:
+
+     A protective decree is an act of Agora whose intended effect is
+     to make explicit changes to the state of a protectorate nomic.
+
+and by replacing this text:
+
+     The initiation of a protective decree is a secured change.  The
+     initiating instrument must specify the target protectorate and
+     the changes to be made to it.  Any ambiguity in the
+     specification of a protective decree causes it to be void and
+     without effect.  This is the only mechanism by which a
+     protective decree can be initiated.
+
+with this text:
+
+     Initiating a protective decree is secured, and is INVALID
+     unless the initiating instrument unambiguously specifies the
+     target protectorate and the changes to be made to it.

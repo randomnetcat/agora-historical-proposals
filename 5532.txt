@@ -1,0 +1,9 @@
+ID: 5532
+Title: <none>
+Author: comex
+Co-authors: 
+Adoption index: 1.7
+
+Before the last paragraph
+of rule 591, add the paragraph '* ANY, appropriate if the statement
+uses the word "any" in an ambiguous manner'.

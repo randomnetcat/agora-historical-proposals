@@ -1,0 +1,31 @@
+ID: 5484
+Title: Symmetric holidays
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+[Extend e.g. voting periods that begin just before a Holiday begins.]
+
+Amend Rule 1769 (Holidays) by replacing this text:
+
+       If some Rule bases the time of a future event upon the time of
+       another event, or requires that a Player perform some action
+       within some time of another event, and that other event occurs
+       during a Holiday, the time at which the Holiday ends shall be
+       used instead for the purpose of determining the time of the
+       future event or of the time by which the Player must perform the
+       specified action.
+
+with this text:
+
+       If some Rule bases the time of a future event (including the
+       time limit for a player to perform an action) upon the time of
+       another event, and
+
+         a) that other event occurs during a Holiday, then the time at
+            which that Holiday ends shall be used instead for the
+            purpose of determining the time of the future event.
+
+         b) the future event would occur during a Holiday, then the
+            future event occurs 72 hours after the end of that Holiday
+            instead.

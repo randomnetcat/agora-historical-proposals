@@ -1,0 +1,17 @@
+ID: 5082
+Title: better VLOP balance after wins
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend the rule titled "Voting on Ordinary Proposals" by replacing the
+text "BVLOP of a first-class player is one" with "BVLOP of a
+first-class player is four".
+
+[This prevents the VCs that are held at the time of a win carrying the
+overwhelming power that they presently do.  One player's VVLOP being
+increased by 20 immediately after a VVLOP reset won't outweigh all the
+other players as it presently would.]
+
+[This proposal assumes the prior adoption of "refactor voting limits".
+It has no effect otherwise.]

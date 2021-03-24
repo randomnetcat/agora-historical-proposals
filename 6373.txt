@@ -1,0 +1,19 @@
+ID: 6373
+Title: Patriot Act
+Author: C-walker
+Co-authors: 
+Adoption index: 2.0
+
+Create a new Power 2 Rule, titled "The Patriot Act", with the following
+text:
+
+{{
+
+During an Emergency Session, a Senator CAN create Rests in the possession of
+a non-Senator without Senator objection or with 3 Senator support, except if
+this has already been done three or more times in the past month.
+
+During an Emergency Session, if the Clerk of the Courts is a Senator, e CAN,
+with 2 Senator support, create Rests in the possession of a non-Senator.
+
+}}

@@ -1,0 +1,11 @@
+ID: 6305
+Title: No extra votes
+Author: Taral
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by replacing "active players"
+with "active first-class players" in the paragraph labeled "2)".
+
+{{They don't get free proposal votes for a reason. I see no reason why
+they should get office votes.}}

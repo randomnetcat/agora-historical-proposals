@@ -1,0 +1,13 @@
+ID: 6083
+Title: FAQ
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Insert the following paragraph after the third paragraph of rule 2186:
+{{{
+When used as a period of time, a "game" is the period of time between
+one instant at which at least one person won the game, and the next such
+instant. The "first game" was the period of time prior to the first
+instant at which a person won the game.
+}}}

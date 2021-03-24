@@ -1,0 +1,12 @@
+ID: 5006
+Title: discretionary annotations only
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Vacate all orders requiring the rulekeepor to annotate rules.
+
+Repeal rule 789.
+
+Amend rule 1681 by deleting the text ", and must also include any
+annotations to the rule required by order".

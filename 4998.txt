@@ -1,0 +1,14 @@
+ID: 4998
+Title: Public appeals
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1564 (Initiating Appeals) by adding, immediately
+before this text:
+
+      A subject is Appealed when any of the following occurs:
+
+this text:
+
+      A player Appeals a subject by announcement.

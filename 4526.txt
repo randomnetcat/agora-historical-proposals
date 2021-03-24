@@ -1,0 +1,30 @@
+ID: 4526
+Title: Voting Potential fix
+Author: Steve
+Co-authors: 
+Adoption index: 2
+
+
+Proposal
+Voting Potential fix
+
+This Proposal has an Adoption Index of 2.
+
+Amend Rule 2052 (Voting Potential) by replacing the text in it which
+currently reads:
+
+      (b) At any time, a Player may, by announcement, set their Voting
+          Potential to any positive integer N.  The Fee associated
+          with this action is the Oligarchy Charge Requirement
+          multiplied by N.
+
+with text which reads:
+
+      (b) At any time, a Player may, by announcement, increase their
+          Voting Potential by a positive integral amount, N. The Fee
+          associated with this action is the Oligarchy Charge
+          Requirement multiplied by N.
+
+[Comment: the present wording has some odd effects, e.g.: that it costs
+the same amount -- 12 kudos -- to change one's Voting Potential from +1
+to +2 as it does to change it from 0 to +2.]

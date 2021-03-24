@@ -1,0 +1,8 @@
+ID: 6528
+Title: Don't Assume Assumption
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend rule 2276 by replacing "Assumption is an elected office switch"
+with "Assumption is an elected office switch, tracked by the IADoP"

@@ -1,0 +1,14 @@
+ID: 6328
+Title: Get on with it, cleanly
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2168 (Extending the voting period) by replacing this text:
+
+      end the voting decision by announcement
+
+with this text:
+
+      end its voting period by announcement (resolving it constitutes an
+      implicit announcement that its voting period is first ended)

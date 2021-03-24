@@ -1,0 +1,21 @@
+ID: 6279
+Title: Second-class judges
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+[Now that second-class registration is restricted, other restrictions
+can be loosened up.]
+
+Amend Rule 1868 (Judge Assignment Generally) by removing "first-class"
+from this text:
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active first-class players,
+
+Create a rule titled "Second-Class Judges" with Power 2 and this text:
+
+      If any first-class member of a second-class person's basis would
+      be unqualified to judge a given judicial case, even if e were
+      registered, active, standing, hemming-and-hawing, and Supreme,
+      then that second-class person is unqualified to judge that case.

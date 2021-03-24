@@ -1,0 +1,29 @@
+ID: 5508
+Title: Economic overview
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2181 (The Accountor) by replacing this text:
+
+      The Accountor is the default recordkeepor for all assets that do
+      not specify a different recordkeepor.  While there are no such
+      assets, the Accountor has no report.
+
+with this text:
+
+      The Accountor's report includes a list of classes of assets and
+      their backing documents and recordkeepors.
+
+      The Accountor is the default recordkeepor for all assets whose
+      backing document does not specify a different recordkeepor.
+
+[Current list:
+  Crops (0 through 9)        AAA               BobTHJ
+  Mills (+ - * /)            AAA               BobTHJ
+  Notes (C through B)        Rule 2126         Conductor
+  Pens                       Bank of Agora     Ivan Hope
+  Points                     Rule 2179         Scorekeepor
+  Ribbons (ROGCBKWMUVIY)     Rule 2199         Tailor
+  Vote Points (VP)           Vote Market       BobTHJ
+  Experience Points (XP)     Fight Arena       Iammars]

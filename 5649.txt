@@ -1,0 +1,21 @@
+ID: 5649
+Title: Partnerships devolve, and so should unqualifications
+Author: Quazie
+Co-authors: 
+Adoption index: 1.7
+
+Replace the following from R591
+{
+      The initiator is unqualified to be assigned as judge of the
+      case, and in the initiating announcement e CAN disqualify one
+      person from assignment as judge of the case.
+}
+with
+{
+      The initiator is unqualified to be assigned as judge of the
+      case, and in the initiating announcement e CAN disqualify one
+      person from assignment as judge of the case.  If the initiator is
+      a partnership, all members of that partnership are unqualified
+      to be assigned as judge of the case.
+
+}

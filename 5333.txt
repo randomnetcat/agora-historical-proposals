@@ -1,0 +1,22 @@
+ID: 5333
+Title: Regularity Regarding Rubicon Rosters
+Author: root
+Co-authors: 
+Adoption index: 2
+
+Amend the rule titled "The Senate" by inserting between the second
+and third paragraphs a new paragraph reading:
+
+      The roll call of an emergency session is the set of senators at
+      the time the emergency session was called.  During emergency
+      session, the previous definition of senator does not apply;
+      instead, any player who is a member of the roll call is a
+      senator.
+
+If the proposal titled "Rubicon Reporting" was adopted, further amend
+the same rule by appending to the paragraph just created the text:
+
+      The Assessor's report includes the roll call of the most recent
+      emergency session.
+
+[A player cannot become a senator during an emergency session.]

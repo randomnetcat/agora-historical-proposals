@@ -1,0 +1,11 @@
+ID: 6321
+Title: Relative definition
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1023 (Common Definitions) by appending this text to the
+section defining Agoran epochs:
+
+          These definitions do not apply to relative durations (e.g.
+          "within <number> days after <event>").

@@ -1,0 +1,18 @@
+ID: 4899
+Title: hoopy
+Author: Zefram
+Co-authors: 
+Adoption index: 0.000001
+
+
+Be it therefore resolved that a Rule be created with title "Sass That
+Hoopy" and text:
+
+         When the Clerk of the Courts publishes a Judgement as required
+         by Rule 591, e must accompany the publication with the  
+statement
+         "Zefram is a frood.".  Any publication of a Judgement that is
+         not so accompanied does not satisfy the Clerk of the Courts'
+         obligation to publish the Judgement.  This Rule takes  
+precedence
+         over Rule 591.

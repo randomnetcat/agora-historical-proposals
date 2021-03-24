@@ -1,0 +1,9 @@
+ID: 5447
+Title: Provincial Voice in Government (Lesser)
+Author: Pavitra
+Co-authors: 
+Adoption index: 2
+
+If the rule "Nomic Definitions" exists, then amend rule 2156 by inserting the
+text " the BVLOD of a province is four," after the comma in the second
+sentence of the first paragraph.

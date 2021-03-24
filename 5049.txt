@@ -1,0 +1,24 @@
+ID: 5049
+Title: simplify veto
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2019 to read
+
+      The Speaker may veto an Ordinary Proposal in its voting period
+      by announcement.  Quorum for a vetoed proposal is positive
+      infinity, other rules governing quorum notwithstanding.
+
+      The Speaker may rubberstamp an Ordinary Proposal in its voting
+      period by announcement.  Quorum for a rubberstamped proposal is
+      three, other rules governing quorum notwithstanding.
+
+[Makes the veto work in all cases, in the same manner in which
+rubberstamping works.  Removes the provision about vetoed proposals
+going back into the proposal pool, because under the present system it
+is easy to repropose with a different AI.]
+
+Retitle rule 2019 to "Speaker's Veto and Rubber Stamp".
+
+[Describe both halves of the rule.]

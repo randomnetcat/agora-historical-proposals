@@ -1,0 +1,53 @@
+ID: 5477
+Title: Contract cleanup
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1742 (Contracts) by replacing this text:
+
+      A contract automatically terminates if the number of parties to
+      it falls below the number of parties the rules require for the
+      contract.  If other rules do not specify such a number for a
+      contract, then a contract requires at least two parties.
+
+with this text:
+
+      A contract automatically terminates if the number of parties to
+      it falls below the number of parties the rules require for the
+      contract (two if not otherwise specified by the rules).
+
+Amend Rule 2197 (Defining Contract Changes) to read:
+
+      The following are Contract Changes:
+
+        a) Becoming a party to a contract.
+        b) Ceasing to be a party to a contract.
+        c) Amending a contract.
+        d) Terminating a contract.
+
+Amend Rule 2198 (Making Contract Changes) to read:
+
+      Contract Changes CAN be performed as follows:
+
+        a) Using a mechanism by which the contract specifies that they
+           CAN be performed.
+
+        b) A person CAN become a party to a contract by announcement,
+           unless the contract regulates becoming a party to it.
+
+        c) By agreement between all parties to the contract, if the
+           minimum number of parties for it is at least two.
+
+        d) By a party without objection, if the minimum number of
+           parties for it is less than two.
+
+      The above notwithstanding, a Contract Change is INVALID if:
+
+        a) It would make a person a party to a contract against their
+           will.
+
+        b) It is ambiguous.
+
+        c) Its permissibility cannot be determined with certainty
+           when it is attempted.

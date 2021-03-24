@@ -1,0 +1,56 @@
+ID: 5316
+Title: Voting debits and refraction
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Create a rule titled "Voting Debits" with Power 2 and this text:
+
+      Voting Debits (VDs) are a class of fixed assets.  VDs CANNOT
+      be affected except as defined by this rule.  Ownership of VDs
+      is restricted to players.
+
+      The Accountor is an office, and the recordkeepor of VDs.
+
+      A player CAN spend N+1 VCs of different colors to decrease eir
+      VDs by N.
+
+      A player CAN spend N VCs of different colors to decrease another
+      player's VDs by N.
+
+      A player SHALL NOT possess VDs for more than one month.  One
+      second after a sentence of CHOKEY for violating this rule becomes
+      active, all of the sentenced player's VCs and VDs are destroyed.
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+                   If a player is meant to lose a VC of a color that e
+      does not possess, then e loses a VC of eir Party's color
+      instead; if e has no VCs at all, then the loss is waived (you
+      can't get blood from a turnip).
+
+      The Assessor is the recordkeepor of VCs.
+
+with this text:
+
+                   If a player is meant to lose, or attempts to spend, a
+      VC of a color that e does not possess, then e gains a VD instead,
+      and the recordkeepor of that color of VC SHALL inform the
+      Accountor of it as soon as possible.  In the case of spending, the
+      action to be performed is successful if and only if the player
+      reasonably believed that e had enough VCs at the time.
+
+      The Accountor is the recordkeepor of all colors of VC that would
+      otherwise lack one.
+
+      The Assessor is the recordkeepor of Red and Orange VCs.
+
+      The IADoP is the recordkeepor of Green and Cyan VCs.
+
+      The CotC is the recordkeepor of Blue and Black VCs.
+
+      The Registrar is the recordkeepor of White VCs.
+
+      The Herald is the recordkeepor of Violet and Indigo VCs.
+
+      The Scorekeepor is the recordkeepor of Yellow VCs.

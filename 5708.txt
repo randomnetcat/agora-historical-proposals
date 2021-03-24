@@ -1,0 +1,8 @@
+ID: 5708
+Title: <none>
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Flip the Recognition of all nomics to Hostile.
+Append to Rule 2185: "All public documents are self-ratifying."

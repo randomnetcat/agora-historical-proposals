@@ -1,0 +1,24 @@
+ID: 5457
+Title: Proposal reporting requirements
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1607 (The Promotor) by replacing this text:
+
+      b) Whether it is interested or disinterested.
+
+with this text:
+
+      b) Its interest index.
+
+and, if the proposal "Refactor initiation requirements" was adopted,
+by replacing this text:
+
+      When distributing a proposal, the Promotor SHALL specify the
+      following:
+
+with this text:
+
+      For an Agoran decision of whether to adopt a proposal, the
+      following are essential parameters:

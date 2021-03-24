@@ -1,0 +1,41 @@
+ID: 6470
+Title: Fix Dependent Actions v2
+Author: BobTHJ
+Co-authors: 
+Adoption index: 2.0
+
+In R2124 replace:
+{{
+Agora is Satisfied with an intent to perform a specific action
+      if and only if:
+
+      (1) if the action is to be performed Without N Objections, then
+          it has fewer than N objectors;
+
+      (2) if the action is to be performed With N supporters, then it
+          has N or more supporters; and
+
+      (3) if the action is to be performed with N Agoran Consent, then
+          the ratio of supporters to objectors is greater than N, or
+          the action has at least one supporter and no objectors.
+
+      (4) The action to be performed is With Notice.
+}}
+with:
+{{
+Agora is Satisfied with an intent to perform a specific action if (and
+only if) all of the following are true:
+
+(1) Either the action is to be performed Without N Objections and has
+fewer than N objectors OR the action does not require Without N
+Objections.
+
+(2) Either the action is to be performed With N Support and has N or
+more supporters OR the action does not require With N Support.
+
+(3) Either the action is to be performed with N Agoran Consent and the
+ratio of supporters to objectors is greater than N or there is at
+least one supporter and no objectors OR the action does not require
+With N Agoran Consent.
+}}
+[NOTE: No need to list "With Notice" in R2124 when it is worded correctly.]

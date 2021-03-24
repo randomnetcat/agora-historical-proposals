@@ -1,0 +1,11 @@
+ID: 5029
+Title: Minor Order fixes
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1006 (Offices) by replacing "than the player who executed"
+with "then the player who executed".
+
+Amend Rule 1793 (Orders) by replacing "executed by a player" with
+"executed by an entity".

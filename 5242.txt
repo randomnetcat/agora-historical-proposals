@@ -1,0 +1,16 @@
+ID: 5242
+Title: FireRed
+Author: comex
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2126 by amending the paragraph starting with (-R) to read:
+      (-R) When a proposal's voting index is less than half its
+           adoption index, its proposer loses one Red VC, if e has
+           any.
+
+
+[Prevents Party VC loss for making unpopular proposals..  Scamsters'
+proposals will often have such voting indices, but scamsters are the ones
+who need VCs most!  And, for that matter, legitimate radicals, or anyone
+trying to modify a Power=3 rule...]

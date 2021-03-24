@@ -1,0 +1,15 @@
+ID: 4562
+Title: No Ex Post Facto Advertising
+Author: root
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2059 to read:
+
+      Advertising is a stuck proposal switch with values none,
+      positive, negative.
+
+      A player may pay 2 kudos to flip the advertising switch of any
+      proposal in the pool from none to another value, or from another
+      value to none.

@@ -1,0 +1,21 @@
+ID: 4949
+Title: VC and VLOP decay
+Author: Zefram
+Co-authors: 
+Adoption index: 3
+
+
+Amend rule 2126 by inserting immediately after the first paragraph
+the text:
+
+      At the end of each month, each player's VC and voting limit on
+      ordinary proposals are each set to 80% of their former value,
+      rounded to the nearest integer.  These changes occur before any
+      other changes to VCs and voting limits that occur at the end of
+      a month.
+
+[Avoids inflation of VLOPs.  This gives new players (or newly-active
+players) a chance to catch up with the VLOP of established players, by
+earning VCs over a few months.  20% reduction each month is very close
+to a 50% reduction each quarter, which Agoran Chromodynamics proposed
+for its Beads, but compounding monthly is much smoother.]

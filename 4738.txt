@@ -1,0 +1,31 @@
+ID: 4738
+Title: Easier Card Fees 2
+Author: Manu
+Co-authors: 
+Adoption index: 1
+
+
+[In the Cards section, "cost" appears once and "fee" 11 times.]
+
+In Rule 2069, replace the text reading:
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the costs outlined in
+          that Exploit.
+by
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the fees outlined in
+          that Exploit.
+
+Create a new Rule titled "Card Fees" which reads:
+
+      All fees associated with Card Actions, Elements and Exploits
+      must be paid as soon as possible by the Gambler incurring the
+      fee. For every Kudo not paid on time, the Gambler commits the
+      Class 1 Infraction of Debt Overdue, which may be reported by any
+      Player.
+
+      This rule takes precedence over all rules pertaining to Cards
+      fees.

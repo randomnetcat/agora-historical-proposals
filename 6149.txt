@@ -1,0 +1,110 @@
+ID: 6149
+Title: Simpler Notes
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+For each Note that existed just before this proposal was adopted, create
+another Note of the same pitch in the ownership of that Note's owner.
+
+Replace the text of rule 2126 with:
+{{{
+     Notes are a class of fixed assets.  Ownership of Notes is
+     restricted to players.  If changes to caste are secured, then
+     changes to Notes are secured with the same power threshold.
+
+     Each Note has exactly one pitch from the chromatic scale
+     (ignoring octaves, and treating enharmonics as equivalent).
+     Each pitch of Note is a currency.
+
+     The Conductor is an office, and the recordkeepor of Notes.
+
+     Once per month, a player can Transpose eir Notes up a specified
+     number of semitones by announcement. This causes each of eir
+     Notes to be replaced with a Note whose pitch is the specified
+     number of semitones higher.
+
+     At the end of each week (or month in the case of Eb Notes),
+     each player gains the following Notes (for the purposes of the
+     list below, the maximum value of a null set is 0):
+
+     (1) (C)  A number of C Notes equal to the number of Contests
+              (to a maximum of 3) via which Points were awarded to
+              that player that week;
+
+         (C#) A number of C# Notes equal to the number of players
+              (to a maximum of 3) that that player awarded points to
+              as a contestmaster;
+
+     (2) (D)  A number of D Notes equal to the highest II amongst
+              judicial cases that were judged on time by that player
+              that week;
+
+     (3) (Eb) A number of Eb Notes equal to the highest II amongst
+              offices for which that player completed the non-empty
+              set of monthly duties that month (this is awarded at
+              the end of each month, not the end of each week);
+
+         (E)  A number of E Notes equal to the highest II amongst
+              offices for which that player completed the non-empty
+              set of weekly duties that week;
+
+     (4) (F)  A number of F Notes equal to the highest II amongst
+              offices whose weekly duties were completed that week,
+              and part or all of that completion was via
+              deputization by that player;
+
+     (5) (Ab) A number of Ab Notes equal to the highest AI amongst
+              interested proposals authored by that player that were
+              ADOPTED that week;
+
+         (A)  A number of A Notes equal to the highest AI amongst
+              interested proposals authored by that player that were
+              REJECTED that week, but with VI >= AI/2;
+
+     (6) (Bb) A number of Bb Notes equal to the highest II amongst
+              proposals authored by that player that were ADOPTED by
+              an ordinary decision that week;
+
+         (B)  A number of B Notes equal to the highest II amongst
+              proposals authored by that player that were ADOPTED by
+              a democratic decision that week;
+
+     Notes CAN be spent (destroyed) as follows:
+
+     (1) A player CAN spend five Notes forming the start of a major
+         scale to increase another non-Alpha player's caste by 1
+         level.
+
+     (2) A non-Alpha player CAN spend seven Notes forming a major
+         scale to increase eir own caste by 1 level.
+
+     (3) A player CAN spend five Notes forming the start of a minor
+         scale to decrease another non-Savage player's caste by 1
+         level.
+
+     (4) A non-Savage player CAN spend seven Notes forming a minor
+         scale to decrease eir own caste by 1 level.
+
+     (5) A player CAN spend two Notes of the same pitch to make
+         another player gain one Note of that pitch.
+
+     (6) During Agora's Birthday, a player CAN spend Notes forming
+         the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
+         a translation thereof) to satisfy the Winning Condition of
+         Musicianship, unless another player has already done so
+         during that Birthday.
+
+     (7) A player CAN spend three Notes to gain a Note whose pitch is
+         as many semitones distant from one of the Notes spent as the
+         distance between the other two Notes spent.
+}}}
+
+In Rule 2228, replace
+{{{
+A player CAN spend two Notes
+}}}
+with
+{{{
+A player CAN spend three Notes
+}}}

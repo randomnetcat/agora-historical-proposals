@@ -1,0 +1,10 @@
+ID: 5051
+Title: discretionary appeal board assignment
+Author: Zefram
+Co-authors: 
+Adoption index: 1
+
+Amend rule 911 by deleting the word "randomly".
+
+[Leaving appellate judge assignments to the CotC's discretion, matching
+rule 1868 for trial judges.]

@@ -1,0 +1,11 @@
+ID: 5574
+Title: Bankrupt
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Upon the adoption of this proposal, the Bank of Agora contract is
+terminated.
+
+[It's not happening by unanimous agreement of Bankers, unless Pen
+holdings are manipulated so that comex can be kicked off the board.]

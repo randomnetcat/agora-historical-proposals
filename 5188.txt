@@ -1,0 +1,13 @@
+ID: 5188
+Title: Registrar Report Requirements
+Author: Levi
+Co-authors: 
+Adoption index: 1
+
+In Rule 2139 replace the following text:
+
+      The Registrar's report shall include the following:
+
+with:
+
+      The Registrar's report includes:

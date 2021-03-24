@@ -1,0 +1,97 @@
+ID: 5394
+Title: Structured victory
+Author: Murphy
+Co-authors: Eris, OscarMeyr, Zefram
+Adoption index: 3
+
+Eris, OscarMeyr, and Zefram are co-authors of this proposal.
+
+Create a rule titled "Victory" with Power 2 and this text:
+
+      Winning Conditions and Losing Conditions exist only as defined
+      by rules.  Defining these things is secured.
+
+      A win announcement is a correct announcement explicitly labeled
+      as a win announcement.
+
+      When one or more persons satisfy at least one Winning Condition
+      and do not satisfy any Losing Conditions, all such persons win
+      the game.  This is the only way to win the game, rules to the
+      contrary notwithstanding.
+
+      Each Winning Condition should (if needed) specify a cleanup
+      procedure to prevent an arbitrary number of wins arising from
+      essentially the same conditions.  When one or more persons win
+      the game, for each Winning Condition satisfied by at least one
+      of those persons, its cleanup procedure occurs.
+
+Amend Rule 2110 (Win by Paradox) to read:
+
+      Upon a judicial finding that the possibility or legality of a
+      rule-defined action (actual or hypothetical, but not arising
+      from that case itself, and not occurring after the initiation
+      of that case) is UNDECIDABLE, the initiator satisfies the
+      Winning Condition of Paradox.
+
+      Cleanup procedure:  Each winner satisfying this Winning Condition
+      SHALL, as soon as possible, make a reasonable attempt to resolve
+      the paradox.
+
+Change the title of Rule 2134 to "Win by Clout", change its Power to 2,
+and amend it to read:
+
+      Upon a win announcement that a specified player's voting limit
+      on an ordinary proposal distributed at that time would exceed
+      the combined voting limits of all other players on that proposal,
+      the specified player satisfies the Winning Condition of Clout.
+
+      Cleanup procedure:  Each player's VVLOP is set to eir BVLOP, and
+      no player satisfies this Winning Condition again (the remainder
+      of this rule notwithstanding) until after the next time that each
+      player's EVLOP is set based on eir VVLOP.
+
+Amend Rule 2126 (Voting Credits) by replacing this text:
+
+      z) If this rule mentions at least six different specific colors
+         for VCs, a player may spend one VC of each such color to win
+         the game.
+
+      When a game win occurs, each player's VVLOP is set to eir BVLOP.
+
+with this text:
+
+      z) If this rule mentions at least six different specific colors
+         for VCs, then a player may spend one VC of each such color to
+         satisfy the Winning Condition of Renaissance.
+
+Amend Rule 2179 (Points) by removing this text:
+
+      A player with 100 or more points may win the game by announcing
+      this fact.  Upon such an announcement, each player's score is
+      set to zero.
+
+Create a rule titled "Win by High Score" with Power 2 and this text:
+
+      Upon a win announcement that one or more players have a score of
+      at least 100 (specifying all such players), all those players
+      satisfy the Winning Condition of High Score.
+
+      Cleanup procedure:  Each player's score is set to 0.
+
+Create a rule titled "Win by Proposal" with Power 2 and this text:
+
+      Upon the adoption of a proposal awarding a win to one or more
+      persons, all those persons satisfy the Winning Condition of
+      Legislation.
+
+Create a rule titled "Win by Extortion" with Power 2 and this text:
+
+      Upon a player acting on behalf of Agora to award a win to one or
+      more persons, all those persons satisfy the Winning Condition of
+      Extortion.
+
+Create a rule titled "Crime Doesn't Pay" with Power 2 and this text:
+
+      Being in exile is a Losing Condition.
+
+      Being in the chokey is a Losing Condition.

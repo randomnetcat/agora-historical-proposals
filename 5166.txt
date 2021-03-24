@@ -1,0 +1,16 @@
+ID: 5166
+Title: reward for deputisation
+Author: Zefram
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2126 by inserting in the list of ways that VCs can be
+gained (and lost, if both are in a single list), immediately after the
+last item that mentions green VCs, the new item
+
+      (+C) When a player deputises for an office e gains one cyan VC,
+           unless someone previously gained a VC in this manner for
+           the same office in the same month.
+
+[The cyan VC would of course usually be gained at the expense of
+someone else's green VC.]

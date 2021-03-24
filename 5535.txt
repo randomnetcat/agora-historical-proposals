@@ -1,0 +1,49 @@
+ID: 5535
+Title: These things are not just for players
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by replacing this text:
+
+      A player "publishes"
+
+with this text:
+
+      A person "publishes"
+
+and by replacing this text:
+
+      a player performs that action by announcing
+
+with this text:
+
+      a person performs that action by announcing
+
+Amend Rule 2152 (Mother, May I?) by replacing this text:
+
+                                   If a rule specifies one or more
+      players in connection with a term, then the term applies only to
+      the specified player(s).
+
+with this text:
+
+                                   If a rule specifies one or more
+      persons in connection with a term, then the term applies only to
+      the specified person(s).
+
+Amend Rule 1769 (Holidays) by replacing this text:
+
+      time limit for a player to perform an action
+
+with this text:
+
+      time limit to perform an action
+
+and by replacing this text:
+
+      which require Players to perform events
+
+with this text:
+
+      which require events to be performed

@@ -1,0 +1,11 @@
+ID: 6651
+Title: PRESENT cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2154 (Election Procedure), delete the text:
+                             If the number of candidates falls below two,
+           PRESENT ceases to be a valid option.
+
+as Rule 693 provides for PRESENT.

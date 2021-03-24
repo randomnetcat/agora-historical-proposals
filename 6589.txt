@@ -1,0 +1,18 @@
+ID: 6589
+Title: Clarify R101 deregistration
+Author: c.
+Co-authors: 
+Adoption index: 3.0
+
+[I still don't think this is a change, only a clarification, and fully
+in the spirit of the original rule.  However, if a good proposal to
+strengthen this right is submitted, I might vote FOR.]
+
+Amend Rule 101 by replacing:
+     Every player has the right to deregister rather than continue to
+     play.
+with:
+     Every player has the right to deregister; e may continue to
+     accrue obligations and penalties after deregistration but, if e
+     wishes to ignore the game, such penalties shall not unduly
+     harass em.

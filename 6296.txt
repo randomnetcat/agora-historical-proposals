@@ -1,0 +1,15 @@
+ID: 6296
+Title: Presence in elections
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by replacing this text:
+
+       1) The valid options (hereafter the candidates) are the active
+          players who, during the election,
+
+with this text:
+
+       1) The valid options are PRESENT and the active players
+          (hereafter the candidates) who, during the election,

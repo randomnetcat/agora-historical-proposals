@@ -1,0 +1,9 @@
+ID: 5442
+Title: Contingency plan
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing "not capable of being
+accurately described as either false or true" with "not capable of
+being accurately described as exactly one of false or true".

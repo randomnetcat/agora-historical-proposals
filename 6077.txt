@@ -1,0 +1,11 @@
+ID: 6077
+Title: That trick only works once
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2211 (The Grand Poobah) by inserting this text
+before section b->c):
+
+          a->b) While there is more than one Alpha,
+                  flip an Alpha's caste to Beta

@@ -1,0 +1,21 @@
+ID: 4719
+Title: Hanging Chad
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 1950 (Voting Power) by appending to this clause:
+
+      (d) An entity may cast as many votes as e wishes on a Proposal,
+          in any combination, up to the limit determined by that
+          entity's Voting Power on that Proposal, with the exceptions
+          that:
+              (1) no Player may vote on an Ordinary Proposal unless e
+                  is a Shareholder at the time e casts eir vote.
+
+the following text:
+
+          Attempts to cast multiple votes simultaneously are
+          considered equivalent to casting them one at a time,
+          e.g. "2F+A" has the same effect as "FOR, FOR, AGAINST".

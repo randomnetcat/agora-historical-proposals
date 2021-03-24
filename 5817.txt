@@ -1,0 +1,8 @@
+ID: 5817
+Title: Private pledges are pointless
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2191 (Pledges) by replacing "A pledge is a contract"
+with "A pledge is a public contract".

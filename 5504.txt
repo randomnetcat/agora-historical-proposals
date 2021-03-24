@@ -1,0 +1,18 @@
+ID: 5504
+Title: Liberalize objection
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2124 (Agoran Satisfaction) by replacing this text:
+
+      An Objector to a dependent action is a first-class player
+
+with this text:
+
+      An Objector to a dependent action is a first-class player (or
+      other person explicitly allowed to object to that action by the
+      rule allowing that action to be performed dependently)
+
+[Amending R2198 to use this is left to a separate proposal, as I'm
+not sure offhand of the status of previous efforts to amend R2198.]

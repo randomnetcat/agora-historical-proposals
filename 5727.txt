@@ -1,0 +1,15 @@
+ID: 5727
+Title: Legal Tender
+Author: Ivan Hope CXXVII
+Co-authors: 
+Adoption index: 2.0
+
+{Append the following paragraph to rule 2166:
+
+{The face value of a currency in itself is 1. The face value of any
+other asset in a currency is whatever the currency's backing document
+says it is, or 0 by default. Any person CAN exchange an asset for its
+face value by announcement. If a person is required to possess,
+create, destroy, or transfer at least a certain amount of a currency,
+they MAY instead possess, create, destroy, or transfer assets whose
+face value adds up to at least that amount of the currency.}}

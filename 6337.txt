@@ -1,0 +1,43 @@
+ID: 6337
+Title: NoV Anarchy
+Author: Tiger (coauthor: Wooble)
+Co-authors: 
+Adoption index: 2.0
+
+Repeal Rule 2230.
+Amend Rule 2239 to read:
+(
+     Rules to the contrary notwithstanding, the only appropriate
+     sentence for a rule violation prior to the adoption of this rule is
+     DISCHGARGE. If this rule has existed for at least 90 days, then
+     any player CAN (by announcement) cause it to repeal itself.
+)
+Amend the first paragraph of Rule 1504 to read:
+(
+     Criminal cases are a subclass of judicial cases.  Any
+     first-class person can initiate a criminal case by an
+     announcement calling for judgement on the circumstances
+     surrounding an alleged rules breach by a single entity (the
+     Accused).  The initiator and each member of the Accused's
+     basis are unqualified to be assigned as judge of the case.
+)
+Amend bullet point c) rule 1504 to read:
+(
+      (c) judgement has not already been reached in another criminal
+          case with the same Accused, the same rule, and substantially
+          the same alleged act;
+)
+Repeal the fifth paragraph of Rule 1405. (The one starting with "When
+a judicial question..."
+Amend the bullet point labled SILENCE in rule 1405 to read:
+(
+     * SILENCE, a number of Rests, equal to the defined Class of the
+       Crime or (if the breach is not a defined crime) the power of
+       the breached Rule, rounded to the nearest integer with ties
+       broken by rounding up, are created in the possession of the
+       Ninny.  The judge CAN, with 2 Support, set the fine at a
+       different integral level between one half and double that
+       amount, and SHOULD attempt to do so if necessary to ensure
+       that the correlation between the fine and the severity of the
+       breach is appropriate.
+)

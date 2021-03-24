@@ -1,0 +1,18 @@
+ID: 6159
+Title: Close it up
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Repeal the rule created by Proposal 6130 (Open It Up).
+
+Amend Rule 2223 (Win by Junta) to read:
+
+     When a rule comes to state that one or more persons CAN cause it
+     to make arbitrary rule changes by announcement, all those
+     persons satisfy the Winning Condition of Dictatorship.
+
+     Cleanup procedure:  Those persons SHALL as soon as possible
+     amend the rule so that it no longer states this, and SHOULD
+     amend the rules to prevent this condition from being achieved
+     again in essentially the same way.

@@ -1,0 +1,27 @@
+ID: 6403
+Title: Proposal Tweaking Part 2.1
+Author: c-walker
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 1607 (The Promotor), immediately after the paragraph beginning
+"In a given Agoran week..." append the following paragraph:
+
+      A player CAN flip a specified Interested proposal to
+      Distributable without a number of objections equal to 4 - II
+      (where II is the Interest Index of the specified proposal). A
+      player CAN flip a specified Disinterested proposal to
+      Distributable by announcement.llot, a player can select PRESENT rather than
+      one of the options provided by the decision. A ballot cast for
+      PRESENT is considered to be a valid ballot, but, unless specified
+      otherwise, does not count as a valid option.
+}}
+
+Amend Rule 2127 (Conditional Votes) by removing the text ", or PRESENT
+otherwise" in every instance where it appears, by removing the text
+"; PRESENT is its own opposite", and by appending to the first paragraph
+"If the option cannot be clearly identified, a vote of PRESENT is cast."
+
+[Basically, folds PRESENT into a common option for all Agoran Decisions,
+and makes conditional votes default to PRESENT, which they really should
+anyways.]

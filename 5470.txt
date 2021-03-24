@@ -1,0 +1,17 @@
+ID: 5470
+Title: Ask a yes-or-no question, get a yes-or-no answer
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing this text:
+
+      (Including a yes/no question is equivalent to including a
+      statement that the answer to that question is yes.)
+
+with this text:
+
+      (Including a yes/no question is equivalent to including a
+      statement that the answer to that question is yes, and for
+      such a case, YES and NO are synonymous with the judgements
+      TRUE and FALSE respectively.)

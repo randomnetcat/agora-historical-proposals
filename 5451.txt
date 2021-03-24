@@ -1,0 +1,24 @@
+ID: 5451
+Title: Allow Appeals of Paradox
+Author: root
+Co-authors: Murphy, Zefram
+Adoption index: 3
+
+Murphy and Zefram are coauthors of this proposal.
+
+Amend Rule 2110 (Win by Paradox) to read:
+
+      A tortoise is an inquiry case on the possibility or legality of
+      a rule-defined action (actual or hypothetical, but not arising
+      from that case itself, and not occurring after the initiation of
+      that case) for which the question of veracity is UNDECIDABLE.
+
+      Upon a win announcement that a tortoise has continuously been a
+      tortoise for no greater than four and no less than two weeks,
+      the initiator satisfies the Winning Condition of Paradox.
+
+      Cleanup procedure:  Each winner satisfying this Winning
+      Condition SHALL, as soon as possible, make a reasonable attempt
+      to resolve the paradox.  The same person can not satisfy this
+      Winning Condition again for the same tortoise or for any other
+      tortoise that was linked to it in assignment.

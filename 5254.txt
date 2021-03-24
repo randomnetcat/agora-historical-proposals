@@ -1,0 +1,34 @@
+ID: 5254
+Title: Resurrect the Notary
+Author: AFO
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1742 (Contracts) by appending this text:
+
+      A public contract is a contract that identifies itself as
+      such.  Any other contract is private.
+
+Create a rule titled "The Notary" with this text:
+
+      The Notary is a low-priority office; its holder is responsible
+      for keeping track of contracts.
+
+      The parties to a public contract SHALL keep the Notary informed
+      of its text and set of parties.  The Notary's report includes
+      this information for each public contract.
+
+      The parties to a private contract SHOULD keep the Notary informed
+      of its text and set of parties.  The Notary SHALL disclose this
+      information (to the extent that e has been informed of it) to the
+      judge of an equity case pertaining to that contract.  The Notary
+      SHALL NOT disclose it otherwise, except as explicitly allowed by
+      the contract, or with the explicit consent of all parties.
+
+[A private contract not filed in advance with the Notary may be more
+difficult to enforce via the courts.  The ability of the parties to
+disclose a private contract is not limited by this rule, but may be
+limited by the contract.  The ability of an equity judge to disclose
+a private contract is not limited by this rule, and cannot be limited
+by the contract because Rule 2169 disqualifies all parties from
+judging the case.]

@@ -1,0 +1,25 @@
+ID: 4841
+Title: Order categorical
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Order categorical
+
+Repeal Rule 1048 (Rule Categories).
+
+Amend Rule 1681 by replacing the text:
+
+              All existing categories must be listed, even if no
+      rules are currently assigned to the category.
+
+with the following new paragraph:
+
+      A new Rule is assigned to a category as the Rulekeepor sees fit.
+      The Rulekeepor may, without 2 objections, move Rules between
+      categories, change the name of a category, and add or remove
+      empty categories.
+
+
+[Reducing 12 lines to 4, removing some pretty unnecessary mechanism]

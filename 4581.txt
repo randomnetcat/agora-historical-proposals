@@ -1,0 +1,49 @@
+ID: 4581
+Title: Fix Team Wins
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+
+Amend Rule 1929 (Points) by replacing the text "the last Team Win" with
+"the last Score Reset".
+
+Amend Rule 2053 (Team Points, Team Scores) by replacing the text "the
+last Team Win" with "the last Score Reset".
+
+Amend Rule 2042 (Team Wins) to read:
+
+      A Team achieves a Team Win when its Team Score reaches the Team
+      Points Goal, as set in the Scorekeepor's Budget.  When this
+      occurs, no other Team may achieve a Team Win until after the
+      next Score Reset.
+
+      For the purpose of this Rule, "Winners" refers to Players who
+      belonged to the winning Team at the time of the Team Win, and
+      "Good Try'ers" refers to Players who belonged to the Team with
+      the lowest Team Score at the time of the Team Win.
+
+      The Scorekeepor shall announce a Team Win as soon as possible
+      after it occurs.  Upon this announcement, a Score Reset occurs.
+
+      As soon as possible after a Score Reset, the Scorekeepor shall
+      award the Boon of Teamwork to each Winner.
+
+      As soon as possible after a Score Reset, the Scorekeepor shall
+      reassign Players to Teams as follows, by announcement.  Whenever
+      multiple choices of Player or Team are available, the Scorekeepor
+      shall choose between them as e sees fit.
+
+      The Scorekeepor may rename any Team in this announcement, if e
+      chooses to do so.  That Team shall be known by its new name
+      henceforth.
+ 
+          a) The Winner who had the highest Score at the time of the
+             Team Win shall be reassigned to the Team that had the
+             lowest Team Score at the time of the Team Win.
+
+          b) The Good Try'er who had the lowest Score at the time of
+             the Team Win shall be reassigned so as to distribute the
+             Players as evenly as possible among the Teams.
+
+          c) All other Players remain assigned to the same Teams.

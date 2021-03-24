@@ -1,0 +1,11 @@
+ID: 6100
+Title: Fast reactivation
+Author: Pavitra
+Co-authors: 
+Adoption index: 2.0
+
+This proposal has no effect if the proposal "Clean up the deregistration
+mess" by Pavitra failed.
+
+Amend rule 2130 (Activity) by appending to the last paragraph:
+     This is a means of honorable deregistration.

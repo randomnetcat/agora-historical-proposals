@@ -1,0 +1,47 @@
+ID: 4887
+Title: Periodic Spell Check
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+
+Amend Rule 101 (Agoran Rights and Privileges) by replacing each instance
+of "absense" with "absence".
+
+Amend Rule 1030 (Precedence between Rules with Equal Power) by replacing
+"precedence determining" with "precedence-determining".
+
+Amend Rules 402 (Church and State) and 2019 (The Speaker's Veto) by
+replacing "nonwithstanding" with "notwithstanding".
+
+Amend Rule 1006 (Offices) by replacing "acheive" with "achieve",
+"acheived" with "achieved", and "offical" with "official".
+
+Amend Rule 1727 (Happy Birthday) by replacing "OFFICAL" with "OFFICIAL".
+
+Amend Rule 1681 (The Logical Rulesets) by replacing "Rulekeeper" with
+"Rulekeepor".
+
+Amend Rule 693 (Agoran Decisions) by replacing "decisionmaking" with
+"decision-making".
+
+Amend Rule 897 (Court Procedure) by replacing "Plantiff" with
+"Plaintiff".
+
+Amend Rule 2024 (Linked Statements) by replacing "labelled" with
+"labeled".
+
+Amend Rule 1365 (Concurring and Dissenting Opinions) by replacing
+"submittors" with "submitters", and "arugments" with "arguments".
+
+Amend Rule 1626 (Applications) by replacing "submittor" with
+"submitter".
+
+Amend Rule 1447 (Final Judgement upon Appeal) by replacing each instance
+of "Appelate" with "Appellate".
+
+Amend Rule 1504 (Sentencing Orders) by replacing "proportinate" with
+"proportionate", and "to to" with "to".
+
+Amend Rule 1370 (How to Get a Degree) by replacing "tham" with "than",
+and "the the" with "the".

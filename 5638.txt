@@ -1,0 +1,31 @@
+ID: 5638
+Title: Pragmatize initiation of equity cases
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2169 (Equity Cases) by replacing this text:
+
+                                               An equity case CAN be
+      initiated by any party to the contract, by announcement which
+      clearly identifies the contract, the set of parties to the
+      contract, and a state of affairs whereby events have not
+      proceeded as envisioned by the contract (such as, but not
+      limited to, a party acting in contravention of eir contractual
+      obligations).
+
+with this text:
+
+                                               An equity case CAN be
+      initiated by any party to the contract, by announcement which
+      clearly identifies the contract and a state of affairs whereby
+      events have not proceeded as envisioned by the contract (such as,
+      but not limited to, a party acting in contravention of eir
+      contractual obligations).  This announcement SHALL also clearly
+      identify the set of parties to the contract.
+
+Upon the adoption of this proposal, the gamestate becomes what it would
+be if none of the following alleged equity cases failed to be initiated
+solely because of an error in identifying the set of parties:
+
+  1811, 1825, 1832, 1886, 1915, 1927, 1932, 2036, 2038, 2039, 2052, 2063

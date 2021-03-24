@@ -1,0 +1,7 @@
+ID: 5735
+Title: A completely terrible proposal
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+Modify all rules by removing every instance of the word "not" (or "NOT").

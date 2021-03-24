@@ -1,0 +1,46 @@
+ID: 6431
+Title: Justice Cleanup
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2262, find the first card in the first list to have the text
+indicated in said list, and amend the Rule so that the card has the text
+indicated in the second list. Repeat this process until no further
+amendments are made.
+{{
+       * Absolv-o-Matic  - A Rest possessed by a Player you name is
+                           destroyed.
+
+       * Stool Pigeon    - A rest is created in the possession of a
+                           first-class player that you name, provided
+                           no one has named the same player in playing
+                           this card in the last 72 hours.
+
+       * Drop your Weapon - Indicate an entity and a card held by that
+                            entity.  If that entity possesses that
+                            card, it is destroyed.
+
+       * Discard Picking  - Indicate a card that was played or
+                            destroyed in the past 72 hours.  It is
+                            transferred to your hand.
+}}
+{{
+       * Absolv-o-Matic   - Indicate a player with at least one Rest. A
+                            Rest in that player's possession destroyed.
+
+       * Stool Pigeon     - Indicate a player who has not been
+                            indicated for this card within the last 72
+                            hours. A Rest is created in that player's
+                            possession.
+
+       * Drop your Weapon - Indicate an entity and a card held by that
+                            entity. That card is destroyed.
+
+       * Discard Picking  - Indicate a type of Exploit card where at
+                            least one card of that type was destroyed in
+                            the past 72 hours; a card of that type is
+                            created in your possession.
+}}
+[The change to Discard Picking is substantiative; it makes it actually
+work as previously it would attempt to transfer a destroyed card.]

@@ -1,0 +1,26 @@
+ID: 6482
+Title: Kick out inactive officers quickly
+Author: c.
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2160 (Deputisation) by replacing "held by an active player"
+with "filled".
+
+Amend Rule 1006 (Offices) by adding, at the end of the paragraph
+starting with "The holder of an elected office CAN resign it", the
+text:
+      Any player CAN cause an office to become vacant without
+      objection.
+
+[Currently, the requirements for deputisation are:
+- empty: you can deputise as soon as there is an obligation
+- filled by inactive player: you need to wait for the time limit to
+expire, but no need for intent
+- filled by active player: you need to wait for the time limit to
+expire and intend 2 days earlier
+
+I don't really see the point of the middle ground here, so this
+proposal removes it.  The without objection mechanism is more flexible
+and quicker.  If a recordkeepor goes away, whether e becomes inactive
+or not, e should be replaced ASAP to prevent disruption.]

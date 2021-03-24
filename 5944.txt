@@ -1,0 +1,8 @@
+ID: 5944
+Title: Senator fix
+Author: Taral
+Co-authors: ais523
+Adoption index: 2.0
+
+Amend Rule 2177 by replacing every instance of "Player" or "player"
+with "first-class player".

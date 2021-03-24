@@ -1,0 +1,12 @@
+ID: 4639
+Title: Is this a takeover?
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+Proposal:  Is this a takeover?
+
+This is Takeover Proposal.
+
+A set of consisting of every player holding a Coalition Card is specified.
