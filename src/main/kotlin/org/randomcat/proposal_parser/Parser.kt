@@ -5,6 +5,9 @@ import org.apache.james.mime4j.stream.MimeConfig
 import org.randomcat.mime4j_backfill.MboxIteratorBackfill
 import org.randomcat.proposal_parser.distributions.*
 import java.io.File
+import java.nio.file.Files
+import java.nio.file.Path
+import java.nio.file.StandardOpenOption
 import java.time.LocalDate
 import java.time.ZoneOffset
 import java.util.*
@@ -48,11 +51,14 @@ private fun Message.parseDistribution(): List<ProposalData> {
 }
 
 fun main(args: Array<String>) {
-    val filePath = args.single()
-    val file = File(filePath)
+    val inFilePath = args[0]
+    val inFile = File(inFilePath)
+
+    val outPath = Path.of(args[1])
+    Files.createDirectories(outPath)
 
     MboxIteratorBackfill
-        .fromFile(file)
+        .fromFile(inFile)
         .charset(Charsets.UTF_8)
         .maxMessageSize(50 * 1000 * 1000) // 50 MB
         .build()
@@ -65,23 +71,23 @@ fun main(args: Array<String>) {
             it.isDistributionMessage() && it.date.toUtcLocalDate() < DISTRIBUTION_V5_END_DATE
         }
         .flatMap { it.parseDistribution() }
-        .toList()
-        .let { data ->
-            val numbers = data.map { it.number }
-            println(numbers.joinToString())
+        .forEach { proposal ->
+            val proposalText =
+                """
+ID: ${proposal.number}
+Title: ${proposal.title}
+Author: ${proposal.author?.toString() ?: "<Unknown>"}
+Co-authors: ${proposal.coauthors.joinToString(", ")}
+Adoption index: ${proposal.ai}
 
-            val minNumber = numbers.minOf { it.raw }
-            val maxNumber = numbers.maxOf { it.raw }
+${proposal.text}
+""".trim()
 
-            val possibleNumbers = sequence {
-                var current = minNumber
-
-                while (current <= maxNumber) {
-                    yield(current)
-                    ++current
-                }
-            }
-
-            println((possibleNumbers.filter { ProposalNumber(it) !in numbers }).joinToString())
+            Files.writeString(
+                outPath.resolve(proposal.number.toString()),
+                proposalText,
+                Charsets.UTF_8,
+                StandardOpenOption.CREATE,
+            )
         }
 }
