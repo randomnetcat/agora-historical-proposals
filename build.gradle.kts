@@ -3,6 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     java
     kotlin("jvm") version "1.4.31"
+    application
 }
 
 group = "org.randomcat"
@@ -20,6 +21,11 @@ dependencies {
     testImplementation(kotlin("test-junit5"))
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.6.0")
+}
+
+application {
+    applicationName = "agora-proposal-parser"
+    mainClass.set("org.randomcat.proposal_parser.ParserKt")
 }
 
 tasks.test {
