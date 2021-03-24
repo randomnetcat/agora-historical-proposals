@@ -102,8 +102,8 @@ object MetadataParsing {
         backupNumber: ProposalNumber? = null,
     ): ProposalCommonMetadataResult {
         val metadataMap = metadataLines.associate {
-            require(it.contains(": "))
-            it.substringBefore(": ").lowercase() to it.substringAfter(": ")
+            require(it.contains(":"))
+            it.substringBefore(":").lowercase() to it.substringAfter(": ")
         }
 
         // Sometimes AI has (Class) appended to it, so only take the number before that
