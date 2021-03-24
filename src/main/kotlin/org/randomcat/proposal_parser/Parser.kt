@@ -84,7 +84,7 @@ ${proposal.text}
 """.trim()
 
             Files.writeString(
-                outPath.resolve(proposal.number.toString()),
+                outPath.resolve(proposal.number.toString() + ".txt"),
                 proposalText,
                 Charsets.UTF_8,
                 StandardOpenOption.CREATE,
