@@ -2654,7 +2654,8 @@ fun Message.backupFirstProposalNumber(): ProposalNumber {
         .lowercase()
         .substringAfter("of proposal")
         .removePrefix("s")
-        .replace(" ", "")
+        .trim()
+        .substringBefore(" ")
         .substringBefore("-")
         .toBigInteger()
         .let { ProposalNumber(it) }
