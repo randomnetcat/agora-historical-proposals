@@ -1,7 +1,9 @@
 package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.ImmutableList
+import kotlinx.collections.immutable.mutate
 import kotlinx.collections.immutable.toImmutableList
+import kotlinx.collections.immutable.toPersistentList
 import org.randomcat.proposal_parser.*
 
 data class ProposalCommonMetadataResult(
@@ -62,27 +64,47 @@ object Separators {
 }
 
 object SplitDistribution {
+    fun withSummary(
+        fullDistributionText: String,
+        separatorRegex: Regex,
+        summarySectionRegex: Regex,
+    ): List<String> {
+        val allParts = fullDistributionText.split(separatorRegex)
+
+        return allParts
+            .map { it.trim() }
+            .filter { it.isNotBlank() }
+            .toPersistentList()
+            .mutate {
+                // Should have at least summary section + 1 proposal
+                require(it.size >= 2)
+
+                // Remove summary section
+                require(it[0].contains(summarySectionRegex))
+                it.removeAt(0)
+            }
+    }
+
     fun withSummaryAndOptFooter(
         fullDistributionText: String,
         separatorRegex: Regex,
         summarySectionRegex: Regex,
         footerRegex: Regex,
     ): List<String> {
-        val allParts = fullDistributionText.split(separatorRegex)
-
-        return allParts
-            .toMutableList()
-            .also {
-                require(it.size >= 3) // Expect summary, final section, and at least one proposal
-
-                require(it[0].contains(summarySectionRegex))
-                it.removeAt(0)
+        return SplitDistribution
+            .withSummary(
+                fullDistributionText = fullDistributionText,
+                separatorRegex = separatorRegex,
+                summarySectionRegex = summarySectionRegex
+            )
+            .toPersistentList()
+            .mutate {
+                require(it.isNotEmpty())
 
                 if (it[it.size - 1].contains(footerRegex)) {
                     it.removeAt(it.size - 1)
                 }
             }
-            .filter { it.isNotBlank() }
     }
 }
 

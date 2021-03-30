@@ -1,9 +1,7 @@
 package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.ImmutableList
-import kotlinx.collections.immutable.mutate
 import kotlinx.collections.immutable.toImmutableList
-import kotlinx.collections.immutable.toPersistentList
 import org.randomcat.proposal_parser.PlayerName
 import org.randomcat.proposal_parser.ProposalAI
 import org.randomcat.proposal_parser.ProposalData
@@ -85,20 +83,11 @@ private fun parseProposalMetadataV1(metadataLines: List<String>): ProposalCommon
 }
 
 fun parseDistributionV1(fullDistributionText: String): List<ProposalData> {
-    val proposalParts =
-        fullDistributionText
-            .split(Separators.ALTERNATING_BRACES)
-            .map { it.trim() }
-            .filter { it.isNotBlank() }
-            .toPersistentList()
-            .mutate {
-                // Should have at least summary section + 1 proposal
-                require(it.size >= 2)
-
-                // Remove summary section
-                require(it[0].contains(SUMMARY_SECTION_CHECK_REGEX))
-                it.removeAt(0)
-            }
+    val proposalParts = SplitDistribution.withSummary(
+        fullDistributionText = fullDistributionText,
+        summarySectionRegex = SUMMARY_SECTION_CHECK_REGEX,
+        separatorRegex = Separators.ALTERNATING_BRACES,
+    )
 
     return proposalParts.map {
         parseCommonProposal(proposalDistribution = it, metadataParser = ::parseProposalMetadataV1)
