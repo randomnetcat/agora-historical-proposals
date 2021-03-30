@@ -8,7 +8,7 @@ import org.randomcat.proposal_parser.ProposalData
 import org.randomcat.proposal_parser.ProposalNumber
 import java.math.BigDecimal
 
-private val SUBJECT_MAP = mapOf<String, List<ProposalData>>(
+private val SUBJECT_OVERRIDE_DATA_MAP = mapOf<String, List<ProposalData>>(
     "OFF: [Promotor] Distribution of Proposal 4864" to listOf(
         ProposalData(
             number = ProposalNumber(4864.toBigInteger()),
@@ -2639,7 +2639,7 @@ private val SUBJECT_MAP = mapOf<String, List<ProposalData>>(
 )
 
 fun Message.overridenDistribution(): List<ProposalData>? {
-    return SUBJECT_MAP[this.subject]
+    return SUBJECT_OVERRIDE_DATA_MAP[this.subject]
 }
 
 private val IGNORED_SUBJECTS = listOf<String>()
@@ -2647,6 +2647,435 @@ private val IGNORED_SUBJECTS = listOf<String>()
 fun Message.isIgnoredDistribution(): Boolean {
     return IGNORED_SUBJECTS.contains(this.subject)
 }
+
+private val SUBJECT_OVERRIDE_TEXT_MAP = mapOf(
+    // Removed weird "Fragments in Inode" field
+    "OFF: [Promotor] Distribution of Proposals 6740-6747" to """
+This distribution of proposals 6740-6747
+initiates the Agoran Decisions on whether to adopt them.  The eligible
+voters are the active players at the time of this distribution, and
+the vote collector is the Assessor. The valid options on each decision
+are FOR and AGAINST (PRESENT is also a valid vote). Each proposal is
+hereby assigned the corresponding ID number listed with it.
+
+NUM  C I AI  SUBMITTER           TITLE
+6740 P 1 1.0 ais523              The first rule of this proposal is...
+6741 P 0 3.0 comex               Clarify inconsequentiality mk. 2
+6742 P 1 3.0 comex               Proposal Amendment
+6743 P 1 3.0 comex               Some repeals
+6744 G 1 3.0 Murphy              No duty means no duty
+6745 P 0 1.0 coppro              Huh?
+6746 P 0 2.0 coppro              Decision Fixes
+6747 P 3 1.0 Tiger               Space Alert
+
+
+chamber: P = Purple; R = Red; G = Green
+interest: 0-3 = interest index
+
+Proposal ID numbers:
+     highest orderly: 6747
+     disorderly: none
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6740 (Purple, AI=1.0, Interest=1) by ais523
+The first rule of this proposal is...
+
+Award a win to player who did not acknowledge the existence of this
+proposal in a public or discussion forum after the time it was submitted
+and before the time it was adopted.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6741 (Purple, AI=3.0, Interest=0) by comex
+Clarify inconsequentiality mk. 2
+
+[Oops, the original passed.]
+
+Amend Rule 754 by replacing:
+
+      (1) A difference in spelling, grammar, whitespace,
+          capitalization, or dialect, or the use of a synonym or
+          abbreviation in place of a word or phrase, is
+          inconsequential in all forms of communication, as long as
+          the difference does not create an ambiguity in meaning.
+
+with:
+
+      (1) A difference in spelling, grammar, capitalization, or
+          dialect, or the use of a synonym or abbreviation in place of
+          a word or phrase is inconsequential in all forms of
+          communication, as long as the difference does not create an
+          ambiguity in meaning, except for the purpose of reporting on
+          or quoting the text of a legal document.  A difference
+          between two nonempty spans of whitespace is inconsequential
+          in all forms of communication for all purposes.
+
+Amend Rule 2221 to read:
+
+      Any player CAN clean a rule without objection by specifying one
+      or more corrections to spelling, grammar, capitalization, and/or
+      dialect, or to whether a synonym or abbreviation is used in
+      place of a word or phrase, in the rule's text and/or title; the
+      rule is amended by this rule as specified by that person.
+
+Amend Rule 105 by replacing:
+                                             An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule.
+
+with:
+                                                  An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule, but any
+      other variation does.
+
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6742 (Purple, AI=3.0, Interest=1) by comex
+Proposal Amendment
+
+Comment: This is identical to a previous proposal that was 9-0 but
+failed quorum, plus my later fix.
+
+Amend Rule 106 by replacing:
+
+     A player CAN remove (syn. retract, withdraw) a proposal e
+     authored from the Proposal Pool by announcement.
+
+with:
+
+     A player CAN remove (syn. retract, withdraw) a proposal e
+     authored from the Proposal Pool, or amend a proposal e authored
+     in the Proposal Pool, by announcement.
+
+and by replacing:
+
+     A proposal is a fixed body of text which has been made into a
+     proposal using a process specifically described in the Rules.
+     When creating proposals, the person who creates them SHOULD
+
+with:
+
+     A proposal is a body of text which has been made into a proposal
+     using a process specifically described in the Rules.  Proposals
+     CANNOT be modified except as allowed by this rule.
+
+     When creating proposals, the person who creates them SHOULD
+
+[Right now, I think there is a tendency to avoid modifying proposals,
+even when, say, a simple change would improve clarity or avoid a
+trivial error, because doing so requires re-paying the
+Distributability fee.]
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6743 (Purple, AI=3.0, Interest=1) by comex
+Some repeals
+
+Repeal the rules with the following titles:
+- Officer's Proposals
+- Judge's Proposals
+- Induction
+
+[Nobody uses them.]
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6744 (Green, AI=3.0, Interest=1) by Murphy
+No duty means no duty
+
+Amend Rule 2201 (Self-Ratification) by replacing this text:
+
+       b) A claim of error, appropriate for matters of fact.  The
+          publisher of the original document SHALL as soon as possible
+          either deny the claim (causing it to cease to be a doubt),
+          publish a revision, or (if the subject is actually a matter
+          of law) initiate an inquiry case regarding the truth of the
+          claim.
+
+with this text:
+
+       b) A claim of error, appropriate for matters of fact.  The
+          publisher of the original document SHALL (if e was required
+          to publish that document) or SHOULD (otherwise) do one of
+          the following as soon as possible:
+
+              i) Deny the claim (causing it to cease to be a doubt).
+             ii) Publish a revision.
+            iii) Initiate an inquiry case regarding the truth of the
+                   claim (if the subject is actually a matter of law).
+
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6745 (Purple, AI=1.0, Interest=0) by coppro
+Huh?
+
+[coppro wins.]
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6746 (Purple, AI=2.0, Interest=0) by coppro
+Decision Fixes
+
+Amend Rule 208 (Resolving Agoran decisions) by replacing
+       (c) It specifies which option was selected by Agora, as
+           described elsewhere, and provides a tally of the voters'
+           valid ballots on the various options.
+with
+       (c) It specifies the outcome, as described elsewhere, and, if
+           there was more than one valid option, provides a tally of
+           the voters' valid ballots on the various options.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6747 (Purple, AI=1.0, Interest=3) by Tiger
+Space Alert
+
+Enact a new rule:
+
+[[[
+     Objects In Space
+
+     Some game objects are In Space. Objects In Space are represented
+     on the following style of map:
+
+     @->---@
+
+     All such objects are located on a straight line leading from one
+     wormhole (@) to another. The line is divided into segments of
+     one AU each, with no more than one object in the same segment,
+     and dashes representing empty segments. Any definition of a type
+     of object In Space must include the symbol to represent it on
+     the map.
+
+     Objects In Space have a number of stats. All objects have a
+     position value and a delta value. The position is the number of
+     the segment it occupies, counting from the left with the first
+     wormhole as 0. At the beginning of each week, an object's
+     position is increased by its delta. If an object's delta is
+     positive or 0 it faces right, if negative it faces left. An
+     object's position must be between 0 and the position of the
+     second wormhole. Any object that finds itself outside of this
+     area or on a wormhole is warped and disappears.
+
+     Other common stats include maximum hit points, current hit
+     points, attack value, explosion value and scouting value.
+]]]
+
+Enact a new rule:
+
+[[[
+     The Shuttle
+
+     The Shuttle is an object In Space that houses the crew
+     consisting of almost all active players. It enters play through
+     the first wormhole and its objective is to reach the second one.
+     When it appears, it has the following stats:
+     Symbol: >
+     Maximum hit points: 12
+     Position: 1
+     Delta: 1
+     Explosion: 0
+
+     Station is a switch possessed by all active players, with
+     possible values Outside (default), Lower Deck, Engine Room and
+     Bridge. While the Shuttle is on a journey, a player may flip eir
+     Station switch at most once every 12 hours to te value of an
+     adjacent room, where Lower Deck is adjacent to Enginge Room
+     which is also adjacent to Bridge. This is known as walking to
+     the room indicated by the new value. A player whose Station is x
+     "is (stationed) in/on the x". The non-Outside values of the
+     Station switches are also rooms aboard the Shuttle.
+]]]
+
+Enact a new rule:
+
+[[[
+     Journeys and the Enemy:
+
+     The Shuttle regularly makes journeys between the wormholes. If a
+     journey is not in place, any player can with notice initiate a
+     new journey. That player then becomes the Enemy, eir Station
+     switch is flipped to Outside, the Station switches of all other
+     players are flipped to Bridge and all objects In Space are
+     destroyed. The Enemy shall then as soon as possible post the map
+     of the new journey, marking out only the two new wormholes and
+     the new Shuttle. The position of the second wormhole is
+     multiplied by the number of players on the Bridge to get the
+     journey's Level, and the Enemy is awarded that many Threat
+     Points (a non-tradeable currency).
+
+     The Enemy can use these Threat Points to create Threats by
+     defining the new Threat, paying its cost, and deploying it ready
+     to attack. The cost of a Threat (minimum 0) is calculated by the
+     following formula: H+|d|+e+a+s+10-|S-p| where the symbols denote
+     the following values:
+     H = its Maximum hit points
+     d = its delta
+     e = its explosion value
+     a = its attack value (maximum 6)
+     s = its scouting value
+     p = its starting position
+     S = the current position of the Shuttle
+     The Enemy must also state its name and map symbol. Failure to
+     name any of the required information means the Threat is not
+     created. The Enemy may not have more than two Threats with the
+     exact same stats in play at the same time. The Enemy cannot deploy
+     any Threats until at least one day has passed since the start of
+the journey.
+
+     If the Shuttle reaches the end of the journey and is warped,
+     each player aboard the Shuttle is rewarded a capacitor. If the
+     Shuttle is destroyed, the Enemy is rewarded a Leadership Token
+     and can only initiate the next journey with three support
+     (anyone else still only needs notice).
+]]]
+
+Enact a new rule:
+
+[[[
+     Buttons:
+
+     The Shuttle holds many buttons that can be pushed, causing the
+     Shuttle to take certain actions at the start of he next day.
+     Every player can push one button in eir Station once per day,
+     and each button can be pushed once per day unless otherwise
+     stated.
+
+     Charges, measuring energy, is a currency whose ownership is
+     restricted to Stations. When the Shuttle sets out for a new
+     journey, all Stations have 2 charges each. Some of the actions
+     the Shuttle takes cost energy, denoted by a number of Charges in
+     brackets after the name of the associated button. These Charges
+     are taken from the Station holding that button if possible;
+     otherwise, the action fails.
+
+     The following buttons, with corresponding Charge cost and
+     Shuttle action, exist:
+
+     Lower Deck:
+
+        Reload - Charges are transferred from the Engine Room until
+        either the ER is empty or the LD has at most 4 Charges.
+
+        Pulse Cannon (1) - Fires the Pulse cannon, causing 3 damage to
+        any other object with a position within 2 AUs of the Shuttle's.
+
+        Missile Launch - Dispatches a Missile In Space. Its stats are:
+        Maximum hit points: 5
+        Position: One less than that of the Shuttle
+        Delta: -2
+        Explosion value: 2
+        If there is a Missile next to the Shuttle, dispatching another
+        fails. If a Missile ever passes another object, it counts as
+        having collided with that object.
+
+     Engine Room:
+
+        Reactor Recharge - Awards the Engine Room 3 Charges.
+
+        More Speed (1) - Increases the Shuttle's delta by one (maximum
+        5)
+
+        Turbo (2) - Increases the Shuttle's position b 2.
+
+        Zero-Point Handbrake (1) - Reduces the Shuttle's delta to 0.
+
+     Bridge:
+
+        Reload - Analogous to the Reload button on Lower Deck.
+
+        Heavy Laser Cannon (1) - Causes 6 damage to the closest object
+        with a position between 1 and 9 greater than that of the
+        Shuttle. The player pushing this button may choose to push it
+        harder, which increses the Charge cost by 1, the damage caused
+        by 3, and causes the Shuttle to reduce its position by one.
+        Doing this when it causes the ship to collide with anything is
+        the class-1 crime of Hoisting One's Own Petard.
+
+        Recording the Captain's Log (1) - Causes the Shuttle to activate
+        the very fancy recording device for full hologram recording,
+        which causes all other systems to go offline. The Shuttle can
+        then not take any other actions until the end of the next day.
+        During this time any other player can, with 2 support, initiate
+        a mutiny which moves the pusher of the Captain's Log button to
+        the Outside. If this does not happen, the player doing the
+        recording may save it within one day for a cost of 2 ergs. A
+        player who successfully performs this action twice within a
+        single month satisfies the winning condition of Continuity.
+]]]
+
+Enact a new rule:
+
+[[[
+     Space Flight:
+
+     At the start of each day, the following procedure is performed:
+
+     i) The Shuttle performs the action associated with the buttons
+        pushed
+     during the previous day. These are performed in the order the
+     button
+     were pushed. Any collisions occur.
+
+     ii) Each threat performs its attack. This does damage equal to
+         its attack value to the closest
+     object in the direction it faces, maximum range 8 AUs. Each
+     threat then generates a
+     number of Threat Points equal to its scouting ability value,
+     which are
+     awarded the Enemy.
+
+     iii) If the day began a new week, each object is moved according
+          to its delta. Any collisions occur.
+
+     iv) Any Threats deployed ready for action enter play. If any
+         such Threat has the same position as another object the
+         Threat is instead placed on the first space farther away
+         from the Shuttle that is available. If no such position
+         exists, the Threat is destroyed.
+
+     A collision occurs when two objects have the same position. The
+     object with the least amount of remaining hit points is
+     destroyed, but causes the other object damage equal to its
+     explosion value times its remaining hit points prior to the
+     collision. If both objects have the same amount of hit points,
+     the one with the higher explosion value is destroyed. If they
+     have the same explosion value, they cause 2 damage to each other
+     and move backwards one AU.
+]]]
+
+Enact a new rule:
+
+[[[
+     The Ship Computor
+
+     The Ship Computor is an office, and tracks of the following:
+     - Station switches
+     - The map of all objects In Space
+     - Charges
+     - Threat Points
+     - The Difficulty of the current journey
+     - The stats of the Shuttle and all Missiles
+
+     The Enemy is an imposed office, and tracks all Threats and their
+     respective stats.
+]]]
+    """.trim(),
+)
+
+fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]
 
 @OptIn(ExperimentalStdlibApi::class)
 fun Message.backupFirstProposalNumber(): ProposalNumber {
