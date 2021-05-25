@@ -2642,7 +2642,7 @@ fun Message.overridenDistribution(): List<ProposalData>? {
     return SUBJECT_OVERRIDE_DATA_MAP[this.subject]
 }
 
-private val IGNORED_SUBJECTS = listOf<String>()
+private val IGNORED_SUBJECTS = listOf<String>("OFF: [Promotor] Distribution of Proposals 6834-6841")
 
 fun Message.isIgnoredDistribution(): Boolean {
     return IGNORED_SUBJECTS.contains(this.subject)
@@ -3073,6 +3073,222 @@ Enact a new rule:
      respective stats.
 ]]]
     """.trim(),
+
+    // Removed "[probably Urgent]"
+    "OFF: [Promotor] Distribution of Proposals 6834-6841 (Corrected)" to """
+I assume the office of Promotor.
+
+
+This distribution of proposals 6834-6841
+initiates the Agoran Decisions on whether to adopt them.  The eligible
+voters are the active players at the time of this distribution, and
+the vote collector is the Assessor. The valid options on each decision
+are FOR and AGAINST (PRESENT is also a valid vote). Each proposal is
+hereby assigned the corresponding ID number listed with it. Each proposal
+is Ordinary, the the Chamber of each proposal is the body consisting of
+the active players of Agora at the time of this distribution
+
+NUM  I AI  SUBMITTER           TITLE
+6834 1 3.0 G.                  voter defaults
+6835 1 1.0 Keba                Props should not lead to a win
+6836 1 3.0 G.                  Reward Urgency
+6837 0 1.0 Keba                Leet fix
+6838 1 1.7 Keba                infinitive wins?
+6839 1 2.0 G.                  Slow Demarcation
+6840 1 2.0 G.                  Coup Bug Fix
+6841 1 3.0 Murphy              Clarify voting limits
+
+
+Proposal ID numbers:
+    highest orderly: 6841
+    disorderly: none
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6834 (Purple, AI=3.0, Interest=1) by G.
+
+voter defaults
+
+This is an Urgent Proposal
+
+Amend Rule 683(Voting on Agoran Decisions) by replacing:
+         The voting limit of an eligible voter on an Agoran
+     decision is one, except where rules say otherwise.
+with:
+         Except where rules say otherwise, the eligible
+     voters on an Agoran Decision are the active players at
+     the beginning of the voting period, and the voting limit
+     of an eligible voter on an Agoran decision is one.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6835 (Green, AI=1.0, Interest=1) by Keba
+
+Props should not lead to a win
+
+Amend Rule 2287 "Props" by removing:
+
+       Upon a win announcement that one or more players each possess at
+       least 30 props, all those players satisfy the Winning Condition
+       of Respect.
+
+       Cleanup procedure: For each of those players, all props are
+       destroyed and 14 props are created in their possession.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6836 (Purple, AI=3.0, Interest=1) by G.
+
+Reward Urgency
+
+Amend the Rule entitled "Urgent Proposals" by replacing:
+
+        The Promotor CAN distribute an Urgent Proposal as soon as it
+        becomes Distributable, and e SHALL do so within four
+        days unless it becomes undistributable in the mean time.
+        Failure to do so is the Class 1 Crime of Lack of Urgency.
+
+with:
+
+        The Promotor CAN distribute an Urgent Proposal as soon as it
+        becomes Distributable, and e SHALL do so within four
+        days unless it becomes undistributable in the mean time.
+        The Assessor SHALL make a reasonable attempt to resolve a
+        decision to adopt an urgent proposal within 4 days of its
+        voting period ending.  Failure to meet these deadlines is
+        the Class 1 Crime of Lack of Urgency.
+
+and by appending:
+
+        If the Promotor distributes an Urgent Proposal within 48
+        hours of its becoming distributable, e earns a farad.  If
+        the Assessor resolves a decision to adopt an urgent
+        proposal within 48 hours of its voting period ending, e
+        earns a farad.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6837 (Green, AI=1.0, Interest=0) by Keba
+
+Leet fix
+
+f the Proposal entitled "Leet Leadership" has been enacted and created
+a Rule entitled "Leet Leadership" amend this Rule by replacing "exact"
+with "exactly" and adding the following paragraph:
+
+       For the purpose of this rule a word is a set of characters
+       separated by whitespaces, if this set contains at least one
+       letter.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6838 (Green, AI=1.7, Interest=1) by Keba
+
+infinitive wins?
+
+Amend Rule 2293 "Leadership Tokens" by replacing:
+
+       A player CAN redeem 3 Leadership Tokens in eir possession to
+       satisfy the Winning Condition of Leadership.
+
+with:
+
+       If a player possesses at least 3 Leadership Tokens, e CAN redeem
+       all Leadership Tokens in eir possession to satisfy the Winning
+       Condition of Leadership.
+
+[If a player uses a scam to possess *many* Leadership Tokens, e should
+not win 100 times, should e? You think, this will never happen? It could
+already have happened, if I had been clever enough.]
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6839 (Purple, AI=2.0, Interest=1) by G.
+
+Slow Demarcation
+
+Amend Rule 402 (Identity of the Speaker) by appending the
+following paragraph:
+
+     As soon as possible after the beginning of each month,
+     the Herald CAN and SHALL randomly select half of the
+     Marked players (rounded down), and Unmark the selected
+     players by announcement.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6840 (Purple, AI=2.0, Interest=1) by G.
+
+Coup Bug Fix
+
+Any coup that has begun since September 1, 2010 while a
+previous coup was in progress (i.e. begun and not resolved) is
+hereby deemed to have failed to begin (e.g. is treated as if it
+were IMPOSSIBLE to so begin a coup at the time) and all game
+effects of successfully starting or resolving such a coup are
+thus nullified.
+
+If a coup has been resolved since Sept 1, 2010, all Rebels
+hereby cease being Rebels.
+
+Amend Rule 2270 (Coups D'etat) by replacing:
+
+       When a player begins a Coup D'etat (a coup) as explicitly
+       permitted by the Rules, the following events take place in
+       order:
+with:
+       When a player begins a Coup D'etat (a coup) as explicitly
+       permitted by the Rules, the following events take place in
+       order.  A coup CANNOT be begun if a previous coup has
+       begun and not been resolved.
+
+and by appending the following to the end of the Rule:
+
+       (iii) All Rebels cease being Rebels.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6841 (Green, AI=3.0, Interest=1) by Murphy
+
+Clarify voting limits
+
+Amend Rule 683 (Voting on Agoran Decisions) by replacing this text:
+
+     where N is the entity's voting limit on that decision.
+
+with this text:
+
+     where N is the entity's voting limit on that decision as of the
+     end of its voting period.
+
+Amend Rule 2156 (Voting on Ordinary Decisions) to read:
+
+     The eligible voters on an ordinary decision are the players who
+     were active at the start of its voting period. The voting limit
+     of a player on an ordinary decision is defined as follows:
+
+followed by just the numbered items from Rule 2279 (Voting Limits on
+Ordinary Decisions).
+
+Repeal Rule 2279.
+
+Amend Rule 2280 (Implicit Votes) to read:
+
+     When an eligible voter on an Agoran decision casts ballots
+     without explicitly specifying the number (e.g. "FOR" instead of
+     "FOR*1" or "FOR*3"), the number is considered to be equal to eir
+     voting limit on that decision.
+
+
+""",
 )
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]

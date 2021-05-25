@@ -165,4 +165,64 @@ object MetadataParsing {
     fun headerTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
         return doParseHeaderTitleLinesMetadata(metadataLines)
     }
+
+    // Format:
+    // Proposal NNNN (Some, Fields, AI=1) by Author
+    //
+    // Title
+    //
+    // Text
+    // ...
+    private fun headerBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        require(metadataLines.size == 3)
+
+        require(metadataLines[0].isNotBlank())
+        require(metadataLines[1].isBlank())
+        require(metadataLines[2].isNotBlank())
+
+        return MetadataParsing.headerTitleLines(listOf(metadataLines[0], metadataLines[2]))
+    }
+
+    // Format:
+    // Proposal NNNN (Some, Fields, AI=1) by Author
+    // (coauth: some, coauthors)
+    //
+    // Title
+    //
+    // Text
+    // ...
+    private fun headerCoauthorsTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        require(metadataLines.size == 4)
+
+        require(metadataLines[0].isNotBlank())
+        require(metadataLines[1].isNotBlank())
+        require(metadataLines[2].isBlank())
+        require(metadataLines[3].isNotBlank())
+
+        require(metadataLines[1].startsWith("(coauth: "))
+        require(metadataLines[1].endsWith(")"))
+
+        val baseParse = MetadataParsing.headerTitleLines(listOf(metadataLines[0], metadataLines[3]))
+        check(baseParse.coauthors.isEmpty())
+
+        val coauthors =
+            metadataLines[1]
+                .removePrefix("(coauth: ")
+                .removeSuffix(")")
+                .split(",")
+                .map { it.trim() }
+                .map { PlayerName(it) }
+
+        return baseParse.copy(coauthors = coauthors.toImmutableList())
+    }
+
+    fun headerOptCoauthorsBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        require(metadataLines.size == 3 || metadataLines.size == 4)
+
+        return when (metadataLines.size) {
+            3 -> headerBlankTitleLines(metadataLines)
+            4 -> headerCoauthorsTitleLines(metadataLines)
+            else -> error("unreachable")
+        }
+    }
 }
