@@ -1,10 +1,9 @@
 package org.randomcat.proposal_parser
 
 import org.apache.james.mime4j.dom.Message
+import org.apache.james.mime4j.mboxiterator.MboxIterator
 import org.apache.james.mime4j.stream.MimeConfig
-import org.randomcat.mime4j_backfill.MboxIteratorBackfill
 import org.randomcat.proposal_parser.distributions.*
-import java.io.File
 import java.nio.file.Files
 import java.nio.file.Path
 import java.nio.file.StandardOpenOption
@@ -55,13 +54,12 @@ private fun Message.parseDistribution(): List<ProposalData> {
 }
 
 fun main(args: Array<String>) {
-    val inFilePath = args[0]
-    val inFile = File(inFilePath)
+    val inFile = Path.of(args[0])
 
     val outPath = Path.of(args[1])
     Files.createDirectories(outPath)
 
-    MboxIteratorBackfill
+    MboxIterator
         .fromFile(inFile)
         .charset(Charsets.UTF_8)
         .maxMessageSize(50 * 1000 * 1000) // 50 MB

@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.3")
-    implementation("org.apache.james:apache-mime4j:0.8.3")
+    implementation("org.apache.james:apache-mime4j:0.8.4")
 
     testImplementation(kotlin("test-junit5"))
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
