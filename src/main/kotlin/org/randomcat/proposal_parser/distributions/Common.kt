@@ -29,6 +29,18 @@ data class ProposalCommonMetadataResult(
     )
 }
 
+fun ProposalData(
+    metadata: ProposalCommonMetadataResult,
+    text: String
+) = ProposalData(
+    number = metadata.number,
+    title = metadata.title,
+    ai = metadata.ai,
+    author = metadata.author,
+    coauthors = metadata.coauthors,
+    text = text,
+)
+
 fun tryParseCommonProposal(
     proposalDistribution: String,
     metadataParser: (List<String>) -> ProposalCommonMetadataResult?,
@@ -41,14 +53,7 @@ fun tryParseCommonProposal(
     val textLines = lines.dropWhile { it.isNotBlank() }.drop(1)
     val text = textLines.joinToString("\n")
 
-    return ProposalData(
-        number = metadata.number,
-        title = metadata.title,
-        ai = metadata.ai,
-        author = metadata.author,
-        coauthors = metadata.coauthors,
-        text = text,
-    )
+    return ProposalData(metadata, text)
 }
 
 fun parseCommonProposal(
