@@ -128,8 +128,9 @@ object MetadataParsing {
     fun keyValueHeaders(
         metadataLines: List<String>,
         backupNumber: ProposalNumber? = null,
+        ignoredTags: List<String> = emptyList(),
     ): ProposalCommonMetadataResult {
-        val metadataMap = metadataLines.associate {
+        val metadataMap = metadataLines.filter { !ignoredTags.contains(it) }.associate {
             require(it.contains(":"))
             it.substringBefore(":").lowercase() to it.substringAfter(": ")
         }
@@ -151,7 +152,7 @@ object MetadataParsing {
             title = metadataMap.getFirstValue("title", "tite", "proposal"),
             ai = ai,
             author = metadataMap.getFirstValueOrNull("author", "proposer")?.let { PlayerName(it) },
-            coauthors = metadataMap["coauthors"]
+            coauthors = metadataMap.getFirstValueOrNull("coauthors", "coauthor")
                 ?.takeIf { it.isNotBlank() }
                 ?.split(", ")
                 ?.map { PlayerName(it) }
