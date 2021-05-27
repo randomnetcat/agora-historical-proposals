@@ -27,6 +27,7 @@ private val DISTRIBUTION_V5_END_DATE = LocalDate.of(2010, 6, 21)
 private val DISTRIBUTION_V6_END_DATE = LocalDate.of(2010, 7, 12)
 private val DISTRIBUTION_V7_END_DATE = LocalDate.of(2010, 9, 13)
 private val DISTRIBUTION_V8_END_DATE = LocalDate.of(2010, 10, 10)
+private val DISTRIBUTION_V9_END_DATE = LocalDate.of(2011, 3, 8)
 
 private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
@@ -51,6 +52,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V6_END_DATE -> parseDistributionV1(text) // V6 == V1
         date < DISTRIBUTION_V7_END_DATE -> parseDistributionV7(text)
         date < DISTRIBUTION_V8_END_DATE -> parseDistributionV8(text, this.backupFirstProposalNumber())
+        date < DISTRIBUTION_V9_END_DATE -> parseDistributionV9(text)
         else -> error("Don't know how to parse")
     }
 }
