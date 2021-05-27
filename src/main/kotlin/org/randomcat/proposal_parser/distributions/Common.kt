@@ -41,27 +41,57 @@ fun ProposalData(
     text = text,
 )
 
+/**
+ * @param metadataBeforeBlankNumber The number of blank lines at which the metadata ends. For instance, if this is one,
+ * the metadata lines are the lines before the first blank (not including the blank line itself). If this is two,
+ * the metadata lines are the lines before the second blank (including the first blank, but not the second blank).
+ */
 fun tryParseCommonProposal(
     proposalDistribution: String,
     metadataParser: (List<String>) -> ProposalCommonMetadataResult?,
+    metadataBeforeBlankNumber: Int = 1,
 ): ProposalData? {
     val lines = proposalDistribution.lines().dropWhile { it.isBlank() }.dropLastWhile { it.isBlank() }
 
-    val metadataLines = lines.takeWhile { it.isNotBlank() }
+    val splitResult = lines.splitAtNthBlank(metadataBeforeBlankNumber)
+
+    val metadataLines: List<String>
+    val textLines: List<String>
+
+    when (splitResult) {
+        is BlankLineSplitResult.Split -> {
+            metadataLines = splitResult.beforeBlank
+            textLines = splitResult.afterBlank
+        }
+
+        is BlankLineSplitResult.InsufficientBlanks -> {
+            metadataLines = lines
+            textLines = emptyList()
+        }
+    }
+
     val metadata = metadataParser(metadataLines) ?: return null
 
-    val textLines = lines.dropWhile { it.isNotBlank() }.drop(1)
     val text = textLines.joinToString("\n")
 
     return ProposalData(metadata, text)
 }
 
+/**
+ * @param metadataBeforeBlankNumber The number of blank lines at which the metadata ends. For instance, if this is one,
+ * the metadata lines are the lines before the first blank (not including the blank line itself). If this is two,
+ * the metadata lines are the lines before the second blank (including the first blank, but not the second blank).
+ */
 fun parseCommonProposal(
     proposalDistribution: String,
     metadataParser: (List<String>) -> ProposalCommonMetadataResult,
+    metadataBeforeBlankNumber: Int = 1,
 ): ProposalData {
-    return tryParseCommonProposal(proposalDistribution, metadataParser)
-        ?: error("metadataParser returned null but shouldn't have")
+    return tryParseCommonProposal(
+        proposalDistribution = proposalDistribution,
+        metadataParser = metadataParser,
+        metadataBeforeBlankNumber = metadataBeforeBlankNumber,
+    ) ?: error("metadataParser returned null but shouldn't have")
 }
 
 object Separators {

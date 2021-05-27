@@ -1,5 +1,7 @@
 package org.randomcat.proposal_parser
 
+import kotlinx.collections.immutable.ImmutableList
+import kotlinx.collections.immutable.toImmutableList
 import org.apache.james.mime4j.dom.Message
 import org.apache.james.mime4j.dom.Multipart
 import org.apache.james.mime4j.dom.TextBody
@@ -22,6 +24,44 @@ fun String.normalizeLineEndings(): String {
 
 fun String.repairBrokenSpaces(): String {
     return replace(' ', ' ')
+}
+
+sealed class BlankLineSplitResult {
+    data class Split(
+        val beforeBlank: ImmutableList<String>,
+        val afterBlank: ImmutableList<String>,
+    ) : BlankLineSplitResult() {
+        constructor(
+            beforeBlank: List<String>,
+            afterBlank: List<String>,
+        ) : this(
+            beforeBlank = beforeBlank.toImmutableList(),
+            afterBlank = afterBlank.toImmutableList(),
+        )
+    }
+
+    object InsufficientBlanks : BlankLineSplitResult()
+}
+
+fun List<String>.splitAtNthBlank(n: Int): BlankLineSplitResult {
+    var blanksSeen: Int = 0
+    val beforeBlankLines = mutableListOf<String>()
+
+    for (line in this) {
+        if (line.isBlank()) {
+            blanksSeen++
+            if (blanksSeen == n) break
+        }
+
+        beforeBlankLines += line
+    }
+
+    if (blanksSeen != n) return BlankLineSplitResult.InsufficientBlanks
+
+    return BlankLineSplitResult.Split(
+        beforeBlank = beforeBlankLines,
+        afterBlank = this.drop(beforeBlankLines.size + 1),
+    )
 }
 
 private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>")
