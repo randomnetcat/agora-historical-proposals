@@ -177,7 +177,7 @@ object MetadataParsing {
     //
     // Text
     // ...
-    private fun headerBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+    fun headerBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
         require(metadataLines.size == 3)
 
         require(metadataLines[0].isNotBlank())
