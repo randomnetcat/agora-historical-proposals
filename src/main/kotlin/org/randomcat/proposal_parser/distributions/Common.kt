@@ -225,7 +225,7 @@ object MetadataParsing {
     //
     // Text
     // ...
-    private fun headerCoauthorsTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+    private fun headerCoauthorsBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
         require(metadataLines.size == 4)
 
         require(metadataLines[0].isNotBlank())
@@ -255,7 +255,7 @@ object MetadataParsing {
 
         return when (metadataLines.size) {
             3 -> headerBlankTitleLines(metadataLines)
-            4 -> headerCoauthorsTitleLines(metadataLines)
+            4 -> headerCoauthorsBlankTitleLines(metadataLines)
             else -> error("unreachable")
         }
     }
