@@ -220,23 +220,15 @@ object MetadataParsing {
     // Format:
     // Proposal NNNN (Some, Fields, AI=1) by Author
     // (coauth: some, coauthors)
-    //
     // Title
     //
     // Text
     // ...
-    private fun headerCoauthorsBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
-        require(metadataLines.size == 4)
+    private fun headerCoauthorsTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        require(metadataLines.size == 3)
+        require(metadataLines.all { it.isNotBlank() })
 
-        require(metadataLines[0].isNotBlank())
-        require(metadataLines[1].isNotBlank())
-        require(metadataLines[2].isBlank())
-        require(metadataLines[3].isNotBlank())
-
-        require(metadataLines[1].startsWith("(coauth: "))
-        require(metadataLines[1].endsWith(")"))
-
-        val baseParse = MetadataParsing.headerTitleLines(listOf(metadataLines[0], metadataLines[3]))
+        val baseParse = MetadataParsing.headerTitleLines(listOf(metadataLines[0], metadataLines[2]))
         check(baseParse.coauthors.isEmpty())
 
         val coauthors =
@@ -248,6 +240,21 @@ object MetadataParsing {
                 .map { PlayerName(it) }
 
         return baseParse.copy(coauthors = coauthors.toImmutableList())
+    }
+
+    // Format:
+    // Proposal NNNN (Some, Fields, AI=1) by Author
+    // (coauth: some, coauthors)
+    //
+    // Title
+    //
+    // Text
+    // ...
+    private fun headerCoauthorsBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        require(metadataLines.size == 4)
+        require(metadataLines[2].isBlank())
+
+        return headerCoauthorsTitleLines(listOf(metadataLines[0], metadataLines[1], metadataLines[3]))
     }
 
     fun headerOptCoauthorsBlankTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
