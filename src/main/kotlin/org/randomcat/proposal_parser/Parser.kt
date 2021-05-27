@@ -52,7 +52,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V6_END_DATE -> parseDistributionV1(text) // V6 == V1
         date < DISTRIBUTION_V7_END_DATE -> parseDistributionV7(text)
         date < DISTRIBUTION_V8_END_DATE -> parseDistributionV8(text, this.backupFirstProposalNumber())
-        date < DISTRIBUTION_V9_END_DATE -> parseDistributionV9(text)
+        date < DISTRIBUTION_V9_END_DATE -> parseDistributionV7(text)
         else -> error("Don't know how to parse")
     }
 }
