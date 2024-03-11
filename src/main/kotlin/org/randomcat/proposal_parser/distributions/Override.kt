@@ -3289,6 +3289,268 @@ Amend Rule 2280 (Implicit Votes) to read:
 
 
 """,
+    // Joined very long title of P7084 onto one line; Removed extraneous blank line between header/title of P7086
+    "OFF: Distribution of Proposals 7084-7093" to """
+I hereby distribute each listed proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the eligible
+voters are the active first-class players at the time of this
+distribution, the vote collector is the Assessor, and the valid
+options are FOR and AGAINST (PRESENT is also a valid vote).  Then,
+I assign each listed proposal the ID number specified under "NUM".
+
+Pool report: The Proposal Pool is empty.
+
+NUM  AI  AUTHOR           TITLE
+
+7084 2   omd              I see nothing wrong with letting one
+......                    imaginary person act on behalf of another
+......                    imaginary person
+7085 1   Tanner L. Swett  Horizontal rules
+7086 3   G., etc.         Jig-jiggery jig-jiggery
+7087 1   omd              CV
+7088 3   omd              Refactor 2, 3, 283
+7089 2   omd              Waiting a week makes the game too slow
+7090 2   omd              General costs
+7091 2   omd              Point Vouchers
+7092 1.7 Walker           Speed Up Victory
+7093 1   Walker           Enforcement Enforcement
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7084 (AI=2) by omd
+I see nothing wrong with letting one imaginary person act on behalf of another imaginary person
+
+Amend Rule 103 (The Speaker) by replacing "single first-class player"
+with "single player".
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7085 (AI=1) by Tanner L. Swett
+Horizontal rules
+
+"A rule is called horizontal if its text consists entirely of
+hyphens."
+
+Enact a new rule, titled "Standard Short Horizontal Rule", with the
+following text:
+"----------------------------------------------------------------"
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7086 (AI=3) by G., omd, please:
+Jig-jiggery jig-jiggery
+
+[Puts "Effects are effective" back into "re-jiggery" and unites it
+  all together; effects with effects, causes with causes].
+
+If proposal 7083 has not been adopted, the rest of this proposal has
+no effect.
+
+Amend R106 to read:
+    If the option selected by Agora on a decision about whether to
+    adopt a proposal is ADOPTED, then the proposal in question is
+    adopted, and unless other rules prevent it from taking effect,
+    its power is set to the minimum of four and its adoption index,
+    and then it takes effect.  Except as prohibited by other rules,
+    a proposal that takes effect CAN and does, as part of its effect,
+    apply the changes that it specifies.  If the proposal cannot make
+    some such changes, this does not preclude the other changes from
+    taking place.
+
+    If there is no Agoran Decision to adopt a particular proposal that
+    has an outcome of ADOPTED, that proposal CANNOT take effect, rules
+    to the contrary notwithstanding.
+
+    Preventing a proposal from taking effect is a secured change;
+    this does not apply to generally preventing changes to specified
+    areas of the gamestate, nor to a proposal preventing itself from
+    taking effect (its no-effect clause is generally interpreted as
+    applying only to the rest of the proposal).
+
+
+Amend the Rule entitled "Proposals" by amending its first paragraph
+to read:
+
+    A proposal is a fixed body of text which has been made into a
+    proposal using a process specifically described in the Rules.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7087 (AI=1) by omd
+CV
+
+Amend Rule 2333 (Contests) by replacing:
+
+     The contest's instructions should include conditions under which
+     one or more persons win the contest. When one or more persons
+     win a contest, those persons satisfy the Victory Condition of
+     Victory.
+
+with:
+
+     The contest's instructions should include conditions under which
+     persons "win the contest".  Upon an announcement by the
+     contestmaster that one or more persons satisfy those conditions,
+     all those persons satisfy the Victory Condition of Victory.
+     Intentionally making a false such announcement is the Class-4
+     Crime of Gaming the System.
+
+[This just restores the old language about the contestmaster making an
+announcement, which I think fits much better with the spirit of the
+rule than scshunt's platonic version.]
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7088 (AI=3) by omd
+Refactor 2, 3, 283
+
+Retitle Rule 1698 (Agora Is a Nomic) to "Agora Is A Nomic", and amend
+it to read:
+
+     Agora is ossified if it is IMPOSSIBLE for any reasonable
+     combination of actions by players to cause arbitrary rule
+     changes to be made and/or arbitrary proposals to be adopted
+     within a four-week period.
+
+     If, but for this rule, the net effect of a proposal would cause
+     Agora to become ossified, it cannot take effect, rules to the
+     contrary notwithstanding.  If any other single change to the
+     gamestate would cause Agora to become ossified, it is cancelled
+     and does not occur, rules to the contrary notwithstanding.
+
+[Substantive changes: clarifies what "something other than a Nomic"
+(from the newly added paragraph) is, and adds "reasonable" as an
+anti-Vladivostok measure.]
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7089 (AI=2) by omd
+Waiting a week makes the game too slow
+
+[Allows me to distribute proposals submitted this week if there is
+volume left over.
+
+(Did I somehow already submit this proposal?)]
+
+Amend Rule 1607 (The Promotor) by replacing:
+
+     The Promotor SHALL NOT distribute any other proposals.
+
+with:
+
+     In a given Agoran week, the Promotor SHALL NOT distribute a
+     number of proposals greater than the Legislative Volume.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7090 (AI=2) by omd
+General costs
+
+[Useful for promises.]
+
+Retitle Rule 2349 (Spending Points) to Costs, and amend it to read:
+
+     The documents defining the conditions for performing an action
+     can define a cost in assets, optionally specifying a recipient
+     entity; paying the cost becomes such a condition.  A person has
+     paid the cost for an attempt to perform the action if e
+     transferred those assets to the recipient entity, if one was
+     specified, or destroyed them otherwise:
+
+      (1) in the same message as the attempt,
+      (2) clearly indicating that the transfer or destruction was a
+          payment for that attempt, and
+      (3) not indicating that it was a payment for any other attempt.
+
+Amend Rule 1607 (The Promotor) by replacing "as a Spending Action"
+with "for a cost of 5 points".
+
+[And a bugfix - I think, if you felt like performing 50 Priority
+increases, you could do it and win with the same points.]
+
+Amend Rule 2322 (Winning by Points) by replacing:
+
+     A player CAN destroy 250 points in the possession of any
+     indicated player to cause the indicated player to satisfy the
+     Victory Condition of Accumulation.
+
+with:
+
+     A player CAN destroy 250 points in the possession of any
+     indicated player (without indicating that the destruction is a
+     payment) to cause the indicated player to satisfy the Victory
+     Condition of Accumulation.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7091 (AI=2) by omd
+Point Vouchers
+
+Create a new Power-2 Rule:
+
+     Point Vouchers are a class of assets tracked by the Scorekeepor;
+     multiple Point Vouchers with the same creation date are
+     fungible.  A player CAN, as a Spending Action with a cost of one
+     point, create a Point Voucher in eir possession.  At the start
+     of the second Agoran week after a Point Voucher is created, its
+     current owner gains one point and the Voucher is destroyed.
+
+If Rule 2349 does not define Spending Actions, amend that rule by
+replacing "as a Spending Action with" with "for"
+
+[Suppose I create a lottery where everyone transfers me points, and I
+award the lot to a random participant; but in the process I get over
+250 points and someone makes me win.  This mechanism works around that
+without making it too easy to hoard points.]
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7092 (AI=1.7) by Walker
+Speed Up Victory
+
+[ This does not clash with my other victory proposal. ]
+
+Retitle Rule 2343 (Victory Cases) to "Victory".
+
+Replace the first paragraph of Rule 2343 with:
+
+     A person can publish a Declaration of Victory by announcement,
+     explaining the Victory Condition they believe they have met and
+     how they met it. If a Victory Case is initiated regarding a
+     Declaration of Victory, no Declarations of Victory for that win
+     can be announced after that point. Otherwise, the person is
+     deemed to have won the game of Agora as described in the
+     Declaration of Victory one week after eir Declaration of Victory
+     is published. The Declaration of Victory's claim that the
+     specified player won in the specified way becomes self-ratifying
+     at this point. The Herald SHALL award the winner the Patent
+     Title Champion as soon as possible afterwards.
+
+     Victory cases are a subclass of judicial cases. For one week
+     after the publication of a Declaration of Victory, any player
+     CAN initiate a Victory case by announcement, indicating the
+     Declaration of Victory e believes to be false and eir arguments
+     and evidence supporting this.
+
+and in the same Rule replace "appropriate if the Victory Condition was
+satisfied as described" with "appropriate if the Victory Condition was
+satisfied as described in the Declaration of Victory" and replace "in
+effect for two weeks" with "in effect for one week".
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7093 (AI=1) by Walker
+Enforcement Enforcement
+
+Amend Rule 2143 (Official Reports and Duties) by appending:
+
+     If a player violates a Rule by failing to meet the requirements
+     of an office, such as performing eir weekly or monthly duties,
+     then the IADoP SHALL initiate a valid criminal case on the
+     matter as soon as possible afterwards. Cases initiated in this
+     manner do not count towards the IADoP's excess case limit, Rules
+     to the contrary notwithstanding.
+"""
 )
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]

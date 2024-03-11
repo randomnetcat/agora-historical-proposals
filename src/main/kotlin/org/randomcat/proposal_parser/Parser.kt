@@ -29,6 +29,7 @@ private val DISTRIBUTION_V7_END_DATE = LocalDate.of(2010, 9, 13)
 private val DISTRIBUTION_V8_END_DATE = LocalDate.of(2010, 10, 10)
 private val DISTRIBUTION_V9_END_DATE = LocalDate.of(2011, 3, 8)
 private val DISTRIBUTION_V10_END_DATE = LocalDate.of(2011, 7, 4)
+private val DISTRIBUTION_V11_END_DATE = LocalDate.of(2011, 10, 23)
 
 private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
@@ -55,6 +56,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V8_END_DATE -> parseDistributionV8(text, this.backupFirstProposalNumber())
         date < DISTRIBUTION_V9_END_DATE -> parseDistributionV7(text)
         date < DISTRIBUTION_V10_END_DATE -> parseDistributionV10(text) // V10 == V1
+        date < DISTRIBUTION_V11_END_DATE -> parseDistributionV11(text)
         else -> error("Don't know how to parse")
     }
 }
@@ -74,7 +76,7 @@ fun main(args: Array<String>) {
         .map {
             Message.Builder.of().use(MimeConfig.PERMISSIVE).parse(it.asInputStream(Charsets.UTF_8)).build()
         }
-        .take(9000)
+        .take(12000)
         .filter {
             it.isDistributionMessage()
         }
