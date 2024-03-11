@@ -24,10 +24,10 @@ private fun parseHeaderLine(headerLine: String): HeaderLineResult {
 
     val number = ProposalNumber(numberText.toBigInteger())
 
-    val parethetical = textAfterNumber.substringAfter('(').substringBefore(')')
+    val parenthetical = textAfterNumber.substringAfter('(').substringBefore(')')
 
     val ai =
-        parethetical
+        parenthetical
             .split(",")
             .map { it.trim() }
             .single { it.startsWith("AI=") }
