@@ -266,4 +266,14 @@ object MetadataParsing {
             else -> error("unreachable")
         }
     }
+
+    fun headerOptCoauthorsTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        require(metadataLines.size == 2 || metadataLines.size == 3)
+
+        return when (metadataLines.size) {
+            2 -> headerTitleLines(metadataLines)
+            3 -> headerCoauthorsTitleLines(metadataLines)
+            else -> error("unreachable")
+        }
+    }
 }
