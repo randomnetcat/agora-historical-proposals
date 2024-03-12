@@ -3,7 +3,7 @@ package org.randomcat.proposal_parser.distributions
 import org.randomcat.proposal_parser.ProposalData
 
 private val SUMMARY_SECTION_CHECK_REGEX =
-    Regex("AI\\s+SUBMITTER\\s+TITLE\\n|All actions are performed in this message by deputizing for Promotor.")
+    Regex("AI\\s+SUBMITTER\\s+TITLE\\n|All actions are performed in this message by deputizing for Promotor.|I submit the following proposal, entitled \\{Instant Adoption\\}")
 
 fun parseDistributionV1(fullDistributionText: String): List<ProposalData> {
     val proposalParts = SplitDistribution.withSummary(
