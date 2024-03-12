@@ -37,6 +37,12 @@ private val DISTRIBUTION_V13_END_DATE = LocalDate.of(2012, 1, 24)
 
 private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
+private val NONEXISTENT_NUMBERS =
+    setOf(
+        // See Override.kt
+        6209, 6210,
+    ).map { ProposalNumber(BigInteger.valueOf(it.toLong())) }.toSet()
+
 private fun Message.parseDistribution(): List<ProposalData> {
     val override = this.overridenDistribution()
     if (override != null) return override
@@ -129,10 +135,11 @@ ${proposal.text}
     val highest = numbers.descendingIterator().next()
 
     val missing =
-        generateSequence(lowest) { ProposalNumber(it.raw.plus(BigInteger.ONE)) }.takeWhile { it.raw <= highest.raw }
-            .filter { it !in numbers }.joinToString()
+        generateSequence(lowest) { ProposalNumber(it.raw.plus(BigInteger.ONE)) }
+            .takeWhile { it.raw <= highest.raw }
+            .filter { it !in numbers }
 
     println("Bounds: $lowest to $highest")
     println("Duplicates: ${duplicates.joinToString()}")
-    println("Missing: $missing")
+    println("Missing: ${(missing - NONEXISTENT_NUMBERS).joinToString()}")
 }
