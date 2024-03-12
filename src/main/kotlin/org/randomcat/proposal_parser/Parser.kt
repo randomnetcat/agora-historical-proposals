@@ -14,13 +14,14 @@ import java.util.*
 private fun Message.isDistributionMessage(): Boolean {
     val adjustedSubject = subject.removePrefix("OFF:").trim()
     return adjustedSubject.startsWith("[Promotor] Distribution") ||
+            adjustedSubject.startsWith("[Promotor]Distribution") ||
             adjustedSubject.startsWith("[Deputy Promotor] Distribution") ||
             adjustedSubject.startsWith("Distribution of", ignoreCase = true) ||
             adjustedSubject.startsWith("Distrubtion of", ignoreCase = true)
 }
 
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
-private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 13)
+private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 6)
 private val DISTRIBUTION_V2_END_DATE = LocalDate.of(2009, 5, 16)
 private val DISTRIBUTION_V3_END_DATE = LocalDate.of(2009, 10, 21)
 private val DISTRIBUTION_V4_END_DATE = LocalDate.of(2009, 10, 26)
