@@ -2686,6 +2686,7 @@ private val FORCED_SUBJECTS = setOf(
     LocalDate.of(2009, 7, 23) to "OFF: Distribution of Proposals 6410-6413",
     LocalDate.of(2010, 12, 15) to
             "OFF: [Briefly Promotor] I needed this one to be in a separate distribution, you'll see why later",
+    LocalDate.of(2012, 2, 16) to "BUS: Here goes nothing",
 )
 
 fun Message.isIgnoredDistribution(): Boolean {
