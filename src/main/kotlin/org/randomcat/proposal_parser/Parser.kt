@@ -75,37 +75,42 @@ private fun Message.parseDistribution(): List<ProposalData> {
 }
 
 fun main(args: Array<String>) {
-    val inFile = Path.of(args[0])
+    val inFile1 = Path.of(args[0])
+    val inFile2 = Path.of(args[1])
 
-    val outPath = Path.of(args[1])
+    val outPath = Path.of(args[2])
     Files.createDirectories(outPath)
 
     val numbers = TreeSet<ProposalNumber>(Comparator.comparing { it.raw })
     val duplicates = mutableSetOf<ProposalNumber>()
 
-    MboxIterator
-        .fromFile(inFile)
-        .charset(Charsets.UTF_8)
-        .maxMessageSize(50 * 1000 * 1000) // 50 MB
-        .build()
+    listOf(inFile1, inFile2)
         .asSequence()
-        .map {
-            Message.Builder.of().use(MimeConfig.PERMISSIVE).parse(it.asInputStream(Charsets.UTF_8)).build()
+        .flatMap { file ->
+            MboxIterator
+                .fromFile(file)
+                .charset(Charsets.UTF_8)
+                .maxMessageSize(50 * 1000 * 1000) // 50 MB
+                .build()
+                .asSequence()
+                .map {
+                    Message.Builder.of().use(MimeConfig.PERMISSIVE).parse(it.asInputStream(Charsets.UTF_8)).build()
+                }
+                .take(12000)
+                .filter {
+                    it.isDistributionMessage()
+                }
+                .map {
+                    try {
+                        it.parseDistribution()
+                    } catch (e: Exception) {
+                        e.printStackTrace()
+                        null
+                    }
+                }
+                .takeWhile { it != null }
+                .flatMap { it ?: error("Already checked for null") }
         }
-        .take(12000)
-        .filter {
-            it.isDistributionMessage()
-        }
-        .map {
-            try {
-                it.parseDistribution()
-            } catch (e: Exception) {
-                e.printStackTrace()
-                null
-            }
-        }
-        .takeWhile { it != null }
-        .flatMap { it ?: error("Already checked for null") }
         .forEach { proposal ->
             val proposalText =
                 """
