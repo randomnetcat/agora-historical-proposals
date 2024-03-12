@@ -5674,6 +5674,14 @@ Amend Rule 2143 (Official Reports and Duties) by appending:
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]
 
 private val OVERRIDE_PROPOSAL_NUMBERS: Map<Pair<LocalDate, String>, (Int) -> ProposalNumber> = mapOf(
+    (LocalDate.of(2009, 11, 3) to "OFF: [Promotor] Distribution of Proposals 6549-6564") to { index ->
+        val raw = 6549 + index
+        val adjusted = if (raw == 6559) 6569 else raw
+
+        check(adjusted in 6549..6558 || adjusted == 6569 || adjusted in 6560..6564)
+
+        ProposalNumber(BigInteger.valueOf(adjusted.toLong()))
+    },
     (LocalDate.of(2009, 11, 16) to "OFF: [Promotor] Distribution of proposals 6567-6568 and 6570-6580") to { index ->
         val raw = 6567 + index
         val adjusted = if (raw >= 6569) raw + 1 else raw
