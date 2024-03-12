@@ -75,6 +75,7 @@ private val EXCLUDED_FIRST_SECTION_PREFIXES = listOf(
     "Text of Proposals being distributed is below:",
     "Text of Proposals being distributed is below.",
     "Text of proposals being distributed is below.",
+    "Text of proposals being distributed is below",
     "The text of the proposals being distributed is below.",
     "The text of proposals being distributed is below.",
     "Text of proposals are below:",
