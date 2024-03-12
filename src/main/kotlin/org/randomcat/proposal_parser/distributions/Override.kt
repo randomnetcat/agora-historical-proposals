@@ -2643,6 +2643,8 @@ fun Message.overridenDistribution(): List<ProposalData>? {
 private val IGNORED_SUBJECTS = setOf(
     LocalDate.of(2004, 9, 23) to "OFF:[Promotor] Distribution of Proposal 4616",
     LocalDate.of(2007, 11, 25) to "BUS: Distribution of Proposal",
+    // Has incorrect number in body (6403), later redistributed
+    LocalDate.of(2009, 7, 17) to "OFF: [Deputy Promotor] Distribution of Proposal 6406",
     LocalDate.of(2010, 9, 7) to "OFF: [Promotor] Distribution of Proposals 6834-6841",
 )
 

@@ -24,7 +24,8 @@ private fun Message.isDistributionMessage(): Boolean {
             adjustedSubject.startsWith("Real Fix Distribution") ||
             adjustedSubject.startsWith("[Promotor] (Corrected) Actual Distribution") ||
             adjustedSubject.startsWith("[Briefly Promotor] Distribution") ||
-            adjustedSubject.startsWith("[Promotor] Redistribution")
+            adjustedSubject.startsWith("[Promotor] Redistribution") ||
+            adjustedSubject.startsWith("[Deputy Promotor] Corrected Distribution")
 }
 
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
