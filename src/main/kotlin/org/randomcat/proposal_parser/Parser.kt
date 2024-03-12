@@ -12,7 +12,7 @@ import java.time.ZoneOffset
 import java.util.*
 
 private fun Message.isDistributionMessage(): Boolean {
-    val adjustedSubject = subject.removePrefix("OFF:").trim()
+    val adjustedSubject = subject.removePrefix("OFF:").removePrefix("BUS:").trim()
     return adjustedSubject.startsWith("[Promotor] Distribution") ||
             adjustedSubject.startsWith("[Promotor] Emergency Distribution") ||
             adjustedSubject.startsWith("[Promotor]Distribution") ||
@@ -89,12 +89,12 @@ fun main(args: Array<String>) {
         .flatMap { file ->
             MboxIterator
                 .fromFile(file)
-                .charset(Charsets.UTF_8)
+                .charset(Charsets.ISO_8859_1)
                 .maxMessageSize(50 * 1000 * 1000) // 50 MB
                 .build()
                 .asSequence()
                 .map {
-                    Message.Builder.of().use(MimeConfig.PERMISSIVE).parse(it.asInputStream(Charsets.UTF_8)).build()
+                    Message.Builder.of().use(MimeConfig.PERMISSIVE).parse(it.asInputStream(Charsets.ISO_8859_1)).build()
                 }
                 .take(12000)
                 .filter {
