@@ -11,7 +11,7 @@ import java.time.LocalDate
 import java.util.*
 
 private fun Message.isDistributionMessage(): Boolean {
-    val adjustedSubject = subject.removePrefix("OFF:").removePrefix("BUS:").trim()
+    val adjustedSubject = subject.removePrefix("BUS: OFF:").removePrefix("OFF:").removePrefix("BUS:").trim()
     return adjustedSubject.startsWith("[Promotor] Distribution") ||
             adjustedSubject.startsWith("[Promotor] Emergency Distribution") ||
             adjustedSubject.startsWith("[Promotor]Distribution") ||
