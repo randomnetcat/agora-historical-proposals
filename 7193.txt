@@ -1,0 +1,8 @@
+ID: 7193
+Title: I think these turned out to be too much work
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Repeal Rule 2337 (Promises).
+Repeal Rule 2338 (Cashing Promises).

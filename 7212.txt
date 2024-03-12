@@ -1,0 +1,42 @@
+ID: 7212
+Title: WotE improvements
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2357 by replacing the sentence
+ {
+ An Elder is a player who has been registered continuously for at
+ least 32 days, and also registered for at least 128 days total
+ (not necessarily contiguously).
+ }
+ with
+ {
+ An Elder is a first-class player who has been registered
+ continuously for at least 32 days, and also registered for at least
+ 128 days total (not necessarily contiguously).
+ }.
+
+ Amend Rule 2357 by replacing the sentence
+ {
+ Any Elder, with 4 Elder Support, CAN set the Adoption Index of any
+ Agoran Decision with an Adoption Index to 8.
+ }
+ with
+ {
+ Any Elder, with 4 Elder Support, CAN set the Adoption Index of any
+ Agoran Decision with an Adoption Index to 9999999999.9.
+ }.
+
+ Amend Rule by 1950 replacing the sentence
+ {
+ Adoption index is a switch possessed by Agoran decisions, whose
+ value is either "none" (default) or an integral multiple of 0.1 from
+ 1.0 to 9.9.
+ }
+ with
+ {
+ Adoption index is a switch possessed by Agoran decisions, whose
+ value is either "none" (default) or an integral multiple of 0.1 from
+ 1.0 to 9999999999.9.
+ }.

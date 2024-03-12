@@ -1,0 +1,10 @@
+ID: 7160
+Title: The Power Of Agora
+Author: 441344
+Co-authors: 
+Adoption index: 1
+
+ Create a rule with title {The Power Of Agora} and text
+ {
+  If Agora is a person, Agora has power equal to the power of this rule.
+ }.

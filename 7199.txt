@@ -1,0 +1,18 @@
+ID: 7199
+Title: Allow late appeals without objection
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+     An appeal concerning any assignment of judgement in a non-appeal
+     case within the past two weeks CAN be initiated by any player
+     with 2 support.
+
+with this text:
+
+     An appeal concerning any assignment of judgement in a non-appeal
+     case CAN be initiated by any player with 2 support and (if the
+     judgement was assigned more than two weeks earlier) without
+     objection.

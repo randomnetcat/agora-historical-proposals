@@ -1,0 +1,10 @@
+ID: 7224
+Title: Golem Self Defense
+Author: omd
+Co-authors: BuckyBot, Bucky
+Adoption index: 1
+
+Wherever Rule 2360 contains the text "The Golemkeepor CAN destroy any
+Golem Without Objection.", change that text to "The Golemkeepor CAN
+destroy any Golem Without Objection. A Golem is eligible to Object to
+any such intent to destroy it."

@@ -1,0 +1,18 @@
+ID: 7230
+Title: Tax reform
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2362 (Rubles) by replacing:
+
+     At the start of each week, half of each first-class person's
+     rubles (rounded down to the nearest integer) are destroyed, then
+     two rubles are created in the possession of each first-class
+     player.
+
+with:
+
+     At the start of each week, half of each person's rubles (rounded
+     up to the nearest integer) are destroyed, then two rubles are
+     created in the possession of each first-class player.

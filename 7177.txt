@@ -1,0 +1,29 @@
+ID: 7177
+Title: use ILLEGAL more
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2170 by replacing the text
+ {
+     A person SHALL NOT make a public statement intended to mislead
+     others as to the identity of its publisher.
+ }
+ with
+ {
+     It is ILLEGAL to make a public statement intended to mislead
+     others as to the identity of its publisher.
+ }.
+ Amend Rule 1769 (Holidays) by replacing the text
+ {
+     During a Holiday, the Promotor SHALL NOT distribute any
+     proposals, and the Clerk of the Courts SHALL NOT assign a judge
+     to any judicial case, and judges SHALL NOT assign judgement to
+     any judicial case.
+ }
+ with
+ {
+     During a Holiday, it is ILLEGAL to distribute any proposals,
+     ILLEGAL to assign a judge to any judicial case, and ILLEGAL
+     to assign judgement to any judicial case.
+ }.

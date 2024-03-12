@@ -1,0 +1,10 @@
+ID: 7231
+Title: Limited Indirection
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2337 by replacing:
+ A Player (the promise's author) CAN create
+with:
+ A first-class player (the promise's author) CAN create

@@ -1,0 +1,61 @@
+ID: 7256
+Title: Basic Foreign Relations
+Author: 441344
+Co-authors: 
+Adoption index: 1
+
+AFO, ais523, BobTHJ, disi., Murphy, Pavitra, Tiger, woggle, Yally, and
+Zefram, and text
+{
+ Create a rule with title {Nomic Definitions} and text
+ {
+     A nomic is a system of rules that provides means for itself to be
+     amended arbitrarily. Nomics can be games, micronations, simulations,
+     and/or sovereign states.
+
+     A foreign nomic is a nomic other than this one, even if it has
+     the same name as this one.
+
+     A protectorate is a foreign nomic which specifies in its ruleset that
+     it is a Protectorate Of Agora and which allows Agora to make
+     arbitrary amendments to it.
+ }.
+ Create a rule with title {Foreign Relations} and text
+ {
+     Recognition is a foreign nomic switch, tracked by the
+     Ambassador, with values Unknown (default), Protected, Friendly,
+     Neutral, Sanctioned, Hostile, and Abandoned. Players SHOULD not
+     violate the rules of Protected or Friendly nomics.
+
+     When a non-Unknown foreign nomic becomes a Protectorate, it's
+     recognition becomes Protected.  When a foreign nomic ceases to be a
+     Protectorate, its Recognition becomes Unknown. Any person may flip
+     an Unknown Protectorate's Recognition to Protected by announcement.
+     A foreign nomic's Recognition CANNOT change to or from Protected in
+     any other way.
+
+     The Ambassador-At-Large CAN, with Agoran Consent, flip a foreign
+     nomic's Recognition to any value (subject to the above restriction).
+     E SHALL inform that nomic of the change as soon as possible.
+ }.
+ Create a rule with title {The Ambassador-At-Large} and text
+ {
+     The Ambassador-At-Large is an office; its holder is responsible for
+     relations with foreign nomics.
+
+     A foreign nomic may grant certain powers (in the ordinary-language
+     sense) and privileges to Agora's ambassadors. It is ILLEGAL to use or
+     attempt to use such powers or privileges except as allowed by the
+     rules of Agora. The Ambassador-At-Large CAN and MAY, with Agoran
+     Consent, authorize emself to use such powers or priviliges in a
+     specified way, in a specified nomic, in a specified timeframe of
+     length not exceeding two weeks. If a foreign nomic allows for Agora
+     to take actions in it, the ambassador CAN and MAY, with Agoran
+     consent, take a specified action or series of actions in it on
+     behalf of Agora, provided that the nomic is Protected, Friendly, or
+     Neutral.
+
+     It is ILLEGAL to falsely claim, to any nomic, to be an ambassador of
+     Agora. The Ambassador-At-Large SHALL inform any nomic that recieves
+     such a claim of its falsehood as soon as possible.
+ }.

@@ -1,0 +1,8 @@
+ID: 7182
+Title: Chicago Voter Rationing
+Author: Murphy
+Co-authors: Machiavelli
+Adoption index: 1
+
+Amend the rule "Ballot Fees" by replacing "twice its original value"
+with "twice its value at the start of that decision's voting period".

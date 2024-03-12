@@ -1,0 +1,35 @@
+ID: 7239
+Title: this has been broken for a long time
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[http://cfj.qoid.us/2733]
+
+Amend Rule 1950 (Decisions with Adoption Indices) by removing:
+
+     Determining whether to adopt a proposal is an Agoran decision.
+     For this decision, the vote collector is the Assessor, and the
+     adoption index and Chamber are initially the same as the
+     corresponding values from the proposal.
+
+Amend Rule 1607 (Distribution) by replacing:
+
+     A player specifically permitted by the Rules to distribute a
+     Proposal CAN distribute the proposal by publishing it with the
+     clear intent of distributing it.  When a proposal is
+     distributed, it is removed from the Proposal Pool.  The
+     distribution of a proposal initiates the Agoran decision of
+     whether to adopt the proposal, as described elsewhere.  Removing
+     a proposal from the Pool by a means other than initiating an
+     Agoran Decision to adopt it is secured.
+
+with:
+
+     Determining whether to adopt a proposal is an Agoran decision.
+     For this decision, the vote collector is the Assessor, the
+     adoption index and Chamber are initially the same as the
+     corresponding values from the proposal, and the text of the
+     proposal is an essential parameter.  Initiating such a decision
+     is known as distribution, and removes the proposal from the
+     Proposal Pool.

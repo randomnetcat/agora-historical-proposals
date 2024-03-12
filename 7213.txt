@@ -1,0 +1,59 @@
+ID: 7213
+Title: Voting Golems
+Author: G.
+Co-authors: 
+Adoption index: 3
+
+[This changes the needed power-3 rules to allow some golems to vote in
+the first place, while keeping them out of the quorum calculation.  It
+doesn't actually allow the creation of any voting golems.  We can work
+out the golem voting system details later with AI-2 proposals, but
+they're non-starters if the principle of a golem voting doesn't pass at
+AI-3.].
+
+
+Amend Rule 1950 (Decisions with Adoption Indices) by replacing:
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2
+      if the decision is Ordinary, or 3 otherwise.
+with:
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision, or defining additional types of
+      eligible voters for such a decision, is secured with a power
+      threshold of 2 if the decision is Ordinary, or 3 otherwise.
+
+
+Amend Rule 683 (Voting on Agoran Decisions) by appending the following
+paragraph:
+      A first-class voter for a decision is a first-class player who
+      is an eligible voter for that decision.  All other eligible voters
+      for that decision are second-class voters.
+
+
+Amend Rule 879 (Quorum) by replacing:
+   (where N is the number of eligible voters
+with:
+   (where N is the number of first-class voters
+
+
+Amend Rule 955 (Determining the Will of Agora) by replacing:
+ number of distinct voters who submitted valid ballots is less than
+ quorum
+with:
+ number of distinct first-class voters who submitted valid ballots
+ is less than quorum
+
+
+Create the following rule, Voting Golems, Power-2:
+
+      Enfranchisement is a switch for golems with values of
+      Unenfranchised (default) and Enfranchised.  Flipping a golem to
+      Enfranchised is Secured.
+
+      An Enfranchised golem is an eligible voter on Ordinary proposals,
+      and has a default voting limit of 1 on such proposals.  Changing
+      this voting limit is Secured.

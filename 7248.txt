@@ -1,0 +1,26 @@
+ID: 7248
+Title: executors are not worth the ambiguity, and another
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2170 (Who Am I?) by removing:
+
+     The Executor of a public message is the first-class person who
+     sends it, or who most directly and immediately causes it to be
+     sent.  (Upon a judicial finding that the Executor of a public
+     message cannot otherwise be determined within reasonable effort,
+     the judge SHALL as soon as possible publish a judicial
+     declaration specifying the identity of that message's Executor.)
+     The executor of an action performed by announcement is the
+     executor of the announcement.
+
+Amend Rule 2124 (Agoran Satisfaction) by replacing "Executor" with "author".
+
+Amend Rule 2150 (Personhood) by removing:
+
+     The basis of a first-class person is the singleton set
+     consisting of that person.
+
+Amend Rule 1504 (Criminal Cases) by replacing "each member of the
+Accused's basis" with "the Accused".

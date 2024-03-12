@@ -1,0 +1,9 @@
+ID: 7205
+Title: Tapping the brakes is not a good idea when I forgot to distribute proposals for a whole month but ended up with only 10 to distribute, and the weekly metric is a bit confusing
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2365 (Pool Fees) by replacing "at least five proposals have
+been created earlier in the week" with "at least ten proposals are in
+the Proposal Pool".

@@ -1,0 +1,17 @@
+ID: 7207
+Title: Let newcomers vote on proposals
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1950 (Decisions with Adoption Indices) by replacing this
+text:
+
+     The eligible voters on a decision with an adoption index are
+     those entities that were active first-class players at the start
+     of its voting period.
+
+with this text:
+
+     The eligible voters on a decision with an adoption index are the
+     active first-class players.

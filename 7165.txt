@@ -1,0 +1,26 @@
+ID: 7165
+Title: Clock Golems
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Create a rule with title {Clock Golems} and text
+ {
+  Clock Golems are a class of second-class persons and a class of
+assets. Golemkeepor is
+  an elected Office. The Golemkeepor is the recordkeepor for Clock
+Golems. Alarm is a
+  Clock Golem timer. The Alarm of a Clock Golem is counting down iff
+it is not zero. When
+  the Alarm of a Clock Golem becomes zero, that Clock Golem cashes all
+promises in eir
+  possession that e CAN cash, and is then destroyed. Any player CAN
+create a Clock
+  Golem by announcement, specifying it's Alarm. Decreasing the Alarm
+of a Clock Golem is
+  secured. Causing a Clock Golem to act is secured. The Golemkeepor's
+report includes the
+  Alarm of every Clock Golem and the text, author, and owner of every
+promise owned by a
+  Clock Golem. The Golemkeepor CAN destroy any Clock Golem Without Objection.
+ }.

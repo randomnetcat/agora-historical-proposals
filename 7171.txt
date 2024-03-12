@@ -1,0 +1,28 @@
+ID: 7171
+Title: Slave Golems
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+If no rule with title {Golems} exists, enact a Power-2 rule with title
+ {Golems} and text
+ {
+  Golems are a class of second-class persons and a class of assets.
+  Golemkeepor is an elected Office. The Golemkeepor is the recordkeepor for
+  Golems. Causing a Golem to act is secured. The Golemkeepor CAN destroy
+  any Golem Without Objection. When a Golem is destroyed, all entities in
+  eir possession are destroyed. When a Golem ceases to be a person, it is
+  destroyed.
+ }.
+
+ Enact a Power-2 rule with title {Slave Golems} and text
+ {
+  Slave Golems are a class of Golems and a class of second-class players.
+  Any player CAN create a Slave Golem in eir possession by announcement,
+  specifying its name. The owner of a Slave Golem CAN cause it to take
+  actions that are not otherwise IMPOSSIBLE by announcement. For all N,
+  causing a Slave Golem to perform a Class-N Crime in this manner is the
+  Class-N Crime of Not Doing Your Own Dirty Work. When a Slave Golem
+  ceases to be a player, it is destroyed.
+ }.
+}.

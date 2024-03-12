@@ -1,0 +1,10 @@
+ID: 7250
+Title: And two
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2350 by appending the following paragraph:
+
+     The author of a proposal in the Proposal Pool CAN remove (syn.
+     retract, withdraw) it from the Pool by announcement.

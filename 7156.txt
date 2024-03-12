@@ -1,0 +1,17 @@
+ID: 7156
+Title: Clarify/Explicate Agoran Consent
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+ Amend Rule 1728 by replacing the text
+ {
+  3) With N Agoran Consent, where N is an integer multiple of 0.1 with a
+  minimum of 1.
+ }
+ with
+ {
+  3) With N Agoran Consent, where N is an integer multiple of 0.1 with a
+  minimum of 1.  ("With Agoran Consent" is shorthand for this method with
+  N=1.).
+ }.

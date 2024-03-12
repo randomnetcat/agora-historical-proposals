@@ -1,0 +1,61 @@
+ID: 7254
+Title: 
+Author: 441344
+Co-authors: ehird
+Adoption index: 3
+
+DEFENSE FIX Mk III
+
+Create a power-3 rule with title {Voting Chambers} and text
+ {
+     Voting Chambers are a class of entity. Open Voting Chambers are a
+     class of Voting Chambers. Ordinary is an Open Voting Chamber.
+     Democratic is an Open Voting Chamber. Creating a Voting Chamber or
+     Open Voting Chamber is Secured with power 2.
+ }.
+ Amend Rule 1950 by replacing the text
+ {
+     Chamber is a switch possessed by Agoran decisions with adoption
+     indices and proposals, with values Ordinary (default) and
+     Democratic.
+ }
+ with
+ {
+     Chamber is a switch possessed by Agoran decisions with adoption
+     indices and proposals, with values any Voting Chamber, by default
+     Ordinary.
+ }.
+ If Rule 2350 contains the text
+ {
+     * An adoption index and Chamber.
+ }
+ replace that text with
+ {
+     * Its adoption index.
+     * Its Chamber, which must be an Open Voting Chamber.
+ }.
+ If Rule 2350 contains the text
+ {
+     * An adoption index.
+     * A Chamber.
+ }
+ replace that text with
+ {
+     * Its adoption index.
+     * Its Chamber, which must be an Open Voting Chamber.
+ }.
+ Amend Rule 2357 by adding after the second paragraph the text
+ {
+     Gerontocratic is a Voting Chamber. The voting limit of any non-elder
+     on a Gerontocratic decision is zero, rules to the contrary
+     notwithstanding.
+ }
+ , adding at the end the text
+ {
+     * Any Elder CAN, with 2 Elder Support, set the Chamber of an Agoran
+       Decision to Gerontocratic
+ }
+ , and removing the sentence beginning
+ {
+     * Any Elder, with 4 Elder Support, CAN set the Adoption Index
+ }.

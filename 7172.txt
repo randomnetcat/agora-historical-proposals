@@ -1,0 +1,34 @@
+ID: 7172
+Title: Normalize foreign relations
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Change the title of Rule 2352 to "Foreign Relations", and amend it to
+read:
+
+       The Ambassador is an office; its holder is responsible for
+       managing the affairs of state of Agora.
+
+       Any player CAN (with Agoran Consent, or without 3 objections if e
+       is the Ambassador) authorize emself to perform a specified action
+       on Agora's behalf in another nomic.  Acting on Agora's behalf in
+       another nomic is effective only if:
+
+         a) The actor authorized emself to perform that action on Agora's
+            behalf (as described above) no more than one week earlier.
+
+         b) The actor clearly indicates to that nomic that e is acting
+            on Agora's behalf, and clearly identifies the Ambassador (or
+            that it is vacant) to the best of eir knowledge.
+
+         c) That nomic's rules acknowledge that Agora is a person, and
+            that the actor is acting on Agora's behalf.
+
+       Upon an ineffective claim to act on Agora's behalf in another
+       nomic, the Ambassador SHALL inform that nomic of the situation
+       as soon as possible.
+
+       A player SHALL NOT make an ineffective claim to act on Agora's
+       behalf in another nomic.  Doing so is the Class-7 Crime of
+       Inciting Foreign Aggression.

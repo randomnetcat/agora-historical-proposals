@@ -1,0 +1,11 @@
+ID: 7255
+Title: ANTI-SIEGE Mk II
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2357 by adding at the end the text
+ {
+ *Any Elder CAN with 4 Elder Support deregister any first-class non-Elder.
+ This is a passive method of deregistration.
+ }.

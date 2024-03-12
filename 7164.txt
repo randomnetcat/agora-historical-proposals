@@ -1,0 +1,10 @@
+ID: 7164
+Title: Grumpy Old Men
+Author: Murphy
+Co-authors: Arkady
+Adoption index: 2
+
+Amend Rule 2357 (Wisdom of the Elders) by replacing "4294967296"
+with "8".
+
+[The current clause is ineffective due to Rule 1950.]

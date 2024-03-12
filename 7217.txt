@@ -1,0 +1,15 @@
+ID: 7217
+Title: Old powers
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Create a Power-2 rule titled "Veto and Rubberstamp":
+
+     The Speaker CAN Veto an Ordinary decision with AI <= 3 by
+     announcement; this sets its AI to 3.
+
+     The Speaker CAN Rubberstamp an Ordinary decision with AI <= 2 by
+     announcement; this sets its AI to 2, and among the
+     otherwise-valid votes on a decision that has been Rubberstamped,
+     only the first AGAINST vote per voter is valid.

@@ -1,0 +1,13 @@
+ID: 7167
+Title: fixing another problem with WotE
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2357 by appending the text
+ {
+  *If 5 or more Elders are Objectors to an intent, Agora is not
+Satisfied with that intent, rules to the contrary notwithstanding. Any
+Elder is eligible to object to any intent, rules to the contrary
+notwithstanding.
+ }.

@@ -1,0 +1,16 @@
+ID: 7194
+Title: Delayed punishment of non-players
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 (Criminal Cases) by appending this item to the list of
+valid sentences:
+
+     * DELAYED PUNISHMENT, appropriate if the ninny is not a player at
+       the time of sentencing.  After a sentence of DELAYED PUNISHMENT
+       goes into effect, the next time the ninny registers (or
+       immediately if e is registered when the sentence goes into
+       effect), e commits the Class-N Crime of Illegal Entry, where N
+       is the Class of the Crime that led to the sentence (or, in the
+       absence of such a Crime, the power of the rule violated).

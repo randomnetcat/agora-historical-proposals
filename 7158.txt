@@ -1,0 +1,10 @@
+ID: 7158
+Title: The rule already says that N is 1 unless otherwise specified
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+ Amend Rule 1728 by removing:
+      ("Without Objection" is shorthand for this method with N = 1.)
+ and by removing:
+      ("With Support" is shorthand for this method with N = 1.)

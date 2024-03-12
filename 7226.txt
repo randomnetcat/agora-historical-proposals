@@ -1,0 +1,10 @@
+ID: 7226
+Title: This should be self-ratifying
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1607 (Distribution) by appending to the last paragraph:
+
+     This portion of a public message purporting to be a Promotor's
+     report is self-ratifying.

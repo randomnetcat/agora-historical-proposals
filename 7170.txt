@@ -1,0 +1,26 @@
+ID: 7170
+Title: Clock Golems
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+Enact a Power-2 rule with title {Golems} and text
+ {
+  Golems are a class of second-class persons and a class of assets.
+  Golemkeepor is an elected Office. The Golemkeepor is the recordkeepor for
+  Golems. Causing a Golem to act is secured. The Golemkeepor CAN destroy
+  any Golem Without Objection. When a Golem is destroyed, all entities in
+  eir possession are destroyed.
+ }.
+ Enact a Power-2 rule with title {Clock Golems} and text
+ {
+  Clock Golems are a class of Golems. Alarm is a Clock Golem timer. The
+  Alarm of a Clock Golem is counting down iff it is not zero. When the
+  Alarm of a Clock Golem becomes zero, that Clock Golem cashes all promises
+  in eir possession that e CAN cash, and is then destroyed. Any player CAN
+  create a Clock Golem in eir possession by announcement, specifying its
+  Alarm. Decreasing the Alarm of a Clock Golem is secured. The
+  Golemkeepor's report includes the Alarm and set of promises owned by each
+  Clock Golem.
+ }.
+}.

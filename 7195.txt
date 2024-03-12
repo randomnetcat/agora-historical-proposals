@@ -1,0 +1,19 @@
+ID: 7195
+Title: Simpler timers
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2334 (Timers) to read:
+
+     A timer is a switch whose values are the non-negative integers
+     (default zero), representing a number of days.
+
+     Each timer is either counting down or not counting down.  When a
+     timer has been continuously counting down for 1 day since its
+     last change, it decreases by 1.
+
+Upon the adoption of this proposal, for each player, eir stasis timer
+is set to N/86400 (rounded to the nearest integer, rounded to the next
+highest integer in case of ties), where N is the value of eir stasis
+timer in seconds immediately before the adoption of this proposal.

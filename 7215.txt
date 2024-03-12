@@ -1,0 +1,26 @@
+ID: 7215
+Title: Toss it up
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2362 (Rubles) by removing:
+
+     Ownership of rubles is restricted to persons.
+
+Amend Rule 103 (The Speaker) by replacing the second paragraph with:
+
+     Each player has a Speaker Account.  The office of Speaker is
+     held by the single player whose Speaker Account owns more rubles
+     than any other, or is vacant if there is no such player.  At the
+     start of each week, each Speaker Account which owns at least as
+     many rubles as any other loses one ruble (if it has any).
+
+[Intentionally protected from ruble decay, to encourage saving rubles
+in Speaker Accounts and effectively taking turns for Speaker.]
+
+Amend Rule 2362 (Rubles) by appending:
+
+     At the start of each month (after weekly destruction, if it
+     coincides with the start of a week), each player gains a ruble
+     for each Postulated office e holds.

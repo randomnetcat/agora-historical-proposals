@@ -1,0 +1,13 @@
+ID: 7184
+Title: Crimes and the Law
+Author: 441344
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with title {Crimes and the Law} and text
+ {
+ If a Rule makes an action a Crime, that action is a violation of that
+ Rule. Every Crime violates the Rules. For all N, if an action that
+ violates a power-N Rule would not otherwise be a Crime, then it is the
+ Class-2*N Crime of Breaking The Law.
+ }.

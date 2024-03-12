@@ -1,0 +1,15 @@
+ID: 7227
+Title: Phoenix Wright Defense Testimony
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2205 (Judicial Arguments and Evidence) by replacing:
+
+     2) For a criminal case, the defendant, during the pre-trial
+        phase.
+
+with:
+
+     2) For a criminal case, the defendant, before judgement is
+        delivered.

@@ -1,0 +1,21 @@
+ID: 7157
+Title: Clarify/Explicate Elder Support
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+ Amend Rule 2357 by inserting between the first and second paragraphs the
+ text
+ {
+  For any positive integer N:
+   *If a rule says that a person CAN perform an action with N Elder
+    Support, e CAN perform that action With N Elder Support With N
+    Supporters.
+   *Only Elders are eligible to Support an intention to perform an action
+    With N Elder Support With N Supporters.
+   *When a person performs an action With N Elder Support With N
+    Supporters, e thereby performs that action with N Support.
+   *If a rule says that a person CAN perform an action with N Elder Support
+    it does not thereby allow em to perform that action by announcement or
+    any other method, except as allowed by other rules including this rule.
+ }.

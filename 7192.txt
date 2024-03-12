@@ -1,0 +1,19 @@
+ID: 7192
+Title: Only Some Players
+Author: 441344
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2362 by replacing the text
+ {
+     At the start of each week, half of each person's rubles (rounded
+     down to the nearest integer) are destroyed, then two rubles are
+     created in the possession of each player.
+ }
+ with
+ {
+     At the start of each week, half of each first-class person's
+rubles (rounded
+     down to the nearest integer) are destroyed, then two rubles are
+     created in the possession of each first-class player.
+ }

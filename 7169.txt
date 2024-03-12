@@ -1,0 +1,20 @@
+ID: 7169
+Title: The Person Agora, The Misguiding Therof, And Eir Security
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+Change the power of rule 2339 to 3.
+ If there is rule with title {Causing Agora To Act}, then change the power
+ of that rule to 3. Otherwise:
+  *Retitle Rule 2339 to {The Person Agora}.
+  *Amend Rule 2339 to {Agora is a person.}.
+  *Enact a Power-3 rule with title {Causing Agora To Act} and text
+   {
+    When Agora is a person, any player CAN cause em to take actions that
+    are not otherwise IMPOSSIBLE Without Objection.
+    Causing Agora to perform ILLEGAL actions in this manner is the Class-7
+    Crime of Misguiding Agora.
+   }.
+  *Amend Rule 2351 by appending the sentence
+   {Causing Agora to act is secured.} to the end of it.

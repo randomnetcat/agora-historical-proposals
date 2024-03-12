@@ -1,0 +1,21 @@
+ID: 7197
+Title: 
+Author: Yally
+Co-authors: 
+Adoption index: 1
+
+
+[Changes the SHOULD NOT judge inappropriately to SHALL NOT. Because of
+the prohibition on judging guilty when a player reasonably believes
+eir action to be legal, no judge can be punished unless e accidentally
+judges a case inappropriately. As it stands, because of the SHOULD
+NOT, no judge can be punished criminally even if e deliberately
+publishes an incorrect opinion.]
+
+In rule 2158, change the text reading:
+
+A judge SHOULD NOT assign an inappropriate judgement to any judicial case.
+
+to read:
+
+A judge SHALL NOT assign an inappropriate judgement to any judicial case.

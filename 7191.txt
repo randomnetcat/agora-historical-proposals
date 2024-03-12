@@ -1,0 +1,11 @@
+ID: 7191
+Title: Memento mori
+Author: FSX
+Co-authors: 
+Adoption index: 1
+
+Append to the text of Rule 869 the following:
+
+"If a first-class player is no longer a person, e is automatically
+deregistered as soon as the Deputy Registrar is aware that e is no
+longer a person."

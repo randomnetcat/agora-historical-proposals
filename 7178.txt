@@ -1,0 +1,8 @@
+ID: 7178
+Title: Confusing is confusing
+Author: G.
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2170 ("Who Am I?") by replacing "used to refer" with "used
+within Agoran fora to refer"

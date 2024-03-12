@@ -1,0 +1,20 @@
+ID: 7264
+Title: Apathia
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[I've been playing a little BlogNomic recently; meanwhile, even with
+enhanced (but old-fashioned) veto and rubberstamp powers, nobody wants
+to be Speaker...]
+
+Repeal Rule 2366 (Veto and Rubberstamp).
+
+Amend Rule 693 (Agoran Decisions) by removing the final paragraph.
+
+In Rule 2127 (Conditional Votes), replace "a vote of PRESENT is cast"
+with "the vote does not select any option.", and append a paragraph:
+
+      Casting a vote for PRESENT is equivalent to endorsing the
+      Speaker (the vote is conditional on the identity of the
+      Speaker).

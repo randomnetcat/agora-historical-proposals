@@ -1,0 +1,20 @@
+ID: 7233
+Title: No Presidential Deregistration
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2326 by
+ *if Rule 2344 has not been repealed
+  adding between the first 2 paragraphs the text
+  {
+   Rules to the contrary notwithstanding, the President CANNOT deregister
+   emself and no document submitted by em is a Cantus Cygneus.
+  }
+ *otherwise
+  adding between the first 2 paragraphs the text
+  {
+   Rules to the contrary notwithstanding, the President CANNOT
+   be deregistered.
+  }
+ .

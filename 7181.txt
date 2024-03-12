@@ -1,0 +1,13 @@
+ID: 7181
+Title: Chewbacca Defense
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+If rubles are not a currency, then this proposal has no effect.
+
+Create a rule titled "Legal Fees" with Power 2 and this text:
+
+     Rules to the contrary notwithstanding, if at least five judicial
+     cases have been created earlier in the week, then creating a
+     judicial case has a cost of 1 ruble.

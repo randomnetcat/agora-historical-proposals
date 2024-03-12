@@ -1,0 +1,8 @@
+ID: 7235
+Title: semicolon
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1030 (Precedence Between Rules) by replacing "lower Power ;
+otherwise," with "lower Power; otherwise,".

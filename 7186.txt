@@ -1,0 +1,15 @@
+ID: 7186
+Title: The Person Agora, Causing Em To Act, And Eir Security
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+Retitle Rule 2339 to {The Person Agora}.
+ Amend Rule 2339 to {Agora is a person.}.
+ Enact a Power-3 rule with title {Causing Agora To Act} and text
+ {
+ When Agora is a person, any player CAN cause em to take actions that
+ are not otherwise IMPOSSIBLE without objection.
+ }.
+ Amend Rule 2351 by appending the sentence
+ {Causing Agora to act is secured.} to the end of it.

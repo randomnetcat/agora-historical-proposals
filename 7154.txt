@@ -1,0 +1,26 @@
+ID: 7154
+Title: fix to 1023
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+ Amend Rule 1023 by replacing the text
+ {
+  Agoran weeks begin at midnight UTC on Monday.
+ }
+ with
+ {
+  An Agoran week begins at the start of the first Agoran day that starts
+  simultaneous with or later than a the start of a Monday in the UTC
+  timezone.
+ }
+ and replacing the text
+ {
+  Agoran months begin at midnight UTC on the first day of each Gregorian
+  month.
+ }
+ with
+ {
+  An Agoran month begins when the first Agoran day contained within a
+  Gregorian month begins in the UTC timezone.
+ }.

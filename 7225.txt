@@ -1,0 +1,32 @@
+ID: 7225
+Title: Fix my crappy wording
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[Depending on how you interpret it, this might block submission of
+proposals with an adoption index but no Chamber.]
+
+Amend Rule 2350 (Proposals) by replacing:
+
+     A proposal is a type of entity consisting of a body of text.  A
+     player CAN create a proposal by announcement, specifying its
+     text and optionally specifying the following attributes:
+
+     * An associated title.
+     * A list of co-authors (which must be persons other than the
+       author).
+     * An adoption index and Chamber.
+
+with:
+
+     A proposal is a type of entity consisting of a body of text and
+     other attributes.  A player CAN create a proposal by
+     announcement, specifying its text and optionally specifying any
+     of the following attributes:
+
+     * An associated title.
+     * A list of co-authors (which must be persons other than the
+       author).
+     * An adoption index.
+     * A Chamber.

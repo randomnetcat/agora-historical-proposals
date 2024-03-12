@@ -1,0 +1,8 @@
+ID: 7229
+Title: Bully pulpit
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2347 (Speed) by replacing "the President CAN flip the Speed
+to Normal or Fast" by "the President SHALL flip the Speed".

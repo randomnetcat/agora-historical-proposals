@@ -1,0 +1,7 @@
+ID: 7251
+Title: Reduction
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1
+
+In Rule 2105, replace 'CANBERRA' with 'CAMBRA  '.

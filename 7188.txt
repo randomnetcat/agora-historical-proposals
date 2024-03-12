@@ -1,0 +1,12 @@
+ID: 7188
+Title: Supporting Crime Is Criminal
+Author: 441344
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with title {Supporting Crime Is Criminal}
+ and text {
+   If an action performed with N Support or with Agoran Consent is a
+   Class-M Crime, supporting that action is the Class-(M-1) Crime of
+   Supporting Crime.
+ }.

@@ -1,0 +1,9 @@
+ID: 7228
+Title: No news is slow news
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2347 (Speed) by replacing "tracked by the Assessor" with
+"tracked by the Assessor (in eir monthly report if it has not been
+changed in the past month)".

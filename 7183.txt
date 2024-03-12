@@ -1,0 +1,33 @@
+ID: 7183
+Title: Only Some Persons
+Author: G.
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 101 (The Rights of Agorans) by replacing:
+      BE IT HEREBY PROCLAIMED that no interpretation of Agoran law or
+      binding agreement may substantially limit or remove a person's
+      rights as defined by this Rule, except through the explicit and
+      legal amendment of this Rule.  This rule takes precedence over
+      any rule which would allow or mandate restrictions of the rights
+      contained herein.
+with:
+      BE IT HEREBY PROCLAIMED that no interpretation of Agoran law or
+      binding agreement may substantially limit or remove a person's
+      rights as defined by this Rule, except through the explicit and
+      legal amendment of this Rule.  For the purposes of this Rule,
+      a "person" is defined strictly as any unique biological organism
+      that is generally capable of initiating the communication of
+      independent thought, and a "player" is any such organism that
+      is also a player of Agora.
+
+      This rule takes precedence over any rule which would allow or
+      mandate restrictions of the rights contained herein.
+
+[It's often bothered me that R101 could be gotten around by redefining
+"person" (for example via R2150).  This creates an independent
+definition (though nearly identical to the first-class person
+definition) so R101 is self-contained and any rights-changes for
+real persons must occur through R101.  At the same time, this gets
+rid of rights in general for rules-defined persons - they shouldn't
+have them - down with corporate rights!].

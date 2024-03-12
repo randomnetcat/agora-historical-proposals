@@ -1,0 +1,16 @@
+ID: 7187
+Title: Anyone Can Mislead The Leader
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2326 by replacing the text {
+   A first-class Player CAN cause the President to take actions Without
+   Objection, or with Agoran Consent.
+ } with {
+   A first-class Player CAN cause the President to take actions that
+are not
+   otherwise IMPOSSIBLE, Without Objection, or with Agoran Consent. Causing
+   the President to perform ILLEGAL actions in this manner is the Class-6
+   crime of Misleading the Leader.
+ }.

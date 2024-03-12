@@ -1,0 +1,17 @@
+ID: 7168
+Title: Dignified Silence
+Author: G.
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2318 (Motions to Reconsider) by appending the following
+paragraph:
+
+       If the judge has not published a new judgement for the case
+       asap after the motion is so filed, and remains the judge of
+       the case throughout that time, then the prior judgement is
+       assigned to the case again.
+
+
+[Still preferable for the judge to respond, but makes it clear that
+  the judge's original opinion has primacy over the motions].

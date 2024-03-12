@@ -1,0 +1,8 @@
+ID: 7210
+Title: The Map Is The Territory
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2105 (The Map of Agora) by replacing "COPPRO STRAIGHT" with
+"COOK SCSTRAIGHT".

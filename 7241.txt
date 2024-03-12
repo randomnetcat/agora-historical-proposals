@@ -1,0 +1,21 @@
+ID: 7241
+Title: Super Promotor Powers
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2350 (Proposals) by appending:
+
+     If a decision of whether to adopt a proposal was resolved as
+     FAILED QUORUM in the last seven days, the Promotor CAN once add
+     the proposal back to the Proposal Pool by announcement.
+
+Amend Rule 1607 (Distribution) by replacing:
+
+     The distribution of a proposal initiates the Agoran decision of
+     whether to adopt the proposal, as described elsewhere.
+
+with:
+
+     The distribution of a proposal initiates an Agoran decision of
+     whether to adopt the proposal, as described elsewhere.

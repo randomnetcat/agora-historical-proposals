@@ -1,0 +1,29 @@
+ID: 7214
+Title: plagiarism
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Create a Power-2 Rule titled "Certificates":
+
+     A Player who performs one of the following actions without being
+     certified for that action has er Voting Limit on Ordinary
+     Proposals reduced by two (to a minimum of 0):
+
+     * Submitting a ballot for distributed proposals
+     * Supporting or opposing a dependent action
+     * Submitting a proposal for distribution
+
+     Players become certified for an action by obtaining a
+     Certificate. A Certificate is owned by a player, but is not
+     Property and may not be traded or exchanged. Each Certificate
+     allows a Player to perform one specific type of action. Each
+     certificate has an expiration date. The holder of a Certificate
+     may exercise the action specified in the certificate freely
+     while that Certificate is valid, unless constrained by another
+     rule or binding agreement. When the expiration date of a
+     Certificate is reached, it becomes invalid and ceases to exist.
+
+     A Player may hold any number of Certificates, and holding a
+     Certificate does not prevent another Player from holding a
+     Certificate of the same type.

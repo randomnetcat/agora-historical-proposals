@@ -1,0 +1,18 @@
+ID: 7245
+Title: Proposal reassociation
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2350 (Proposals) by replacing:
+
+     Once a proposal is created, none of its attributes can be
+     changed.  The author (syn. proposer) of a proposal is the person
+     who submitted it.
+
+with:
+
+     Creating a proposal adds it to the Proposal Pool.  Once a
+     proposal is created, none of its attributes can be changed.  The
+     author (syn. proposer) of a proposal is the person who submitted
+     it.

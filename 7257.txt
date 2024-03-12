@@ -1,0 +1,12 @@
+ID: 7257
+Title: Personhood and Playerhood of Nomics
+Author: 441344
+Co-authors: 
+Adoption index: 2
+
+Create a Power-2 rule with title {Personhood and Playerhood of Nomics} and text
+ {
+    Nomics are second-class persons. Rules to the contrary
+    notwithstanding, Nomics with a Recognition of Sanctioned or Hostile
+    are not players, CANNOT be players, and are immediately deregistered
+    if they are players.

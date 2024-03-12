@@ -1,0 +1,8 @@
+ID: 7161
+Title: Agora Is Quite Powerful
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+ If a rule with title {The Power Of Agora} exists and the power of that
+ rule is less than 3, change the power of that rule to 3.

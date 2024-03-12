@@ -1,0 +1,24 @@
+ID: 7238
+Title: math downgrade
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Repeal Rule 2146 (Indices).
+
+Amend Rule 955 (Determining the Will of Agora) by replacing:
+
+     (b) If the decision has an adoption index, then the voting index
+         is the ratio of the strength of FOR to the strength of
+         AGAINST.  If the voting index is greater than 1, and greater
+         than or equal to the decision's adoption index, then the
+         outcome is ADOPTED; otherwise, the outcome is REJECTED.
+
+with:
+
+     (b) If the decision has an adoption index, then if the strength
+         of FOR is greater than the strength of AGAINST, and the
+         ratio of the strength of FOR to the strength of AGAINST is
+         greater than or equal to the decision's adoption index (or
+         the strength of AGAINST is zero), then the outcome is
+         ADOPTED; otherwise, the outcome is REJECTED.

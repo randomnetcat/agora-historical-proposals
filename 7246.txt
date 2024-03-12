@@ -1,0 +1,17 @@
+ID: 7246
+Title: Adoption reassociation
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 106 (Adopting proposals) by replacing:
+
+     If the option selected by Agora on a decision about whether to
+     adopt a proposal is ADOPTED, then the proposal in question is
+     adopted,
+
+with:
+
+     When a decision about whether to adopt a proposal is resolved,
+     if the option selected by Agora is ADOPTED, then the proposal in
+     question is adopted,

@@ -1,0 +1,22 @@
+ID: 7259
+Title: Kick out the Jams, er, Platonists
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 208 (Resolving Agoran decisions) by appending this text:
+
+     In general, changes to the gamestate due to the outcome of an
+     Agoran decision take effect when the decision is resolved.
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+     If the option selected by Agora on a decision about whether to
+     adopt a proposal is ADOPTED, then the proposal in question is
+     adopted,
+
+with this text:
+
+     Upon the resolution of an Agoran decision whether to adopt a
+     proposal on which the option selected by Agora is ADOPTED, that
+     proposal is adopted,

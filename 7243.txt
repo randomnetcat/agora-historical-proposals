@@ -1,0 +1,7 @@
+ID: 7243
+Title: Effective Ballot Fees
+Author: 441344
+Co-authors: Murphy
+Adoption index: 2
+
+Change the power of Rule 2364 (Ballot Fees) to 2.

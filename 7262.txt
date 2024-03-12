@@ -1,0 +1,25 @@
+ID: 7262
+Title: Fix
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[Re-apply the effects of 6806.]
+
+Increase Rule 1551 (Ratification)'s power to 3.1.
+
+[Re-apply the effects of 6607.]
+
+Amend Rule 1769 by replacing
+   b) the future event would occur during a Holiday, then the
+      future event occurs 72 hours after the end of that Holiday
+      instead.
+with
+   b) the future event would occur during a Holiday or during the
+      72 hours immediately following a Holiday, then the future
+      event occurs 72 hours after the end of that Holiday instead.
+
+[And ratify.]
+
+Ratify the document titled "Short Logical Ruleset" published by omd on
+or around 24 June 2012 19:34 UTC .

@@ -1,0 +1,28 @@
+ID: 7253
+Title: DEFENSE FIX Mk II
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2357 by replacing the sentence beginning
+ {
+ Any Elder, with 4 Elder Support, CAN set the Adoption Index of any
+ Agoran Decision with an Adoption Index
+ }
+ with
+ {
+ Any Elder, with 4 Elder Support, CAN set the Adoption Index of any
+ Agoran Decision with an Adoption Index to Unanimity.
+ }.
+
+ Amend Rule 1950 by replacing the sentence beginning
+ {
+ Adoption index is a switch possessed by Agoran decisions, whose
+ value is either "none" (default) or an integral multiple of 0.1 from
+ }
+ with
+ {
+ Adoption index is a switch possessed by Agoran decisions, whose
+ value is either "none" (default) or an integral multiple of 0.1 from
+ 1.0 to 9.9 or Unanimity.
+ }.

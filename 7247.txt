@@ -1,0 +1,20 @@
+ID: 7247
+Title: no more almost-switches
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[All switches should be tracked by someone, but if the Rules forget to
+specify an officer (or even, arguably, if the office is vacant), the
+switch shouldn't fail to meet the definition and be in a limbo state
+depending on precedence.  There was a recent case about this but I
+don't remember the details.]
+
+Amend Rule 2162 (Switches) by replacing:
+
+     c) Exactly one officer who tracks instances of that switch.
+
+with:
+
+     c) Optionally, exactly one office whose holder tracks instances
+        of that switch.

@@ -1,0 +1,67 @@
+ID: 7236
+Title: plagiarized unspeed
+Author: omd
+Co-authors: Murphy
+Adoption index: 3
+
+[A copy of Proposal 7190, which failed quorum a few months ago.]
+
+Repeal Rule 2347 (Speed).
+
+Amend Rule 1023 (Common Definitions) by replacing this text:
+
+   (a) The phrases "in a timely fashion" and "as soon as possible"
+       mean "within X days", where X is 14 when the Speed is Slow,
+       7 when it is Normal and 5 when it is Fast. This time period
+       is set when the requirement is created (ie. X days before
+       the limit ends).
+
+with this text:
+
+   (a) The phrases "in a timely fashion" and "as soon as possible"
+       mean "within 7 days". This time period is set when the
+       requirement is created (ie. 7 days before the limit ends).
+
+Amend Rule 1728 (Dependent Actions) by replacing this text:
+
+    a) A person (the initiator) announced intent to perform the
+       action, unambiguously and clearly specifying the action and
+       method(s) (including the value of N for each method), at
+       most fourteen days earlier, and (if the action depends on
+       objections or notice) at least X days earlier, where X is a
+       number which depends on the Speed at the time of intention
+       as follows: Slow: 5, Normal: 4, Fast: 2.
+
+with this text:
+
+    a) A person (the initiator) announced intent to perform the
+       action, unambiguously and clearly specifying the action and
+       method(s) (including the value of N for each method), at
+       most fourteen days earlier, and (if the action depends on
+       objections or notice) at least 4 days earlier.
+
+Amend Rule 2143 (Official Reports and Duties) by replacing this text:
+
+   a) If any task is defined by the rules as part of that office's
+      weekly duties, then the holder of that office SHALL perform
+      it at least once each week, except if the Speed is Slow, in
+      which case the duties SHALL be completed once each fortnight.
+
+with this text:
+
+   a) If any task is defined by the rules as part of that office's
+      weekly duties, then the holder of that office SHALL perform
+      it at least once each week.
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+   The publication of such a valid notice initiates the voting
+   period for the decision. Where {X, Y} is a given Speed followed
+   by a number of days, the voting period lasts for Y days when the
+   Speed is X at the time of initiation: {Slow, 14}, {Normal, 7},
+   {Fast, 5}.
+
+with this text:
+
+   The publication of such a valid notice initiates the voting
+   period for the decision. The voting period lasts for 7 days.

@@ -1,0 +1,13 @@
+ID: 7203
+Title: Vote early and often
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+If Rule 683 (Voting on Agoran Decisions) defines the default voting
+limit of an eligible voter on an Agoran decision, then amend Rule
+2154 (Election Procedure) by removing this text:
+
+      3) Each eligible voter's voting limit is one.
+
+and renumbering 4) to 3).

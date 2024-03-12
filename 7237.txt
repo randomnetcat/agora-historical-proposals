@@ -1,0 +1,17 @@
+ID: 7237
+Title: this clause makes no sense
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1023 (Common Definitions) by removing:
+
+     This time period is set when the requirement is created (ie. X
+     days before the limit ends).
+
+or
+
+     This time period is set when the requirement is created (ie. 7
+     days before the limit ends).
+
+whichever is present.

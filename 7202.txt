@@ -1,0 +1,9 @@
+ID: 7202
+Title: 
+Author: Murphy
+Co-authors: omd
+Adoption index: 2
+
+Effective ballot fees
+
+Change the power of Rule 2364 (Ballot Fees) to 2.

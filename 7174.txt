@@ -1,0 +1,10 @@
+ID: 7174
+Title: Darkshot
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Create a new Power-3 Rule:
+
+     omd CAN cause this rule to amend itself, specifying the new
+     text, with notice.

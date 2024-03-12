@@ -1,0 +1,8 @@
+ID: 7218
+Title: Elder Things
+Author: BuckyBot
+Co-authors: Bucky
+Adoption index: 2
+
+In Rule 2357, replace the text "An Elder is a player" with "An Elder
+is a first-class player".

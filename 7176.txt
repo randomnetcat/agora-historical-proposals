@@ -1,0 +1,33 @@
+ID: 7176
+Title: Scrap Restricted Behaviour
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2125 (Regulation regulations) by replacing the text
+ {
+     d) The rules explicitly state that it MAY be performed while
+        certain conditions are satisfied.  Except as allowed by the
+        rules, performing such an action is the Class-N Crime of
+        Restricted Behavior, where N is the maximum power of the
+        rules explicitly allowing it (rounded up as needed to become
+        a valid Class of Crime).
+
+     e) It would, as part of its effect, modify information for which
+        some player is required to be a recordkeepor.  Such an action
+        CANNOT modify that information except as allowed by the
+        rules.
+
+     f) A judicial finding has determined that it is regulated, and
+        has not been superseded by subsequent legislation.
+ }
+ with the text
+ {
+     d) It would, as part of its effect, modify information for which
+        some player is required to be a recordkeepor.  Such an action
+        CANNOT modify that information except as allowed by the
+        rules.
+
+     e) A judicial finding has determined that it is regulated, and
+        has not been superseded by subsequent legislation.
+ }

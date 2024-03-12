@@ -1,0 +1,17 @@
+ID: 7244
+Title: Possibly fix costs
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Change the power of Rule 2354 (Costs) to 3, and amend it by replacing:
+
+     The documents defining the conditions for performing an action
+     can specify another action as a cost; paying the cost becomes a
+     condition for performing the original action.
+
+with:
+
+     A document defining an action as a cost for another action
+     thereby defines paying the cost as a condition to successfully
+     perform the latter action.

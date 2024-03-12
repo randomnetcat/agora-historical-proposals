@@ -1,0 +1,22 @@
+ID: 7204
+Title: Golem fix
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Change the power of Rule 2361 (Slave Golems) to 3, and amend it by
+replacing "cause it to take actions that are not otherwise IMPOSSIBLE"
+with "send a public message on its behalf".
+
+[The current mechanism has weird interactions with higher-powered
+Rules and actions that are performed by sending a message rather than
+by announcement, and I am skeptical that my recent scam failed in a
+way that is not patchable (unless Golems are generally unable to act).
+ In particular, even if the mechanism is part of the specification of
+an action, since Golems are *not* sending messages and no rule is
+pretending they are, it's equally valid to say "I cause my Golem to do
+X without objection" as "I cause my Golem to do X by announcement"
+(since "by announcement" is defined with reference to sending
+messages) - in both cases the purported mechanism is a lie.  I would
+have brought this up in CFJ 3171, but I wasn't thinking straight.
+Durr.]

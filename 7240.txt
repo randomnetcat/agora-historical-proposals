@@ -1,0 +1,16 @@
+ID: 7240
+Title: Subsidize voting drives
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2365 (Pool Fees) to read:
+
+     Rules to the contrary notwithstanding, if at least five
+     non-subsidized proposals have been created earlier in the week,
+     then creating a non-subsidized proposal has a cost of 1 ruble.
+
+     A proposal is subsidized if and only if, when submitted, it is
+     clearly labeled as a re-submission of another proposal with
+     identical or substantially similar text on which a decision
+     failed quorum within the past month.

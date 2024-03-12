@@ -1,0 +1,10 @@
+ID: 7185
+Title: {Confusing} is enough
+Author: 441344
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2170 by replacing the sentence that begins with
+ {A player SHALL NOT select a confusing nickname, including}
+ with
+ {A player SHALL NOT select a confusing nickname.}.

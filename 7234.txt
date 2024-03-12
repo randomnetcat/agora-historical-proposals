@@ -1,0 +1,15 @@
+ID: 7234
+Title: Notability is usually uncontroversial, but support is sometimes lacking
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2340 (Notability) by replacing:
+
+     A player CAN, with two support, make a case Notable. A player
+     CAN, without two objections, make a case Incidental.
+
+with:
+
+     A player CAN, without two objections, flip the Notability of a
+     specified case.

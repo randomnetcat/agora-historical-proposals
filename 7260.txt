@@ -1,0 +1,9 @@
+ID: 7260
+Title: Golem radar
+Author: Murphy
+Co-authors: Bucky
+Adoption index: 2
+
+(may have a 1-ruble fee, in which case I pay it)
+
+Amend Rule 2361 (Slave Golems) by removing "in this manner".
