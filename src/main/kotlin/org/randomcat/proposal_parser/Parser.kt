@@ -7,6 +7,7 @@ import org.randomcat.proposal_parser.distributions.*
 import java.math.BigInteger
 import java.nio.file.Files
 import java.nio.file.Path
+import java.nio.file.StandardOpenOption
 import java.time.LocalDate
 import java.util.*
 
@@ -135,12 +136,12 @@ Adoption index: ${proposal.ai}
 ${proposal.text}
 """.trim()
 
-//            Files.writeString(
-//                outPath.resolve(proposal.number.toString() + ".txt"),
-//                proposalText,
-//                Charsets.UTF_8,
-//                StandardOpenOption.CREATE,
-//            )
+            Files.writeString(
+                outPath.resolve(proposal.number.toString() + ".txt"),
+                proposalText,
+                Charsets.UTF_8,
+                StandardOpenOption.CREATE,
+            )
 
             println("Got number: ${proposal.number}")
 
