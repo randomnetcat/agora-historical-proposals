@@ -2649,6 +2649,391 @@ fun Message.isIgnoredDistribution(): Boolean {
 }
 
 private val SUBJECT_OVERRIDE_TEXT_MAP = mapOf(
+    // Fill in numbers from "Re: OFF: Distribution of Proposals (not enough time to figure out numbers)"
+    "OFF: Distribution of Proposals (not enough time to figure out numbers)" to """
+ No.    | Title                         | By       | AI | Date    | Flag
+        |                               |          |    |         |
+4461    | Fix Dependent Actions         | Maud     |  2 | 13Feb03 | D
+4462    | Saner Thesis Committees       | Goethe   |  1 | 18Feb03 | o
+4463    | Full Discretion Fix           | Cecilius |  1 | 01Mar03 | o
+4464    | Clarify AI, Take 2            | root     |  3 | 02Mar03 | D
+4465    | Fnord                         | Maud     |  1 | 02Mar03 | Dc
+4466    | Try Again, Part 2             | Murphy   |  4 | 26Feb03 | D
+4467    | Quick Fix in R1929            | OscarMyer|  1 | 04Mar03 | D
+4468    | Clarify R1976                 | Cecilius |  1 | 04Mar03 | D
+4469    | Heavy Weather                 | Sherlock |  1 | 08Mar03 | o
+
+o: Ordinary D: Democratic P: Parliamentary
+d: disinterested  u: urgent  s: sane  c: contested
+-----------------------------------------------------------------------
+
+Text of proposals are below:
+
+-----------------------------------------------------------------------
+
+Proposal 4461 by Maud, AI=2, Democratic
+Fix Dependent Actions
+
+Amend rule 1728 (Dependent Actions) by replacing the text "positive integer"
+with the text "nonnegative integer".
+
+-----------------------------------------------------------------------
+
+Proposal 4462 by Goethe, AI=1, ordinary
+Saner Thesis Committees
+
+Saner Thesis Committees
+
+[ V 1.0
+- Brings sanity to committee selection by making non-Chair choices
+    the responsibility of a "neutral" officer rather than by Opposites.
+    Hopefully the neutral Officer will balance the process without
+    requiring complicated algorithms.
+  - Like current system, first two committee members are players, third
+    may be any person.
+  - Allows some measure of academic feedback/exchange between candidate
+    and committee (drafts, commentary).  Under the current system a typo
+    would become part of a thesis forever unless a new committee were
+    formed.  More importantly the Committee can now request revisions
+    rather than accept or reject (and still reject if the work is below
+    standards).
+  - Allows termination of the process and thus would not choke an
+    arbitrary Turing Thesis Committee (currently, all past committee
+    members are still committee members).
+]
+
+Amend 1370 to read:
+
+     A person becomes a Candidate for a Degree when e publishes a
+     Thesis Draft, authored by emself, along with a statement explicitly
+     indicating that the Thesis Draft is being submitted with the intent
+     to qualify for a particular degree.
+
+     If the Candidate is a Player, e may choose another Player to be the
+     first member of eir Thesis Committee, called eir Chair, with the
+     Chair's consent.  For non-players, or if no other Player consents to
+     be the Chair within one month of draft submission, the Speaker will
+     serve as Chair.
+
+     If the Speaker is neither the Chair nor the Candidate, the Speaker
+     shall appoint a Player who is neither the Chair nor the Candidate to
+     be the second Committee member.  Otherwise, the Justiciar shall so
+     appoint, unless the Chair or the Candidate is the Justiciar, in which
+     case the Clerk of the Courts shall so appoint.  The two Committee
+     members shall then select, by mutual consent, a third person who is
+     not the Candidate to be the third Committee member.
+
+     The Committee shall examine the Candidate and eir Thesis to determine
+     eir qualifications for the Degree.  The Candidate may publish a new
+     Thesis Draft at any time, in response to Committee requests or of eir
+     own choosing, by indicating it is a new Thesis Draft for the same
+     Degree.
+
+     If the Committee is dissolved without granting a degree, the Committee
+     ceases to be a Committee, and the Candidate ceases to be a Candidate,
+     and any existant Thesis Draft must be republished and subject to a
+     new Committee selection to be eligible for a Degree.
+
+     The Chair of a Thesis Committee may dissolve the Committee without
+     granting a degree, with the consent of at least one other Committee
+     member.  To so dissolve, the Chair must publish a notice of intent to
+     dissolve at least 14 days before dissolving.  The Candidate may so
+     dissolve the Committee at any time by public announcement.
+
+     The Chair of the Thesis Committee for a particular Candidate may
+     award that Degree to the Candidate if and only if:
+
+      * the Candidate has satisfied all prerequisites in the rules for
+        the award of that Degree;
+      * a majority of members of the Thesis Committee agree that the
+        most recent Thesis draft produced by the Candidate is worthy
+        of the Degree to be granted; and
+      * fewer than seven years have passed since that Committee was
+        formed.
+
+      Each Committee Member may have up to 14 days after a Degree is awarded
+      to publish a Commentary for the Thesis.  After that time, the Chair
+      shall publish the most recent Thesis Draft along with all Commentary
+      so published.  This combined publication shall become the Final 
+Thesis.
+      Upon publication of this Final Thesis the Committee members cease to
+      be Committee members for that Thesis.
+
+      The Rulekeepor shall retain a copy of each Final Thesis.
+
+
+Upon the adoption of this Proposal, all Theses that have resulted in
+the past awarding of Degrees shall be considered Final Theses.
+
+If any Theses have been published in the last 6 months but degrees
+not yet been awarded nor explicitly been turned down for awarding,
+then those Theses become Thesis drafts, and any
+appointed chairs or committee members remain chairs or committee
+members.  All other chairs and committee members cease to be chairs
+or committee members.
+
+Enact the following Rule entitled "Awardable Degrees":
+
+      The Degree of Associate of Nomic requires a Thesis of at least
+      150 words.  A Candidate who already holds an AN Degree receives
+      a credit of 100 words towards the Thesis requirement for any
+      higher Degree, unless the Candidate also holds a BN Degree.
+
+      The Degree of Bachelor of Nomic requires a Thesis of at least
+      500 words.  A Candidate who already holds an BN Degree receives
+      a credit of 250 words towards the Thesis requirement for any
+      higher Degree.
+
+      The Degree of Doctor of Nomic History requires a Thesis of at
+      least 750 words and containing a narrative covering significant
+      events which have occurred in Agora within the eight weeks prior
+      to the publication of the Thesis.
+
+      The Degree of Master of Nomic requires a Thesis of at least 750
+      words.
+
+      The Degree of Doctor of Nomic Philosophy requires a Thesis of at
+      least 1000 words, and that the candidate has also published an
+      additional creative work authored by emself whose topic or theme
+      is related to Agora or Nomic in general.
+
+-----------------------------------------------------------------------
+
+Proposal 4463 by Steve, AI=1, ordinary
+Full Discrition Fix
+
+Amend Rule 1712 (Distribution of Indulgences) by replacing the words "zero 
+or negative" with the words "less than one".
+
+-----------------------------------------------------------------------
+
+Proposal 4466 by Murphy, AI=4, Democratic
+Try Again, Part 2
+
+Proposal:  Try Again, Part 2 of 3
+(AI=4, please)
+
+[Put epochs in their place.]
+
+Upon the adoption of this Proposal, the Gamestate becomes what it would be 
+if
+all relative durations expressed in terms of epochs were interpreted as 
+having
+their ordinary-language meaning, Rule 459 (Agoran Epochs) notwithstanding.
+
+Amend Rule 459 (Agoran Epochs) to read:
+
+      Days, weeks, months, quarters, and years are epochs.  The
+      corresponding Agoran epochs are Agoran days, Agoran weeks,
+      Agoran months, Agoran quarters, and Agoran years, respectively.
+
+      Agoran days begin at midnight GMT.  Agoran weeks begin at midnight
+      GMT on Monday.  Agoran months begin at midnight GMT on the first
+      day of each Gregorian month.  Agoran quarters begin when the Agoran
+      months of January, April, July, and October begin.  Agoran years
+      begin when the Agoran month of January begins.  An Agoran epoch
+      lasts until the next Agoran epoch of the same type begins.
+
+      Except in this Rule, when the Rules refer to an epoch as an
+      independent entity (e.g. "each month"), they shall be interpreted
+      as referring to the corresponding Agoran epoch.  However, when the
+      Rules refer to an epoch as a relative duration (e.g. "one month
+      after", "within one month", "for one month"), they shall be
+      interpreted as referring to the ordinary-language meaning of that
+      duration.
+
+      Automatic events that happen daily, weekly, monthly, quarterly, or
+      yearly happen at the beginning of the corresponding Agoran
+      epoch.  Any activity that must be performed daily, weekly, monthly,
+      quarterly, or yearly must be performed at least once during each
+      corresponding Agoran epoch.
+
+      Other Rules may explicitly define alternate schedules for events
+      or classes of events.
+
+Create a Power=4 Rule titled "Ghost Rock Cannon, Part 2 of 3" with this 
+text:
+
+      SEELED
+
+-----------------------------------------------------------------------
+
+Proposal 4465 by Maud, AI=1, Democratic, contested
+Fnord
+
+-----------------------------------------------------------------------
+
+Proposal 4464 by root, AI=3, Democratic
+Clarify AI, Take 2
+
+Amend Rule 594 by deleting the text reading:
+
+       The Adoption Index of a Proposal is the maximum of 1, the value
+       requested by its Proposer (if any), and the value required for
+       that Proposal by the Rules (if any).
+
+Create a Power-3 Rule titled "Adoption Indices", reading:
+
+       1) The Default Adoption Index of a Proposal is the maximum of:
+
+          a) 1; and
+          b) any minimum values required for that Proposal by the Rules.
+
+
+       2) The Proposer of a Proposal may, at the time when e submits the
+          Proposal or at any time while it is in the Pool, request an
+          Adoption Index for that Proposal by announcement, specifying the
+          requested value.
+
+
+       3) When a Proposal is distributed, its Adoption Index is set to
+          the maximum of:
+
+          a) its Default Adoption Index; and
+          b) any values requested by its Proposer as permitted in 2).
+
+
+       4) This is the only mechanism for setting or changing the Adoption
+          Index of a Proposal.  This Rule takes precedence over Rules that
+          would allow other mechanisms for setting or changing the Adoption
+          Index of a Proposal.
+
+-----------------------------------------------------------------------
+
+Proposal 4467 by OscarMyer, AI=1, Democratic
+Quick Fix in R1929
+
+Quick Fix in R1929
+(AI=1)
+
+Amend Rule 1929 by replacing the text reading:
+
+         -- It must be the first such notification for that specific
+            event
+
+with text reading:
+
+         -- It must be the first valid notification for that specific
+            event
+
+-----------------------------------------------------------------------
+
+Proposal 4468 by Sherlock, AI=1, Democratic
+Clarify R1976
+
+Amend Rule 1976 (Mentors' Bonus) to read:
+
+      In the four weeks immediately after eir Grace Period ends, a
+      Player (hereafter, the 'Protege') may award a Mentor's Bonus to
+      each Player (hereafter, a 'Mentor') e deems to have been helpful
+      to em as a new Player.
+
+      Each award is made by public announcement and must specify the
+      Mentor's name and a number of Stems. Upon such an announcement
+      the Bank shall incur a debt of that number of Stems to the named
+      Mentor.  The number of Stems a Protege may award in all of eir
+      Mentor's Bonuses shall not exceed the number of Stems in the New
+      Player Award.
+
+-----------------------------------------------------------------------
+
+Proposal 4469 by OscarMyer, AI=1, ordinary
+Heavy Weather
+
+Amend Rule 2011 (Stems Weather) by retitling it "Weather" and making it
+read:
+
+      Each Bank currency shall have an associated switch named Forecast.
+      Forecast may have two states: Clear and Stormy.  The Treasuror
+      may flip any such switch.
+
+      As soon as possible after the beginning of each month, the
+      Treasuror shall randomly Determine the Weather for each currency
+      whose Forecast is Stormy.  The Weather can be one of either Foul,
+      Fair, or Plenty, and shall be determined as follows:
+
+        - Let FOUL be the number of that Bank currency owned by the
+          Bank, multiplied by the Foul Weather Factor for that
+          currency as set in the Treasuror's Budget, and then rounded
+          up to the nearest integer.
+        - Let PLENTY be the number of that currency owned by all
+          Entities, excluding the Bank.
+        - Let SAME and FAIR both be the sum of FOUL and PLENTY,
+          divided by 4, rounding up to the nearest integer.
+        - Let TOTAL by the sum of FOUL, PLENTY, SAME, and FAIR.
+        - The weather shall be determined using the following
+          probabilities:
+                (FOUL   / TOTAL)  Foul.
+                (FAIR   / TOTAL)  Fair.
+                (PLENTY / TOTAL)  Plenty.
+                (SAME   / TOTAL)  Same as the previous month.
+
+      When the Treasuror posts eir Determination of the Weather for a
+      month, the following events shall occur in the listed sequence
+      immediately after the Weather is Determined:
+
+           (a) A number of that currency in the Bank's possession,
+               equal to the number of Players in the game multiplied
+               by the Minimum Income, multiplied by the Weather
+               Intensity Factor as set in the Treasuror's Budget, and
+               then rounded up to the nearest integer, shall be
+               Destroyed. If this value is greater than the number of
+               that currency in the Possession of the Bank, all of that
+               currency in the Possession of the Bank shall be Destroyed
+               instead.
+           (b) A number of that currency shall be Created in the Bank's
+               Possession, equal to the number Destroyed in (a) above
+               multiplied by:
+                    0.50 if the Weather is Foul;
+                    1.00 if the Weather is Fair;
+                    1.50 if the Weather is Plenty.
+
+      The Treasuror shall announce the number of currency Created and
+      Destroyed by this Rule in the message in which e announces the
+      Weather for that currency.
+
+      The Bank may not otherwise Mint new units of a Bank Currency
+      except through the mechanism set forth in this Rule.
+
+Repeal Rule 1974 (Restriction on Minting of Bank Currencies by the Bank).
+
+Amend Rule 2022 (Sente and Gote) by replacing the text that reads:
+
+                     * if the Weather is Plenty, 3 Stems for each 5
+                       Land Units with Sente that e owns;
+                     * if the Weather is Fair, 2 Stems for each 5
+                       Land Units with Sente that e owns;
+                     * if the Weather is Foul, 1 Stem for each 5
+                       Land Units with Sente that e owns;
+
+   with the text:
+
+                     * if the Weather for Stems is Plenty, 3 Stems
+                       for each 5 Land Units with Sente that e owns;
+                     * if the Weather for Stems is Fair, 2 Stems for
+                       each 5 Land Units with Sente that e owns;
+                     * if the Weather for Stems is Foul, 1 Stem for
+                       each 5 Land Units with Sente that e owns;
+
+Amend Rule 1893 (The Treasuror's Budget) by replacing the text that reads:
+
+      The Treasuror's Budget shall also contain the Foul Weather
+      Factor and the Weather Intensity Factor. Both are numbers
+      between 0 and 10 inclusive that are evenly divisible by 0.1.
+
+   with the text:
+
+      The Treasuror's Budget shall also contain the Foul Weather
+      Factor and the Weather Intensity Factor for each Bank currency.
+      Both are numbers between 0 and 10 inclusive that are evenly
+      divisible by 0.1.
+
+------------------------------------------------------------------------
+
+_________________________________________________________________
+Tired of spam? Get advanced junk mail protection with MSN 8. 
+http://join.msn.com/?page=features/junkmail
+""",
     // Removed weird "Fragments in Inode" field
     "OFF: [Promotor] Distribution of Proposals 6740-6747" to """
 This distribution of proposals 6740-6747
