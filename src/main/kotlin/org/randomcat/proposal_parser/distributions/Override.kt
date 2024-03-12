@@ -2680,6 +2680,8 @@ private val IGNORED_SUBJECTS = setOf(
     // Has incorrect number in body (6403), later redistributed
     LocalDate.of(2009, 7, 17) to "OFF: [Deputy Promotor] Distribution of Proposal 6406",
     LocalDate.of(2010, 9, 7) to "OFF: [Promotor] Distribution of Proposals 6834-6841",
+    // Redistributed later
+    LocalDate.of(2012, 5, 5) to "OFF: Distribution of Proposals 7218-7226 (+ ratification)"
 )
 
 private val FORCED_SUBJECTS = setOf(
