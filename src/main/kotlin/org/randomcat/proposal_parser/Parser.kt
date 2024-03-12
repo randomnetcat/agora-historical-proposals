@@ -21,7 +21,7 @@ private fun Message.isDistributionMessage(): Boolean {
 }
 
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
-private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 6)
+private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 2)
 private val DISTRIBUTION_V2_END_DATE = LocalDate.of(2009, 5, 16)
 private val DISTRIBUTION_V3_END_DATE = LocalDate.of(2009, 10, 21)
 private val DISTRIBUTION_V4_END_DATE = LocalDate.of(2009, 10, 26)

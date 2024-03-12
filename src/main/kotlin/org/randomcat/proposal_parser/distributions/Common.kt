@@ -143,6 +143,23 @@ object SplitDistribution {
                 }
             }
     }
+
+    fun withSummaryOptEnderOptFooter(
+        fullDistributionText: String,
+        separatorRegex: Regex,
+        summarySectionRegex: Regex,
+        enderRegex: Regex,
+        footerRegex: Regex,
+    ): List<String> {
+        return SplitDistribution
+            .withSummaryAndOptFooter(
+                fullDistributionText = fullDistributionText,
+                separatorRegex = separatorRegex,
+                summarySectionRegex = summarySectionRegex,
+                footerRegex = footerRegex,
+            )
+            .takeWhile { !it.contains(enderRegex) }
+    }
 }
 
 object MetadataParsing {
