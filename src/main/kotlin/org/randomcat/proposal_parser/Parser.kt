@@ -27,6 +27,7 @@ private fun Message.isDistributionMessage(): Boolean {
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
 private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 2)
 private val DISTRIBUTION_V2_END_DATE = LocalDate.of(2009, 5, 16)
+private val DISTRIBUTION_V2a_SINGLE_DATE = LocalDate.of(2009, 7, 23)
 private val DISTRIBUTION_V3_END_DATE = LocalDate.of(2009, 10, 21)
 private val DISTRIBUTION_V4_END_DATE = LocalDate.of(2009, 10, 26)
 private val DISTRIBUTION_V5_END_DATE = LocalDate.of(2010, 6, 21)
@@ -57,12 +58,12 @@ private fun Message.parseDistribution(): List<ProposalData> {
     val date = this.date.toUtcLocalDate()
     val text = this.overriddenText() ?: this.extractPlainTextBody().normalizeLineEndings().repairBrokenSpaces()
 
-    if (contentLooksLikeReply(text)) return emptyList()
+    if (!this.isForcedDistribution() && contentLooksLikeReply(text)) return emptyList()
 
     return when {
         date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0(text)
         date < DISTRIBUTION_V1_END_DATE -> parseDistributionV1(text)
-        date < DISTRIBUTION_V2_END_DATE -> parseDistributionV2(text)
+        date < DISTRIBUTION_V2_END_DATE || date == DISTRIBUTION_V2a_SINGLE_DATE -> parseDistributionV2(text)
         date < DISTRIBUTION_V3_END_DATE -> parseDistributionV1(text) // V3 == V1
         date < DISTRIBUTION_V4_END_DATE -> parseDistributionV4(text)
         date < DISTRIBUTION_V5_END_DATE -> parseDistributionV5(text, this.backupFirstProposalNumber())

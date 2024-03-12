@@ -2645,8 +2645,16 @@ private val IGNORED_SUBJECTS = setOf(
     LocalDate.of(2010, 9, 7) to "OFF: [Promotor] Distribution of Proposals 6834-6841",
 )
 
+private val FORCED_SUBJECTS = setOf(
+    LocalDate.of(2009, 7, 23) to "OFF: Distribution of Proposals 6410-6413",
+)
+
 fun Message.isIgnoredDistribution(): Boolean {
     return IGNORED_SUBJECTS.contains(this.date.toUtcLocalDate() to this.subject)
+}
+
+fun Message.isForcedDistribution(): Boolean {
+    return FORCED_SUBJECTS.contains(this.date.toUtcLocalDate() to this.subject)
 }
 
 private val SUBJECT_OVERRIDE_TEXT_MAP = mapOf(
