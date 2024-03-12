@@ -3034,6 +3034,561 @@ _________________________________________________________________
 Tired of spam? Get advanced junk mail protection with MSN 8. 
 http://join.msn.com/?page=features/junkmail
 """,
+    // Fix numbers 6109 (6209 in summary) -> 6225 and 6110 (6210 in summary) -> 6224 based on
+    // "OFF: [Assessor] Voting results for Proposals 6211 - 6222 and 6224 - 6225" and
+    // "OFF: [Assessor] Voting Report" (Date: Sun, 26 Apr 2009 16:50:37 -0700)
+    "OFF: [Promotor] Distribution 6209 - 6222 & Report" to """
+For each of the following proposals, I initiate an Agoran Decision on
+whether to adopt the proposal. If any of the listed proposals are not in
+the Proposal Pool and are authored by myself, I first submit them.
+The valid options for these decisions are FOR, PRESENT, and AGAINST. The
+vote collector for each of these proposals is the Assessor. The adoption
+index for each proposal is given below as well as whether or not it is a
+democratic or ordinary decision. For democratic decisions, the set of
+eligible voters is the set of active first-class players as of this
+message, their voting limits are each one. For ordinary proposals, the
+set of eligible voters is the set of active players as of this message,
+their voting limits are as described in rule 2156. Eligibility and
+voting limits do not change during the election period. An ordinary
+proposal may be made democratic with 2 support; this will change the set
+of eligible voters and their voting limits. All other essential
+parameters for the decisions are listed in the header; prior to the text
+of the proposal.
+
+The following summary is provided for convenience but does not affect
+the validity of the Agoran Decisions:
+
+NUM   TITLE                                      T  AI   II  AUTHOR
+6209  Extra votes?                               D  2.0  1   comex
+6210  wrong paragraph                            D  2.0  1   comex
+6211  Refactor appeals opinions                  O  1.7  1   comex
+6212  Interpreting the rules                     D  3.0  1   Spitemaster
+6213  It's only a game                           D  3.0  1   comex
+6214  Okay, you're not playing anymore           D  2.0  1   Yally
+6215  Define contestant                          D  3.0  2   coppro
+6216  Secret ballots                             D  3.0  1   Murphy
+6217  Fix MMI                                    D  3.0  1   Murphy
+6218  Deputised duties go away                   D  3.0  1   Murphy
+6219  Joining other nomics, take 3               O  1.0  1   Tiger
+6220  Rule Change Anarchy                        D  3.0  0   Tiger
+6221  Immediate Proposal                         D  3.0  3   coppro
+6222  Proposal Withdrawals                       D  3.0  1   coppro
+
+T is the type; O for ordinary or D for democratic.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6225
+Title: Extra votes?
+Author: comex
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Amend the following paragraph in Rule 2019:
+
+     e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
+        start of an ordinary proposal's voting period has a voting
+        limit on that proposal of 1.4 times what it would be
+        otherwise (rounded to the nearest integer, breaking ties
+        toward odd integers), rules to the contrary notwithstanding.
+
+by replacing "1.4" with "1.5" and "odd" with "even".
+
+[Surely I deserve  _one_ extra vote.]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6224
+Title: wrong paragraph
+Author: comex
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Remove the second-to-last paragraph of Rule 2143 (Official Reports and
+Duties), and add the following paragraph at the end of the rule:
+
+      While performing weekly or monthly duties or publishing weekly
+      or monthly reports, officers SHALL NOT publish information that
+      is inaccurate or misleading.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6211
+Title: Refactor appeals opinions
+Author: comex
+Adoption Index: 1.7 (Ordinary)
+Interest Index: 1
+
+Amend Rule 911 (Appeals Cases) by replacing:
+
+      As soon as possible after a judicial panel is assigned, each
+      member of the panel SHALL publish an appeals opinion indicating
+      a valid and appropriate judgement to assign to the case -- only
+      the first such published opinion for each member is used to
+      determine the outcome.  Each member SHOULD include arguments for
+      eir choice of judgement.
+
+with:
+
+      As soon as possible after a judicial panel is assigned, each
+      member of the panel SHALL publish an appeals opinion indicating
+      a valid judgement to assign to the case -- only the last such
+      published opinion for each member is used to determine the
+      outcome.  Each member SHOULD choose an appropriate judgement,
+      and include arguments for eir choice.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6212
+Title: Interpreting the rules
+Author: Spitemaster
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+
+Amend rule 217 (Interpreting the rules) by replacing:
+
+      it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game.
+
+with:
+
+      it is to be augmented by consideration of the best interests of
+      the game (so that it does not cause the game to become unplayable,
+      but not taking into account any other factors yet), game custom,
+      past judgements, and common sense, in that order.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6213
+Title: It's only a game
+Author: comex
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 101 by replacing "player" with "active player" in item
+(iv), and by removing item (vii).
+
+Repeal Rule 869 (How to Join and Leave Agora).
+
+Amend Rule 2130 (Activity) to read:
+
+      Activity is a person switch with values inactive (default) and
+      active, tracked by the Registrar.  The Registrar's report
+      includes the date on which each non-active person's activity
+      last changed.
+
+      A person CAN flip eir activity by announcement.  "To go on hold"
+      or to be deactivated is to become inactive; "to come off hold"
+      or to be activated is to become active.  A player CAN flip
+      another player's activity to inactive without objection.
+
+      A person who has become inactive through a mechanism not defined
+      in this rule CANNOT become active for thirty days thereafter,
+      rules to the contrary notwithstanding.
+
+Repeal Rule 2145 (Partnerships).
+
+Amend Rule 1742 (Contracts) by removing "that has never been a
+partnership".
+
+Amend Rule 2178 (Public Contracts) by removing the paragraph starting
+with "A partnership CAN identify its contract as a public contract".
+
+Amend Rule 2200 (Nomic Definitions) by removing the paragraph starting
+with "An embassy is a registered partnership".
+
+Amend Rule 2150 (Personhood) by replacing the entire rule with:
+
+      A person is a biological organism that is generally capable of
+      communicating by email in English (including via a translation
+      service).
+
+Amend Rule 2177 (The Senate) by replacing "first-class player who has
+been registered" with "person who has been active" and by replacing
+"first-class player who is a member of the roll call" with "person who
+is a member of the roll call".
+
+Amend Rule 2228 (Rests) by removing the paragraph starting with
+"Ownership of Rests is restricted to first-class persons", and by
+replacing "A first-class player CAN" with "A person CAN".
+
+Amend Rule 2124 (Agoran Satisfaction) by replacing "first-class
+player" with "person".
+
+Amend Rule 1950 (Voting on Democratic Decisions) by replacing
+"first-class players" with "persons".
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by removing "(default
+for active first-class players and provinces)" and "(default for all
+other players)".
+
+Amend Rule 591 (Inquiry Cases) by removing "first-class".
+
+Amend Rule 1504 (Criminal Cases) by removing "first-class".
+
+Amend Rule 1868 (Judge Assignment Generally) by removing "first-class".
+
+Amend Rule 2136 (Contests) by replacing "first-class players" with
+"active persons".
+
+Amend Rule 2233 (Awarding and Revoking Points) by removing
+"first-class".
+
+Amend Rule 2233 (Victory) by removing "first-class".
+
+Amend Rule 2199 (Ribbons) by replacing:
+
+      (+W) When a first-class person becomes a player for the first
+           time, e gains a White Ribbon.  When a first-class person
+           has been a player continuously for at least three months,
+           was never a player before that period, and names another
+           player as eir mentor (and has not named a mentor in this
+           fashion before), that player gains a White Ribbon.
+
+with:
+
+     (+W) When a person becomes active for the first time, e gains a
+          White Ribbon.  When a person has been active continuously
+          for at least three months, was never active before that
+          period, and names another active person as eir mentor (and
+          has not named a mentor in this fashion before), that person
+          gains a White Ribbon.
+
+Amend Rule 1789 (Cantus Cygneus) by replacing:
+
+      As soon as possible after receiving a Cantus Cygneus, the
+      Registrar shall publish this document along with a Writ of
+      Fugere Agorae Grandissima Exprobratione, commanding the Player
+      to be deregistered. The Registrar shall note the method of
+      deregistration for that Player in subsequent Registrar Reports,
+      as long as the Player remains deregistered.
+
+      The Player is deregistered as of the posting of the Writ, and
+      the notation in the Registrar's Report will ensure that,
+      henceforth, all may know said Player deregistered in a Writ of
+      FAGE.
+
+with:
+
+      As soon as possible after receiving a Cantus Cygneus, the
+      Registrar shall publish this document along with a Writ of
+      Fugere Agorae Grandissima Exprobratione, commanding the Player
+      to be rendered inactive. The Registrar shall note the method of
+      deactivation for that Player in all subsequent Registrar
+      Reports.
+
+      The Player becomes inactive as of the posting of the Writ, and
+      the notation in the Registrar's Report will ensure that,
+      henceforth, all may know said Player deactivated emself in a
+      Writ of FAGE.
+
+Amend Rule 2229 (Just Resting) by replacing "deregistered" with "made
+inactive", and by replacing "not a player" by "inactive".
+
+Amend Rule 1922 (Defined Regular Patent Titles) by replacing
+"deregistered in" with "submitted".
+
+Amend Rule 402 (Identity of the Speaker) by replacing "registered"
+with "active".
+
+Amend Rule 2139 by replacing:
+
+      The Registrar's report includes, for each player:
+
+      a) Information sufficient to identify and contact em.
+      b) The date on which e most recently became a player.
+
+with:
+
+      The Registrar's report includes, for each active person:
+
+      a) Information sufficient to identify and contact em.
+      b) The date on which e most recently became active.
+
+
+Amend each rule, in order of ID number, by replacing "player" with
+"person".
+
+[Repeal partnerships.  Repeal playership and fall back to activity;
+everyone is a player.  This allows a more natural entrance to the
+game.  It's radical, but nomic is all about challenging the
+traditional notion of a game: why can't everyone be a player?]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6214
+Title: Okay, you're not playing anymore
+Author: Yally
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Change the text of Rule 2130 (Activity) that reads:
+
+      A player who has been continuously Inactive for at least three
+      months CAN be deregistered by any other player without
+      objection.  This is a means of honorable deregistration.
+
+to read:
+
+      A player who has been continuously Inactive for at least six
+      months CAN be deregistered by any other player by announcement.
+      A player who has been continuously Inactive for at least three
+      months but no more than six months CAN be deregistered by any
+      other player without objection. These are both means of honorable
+      deregistration.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6215
+Title: Define Contestant
+Author: coppro
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Create a new power-2 rule entitled {Contestants} with the following
+text:
+
+      In order to be a contestant of a contest, an entity must be an
+      active player, a party to that contest, and not its contestmaster.
+      An entity that does not meet these requirements CANNOT become a
+      contestant of a contest, and if an entity ever fails to meet these
+      requirements for a given contest, that entity ceases to be a
+      contestant of that contest. Changes to whether or not a player is
+      a contestant to a contest are secured.
+
+      In the text of a contest, contestant generally refers to the
+      contestants of that contest. The set of contestants of a contract
+      are that contract's contestants. Causing a player to become a
+      contestant of a contest is also know as entering em to the
+      contest; causing em to cease to be a contestent is to cause em to
+      quit the contest.
+
+      A player generally CAN enter or quit a contest by announcement,
+      subject to the normal requirements. Any player may cause another
+      player to quit a contest by announcement if that player has not,
+      in the past 90 days, been awarded points by that contest or
+      announced eir intent to remain a contestant of that contest.
+
+If Enigma is a Champion's Contest, create a new power-2 rule entitled
+{Enigma Contestant Exemption} with the following text:
+
+      For the purposes of the interpretation of the text of Enigma, a
+      contestant is a party to Enigma. This supersedes any other rule
+      defining the term.
+
+      If Enigma is not a Champion's Contest, any player may cause this
+      rule to repeal itself by announcement.
+
+Amend rule 2242 by replacing the paragraph reading:
+
+      A contest's contestmaster CAN transfer ownership of or destroy a
+      Medal in that contest's possession, but only as explicitly
+      described by the contest's text. A Medal CANNOT be transferred
+      from a contest to a player who is not a party to that contest,
+      nor to its contestmaster.
+
+with
+
+      A contest's contestmaster CAN transfer ownership of or destroy a
+      Medal in that contest's possession to a contestant of that
+      contest, but only as explicitly described by the contest's text.
+
+Amend rule 2233 by replacing each occurrence of {its other parties} with
+{its contestants}.
+
+For each contest, make each active player who is a party to that
+contract and not its contestmaster a contestant of that contest.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6216
+Title: Secret ballots
+Author: Murphy
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 107 (Initiating Agoran Decisions) by appending this text:
+
+       A decision is secret if and only if defined as such by rules
+       with Power at least 2.  Votes on a secret decision are sent
+       and retracted by sending a message to its vote collector
+       instead of sending a public message, and these actions SHALL
+       NOT be disclosed to anyone else during its voting period.
+
+Create a rule titled "Secret Proposals" with Power 2 and this text:
+
+       Once per week, a player CAN make one of eir proposals secret
+       by announcement.  The decision on whether to adopt a secret
+       proposal is secret.
+
+[Includes generalized framework for secret officer elections as well,
+with criteria TBD.]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6217
+Title: Fix MMI
+Author: Murphy
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+[Currently, the following hypothetical case:
+
+   Rule A: X MAY Y.
+   Rule B: X MAY NOT Y.
+
+ expands to
+
+   Rule A: X doing Y does not violate Rule A.
+   Rule B: X doing Y violates Rule B.
+
+ which don't conflict with each other, so B effectively wins.  This
+ proposal changes the expansions to
+
+   Rule A: X doing Y does not violate the rules.
+   Rule B: X doing Y violates Rule B.
+
+ thus forcing a conflict, which is then resolved via precedence
+ as usual.]
+
+Amend Rule 2152 (Mother, May I?) by replacing this text:
+
+      5. MAY: Performing the described action does not violate the
+         rule in question.
+
+with this text:
+
+      5. MAY: Performing the described action does not violate the
+         rules.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6218
+Title: Deputised duties go away
+Author: Murphy
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+[Identical to previous version, which narrowly failed quorum but
+was otherwise unanimously supported.]
+
+Amend Rule 2160 (Deputisation) to read:
+
+      Any player (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if all of the
+      following are true:
+
+        (a) The rules require the holder of that office, by virtue of
+            holding that office, to perform the action (or, if the
+            office is vacant, would so require if the office were
+            filled).  This requirement is fulfilled by the deputy
+            performing the action.
+
+        (b) A time limit by which the rules require the action to be
+            performed has expired, or the office is vacant.
+
+        (c) If the office is held by an active player, then the deputy
+            announced between two and fourteen days earlier that e
+            intended to deputise for that office for the purposes of the
+            particular action.
+
+        (d) It would be POSSIBLE for the deputy to perform the action,
+            other than by deputisation, if e held the office.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6219
+Title: Joining other nomics, take 3
+Author: Tiger
+Adoption Index: 1.0 (Ordinary)
+Interest Index: 1
+
+Amend the section in rule 2148 now reading:
+
+      "A foreign nomic may grant certain powers (in the
+      ordinary-language sense) and privileges to Agora's ambassador. If
+      so, the ambassador shall generally exercise such powers in such
+      manner as e sees fit, subject to other rules and orders."
+
+to read:
+
+      "A foreign nomic may grant certain powers (in the
+      ordinary-language sense) and privileges to Agora's ambassador. If
+      so, the ambassador shall generally exercise such powers in such
+      manner as e sees fit, subject to other rules and orders. If a
+      foreign nomic allows for Agora to take actions in it, the
+      ambassador MAY, with Agoran consent, take any action in it on
+      behalf of Agora, provided that the nomic is Protected, Friendly
+      or Neutral."
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6220
+Title: Rule Change Anarchy
+Author: Tiger
+Adoption Index: 3.0 (Democratic)
+Interest Index: 0
+
+Repeal Rule 105 (Rule Changes).
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6221
+Title: Immediate Proposals
+Author: coppro
+Adoption Index: 3.0 (Democratic)
+Interest Index: 3
+
+Create a power-3 rule entitled {Immediate Proposals} with this text:
+{{
+      If there is an ongoing Agoran Decision on the adoption of a given
+      proposal, or a given proposal is in the Proposal Pool, it is
+      eligible for Immediate Adoption. An entity can, by announcement,
+      pledge or withdraw support for an attempt at Immediate Adoption.
+
+      Every proposal eligible for Immediate Adoption has a Virtual
+      Decision associated with it. A Virtual Decision has the same set
+      of parameters as an Agoran Decision. The Virtual Decision for an
+      attempt at Immediate Adoption of a proposal, unless made
+      democratic, has the same parameters as the ongoing Agoran Decision
+      as to the adoption of that proposal, or, if no such Decision
+      exists, the Agoran Decision as to the adoption of that proposal as
+      it would exist if the Promotor were to immediately distribute the
+      proposal.
+
+      If there exists a method by which an ongoing ordinary Agoran
+      Decision can be made democratic, such a method also applies to a
+      Virtual Decision. If a Virtual Decision has been made democratic,
+      it has the same parameters as the Agoran Decision mentioned above
+      would if it were made democratic.
+
+      When the set of entities who have supported and not subsequently
+      withdrew their support for the Immediate Adoption of a proposal is
+      sufficient to guarantee adoption of the associated Virtual
+      Decision, any player CAN cause it to take effect by announcement.
+      A set of entities is sufficient to guarantee adoption of a Virtual
+      Decision if, were the Virtual Decision an ongoing Agoran Decision,
+      were each of those entities to each cast a number of FOR votes on
+      that Decision equal to their voting limits, were each other entity
+      to cast a number of AGAINST votes on that Decision equal to their
+      voting limits, and were that Decision subsequently resolved, the
+      outcome would be ADOPTED.
+
+      When a proposal takes effect due to this Rule, it is removed from
+      the Proposal Pool and any Agoran Decisions as to the adoption of
+      that proposal cease to exist (they are not resolved).
+
+      When an Agoran Decision as to the adoption of a proposal is
+      resolved, when a proposal is removed from the Proposal Pool by a
+      means other than distribution, or when a proposal is adopted by
+      any means, any attempts to cause Immediate Adoption of that
+      proposal end.
+}}
+
+Amend rule 106 by replacing {Preventing a proposal from taking effect is
+a secured change. This rule takes precedence over any rule which would
+permit a proposal to take effect.} with {Causing a proposal to take
+effect and preventing a proposal from taking effects are both secured
+changes.}
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6222
+Title: Proposal Withdrawals
+Author: coppro
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+[This has been Agoran custom for a long time yet completely illegal. As
+Promotor I could be NoVed for this, and really don't want to be.]
+
+Remove all proposals from the Proposal Pool that were in it at the
+beginning of the third Agoran week to fall entirely in April of 2009.
+
+Amend rule 106 by adding {A player CAN remove a proposal e authored
+from the Proposal Pool by announcement.} at the end of the second
+paragraph.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+The highest orderly ID for distributed proposals is 6222; there are no
+chaotic ID numbers.
+
+The Proposal Pool is empty.
+    """,
     // Removed weird "Fragments in Inode" field
     "OFF: [Promotor] Distribution of Proposals 6740-6747" to """
 This distribution of proposals 6740-6747
