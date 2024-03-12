@@ -31,12 +31,12 @@ tasks.test {
 }
 
 kotlin {
-    jvmToolchain(11)
+    jvmToolchain(17)
 }
 
 tasks.withType<KotlinCompile>() {
     kotlinOptions {
-        jvmTarget = "11"
+        jvmTarget = "17"
         languageVersion = "1.9"
         apiVersion = "1.9"
 
