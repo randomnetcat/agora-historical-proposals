@@ -78,3 +78,26 @@ internal fun doParseHeaderTitleLinesMetadata(metadataLines: List<String>): Propo
         coauthors = header.coauthors,
     )
 }
+
+// Format:
+
+// Proposal NNNN (Some, Fields, AI=1) by Author
+// Title
+//
+// -OR-
+//
+// Proposal NNNN (Some, Fields, AI=1) by Author
+// ...
+internal fun doParseHeaderOptTitleLinesMetadata(metadataLines: List<String>): ProposalCommonMetadataResult {
+    require(metadataLines.size == 1 || metadataLines.size == 2)
+
+    val header = parseHeaderLine(headerLine = metadataLines[0])
+
+    return ProposalCommonMetadataResult(
+        number = header.number,
+        title = if (metadataLines.size == 2) metadataLines[1] else "",
+        ai = header.ai,
+        author = header.author,
+        coauthors = header.coauthors,
+    )
+}

@@ -5,6 +5,7 @@ import kotlinx.collections.immutable.mutate
 import kotlinx.collections.immutable.toImmutableList
 import kotlinx.collections.immutable.toPersistentList
 import org.randomcat.proposal_parser.*
+import org.randomcat.proposal_parser.distributions.metadata.doParseHeaderOptTitleLinesMetadata
 import org.randomcat.proposal_parser.distributions.metadata.doParseHeaderTitleLinesMetadata
 
 data class ProposalCommonMetadataResult(
@@ -258,6 +259,24 @@ object MetadataParsing {
     // ...
     fun headerTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
         return doParseHeaderTitleLinesMetadata(metadataLines)
+    }
+
+    // Format:
+    //
+    // Proposal NNNN (Some, Fields, AI=1) by Author
+    // Title
+    //
+    // Text
+    // ...
+    //
+    // -OR-
+    //
+    // Proposal NNNN (Some, Fields, AI=1) by Author
+    //
+    // Text
+    // ...
+    fun headerOptTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        return doParseHeaderOptTitleLinesMetadata(metadataLines)
     }
 
     // Format:

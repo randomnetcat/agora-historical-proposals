@@ -5669,7 +5669,96 @@ Amend Rule 2143 (Official Reports and Duties) by appending:
      matter as soon as possible afterwards. Cases initiated in this
      manner do not count towards the IADoP's excess case limit, Rules
      to the contrary notwithstanding.
-"""
+""",
+    // Put very long title of 7205 on a single line
+    "OFF: Distribution of Proposals 7201-7206" to """
+I hereby distribute each listed proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the eligible
+voters are the active first-class players at the time of this
+distribution, the vote collector is the Assessor, and the valid
+options are FOR and AGAINST (PRESENT is also a valid vote).  Then, I
+assign each listed proposal the ID number specified under "NUM".
+
+Pool report: The Proposal Pool is empty.
+
+NUM  AI  AUTHOR        TITLE
+
+7201 3   G.            Untitled
+7202 2   Murphy, etc.  Effective ballot fees
+7203 2   Murphy        Vote early and often
+7204 1   omd           Golem fix
+7205 1   omd           Tapping the brakes is not a good idea [...]
+7206 2   BuckyBot      Golem Self Defense
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7201 (AI=3, Ordinary) by G.
+Untitled
+
+Amend Rule 2350 (Proposals) by removing 'and an associated title'.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7202 (AI=2, Ordinary) by Murphy, omd
+
+Effective ballot fees
+
+Change the power of Rule 2364 (Ballot Fees) to 2.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7203 (AI=2, Ordinary) by Murphy
+Vote early and often
+
+If Rule 683 (Voting on Agoran Decisions) defines the default voting
+limit of an eligible voter on an Agoran decision, then amend Rule
+2154 (Election Procedure) by removing this text:
+
+      3) Each eligible voter's voting limit is one.
+
+and renumbering 4) to 3).
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7204 (AI=1, Ordinary) by omd
+Golem fix
+
+Change the power of Rule 2361 (Slave Golems) to 3, and amend it by
+replacing "cause it to take actions that are not otherwise IMPOSSIBLE"
+with "send a public message on its behalf".
+
+[The current mechanism has weird interactions with higher-powered
+Rules and actions that are performed by sending a message rather than
+by announcement, and I am skeptical that my recent scam failed in a
+way that is not patchable (unless Golems are generally unable to act).
+ In particular, even if the mechanism is part of the specification of
+an action, since Golems are *not* sending messages and no rule is
+pretending they are, it's equally valid to say "I cause my Golem to do
+X without objection" as "I cause my Golem to do X by announcement"
+(since "by announcement" is defined with reference to sending
+messages) - in both cases the purported mechanism is a lie.  I would
+have brought this up in CFJ 3171, but I wasn't thinking straight.
+Durr.]
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7205 (AI=1, Ordinary) by omd
+Tapping the brakes is not a good idea when I forgot to distribute proposals for a whole month but ended up with only 10 to distribute, and the weekly metric is a bit confusing
+
+Amend Rule 2365 (Pool Fees) by replacing "at least five proposals have
+been created earlier in the week" with "at least ten proposals are in
+the Proposal Pool".
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7206 (AI=2, Ordinary) by BuckyBot
+Golem Self Defense
+
+Wherever Rule 2360 contains the text "The Golemkeepor CAN destroy any
+Golem Without Objection.", change that text to "The Golemkeepor CAN
+destroy any Golem Without Objection. A Golem is eligible to Object to
+any such intent to destroy it."
+""",
 )
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]

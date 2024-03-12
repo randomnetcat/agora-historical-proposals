@@ -15,6 +15,6 @@ fun parseDistributionV11(fullDistributionText: String): List<ProposalData> {
     )
 
     return proposalParts.map {
-        parseCommonProposal(proposalDistribution = it, metadataParser = MetadataParsing::headerTitleLines)
+        parseCommonProposal(proposalDistribution = it, metadataParser = MetadataParsing::headerOptTitleLines)
     }
 }
