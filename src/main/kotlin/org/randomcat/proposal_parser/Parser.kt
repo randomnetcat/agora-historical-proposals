@@ -16,6 +16,7 @@ private fun Message.isDistributionMessage(): Boolean {
             adjustedSubject.startsWith("[Promotor] Emergency Distribution") ||
             adjustedSubject.startsWith("[Promotor]Distribution") ||
             adjustedSubject.startsWith("[Deputy Promotor] Distribution") ||
+            adjustedSubject.startsWith("[Promotor] Midweek Distribution") ||
             adjustedSubject.startsWith("Distribution of", ignoreCase = true) ||
             adjustedSubject.startsWith("Distrubtion of", ignoreCase = true)
 }
