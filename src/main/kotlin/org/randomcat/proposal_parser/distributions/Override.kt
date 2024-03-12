@@ -2634,6 +2634,21 @@ private val SUBJECT_OVERRIDE_DATA_MAP = mapOf<String, List<ProposalData>>(
             text = "Award a win to ais523.",
         ),
     ),
+    "OFF: [Briefly Promotor] Distribution of Proposal 6943" to listOf(
+        ProposalData(
+            number = ProposalNumber(6943.toBigInteger()),
+            title = "My Rights",
+            ai = ProposalAI(BigDecimal("3.0")),
+            author = PlayerName("scschunt"),
+            coauthors = emptyList(),
+            text = """
+Enact a new Power-3 Rule:
+       scshunt CAN perform by announcement any action that no rule says
+       e CANNOT or SHALL NOT perform, provided that action does not
+       change the rules.
+"""
+        )
+    )
 )
 
 fun Message.overridenDistribution(): List<ProposalData>? {
