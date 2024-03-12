@@ -2,11 +2,9 @@ package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.persistentListOf
 import org.apache.james.mime4j.dom.Message
-import org.randomcat.proposal_parser.PlayerName
-import org.randomcat.proposal_parser.ProposalAI
-import org.randomcat.proposal_parser.ProposalData
-import org.randomcat.proposal_parser.ProposalNumber
+import org.randomcat.proposal_parser.*
 import java.math.BigDecimal
+import java.time.LocalDate
 
 private val SUBJECT_OVERRIDE_DATA_MAP = mapOf<String, List<ProposalData>>(
     "OFF: [Promotor] Distribution of Proposal 4864" to listOf(
@@ -2642,10 +2640,12 @@ fun Message.overridenDistribution(): List<ProposalData>? {
     return SUBJECT_OVERRIDE_DATA_MAP[this.subject]
 }
 
-private val IGNORED_SUBJECTS = listOf<String>("OFF: [Promotor] Distribution of Proposals 6834-6841")
+private val IGNORED_SUBJECTS = setOf(
+    LocalDate.of(2010, 9, 7) to "OFF: [Promotor] Distribution of Proposals 6834-6841",
+)
 
 fun Message.isIgnoredDistribution(): Boolean {
-    return IGNORED_SUBJECTS.contains(this.subject)
+    return IGNORED_SUBJECTS.contains(this.date.toUtcLocalDate() to this.subject)
 }
 
 private val SUBJECT_OVERRIDE_TEXT_MAP = mapOf(

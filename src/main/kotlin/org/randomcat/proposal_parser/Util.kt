@@ -5,6 +5,11 @@ import kotlinx.collections.immutable.toImmutableList
 import org.apache.james.mime4j.dom.Message
 import org.apache.james.mime4j.dom.Multipart
 import org.apache.james.mime4j.dom.TextBody
+import java.time.LocalDate
+import java.time.ZoneOffset
+import java.util.*
+
+fun Date.toUtcLocalDate(): LocalDate = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
 fun Message.extractPlainTextBody(): String {
     return when (val body = this.body) {
@@ -66,7 +71,9 @@ fun List<String>.splitAtNthBlank(n: Int): BlankLineSplitResult {
 
 private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>")
 
-fun contentLooksLikeReply(emailContent: String) = emailContent.contains(PROBABLY_REPLY_REGEX)
+fun contentLooksLikeReply(emailContent: String): Boolean {
+    return emailContent.contains(PROBABLY_REPLY_REGEX) || emailContent.startsWith("> ")
+}
 
 inline fun <K, V : Any> Map<K, V>.getFirstValueOrElse(vararg keys: K, defaultValue: () -> V): V {
     for (key in keys) {

@@ -8,7 +8,6 @@ import java.math.BigInteger
 import java.nio.file.Files
 import java.nio.file.Path
 import java.time.LocalDate
-import java.time.ZoneOffset
 import java.util.*
 
 private fun Message.isDistributionMessage(): Boolean {
@@ -35,8 +34,6 @@ private val DISTRIBUTION_V10_END_DATE = LocalDate.of(2011, 7, 4)
 private val DISTRIBUTION_V11_END_DATE = LocalDate.of(2011, 10, 23)
 private val DISTRIBUTION_V12_END_DATE = LocalDate.of(2012, 1, 10)
 private val DISTRIBUTION_V13_END_DATE = LocalDate.of(2012, 1, 24)
-
-private fun Date.toUtcLocalDate() = LocalDate.ofInstant(this.toInstant(), ZoneOffset.UTC)
 
 private val NONEXISTENT_NUMBERS =
     setOf(
