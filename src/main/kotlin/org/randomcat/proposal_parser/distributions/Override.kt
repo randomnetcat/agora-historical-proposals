@@ -4650,6 +4650,85 @@ value it would have had if the Notary had been assigned to track it.
 should be fixed.]
 }{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
 """,
+    // Replace 6645 with 6647 per "Re: BUS: Re: OFF: [Promotor] Distribution of Proposals 6645-6646" (Date: Mon, 22 Feb 2010 21:37:28 -0600)
+    "OFF: [Promotor] Distribution of Proposals 6645-6646" to """
+This distribution of proposals and the subsequent assigning of ID
+numbers initiates the Agoran Decisions on whether to adopt proposals
+6635-6644. The eligible voters for these proposals are the active
+players as of this message, and the vote collector is the Assessor.
+The valid options on each decision are FOR, AGAINST and PRESENT.
+These decisions are all ordinary to begin.
+
+NUM   II  AI   SUBMITTER         CHAMBER  TITLE
+6647  1   2.0  Murphy            Green    Flight Clearance
+6646  1   2.0  c.                Green    I don't want to keep track of old NoVs
+
+Proposals:
+
+-----------------------------------------
+ID: 6647
+Title: Flight Clearance
+Author: Murphy
+AI: 1.0
+II: 1
+Chamber: Green
+
+Create a rule titled "Props" with this text:
+
+    Props are a currency.
+
+    The Air Traffic Controller is an office and the recordkeepor
+    of props.
+
+    Ownership of props is limited to first-class players.  Props
+    CANNOT be created, transferred, or destroyed except as allowed
+    by this rule or required by the rules in general.
+
+    When a first-class player registers, 14 props are created in
+    eir possession.  When a first-class player deregisters, eir
+    props are destroyed.
+
+    Once per week, each player CAN transfer a prop from one player
+    to another, provided that e explains why e chose each player,
+    and does not transfer it to emself.
+
+    Players with at least 23 props are Pilots; the Pilot with the
+    most props (if any) is the Captain. Players with less than
+    5 props are Marines.
+
+Upon the adoption of this proposal, install Murphy as Air Traffic
+Controller.
+
+Upon the adoption of this proposal, create props as follows:
+
+ 23  ais523
+ 13  BobTHJ
+ 4  c.
+ 13  coppro
+ 15  G.
+ 18  Murphy
+ 11  Pavitra
+ 13  Sgeo
+ 15  Taral
+ 18  Tiger
+ 20  Yally
+
+ 14  each first-class player not listed above
+
+
+-----------------------------------------
+
+ID: 6646
+Title: I don't want to keep track of old NoVs
+Author: c.
+AI: 2.0
+II: 1
+Chamber: Green
+
+Amend Rule 2230 by removing:
+
+    Valid NOVs have ID numbers, to be assigned by the Herald.
+""",
     // Removed weird "Fragments in Inode" field
     "OFF: [Promotor] Distribution of Proposals 6740-6747" to """
 This distribution of proposals 6740-6747
