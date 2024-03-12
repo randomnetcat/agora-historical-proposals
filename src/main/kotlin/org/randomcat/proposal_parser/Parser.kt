@@ -19,7 +19,9 @@ private fun Message.isDistributionMessage(): Boolean {
             adjustedSubject.startsWith("[Promotor] Midweek Distribution") ||
             adjustedSubject.startsWith("Distribution of", ignoreCase = true) ||
             adjustedSubject.startsWith("Distrubtion of", ignoreCase = true) ||
-            adjustedSubject.startsWith("Emergency Distribution")
+            adjustedSubject.startsWith("Emergency Distribution") ||
+            adjustedSubject.startsWith("[Promotor] Super-Emergency Distribution") ||
+            adjustedSubject.startsWith("Real Fix Distribution")
 }
 
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
@@ -41,6 +43,9 @@ private val NONEXISTENT_NUMBERS =
     setOf(
         // See Override.kt
         6209, 6210,
+        // Skipped, according to "BUS: Re: DIS: Re: OFF: [Promotor] Distribution 6275-6300 & Report".
+        // A proposal was incorrectly assigned 6275 instead of 6273 in "OFF: [Promotor] Super-Emergency Distribution 6275".
+        6273,
     ).map { ProposalNumber(BigInteger.valueOf(it.toLong())) }.toSet()
 
 private fun Message.parseDistribution(): List<ProposalData> {

@@ -3590,6 +3590,621 @@ chaotic ID numbers.
 
 The Proposal Pool is empty.
     """,
+    // 6275 -> 6301, per "BUS: Re: DIS: Re: OFF: [Promotor] Distribution 6275-6300 & Report"
+    "OFF: [Promotor] Distribution 6275-6300 & Report" to """
+For each of the following proposals, I initiate an Agoran Decision on
+whether to adopt the proposal. If any of the listed proposals are not in
+the Proposal Pool and are authored by myself, I first submit them.
+The valid options for these decisions are FOR, PRESENT, and AGAINST. The
+vote collector for each of these proposals is the Assessor. The adoption
+index for each proposal is given below as well as whether or not it is a
+democratic or ordinary decision. For democratic decisions, the set of
+eligible voters is the set of active first-class players as of this
+message, their voting limits are each one. For ordinary proposals, the
+set of eligible voters is the set of active players as of this message,
+their voting limits are as described in rule 2156. Eligibility and
+voting limits do not change during the election period. An ordinary
+proposal may be made democratic with 2 support; this will change the set
+of eligible voters and their voting limits. All other essential
+parameters for the decisions are listed in the header; prior to the text
+of the proposal.
+
+The following summary is provided for convenience but does not affect
+the validity of the Agoran Decisions:
+
+NUM   TITLE                                      T  AI   II  AUTHOR
+6301  Privelege of the Champion                  D  2.0  2   Pavitra
+6276  Privelege of the Minister                  D  2.0  1   Pavitra
+6277  Privelege of the Recent Champion           D  2.0  0   Pavitra
+6278  You're All Dried Up                        D  2.0  1   coppro
+6279  Second-class judges                        D  2.0  1   Murphy
+6280  Notes for the actual judge                 D  2.0  1   Tiger
+6281  All Together Now, Discordantly             D  2.0  1   Wooble
+6282  IADoP Tracks Reports                       O  1.0  1   Yally
+6283  No forced championship wins                O  1.0  1   root
+6284  Sgeo, full time                            O  1.0  1   ais523
+6285  Precedence fix                             D  3.0  1   Goethe
+6286  Precedence fixes                           D  3.0  1   comex
+6287  Emergency ratification                     D  3.0  1   comex
+6288  It Should Be A Real Switch                 D  2.0  1   coppro
+6289  I Fone                                     O  1.0  0   coppro
+6290  Broom shakalaka                            D  3.0  1   Quazie
+6291  Polish                                     D  3.0  1   Murphy
+6292  combined precedence                        D  3.2  1   Goethe
+6293  Stop IADoP Abuse                           D  2.0  1   Goethe
+6294  IADoP Must Announce FAILED QUORUM          O  1.0  1   Yally
+6295  Enough already                             D  2.0  1   comex
+6296  Presence in elections                      D  2.0  1   Murphy
+6297  Quick-and-dirty-fix 2                      O  1.0  1   comex
+6298  Ratify Victories                           O  1.0  2   coppro
+6299  First-class Only                           D  2.0  1   Yally
+6300  Fix contract problems                      D  2.0  1   Murphy
+
+T is the type; O for ordinary or D for democratic.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6301
+Title: Privelege of the Champion
+Author: Pavitra
+Coauthors: ais523, root
+Adoption Index: 2.0 (Democratic)
+Interest Index: 2
+
+Amend rule 2186 (Victory) to read:
+{
+      Laurels are a type of asset, tracked by the Herald. Creating,
+      destroying, or transferring Laurels is secured. For a person to
+      be laureated means for a Laurel to be created in that person's
+      possession.
+
+      Winning Conditions and Losing Conditions are conditions defined
+      as such by the rules.  When one or more persons satisfy at least
+      one Winning Condition and do not satisfy any Losing Conditions,
+      all such persons are laureated.  A person CANNOT be laureated in
+      any other way, rules to the contrary notwithstanding.
+
+      Each Winning Condition should (if needed) specify a cleanup
+      procedure to prevent an arbitrary number of Laurels arising from
+      essentially the same conditions.  When one or more persons are
+      laureated, for each Winning Condition satisfied by at least one
+      of those persons, its cleanup procedure occurs.
+
+      A win announcement is a correct announcement explicitly labeled
+      as a win announcement and/or clearly stating that one or more
+      persons are laureated.
+
+      A person CAN spend a Laurel to win the game. The game CANNOT be
+      won in any other way, rules to the contrary notwithstanding.
+}
+
+Amend rule 2110 (Win by Paradox) by replacing "winner" with "laureate".
+
+Amend rule 1922 (Defined Regular Patent Titles) by replacing "The
+Herald's monthly report includes how the player won." with "The Herald's
+monthly report includes how the player won (or, if the player won by
+spending a Laurel, how e was laureated, assuming that Laurels are spent
+in the same order in which they were gained).
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6276
+Title: Privelege of the Minister
+Author: Pavitra
+Coauthors: Goethe
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+This proposal has no effect unless "Privilege of the Champion" passed.
+
+Goethe is a coauthor of this proposal.
+
+Amend rule 2186 (Victory) by replacing the final paragraph with:
+      A person CAN spend a Laurel to win the game.
+
+      A player (the trumpeter) CAN act on behalf of another player (the
+      reluctant victor) to cause em to spend a Laurel, provided that all
+      of the following conditions are satisfied:
+
+        The reluctant victor is not a Minister without Portfolio.
+
+        The reluctant victor owns a Laurel.
+
+        If the reluctant victor has ever spent or been caused to spend a
+        Laurel, then e has borne the Patent Title Minister without
+        Portfolio at least once since the most recent time e did so or
+        was caused to do so.
+
+      Upon the trumpeter doing so, the reluctant victor wins the game.
+
+      A person CANNOT win the game except as specified in this rule,
+      rules to the contrary notwithstanding.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6277
+Title: Privelege of the Recent Champion
+Author: Pavitra
+Adoption Index: 2.0 (Democratic)
+Interest Index: 0
+
+This proposal has no effect unless "Privilege of the Champion" passed.
+
+Ratify the document:
+{
+root did not win the game at any time between 21:05 and 21:20 on the 4th
+of May 2009 UTC.
+}
+
+If root successfully awarded the Patent Title Champion to emself on or
+around 21:54 4th May 2009 UTC, then revoke one instance of Champion from
+root.
+
+If root had no Medals at 22:00 4th May 2009 UTC, then create one Laurel
+in the possession of root.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6278
+Title: You're All Dried Up
+Author: coppro
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+For each player who did not submit a valid ballot on at least one Agoran
+Decision in the month of May 2009, flip that player's activity to
+inactive.
+
+[Note: If you are a lurker, you should probably just vote FOR this
+proposal as you therefore won't get made inactive by it.]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6279
+Title: Second-class judges
+Author: Murphy
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+[Now that second-class registration is restricted, other restrictions
+can be loosened up.]
+
+Amend Rule 1868 (Judge Assignment Generally) by removing "first-class"
+from this text:
+
+      The entities qualified to be assigned as judge of a judicial
+      case are the active first-class players,
+
+Create a rule titled "Second-Class Judges" with Power 2 and this text:
+
+      If any first-class member of a second-class person's basis would
+      be unqualified to judge a given judicial case, even if e were
+      registered, active, standing, hemming-and-hawing, and Supreme,
+      then that second-class person is unqualified to judge that case.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6280
+Title: Notes for the actual judge
+Author: Tiger
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Amend the section in Rule 2126 now reading:
+(
+      (3) (D)  At the end of each week, each player who published at
+               least one on-time judgement during that week gains a
+               number of D Notes equal to the highest interest index
+               among all such cases.
+)
+to read:
+(
+      (3) (D)  At the end of each week, each player who assigned an
+               on-time judgement to at least one case during that week
+               gains a number of D Notes equal to the highest interest
+               index among all such cases.
+)
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6281
+Title: All Together Now, Discordantly
+Author: Wooble
+Coauthors: ais523, Quazie
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+In Rule 2126, replace #6 under "Notes CAN be spent (destroyed) as
+follows:" with:
+
+      (6) During Agora's Birthday, a player CAN spend Notes forming
+          the melody "Happy Birthday" (GGAGCB GGAGDC GGGECBA FFECDC or
+          a translation thereof) to satisfy the Winning Condition of
+          Musicianship, unless another player has already done so
+          using the same translation during that Birthday.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6282
+Title: IADoP Tracks Reports
+Author: Yally
+Adoption Index: 1.0 (Ordinary)
+Interest Index: 1
+
+Add the following point below point c in Rule 2138:
+
+      d) The date when that office's reports were last published.
+
+Increase the interest index of the IADoP to 2.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6283
+Title: No forced championship wins
+Author: root
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 2242 by replacing this text:
+
+      Upon a win announcement that a specified non-contest player owns
+      a Medal, that player satisfies the Winning Condition of
+      Championship.
+
+with this text:
+
+      Upon a win announcement by a non-contest player that e owns a
+      Medal, that player satisfies the Winning Condition of
+      Championship.
+
+[Win by High Score allows anybody to announce the win because it
+causes a score reset, and it's desirable to go ahead and get that over
+with as soon as possible.  For win by Championship, there's no reason
+to allow others to force the timing of the win.]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6284
+Title: Sgeo, full time
+Author: ais523
+Adoption Index: 1.0 (Ordinary)
+Interest Index: 1
+
+Create a power-1 rule with the following text:
+{{{
+      The Officer for Homeland Security is an office.
+
+      The Officer for Homeland Security SHOULD regularly attempt to
+      comment on, or propose proposals to strengthen, Agora's mechanisms
+      for resisting invasions by large numbers of nonplayers.
+}}}
+Unless e objected between the time this proposal was proposed and the
+time it was adopted, install Sgeo as Officer for Homeland Security.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6285
+Title: Precedence fix
+Author: Goethe
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 1030 (Precedence between Rules with Equal Power) by
+appending the following paragraph:
+
+      Any claim of precedence in a rule, including a claim of
+      precedence over "all" or similarly broad classes of rules,
+      is considered to be a claim of precedence over rules with
+      equal power only, unless it explicitly, clearly, and
+      directly claims to stipulate a means of determining
+      precedence between rules of different (i.e. higher, lower,
+      or otherwise unequal) power.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6286
+Title: Precedence fixes
+Author: comex
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 1551 (Ratification) to read: [added "rules to the contrary
+notwithstanding"]
+      A public document is part (possibly all) of a public message.
+
+      When a public document is ratified, rules to the contrary
+      notwithstanding, the gamestate is modified so that the ratified
+      document was completely true and accurate at the time it was
+      published.  Nevertheless, the ratification of a public document
+      does not invalidate, reverse, alter, or cancel any messages or
+      actions, even if they were unrecorded or overlooked, or change
+      the legality of any attempted action.
+
+      Ratifying a public document is secured.
+
+Change the power of Rule 1698 (Agora Is a Nomic) to 4.
+
+[Currently the order of precedence is R101 > AIaN > everything else,
+with Ratification a few rules down.  This proposal changes it to AiaN >
+R101 > Ratification > everything else.  Yes, I believe keeping the game
+alive is more important than our rights.]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6287
+Title: Emergency ratification
+Author: comex
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+Ratify the document purporting to be the SLR published most recently
+before this proposal was submitted.
+
+[It's possible that many rule changes failed, unknown to us, due to
+the last paragraph of R1482, and ratifying them in the past failed due
+to precedence.  This should be adopted after 'Precedence fixes'.]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6288
+Title: It Should Be A Real Switch
+Author: coppro
+Adoption Index: 2.0 (Democratic)
+Interest Index: 3
+
+In rule 2178 (Contract Switches), replace:
+
+      Disclosure is a contract switch with values Private (default) and
+      Public.  Rules to the contrary notwithstanding:
+
+with:
+
+      Disclosure is a contract switch, tracked by the Notary, with
+      values Private (default) and Public.  Rules to the contrary
+      notwithstanding:
+
+and replace:
+
+      Sentiment is a contract switch with values Equitable (default) and
+      Legalistic.  Rules to the contrary notwithstanding, a contract's
+      Sentiment CANNOT be flipped away from Legalistic.
+
+with:
+
+      Sentiment is a contract switch, tracked by the Notary, with values
+      Equitable (default) and Legalistic.  Rules to the contrary
+      notwithstanding, a contract's Sentiment CANNOT be flipped away
+      from Legalistic.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6289
+Title: I Fone
+Author: coppro
+Adoption Index: 1.0 (Ordinary)
+Interest Index: 1
+
+Create a new power-1 rule with the following text:
+
+      If a public message claims to have been sent from a particular
+      device or class of device, that claim is self-ratifying.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6290
+Title: Broom shakalaka
+Author: Quazie
+Coauthors: Goethe
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+Replace the text of R2221 with the following:
+
+      A Broom is a power 3 entity that can only be created as specified
+      by this rule.  A Broom consists of both a rule and a non-empty set
+      of spelling and/or grammar corrections to be made to that rule.
+
+Any player CAN create a Broom without objection.  The Broom may then
+amend the rule as specified.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6291
+Title: Polish
+Author: Murphy
+Adoption Index: 3.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 2221 (Cleanliness) by replacing "amended as specified" with
+"amended by this rule as specified by that person".
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6292
+Title: combined precedence
+Author: Goethe
+Coauthors: comex
+Adoption Index: 3.2 (Democratic)
+Interest Index: 1
+
+Amend Rule 1482(Precedence between Rules with Unequal Power)
+by removing:
+      No change to the Ruleset can occur that would cause a Rule
+      to stipulate any other means of determining precedence
+      between Rules of unequal Power.  This applies to changes by
+      the enactment or amendment of a Rule, or of any other form.
+      This Rule takes precedence over any Rule that would permit
+      such a change to the Ruleset.
+
+
+Amend Rule 1030 (Precedence between Rules with Equal Power) to read:
+
+      In a conflict between Rules, the conflict shall be resolved
+      by performing the following comparisons in the squence written
+      in this rule, until the conflict is resolved.
+
+      -In a conflict between Rules with different Power, the Rule
+       with the higher Power takes precedence over the Rule with
+       the lower Power ; otherwise,
+
+      -If all of the Rules in conflict explicitly say that their
+       precedence relations are determined by some other Rule for
+       determining precedence relations, then the determinations of
+       the precedence-determining Rule shall be used to resolve the
+       conflicts; otherwise,
+
+      -If at least one of the Rules in conflict explicitly says of
+       itself that it defers to another Rule (or type of Rule) or
+       takes precedence over another Rule (or type of Rule), then
+       such provisions shall be used to resolve the conflict,
+       unless they lead to contradictions between each other;
+       otherwise,
+
+      -The Rule with the lower ID number takes precedence.
+
+      Clauses in any other rule that broadly claim precedence
+      (e.g. over "all rules" of a certain class) shall be, prima
+      facie, considered to be limited claims of precedence or
+      deference that are applicable only when such claims are
+      evaluated as described within the above sequence.
+
+      No change to the Ruleset can occur that would cause a Rule
+      to directly claim precedence over this Rule as a means of
+      determining precedence.  This applies to changes by
+      the enactment or amendment of a Rule, or of any other form.
+      This Rule takes precedence over any Rule that would permit
+      such a change to the Ruleset.
+
+Change the title of Rule 1030 to "Precedence between Rules"
+
+Increase the power of Rule 1030 to 3.2
+
+Repeal Rule 1482
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6293
+Title: Stop IADoP Abuse
+Author: Goethe
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Amend R2154 (Election procedure) by replacing:
+      Any player CAN by announcement initiate an election for an
+      elected office for which no election is already in progress,
+      nominating at least one active player.
+with:
+      Any player CAN, with Support, initiate an election for a
+      specified elected office for which no election is already in
+      progress.  When an election is initiated, the current holder
+      of the office (if any) is initially considered to have been
+      nominated and have accepted.
+
+[Puts in a minimal with support level of control up against the
+trend of beginning trivial elections.  Once started, nomination
+remains by announcement; the current holder is automatically a
+nominee but may decline at any time].
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6294
+Title: IADoP Must Announce FAILED QUORUM
+Author: Yally
+Adoption Index: 1.0 (Ordinary)
+Interest Index: 1
+
+Amend the word SHOULD in Rule 2168 (Extending the Voting Period) to read
+SHALL.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6295
+Title: Enough already
+Author: comex
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 2154 (Election Procedure) by replacing 4) with 5), and by
+adding the following item between 3) and 5):
+
+       4) Quorum is the lesser of three and the number of active
+          players (other rules on quorum notwithstanding).
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6296
+Title: Presence in elections
+Author: Murphy
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 2154 (Election Procedure) by replacing this text:
+
+       1) The valid options (hereafter the candidates) are the active
+          players who, during the election,
+
+with this text:
+
+       1) The valid options are PRESENT and the active players
+          (hereafter the candidates) who, during the election,
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6297
+Title: Quick-and-dirty-fix 2
+Author: comex
+Coauthors: Goethe, comex
+Adoption Index: 1.0 (Ordinary)
+Interest Index: 1
+
+Amend Rule 1551 (Ratification) to read: [added "rules to the contrary
+notwithstanding"]
+      A public document is part (possibly all) of a public message.
+
+      When a public document is ratified, rules to the contrary
+      notwithstanding, the gamestate is modified so that the ratified
+      document was completely true and accurate at the time it was
+      published.  Nevertheless, the ratification of a public document
+      does not invalidate, reverse, alter, or cancel any messages or
+      actions, even if they were unrecorded or overlooked, or change
+      the legality of any attempted action.
+
+      Ratifying a public document is secured.
+
+Change the power of Rule 1698 (Agora Is a Nomic) to 3.1.
+
+Ratify the following document: { Proposal 4942 did not take effect. }
+
+Amend Rule 1030 (Precedence between Rules with Equal Power) by
+appending the following paragraph:
+
+      Any claim of precedence in a rule, including a claim of
+      precedence over "all" or similarly broad classes of rules,
+      is considered to be a claim of precedence over rules with
+      equal power only, unless it explicitly, clearly, and
+      directly claims to stipulate a means of determining
+      precedence between rules of different (i.e. higher, lower,
+      or otherwise unequal) power.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6298
+Title: Ratify Victories
+Author: coppro
+Adoption Index: 1.0 (Ordinary)
+Interest Index: 1
+
+Amend bullet (d) of Rule 1922 to read as follows:
+
+      (d)  Champion, to be awarded by the Herald to any person who
+           wins the game, along with a specification (possibly
+           implicit) of the method of victory.  The Herald's monthly
+           report includes how the player won. A message awarding
+           Champion to a player constitutes a self-ratifying claim that
+           the player in question won the game through that method.
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6299
+Title: First-class Only
+Author: Yally
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Amend Rule 2154 (Election Procedure) by changing "active players" in
+bullet point 2 to "active first-class players."
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+Number: 6300
+Title: Fix contract problems
+Author: Murphy
+Adoption Index: 2.0 (Democratic)
+Interest Index: 1
+
+Change the power of Rule 2136 (Contests) to 2.
+
+[This fixes two bugs:  R2198 allows contestmaster to be flipped, and
+secures the flipping of contract switches so that R2136 cannot allow
+contestmaster to be flipped.]
+
+Ratify the following document:  {
+
+  The following contracts have the following contestmasters.  No other
+  contracts are contests.
+
+  Enigma                 ais523
+  Fantasy Rules Contest  Murphy
+  Nomic Wars III         BobTHJ
+  AAA                    Wooble
+  Cookie Jar             Murphy
+  Three-Scroll Rodney    coppro
+
+}
+
+Amend Rule 2173 (The Notary) by appending this text:
+
+      The Notary tracks all contract switches not assigned to
+      another officer.
+
+For each contract and each contract switch that previously failed to
+be a switch because no officer was assigned to track it, flip it to the
+value it would have had if the Notary had been assigned to track it.
+
+[The C# scam is not fixed here, because it's not obvious how it
+should be fixed.]
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+""",
     // Removed weird "Fragments in Inode" field
     "OFF: [Promotor] Distribution of Proposals 6740-6747" to """
 This distribution of proposals 6740-6747
