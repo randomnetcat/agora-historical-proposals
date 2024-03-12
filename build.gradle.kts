@@ -1,8 +1,7 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    java
-    kotlin("jvm") version "1.4.31"
+    kotlin("jvm") version "1.9.23"
     application
 }
 
@@ -11,12 +10,11 @@ version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
-    jcenter()
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.3")
-    implementation("org.apache.james:apache-mime4j:0.8.4")
+    implementation("org.jetbrains.kotlinx:kotlinx-collections-immutable:0.3.7")
+    implementation("org.apache.james:apache-mime4j:0.8.10")
 
     testImplementation(kotlin("test-junit5"))
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
@@ -32,12 +30,16 @@ tasks.test {
     useJUnitPlatform()
 }
 
+kotlin {
+    jvmToolchain(11)
+}
+
 tasks.withType<KotlinCompile>() {
     kotlinOptions {
-        jvmTarget = "1.8"
-        languageVersion = "1.5"
-        apiVersion = "1.5"
+        jvmTarget = "11"
+        languageVersion = "1.9"
+        apiVersion = "1.9"
 
-        freeCompilerArgs += "-Xopt-in=kotlin.RequiresOptIn"
+        freeCompilerArgs += "-opt-in=kotlin.RequiresOptIn"
     }
 }
