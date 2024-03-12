@@ -1,5 +1,3 @@
-@file:OptIn(ExperimentalStdlibApi::class)
-
 package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.mutate

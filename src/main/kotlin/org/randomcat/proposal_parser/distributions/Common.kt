@@ -172,7 +172,6 @@ object MetadataParsing {
     //
     // Text
     // ...
-    @OptIn(ExperimentalStdlibApi::class)
     fun keyValueHeaders(
         metadataLines: List<String>,
         backupNumber: ProposalNumber? = null,

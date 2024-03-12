@@ -5699,7 +5699,6 @@ fun Message.backupProposalNumber(index: Int): ProposalNumber {
     return ProposalNumber(backupFirstProposalNumber().plus(index.toBigInteger()))
 }
 
-@OptIn(ExperimentalStdlibApi::class)
 private fun Message.backupFirstProposalNumber(): BigInteger {
     return subject
         .lowercase()
