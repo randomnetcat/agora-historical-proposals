@@ -15,7 +15,7 @@ fun Message.extractPlainTextBody(): String {
     return when (val body = this.body) {
         is TextBody -> body.reader.readText()
         is Multipart -> {
-            require(body.subType == "alternative")
+            require(body.subType == "alternative" || body.subType == "")
             (body.bodyParts.single { it.mimeType == "text/plain" }.body as TextBody).reader.readText()
         }
 

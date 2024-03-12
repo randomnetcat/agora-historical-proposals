@@ -2668,11 +2668,11 @@ private val FORCED_SUBJECTS = setOf(
 )
 
 fun Message.isIgnoredDistribution(): Boolean {
-    return IGNORED_SUBJECTS.contains(this.date.toUtcLocalDate() to this.subject)
+    return IGNORED_SUBJECTS.contains((this.date ?: return false).toUtcLocalDate() to this.subject)
 }
 
 fun Message.isForcedDistribution(): Boolean {
-    return FORCED_SUBJECTS.contains(this.date.toUtcLocalDate() to this.subject)
+    return FORCED_SUBJECTS.contains((this.date ?: return false).toUtcLocalDate() to this.subject)
 }
 
 private val SUBJECT_OVERRIDE_TEXT_MAP = mapOf(

@@ -11,6 +11,9 @@ import java.time.LocalDate
 import java.util.*
 
 private fun Message.isDistributionMessage(): Boolean {
+    if (this.isForcedDistribution()) return true
+    if (this.isIgnoredDistribution()) return false
+
     val adjustedSubject = subject.removePrefix("BUS: OFF:").removePrefix("OFF:").removePrefix("BUS:").trim()
     return adjustedSubject.startsWith("[Promotor] Distribution") ||
             adjustedSubject.startsWith("[Promotor] Emergency Distribution") ||
@@ -56,8 +59,6 @@ private val NONEXISTENT_NUMBERS =
 private fun Message.parseDistribution(): List<ProposalData> {
     val override = this.overridenDistribution()
     if (override != null) return override
-
-    if (this.isIgnoredDistribution()) return emptyList()
 
     val date = this.date.toUtcLocalDate()
     val text = this.overriddenText() ?: this.extractPlainTextBody().normalizeLineEndings().repairBrokenSpaces()
