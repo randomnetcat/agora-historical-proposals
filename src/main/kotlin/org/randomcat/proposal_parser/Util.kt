@@ -72,7 +72,10 @@ fun List<String>.splitAtNthBlank(n: Int): BlankLineSplitResult {
 private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>")
 
 fun contentLooksLikeReply(emailContent: String): Boolean {
-    return emailContent.contains(PROBABLY_REPLY_REGEX) || emailContent.startsWith("> ")
+    return emailContent.contains(PROBABLY_REPLY_REGEX) ||
+            emailContent.startsWith("> ") ||
+            emailContent.startsWith("I vote") ||
+            emailContent.startsWith("On proposal")
 }
 
 inline fun <K, V : Any> Map<K, V>.getFirstValueOrElse(vararg keys: K, defaultValue: () -> V): V {
