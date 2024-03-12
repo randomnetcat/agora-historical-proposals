@@ -28,7 +28,8 @@ private fun Message.isDistributionMessage(): Boolean {
             adjustedSubject.startsWith("[Promotor] (Corrected) Actual Distribution") ||
             adjustedSubject.startsWith("[Briefly Promotor] Distribution") ||
             adjustedSubject.startsWith("[Promotor] Redistribution") ||
-            adjustedSubject.startsWith("[Deputy Promotor] Corrected Distribution")
+            adjustedSubject.startsWith("[Deputy Promotor] Corrected Distribution") ||
+            adjustedSubject.startsWith("[assumed promotor] distribution of proposals")
 }
 
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
@@ -42,6 +43,7 @@ private val DISTRIBUTION_V6_END_DATE = LocalDate.of(2010, 7, 12)
 private val DISTRIBUTION_V7_END_DATE = LocalDate.of(2010, 9, 13)
 private val DISTRIBUTION_V8_END_DATE = LocalDate.of(2010, 10, 10)
 private val DISTRIBUTION_V9_END_DATE = LocalDate.of(2011, 3, 8)
+private val DISTRIBUTION_V9a_SINGLE_DATE = LocalDate.of(2011, 2, 15)
 private val DISTRIBUTION_V10_END_DATE = LocalDate.of(2011, 7, 4)
 private val DISTRIBUTION_V11_END_DATE = LocalDate.of(2011, 10, 23)
 private val DISTRIBUTION_V12_END_DATE = LocalDate.of(2012, 1, 10)
@@ -75,6 +77,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V6_END_DATE -> parseDistributionV1(text) // V6 == V1
         date < DISTRIBUTION_V7_END_DATE -> parseDistributionV7(text)
         date < DISTRIBUTION_V8_END_DATE -> parseDistributionV8(text, this::backupProposalNumber)
+        date == DISTRIBUTION_V9a_SINGLE_DATE -> parseDistributionV9a(text)
         date < DISTRIBUTION_V9_END_DATE -> parseDistributionV7(text)
         date < DISTRIBUTION_V10_END_DATE -> parseDistributionV10(text) // V10 == V1
         date < DISTRIBUTION_V11_END_DATE -> parseDistributionV11(text)
