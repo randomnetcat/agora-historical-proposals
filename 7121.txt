@@ -1,0 +1,20 @@
+ID: 7121
+Title: Short-term ambassador powers
+Author: Tiger
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2352, replacing the following part:
+
+    When the office of Ambassador first becomes filled, the holder
+    SHALL as soon as possible attempt to cause Agora to become a
+    player of BlogNomic.
+
+with the following text:
+
+    The Ambassador CAN, with Agoran Consent, act to become a
+    player (or the local equivalent) in another nomic on Agora's behalf,
+    provided e is not a player in it personally. For each nomic the
+    Ambassador is a player of on behalf of Agora, e CAN with Agoran
+    Consent act on behalf of Agora to take an available player action
+    in that nomic.

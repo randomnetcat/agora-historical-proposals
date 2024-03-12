@@ -1,0 +1,13 @@
+ID: 6837
+Title: Leet fix
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+f the Proposal entitled "Leet Leadership" has been enacted and created
+a Rule entitled "Leet Leadership" amend this Rule by replacing "exact"
+with "exactly" and adding the following paragraph:
+
+       For the purpose of this rule a word is a set of characters
+       separated by whitespaces, if this set contains at least one
+       letter.

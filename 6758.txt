@@ -1,0 +1,14 @@
+ID: 6758
+Title: They're dumb
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Destroy all White Ribbons.
+Amend Rule 2199 (Ribbons) by removing
+       (+W) When a first-class person becomes a player for the first
+            time, e earns a White Ribbon.  When a first-class person
+            has been a player continuously for at least three months,
+            was never a player before that period, and names another
+            player as eir mentor (and has not named a mentor in this
+            fashion before), the named player earns a White Ribbon.

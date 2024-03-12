@@ -1,0 +1,8 @@
+ID: 6951
+Title: Fix resignation
+Author: Murphy
+Co-authors: Yally
+Adoption index: 2.0
+
+Amend Rule 1006 (Offices) by replacing "causing it to become
+vacant." with "causing em to cease to hold it."

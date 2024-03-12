@@ -1,0 +1,24 @@
+ID: 7146
+Title: Risk
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2343 (Victory Conditions) by replacing the first paragraph with:
+
+     Victory Conditions and Losing Conditions are conditions
+     explicitly defined as such by the Rules.  Such conditions are
+     generally satisfied instantaneously, not continuously.
+
+     A Victory Announcement is a published statement labeled as a
+     Victory Announcement that states clearly that a specified person
+     or persons have satisfied a specified Victory Condition while
+     not satisfying any Losing Conditions (and explicitly and clearly
+     states which persons and which victory condition).  A Victory
+     Announcement is self-ratifying.
+
+Amend Rule 1504 (Criminal Cases) by appending after "CANNOT register
+for two months after that time.":
+
+     During this period, e is known as a Fugitive.  Being a Fugitive
+     is the Losing Condition of Seeking Asylum.

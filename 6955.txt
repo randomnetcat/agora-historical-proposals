@@ -1,0 +1,8 @@
+ID: 6955
+Title: Moving targets are hard
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2156 (Voting on Ordinary Decisions) by replacing "resolution"
+with "end of the voting period".

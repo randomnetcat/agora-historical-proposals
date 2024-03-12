@@ -1,0 +1,10 @@
+ID: 7027
+Title: Further fix promises
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Change the power of Rules 2337 (Promises) and 2338 (Cashing Promises) to 3.
+
+Amend Rule 2338 by replacing "When a promise is cashed" with "Rules to
+the contrary notwithstanding, when a promise is cashed".

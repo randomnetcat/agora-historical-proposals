@@ -1,0 +1,55 @@
+ID: 6791
+Title: Contestification
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+[Turn Space Alert into a contest, replacing the current utterly
+useless farad award (and the Leadership Token for the Enemy) with a
+currency that a smart player can accumulate, perhaps by buying other
+players' credits for favors.  This might be difficut (albeit quite
+interesting) to pull off, but I don't see any better way to reward
+everyone on the ship, and it works within the framework of a contest.]
+
+Amend Rule 2299 by replacing:
+
+      If the Shuttle reaches the end of the journey and is warped,
+      each player aboard the Shuttle is rewarded a farad. If the
+      Shuttle is destroyed, the Enemy is rewarded a Leadership Token
+      and can only initiate the next journey with three support
+      (anyone else still only needs notice).
+
+with:
+
+      Credits are a currency whose recordkeepor is the contestmaster.
+      If the Shuttle reaches the end of the journey and is warped,
+      each player aboard the Shuttle is awarded a credit.  If the
+      Shuttle is destroyed, the Enemy is awarded five credits and can
+      only initiate the next journey with three support (anyone else
+      still only needs notice).  A player CAN destroy ten credits in
+      eir possession to win the contest.
+
+Amend Rule 2300 by replacing "satisfies the Winning Condition of
+Continuity" with "wins the contest".
+
+Amend Rule 2302 by replacing:
+
+      The Ship Computor is an office, and tracks of the following:
+
+with:
+
+      The contestmaster's weekly report contains the following:
+
+and by deleting:
+
+      The enemy is an imposed office; eir report includes information
+      on all Threats and their respective stats.
+
+Create a new contest whose contestmaster is the current holder of the
+office of Ship Computor, whose instructions are the concatenated texts
+of rules 2297, 2298, 2299, 2300, 2301, 2302 (in the given order), and
+whose internal gamestate is identical, in all possible respects, to
+the current state of the subgame of Space Alert as defined by those
+rules.
+
+Repeal rules 2297, 2298, 2299, 2300, 2301, and 2302.

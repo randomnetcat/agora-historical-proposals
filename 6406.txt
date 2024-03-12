@@ -1,0 +1,14 @@
+ID: 6406
+Title: Proposal Tweaking Part 2.1
+Author: c-walker
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 1607 (The Promotor), immediately after the paragraph beginning
+"In a given Agoran week..." append the following paragraph:
+
+      A player CAN flip a specified Interested proposal to
+      Distributable without a number of objections equal to 4 - II
+      (where II is the Interest Index of the specified proposal). A
+      player CAN flip a specified Disinterested proposal to
+      Distributable by announcement.

@@ -1,0 +1,21 @@
+ID: 6254
+Title: Mitigate point scams
+Author: root
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2187 (Win by High Score) by replacing this text:
+
+      Cleanup procedure:  All those players have eir scores set to 0.
+      All other players have each of eir coordinates set to
+      floor(P*S/10), where P is eir previous coordinate along that
+      axis and S is the Score Index.
+
+with this text:
+
+      Cleanup procedure:  All those players have their scores set to
+      0 + 0i.  Within one week afterward, any player CAN declare a
+      skunk with Agoran Consent.  If no player does so within the
+      allowed week, then all players have each of eir coordinates set
+      to floor(P*S/10), where P is eir previous coordinate along that
+      axis and S is the Score Index.

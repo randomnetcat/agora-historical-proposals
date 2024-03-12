@@ -1,36 +1,16 @@
 ID: 4613
-Title: Vote Cards
-Author: Goethe
+Title: Don't Overcompensate
+Author: Murphy
 Co-authors: 
 Adoption index: 1
 
 
-Create the following Rule, entitled "Democratic cards":
+[This goes back to an idea implicit in "Judicial Separation":  it's
+necessary to keep the Speaker separate from certain offices, but
+it's not necessary to keep the Speaker-Elect separate.]
 
-       The following Classes of Cards are defined:
+Amend the Rule titled "Quis Custodiet Ipsos Custodes?" by removing
+this text:
 
-       * Caption:  Coalition
-         Elements: Grafty, Budgeted
-         Exploit:  You may increase or decrease the Voting Potential of
-                   an indicated Player by N by paying a fee of N for
-                   yourself, or 2 times N for another Player.
-
-       * Caption:  Patronage
-         Elements: Grafty, Budgeted
-         Exploit:  You may increase or decrease the Political Charge by N
-                   by paying a fee of 4 times N.  If undefined elsewhere,
-                   the Political Charge is a positive integer, tracked
-                   by the Assessor, which begins at 4.
-
-       * Caption:  Policy
-         Elements: Budgeted
-         Exploit:  You may sanitize a Proposal, as described elsewhere
-                   in the Rules.
-
-       * Caption:  Procedure
-         Elements: Budgeted
-         Exploit:  You may abort and make undistributable any non-sane
-                   Proposal.
-
-The budgeted quota for Procedure cards is hereby set to 8.
-The budgeted quota for Policy cards is hereby set to 8.
+     The Assistant Director of Personnel cannot be Nominated for
+     the Office of Speaker-Elect.

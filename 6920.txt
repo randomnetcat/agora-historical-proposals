@@ -1,0 +1,15 @@
+ID: 6920
+Title: Minor Fix
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Enact a Rule, "Minor Fix", with the following text:
+
+  G. satisfies the winning condition of Clarification.
+
+  Cleanup:  This Rule repeals itself one moment after it
+  takes effect.
+
+[This win condition is currently ambiguous, so this fixes
+the problem]

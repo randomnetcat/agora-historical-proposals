@@ -1,0 +1,18 @@
+ID: 7051
+Title: Janitor's Local #574
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2331 (Proposal Points) by replacing this text:
+
+     However, if the author clearly identified the proposal as
+     disinterested when e submitted it, then no one gains or
+     loses any points due to its outcome.
+
+with this text:
+
+     However, if more than half the voters clearly indicated
+     during the proposal's voting period that it should be
+     disinterested, then no one gains any points due to its
+     outcome.

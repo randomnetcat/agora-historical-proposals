@@ -1,0 +1,7 @@
+ID: 6875
+Title: Let's have inactive officeholders
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2276 by replacing "An active" (case sensitive) with "A".

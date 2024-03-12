@@ -1,0 +1,9 @@
+ID: 6975
+Title: Kepler 5555
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2138 (The Interplanetary Associate Director of Personnel)
+by replacing "Interplanetary" with "Interstellar" in its title and
+text.

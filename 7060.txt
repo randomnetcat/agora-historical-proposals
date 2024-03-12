@@ -1,0 +1,7 @@
+ID: 7060
+Title: Betting Fix
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Increase the power of Rule 2346 (Betting Markets) to two.

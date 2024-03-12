@@ -1,0 +1,75 @@
+ID: 7000
+Title: Souls
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+[Give them something to do: first-class players can give (or sell)
+their Souls to second-class ones to delegate their votes.  Tracking is
+stuck on the Assessor because past coordination with the PSM and such
+hasn't worked out well.]
+
+Create a Power-2 rule titled "Souls":
+
+      Souls are a class of assets tracked by the Assessor.  Each Soul
+      represents the voting power of a specific first-class player
+      (the Body).
+
+      If no Souls exist whose Body is a certain first-class player,
+      one is created in eir possession.  If a Soul exists whose Body
+      is not a first-class player, it is destroyed.  If multiple Souls
+      exist with the same Body, they are all destroyed.
+
+      If the Body of a Soul has not possessed it for 21 days, e can
+      return it to eir possession by announcement.
+
+      The voting limit of an eligible voter on an Ordinary decision is
+      the number of Souls in eir possession.
+
+Retitle Rule 1950 to "Decisions with Adoption Indices", and amend it
+by replacing:
+
+      An Agoran decision with an adoption index is a Democratic
+      decision.
+
+with:
+
+      Adoption index is a switch possessed by Agoran decisions, whose
+      value is either "none" (default) or an integral multiple of 0.1
+      from 1.0 to 9.9.
+
+      Chamber is a switch possessed by Agoran decisions with adoption
+      indices, with values Ordinary (default) and Democratic.
+
+and by appending to the list of essential parameters:
+
+      c) Its Chamber.
+
+and by appending:
+
+      The eligible voters on an Ordinary decision are the players who
+      were active at the start of the voting period.  Defining the
+      voting limit of an entity on an Ordinary decision is secured
+      with a power threshold of 2.
+
+Amend Rule 106 by replacing:
+
+      The adoption index of a proposal is an integral multiple of 0.1
+      from 1.0 to 9.9.  It may be set by the proposer at the time of
+      submission, or otherwise defaults to 1.0.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      The adoption index of this decision is set to the adoption index
+      of the proposal at the initiation of the decision. Changing the
+      adoption index of the decision is secured with a power threshold
+      of 2.  The vote collector for this decision is the Assessor.
+
+with:
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      By default, this decision has an adoption index of 1.0 and is
+      Ordinary; if the proposer specified valid, non-"none" values for
+      the adoption index and/or Chamber, those values are set at the
+      initiation of the decision.  Changing either value is secured
+      with a power threshold of 2.  The vote collector for this
+      decision is the Assessor.

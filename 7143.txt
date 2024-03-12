@@ -1,0 +1,12 @@
+ID: 7143
+Title: Powered up STM
+Author: tswett
+Co-authors: 
+Adoption index: 3.0
+
+If there is no rule titled "Acidic Transactions", this proposal has no effect.
+
+Change the power of the rule titled "Acidic Transactions" to 3. In
+Rule 105, "Rule Changes", replace the sentence "Rule changes always
+occur sequentially, never simultaneously." with "Every rule change is
+a transaction."

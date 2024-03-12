@@ -1,0 +1,40 @@
+ID: 6992
+Title: Fix rule numbers
+Author: Murphy
+Co-authors: omd
+Adoption index: 3.0
+
+Ratify all rule ID numbers in the document purported to be the
+Short Logical Ruleset and published on or about Thu, 3 Mar 2011
+14:40:44 -0500.
+
+Amend Rule 2140 (Power Controls Mutability) by replacing "modify"
+with "set or modify".
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing this
+text:
+
+      Rules have ID numbers, to be assigned by the Rulekeepor, and are
+      strictly ordered.
+
+      Every rule shall have a title to aid in identification.  If a
+      rule ever does not have a title, the Rulekeepor shall assign
+      a title to it by announcement as soon as possible.
+
+      For the purposes of rules governing modification of instruments,
+      the text, power, ID number, and title of a rule are all
+      substantive aspects of the rule.
+
+with this text:
+
+      Rules have ID numbers, to be assigned by the Rulekeepor.
+
+      Every rule shall have a title to aid in identification.  If a
+      rule ever does not have a title, the Rulekeepor SHALL assign
+      a title to it by announcement as soon as possible.
+
+      For the purposes of rules governing modification of instruments,
+      the text, power, ID number, and title of a rule are all
+      substantive aspects of the rule.  However, rules to the contrary
+      notwithstanding, the Rulekeepor CAN set rule aspects as described
+      elsewhere in this rule.

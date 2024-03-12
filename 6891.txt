@@ -1,0 +1,26 @@
+ID: 6891
+Title: Disentanglement
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2246 (Submitting a CFJ to the Justiciar) by prepending
+       The Justiciar is an imposed office. Its holder is defined else-
+       where in the rules.
+
+Amend Rule 2255 (The Court) by replacing
+       Second Position: Justiciar.
+       Influence Level: 7
+       Position: The Justiciar is granted particular abilities or
+       privileges associated with the judicial process as described
+       elsewhere in the Rules.
+with
+       Second Position: Chief Justice.
+       Influence Level: 7
+       Position: As long as e is not the Clerk of the Courts, the
+       Chief Justice is the Justiciar.
+and appending
+       Sixth Position: Puisine Justice
+       Influence Level: 3
+       Position: As long as the Chief Justice is the Clerk of the Courts,
+       the Puisine Justice is the Justiciar.

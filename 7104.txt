@@ -1,0 +1,19 @@
+ID: 7104
+Title: Election Spending
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2154 (Election Procedure) by replacing the first paragraph
+and the following points labelled a) and b) with:
+
+     A player CAN initiate an election for a specified elected office
+     for which no election is already in progress
+
+      a) by announcement, if the office is vacant or assumed;
+
+      b) With 4 Support, or
+
+      c) as a Spending Action, otherwise.
+
+Set the base cost of initiating an election to 10.

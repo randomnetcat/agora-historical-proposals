@@ -1,0 +1,26 @@
+ID: 6974
+Title: No dishonor in deregistration
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 869 (How to Join and Leave Agora) to replace this text:
+
+      A player CAN deregister by announcement. A person CANNOT
+      register within thirty days after being deregistered by any
+      means other than by a mechanism that the rules explicitly
+      describe as a means of honorable deregistration.
+
+with this text:
+
+      A player CAN deregister by announcement.  A person CANNOT
+      register within thirty days after being deregistered, unless
+      rules define the method of deregistration as passive.
+
+Amend Rule 2130 (Activity) by replacing this text:
+
+      This is a means of honorable deregistration.
+
+with this text:
+
+      This is a passive method of deregistration.

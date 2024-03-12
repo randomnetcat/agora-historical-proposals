@@ -1,0 +1,10 @@
+ID: 7042
+Title: What's a rank?
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+[Promotor note: marked disinterested.]
+
+Amend Rule 911 (Appeal Cases) by replacing "max(3,1+2*R) members
+(where R is the rank of the prior case)" with "three members".

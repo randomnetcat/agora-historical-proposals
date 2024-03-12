@@ -1,0 +1,25 @@
+ID: 7087
+Title: CV
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2333 (Contests) by replacing:
+
+     The contest's instructions should include conditions under which
+     one or more persons win the contest. When one or more persons
+     win a contest, those persons satisfy the Victory Condition of
+     Victory.
+
+with:
+
+     The contest's instructions should include conditions under which
+     persons "win the contest".  Upon an announcement by the
+     contestmaster that one or more persons satisfy those conditions,
+     all those persons satisfy the Victory Condition of Victory.
+     Intentionally making a false such announcement is the Class-4
+     Crime of Gaming the System.
+
+[This just restores the old language about the contestmaster making an
+announcement, which I think fits much better with the spirit of the
+rule than scshunt's platonic version.]

@@ -8,25 +8,25 @@ Wooble is a coauthor of this proposal.
 
 Amend rule 2193 as follows: if the text
 
-   Any Monster (a deputy) CAN perform an action as if e held a
-   particular office (deputise for that office) if:
+� � � Any Monster (a deputy) CAN perform an action as if e held a
+� � � particular office (deputise for that office) if:
 
-   (a) the rules require the holder of that office, by virtue of
-     holding that office, to perform the action (or, if the
-     office is vacant, would so require if the office were
-     filled
+� � � (a) the rules require the holder of that office, by virtue of
+� � � � � holding that office, to perform the action (or, if the
+� � � � � office is vacant, would so require if the office were
+� � � � � filled
 
 exists in rule 2193, then replace it with the following; otherwise, 
 insert the following after the paragraph containing the 
 word "Monsteredict":
 
-   Any Monster (a deputy) CAN perform an action as if e held a
-   particular office (deputise for that office) if:
+� � � Any Monster (a deputy) CAN perform an action as if e held a
+� � � particular office (deputise for that office) if:
 
-   (a) the rules require the holder of that office, by virtue of
-     holding that office, to perform the action (or, if the
-     office is vacant, would so require if the office were
-     filled); and
+� � � (a) the rules require the holder of that office, by virtue of
+� � � � � holding that office, to perform the action (or, if the
+� � � � � office is vacant, would so require if the office were
+� � � � � filled); and
 
-   (b) a time limit by which the rules require the action to be
-     performed has expired
+� � � (b) a time limit by which the rules require the action to be
+� � � � � performed has expired

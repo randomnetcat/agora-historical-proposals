@@ -1,0 +1,22 @@
+ID: 7091
+Title: Point Vouchers
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Create a new Power-2 Rule:
+
+     Point Vouchers are a class of assets tracked by the Scorekeepor;
+     multiple Point Vouchers with the same creation date are
+     fungible.  A player CAN, as a Spending Action with a cost of one
+     point, create a Point Voucher in eir possession.  At the start
+     of the second Agoran week after a Point Voucher is created, its
+     current owner gains one point and the Voucher is destroyed.
+
+If Rule 2349 does not define Spending Actions, amend that rule by
+replacing "as a Spending Action with" with "for"
+
+[Suppose I create a lottery where everyone transfers me points, and I
+award the lot to a random participant; but in the process I get over
+250 points and someone makes me win.  This mechanism works around that
+without making it too easy to hoard points.]

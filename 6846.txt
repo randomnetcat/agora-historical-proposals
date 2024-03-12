@@ -1,0 +1,15 @@
+ID: 6846
+Title: "Those are our fans"
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Award the Team of Murphy, Tiger and Wooble 31, and the Team of coppro,
+Keba, Taral and Warrigal 35 Fans.
+
+[If the PSM had reported in time, I assume ais523 would have split the
+teams earlier and so the two new teams would have gained more Fans. It's
+just fair to update the gamestate then.
+
+Team 1: BobTHJ[+4], Murphy[+15], Tiger[+7], Wooble[+10] -> 31
+Team 2: coppro[+18], Keba[+7], Taral[+4], Warrigal[+6]] -> 35

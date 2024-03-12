@@ -1,0 +1,9 @@
+ID: 6857
+Title: "Spelling reform begins with Agora"
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1.0
+
+In all rules, replace all instances of the string "judge" (and the
+string "judg" where it is not followed by an "e") with the string
+"juj".

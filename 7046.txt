@@ -1,0 +1,23 @@
+ID: 7046
+Title: The Machine
+Author: Walker
+Co-authors: ehird
+Adoption index: 1
+
+[ Disclaimer: I have no idea. ]
+
+Enact a new Rule entitled "The Machine" with the following text:
+
+     There exists an abstract entity called the Machine. The
+     Machinekeepor is an office, and tracker of the Machine. The
+     Machine possesses a switch, the Power Switch, tracked by the
+     Machinekeepor, with values of On and Off (default).
+
+     The Machine possesses a switch, the Magic switch, tracked by the
+     Machinekeepor, with values of Magic and More Magic (default).
+     Whenever the Magic switch is set to Magic, the Power switch is
+     set to Off immediately and CANNOT be flipped.
+
+     If the Magic switch is set to More Magic, the Machinekeepor CAN
+     flip the Power switch to On by announcement. The Machinekeepor
+     CAN flip the Power switch to Off by announcement.

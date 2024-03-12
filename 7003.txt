@@ -1,0 +1,49 @@
+ID: 7003
+Title: Decision Decisions
+Author: Walker
+Co-authors: 
+Adoption index: 3.0
+
+[ This allows decisions to define their own outcomes, sets the
+eligible voters on a decision to be the active first-class players
+expect where the rules say otherwise, and removes some superfluous
+sections defining voting limits as 1 although they would be anyway
+without them. I've checked and none of this clashes with omd's
+Soles/Souls proposals. ]
+
+Amend Rule 955 (Determining the Will of Agora) by inserting the
+following after paragraph (b) and replacing the second "(c)" with
+"(d)".
+
+      (c) If the rule defining a particular type of decision attempts
+          to define a method for determining the outcome of such
+          decisions, then this method is used.
+
+Amend Rule 1367 (Degrees) by removing ", rules to the contrary
+notwithstanding," and setting its power to 1.
+
+Amend Rule 693 (Agoran Decisions) by appending
+
+      The eligible voters on an Agoran Decision are the first-class
+      players who are active when the decision is initiated, except
+      where the rules say otherwise.
+
+Amend Rule 2154 (Election Procedure) by removing
+
+      2) The eligible voters are the active first-class players.
+
+      3) Each eligible voter's voting limit is one.
+
+and by replacing "4)" with "2)".
+
+Amend Rule 1950 (Voting on Democratic Decisions) by removing
+
+     The eligible voters on a democratic decision are those entities
+     that were active first-class players at the start of its voting
+     period.  The voting limit of each eligible voter on a democratic
+     decision is one.
+
+Amend Rule 1367 (Degrees) by removing
+
+      - The eligible voters are each active player at the time the
+        decision is initiated.

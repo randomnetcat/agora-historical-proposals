@@ -1,0 +1,71 @@
+ID: 4624
+Title: Crimson Go
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+[Apologies to Murphy for the partial theft]
+
+Create a new rule titled "Takeover Proposals" with Power=2 and
+this text:
+
+       Initiative is a stuck player switch, tracked by the Assessor,
+       with values Gote and Sente.
+
+       A Takeover Proposal is a proposal meeting these requirements:
+
+         (a) It is labelled as a Takeover Proposal.
+         (b) No Takeover Proposal has been submitted earlier in the
+             same month.
+         (c) It specifies a set of players (hereafter the Corporate
+             Raiders) that is no larger than P/2 or smaller than P/3,
+             where P is the number of active noisy players at the time
+             of submission.
+
+       Rules to the Contrary nonwithstanding, a Takeover Proposal is
+       both Democratic and Sane.
+
+       At the beginning of a Takeover Proposal's voting period, all
+       players have their initiative flipped to Gote.  At the end of a
+       Takeover Proposal's voting period, all players have their
+       initiative flipped as follows:
+         (a) Adopted:  All Corporate Raiders gain Sente.
+         (b) Rejected:  All other players gain Sente.
+         (c) Failed quorum:  No one gains Sente.
+
+
+Amend Rule 1950 (Voting Power) by replacing:
+       (b) An entity's Voting Power on a Democratic Proposal is as
+           follows:
+
+             * A Player:
+                   (a) two plus that Player's Voting Potential if that
+                       Player has zero Share Holdings.
+                   (b) one plus that Player's Voting Potential
+                       otherwise.
+
+             * Any other entity: as defined in the Rules, with a
+               default of zero if the Rules don't specify the Voting
+               power on a Democratic Proposal for that entity.
+
+with:
+       (b) An entity's Voting Power on a Democratic Proposal is as
+           follows:
+           (1) A Player:
+                   (i)  that Player's Voting Potential if that Player
+                        has Sente.
+                   (ii) one otherwise.
+           (2) Any other entity: as defined in the Rules, with a
+               default of zero if the Rules don't specify the Voting
+               power on a Democratic Proposal for that entity.
+
+
+Amend Rule 1664 (Rebellion) by replacing:
+          - All Stock Cards in the possession of Abiding Players are
+            returned to the Deck
+
+with:
+          - All Stock Cards in the possession of Abiding Players are
+            returned to the Deck, and all Abiding Players have their
+            initiative switched to Gote.

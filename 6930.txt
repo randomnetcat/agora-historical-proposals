@@ -1,0 +1,28 @@
+ID: 6930
+Title: Fix ratification
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+In rule 1551, replace
+{{{
+     When a public document is ratified, the gamestate is minimally
+     modified so that the ratified document was completely true and
+     accurate at the time it was published.
+}}}
+with
+{{{
+     When a public document is ratified, the gamestate is modified to
+     what it would be if the ratified document had, at the time of its
+     publication, minimally changed the gamestate to make that document
+     completely true and accurate (ignoring, for the purposes of
+     calculating the results of that hypothetical change, restrictions
+     on the document's abilities to make such changes applied by the
+     rules or similar documents).
+}}}
+
+[In other words, this proposal causes ratification to calculate an
+effect in the past and apply it to the present, rather than the other
+way round, which is rather dubious. Additionally, avoids issues with
+things like Power in the past preventing the change happening; and
+making it clear that the "minimally" does not exclude knock-on effects.]

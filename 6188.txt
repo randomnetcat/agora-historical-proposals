@@ -1,0 +1,10 @@
+ID: 6188
+Title: Fix the revocation bug
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Replace "awarded" with "awarded or revoked" in Rule 2234 (Rewarding
+Contestmasters).
+
+Create 3 x-points in the possession of Wooble.

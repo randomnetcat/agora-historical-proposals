@@ -1,0 +1,7 @@
+ID: 7128
+Title: Fix 2351
+Author: scshunt
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2351 by replacing "any player" with "any other player".

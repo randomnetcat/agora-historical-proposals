@@ -1,0 +1,90 @@
+ID: 6749
+Title: Teams
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Create a new power-1 rule, "Teams":
+{{{
+A Team is a sort of entity defined by the rules; creation and
+destruction of Teams is secured. Each Team has a name, which if not
+otherwise specified by a rule or proposal is initially "Team " followed
+by the smallest positive integer that would cause the team to have a
+unique name.
+
+Allegiance is a player switch, tracked by the Referee, whose values are
+"none" and all Teams, defaulting to "none". Players whose Allegiance is
+"none" are said to be Independent; otherwise, players are said to be
+"in" the team, and a "member" of the team, which their Allegiance is set
+to. A Team is said to be "empty" if no players are in that team.
+
+To "distribute" a set of Independent players among a set of empty Teams
+is to randomly assign each of those players to a randomly selected Team
+in that set, then repeatedly as long as one of those Teams has at least
+two more members than another, change the assignment of a randomly
+selected player from the  team with most players assigned to it
+(choosing the first in alphabetical order if more than one team fits
+this description) to the team with least players assigned to it (again
+choosing the first in alphabetical order if more than one team fits the
+description); once these assignments have been calculated, then
+simultaneously flip each player's Allegiance to the team they were
+assigned to. (In other words, calculation of which player is going to
+which team can take positive time, but the final flipping of teams must
+be simultaneous and instant.)
+
+If there is ever simultaneously one or more empty Teams, and two or more
+Independent players, then any player CAN by announcement, and the
+Referee SHALL as soon as possible unless someone else does first,
+distribute all Independent players among all empty teams.
+
+If there is ever an Independent player, but no empty Teams, any player
+CAN by announcement, and the Referee SHALL as soon as possible unless
+someone else does first, flip that player's Allegiance to a random Team.
+}}}
+
+Create a new power-1 rule, "The Referee":
+{{{
+The Referee is an office, which does most of the tracking related to
+Teams. Eir report includes a list of all Teams.
+}}}
+
+Create a new power-2 rule, "Fans":
+{{{
+Fans are a fixed asset, tracked by the Referee, whose ownership is
+limited to Teams. Creation and destruction of Fans are secured with a
+power threshold of 1.
+
+Rules to the contrary notwithstanding, the Referee's requirement to
+report a list of all instances of Fans and their owners need not
+reflect changes since the last PSM's report.
+
+Whenever a non-Independent player gains an erg, that player's Allegiance
+gains a Fan. Whenever a Team owns at least 300 Fans, then that Team is
+destroyed and two (empty) Teams are created, plus one extra Team if that
+Team had exactly 3 members immediately before it was destroyed; this is
+known as that team "being Promoted".
+
+Upon a win announcement that there are no Independent players and a
+player has an Allegiance different from all other player's Allegiances,
+then all players with a unique Allegiance among all players satisfy the
+Winning Condition of Applause. Cleanup procedure: All Teams are
+destroyed and two (empty) Teams are created.
+}}}
+
+Create a new power-1 rule, "Team Tactics":
+{{{
+A player can change the name of a Team without 2 objections from members
+of that team.
+
+A player can flip the Allegiance of a chosen player (the target player)
+to an arbitrary Team without 2 objections from members of the target
+player's Allegiance, and without 2 objections from members of the
+desired new value for the target player's Allegiance, unless the target
+player's Allegiance is a team with no more than 2 members.
+}}}
+
+Create two (empty) Teams, one named City and one named United.
+
+Unless at least one player published a message including the unquoted
+text "I want a vote for Referee" during the voting period of an Agoran
+Decision to adopt this proposal, make ais523 the Referee.

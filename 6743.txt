@@ -1,0 +1,12 @@
+ID: 6743
+Title: Some repeals
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Repeal the rules with the following titles:
+- Officer's Proposals
+- Judge's Proposals
+- Induction
+
+[Nobody uses them.]

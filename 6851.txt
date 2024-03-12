@@ -1,0 +1,26 @@
+ID: 6851
+Title: "I could do it for you"
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Destroy all farads gained for authoring an adopted proposal or judging a
+case and all capacitors gained for such farads since the start of this
+week.
+
+Repeal Rule 2295 "Rewards".
+
+Amend Rule 2282 "Energy" by adding the following bullets to the list:
+
+       (e) For each judgment on time in the last week, the judge is
+       awarded
+           a number of ergs equal to the Interest Index of that CFJ.
+
+       (f) For each adopted proposal in the last week, its author is
+           awarded a number of ergs equal to the Interest Index of that
+           proposal.
+
+Increase the Interest Index of the PSM by one.
+
+[First, there are *many* unused farads and second, most players
+shouldn't care much about the economy.]

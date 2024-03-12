@@ -1,0 +1,8 @@
+ID: 7113
+Title: Consent Timing
+Author: woggle
+Co-authors: 
+Adoption index: 3
+
+In Rule 1728 (Dependent Actions) replace "depends on objections or
+notice" with "depends on objections, notice, or consent".

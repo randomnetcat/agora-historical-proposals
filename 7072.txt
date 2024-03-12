@@ -1,0 +1,14 @@
+ID: 7072
+Title: Judicial Rank is Dead
+Author: woggle
+Co-authors: 
+Adoption index: 1.7
+
+Amend rule 911 (Appeals Cases) by replacing:
+                                                Violating this
+      prohibition is the Class-N Crime of Lazy Judging, where N is the
+      judge's rank when e so judged.
+with:
+
+                                              Violating this
+      prohibition is the Class-2 Crime of Lazy Judging.

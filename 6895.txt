@@ -1,0 +1,13 @@
+ID: 6895
+Title: Not Enough Time Mowing Lawns
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2255 (The Court) by replacing:
+       Position: the Head Gardener CAN rubberstamp or veto a specified
+       decision by announcement.
+with
+       Position: the Head Gardener CAN rubberstamp or veto a specified
+       decision by announcement if e has not already done so to a
+       decision that same day.

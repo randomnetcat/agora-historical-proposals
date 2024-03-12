@@ -1,0 +1,32 @@
+ID: 7009
+Title: Officer Points
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+Enact a Power 2 rule entitled "Officer Points" with the following text:
+
+      Weekly Salary is an office switch, tracked by the IADoP, with
+      values of the non-negative integers (default zero). At the
+      beginning of each week, each officer gains a number of points
+      equal to the Weekly Salary of eir office.
+
+      Monthly Salary is an office switch, tracked by the IADoP, with
+      values of the non-negative integers (default zero). At the
+      beginning of each month, each officer gains a number of points
+      equal to the Monthly Salary of eir office.
+
+      Players can change the Weekly or Monthly Salary of an office
+      without two objections or with Agoran Consent.
+
+Set the Weekly and Monthly Salaries of each office as follows:
+
+Office {Weekly Salary, Monthly Salary}
+Assessor {15, 0}
+CotC {20, 0}
+Herald {0, 10}
+IADoP {15, 0}
+Promotor {17, 0}
+Registrar {10, 0}
+Rulekeepor {15, 10}
+Scorekeepor {20, 0}

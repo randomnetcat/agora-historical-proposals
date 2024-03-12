@@ -1,0 +1,20 @@
+ID: 6838
+Title: infinitive wins?
+Author: Keba
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2293 "Leadership Tokens" by replacing:
+
+       A player CAN redeem 3 Leadership Tokens in eir possession to
+       satisfy the Winning Condition of Leadership.
+
+with:
+
+       If a player possesses at least 3 Leadership Tokens, e CAN redeem
+       all Leadership Tokens in eir possession to satisfy the Winning
+       Condition of Leadership.
+
+[If a player uses a scam to possess *many* Leadership Tokens, e should
+not win 100 times, should e? You think, this will never happen? It could
+already have happened, if I had been clever enough.]

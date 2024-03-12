@@ -1,0 +1,11 @@
+ID: 7133
+Title: Rule by Consent
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2352 (The Ambassador) by replacing the second paragraph with:
+
+     Any player CAN, with Agoran Consent, cause Agora to post a blog
+     post (specifying its title, text, and list of categories) or
+     comment (specifying its text) to BlogNomic.

@@ -1,0 +1,12 @@
+ID: 6270
+Title: Ease the rush
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Remove the text
+{{{
+          unless another player has already done so
+          during that Birthday.
+}}}
+from rule 2126.

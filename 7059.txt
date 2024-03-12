@@ -1,0 +1,32 @@
+ID: 7059
+Title: Victory case cleanup
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+[Partly motivated by not wanting to rewrite the CotC DB code to handle
+cases that start with a panel, but includes some other things as well.]
+
+Amend Rule 2343 (Victory Cases) by replacing this text:
+
+     The entities eligible to be assigned as judges of a victory case
+     are those judicial panels consisting of three first-class
+     players, none of them having called the case or been
+     disqualified as below. A player can be disqualified from judging
+     a victory case with Agoran Consent. The CotC SHOULD NOT assign a
+     panel to a victory case if there is a pending intent to
+     disqualify one of its members unless it is clear that the intent
+     will fail. Players SHOULD be disqualified only if they have a
+     vested interest in the victory, such as having been a
+     co-scammer.
+
+with this text:
+
+     The initiator of a victory case and the supporter(s) of its
+     initiation are disqualified to be assigned as its judge.  A player
+     CAN, with Agoran consent, disqualify another player from being
+     assigned as the judge of a specified victory case; this SHOULD be
+     done if and only if the other player has a vested interest in that
+     victory, such as having been a co-scammer.  The CotC SHOULD NOT
+     assign a player to a victory case if there is a pending attempt to
+     disqualify em, unless it seems reasonably likely to fail.

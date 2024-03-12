@@ -1,0 +1,24 @@
+ID: 6256
+Title: Inactivity is unpopular
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2211 by replacing
+
+      At the beginning of each month, each Alpha's caste is flipped to
+      eir default value.  As soon as possible after the beginning of
+      each month, the Grand Poobah SHALL do the following, in order,
+      at each step choosing (if possible) a player who has not yet
+      been chosen during the current procedure:
+
+with
+
+
+      At the beginning of each month, each Alpha's caste is flipped to
+      eir default value.  As soon as possible after the beginning of
+      each month, the Grand Poobah SHALL do the following, in order,
+      at each step choosing either an inactive player, or an active
+      player who has been chosen a number of times during the current
+      procedure that is no greater than the number of times any other
+      player has been chosen during the current procedure:

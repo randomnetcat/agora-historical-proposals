@@ -1,0 +1,9 @@
+ID: 6245
+Title: Fix leaning
+Author: coppro
+Co-authors: 
+Adoption index: 1.7
+
+Amend rule 911 by replacing {qualified to be assigned as judge of the
+prior case} with {qualified to be assigned as judge of the prior case or
+qualified to serve on appeals panels}.

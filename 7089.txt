@@ -1,0 +1,19 @@
+ID: 7089
+Title: Waiting a week makes the game too slow
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[Allows me to distribute proposals submitted this week if there is
+volume left over.
+
+(Did I somehow already submit this proposal?)]
+
+Amend Rule 1607 (The Promotor) by replacing:
+
+     The Promotor SHALL NOT distribute any other proposals.
+
+with:
+
+     In a given Agoran week, the Promotor SHALL NOT distribute a
+     number of proposals greater than the Legislative Volume.

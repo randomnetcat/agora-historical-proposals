@@ -1,0 +1,33 @@
+ID: 6820
+Title: Minority becomes majority
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2290 "Chamber and Title" by replacing this text:
+
+       A player CAN change eir Title by announcement if e has not
+       already done so previously in the same month. In the same
+       message in which a player submits a proposal, e CAN set its
+       Chamber by announcement. Changes to Title are secured.
+
+with:
+
+       A player CAN change eir Title by announcement if eir Title has
+       not changed in the same month. At the beginning of each month
+       the title of all players whose title has not changed in the
+       previous month and is the most common Title among players  is
+       changed to the least common title among players. In the case of
+       a tie, they are changed to the superior title and in the case
+       all Titles are equally often possessed by players, nothing is
+       done.
+
+       In the same message in which a player submits a proposal, e CAN
+       set its Chamber by announcement. Changes to Title are secured.
+
+[Note that amending the original paragraph means that these auto-changes
+could happen at most all two months to a single player, not every month.
+
+"In the same message in which a player submits a proposal, e CAN set its
+Chamber by announcement. Changes to Title are secured." is not changed,
+itâ€™s just set to a new paragraph.]

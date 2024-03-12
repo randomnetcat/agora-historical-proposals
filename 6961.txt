@@ -1,0 +1,183 @@
+ID: 6961
+Title: 52-pickup v2
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+[General repeal of 52 rules (I think!) to basic Democratic system.  
+Adds one small new toy for the speaker.  Judicial untouched except for 
+removing rests while leaving other punishments].
+
+Repeal the following Rules in the order indicated:
+  Rule 2186 (Power=2) Victory
+  Rule 2245 (Power=1) Win by Not Losing
+  Rule 2110 (Power=1) Win by Paradox
+  Rule 2221 (Power=3) Cleanliness
+  Rule 2223 (Power=1) Win by Junta
+  Rule 2268 (Power=2) Entanglement
+  Rule 2177 (Power=2) The Senate
+  Rule 2319 (Power=3) Messy Statements
+  Rule 2215 (Power=1) Truthiness
+  Rule 2228 (Power=2) Rests
+  Rule 2229 (Power=2) Just Resting
+  Rule 2312 (Power=1.7) The Pariah
+  Rule 2325 (Power=1) Zombies
+  Rule 2296 (Power=1) Festival Days
+  Rule 2227 (Power=1) Interest Index of Offices
+  Rule 2196 (Power=3) Standard Classes of Agoran Decisions
+  Rule 2222 (Power=2) Maximum Voting Limits
+  Rule 2250 (Power=1) Officer's Proposals
+  Rule 2267 (Power=1.5) Judge's Proposals
+  Rule 2156 (Power=2) Voting on Ordinary Decisions
+  Rule 2279 (Power=2) Voting Limits on Ordinary Decisions
+  Rule 1450 (Power=2) Separation of Powers
+  Rule 2134 (Power=2) Win by Clout
+  Rule 2313 (Power=3) Urgent Proposals
+  Rule 2317 (Power=1) Leet Leadership
+  Rule 2281 (Power=3) Proposal Cleanup
+  Rule 2224 (Power=1) Interest Index of Proposals
+  Rule 2188 (Power=1) Win by Proposal
+  Rule 2309 (Power=1) The Propose-O-Matic
+  Rule 2322 (Power=1) Groups
+  Rule 2246 (Power=2) Submitting a CFJ to the Justiciar
+  Rule 2225 (Power=1.5) Interest Index of Judicial Cases
+  Rule 2226 (Power=1.5) Judicial Rank
+  Rule 2248 (Power=2) Second-Class Judges
+  Rule 2282 (Power=2) Energy
+  Rule 2289 (Power=2) Capacitors
+  Rule 2295 (Power=2) Rewards
+  Rule 2283 (Power=2) Fees
+  Rule 2284 (Power=2) Fee-based actions
+  Rule 2287 (Power=1) Props
+  Rule 2293 (Power=1.7) Leadership Tokens
+  Rule 2308 (Power=1) Contests
+  Rule 2320 (Power=1) Auctions and the Default Auction Procedure
+  Rule 2323 (Power=1) Fee-based auctions
+  Rule 2321 (Power=1) Proposal Points
+  Rule 1922 (Power=1) Defined Regular Patent Titles
+  Rule 2314 (Power=2) The List of Succession
+  Rule 2255 (Power=2) The Court
+  Rule 402 (Power=2) Identity of the Speaker
+  Rule 2316 (Power=1) Church and State
+  Rule 2270 (Power=2) Coups D'etat
+  Rule 2286 (Power=2) Veto and Rubberstamp
+
+
+Create a power-2 Rule entitled "The President":
+
+        The President is a second-class person.  The President CAN
+        only take actions as explicitly described/caused by a Rule
+        or other instrument of a power equal to or greater than the
+        power of this Rule.
+
+        A first-class Player CAN cause the President to take actions
+        Without Objection, or with Agoran Consent.
+
+
+Amend Rule 103 (Role of the Speaker) by changing its title to
+"The Speaker" and amending it to read:
+
+        The Speaker is an imposed office and a figurehead of Agora. The
+        Speaker is a person who has proven themselves to be worthy of
+        the title, and for a time can direct Agoran government affairs.
+
+        The Speaker is the single first-class player (if any) who holds
+        the most Postulated Offices.
+
+        The Speaker CAN, by announcement, cause the President to take
+        actions that are not otherwise IMPOSSIBLE, except for
+        deregistration.  Causing the President to perform ILLEGAL actions
+        in this manner is the Class-6 crime of Misleading the Leader.
+
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing
+        The entities qualified to be assigned as judge of a judicial
+        case are the active players who have not previously been
+        assigned as its judge, subject to modification by other rules.
+        Being unqualified to be assigned as a judge does not inherently
+        prevent an entity from continuing to be judge of a case to which
+        e is already assigned.
+with:
+        The entities qualified to be assigned as judge of a judicial
+        case are the active first-class players who have not previously been
+        assigned as its judge, subject to modification by other rules.
+        Being unqualified to be assigned as a judge does not inherently
+        prevent an entity from continuing to be judge of a case to which
+        e is already assigned.  Rules to the contrary notwithstanding,
+        second-class players are always unqualified to judge.
+
+
+Set the citizenship of The President to Registered.
+
+
+Amend Rule 1950 (Voting on Democratic Decisions) to read:
+
+       An Agoran decision with an adoption index is a Democratic
+       decision.
+
+       An Agoran decision with an adoption index has the following
+       essential parameters:
+
+       a) Its adoption index.
+       b) Its author (and co-authors, if any).
+
+       For any Agoran decision with an adoption index, the available
+       options are FOR and AGAINST.
+
+       The eligible voters on a democratic decision are those entities
+       that were active first-class players at the start of its voting
+       period.  The voting limit of each eligible voter on a democratic
+       decision is one.
+
+
+Amend Rule 1607 (The Promotor) to read:
+
+       The Promotor is an office; its holder is responsible for
+       receiving and distributing proposals.
+
+       Distributability is switch possessed by proposals in the
+       proposal pool, tracked by the Promotor, with values
+       Distributable (default) and Undistributable.
+
+       The Promotor CAN distribute a proposal which is in the Proposal
+       Pool at any time.  In a given Agoran week, the Promotor SHALL,
+       as part of eir weekly duties, distribute any proposal that is in
+       the Proposal Pool and was Distributable at the beginning of that
+       Agoran week.  The Promotor SHALL NOT distribute an
+       Undistributable proposal.
+
+       Distributed proposals have ID numbers, to be assigned by the
+       Promotor.
+
+       The Promotor's report includes a list of all proposals in the
+       Proposal Pool.
+
+
+Amend Rule 2230 (Notices of Violation) by removing:
+       If a NoV is Uncontested and was published at least four days
+       ago, any player CAN cause it to become Closed by announcement.
+       Any player CAN cause a NoV specifying em as Accused to become
+       Closed by announcement. When a NoV becomes Closed, a number of
+       Rests are created in the possession of the Accused equal to the
+       Class of the specified Crime, or in its absence the Power of the
+       violated rule, rounded up.  If a Closed NoV becomes Contested,
+       these Rests remain, but CAN be later destroyed by judicial
+       processes as described elsewhere.
+
+
+Amend Rule 1504 (Criminal Cases) by removing:
+       When a judicial question on culpability is judged after a number
+       of rests have been created in the Accused's possession due to
+       the associated notice, those rests are destroyed.
+and by removing:
+       * SILENCE with a positive number less than 15 (X). If a
+         judgement of SILENCE has been in effect continuously for one
+         week (or longer), any player CAN once create a number of Rests
+         equal to X in the possession of the ninny, by announcement.
+
+
+Amend Rule 2277 (Appeals of Criminal Cases) by removing:
+       If a verdict or sentence that led to the creation of Rests is
+       overruled, remanded, or reassigned, the Rests are still
+       considered to have been created, but any player CAN destroy any
+       Rests thus created by announcement.

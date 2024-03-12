@@ -1,0 +1,11 @@
+ID: 7100
+Title: Promise panels
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Change "limited to persons and the Tree" to "limited to persons,
+judicial panels, and the Tree" in rule 2337.
+
+Change "A Player CAN cash a promise" to "An entity CAN cash a promise"
+in rule 2338.

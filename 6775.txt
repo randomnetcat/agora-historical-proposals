@@ -1,0 +1,8 @@
+ID: 6775
+Title: clarify collisions
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2301 by replacing "A collision occurs when two objects"
+with "Collisions occur between two objects which".

@@ -1,0 +1,32 @@
+ID: 6841
+Title: Clarify voting limits
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 683 (Voting on Agoran Decisions) by replacing this text:
+
+     where N is the entity's voting limit on that decision.
+
+with this text:
+
+     where N is the entity's voting limit on that decision as of the
+     end of its voting period.
+
+Amend Rule 2156 (Voting on Ordinary Decisions) to read:
+
+     The eligible voters on an ordinary decision are the players who
+     were active at the start of its voting period. The voting limit
+     of a player on an ordinary decision is defined as follows:
+
+followed by just the numbered items from Rule 2279 (Voting Limits on
+Ordinary Decisions).
+
+Repeal Rule 2279.
+
+Amend Rule 2280 (Implicit Votes) to read:
+
+     When an eligible voter on an Agoran decision casts ballots
+     without explicitly specifying the number (e.g. "FOR" instead of
+     "FOR*1" or "FOR*3"), the number is considered to be equal to eir
+     voting limit on that decision.

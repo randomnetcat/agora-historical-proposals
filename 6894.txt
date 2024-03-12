@@ -1,0 +1,15 @@
+ID: 6894
+Title: Decriminalize Fear
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2224, replace:
+      The submitter of a proposal SHALL set its interest index to 0 if
+      and only if the proposal's effects are limited to correcting
+      errors and/or ambiguities.
+with:
+      The submitter of a proposal SHALL set its interest index to 0 if
+      and only if the proposal's effects are limited to correcting
+      errors and/or ambiguities, or if e is required by another rule
+      to submit a disinterested proposal.

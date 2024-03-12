@@ -1,0 +1,14 @@
+ID: 7043
+Title: Judge Points Fix
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2335 (Judge Points) by replacing
+
+e gains 5 points.
+
+with:
+
+e gains 5 points, unless e
+     has already assigned judgement to the same case before.

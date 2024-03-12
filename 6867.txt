@@ -1,0 +1,22 @@
+ID: 6867
+Title: F fix
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2283 (Fees) by replacing the second paragraph with:
+
+      A rule which purports to allow a person to perform an action for
+      a fee thereby allows em to perform the action by announcement
+      provided that:
+
+         (a) in the announcement, e states that there is a fee for
+             that action, and
+
+         (b) the number of ergs in eir possession is greater than or
+             equal to the fee.
+
+      Upon such an announcement, a number of ergs equal to the fee is
+      destroyed in eir possession.
+
+[patterned on R1728, clarifies precedence]

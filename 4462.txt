@@ -1,0 +1,120 @@
+ID: 4462
+Title: Saner Thesis Committees
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+Saner Thesis Committees
+
+[ V 1.0
+- Brings sanity to committee selection by making non-Chair choices
+    the responsibility of a "neutral" officer rather than by Opposites.
+    Hopefully the neutral Officer will balance the process without
+    requiring complicated algorithms.
+  - Like current system, first two committee members are players, third
+    may be any person.
+  - Allows some measure of academic feedback/exchange between candidate
+    and committee (drafts, commentary).  Under the current system a typo
+    would become part of a thesis forever unless a new committee were
+    formed.  More importantly the Committee can now request revisions
+    rather than accept or reject (and still reject if the work is below
+    standards).
+  - Allows termination of the process and thus would not choke an
+    arbitrary Turing Thesis Committee (currently, all past committee
+    members are still committee members).
+]
+
+Amend 1370 to read:
+
+     A person becomes a Candidate for a Degree when e publishes a
+     Thesis Draft, authored by emself, along with a statement explicitly
+     indicating that the Thesis Draft is being submitted with the intent
+     to qualify for a particular degree.
+
+     If the Candidate is a Player, e may choose another Player to be the
+     first member of eir Thesis Committee, called eir Chair, with the
+     Chair's consent.  For non-players, or if no other Player consents to
+     be the Chair within one month of draft submission, the Speaker will
+     serve as Chair.
+
+     If the Speaker is neither the Chair nor the Candidate, the Speaker
+     shall appoint a Player who is neither the Chair nor the Candidate to
+     be the second Committee member.  Otherwise, the Justiciar shall so
+     appoint, unless the Chair or the Candidate is the Justiciar, in which
+     case the Clerk of the Courts shall so appoint.  The two Committee
+     members shall then select, by mutual consent, a third person who is
+     not the Candidate to be the third Committee member.
+
+     The Committee shall examine the Candidate and eir Thesis to determine
+     eir qualifications for the Degree.  The Candidate may publish a new
+     Thesis Draft at any time, in response to Committee requests or of eir
+     own choosing, by indicating it is a new Thesis Draft for the same
+     Degree.
+
+     If the Committee is dissolved without granting a degree, the Committee
+     ceases to be a Committee, and the Candidate ceases to be a Candidate,
+     and any existant Thesis Draft must be republished and subject to a
+     new Committee selection to be eligible for a Degree.
+
+     The Chair of a Thesis Committee may dissolve the Committee without
+     granting a degree, with the consent of at least one other Committee
+     member.  To so dissolve, the Chair must publish a notice of intent to
+     dissolve at least 14 days before dissolving.  The Candidate may so
+     dissolve the Committee at any time by public announcement.
+
+     The Chair of the Thesis Committee for a particular Candidate may
+     award that Degree to the Candidate if and only if:
+
+      * the Candidate has satisfied all prerequisites in the rules for
+        the award of that Degree;
+      * a majority of members of the Thesis Committee agree that the
+        most recent Thesis draft produced by the Candidate is worthy
+        of the Degree to be granted; and
+      * fewer than seven years have passed since that Committee was
+        formed.
+
+      Each Committee Member may have up to 14 days after a Degree is awarded
+      to publish a Commentary for the Thesis.  After that time, the Chair
+      shall publish the most recent Thesis Draft along with all Commentary
+      so published.  This combined publication shall become the Final 
+Thesis.
+      Upon publication of this Final Thesis the Committee members cease to
+      be Committee members for that Thesis.
+
+      The Rulekeepor shall retain a copy of each Final Thesis.
+
+
+Upon the adoption of this Proposal, all Theses that have resulted in
+the past awarding of Degrees shall be considered Final Theses.
+
+If any Theses have been published in the last 6 months but degrees
+not yet been awarded nor explicitly been turned down for awarding,
+then those Theses become Thesis drafts, and any
+appointed chairs or committee members remain chairs or committee
+members.  All other chairs and committee members cease to be chairs
+or committee members.
+
+Enact the following Rule entitled "Awardable Degrees":
+
+      The Degree of Associate of Nomic requires a Thesis of at least
+      150 words.  A Candidate who already holds an AN Degree receives
+      a credit of 100 words towards the Thesis requirement for any
+      higher Degree, unless the Candidate also holds a BN Degree.
+
+      The Degree of Bachelor of Nomic requires a Thesis of at least
+      500 words.  A Candidate who already holds an BN Degree receives
+      a credit of 250 words towards the Thesis requirement for any
+      higher Degree.
+
+      The Degree of Doctor of Nomic History requires a Thesis of at
+      least 750 words and containing a narrative covering significant
+      events which have occurred in Agora within the eight weeks prior
+      to the publication of the Thesis.
+
+      The Degree of Master of Nomic requires a Thesis of at least 750
+      words.
+
+      The Degree of Doctor of Nomic Philosophy requires a Thesis of at
+      least 1000 words, and that the candidate has also published an
+      additional creative work authored by emself whose topic or theme
+      is related to Agora or Nomic in general.

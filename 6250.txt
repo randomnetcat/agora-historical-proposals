@@ -1,0 +1,34 @@
+ID: 6250
+Title: Reworking the Anarchist
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+
+The Anarchist's proposals are rarely accepted. This proposal proposes
+two changes, both of which serve the purpose of having the Anarchist's
+proposals actually be accepted. First, the Anarchist is given the power
+to select the rules e wishes to repeal rather than having to randomly
+select some (which will often net em with having rules that nobody wants
+to repeal). Second, it gives the Anarchist the power to submit other
+relevant changes, so as not to leave the rules in disarray if any of eir
+proposals are to be accepted. These changes should dramatically
+increase the adoption rate of the Anarchist's proposals.
+
+Amend Rule 2216 (The Repeal-o-Matic) to read:
+
+      The Anarchist is an office; its holder is responsible for
+      proposing the repeal of rules.
+
+      The Anarchist's weekly duties include picking one or more rules
+      and submitting proposals to repeal each of those rules. The
+      Anarchist SHOULD include in eir proposals other relevant changes
+      so as not to have negative effects on the Rules. The Anarchist
+      SHALL NOT submit a proposal to repeal a rule for which e already
+      submitted a proposal to repeal within the last month. The
+      adoption index of each of the Anarchist's proposals is equal to
+      the maximum power of the rule e is to amend.
+
+      The Anarchist's monthly report includes a list of the titles and
+      texts of the proposals e submitted as part of eir weekly duties
+      in the preceding month.

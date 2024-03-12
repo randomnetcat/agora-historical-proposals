@@ -1,0 +1,85 @@
+ID: 6919
+Title: This gets on my nerves
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2152 by appending the following text to the first paragraph:
+
+      Where an action is expressed using the passive voice, these
+      terms apply to the semantic rather than grammatical action.
+
+Amend Rule 2170 by replacing:
+
+      the judge SHALL as soon as possible publish a judicial
+      declaration that the Sock Puppet was a person during one or more
+      time periods, and SHOULD ensure that it corresponds to general
+      belief prior to that finding.
+
+with:
+
+      the judge SHALL as soon as possible publish a judicial
+      declaration that the Sock Puppet was a person during one or more
+      time periods, which SHOULD correspond to general belief prior to
+      that finding.
+
+Amend Rule 2153 by replacing:
+
+      When altering an entity's interest index, a person SHOULD try to
+      pick a new value which reflects the complexity of that entity.
+
+with:
+
+      An entity's interest index SHOULD be proportional to its
+      complexity.
+
+Amend Rule 2205 by replacing:
+
+      When submitting arguments and/or evidence, a player SHOULD
+      classify matters of legal interpretation as arguments, and
+      matters of fact as evidence.
+
+with:
+
+      Matters of legal interpretation SHOULD be classified as
+      arguments; matters of fact SHOULD be classified as evidence.
+
+Amend Rule 2231 by replacing:
+
+      Players SHOULD NOT cause heroic titles to be revoked.
+
+with:
+
+      Heroic titles SHOULD NOT be revoked.
+
+Amend Rule 106 by replacing:
+
+      When creating proposals, the person who creates them SHOULD
+      ensure that the proposal outlines changes to be made to Agora,
+
+with:
+
+      The functional part of a proposal outlines changes to be made to
+      Agora,
+
+Amend Rule 1504 by replacing:
+
+      Players SHOULD NOT create rules defining Crimes of a Class
+      greater than 14.
+
+with:
+
+      Crimes SHOULD NOT be created with a class greater than 14.
+
+Amend Rule 591 by replacing:
+
+      Players SHOULD take the judgement of the question in an inquiry
+      case, and the reasoning by which it was reached, into account
+
+with:
+
+      Persons SHOULD take the judgement of the question in an inquiry
+      case, and the reasoning by which it was reached, into account
+
+[this one does work better in the active voice, but should not be
+restricted to players]

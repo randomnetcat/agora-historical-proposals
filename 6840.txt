@@ -1,0 +1,30 @@
+ID: 6840
+Title: Coup Bug Fix
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Any coup that has begun since September 1, 2010 while a
+previous coup was in progress (i.e. begun and not resolved) is
+hereby deemed to have failed to begin (e.g. is treated as if it
+were IMPOSSIBLE to so begin a coup at the time) and all game
+effects of successfully starting or resolving such a coup are
+thus nullified.
+
+If a coup has been resolved since Sept 1, 2010, all Rebels
+hereby cease being Rebels.
+
+Amend Rule 2270 (Coups D'etat) by replacing:
+
+       When a player begins a Coup D'etat (a coup) as explicitly
+       permitted by the Rules, the following events take place in
+       order:
+with:
+       When a player begins a Coup D'etat (a coup) as explicitly
+       permitted by the Rules, the following events take place in
+       order.  A coup CANNOT be begun if a previous coup has
+       begun and not been resolved.
+
+and by appending the following to the end of the Rule:
+
+       (iii) All Rebels cease being Rebels.

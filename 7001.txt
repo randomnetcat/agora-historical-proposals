@@ -1,0 +1,19 @@
+ID: 7001
+Title: Lateness Elections
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by replacing
+
+       a) by announcement, if e is the IADoP, or the office is vacant
+          or assumed, or no election has been initiated for the office
+          within 90 days before the announcement;
+
+with:
+
+       a) by announcement, if e is the IADoP, or the office is vacant
+          or assumed, or if the officer has twice failed to complete
+          all of eir duties on time in the past two months, or no
+          election has been initiated for the office within 90 days
+          before the announcement;

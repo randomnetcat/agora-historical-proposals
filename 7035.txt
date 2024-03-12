@@ -1,0 +1,12 @@
+ID: 7035
+Title: I like it in that report better
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2336 (Office Points) by replacing each instance of "IADoP"
+with "Scorekeepor".
+
+[I typically want to see the salaries along with the Scorekeepor
+report, and IADoP is already a pain and a half; move it to a far less
+difficult office.]

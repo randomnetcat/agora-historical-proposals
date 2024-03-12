@@ -1,0 +1,11 @@
+ID: 6770
+Title: stolen from G.
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2300 by replacing "During this time any other player can"
+with "During this time any other player who was on the Bridge when the
+button was pushed can".
+[Support can come from anywhere, but where else would you initiate a
+mutiny from but the bridge?]

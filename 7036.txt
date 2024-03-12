@@ -1,0 +1,28 @@
+ID: 7036
+Title: Clean up radioactive waste.
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2337 by deleting the sentence "The Tree is an entity for
+holding promises." and by replacing the last paragraph with
+     The creation, transferring, cashing, and destruction of promises
+     is secured. The author of a Promise owned by the Lost and Found
+     Department CAN transfer it or destroy it by annoucement.
+
+Amend Rule 2338 by deleting
+     If a promise is possessed by the Tree, any player except the
+     promise's author CAN transfer it to emself by announcement, if e
+     cashes the promise in the same message in which e transfers it
+     to emself.
+
+Enact a new rule entitled "The Tree" with power 2 and text
+     The Tree is an entity that can possess promises.
+
+     If a promise is owned by the Tree, then any player other than
+     its author CAN transfer it to emself by announcement provided
+     e cashes it in the same message (subject to all usual conditions
+     of cashing a promise).
+
+     If a promise is owned by the Tree, then its author CAN transfer
+     or destroy it with notice.

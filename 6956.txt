@@ -1,0 +1,13 @@
+ID: 6956
+Title: Fix holidays
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1769 (Holidays) by replacing this text:
+
+      the time of another event,
+
+with this text:
+
+      the time of another event occurring at a different instant,

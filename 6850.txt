@@ -1,0 +1,11 @@
+ID: 6850
+Title: "A Nicer Fix"
+Author: Murphy
+Co-authors: Keba
+Adoption index: 2.0
+
+Amend Rule 2282 (Energy) by replacing item (d) with this text:
+
+     (d) For each office, the player (if any) who held that office
+         for at least half the previous week is awarded a number of
+         ergs equal to the interest index of that office.

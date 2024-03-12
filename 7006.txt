@@ -1,0 +1,16 @@
+ID: 7006
+Title: Constant Speakership
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 103 (The Speaker) by replacing
+
+      The Speaker is the single first-class player (if any) who holds
+      the most Postulated Offices.
+
+with:
+
+      The Speaker is the single first-class player who holds the most
+      Postulated Offices, or if there is no such player, the player
+      who was most recently Speaker.

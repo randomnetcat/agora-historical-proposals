@@ -1,0 +1,24 @@
+ID: 6923
+Title: Fix judicial declarations
+Author: omd
+Co-authors: G.
+Adoption index: 1.7
+
+Amend Rule 2212 to read:
+
+      A judicial declaration is a document labeled as such and
+      published by a person purporting to be the judge of a specific
+      judicial case, which contains only information e would be
+      required by the Rules, were e the judge, to publish in a
+      judicial declaration.
+
+      The author of a judicial declaration SHOULD attempt to ratify it
+      without objection immediately after publishing it; players
+      SHOULD NOT object to such an attempt unless the judicial
+      declaration was invalid or illegally published.
+
+[This is required to avoid brokenness if "Forgery is forgery" passes,
+but is probably a good idea in any case; judicial declarations are
+rare enough, and the potential consequences of ratifying an incorrect
+document severe enough, that the ratification should at least be
+treated explicitly.]

@@ -1,0 +1,17 @@
+ID: 6878
+Title: I
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Make all elected offices vacant.
+
+Amend Rule 1006 by replacing:
+
+      An imposed office is an office described as such by the rule
+      defining it.  All others are elected.
+
+with:
+
+      An elected office is an office described as such by the rule
+      defining it.  All others are imposed.

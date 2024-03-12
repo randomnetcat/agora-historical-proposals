@@ -1,0 +1,8 @@
+ID: 7058
+Title: Next!
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 3
+
+To Rule 2160, "Deputisation", append the following paragraph: "When a
+player deputises for an office, that office becomes Assumed."

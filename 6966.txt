@@ -1,0 +1,12 @@
+ID: 6966
+Title: Pool Cleaning
+Author: Wooble
+Co-authors: 
+Adoption index: 3.0
+
+[There is no longer a mechanism for removing old undistributable
+proposals from the pool, and while proposals now default to
+Distributable, there is no way to make an existing Undistributable
+proposal Distributable. AI-3 because removing proposals is secured.]
+
+Each Undistributable proposal in the Proposal Pool is removed from the pool.

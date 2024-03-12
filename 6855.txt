@@ -1,0 +1,19 @@
+ID: 6855
+Title: "No Voting Limit Timing Scams"
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2279 "Voting Limits on Ordinary Decisions" by replacing
+
+       Take the Influence Level associated with the player's position
+       on the list of succession, or 5 if the player is the Speaker.
+
+with:
+
+       Take the Influence Level associated with the player's position
+       on the list of succession at the beginning of this week, or 5 if
+       the player is the Speaker.
+
+[It would be much easier to track then and it should avoid most timing
+scams.]

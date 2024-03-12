@@ -1,0 +1,27 @@
+ID: 6788
+Title: Ribbon Rewrite Fix
+Author: coppro
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 2199 by replacing the text before the list of Ribbons with
+        Ribbons are a class of fixed assets.  If winning is secured,
+        then changes to Ribbon holdings are secured with the same power
+        threshold.  Ownership of Ribbons is restricted to players.
+
+        Each Ribbon has exactly one color.  Colors with different names
+        are distinct, regardless of spectral proximity.  Each color of
+        Ribbon is a currency. The Herald is the recordkeepor of Ribbons.
+
+        While a player qualifies for a Ribbon, any person CAN, by
+        announcement, award that player a Ribbon of that color, unless
+        e already possesses one.
+
+        When a player earns a Ribbon, e thereafter qualifies for that
+        Ribbon until the opportunity expires, which occurs either when it
+        is used or at the time limit, which defaults to one week. An
+        opportunity is used when a player is awarded a Ribbon of that
+        colour, e does not qualify for that Ribbon except through earned
+        opportunities, and the opportunity is the one that will expire
+        first. In case of a tie, only one of the opportunities tied for
+        shortest duration is used.

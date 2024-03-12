@@ -1,0 +1,26 @@
+ID: 6907
+Title: ID ego ID
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Enact the following Rule, entitled "ID Numbers":
+
+       If a rule defines a type of entity as having ID numbers, then:
+
+       (a) Whenever an instance of that type does not have an ID
+           number, the player held responsible by that rule SHALL
+           assign an ID number to it by announcement as soon as
+           possible.
+
+       (b) Such an assignment is INVALID unless the number is a natural
+           number (expressed as a decimal literal with at most 14
+           digits) distinct from any ID number previously assigned to
+           an entity of that type, and ILLEGAL unless the number is one
+           greater than the greatest ID number so assigned.
+
+       (c) Once assigned, an ID number cannot be changed.
+
+       (d) If an instance of that type has an ID number, then its name
+           is the combination of its type and ID number.  Otherwise, it
+           has no name.

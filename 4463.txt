@@ -1,0 +1,8 @@
+ID: 4463
+Title: Full Discrition Fix
+Author: Steve
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 1712 (Distribution of Indulgences) by replacing the words "zero 
+or negative" with the words "less than one".

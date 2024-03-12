@@ -1,0 +1,12 @@
+ID: 6761
+Title: I Postulate an Assumption
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2276 by appending
+       If a player has held an Assumed office continuously since the
+       last time it was Postulated, e can flip its Assumption to
+       Postulated by announcement.
+[Currently, this is the only permanent effect of going on hold, and it's
+a bizarre one.]

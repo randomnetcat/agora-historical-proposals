@@ -1,0 +1,14 @@
+ID: 7110
+Title: Panel Points
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+[ Inspired by ais523's Delve. If judicial panels can use Promises, why
+not Points too? ]
+
+Amend Rule 2330 (Points) by replacing 'restricted to Players' with
+'restricted to Players and judicial panels'
+
+Amend Rule 2335 (Judge Points) by removing 'non-appeal' from the first
+paragraph and removing the final paragraph.

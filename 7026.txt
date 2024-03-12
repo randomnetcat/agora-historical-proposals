@@ -1,0 +1,46 @@
+ID: 7026
+Title: Fix promises
+Author: Murphy
+Co-authors: omd
+Adoption index: 2
+
+[Promotor note: This proposal was marked as disinterested.]
+
+Amend Rule 2337 (Promises) by replacing this text:
+
+     Optionally, the author CAN, in the creating message, specify a
+     set of conditions required to be true for the promise to be
+     cashed.
+
+with this text:
+
+     Optionally, the author CAN, in the creating message, specify
+     one or more conditions required to be true for the promise to be
+     cashed, and/or one or more conditions required to be true for
+     the promise not to be destroyed when cashed.
+
+Amend Rule 2338 (Cashing Promises) by replacing this text:
+
+     A Player CAN cash a promise in eir possession by announcing that
+     e does so, provided either that the promise has no conditions,
+     or all of the conditions of the promise are true.
+
+with this text:
+
+     A Player CAN cash a promise in eir possession by announcing that
+     e does so, provided either that all conditions required to be
+     true for the promise to be cashed are true, or it has no such
+     conditions.
+
+and by replacing this text:
+
+               Cashing a promise destroys it, unless the conditions
+     of the promise explicitly and clearly include conditions under
+     which the promise is not so destroyed, and these conditions are
+     true.
+
+with this text:
+
+               Cashing a promise destroys it, unless the promise has
+     at least one condition required to be true for it not to be
+     destroyed when cashed, and all such conditions are true.

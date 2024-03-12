@@ -1,0 +1,31 @@
+ID: 6812
+Title: To make chambers interesting
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+Create a new power-2 rule "VLOD Bootstrapping":
+{{{
+A player's voting limit on an unresolved Ordinary decision that existed
+before this rule was created is equal to the value it had immediately
+before this rule was created, rules to the contrary notwithstanding.
+
+If there are no unresolved Ordinary decisions that existed before this
+rule was created, this rule repeals itself.
+}}}
+[A pretty much standard to prevent a proposal that changes voting rules
+interfering with other proposals that are undergoing voting at the
+time.]
+
+In rule 2279 "Voting limits on ordinary decisions", change
+{{{
+                  (a) If eir Chamber is superior, it is 2, else
+                  (b) If eir Chamber is inferior, it is 1, else
+                  (c) If the Chambers are identical, it is 5.
+}}}
+to
+{{{
+                  (a) If eir Chamber is superior, it is 5, else
+                  (b) If eir Chamber is inferior, it is 1, else
+                  (c) If the Chambers are identical, it is 2.
+}}}

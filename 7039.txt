@@ -1,0 +1,47 @@
+ID: 7039
+Title: Win by Committee
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+If the proposal entitled "Judicial Panel Reform" is not to be adopted
+by the end of the message in which this proposal is adopted, then
+this proposal is of no effect.
+
+Enact a new power-1.7 rule reading
+     Victory cases are a subclass of judicial cases. Any person
+     believing emself to have satisfied a Victory Condition may
+     initiate a victory case with support, indicating the precise
+     Victory Condition which e believes to have satisfied and how
+     e believes e satisfied it.
+
+     The entities eligible to be assigned as judges of a victory
+     case are those judicial panels consisting of three first-class
+     players, none of them having called the case or been
+     disqualified as below. A player can be disqualified from judging
+     a victory case with Agoran Consent. The CotC SHOULD NOT assign
+     a panel to a victory case if there is a pending intent to
+     disqualify one of its members unless it is clear that the
+     intent will fail. Players SHOULD be disqualified only if they
+     have a vested interest in the victory, such as having been a
+     co-scammer.
+
+     A victory case has a judicial question on ascendancy, which is
+     always applicable. The valid judgments for this question are
+     GLORY, appropriate if the Victory Condition was satisfied as
+     described and a judgment of GLORY has not already been reached
+     on an earlier case over substantially the same victory, and
+     SHAME, appropriate otherwise.
+
+     When a judgment of GLORY has continuously been in effect for
+     two weeks, the caller is deemed to have won the game as
+     specified. The Herald shall forthwith award the patent title
+     Champion to the winner. Winning the game does not cause
+     Agora to end.
+
+[N.B. forthwith means ASAP through a series of definitions you're
+ welcome to verify.]
+
+Retitle Rule 2332 (Winning) to (Winning by Points) and amend it to read
+     A player CAN destroy 250 points in eir possession to satisfy
+     the Victory Condition of Accumulation.

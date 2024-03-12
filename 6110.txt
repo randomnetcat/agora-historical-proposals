@@ -1,12 +1,8 @@
 ID: 6110
-Title: wrong paragraph
-Author: comex
+Title: Abstention!
+Author: Murphy
 Co-authors: 
-Adoption index: 2.0
+Adoption index: 3.0
 
-Remove the second-to-last paragraph of Rule 2143 (Official Reports and
-Duties), and add the following paragraph at the end of the rule:
-
-      While performing weekly or monthly duties or publishing weekly
-      or monthly reports, officers SHALL NOT publish information that
-      is inaccurate or misleading.
+Amend Rule 2196 (Standard Classes of Agoran Decisions) by replacing
+"PRESENT." with "PRESENT (syn. ABSTAIN)".

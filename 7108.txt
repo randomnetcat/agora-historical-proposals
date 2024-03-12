@@ -1,0 +1,40 @@
+ID: 7108
+Title: Urgent Proposals
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1607 (The Promotor) by appending:
+
+    A player CAN, as a Spending Action, make a specified proposal
+    Urgent, provided that they have not already done so in the same
+    month. The Promotor SHALL distribute Urgent proposals within
+    four days after they become Urgent. If this time limit is
+    broken, then any player CAN distribute the proposal.
+
+Set the base cost of making a proposal Urgent to 15.
+
+Amend Rule 107 (Initiating Agoran Decisions) by appending:
+
+    The above notwithstanding, the voting period for a decision
+    regarding an Urgent proposal lasts for five days.
+
+Amend Rule 208 (Resolving Agoran Decisions) by replacing:
+
+    The vote collector for an unresolved Agoran decision CAN resolve
+    it by announcement, indicating the option selected by Agora.  If
+    it was required to be initiated, then e SHALL resolve it as soon
+    as possible after the end of the voting period.  To be valid,
+    this announcement must satisfy the following conditions:
+
+with:
+
+    The vote collector for an unresolved Agoran decision CAN resolve
+    it by announcement, indicating the option selected by Agora.  If
+    it was required to be initiated, then e SHALL resolve it as soon
+    as possible after the end of the voting period, except if the
+    decision was about the adoption of an Urgent proposal, in which
+    case e SHALL resolve it within four days after the end of the
+    voting period. If this time limit is violated, then any player
+    CAN resolve the decision by announcement. To be valid, this
+    announcement must satisfy the following conditions:

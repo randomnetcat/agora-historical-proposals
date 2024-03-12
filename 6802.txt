@@ -1,0 +1,15 @@
+ID: 6802
+Title: Yoink!
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Create a rule titled "Musical chairs" with this text:
+
+      A Minister (the Humphrey) CAN trade cards with another Minister
+      (the Bernard) by announcement, provided that
+
+        a) the Humphrey has not traded cards within the past eight
+             weeks, and
+        b) the Bernard has held eir card continuously for at least
+             two weeks.

@@ -1,0 +1,28 @@
+ID: 6803
+Title: Low altitude
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2287 (Props) by replacing this text:
+
+      The Air Traffic Controller is an office and the recordkeepor of
+      props.
+
+with this text:
+
+      The Air Traffic Controller is an office and the recordkeepor of
+      props; prop records are part of eir monthly report.
+
+and by replacing this text:
+
+      Players with at least 19 props are Pilots; the Pilot with the
+      most props (if any) is the Captain. Players with less than 9
+      props are Marines.
+
+with this text:
+
+      Players with at least 19 props are Pilots; the Pilot with the
+      most props (if any) is the Captain. Players with less than 9
+      props are Marines.  As soon as possible after any of these
+      statuses change, the Air Traffic Controller SHALL announce it.

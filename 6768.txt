@@ -1,0 +1,11 @@
+ID: 6768
+Title: damageability
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2297 by appending this text to the last paragraph:
+By default, the current hit points of an Object In Space is equal to
+its maximum hit points.  To deal N damage an Object In Space is to
+reduce its current hit points by N.  If an object does not have
+positive current hit points, it is destroyed.

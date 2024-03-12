@@ -1,74 +1,71 @@
 ID: 4614
-Title: Crimson Go
+Title: No Point Anymore
 Author: Goethe
 Co-authors: 
 Adoption index: 2
 
 
-[Apologies to Murphy for the partial theft]
+Proto: No Point Anymore
 
-Create a new rule titled "Takeover Proposals" with Power=2 and
-this text:
+// 0.1 Start with the new Rule for Winning.
+// 1.0 changed rewards to make a win slightly more worthwhile
 
-       Initiative is a stuck player switch, tracked by the Assessor,
-       with values Gote and Sente.
+Create the following Rule entitled "Hand Flux" with Power-2:
 
-       A Takeover Proposal is a proposal meeting these requirements:
+    Flux is a stuck switch for Gamblers with states Free
+    and Frozen.  Rules to the contrary nonwithstanding,
+    a Gambler with frozen flux may not play, discard, or
+    transfer cards from eir hand, nor may the Deckmastor
+    satisfy pending draws for that hand.
 
-         (a) It is labelled as a Takeover Proposal.
-         (b) No Takeover Proposal has been submitted earlier in the
-             same month.
-         (c) It specifies a set of players (hereafter the Corporate
-             Raiders) that is no larger than P/2 or smaller than P/3,
-             where P is the number of active noisy players at the time
-             of submission.
+    The Deck's flux shall always be free, rules to the
+    contrary nonwithstanding.
 
-       Rules to the Contrary nonwithstanding, a Takeover Proposal is
-       both Democratic and Sane.
+Create the following Rule entitled "Winning Hands"
+    The Deckmastor's Budget shall contain between one and
+    three Winning Hands, each of which is a list of cards
+    with a hand size at least two greater than the Maximum
+    Hand Size.
 
-       At the beginning of a Takeover Proposal's voting period, all
-       players have their initiative flipped to Gote.  At the end of a
-       Takeover Proposal's voting period, all players have their
-       initiative flipped as follows:
-         (a) Adopted:  All Corporate Raiders gain Sente.
-         (b) Rejected:  All other players gain Sente.
-         (c) Failed quorum:  No one gains Sente.
+    If a Gambler's Hand is identical to a winning hand at
+    any particular moment, any Gambler has 72 hours from
+    that moment to announce that a Gambler holds or has
+    held a winning hand.
 
+    If the announcement is false, the Deckmastor shall,
+    as soon as possible, transfer 1 card at random from
+    the announcing Gambler's Hand to the Deck.
 
-Amend Rule 1950 (Voting Power) by replacing:
-       (b) An entity's Voting Power on a Democratic Proposal is as
-           follows:
+    If the announcement is true, the holding Gambler Wins
+    the Game, and is awarded the boon of Pokerface and the
+    defined regular Patent Title Champion.
 
-             * A Player:
-                   (a) two plus that Player's Voting Potential if that
-                       Player has zero Share Holdings.
-                   (b) one plus that Player's Voting Potential
-                       otherwise.
+    Exactly one week after a true announcement, the Flux
+    of all Gamblers except the Deck shall become frozen.
+    The Deckmastor shall transfer random cards from the
+    hands of each frozen gambler to the deck, until each
+    frozen gambler has either (a) a hand size equal to or
+    less than the Minimum hand size or (b) no cards.  Then,
+    the Deckmaster shall deal cards to the winner up to the
+    maximum hand size.  When these tasks have been peformed,
+    the Flux of every Gambler shall become free.
 
-             * Any other entity: as defined in the Rules, with a
-               default of zero if the Rules don't specify the Voting
-               power on a Democratic Proposal for that entity.
+    If no one has won the game in the last six months, then
+    any Gambler may announce a Skunk, which shall trigger
+    the effects of a true announcement of a win above,
+    except that no boon shall be awarded nor shall extra
+    winner's be dealt.
 
-with:
-       (b) An entity's Voting Power on a Democratic Proposal is as
-           follows:
-           (1) A Player:
-                   (i)  that Player's Voting Potential if that Player
-                        has Sente.
-                   (ii) one otherwise.
-           (2) Any other entity: as defined in the Rules, with a
-               default of zero if the Rules don't specify the Voting
-               power on a Democratic Proposal for that entity.
+The following winning hands are added to the Deckmastor's Budget:
+ Three Trios: (Distrub-u-Matic, Absolv-o-Matic, Debate-o-Matic)x3
+ Dead Man's Hand:  Dud, Dud, Dud, Dud, Dud, Dud, Dud
 
-
-Amend Rule 1664 (Rebellion) by replacing:
-          - All Stock Cards in the possession of Abiding Players are
-            returned to the Deck
-
-with:
-          - All Stock Cards in the possession of Abiding Players are
-            returned to the Deck, and all Abiding Players have their
-            initiative switched to Gote.e a budget containing the Maximum Hand
+Amend Rule 2068 (The Deckmastor) by replacing the text:
+     The Deckmastor shall have a budget containing the Maximum Hand
+     Size, which is a positive integer between 3 and 10. In the
+     absence of a budget, the Maximum Hand Size shall be 5.
+ with:
+     The Deckmastor shall have a budget containing the Maximum Hand
      Size and the Minimum Hand Size, each of which is a positive
      integer between 2 and 10, with the Minimum being less than
      the Maximum. In the absence of a budget, the Maximum Hand Size

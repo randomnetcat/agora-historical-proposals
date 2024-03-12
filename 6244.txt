@@ -1,0 +1,27 @@
+ID: 6244
+Title: Fix score loss after point scams
+Author: ais523
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2187 (Win by High Score), replace
+{{{
+      Cleanup procedure:  All those players have eir scores set to 0.
+      All other players have each of eir coordinates set to
+      floor(P*S/10), where P is eir previous coordinate along that
+      axis and S is the Score Index.
+}}}
+with
+{{{
+      Cleanup procedure:  All those players have eir scores set to 0.
+      Unless all those players gained at least 80 points (of any
+      type) total within a 10-minute period within the past months,
+      then all other players have each of eir coordinates set to
+      floor(P*S/10), where P is eir previous coordinate along that
+      axis and S is the Score Index.
+}}}
+
+Set the score of all players except root, coppro, and (if comex has won
+by High Score between the time this proposal was submitted and the time
+at which it passed) comex to what it would be if no cleanup procedure
+from Wins by High Score had been performed within the last month.

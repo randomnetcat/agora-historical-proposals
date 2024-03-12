@@ -1,0 +1,15 @@
+ID: 7149
+Title: contest fix
+Author: G.
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2333 (Contests) by replacing:
+   Upon an announcement by the contestmaster
+with:
+   Upon a true announcement by the contestmaster
+
+[This means the victory announcement can be CoE'd based on
+whether or not the contest was truly won.  Ratification of
+the win still happens via the ratification of the victory
+announcement].

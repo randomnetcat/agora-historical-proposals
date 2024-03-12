@@ -1,0 +1,11 @@
+ID: 7017
+Title: Just in case
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Ratify the following ***-delimited document:
+
+***
+omd has continuously been a player since 3 Feb 2011 00:00:00 UTC.
+***

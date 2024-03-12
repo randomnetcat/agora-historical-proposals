@@ -1,0 +1,37 @@
+ID: 4464
+Title: Clarify AI, Take 2
+Author: root
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 594 by deleting the text reading:
+
+       The Adoption Index of a Proposal is the maximum of 1, the value
+       requested by its Proposer (if any), and the value required for
+       that Proposal by the Rules (if any).
+
+Create a Power-3 Rule titled "Adoption Indices", reading:
+
+       1) The Default Adoption Index of a Proposal is the maximum of:
+
+          a) 1; and
+          b) any minimum values required for that Proposal by the Rules.
+
+
+       2) The Proposer of a Proposal may, at the time when e submits the
+          Proposal or at any time while it is in the Pool, request an
+          Adoption Index for that Proposal by announcement, specifying the
+          requested value.
+
+
+       3) When a Proposal is distributed, its Adoption Index is set to
+          the maximum of:
+
+          a) its Default Adoption Index; and
+          b) any values requested by its Proposer as permitted in 2).
+
+
+       4) This is the only mechanism for setting or changing the Adoption
+          Index of a Proposal.  This Rule takes precedence over Rules that
+          would allow other mechanisms for setting or changing the Adoption
+          Index of a Proposal.

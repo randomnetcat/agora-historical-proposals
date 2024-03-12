@@ -1,0 +1,15 @@
+ID: 7103
+Title: Call of the House
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2168 (Extending the voting period) by appending:
+
+     When a decision's voting period has been extended, any player
+     CAN, with two support, issue a Call of the House on the
+     decision. When a Call of the House has been issued on a
+     decision, all eligible voters SHALL ensure that ey have validly
+     voted on the decision when its voting period ends. This
+     requirement is waived if the Call of the House is issued less
+     than four days before the end of the extended voting period.

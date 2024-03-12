@@ -1,0 +1,23 @@
+ID: 6191
+Title: Joining other nomics, take 2
+Author: Tiger
+Co-authors: 
+Adoption index: 1.0
+
+      Amend the section in rule 2148 now reading:
+
+      "A foreign nomic may grant certain powers (in the
+      ordinary-language sense) and privileges to Agora's ambassador. If
+      so, the ambassador shall generally exercise such powers in such
+      manner as e sees fit, subject to other rules and orders."
+
+to read:
+
+      "A foreign nomic may grant certain powers (in the
+      ordinary-language sense) and privileges to Agora's ambassador. If
+      so, the ambassador shall generally exercise such powers in such
+      manner as e sees fit, subject to other rules and orders. If a
+      foreign nomic allows for Agora to take actions in it, the
+      ambassador may, with Agoran consent, take any action in it on
+      behalf of Agora. However, no actions shall be taken on behalf of
+      Agora in a nomic that is not Protected, Firendly or Neutral."

@@ -1,0 +1,8 @@
+ID: 7076
+Title: No harm in knowing there's a betting market
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2345 (Bets) by replacing "SHALL NOT reveal the existence or
+details of any Bet" with "SHALL NOT reveal the details of any Bet".

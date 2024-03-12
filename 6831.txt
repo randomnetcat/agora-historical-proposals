@@ -1,0 +1,19 @@
+ID: 6831
+Title: Resolvify it
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 208 by replacing
+       Each Agoran decision has exactly one vote collector, defaulting
+       to the initiator of the decision.  If the vote collector is
+       defined by reference to a position (or, in the default case, if
+       the initiator was so defined), then the vote collector is the
+       current holder of that position.
+with
+       Each Agoran decision has exactly one vote collector, defaulting
+       to the initiator of the decision if not otherwise specified by the
+       document describing the decision. If the vote collector is
+       defined by reference to a position (or, in the default case, if
+       the initiator was so defined), then the vote collector is the
+       current holder of that position.

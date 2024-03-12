@@ -1,0 +1,9 @@
+ID: 6769
+Title: collisions only happen at fixed intervals
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2300 by replacing "Doing this when it causes the ship to
+collide with anything" with "Doing this when it causes the Shuttle to
+have the same position as another object".

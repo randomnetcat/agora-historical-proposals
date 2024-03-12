@@ -1,0 +1,7 @@
+ID: 7118
+Title: that was dump
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 by replacing 90 with 30.

@@ -1,0 +1,9 @@
+ID: 6897
+Title: More Granulation
+Author: scshunt
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2293 (Leadership Tokens) by appending:
+(d) A player CAN redeem 1 Leadership Token in eir possession to move any
+player up or down by up to 5 spots on the List of Succession.

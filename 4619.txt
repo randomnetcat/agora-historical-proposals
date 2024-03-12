@@ -1,0 +1,9 @@
+ID: 4619
+Title: Buying Seats
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+    Each Shareholder at the time this Proposal takes effect has their
+    Voting Potential increased by twelve.

@@ -1,0 +1,48 @@
+ID: 4423
+Title: Sensible Timing for Auctions
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Proposal: Sensible Timing for Indulgence Auctions
+
+Amend Rule 1712 (Distribution of Indulgences) to read:
+
+	(a) The Ideal Indulgence Circulation Level (IICL) is equal to 		    the 
+number of Players plus the total Stain of all Players.
+
+	(b) The Actual Indulgence Circulation Level (AICL) is the total 	    number 
+of Indulgences owned by entities other than the 	    Bank, augmented by the 
+total number of Indulgences owned by 	    the Bank which either:
+		(1) are already being Auctioned by the Bank in prior 			    Indulgence 
+Auctions that have not yet concluded; or
+		(2) have been auctioned in prior Indulgence Auctions 			    that have 
+concluded, but where the debts arising 			    from Winning Bids have neither 
+been paid nor 			    defaulted upon; or
+		(3) have been Auctioned in prior Indulgence Auctions 			    that have 
+concluded, and the debts arising from the 		    Winning Bids have been paid, 
+but the Indulgences 			    have not been transferred to the Winning Bidders.
+
+	(c) The Indulgence Surplus is the difference between the IICL 	    and the 
+AICL; if the AICL is greater than the IICL, the 	    Indulgence Surplus is 
+zero.
+
+	(d) If the Indulgence Surplus is positive at the beginning of 	    the 
+month, the Herald shall as soon as possible auction off 	    the surplus 
+Indulgences. The items to be auctioned are 	    individual Indulgences; the 
+number of items is equal to the 	    Indulgence Surplus, rounded down to the 
+nearest integer. 	    The Auctioneer shall be the Herald, and the Auction 
+shall 	    be conducted in Stems.
+
+	(e) The Monthly Bank Indulgence Gain (MBIG) is the number of 	    
+Indulgences transferred from other entities to the Bank 	    during a given 
+Nomic Month, less the number of Indulgences 	    transferred from the Bank 
+to other entities during that 	    same Nomic Month.
+
+	(f) If the Indulgence Surplus is zero or negative at the 	    beginning of 
+the month, the Herald may still conduct an 	    Indulgence auction, but only 
+if e initiates it within one 	    week after the beginning of the month. The 
+items to be 	    auctioned are individual Indulgences; the number of items 	 
+    is chosen by the Herald, with a minimum of 1 and a maximum 	    of half 
+the MBIG, rounded down to the nearest integer. The 	    Auctioneer shall be 
+the Herald, and the Auction shall be 	    conducted in Stems.

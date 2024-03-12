@@ -1,12 +1,14 @@
 ID: 4609
-Title: Buying Seats
-Author: Goethe
+Title: Fix Team Wins, Mark II
+Author: Murphy
 Co-authors: 
 Adoption index: 1
 
 
-    Each Shareholder at the time this Proposal takes effect has their
-    Voting Potential increased by twelve.d Rule 2053 (Team Points, Team Scores) by replacing the text "the
+Amend Rule 1929 (Points) by replacing the text "the last Team Win" with
+"the last Score Reset".
+
+Amend Rule 2053 (Team Points, Team Scores) by replacing the text "the
 last Team Win" with "the last Score Reset".
 
 Amend Rule 2042 (Team Wins) to read:

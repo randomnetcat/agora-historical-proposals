@@ -1,0 +1,23 @@
+ID: 6805
+Title: Props should be important!
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2287 by replacing the text:
+
+        Once per week, each player CAN transfer a prop from one player
+        to another, provided that e explains why e chose each player,
+        and does not transfer it to emself.
+
+with:
+
+        Any player CAN, by announcement, transfer a prop from one player
+        to another, provided that e explains why e chose each player,
+        and does not transfer it to emself. E CANNOT do so with a player
+        other than emself as the giving player more than once per week.
+
+        At the beginning of each Agoran Week, two props are destroyed in
+        the possession of each player who did not transfer one of their
+        props to another player in the previous week. If such a player
+        does not posseses two props, all of eir props are destroyed.

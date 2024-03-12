@@ -1,0 +1,17 @@
+ID: 6886
+Title: Respect Redux
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend the paragraph in Rule 2287 reading:
+
+      Cleanup procedure: For each of those players, all props are
+      destroyed and 14 props are created in their possession.
+
+to read:
+
+      Cleanup procedure: All props are destroyed and 14 props are
+      created in the possession of each player.
+
+[I.e., all props for every player are reset]

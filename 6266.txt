@@ -1,7 +1,7 @@
 ID: 6266
 Title: In case of patient jerks
 Author: Murphy
-Co-authors: 
+Co-authors: ais523
 Adoption index: 2.0
 
 Amend Rule 2177 (The Senate) by replacing this text:

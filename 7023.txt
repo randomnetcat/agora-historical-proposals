@@ -1,0 +1,11 @@
+ID: 7023
+Title: Flexibility
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[There have been some proposals recently on which I voted PRESENT, but
+would have preferred a "weak" FOR or AGAINST vote.  Make everyone's
+voting limit 2 so this is possible.]
+
+Amend Rule 1950 (Voting on Democratic Decisions) by replacing "one" with "two".

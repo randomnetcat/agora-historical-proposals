@@ -1,0 +1,21 @@
+ID: 6960
+Title: Fix Proposal Power
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 106 (Adopting Proposals) by replacing:
+                                         When a proposal that includes
+       such explicit changes takes effect, it applies those changes to
+       the gamestate.
+with:
+                                         When a proposal that includes
+       such explicit changes takes effect, it applies those changes to
+       the gamestate to the maximum extent POSSIBLE by an instrument of
+       its power.
+
+
+Amend Rule 2152 (Mother, May I?) by replacing:
+       4. CAN:
+with
+       4. CAN, POSSIBLE:

@@ -1,0 +1,8 @@
+ID: 7019
+Title: No foreign judges
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing "second-class
+players" with "entities other than first-class players".

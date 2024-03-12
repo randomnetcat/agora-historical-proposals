@@ -1,0 +1,19 @@
+ID: 6869
+Title: auto-remand
+Author: G.
+Co-authors: 
+Adoption index: 1.7
+
+Create the rule 'Motions to Reconsider' at power 1.7 and with the
+following text:
+
+     If a non-Appeals judicial question (1) has a judgement that has been
+     in effect for less than seven days and not been appealed, and (2) has
+     not had a Motion to Reconsider filed for it at any time while it has
+     been assigned to its current judge, then any Player CAN file a Motion
+     to Reconsider the question with 2 Support.
+
+     When a Motion to Reconsider is so filed, the question is rendered
+     open again.  A player who files such a Motion SHOULD include
+     arguments as to why the question needs reconsideration, and such
+     arguments become part of the record of the case.

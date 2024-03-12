@@ -1,0 +1,13 @@
+ID: 6927
+Title: Separation
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2316 (Church and State) by removing:
+      Upon publication of a valid notice of papal succession, the
+      current Speaker ceases to be Speaker, the pope becomes the new
+      Speaker, and the pope ceases to be a pope.
+
+[Leave the pope-becoming mechanism in for future gameplay,
+but remove the (broken) connection with Speaker].

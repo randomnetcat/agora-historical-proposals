@@ -1,0 +1,26 @@
+ID: 7109
+Title: Whoops
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1607 (Distribution) by replacing the paragraph beginning
+"The Promotor CAN distribute a proposal which..." with:
+
+     Priority is an undistributed proposal switch with values of the
+     integers (default zero), tracked by the Promotor. A player CAN,
+     as a Spending Action, increase or decrease the Priority of a
+     specified proposal by one.
+
+     The Legislative Volume is 5 when the Speed is Slow, 10 when it
+     is Normal and 20 when it is Fast.
+
+     The Promotor CAN distribute a proposal which is in the Proposal
+     Pool at any time. In a given Agoran week, the Promotor SHALL, as
+     part of eir weekly duties, out of all of the proposals with a
+     positive Priority which were in the pool at the beginning of the
+     week, distribute the X proposals with the greatest Priority,
+     breaking ties in favour of those proposals which were submitted
+     first, where X is the minimum of the Legislative Volume and the
+     number of such proposals. The Promotor SHALL NOT distribute any
+     other proposals.

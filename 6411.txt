@@ -1,0 +1,26 @@
+ID: 6411
+Title: Terms and Vacancies 2.0
+Author: Yally
+Co-authors: G., Murphy
+Adoption index: 2.0
+
+[This proposal serves only to make effective the intended result of
+G.'s proposal "Terms and Vacancies," which could not occur to the
+passing of "IADoP CAN and SHALL."]
+
+Amend R2154 (Election Procedure) by replacing:
+
+    Any player CAN, with support (or by announcement if e is the
+    IADoP), initiate an election for a specified elected office for
+    which no election is already in progress.
+
+with:
+
+     A player CAN initiate an election for a specified elected office
+     for which no election is already in progress
+
+       a) by announcement, if e is the IADoP, or the office is vacant,
+          or no election has been initiated for the office within 90
+          days before the announcement;
+
+       b) with 4 Supporters, otherwise.

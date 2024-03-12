@@ -1,8 +1,7 @@
-ID: 6559
-Title: Quorum Busted
+ID: 6745
+Title: Huh?
 Author: coppro
 Co-authors: 
 Adoption index: 1.0
 
-
-Repeal Rule 2168.
+[coppro wins.]

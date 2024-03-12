@@ -1,0 +1,11 @@
+ID: 6944
+Title: There are FIVE CFJs!
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2175 (Judicial Retraction and Excess) by inserting the
+following text before the sentence starting with "The Clerk of the
+Courts":
+
+      A person SHALL NOT initiate an excess case.

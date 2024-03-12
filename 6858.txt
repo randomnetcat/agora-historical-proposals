@@ -1,0 +1,14 @@
+ID: 6858
+Title: The Robot
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+The Robot
+
+Every Rule containing the word 'robot' is repealed, in order
+from lowest-numbered to highest-numbered rule in this set.
+
+[Note that strictly speaking, a nickname for a first-class
+player is not a "document-defined entity's name" for the
+purposes of R1586].

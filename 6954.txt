@@ -1,0 +1,8 @@
+ID: 6954
+Title: Implicit Excess
+Author: Murphy
+Co-authors: omd
+Adoption index: 3.0
+
+Amend Rule 2280 (Implicit Votes) by replacing "a number of ballots
+equal to eir voting limit on that decision" with "14 ballots".

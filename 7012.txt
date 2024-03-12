@@ -1,0 +1,8 @@
+ID: 7012
+Title: Fix Timeout
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+Replace "SHALL NOT" with "CANNOT" in
+the TIME OUT point of Rule 1504 (Criminal Cases).

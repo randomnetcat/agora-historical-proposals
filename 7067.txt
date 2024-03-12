@@ -1,0 +1,9 @@
+ID: 7067
+Title: That which corrupts
+Author: G.
+Co-authors: 
+Adoption index: 1
+
+Create a rule, "Presidential Power", with the following text:
+
+     The President's power is equal to the power of this Rule.

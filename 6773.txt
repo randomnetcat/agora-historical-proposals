@@ -1,0 +1,9 @@
+ID: 6773
+Title: delta ordering
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2297 by removing "At the beginning of each week, an
+object's position is increased by its delta."
+[This is redundant with Rule 2301 and arguably causes double collisions.]

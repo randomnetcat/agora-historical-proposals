@@ -1,0 +1,8 @@
+ID: 4461
+Title: Fix Dependent Actions
+Author: Maud
+Co-authors: 
+Adoption index: 2
+
+Amend rule 1728 (Dependent Actions) by replacing the text "positive integer"
+with the text "nonnegative integer".

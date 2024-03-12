@@ -1,0 +1,18 @@
+ID: 6996
+Title: Guess how I thought of this
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by replacing
+
+       a) by announcement, if e is the IADoP, or the office is vacant
+          or assumed, or no election has been initiated for the office
+          within 90 days before the announcement;
+
+with:
+
+       a) by announcement, if e is the IADoP, or the office is vacant
+          or assumed, or if a player has deputised for the office
+          since its last election, or no election has been initiated
+          for the office within 90 days before the announcement;

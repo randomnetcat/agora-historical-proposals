@@ -1,0 +1,7 @@
+ID: 6842
+Title: "Capa"
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+In the first sentence of Rule 2289 (Capacitors), remove the word "fixed".

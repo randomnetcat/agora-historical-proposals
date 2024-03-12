@@ -1,0 +1,11 @@
+ID: 6252
+Title: Generalize equity
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2169 (Equity Cases) by appending this text:
+
+      An equity case CAN be initiated identifying the ruleset in place
+      of a contract.  For the purpose of such a case, the ruleset is
+      treated as a contract with all players as parties.

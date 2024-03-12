@@ -1,0 +1,9 @@
+ID: 7126
+Title: The Government Needs to be More Transparent
+Author: scshunt
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new rule reading "scshunt CAN, by announcement, cause this
+Rule to make any change to the game state that it CAN make, including
+but not limited to Rule Changes."

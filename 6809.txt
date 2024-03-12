@@ -1,0 +1,125 @@
+ID: 6809
+Title: OK Go
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+[I've complained repeatedly about the length of time currently
+required to adopt proposals, which can have a significant negative
+effect on the game.  Since the current proposal volume really isn't
+all that high (if it were, this would be too chaotic), I think that
+BlogNomic-style immediate distribution is not only feasible, but a
+significant improvement over what we have now, and not too much extra
+work for the Assessor or voters.]
+
+Amend Rule 106 (Adopting Proposals) to read:
+
+      A proposal is a fixed body of text which has been made into a
+      proposal using a process specifically described in the Rules.
+      When creating proposals, the person who creates them SHOULD
+      ensure that the proposal outlines changes to be made to Agora,
+      such as enacting, repealing, or amending rules, or making other
+      explicit changes to the gamestate. When a proposal that includes
+      such explicit changes takes effect, it applies those changes to
+      the gamestate. If the proposal cannot make some such changes,
+      this does not preclude the other changes from taking place.
+
+      A player CAN create and distribute a proposal by publishing
+      ("submitting") a body of text and an associated title with a
+      clear indication that it is intended to become a proposal.  This
+      initiates the Agoran decision of whether to adopt the proposal,
+      rules to the contrary notwithstanding.  The author (syn.
+      proposer) of a proposal is the player who submitted it.  A
+      player CAN remove (syn. retract, withdraw) a proposal e authored
+      from the Proposal Pool by announcement.
+
+      To avoid "spam scams", a proposal CANNOT be created except in a
+      message with exactly one Subject header, which must contain with
+      the exact text "[Proposal]" with no more than ten characters
+      preceding it.
+
+      A co-author of a proposal is a person (other than its author)
+      unambiguously identified as such by its author when it was
+      submitted.
+
+      The adoption index of a proposal is an integral multiple of 0.1
+      from 1.0 to 9.9.  It may be set by the proposer at the time of
+      submission, and otherwise defaults to 1.0.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      The adoption index of this decision is set to the adoption index
+      of the proposal at the initiation of the decision. Changing the
+      adoption index of the decision is secured with a power threshold
+      of 2.  The vote collector for this decision is the Assessor.
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.
+
+      A proposal without an Agoran decision of whether to adopt it
+      that has an outcome of ADOPTED does not take effect, rules to
+      the contrary notwithstanding.
+
+      Preventing a proposal from taking effect is a secured change;
+      this does not apply to generally preventing changes to specified
+      areas of the gamestate, nor to a proposal preventing itself from
+      taking effect (its no-effect clause is generally interpreted as
+      applying only to the rest of the proposal).
+
+      Distributed proposals have ID numbers, to be assigned by the
+      Assessor.
+
+Create a new Power-3 Rule, titled "Self-Kills":
+
+      The author of a proposal CAN self-kill a decision to adopt it by
+      announcement within the first 24 hours of the decision's voting
+      period.  This causes the set of available options to become
+      empty, the voting period to end, and the decision to be
+      resolved; rules to the contrary notwithstanding, the outcome is
+      REJECTED.  Despite the existence of the self-kill, persons
+      SHOULD only submit proposals when they are fully ready to be
+      voted on.
+
+Repeal Rule 2281 (Proposal Cleanup)
+
+Repeal Rule 2250 (Officer's Proposals).
+
+Repeal Rule 2267 (Judge's Proposals).
+
+Amend Rule 2284 (Fee-based actions) by removing:
+
+      - A player CAN make a proposal Distributable for a charge of 1
+        erg.
+
+      - A player CAN make a proposal Undistributable for a charge of 2
+        ergs.
+
+Repeal Rule 1607 (The Promotor).
+
+Amend Rule 1769 (Holidays) by replacing "the Promotor SHALL NOT" with
+"players SHALL NOT".
+
+Amend Rule 2292 (Defragmentation Proposals) by removing "The
+Promotor's report shall include the same information for each
+D-Proposal in the report."
+
+Amend Rule 2224 (Interest Index of Proposals) by removing "and CAN be
+changed (while undistributed) by any player without 2 objections, or
+by the Promotor or Assessor without 3 objections."
+
+Amend Rule 2290 (Chamber and Title) by replacing:
+
+      The Assessor tracks the Chamber of players and the Promotor
+      tracks the Chamber of proposals.
+
+with:
+
+      The Assessor tracks the Chamber of players and proposals.
+
+Amend Rule 1450 (Separation of Powers) by removing:
+
+      Lest the entire proposal process fall under the control of a
+      single entity, any change that would result in the holders of
+      Promotor and Assessor being entangled is canceled and does not
+      occur, rules to the contrary notwithstanding.

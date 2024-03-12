@@ -1,0 +1,50 @@
+ID: 6762
+Title: Clean Up Space
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2298:
+Amend the text reading "Explosion" to read "Explosion value".
+Amend the text reading " te " (including whitespace) to read " the ".
+Append the following to the last paragraph "To be aboard aboard the Shuttle
+is to be in a room aboard the Shuttle."
+
+In Rule 2299:
+After the text reading:
+
+The Enemy can use these Threat Points to create Threats by
+ defining the new Threat, paying its cost, and deploying it ready
+ to attack
+
+add the following:
+
+, so long as the Enemy's Threat Points would not then fall below 0
+
+Amend the text reading "capacitor" to read "farad".
+
+In Rule 2300:
+Amend the text reading " he " (including whitespace) to read  " the ".
+Amend the text reading:
+
+Missile Launch - Dispatches a Missile In Space. Its stats
+
+are:
+Maximum hit points: 5
+
+to read:
+
+Missile Launch - Dispatches a Missile In Space. When
+it appears, it has the following stats:
+Symbol: X
+Maximum hit points: 5
+
+Amend the text reading " b " (including whitespace) to read " by ".
+
+In Rule 2301
+
+Delete the text reading "Any collisions occur."
+
+In Rule 2302
+Amend the last paragraph to read "The enemy is an imposed office; eir report
+includes information on all Threats and their respective stats."

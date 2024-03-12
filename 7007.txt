@@ -1,0 +1,19 @@
+ID: 7007
+Title: Judge Points
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+Enact a Power 2 Rule entitled "Judge Points" with the following text:
+
+      When a judge assigns a judgement to a non-appeal judicial case
+      within any time limits for doing so, e gains 5 points.
+
+      If an appeals panel assigns a judgement with prejudice, then any
+      member of the panel CAN, within a week of the disposition
+      judgement being assigned, by announcement, destroy any points
+      the prior judge earned for judging the case.
+
+      When an appeals panel assigns a judgement to a case within any
+      time limits for doing so, each member of the panel gains 2
+      points.

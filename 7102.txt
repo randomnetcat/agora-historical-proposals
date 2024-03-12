@@ -1,0 +1,10 @@
+ID: 7102
+Title: 1/2 Quorum
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+"A quorum may be a majority, some number greater than a majority, or
+some number less than a majority." - Wikipedia
+
+Amend Rule 879 (Quorum) by replacing each instance of "N/3" with "N/2".

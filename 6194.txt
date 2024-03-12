@@ -1,0 +1,21 @@
+ID: 6194
+Title: Pragmatic Contestmaster Award Eligibility
+Author: root
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2234 (Rewarding Contestmasters) to read:
+
+      As soon as possible after the end of a month, for each contest,
+      the player (if any) who was its contestmaster for at least 16
+      days during that month MAY once announce that e performed duties
+      related to that contest in a timely manner during that month,
+      subject to other rules regarding truthfulness.
+
+      As soon as possible after a player makes such an announcement,
+      the Scorekeepor CAN and SHALL by announcement award, for each of
+      the contest's axes, N <axis> points to that player, where N is
+      either the number of players who were contestants of that
+      contest at any time during that month, or the number of points
+      awarded by that contest on that axis during that month,
+      whichever is less.

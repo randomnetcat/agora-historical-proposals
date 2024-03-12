@@ -1,0 +1,19 @@
+ID: 7065
+Title: Speed the courts
+Author: scshunt
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2318, by replacing
+     If a non-Appeals judicial case (1) has a judgement that has been
+     in effect for less than seven days and not been appealed, and
+     (2) has not had a Motion to Reconsider filed for it at any time
+     while it has been assigned to its current judge, then any Player
+     CAN file a Motion to Reconsider the case with 2 Support.
+with
+     If a non-Appeals judicial case (1) has a judgement that has been
+     in effect for less than seven days and not been appealed, and
+     (2) has not had a Motion to Reconsider filed for it at any time
+     while it has been assigned to its current judge, then any Player
+     CAN file a Motion to Reconsider the case with 2 Support, or by
+     announcement if e is that case's judge.

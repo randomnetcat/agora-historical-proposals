@@ -1,0 +1,23 @@
+ID: 7047
+Title: Disinterested Disinterested Fix
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+[Promotor note: marked disinterested.]
+
+[ Not really a fix as such, but this could make the Scorekeepor's life
+miserable otherwise. The H. Assessor already includes essential
+parameters in eir resolutions (and I'm sure e'd include
+disinterestedness anyway) but it's a good idea to mandate it
+nevertheless. ]
+
+Amend Rule 1950 (Decisions with Adoption Indices) by appending the
+following to the list of essential parameters:
+
+     d) Whether or not the proposal is disinterested.
+
+Amend Rule 208 (Resolving Agoran decisions) by appending the following
+to the list of conditions:
+
+     (d) It specifies the essential parameters of the decision.

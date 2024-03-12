@@ -1,0 +1,14 @@
+ID: 6794
+Title: Restore White
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2199 (Ribbons) by removing:
+
+       (+W) A first-class player who has never owned a White Ribbon
+            qualifies for one. Additionally, when a first-class person
+            has been a player continuously for at least three months,
+            was never a player before that period, and names another
+            player as eir mentor (and has not named a mentor in this
+            fashion before), the named player earns a White Ribbon.

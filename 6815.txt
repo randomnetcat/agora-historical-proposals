@@ -1,0 +1,13 @@
+ID: 6815
+Title: Initial security
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1688 (Power) by replacing this text:
+
+      or to modify that value,
+
+with this text:
+
+      or to set or modify that value,

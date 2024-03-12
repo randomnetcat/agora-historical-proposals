@@ -1,0 +1,12 @@
+ID: 6833
+Title: Leet Leadership
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Create a new Rule with power=1 entitled "Leet Leadership":
+
+        When an interested proposal consisting of exact 1337 words
+        (excluding information like name, or adoption/interest index) is
+        enacted, its proposer CAN in a timely fashion award emself a
+        Leadership Token.

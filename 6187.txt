@@ -1,0 +1,28 @@
+ID: 6187
+Title: Instant Adoption
+Author: coppro
+Co-authors: Goethe
+Adoption index: 3.0
+
+Create a new power-3 rule:
+{{
+      A player may cause instant adoption of a proposal that has not
+      yet been voted on with A*P/(A+1) support, rounded down to the
+      nearest integer, where A is the proposal's adoption index and P
+      is, if there is an ongoing vote on the proposal, the number of
+      eligible first-class voters, otherwise the number of active
+      first-class players.
+
+      When a proposal is instantly adopted, it is removed from the
+      Proposal Pool, any Agoran Decisions on whether to adopt it
+      cease to exist, its power is set to the lesser of its Adoption
+      Index and 4, and it takes effect, any rule to the contrary
+      notwithstanding. The Assessor SHALL make note of the effects of
+      the instant adoption, but failure to do so does not prevent the
+      instant adoption from taking effect.
+}}
+
+Amend rule 106 by replacing {This rule takes precedence over any rule
+which would permit a proposal to take effect.} with {Causing or
+otherwise permitting a proposal to take effect is only possible by Rules
+with power greater than or equal to 3.}.

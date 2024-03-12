@@ -1,0 +1,22 @@
+ID: 6811
+Title: Stereotypes
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by appending, immediately after this
+text:
+
+      As soon as possible after a judicial panel is assigned, each
+      member of the panel SHALL publish an appeals opinion indicating
+      a valid judgement to assign to the case -- only the last such
+      published opinion for each member is used to determine the
+      outcome.  Each member SHOULD choose an appropriate judgement,
+      and include arguments for eir choice.
+
+this text, followed by a paragraph break:
+
+      If prejudice is not explicitly specified, then an opinion
+      indicating AFFIRM or REMAND implicitly indicates without
+      prejudice, while an opinion indicating REMIT or OVERRULE
+      implicitly indicates with prejudice.

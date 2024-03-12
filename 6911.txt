@@ -1,0 +1,37 @@
+ID: 6911
+Title: Fear cleanup
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2309 (The Propose-O-matic) to read:
+
+      The Fearmongor is an Office. Its holder is responsible for
+      encouraging frequent rule changes.
+
+      Each week, the Fearmongor SHALL do the following:
+
+         1) Select a rule at random, and submit a proposal whose effect
+            is limited to repealing that rule (and, if necessary,
+            making a minimal set of other rule changes so that the game
+            would not be broken by the repeal).  This proposal must be
+            disinterested, with AI equal to the rule's power, and must
+            note the rule's title.
+
+         2) Select a rule (other than the one selected above) at
+            random, and submit a proposal whose effect is limited to
+            amending that rule in some fashion.  This proposal must be
+            disinterested, with AI equal to the rule's power, and must
+            note the rule's title.
+
+          3) Submit a proposal whose effect is limited to enacting a
+             rule identical to a rule that was once part of the ruleset
+             and has not been used to fulfill this part of the duty
+             within the past six months.  This proposal must be
+             disinterested, with AI equal to 1.
+
+          4) Make each of those proposals Distributable, clearly
+            specifying that e is doing so to fulfill eir duties.
+
+      Players SHALL NOT make proposals submitted in accordance with
+      this rule Undistributable.

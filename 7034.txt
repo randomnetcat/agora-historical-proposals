@@ -1,0 +1,29 @@
+ID: 7034
+Title: NoVs suck
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Repeal Rule 2230 (Notices of Violation).
+
+Amend Rule 1504 (Criminal Cases) by replacing the first paragraph with
+this text:
+
+     Criminal cases are a subclass of judicial cases.  Any person can
+     initiate a criminal case by announcement, specifying:
+
+     (a) a person (the Accused),
+     (b) an action the Accused allegedly performed or failed to
+         perform, and
+     (c) a rule allegedly violated by that action/inaction.
+
+     The initiator and each member of the Accused's basis are
+     unqualified to be assigned as judge of the case.
+
+and by removing ", or punishment already applied through another
+uncontested notice of violation, ", and by removing:
+
+     When a judicial question on culpability is judged after a number
+     of the Accused's points have been destroyed due to the
+     associated notice, the Accused CAN recreate those points in eir
+     possession by announcement.

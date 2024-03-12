@@ -1,0 +1,120 @@
+ID: 7066
+Title: Crime Cleanup
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1504 (Criminal Cases) by replacing
+     * DISCHARGE, appropriate only in extraordinary circumstances, if
+       any available non-null punishment would be manifestly unjust.
+       Has no effect.
+with
+     * DISCHARGE, appropriate only in extraordinary circumstances, if
+       any available non-null punishment would be manifestly unjust.
+       Has no effect. DISCHARGE is never appropriate if the rule
+       violation constituted a Crime.
+and by replacing
+       Failure to do so is a Class-3 Crime of Failure to Apologize.
+with
+       Failure to do so is the Crime of Failure to Apologize.
+and by removing
+     Players SHOULD NOT create rules defining Crimes of a Class
+     greater than 14.
+
+Amend Rule 911 by replacing
+     The judge of a previously-appealed question SHALL NOT assign the
+     same judgement to it without new reasoning that addresses the
+     serious doubt about its appropriateness.  Violating this
+     prohibition is the Class-N Crime of Lazy Judging, where N is the
+     judge's rank when e so judged.
+with
+     The judge of a previously-appealed question SHALL NOT assign the
+     same judgement to it without new reasoning that addresses the
+     serious doubt about its appropriateness.  Violating this
+     prohibition is the Crime of Lazy Judging.
+
+Amend Rule 2125 by replacing
+     d) The rules explicitly state that it MAY be performed while
+        certain conditions are satisfied.  Except as allowed by the
+        rules, performing such an action is the Class-N Crime of
+        Restricted Behavior, where N is the maximum power of the
+        rules explicitly allowing it (rounded up as needed to become
+        a valid Class of Crime).
+with
+     d) The rules explicitly state that it MAY be performed while
+        certain conditions are satisfied. Such an action MAY NOT be
+        performed except as allowed by the rules.
+
+Amend Rule 103 by replacing
+     The Speaker CAN, by announcement, cause the President to take
+     actions that are not otherwise IMPOSSIBLE, except for
+     deregistration.  Causing the President to perform ILLEGAL
+     actions in this manner is the Class-6 crime of Misleading the
+     Leader.
+with
+     The Speaker CAN, by announcement, cause the President to take
+     actions that are not otherwise IMPOSSIBLE, except for
+     deregistration.  Causing the President to perform ILLEGAL
+     actions in this manner is the Crime of Misleading the
+     Leader and should be punished harshly.
+
+Amend Rule 2345 (Bets) by replacing
+     Players SHALL NOT reveal the existence or details of any Bet to
+     any person other than the vote collector before the betting
+     period has finished, except where allowed by this Rule;
+     violating this requirement is the Class-6 Crime of Collusion.
+with
+     Players SHALL NOT reveal the existence or details of any Bet to
+     any person other than the vote collector before the betting
+     period has finished, except where allowed by this Rule;
+     violating this requirement is the Crime of Collusion and should be
+     punished harshly.
+
+Amend Rule 2333 (Contests) by replacing
+     Intentionally making a false such announcement is the Class-4
+     Crime of Gaming the System.
+with
+     Intentionally making a false such announcement is the Crime of
+     Gaming the System and should be punished harshly.
+
+Amend Rule 2143 (Official Reports and Duties) by replacing
+     Any information defined by the rules as part of an office's
+     report, without specifying which one, is part of its weekly
+     report.  Failure of the holder of an office to perform any duty
+     required of that office within the allotted time is the Class-2
+     crime of Tardiness.
+with
+     Any information defined by the rules as part of an office's
+     report, without specifying which one, is part of its weekly
+     report.  Failure of the holder of an office to perform any duty
+     required of that office within the allotted time is the Crime of
+     Tardiness.
+and by replacing
+     Reports SHALL be published in plain text.  Tabular data must
+     line up properly when viewed in a monospaced font.  Publishing a
+     report that deviates from these regulations is the Class 2 Crime
+     of Making My Eyes Bleed.
+with
+     Reports SHALL be published in plain text.  Tabular data must
+     line up properly when viewed in a monospaced font.  Publishing a
+     report that deviates from these regulations is the Crime of Making
+     My Eyes Bleed.
+
+Amend Rule 2202 (Ratification Without Objection) by replacing
+     A player SHALL NOT knowingly use or announce intent to use
+     Ratification Without Objection to ratify a (prior to
+     ratification) incorrect document when a corrected document could
+     be produced with reasonable effort, unless the general nature of
+     the document's error and reason for ratifying it is clearly and
+     plainly described in the announcement of intent.  Such
+     ratification or announcement of intent to ratify is the Class-8
+     Crime of Endorsing Forgery.
+with
+     A player SHALL NOT knowingly use or announce intent to use
+     Ratification Without Objection to ratify a (prior to
+     ratification) incorrect document when a corrected document could
+     be produced with reasonable effort, unless the general nature of
+     the document's error and reason for ratifying it is clearly and
+     plainly described in the announcement of intent.  Such
+     ratification or announcement of intent to ratify is the Crime of
+     Endorsing Forgery and should be punished very harshly.

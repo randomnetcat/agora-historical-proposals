@@ -1,0 +1,11 @@
+ID: 7024
+Title: All or nothing
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2230 (Notices of Violation) by replacing each instance of
+"Herald" with "CotC".
+
+[Proposal 7010 missed amending the "SHALL announce whether the NoV
+was valid" clause.]

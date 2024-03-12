@@ -1,0 +1,54 @@
+ID: 4418
+Title: Protect the inactive
+Author: Steve
+Co-authors: 
+Adoption index: 1
+
+Proposal
+Protect the inactive
+
+When this Proposal takes effect, any inactive players who became quiet 
+within the previous month become noisy.
+
+Amend Rule 1042 (Deregistration Due to Silence) by replacing the text in it 
+which currently reads:
+
+	(b) A player who has not quietened another player in the past 24 hours may 
+do so by publically identifying the player and stating that e causes that 
+player to become quiet.
+
+with text which reads:
+
+	(b) A player who has not quietened another active, noisy player in the 
+	past 24 hours may cause another active, noisy player to become quiet by 
+publically identifying the player and stating that e causes that player to 
+become quiet.
+
+[Comment: it strikes me as odd that we have these very strong protections 
+against requiring inactive players to do anything, and then we make a 
+solitary exception in the case of selecting Judges, which exception we never 
+invoke anyway. I think it would be more consistent and elegant simply not to 
+require inactive players to be judges, and this is what I propose here.]
+
+Amend Rule 698 (Always an Eligible Judge) to read:
+
+	(a) Each active player is eligible to judge a given CFJ, unless a rule 
+specifically makes em ineligible. Inactive players are ineligible to judge 
+CFJs.
+
+	(b) If the Clerk of the Courts is required to select a Judge, but after 
+taking all other rules affecting eligibility into account, no player is 
+eligible to judge that CFJ, then:
+
+	(1) All active non-barred players become eligible to judge that 	    CFJ.
+
+	(2) If there is still no player eligible to judge, then all 		    active 
+barred players, other than the caller emself, become 	    eligible to judge 
+that CFJ.
+
+	(3) If there is still no eligible Judge, then the game is in 		    serious 
+trouble. My usual advice in such situations is to 		    panic, and run 
+screaming for the hills.
+
+	(c) This Rule takes precedence over other Rules concerning who is and is 
+not eligible to judge CFJs.

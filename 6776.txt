@@ -1,0 +1,8 @@
+ID: 6776
+Title: Speed up the game
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2301 by replacing "If the day began a new week, each" with "Each".
+[The rewards are too low for such drawn-out play.]

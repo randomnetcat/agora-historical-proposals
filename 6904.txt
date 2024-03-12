@@ -1,0 +1,22 @@
+ID: 6904
+Title: Acka!
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Create a new Rule, titled "Deciphering the Book of Wmbredd o Gwag"
+
+      Whenever a Player's Proposal is Rejected, and e has had no other
+      proposal previously Rejected that Week, e is obliged to decipher
+      the next line of Book of Wmbredd o Gwag (Book).
+
+      Within 3 days of being so obliged, e must post a single sentence
+      of no more than 30 words to be added to the Book.  Upon doing
+      to, this text is appended to the text of the Book.  Players are
+      permitted to ridicule additions (and their authors) that are non
+      sequitur, and such ridiculed authors receive and hold the title
+      of 'Fuzzy Duck' until someone else receives that title.
+
+Set the text of the Book of Wmbredd o Gwag to the empty string.
+
+[http://www.nomic.net/deadgames/acka/org/fortunato/rules.html]

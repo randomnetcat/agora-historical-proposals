@@ -1,0 +1,14 @@
+ID: 7115
+Title: Relax / Stroke Hell
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 106, "Adopting Proposals", by replacing "its power is set
+to the minimum of four and its adoption index" with "its power is set
+to the minimum of four and its voting index".
+
+In Rule 1950, "Decisions with Adoption Indices", after the third
+paragraph, add a paragraph reading, "A person SHOULD NOT set a
+proposal's adoption index so low that if it took effect with power
+equal to its adoption index, it would be ineffective."

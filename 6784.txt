@@ -1,0 +1,14 @@
+ID: 6784
+Title: All's Well on the ID Front
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2161 by removing bullets (c) and (e) from the list, and
+relettering the rest accordingly, and amending bullet (b) to read
+       (b) Such an assignment is INVALID unless the number is a natural
+           number (expressed as a decimal literal with at most 14
+           digits) distinct from any ID number previously assigned to
+           an entity of that type, and ILLEGAL unless the number is
+           one greater than the greatest ID number so assigned.
+[Defense of ignorance/impossibility should prevent this from being dumb]

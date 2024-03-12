@@ -1,0 +1,35 @@
+ID: 6982
+Title: Thank You For Nothing, You Useless Reptiles
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1.0
+
+Enact the following power-1 rule, titled "Dragons":
+
+{Dragons are a class of assets. Each Dragon has exactly one color.
+Colors with different names are distinct, regardless of spectral
+proximity. Each color of Dragon is a currency. A Dragon may only be of
+a color mentioned in this rule; if a Dragon somehow has any other
+color, it becomes Gray. Ownership of Dragons is restricted to persons.
+
+A person can, by announcement, spend one dragon of one color X and N
+dragons of another color Y to gain N dragons of color X.
+
+If e has not already done so this week, the Speaker can, by
+announcement, either award a Dragon of any color to any person, or
+award a Gray Dragon to every player. E SHOULD only award Dragons to
+individual persons as recognition of merit appropriate to the color of
+Dragon awarded.
+
+Dragons can be Red, Orange, Green, Cyan, Blue, Black, Magenta,
+Ultraviolet, Violet, Indigo, Platinum, Yellow, Silver, or Lime.
+
+Upon a correct announcement that a specific player owns at least one
+Dragon of each color, that player wins the game. (This does not cause
+the game to end.) This rule then removes this paragraph from itself.}
+
+If there is a rule titled "Ribbons", then enact the following power-1
+rule, titled "Transmutation":
+
+{If a player owns a Ribbon of a color X, then e CAN, by announcement,
+cause all of their Gray Dragons to have the color X instead.}

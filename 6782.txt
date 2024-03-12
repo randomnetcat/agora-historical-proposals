@@ -1,0 +1,25 @@
+ID: 6782
+Title: No more ineffective win announcements
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2186 (Victory) by replacing this text:
+
+      A win announcement is a factually correct announcement
+      explicitly labeled as a win announcement and/or clearly stating
+      that one or more persons win the game.
+
+with this text:
+
+      A win announcement is an announcement meeting all of these
+      requirements:
+
+        a) It is factually correct.
+
+        b) It is explicitly labeled as a win announcement and/or clearly
+           states that one or more persons thereby win the game.
+
+        c) If it was a win announcement, then it would cause one or more
+           Winning Conditions to be satisfied, as defined by other
+           rules.

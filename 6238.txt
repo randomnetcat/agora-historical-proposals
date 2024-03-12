@@ -1,0 +1,58 @@
+ID: 6238
+Title: Judicial Sanctions
+Author: coppro
+Co-authors: 
+Adoption index: 1.7
+
+Append the following to Rule 911:
+{{
+      In the week after the panel publishes a valid judgment, the panel
+      CAN flip the prior judge's posture to kneeling.
+}}
+
+Amend Rule 1871 to read as follows:
+{{
+      Posture is a player switch, tracked by the Clerk of the Courts,
+      with the following values:
+
+      * Standing.  Standing players are generally qualified to judge.
+
+      * Sitting.  Sitting players are poorly qualified to judge, but
+        will generally become qualified when the CotC rotates the
+        bench.
+
+      * Leaning.  Leaning players are poorly qualified to judge, but
+        are generally qualified to serve on appeal panels.
+
+      * Kneeling.  Kneeling players are unqualified to judge, but will
+        generally become qualified when the CotC rotates the bench.
+
+      * Supine (default).  Supine players are unqualified to judge.
+
+      Changes to posture are secured.
+
+      A player CAN flip eir posture to any non-standing value by
+      announcement, unless eir posture is kneeling.
+
+      When the CotC assigns a player as judge, that player becomes
+      sitting.
+
+      The CotC or the Justiciar CAN rotate the bench (change all sitting
+      players to standing and then change all kneeling players to
+      sitting) by announcement, but SHALL NOT do so unless there is a
+      judicial case to which e is obliged to assign a judge, all
+      entities qualified to be so assigned are poorly qualified, and e
+      immediately afterwards (in the same announcement) assigns a judge
+      to that case.
+
+      When the CotC recuses a non-supine player with cause, e CAN flip
+      that player's posture to supine by announcement in a timely
+      fashion.
+}}
+
+[In effect, this allows an appeals panel that is unanimously unsatisfied
+with the prior judge to delay em from judging (hence kneeling; as the
+judge is being chastised). I've also added a minor clarification that
+the Justiciar can rotate the bench; it's otherwise not clear if e can
+do so, but definitely the intent of the rule expanding the Justiciar's
+power.]

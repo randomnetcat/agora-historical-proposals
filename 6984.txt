@@ -1,0 +1,9 @@
+ID: 6984
+Title: Cleanup
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+[Removing a Losing Condition.]
+
+Amend Rule 2130 (Activity) by removing the last paragraph.

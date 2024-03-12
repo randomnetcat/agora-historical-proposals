@@ -1,0 +1,213 @@
+ID: 6821
+Title: Relisting
+Author: G.
+Co-authors: 
+Adoption index: 2.1
+
+[mainly tuned up mechanics as per coppro's suggestions.  left Clout
+in for future systems as suggested by ais523].
+
+Create the following rule, The List of Succession, Power=2:
+
+         The List of Succession is an ordered list of all current
+         players except the current Speaker.  The first (1st) position
+         is the "highest" ("top") position on the list and the last (Nth
+         position, where N is the number of players on the list), is the
+         "lowest" ("bottom") position.   The List of Succession is part
+         of the Herald's weekly report, and is self-ratifying.
+
+         When a person is moved up P places on the list,
+         they are moved to be just above (immediately higher than) the
+         person P places ahead of em on the list - if there are not P
+         players higher than em, e is moved to the top of the list.
+         When a person is moved down P places on the list,
+         they are moved to be just below (immediately lower than) the
+         person B places behind em on the list - if there are not B
+         players lower than em, e is moved to the bottom of the list.
+         Movement on the list is Secured.
+
+         Any attempt to move an entity not on the list on the list fails.
+
+         Whenever a player other than the Speaker is not on the list, or
+         eir position on the list is found by judicial declaration to be
+         unknown or ambiguous, e is added to the list below the
+         lowest player whose position on the list is known.
+
+
+Increase the power of Rule 402 (Identity of the Speaker) to 2.
+Amend Rule 402 (Identity of the Speaker) to read:
+
+         A Coronation (crowning) occurs when a player announces that a
+         specified player other than the Speaker is crowned as Speaker,
+         provided that the rules explicitly permit the announcing player
+         (the crowner) to crown the specified player (the Speaker-to-be).
+
+         When an Coronation occurs, the current Speaker is removed
+         from office and placed on the bottom of the list of succession,
+         and immediately thereafter the Speaker-to-be is removed from the
+         list of succession and becomes the Speaker.
+
+         If no player has been crowned in the previous 90 days, or the
+         current Speaker is inactive or the office is vacant, than any
+         player CAN crown the highest active player on the List of
+         Succession.
+
+         Destiny is a player switch tracked by the Herald with values
+         Unmarked (default) and Marked.  When a player wins the game,
+         e becomes Marked.  If no player has been crowned in the previous
+         14 days, than any player CAN crown any single specified Marked
+         player.  When a player is crowned, e becomes Unmarked.
+
+
+Increase the power of Rule 103 (Role of the Speaker) to 2.
+Amend Rule 103 (Role of the Speaker) to read:
+
+       The Speaker is an imposed office and a figurehead of Agora. The
+       Speaker is a person who has proven themselves to be worthy of
+       the title, and for a time can direct Agoran government affairs.
+
+       If e has not already done so this month, or if e hasn't done
+       so since e gained office, the Speaker CAN Bestow Favors, by
+       announcement.  An announcement Bestowing Favors is a list of
+       other Players, one (different) name per Courtier position.
+       The bestowing of favors has the effect of moving each named
+       player to the indicated courtier position on the List of
+       Succession, in the order they are listed in the announcement.
+
+
+Amend Rule 2255 (Cards) by changing its title to "The Court"
+
+Amend Rule 2255 to read:
+
+       A rule with a power equal to or greater than this rule may
+       associate a Position Name with a specific position on the List of
+       Succession.  The player occupying a named position on the list
+       is considered to be the holder of the names position and have
+       the powers and duties described by the Rules for that position.
+       The holder of a so-named position is a Member of the Court,
+       (a Courtier).
+
+       Additionally, a rule with a power equal to or greater than this
+       rule may associate an integer Influence Level with a specific
+       position or positions on the List of Succession.
+
+       The following positions on the List of Succession are named, and
+       have indicated Influence Levels.  All other positions on the
+       list have an Influence Level of 2.
+
+       First Position:  Kitchen Staff Supervisor
+       Influence Level: 10
+       Position:  The Kitchen Staff Supervisor supervises the kitchen
+       staff.
+
+       Second Position: Justiciar.
+       Influence Level: 7
+       Position: The Justiciar is granted particular abilities or
+       privileges associated with the judicial process as described
+       elsewhere in the Rules.
+
+       Third Position: Grand Vizier
+       Influence Level: 5
+       Position: The Grand Vizier CAN, With Notice,
+       perform any action that an officer both CAN and MAY (or SHALL)
+       perform by virtue of holding that office.
+
+       Fourth Position: Head Gardener.
+       Influence Level: 5
+       Position: the Head Gardener CAN rubberstamp or veto a specified
+       decision by announcement.
+
+       Fifth Position: Crown Prince
+       Influence Level: 0
+       Position:  The Crown Prince CAN begin a coup by
+       announcing the ceremonial shelling of the palace, providing
+       no coup has been resolved in the last 14 days.  The effects
+       of the coup (if any) are as described elsewhere in the
+       rules.
+
+
+Amend Rule 2284 (Fee-based actions) by appending the following:
+       - A player CAN move an indicated player an indicated number
+         of positions P on the list in an indicated direction (up
+         or down) for a charge equal to the sum of the Influence
+         Levels of the positions over which that player would jump
+         and the position the player is jumping to,
+         as totaled prior to the jump.  If the indicated player is
+         unable to be so moved due to eir position on the list, but
+         can be moved at least one position in the indicated
+         direction, e is moved the maximum amount possible and charged
+         the appropriate partial fee.  If this final fee CANNOT be
+         paid in full, the entire action fails.
+
+
+Repeal Rule 2275 (Government)
+
+Amend Rule 2177 (The Senate) by replacing the word "Government" with
+"Court" and by replacing "Minsters" with "Courtiers".
+
+[Voting Power revamp to make the whole list worthwhile.  Note that
+Prop 6759 tried to do this and failed due to power]
+
+Repeal Rule 2290 (Chamber and Title).
+
+Amend Rule 2284 by removing
+        - A player CAN change the chamber of an ongoing ordinary
+          decision for a charge of 2 ergs.
+
+Amend Rule 2279 by replacing the first bullet with:
+            (1) Take the Influence Level associated with the player's
+                position on the list of succession, or 5 if the player
+                is the Speaker.
+
+Repeal Rule 2274 (Chicken Coups)
+Repeal Rule 2269 (Couple Coups)
+Amend Rule 2270 (Coups D'etat) to read:
+
+       When a player begins a Coup D'etat (a coup) as explicitly
+       permitted by the Rules, the following events take place in
+       order:
+
+       (a) For a period of 4 days following the coup initiation,
+       any player except the Speaker CAN announce themselves to
+       be a Rebel.  Once announced, this cannot be retracted.
+       The initiator of the coup is automatically a Rebel.
+
+       (b) As soon as possible after this 4-day period ends, the
+       Herald SHALL select and announce a random integer between 1
+       and the number of players in the game.  If this number is
+       equal to or less than the number of declared rebels, than
+       the rebellion succeeds, otherwise it fails.  The announcement
+       of this number resolves the coup with the following effects:
+
+         (i) If the rebellion fails, one Rest is created in the
+             possession of every Rebel, and one additional Rest is
+             created in the possession of the coup initiator, and
+             a Leadership Token is created in the possession of the
+             Speaker.
+
+        (ii) If the coup succeeds, all Rebels have all of their Rests
+             destroyed.  The coup initiator becomes the Speaker,
+             and the other Rebels are moved to the first R positions in
+             the List of Succession, placed on the list in the order in
+             which they declared themselves to be rebels (first
+             position in the list going to the first rebel, etc).
+             Rules to the contrary Notwithstanding, the new Speaker
+             CANNOT Bestow Favors until 30 days after so becoming
+             Speaker.
+
+
+Create the following Rule, Leader Bootstrap, power-2.1:
+
+       As soon as possible after this proposal takes effect, the
+       Herald SHALL publish a randomly-ordered list of all
+       players except the Speaker; this list becomes the List of
+       Succession.
+
+       Any player CAN, by announcement, cause a player who won the
+       game in the six months prior to this rule taking effect, and
+       who has never been marked before, to become marked.  The
+       Herald SHOULD take the lead in marking all such winners of
+       whom e is aware.
+
+       After this Rule has been in effect for 30 days, the Herald
+       CAN and SHALL, asap, cause it to repeal itself With Notice.

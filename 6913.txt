@@ -1,0 +1,10 @@
+ID: 6913
+Title: Dictatorship
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Create a new Rule with the following text:
+
+      omd CAN cause this rule to make arbitrary gamestate changes by
+      announcement.

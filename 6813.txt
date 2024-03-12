@@ -1,0 +1,24 @@
+ID: 6813
+Title: Hard times, tape two
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2230 by replacing:
+
+        When a NoV becomes Closed, a number of Rests are created in the
+        possession of the Accused equal to the Class of the specified
+        Crime, or in its absence the Power of the violated rule, rounded
+        up.
+
+with:
+
+        When an NoV becomes Closed, a number of Rests is created in the
+        possession of the Accused equal to two plus the Class of the
+        specified Crime, where, if a Crime has no defined Class, its
+        Class is considered to be the Power of the violated rule,
+        rounded up.
+
+[2 additional Rests for each Crime, because players should not think
+violation is ok, only because destroying a single Rest is not
+expensive.]

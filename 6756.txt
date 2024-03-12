@@ -1,0 +1,10 @@
+ID: 6756
+Title: Ribbon Sweeper
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Destroy all Ribbons owned by the LFD.
+[I have made a de facto pledge to retain the Ribbons, however, Agorans
+have previously insinuated a desire to get rid of them. Hence, a
+proposal to put it to a vote.]

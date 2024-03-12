@@ -1,0 +1,21 @@
+ID: 7052
+Title: Ratify Appeals
+Author: G.
+Co-authors: Murphy
+Adoption index: 3
+
+[Promotor note: marked disinterested.]
+
+Ratify the following:
+
+No assignment of a panel to an appeal case since the repeal of Rule
+2226 (Judicial Rank) was invalid solely due to the panel having the
+wrong number of members.
+
+[Note:  as of submission, this affects:
+  2979a  | 2011-03-30 09:21:15-07
+  2980a  | 2011-03-30 09:22:24-07
+  2982a  | 2011-04-04 12:38:28-07
+  3004a  | 2011-04-23 20:39:11-07
+  3004b  | 2011-04-28 19:23:18-07
+]

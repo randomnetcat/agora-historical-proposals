@@ -1,0 +1,11 @@
+ID: 6778
+Title: The Order of Agora
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+If the proposal entitled "Ribbon Rewrite" has been adopted (whether or
+not it has taken effect), then amend Rule 2199 by adding the following
+Ribbon:
+
+       (+P) The Speaker qualifies for a Platinum Ribbon.

@@ -1,0 +1,33 @@
+ID: 7010
+Title: Bring back closing NoVs
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+[ Also changes NoV recordkeepor the the CotC. ]
+
+Amend Rule 2230 (Notices of Violation) by replacing
+
+      Valid NOVs have ID numbers, to be assigned by the Herald.
+
+with:
+
+      If a NoV is Uncontested and was published at least four days
+      ago, any player CAN cause it to become Closed by announcement.
+      Any player CAN cause a NoV specifying em as Accused to become
+      Closed by announcement. When a NoV becomes Closed, a number of
+      points in the Accused's possession are destroyed equal to the
+      Class of the specified Crime, or in its absence the Power of the
+      violated rule, rounded up.  If a Closed NoV becomes Contested,
+      the points are still destroyed, but CAN be later recreated by
+      judicial processes as described elsewhere.
+
+      Valid NOVs have ID numbers, to be assigned by the CotC.
+
+Amend Rule 1504 (Criminal Cases) by inserting the following after the
+paragraph beginning "* NOT GUILTY":
+
+      When a judicial question on culpability is judged after a number
+      of the Accused's points have been destroyed due to the
+      associated notice, the Accused CAN recreate those points in eir
+      possession by announcement.

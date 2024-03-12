@@ -1,0 +1,15 @@
+ID: 6246
+Title: Fix Office Interest
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2227 (Interest Index of Offices) to read, in full:
+
+      Each office has an interest index, tracked by the IADoP.
+
+      A player CAN set an office's interest index without objection, or
+      without 2 objections if e holds the office.
+
+[currently not tracked by anyone; and uses "flip" even though it isn't a
+switch]

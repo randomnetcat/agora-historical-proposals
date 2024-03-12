@@ -1,0 +1,13 @@
+ID: 6843
+Title: "White Renaissance"
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2199 "Ribbons" by removing:
+
+      (except for White Ribbons, which can be awarded at any time
+      within a month after they are earned)
+
+[So, no one possesses a White Ribbon anymore and White Ribbons are not
+needed for a Renaissance win]

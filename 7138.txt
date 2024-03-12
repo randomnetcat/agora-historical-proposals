@@ -1,0 +1,15 @@
+ID: 7138
+Title: Whereto Paradox?
+Author: omd.
+Co-authors: 
+Adoption index: 1.0
+
+Create a new Rule titled "Win by Paradox":
+
+     A turtle is an inquiry case on the possibility or legality of a
+     rule-defined action (actual or hypothetical, but not arising
+     from that case itself, and not occurring after the initiation of
+     that case) which has the judgement UNDECIDABLE.
+
+     When a turtle has continuously been a turtle for one week, its
+     initiator satisfies the Victory Condition of Paradox.

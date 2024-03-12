@@ -1,0 +1,12 @@
+ID: 7095
+Title: Agora, Adult
+Author: Yally
+Co-authors: 
+Adoption index: 3
+
+Enact a new power-3 rule with the following text:
+
+Agora can make its own decisions. If, at any time, Agora wishes to
+counteract a decision, then that decision, rules to the contrary
+notwithstanding, has no effect. The game of Agora, but not any player
+of it, can make arbitrary changes to the gamestate.

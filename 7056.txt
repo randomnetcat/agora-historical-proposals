@@ -1,0 +1,20 @@
+ID: 7056
+Title: Speed notation
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 2
+
+If there exists a rule entitled Speed, append to it this paragraph:
+
+{ For all x, y and z, the notation "(x;y;z)" means "x (if the Speed is
+Slow), y (if the Speed is Normal), or z (if the Speed is Fast)". }
+
+If Rule 2143 (Official Reports and Duties) contains the string "the
+holder of that office SHALL perform it at least once each week, except
+if the Speed is Slow, in which case the duties SHALL be completed once
+each fortnight.", replace it with "the holder of that office SHALL
+perform it at least one each (fortnight;week;week)."
+
+If Rule 1023 (Common Definitions) contains the string { "within X
+days", where X is 14 when the Speed is Slow, 7 when it is Normal and 5
+when it is Fast. }, replace it with { "within (14;7;5) days". }.

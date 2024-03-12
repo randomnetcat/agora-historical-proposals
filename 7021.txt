@@ -1,0 +1,9 @@
+ID: 7021
+Title: Intention
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Enact a new Rule with the following text:
+
+     Agora Nomic is intended to be a person.

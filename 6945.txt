@@ -1,0 +1,18 @@
+ID: 6945
+Title: Fix Urgency, Part Deux
+Author: Murphy
+Co-authors: omd
+Adoption index: 3.0
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing this text:
+
+      The voting period for a decision with at least two options cannot
+      be shorter than seven days.
+
+with this text:
+
+      The minimum voting period for a decision with at least two
+      options is seven days.
+
+[Parallel with the proposed update of Rule 2313, making it clear that
+that clause takes precedence over this one.]

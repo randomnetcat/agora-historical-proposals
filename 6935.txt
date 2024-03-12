@@ -1,0 +1,19 @@
+ID: 6935
+Title: Check the Balances
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2286 (Veto and Rubberstamp) to read:
+
+      Vetoing an ordinary decision during its voting period increases
+      its adoption index by 3 and makes it Democratic.  Vetoing a
+      decision under other circumstances has no effect.
+
+      Rubberstamping an ordinary, non-filibustered decision during its
+      voting period decreases its quorum to 1, rules to the contrary
+      notwithstanding.  Rubberstamping a decision under other
+      circumstances has no effect.
+
+      A player CAN veto or rubberstamp a specified ordinary decision
+      for a fee of 3 ergs.

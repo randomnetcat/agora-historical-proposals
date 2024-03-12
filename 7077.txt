@@ -1,0 +1,8 @@
+ID: 7077
+Title: Fix "fixed" flexibility
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 683 by replacing "two of the available options" with "one
+of the available options".

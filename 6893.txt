@@ -1,0 +1,18 @@
+ID: 6893
+Title: Clarification of the Replacement of the Pope
+Author: Flameshadowxeroshin
+Co-authors: 
+Adoption index: 1.0
+
+In rule 2316:
+
+[The current rule does not provide any clear way to replace the pope,
+and suggests that the only player who can legally become a pope is the
+pope. This does not make sense.]
+
+Amend the phrase "and the specified player is indeed a pope" in the
+third paragraph to read "and the specified player is indeed a
+cardinal".
+
+Replace every instance of the phrase "the pope" in the fourth
+paragraph with the phrase "the previous pope".

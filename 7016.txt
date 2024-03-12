@@ -1,0 +1,15 @@
+ID: 7016
+Title: Patent Title
+Author: omd
+Co-authors: 
+Adoption index: 1.5
+
+Award Wooble the Patent Title "Simon Said".
+
+[Promotor note: context for this proposal:
+On Thu, Apr 14, 2011 at 10:38 PM, Geoffrey Spear <geoffspear@gmail.com> wrote:
+> On Thu, Apr 14, 2011 at 4:09 PM, Sean Hunt <scshunt@csclub.uwaterloo.ca> wrote:
+>> I also pledge not to deregister in a huff.
+>
+> *huff*. I deregister.
+]

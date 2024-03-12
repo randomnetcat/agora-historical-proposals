@@ -1,0 +1,113 @@
+ID: 7083
+Title: Re-jigged Re-jiggery
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+[ Only change is making the 'proposals' rule power-3. ]
+
+Retitle Rule 1607 to "Distribution", and change its Power to 3.
+
+Create a new Power-3 Rule entitled "Proposals" with the following text:
+
+ A proposal is a fixed body of text which has been made into a
+ proposal using a process specifically described in the Rules.
+ When a person creates a proposal, e SHOULD ensure that it
+ specifies one or more changes to the gamestate.  Except as
+ prohibited by other rules, a proposal that takes effect CAN, as
+ part of its effect, apply the changes that it specifies.  If the
+ proposal cannot make some such changes, this does not preclude
+ the other changes from taking place.
+
+ A player CAN create a proposal by publishing ("submitting") a
+ body of text and an associated title with a clear indication
+ that it is intended to become a proposal, which places the
+ proposal in the Proposal Pool.  The author (syn. proposer) of a
+ proposal is the player who submitted it.  A player CAN remove
+ (syn. retract, withdraw) a proposal e authored from the Proposal
+ Pool by announcement.
+
+ A co-author of a proposal is a person (other than its author)
+ unambiguously identified as such by its author when it was
+ submitted.
+
+Replace the entire text of Rule 1607 with:
+
+ The Promotor is an office; its holder is responsible for
+ receiving and distributing proposals.
+
+ A player specifically permitted by the Rules to distribute a
+ Proposal CAN distribute the proposal by publishing it with the
+ clear intent of distributing it.  When a proposal is
+ distributed, it is removed from the Proposal Pool.  The
+ distribution of a proposal initiates the Agoran decision of
+ whether to adopt the proposal, as described elsewhere.  Removing
+ a proposal from the Pool by a means other than initiating an
+ Agoran Decision to adopt it is secured.
+
+ The Promotor CAN distribute a proposal which is in the Proposal
+ Pool at any time.  In a given Agoran week, the Promotor SHALL,
+ as part of eir weekly duties, distribute all proposals in the
+ Proposal Pool that were in the Pool at the beginning of that
+ week.
+
+ Distributed proposals have ID numbers, to be assigned by the
+ Promotor.
+
+ If there is a Proposal in the Pool that it would otherwise be
+ IMPOSSIBLE for any active player to distribute, then any player
+ CAN distribute that Proposal Without 3 Objections.
+
+ The Promotor's report includes a list of all proposals in the
+ Proposal Pool.
+
+Replace the entire text of Rule 1950 with:
+
+ Adoption index is a switch possessed by Agoran decisions, whose
+ value is either "none" (default) or an integral multiple of 0.1
+ from 1.0 to 9.9.
+
+ Chamber is a switch possessed by Agoran decisions with adoption
+ indices, with values Ordinary (default) and Democratic.
+
+ Determining whether to adopt a proposal is an Agoran decision.
+ By default, this decision has an adoption index of 1.0 and is
+ Ordinary; if the proposer specified valid, non-"none" values for
+ the adoption index and/or Chamber when submitting the proposal,
+ those values are set at the initiation of the decision. Changing
+ either value is secured with a power threshold of 2. The vote
+ collector for this decision is the Assessor.
+
+ An Agoran decision with an adoption index has the following
+ essential parameters:
+
+ a) Its adoption index.
+ b) Its author (and co-authors, if any).
+ c) Its Chamber.
+
+ The eligible voters on a decision with an adoption index are
+ those entities that were active first-class players at the start
+ of its voting period.  Setting or changing an entity's voting
+ limit on such a decision is secured with a power threshold of 2
+ if the decision is Ordinary, or 3 otherwise.
+
+ For any Agoran decision with an adoption index, the available
+ options are FOR and AGAINST.
+
+Replace the entire text of Rule 106 with the following:
+
+  If the option selected by Agora on a decision about whether to
+  adopt a proposal is ADOPTED, then the proposal in question is
+  adopted, and unless other rules prevent it from taking effect,
+  its power is set to the minimum of four and its adoption index,
+  and then it takes effect.
+
+ A proposal with a decision on which the option selected by Agora
+ is not ADOPTED does not take effect, rules to the contrary
+ notwithstanding.
+
+ Preventing a proposal from taking effect is a secured change;
+ this does not apply to generally preventing changes to specified
+ areas of the gamestate, nor to a proposal preventing itself from
+ taking effect (its no-effect clause is generally interpreted as
+ applying only to the rest of the proposal).

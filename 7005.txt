@@ -1,0 +1,12 @@
+ID: 7005
+Title: Exile
+Author: Walker
+Co-authors: Yally, G.
+Adoption index: 2.0
+
+Append the following to the list of sentences in Rule 1504:
+
+      * EXILE, appropriate for rule breaches of the highest severity.
+        When a judgement of EXILE has been in effect continuously for
+        one week, the ninny is deregistered and CANNOT register for
+        two months after that time.

@@ -1,0 +1,17 @@
+ID: 6946
+Title: Fix Urgency
+Author: Murphy
+Co-authors: omd
+Adoption index: 3.0
+
+Amend Rule 2313 (Urgent Proposals) by replacing this text:
+
+      Rules to the contrary notwithstanding, the Voting Period of an
+      Agoran Decision to adopt an Urgent Proposal is initially four
+      days, and cannot be shortened.
+
+with this text:
+
+      Rules to the contrary notwithstanding, the minimum and initial
+      voting period of an Agoran decision to adopt an Urgent Proposal
+      is four days.

@@ -1,0 +1,34 @@
+ID: 7092
+Title: Speed Up Victory
+Author: Walker
+Co-authors: 
+Adoption index: 1.7
+
+[ This does not clash with my other victory proposal. ]
+
+Retitle Rule 2343 (Victory Cases) to "Victory".
+
+Replace the first paragraph of Rule 2343 with:
+
+     A person can publish a Declaration of Victory by announcement,
+     explaining the Victory Condition they believe they have met and
+     how they met it. If a Victory Case is initiated regarding a
+     Declaration of Victory, no Declarations of Victory for that win
+     can be announced after that point. Otherwise, the person is
+     deemed to have won the game of Agora as described in the
+     Declaration of Victory one week after eir Declaration of Victory
+     is published. The Declaration of Victory's claim that the
+     specified player won in the specified way becomes self-ratifying
+     at this point. The Herald SHALL award the winner the Patent
+     Title Champion as soon as possible afterwards.
+
+     Victory cases are a subclass of judicial cases. For one week
+     after the publication of a Declaration of Victory, any player
+     CAN initiate a Victory case by announcement, indicating the
+     Declaration of Victory e believes to be false and eir arguments
+     and evidence supporting this.
+
+and in the same Rule replace "appropriate if the Victory Condition was
+satisfied as described" with "appropriate if the Victory Condition was
+satisfied as described in the Declaration of Victory" and replace "in
+effect for two weeks" with "in effect for one week".

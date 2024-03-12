@@ -1,0 +1,13 @@
+ID: 7057
+Title: Exile
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1
+
+Create a new rule, titled "Agora's Name", with the following text:
+
+{The official name in English of the nomic whose ruleset contains this
+rule is "The Exiled Democratic State of the Nation of Agora Nomic".
+Its official name in French is "L'Etat démocratique en exil de la
+Nation de la Nomique de Agora". It may also be referred to in English
+as "Agora Nomic", and in either language as "Agora".}

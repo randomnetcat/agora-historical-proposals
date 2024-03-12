@@ -1,0 +1,144 @@
+ID: 7050
+Title: No more warp drive
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[The ability to appeal culpability and sentencing separately has not
+gotten much actual use, and as Yally has shown, is quite scammable in
+a way that would require even more boilerplate to fix.  May as well
+slim things down by getting rid of judicial questions entirely.]
+
+Retitle Rule 2158 (Judicial Questions) to Judges, and amend it to read:
+
+     At any time, each judicial case is either open (default),
+     suspended, or has exactly one judgement.  This is a persistent
+     status that changes only according to the rules.  The possible
+     types of judgement for a judicial case depend on the type of
+     case.
+
+     When a judicial case is open and has a judge assigned to it, the
+     judge CAN assign a valid judgement to it by announcement, and
+     SHALL do so as soon as possible, unless e is recused from the
+     case before the time limit for doing so has expired.  A judge
+     SHOULD NOT assign an inappropriate judgement to any judicial
+     case.  A judgement is valid and/or appropriate only as defined
+     by the rules.  Defining these things is secured, with a power
+     threshold of 1.7.  If more than one judgement is valid and
+     appropriate, then the choice between them is left to the judge's
+     discretion.
+
+     When a non-appeal judicial case is open, and its judge has
+     violated a time limit to assign a judgement to it, or is not an
+     active player, the Clerk of the Courts SHALL recuse that judge
+     with cause by announcement as soon as possible; however, this
+     requirement is waived if the judge assigns a judgement to it
+     first.
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing:
+
+     At any time, a judicial case either does not require a judge
+     (default) or requires a judge.  This is not a persistent status,
+     but is evaluated instantaneously.
+
+     When a judicial case requires a judge and has no judge assigned,
+     the CotC CAN assign a qualified entity to be its judge by
+     announcement, and SHALL do so as soon as possible.
+
+with:
+
+     When a judicial case is open and has no judge assigned, the CotC
+     CAN assign a qualified entity to be its judge by announcement,
+     and SHALL do so as soon as possible.
+
+Amend Rule 2164 (Judicial Self-Recusal and Case Transfer) by replacing
+"a judicial question in that case" with "that case".
+
+Amend Rule 649 (Patent Titles) by replacing "judicial question" with
+"judicial case".
+
+Amend Rule 1769 (Holidays) by replacing "judicial question" with
+"judicial case".
+
+Amend Rule 991 (Judicial Cases Generally) by replacing "that either
+require a judge or have at least one applicable judicial question that
+has no judgement" with "without a judgement".
+
+Amend Rule 591 (Inquiry Cases) by replacing:
+
+     An inquiry case has a judicial question on veracity, which is
+     always applicable.  The valid judgements for this question are
+     as follows, based on the truth or falsity of the statement at
+     the time the inquiry case was initiated:
+
+with:
+
+     The valid judgements for an inquiry case are as follows, based
+     on the truth or falsity of the statement at the time the inquiry
+     case was initiated:
+
+and by replacing "judicial question which was not itself judged
+IRRELEVANT" with "judicial case", and by replacing "judgement of the
+question in an inquiry case" with "judgement of an inquiry case".
+
+Amend Rule 1504 (Criminal Cases) by replacing:
+
+     A criminal case has a judicial question on culpability, which is
+     applicable at all times following the call for judgement.  The
+     valid judgements for this question are:
+
+with:
+
+     The valid judgements for a criminal case are as follows:
+
+and by replacing "GUILTY, appropriate if" with "GUILTY with a valid
+sentence, appropriate if", and by moving the paragraph about
+recreating points to the end of the rule, and by replacing:
+
+     A criminal case has a judicial question on sentencing, which is
+     applicable if the question on culpability is applicable and has
+     a judgement of GUILTY.  If a criminal case has an applicable
+     question on sentencing which has a judgement, the Accused is
+     hereafter known as the ninny, the judgement in the question on
+     sentencing is known as the sentence, and the sentence is in
+     effect.
+
+with:
+
+     When a sentence has been assigned as part of a GUILTY judgement,
+     the Accused is known as the ninny, and the sentence is in
+     effect.
+
+and by replacing "one destruction or transfer per question on
+sentencing" with "one destruction or transfer per case".
+
+Amend Rule 2277 (Appeals of Criminal Cases) by removing:
+
+     Unless otherwise specified, an appeal of a judgement in a
+     criminal case is assumed to be appealing the question of
+     culpability.
+
+     When a judgement on a criminal case's question of culpability is
+     suspended, the judgement (if any) on its question of sentencing
+     is also suspended.  Afterward, if the first judgement is
+     assigned again, then so is the second.
+
+Amend Rule 2318 (Motions to Reconsider) by replacing "question" with "case".
+
+Amend Rule 911 (Appeal Cases) by replacing
+
+     An appeal case has a judicial question on disposition, which is
+     applicable if and only if the prior question is applicable.  The
+     valid judgements for the question on disposition are of the form
+     "<action> with prejudice" or "<action> without prejudice".  Such
+     a judgement is generally appropriate if and only if
+
+with
+
+     The valid judgements for an appeal case are of the form
+     "<action> with prejudice" or "<action> without prejudice".  Such
+     a judgement is generally appropriate if and only if
+
+and by replacing "prior question" with "prior case", and by replacing
+"the question on disposition in the appeal case" with "the appeal
+case", and by replacing "judicial question" with "judicial case".

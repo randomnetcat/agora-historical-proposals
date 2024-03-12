@@ -1,0 +1,13 @@
+ID: 6754
+Title: Unanimous Consent
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2202 by replacing the first paragraph with:
+       Any player CAN, without objection, ratify a
+       public document, specifying its scope. If
+       that document is an official report or a substantial portion
+       thereof, until such a time as that report or portion is again
+       ratified, the date and scope of the ratification become a part
+       of the report.

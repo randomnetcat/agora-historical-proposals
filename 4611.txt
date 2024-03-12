@@ -1,18 +1,17 @@
 ID: 4611
-Title: Potential Decay
-Author: Goethe
+Title: Rebel Rabble
+Author: OscarMeyr
 Co-authors: 
-Adoption index: 2
+Adoption index: 1
 
 
-Amend Rule 2052 by replacing:
-       (a) Associated with every Player is a non-negative integral
-           number known as that Player's Voting Potential.  At the
-           beginning of each new month, every Player's Voting Potential
-           is set to zero.
+Amend R2071 by appending this text:
 
-with:
-       (a) Associated with every Player is a non-negative integral
-           number known as that Player's Voting Potential.  At the
-           beginning of each new month, every Player's Voting Potential
-           is divided by two and rounded down.
+     * Caption: Rebel Rabble
+       Elements: Budgeted,
+                 Restricted [Rebellious]
+       Exploit: For a fee of N Kudos, where N is the current number
+         of Rebellious Players, increase the effective number of
+         Rebellious Players by 1 for 10 days (which is one week
+         on the Revolutionary Calendar).  Count the day this Card
+         is played as day #1.

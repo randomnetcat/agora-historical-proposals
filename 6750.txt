@@ -1,0 +1,7 @@
+ID: 6750
+Title: No Caps for Late Judges
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2295, replace "judges a case" with "judges a case on time".

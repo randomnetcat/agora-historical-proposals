@@ -1,0 +1,24 @@
+ID: 6979
+Title: Killing Dragons Is Everything Around Here
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1.0
+
+If the rule "Voting on Democratic Decisions" contains the word
+"ordinary", then enact a new rule, titled "Voting on Ordinary
+Decisions":
+
+{VLOP is a person switch whose possible values are the positive
+integers, defaulting to 1. If a person's VLOP is N, then they CAN, by
+announcement, spend N Dragons of different colors to increase their
+VLOP by 1.
+
+If the submitter of a proposal states that it is Ordinary at the time
+that they submit it, and the proposal's adoption index is not greater
+than the power of this rule, then the decision to adopt the proposal
+is Ordinary.
+
+The eligible voters on an ordinary decision are those entities that
+were active first-class players at the start of its voting period. The
+voting limit of each eligible voter on an ordinary decision is eir
+VLOP, or 0 if e does not have a VLOP.}

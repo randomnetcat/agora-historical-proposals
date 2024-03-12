@@ -1,0 +1,9 @@
+ID: 7008
+Title: Allow Point FINEs
+Author: Walker
+Co-authors: 
+Adoption index: 2.0
+
+Append the following to the Rule entitled "Points":
+
+      The maximum FINE amount for points is 25.

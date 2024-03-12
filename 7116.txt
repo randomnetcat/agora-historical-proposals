@@ -1,0 +1,10 @@
+ID: 7116
+Title: Protect Assets
+Author: woggle?
+Co-authors: 
+Adoption index: 3
+
+Set the power of rule 2166 (Assets) to 3.
+
+[Rationale: promises are assets at Power 3, so the defining rule needs
+to be, too.]

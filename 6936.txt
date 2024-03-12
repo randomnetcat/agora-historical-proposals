@@ -1,0 +1,16 @@
+ID: 6936
+Title: Simplify
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Enact the following Rule, entitled "Bonus for Repeal":
+
+      If there are 100 or more rules, and a proposal is adopted
+      containing a provision that one or more rules be repealed, and
+      if, in the Rulekeepor's estimation, the proposal simplifies the
+      ruleset, then the Rulekeepor shall award the Proposer the Boon
+      of Tapecutter.
+
+      If the Rulekeepor decides that the proposal does not simplify
+      the ruleset, e must announce this decision.

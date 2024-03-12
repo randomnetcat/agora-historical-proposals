@@ -1,0 +1,15 @@
+ID: 6829
+Title: I want to do it weekly
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2287 (Props) by replacing this text:
+
+        The Air Traffic Controller is an office and the recordkeepor of
+        props; prop records are part of eir monthly report.
+
+with:
+
+        The Air Traffic Controller is an office and the recordkeepor of
+        props.

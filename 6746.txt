@@ -1,0 +1,14 @@
+ID: 6746
+Title: Decision Fixes
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 208 (Resolving Agoran decisions) by replacing
+       (c) It specifies which option was selected by Agora, as
+           described elsewhere, and provides a tally of the voters'
+           valid ballots on the various options.
+with
+       (c) It specifies the outcome, as described elsewhere, and, if
+           there was more than one valid option, provides a tally of
+           the voters' valid ballots on the various options.

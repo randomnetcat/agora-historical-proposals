@@ -1,0 +1,30 @@
+ID: 6253
+Title: In the future, I want my stuff back: a more general solution v1.2
+Author: Quazie
+Co-authors: 
+Adoption index: 2.0
+
+In R2166 replace the following paragraph:
+
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.  If
+      an asset's backing document restricts its ownership to a class
+      of entities, then that asset CANNOT be gained by or transferred
+      to an entity outside that class, and is destroyed if it is owned
+      by an entity outside that class (except for the Lost and Found
+      Department, in which case any player CAN transfer or destroy it
+      without objection).
+
+with
+
+       Each asset has exactly one owner.  If an asset would otherwise
+       lack an owner, it is owned by the Lost and Found Department.  If
+       an asset's backing document restricts its ownership to a class
+       of entities, then that asset CANNOT be gained by or transferred
+       to an entity outside that class, and is transfered to the Lost
+       and Found Department if it is owned by an entity outside that
+       class.  If an asset is owned by the Lost and Found department
+       any player CAN transfer or destroy it without objection.
+
+       The Lost and Found department may own any asset regardless of
+       restrictions placed upon an asset by its backing document.

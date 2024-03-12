@@ -1,0 +1,54 @@
+ID: 6847
+Title: "Team balancing"
+Author: Keba
+Co-authors: ais523
+Adoption index: 2.0
+
+Create a new power=2 Rule entitled "Team Balancers":
+
+     To create a Team Balancer means to create a new second-class
+     Player entitled "Team Balancer " followed by the smallest
+     positive integer that would cause the player to have a unique
+     name, which means there has never existed a player with that
+     name. Such a player is known as a Team Balancer then and this
+     integer is known as a Team Balancer's ID.
+
+     To create a Team Balancer for a certain team or Allegiance means
+     to create a Team Balancer and flip eir Allegiance to that team
+     or Allegiance.
+
+     The Referee SHOULD announce such a creation as soon as possible.
+     Creating a Team Balancer is secured.
+
+     If the distribution of a set of Independent players among a set
+     of empty Teams causes these teams to have different high amounts
+     of members because this set contained an odd number of players,
+     then a Team Balancer is created for each of those teams with a
+     lower amount of players. This is repeated until all of those
+     teams consist of an equal high amount of players.
+
+     If a (former) player ceases to be a member of a team, because e
+     ceases to be a player, one Team Balancer is created for the
+     player's former Allegiance.
+
+     If a player becomes a member of a team, because e registered and
+     that team contained one or more Team Balancers, the Team
+     Balancer who is a member of that team with the highest ID ceases
+     to be a member of that team, a Team Balancer and a player at
+     all.
+
+Amend Rule 2305 "Fans" by replacing
+
+     Whenever a non-Independent player gains an erg, that player's
+     Allegiance gains a Fan.
+
+with:
+
+     Whenever a non-Independent player gains an erg, that player's
+     Allegiance gains a Fan. At the beginning of each week, each Team
+     Balancer's Allegiance gains 6 ergs.
+
+Amend this rule by adding to its last paragraph:
+
+     Additionally, all Team Balancers cease to be Team Balancers and
+     players at all.

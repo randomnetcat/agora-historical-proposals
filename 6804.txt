@@ -1,0 +1,10 @@
+ID: 6804
+Title: Energize new players
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2282 (Energy) by inserting this text before the
+paragraph beginning "The Power Station Manager (PSM) is":
+
+      When a player registers, e is awarded 7 ergs.

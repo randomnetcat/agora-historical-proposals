@@ -1,14 +1,16 @@
 ID: 6573
-Title: Free Parking
-Author: BobTHJ
+Title: Down with Distributability
+Author: coppro
 Co-authors: 
 Adoption index: 2.0
 
-In R2262, add the following to the list of cards in the Deck of Justice:
-{{
-* Free Parking - Choose one fixed / transfer-restricted asset OR three
-other assets owned by the Lost and Found Dept. Those assets are
-transferred to you. This takes precedence over any rule which would
-restrict or prevent the transfer of that asset.
-}}
-Upon the adoption of this proposal set the Frequency of Free Parking to 2.
+Amend Rule 1607 by doing the following:
+ - Replacing the third paragraph with the follosing:
+     In a given Agoran week, the Promotor CAN and SHALL, as part of
+     eir weekly duties, distribute any proposal that was in the
+     Proposal Pool at the beginning of that Agoran Week. The Promotor
+     CAN but SHALL NOT distribute any other proposal in the Proposal
+     Pool.
+ - Deleting the second, fourth, fifth, sixth, and eighth paragraphs.
+
+[Note: without distributability, a Proposal Pool report is not helpful.]

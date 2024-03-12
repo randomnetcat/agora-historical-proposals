@@ -1,0 +1,18 @@
+ID: 6787
+Title: Cleanup in aisle 2188
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2188 (Win by Proposal) by replacing this text:
+
+      Cleanup procedure: The condition cannot be satisfied again for
+      the same proposal.
+
+with this text:
+
+      Cleanup procedure: None of those persons can satisfy the
+      condition again for the same proposal.
+
+[Brings it in line with Renaissance, where the cleanup procedure is
+limited to the same "those persons" as the win clause.]

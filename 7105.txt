@@ -1,0 +1,37 @@
+ID: 7105
+Title: Vote Cards
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Enact a new power-2 Rule entitled "Vote Cards" with the following text:
+
+     Vote Cards are a class of assets and a currency, tracked by the
+     Assessor. Ownership of Vote Cards is restricted to players.
+
+     Players CAN, as a Spending Action, create a Vote Card in their
+     possession, provided that they do not own more than 20 Vote
+     Cards. Rules to the contrary notwithstanding, Vote Cards CANNOT
+     be transferred to a player who owns 20 or more Vote Cards.
+     Players CAN, as a Spending Action, destroy a Vote Card in the
+     possession of a specified player.
+
+     At the beginning of each week each active player who owns more
+     than one vote card has one destroyed; each inactive player loses
+     two vote cards regardless of the number they own.
+
+     The voting limit of an eligible voter on an ordinary decision is
+     the number of Vote Cards they own divided by the adoption index
+     of the decision (fractions rounded towards the nearest odd
+     number).
+
+     A player who owns no Vote Cards and has not already done so in
+     the same month CAN create one in eir possession by announcement.
+
+Enact a new power-2 Rule entitled "Support Democracy"
+
+     A player CAN, with three support, make a specified ordinary
+     decision in its voting period democratic.
+
+Set the base cost of creating a vote card to 10.
+Set the base cost of destroying a vote card to 15.

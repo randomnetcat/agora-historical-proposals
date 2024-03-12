@@ -1,0 +1,35 @@
+ID: 6892
+Title: Rebel Costs
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+[Right now, rebellion is almost a no-brainer for those on top
+of the stack.  At the cost of 1 rest, ensure holding your
+position that cost lots to get to?  Done.  This is opposite
+my original intent, which was to encourage rebellion in those
+lower in the list.  This proposal makes it much more expensive
+for the top people to rebel and fail].
+
+Amend Rule 2270 (Coups D'etat) by replacing:
+         (i) If the rebellion fails, one Rest is created in the
+             possession of every Rebel, and one additional Rest is
+             created in the possession of the coup initiator, and a
+             Leadership Token is created in the possession of the
+             Speaker.
+with:
+         (i) If the rebellion fails, one Rest is created in the
+             possession of every Rebel, and one additional Rest is
+             created in the possession of the coup initiator, and a
+             Leadership Token is created in the possession of the
+             Speaker.  Then, beginning with the rebel lowest in
+             the list and moving upward, each rebel on the list
+             is moved one position lower on the list.
+
+and by appending the following paragraph:
+
+          The Herald SHALL publish the resulting List of
+          Succession in the same message in which e resolves
+          the coup.
+
+[Wooble does this anyway, but it's a good practice to mandate].

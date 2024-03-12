@@ -1,0 +1,8 @@
+ID: 7037
+Title: New name
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2338 by replacing "A Player CAN cash a promise" with "A
+Player (the cashier) CAN cash a promise".

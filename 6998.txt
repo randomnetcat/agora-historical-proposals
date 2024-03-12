@@ -1,0 +1,16 @@
+ID: 6998
+Title: Fix implicit votes
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+[This gets really confusing when voting limits change.]
+
+Amend Rule 2280 by replacing
+
+      e casts a number of ballots equal to eir voting limit on that
+      decision.
+
+with
+
+      e casts 100 ballots.

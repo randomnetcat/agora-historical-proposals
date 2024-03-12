@@ -1,0 +1,39 @@
+ID: 6844
+Title: "a-rest-ing"
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2228 "Rests" by replacing:
+
+      The Herald is the recordkeepor of Rests.
+
+with:
+
+      The Police is an office and the recordkeepor of Rests.
+
+Amend Rule 2230 "Notices of Violation" by replacing:
+
+      As soon as possible after a player makes an announcement that is
+      reasonably recognizable as an attempt to issue such a NoV, the
+      Herald SHALL announce whether the NoV was valid.
+
+with:
+
+      As soon as possible after a player makes an announcement that is
+      reasonably recognizable as an attempt to issue such a NoV, the
+      Police SHALL announce whether the NoV was valid.
+
+and by replacing:
+
+      Valid NOVs have ID numbers, to be assigned by the Herald.
+
+with:
+
+      Valid NOVs have ID numbers, to be assigned by the Police.
+
+Decrease the Interest Index of the Herald by one.
+
+[Generally, this could be done by the CotC very well, but both the CotC
+and the Herald got to do too many jobs, so we are ready for a new
+office.]

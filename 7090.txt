@@ -1,0 +1,40 @@
+ID: 7090
+Title: General costs
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[Useful for promises.]
+
+Retitle Rule 2349 (Spending Points) to Costs, and amend it to read:
+
+     The documents defining the conditions for performing an action
+     can define a cost in assets, optionally specifying a recipient
+     entity; paying the cost becomes such a condition.  A person has
+     paid the cost for an attempt to perform the action if e
+     transferred those assets to the recipient entity, if one was
+     specified, or destroyed them otherwise:
+
+      (1) in the same message as the attempt,
+      (2) clearly indicating that the transfer or destruction was a
+          payment for that attempt, and
+      (3) not indicating that it was a payment for any other attempt.
+
+Amend Rule 1607 (The Promotor) by replacing "as a Spending Action"
+with "for a cost of 5 points".
+
+[And a bugfix - I think, if you felt like performing 50 Priority
+increases, you could do it and win with the same points.]
+
+Amend Rule 2322 (Winning by Points) by replacing:
+
+     A player CAN destroy 250 points in the possession of any
+     indicated player to cause the indicated player to satisfy the
+     Victory Condition of Accumulation.
+
+with:
+
+     A player CAN destroy 250 points in the possession of any
+     indicated player (without indicating that the destruction is a
+     payment) to cause the indicated player to satisfy the Victory
+     Condition of Accumulation.

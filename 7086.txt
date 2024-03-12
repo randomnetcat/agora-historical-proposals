@@ -1,0 +1,39 @@
+ID: 7086
+Title: Jig-jiggery jig-jiggery
+Author: G.
+Co-authors: omd, please:
+Adoption index: 3
+
+[Puts "Effects are effective" back into "re-jiggery" and unites it
+  all together; effects with effects, causes with causes].
+
+If proposal 7083 has not been adopted, the rest of this proposal has
+no effect.
+
+Amend R106 to read:
+    If the option selected by Agora on a decision about whether to
+    adopt a proposal is ADOPTED, then the proposal in question is
+    adopted, and unless other rules prevent it from taking effect,
+    its power is set to the minimum of four and its adoption index,
+    and then it takes effect.  Except as prohibited by other rules,
+    a proposal that takes effect CAN and does, as part of its effect,
+    apply the changes that it specifies.  If the proposal cannot make
+    some such changes, this does not preclude the other changes from
+    taking place.
+
+    If there is no Agoran Decision to adopt a particular proposal that
+    has an outcome of ADOPTED, that proposal CANNOT take effect, rules
+    to the contrary notwithstanding.
+
+    Preventing a proposal from taking effect is a secured change;
+    this does not apply to generally preventing changes to specified
+    areas of the gamestate, nor to a proposal preventing itself from
+    taking effect (its no-effect clause is generally interpreted as
+    applying only to the rest of the proposal).
+
+
+Amend the Rule entitled "Proposals" by amending its first paragraph
+to read:
+
+    A proposal is a fixed body of text which has been made into a
+    proposal using a process specifically described in the Rules.

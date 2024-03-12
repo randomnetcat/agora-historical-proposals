@@ -1,0 +1,7 @@
+ID: 7129
+Title: Why did we repeal that victory condition?
+Author: scshunt
+Co-authors: 
+Adoption index: 1.0
+
+Bucky satisfies the Victory Condition of Paradox.

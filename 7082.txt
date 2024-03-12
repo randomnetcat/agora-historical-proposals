@@ -1,0 +1,24 @@
+ID: 7082
+Title: Fix promise transfers
+Author: omd
+Co-authors: Pavitra
+Adoption index: 3
+
+[[1:27:37] <Pavitra> [17:49:29] Transferring promises is (explicitly)
+secured at power 3, and transferring liquid assets in general is only
+power 2. Does this mean that promises are in general nontransferable?]
+
+Amend Rule 2337 (Promises) by replacing:
+
+     The creation, transferring, cashing, and destruction of promises
+     is secured.
+
+with:
+
+     Creating and cashing promises is secured with power threshold 3;
+     any other modifications to promise holdings are secured with
+     power threshold 2.
+
+[The other option would be explicitly authorizing it in the Promises
+rule, but it's a bad idea to try to restrict things at a higher power
+than the rule defining them.]

@@ -1,0 +1,12 @@
+ID: 6772
+Title: destructability
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2298 by replacing "The Shuttle is an object In Space" with
+"The Shuttle, if it exists, is a singleton object In Space ".
+Amend Rule 2299 by replacing "The Shuttle regularly makes journeys
+between the wormholes." with "By default, there is no journey in
+place.", and by replacing "all objects In Space are destroyed" with
+"all objects In Space are destroyed; then, a new Shuttle is created.".

@@ -1,0 +1,47 @@
+ID: 6647
+Title: Flight Clearance
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Create a rule titled "Props" with this text:
+
+    Props are a currency.
+
+    The Air Traffic Controller is an office and the recordkeepor
+    of props.
+
+    Ownership of props is limited to first-class players.  Props
+    CANNOT be created, transferred, or destroyed except as allowed
+    by this rule or required by the rules in general.
+
+    When a first-class player registers, 14 props are created in
+    eir possession.  When a first-class player deregisters, eir
+    props are destroyed.
+
+    Once per week, each player CAN transfer a prop from one player
+    to another, provided that e explains why e chose each player,
+    and does not transfer it to emself.
+
+    Players with at least 23 props are Pilots; the Pilot with the
+    most props (if any) is the Captain. Players with less than
+    5 props are Marines.
+
+Upon the adoption of this proposal, install Murphy as Air Traffic
+Controller.
+
+Upon the adoption of this proposal, create props as follows:
+
+ 23  ais523
+ 13  BobTHJ
+ 4  c.
+ 13  coppro
+ 15  G.
+ 18  Murphy
+ 11  Pavitra
+ 13  Sgeo
+ 15  Taral
+ 18  Tiger
+ 20  Yally
+
+ 14  each first-class player not listed above

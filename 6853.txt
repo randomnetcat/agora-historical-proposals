@@ -1,0 +1,16 @@
+ID: 6853
+Title: "List penalty"
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 "Criminal Cases" by adding the following bullet to the
+list of valid sentences:
+
+             * LOST OF SUCCESSION, appropriative for moderate rule
+               breaches and only if the ninny is on the List of
+               Succession. If a judgement of LOST OF SUCCESSION has
+               been in effect continuously for seven days (or longer),
+               any player CAN once move the ninny to the bottom of the
+               List of Succession by announcement, if no other player
+               has already done so.

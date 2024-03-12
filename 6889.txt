@@ -1,0 +1,11 @@
+ID: 6889
+Title: Other documents
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+    Amend Rule 2283 by appending the following paragraph:
+
+    If the cost is explicitly associated with a specific non-erg,
+    currently-existing currency, then the above applies with
+    respect to the specified currency instead of ergs.

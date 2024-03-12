@@ -1,0 +1,27 @@
+ID: 6412
+Title: A Standard Standard
+Author: allispaul
+Co-authors: 
+Adoption index: 1.0
+
+Enact a rule, entitled "Placeholder Arms," with Power 1 and the text:
+ {{
+Within one week after the enactment of this rule, each active
+first-class player may create exactly one Flag Candidate without three
+objections.  A Flag Candidate is the (non-retracted) text and title of
+a Power-1 rule describing a Flag or other suitable Symbol for Agora,
+and its author is known as its Flyer.
+
+Between one and two weeks after the enactment of this rule, the Herald
+CAN and SHALL initiate an Agoran decision to decide the Flag of Agora.
+ The eligible voters are the active first-class players at the time
+the decision is initiated, the valid options are the Flag Candidates
+at the time the decision was initiated, and the vote collector is the
+Herald.
+
+The Flyer of the winning Flag Candidate satisfies the Winning
+Condition of Vexillology.
+
+Cleanup Procedure: This rule amends itself to be identical to that
+Flag Candidate.
+ }}

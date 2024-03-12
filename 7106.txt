@@ -1,0 +1,13 @@
+ID: 7106
+Title: Veto
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Enact a new Rule entitled "Veto" with the following text:
+
+     Players CAN, as a Spending Action, Veto a specified ordinary
+     decision in its voting period. When a decision is Vetoed its
+     adoption index is increased by one.
+
+Set the base cost of Vetoing an ordinary decision to 25 points.

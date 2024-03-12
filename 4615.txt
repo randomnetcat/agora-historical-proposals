@@ -1,20 +1,23 @@
 ID: 4615
-Title: Officer card bonus
-Author: Goethe
+Title: Clean up Monk reporting
+Author: OscarMeyr
 Co-authors: 
 Adoption index: 1
 
 
-Amend Rule 2069 by replacing:
-           A Gambler may Draw from The Deck for a Fee equal to the
-           number of times that Gambler has previously Drawn from the
-           Deck during the current month so long as the Gambler's Hand
-           Size is smaller than the Maximum Hand Size.
+Amend R 559 by replacing the text reading:
 
-with:
-           A Gambler may Draw from The Deck for a Fee equal to the
-           number of times that Gambler has previously Drawn from the
-           Deck during the current month so long as the Gambler's Hand
-           Size is smaller than the Maximum Hand Size plus the number
-           of Offices e holds.  For the purposes of this Rule, the
-           Speakership is considered an office.
+       (vi) each player's Noisy/Quiet/Silent status, and the most
+            recent date on which that player became Noisy, Quiet,
+            or Silent;
+
+      (vii) the identity of the Distributor; and
+
+     (viii) a list of players who are Monks.
+
+With text reading:
+       (vi) each player's Noisy/Quiet/Silent status, and the most
+            recent date on which that player became Noisy, Quiet,
+            or Silent; and
+
+      (vii) the identity of the Distributor.

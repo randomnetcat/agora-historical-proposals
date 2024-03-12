@@ -1,0 +1,13 @@
+ID: 7123
+Title: Restore stereotypes
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by appending this text after the list
+beginning "The valid values of <action>":
+
+     An opinion of AFFIRM or REMAND implicitly specifies "without
+     prejudice", and an opinion of REMIT or OVERRULE implicitly
+     specifies "with prejudice", unless the opinion explicitly
+     specifies otherwise.

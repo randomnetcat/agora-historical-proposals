@@ -1,0 +1,7 @@
+ID: 6933
+Title: free energy
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2282 (Energy) by removing the word "fixed".

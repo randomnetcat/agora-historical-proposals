@@ -1,0 +1,18 @@
+ID: 6751
+Title: cron
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 478 (Fora) by replacing this text:
+
+           Any action performed by sending a message is performed at
+      the time date-stamped on that message.
+
+with this text:
+
+           Any action performed by sending a message is performed at
+      the time date-stamped on that message, unless the message clearly
+      and unambiguously specifies a different time within 24 hours
+      after that time, in which case it is performed at the specified
+      time instead.

@@ -1,0 +1,51 @@
+ID: 4466
+Title: Try Again, Part 2
+Author: Murphy
+Co-authors: 
+Adoption index: 4
+
+Proposal:  Try Again, Part 2 of 3
+(AI=4, please)
+
+[Put epochs in their place.]
+
+Upon the adoption of this Proposal, the Gamestate becomes what it would be 
+if
+all relative durations expressed in terms of epochs were interpreted as 
+having
+their ordinary-language meaning, Rule 459 (Agoran Epochs) notwithstanding.
+
+Amend Rule 459 (Agoran Epochs) to read:
+
+      Days, weeks, months, quarters, and years are epochs.  The
+      corresponding Agoran epochs are Agoran days, Agoran weeks,
+      Agoran months, Agoran quarters, and Agoran years, respectively.
+
+      Agoran days begin at midnight GMT.  Agoran weeks begin at midnight
+      GMT on Monday.  Agoran months begin at midnight GMT on the first
+      day of each Gregorian month.  Agoran quarters begin when the Agoran
+      months of January, April, July, and October begin.  Agoran years
+      begin when the Agoran month of January begins.  An Agoran epoch
+      lasts until the next Agoran epoch of the same type begins.
+
+      Except in this Rule, when the Rules refer to an epoch as an
+      independent entity (e.g. "each month"), they shall be interpreted
+      as referring to the corresponding Agoran epoch.  However, when the
+      Rules refer to an epoch as a relative duration (e.g. "one month
+      after", "within one month", "for one month"), they shall be
+      interpreted as referring to the ordinary-language meaning of that
+      duration.
+
+      Automatic events that happen daily, weekly, monthly, quarterly, or
+      yearly happen at the beginning of the corresponding Agoran
+      epoch.  Any activity that must be performed daily, weekly, monthly,
+      quarterly, or yearly must be performed at least once during each
+      corresponding Agoran epoch.
+
+      Other Rules may explicitly define alternate schedules for events
+      or classes of events.
+
+Create a Power=4 Rule titled "Ghost Rock Cannon, Part 2 of 3" with this 
+text:
+
+      SEELED

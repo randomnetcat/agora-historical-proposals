@@ -1,0 +1,14 @@
+ID: 6835
+Title: Props should not lead to a win
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2287 "Props" by removing:
+
+       Upon a win announcement that one or more players each possess at
+       least 30 props, all those players satisfy the Winning Condition
+       of Respect.
+
+       Cleanup procedure: For each of those players, all props are
+       destroyed and 14 props are created in their possession.

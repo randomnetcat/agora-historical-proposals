@@ -1,0 +1,8 @@
+ID: 7151
+Title: This is not a footnote
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1769 (Holidays) by moving the last paragraph to immediately
+after the first paragraph.

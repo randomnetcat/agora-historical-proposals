@@ -1,0 +1,20 @@
+ID: 6799
+Title: Win by Respect
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2287 "Props" by replacing:
+
+        A player with 30 or more props CAN destroy all eir props to
+        satisfy the Winning Condition of Respect. 14 props are then
+        created in that player's possession.
+
+with:
+
+        Upon a win announcement that one or more players each possess at
+        least 30 props, all those players satisfy the Winning Condition
+        of Respect.
+
+        Cleanup procedure: For each of those players, all props are
+        destroyed and 14 props are created in their possession.

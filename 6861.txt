@@ -1,0 +1,25 @@
+ID: 6861
+Title: Make anarchy more interesting
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2309 by replacing:
+
+         2) For each of those rules, submit a disinterested proposal
+            with AI equal to that rules' power. One proposal SHALL
+            specify only to repeal its rule; the other SHALL specify
+            only to amend its rule.
+
+with:
+
+         2) For each of those rules, submit a disinterested proposal
+            with AI equal to that rules' power. One proposal SHALL
+            specify only to repeal its rule, and, if necessary, to
+            make a minimal set of other rule changes so that the game
+            is not broken by the repeal; the other SHALL specify only
+            to amend its rule.
+
+[We have the same problem now that we did with the Anarchist:
+proposals to repeal rules out of context are dramatic, but almost
+always would break the game and are thus voted down.]

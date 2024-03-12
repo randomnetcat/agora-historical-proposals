@@ -1,0 +1,10 @@
+ID: 7139
+Title: This is still an issue
+Author: omd.
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2343 (Victory Conditions) by appending after the first sentence:
+
+     Victory Conditions are satisfied instantaneously, not
+     continuously.

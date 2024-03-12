@@ -1,0 +1,11 @@
+ID: 7101
+Title: Submitting Promises
+Author: Pavitra
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2337 (Promises) by inserting this paragraph after the
+ second:
+
+     To submit a promise means to create that promise and then
+     transfer it to the Tree.

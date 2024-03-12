@@ -1,0 +1,10 @@
+ID: 6808
+Title: Super Robot Powers
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new Rule reading
+       The Robot can, by announcement, cause this rule to amend any other
+       rule of equal power, provided that it does so in a message
+       of at least 1000 words.

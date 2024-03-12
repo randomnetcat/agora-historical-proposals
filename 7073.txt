@@ -1,0 +1,10 @@
+ID: 7073
+Title: Compression Artifact
+Author: woggle
+Co-authors: 
+Adoption index: 3
+
+Amend rule 478 (Fora) by replacing:
+    message,.
+with:
+    message.

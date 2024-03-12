@@ -1,0 +1,10 @@
+ID: 7004
+Title: Far, Far Too Lazy
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Enact a new power-2 rule reading "As soon as this rule is enacted, Yally
+becomes inactive. Yally CANNOT, rules to the contrary notwithstanding,
+become active. If this rule has existed for more than 21 days, any
+player CAN by announcement cause it to repeal itself."

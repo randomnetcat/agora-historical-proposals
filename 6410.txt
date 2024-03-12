@@ -1,0 +1,12 @@
+ID: 6410
+Title: Proposal:
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+In rule 2124 (Agoran Satisfaction), replace "A Supporter of a dependent
+action is a first-class player who has publicly posted (and not
+withdrawn) support for an announcement of intent to perform the action."
+with "A Supporter of a dependent action is a first-class player who has
+publicly posted (and not withdrawn) support (syn. "consent") for an
+announcement of intent to perform the action."

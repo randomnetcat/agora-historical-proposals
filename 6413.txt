@@ -1,0 +1,15 @@
+ID: 6413
+Title: Office IIs with Agoran Consent
+Author: c-walker
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2227 (Interest Index of Offices), replace:
+
+      A player CAN set an office's interest index without objection,
+      or without 2 objections if e holds the office.
+
+with:
+
+      A player CAN set an office's interest index without 2
+objections, or with Agoran Consent.

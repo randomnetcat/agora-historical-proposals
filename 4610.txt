@@ -1,51 +1,16 @@
 ID: 4610
-Title: Card Cards
-Author: Goethe
+Title: Don't Overcompensate
+Author: Murphy
 Co-authors: 
 Adoption index: 1
 
 
-Append the following to Rule 2070 (Card Powerz):
+[This goes back to an idea implicit in "Judicial Separation":  it's
+necessary to keep the Speaker separate from certain offices, but
+it's not necessary to keep the Speaker-Elect separate.]
 
-       * Delayed[N]: You may not play this card if you have played a
-         copy of this card in the past N times 24 hours.
+Amend the Rule titled "Quis Custodiet Ipsos Custodes?" by removing
+this text:
 
-Create the following Rule, entitled "Card cards":
-
-        Caption:  Your Turn
-        Elements: Budgeted
-        Exploit:  A Player you name must play or discard a card in the
-                  next 72 hours, or commit the Class-1 Infraction of
-                  Delay of Game, reportable by you.
-
-        Caption:  Discard Picking
-        Elements: Budgeted, Delayed[4]
-        Exploit:  If a copy of a card was played or discarded in the
-                  past 72 hours, you may name it, and a copy of that
-                  card, if one is still in the deck, is automatically
-                  transferred from the Deck to your hand.
-
-        Caption:  Enforced Charity
-        Elements: Budgeted, Delayed[3]
-        Exploit:  A Player you name must transfer a card of eir choice
-                  to you in the next 72 hours, or commit the Class-2
-                  Infraction of Greed, reportable by you.
-
-        Caption:  Drop your Weapon
-        Elements: Budgeted
-        Exploit:  A card of your choice, from the Gambler of your choice,
-                  is automatically Discarded, provided that Gambler has
-                  a copy of that card.
-
-        Caption:  Presto!
-        Elements: Budgeted, Delayed[7]
-        Exploit:  A card of your choice, from the Gambler of your choice,
-                  is automatically transferred to your hand, provided
-                  that Gambler has a copy of that card.
-
-Budgets for the following cards are set as follows:
-   Your Turn:        5
-   Discard Picking:  4
-   Enforced Charity: 3
-   Drop your Weapon: 2
-   Presto!:          1
+     The Assistant Director of Personnel cannot be Nominated for
+     the Office of Speaker-Elect.

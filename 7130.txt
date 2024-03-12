@@ -1,0 +1,11 @@
+ID: 7130
+Title: Title:
+Author: Arkady
+Co-authors: 
+Adoption index: 1.0
+
+In order to demonstrate their committment to justice, all standing
+judges are required to wear a sword at all times. Any player required
+to wear a sword found not to be wearing a sword may be given an on the
+spot fine of 5 points. This fine may not be applied more than once per
+day.

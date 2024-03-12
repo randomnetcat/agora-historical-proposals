@@ -1,7 +1,12 @@
 ID: 6576
-Title: alt.office.accountor.die.die.die
-Author: coppro
+Title: Herald Decorations
+Author: G.
 Co-authors: 
 Adoption index: 1.0
 
-Repeal Rule 2181 (The Accountor).
+Amend Rule 2199 (Ribbons) by replacing:
+     The Tailor is an office, and the recordkeepor of Ribbons.
+with:
+     The Herald is the recordkeepor of Ribbons.
+
+[The reporting duty is minor now that anyone can do the awarding].

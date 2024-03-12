@@ -1,0 +1,85 @@
+ID: 6249
+Title: Committees 2.0
+Author: Wooble
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 1681, replace:
+      Rules are assigned to, ordered within, or moved between
+      categories, and categories are added, changed, or empty
+      categories removed, as the Rulekeepor sees fit.
+with:
+      Rules are assigned to or ordered within categories as the
+      Rulekeepor sees fit.
+
+Create a rule titled "Committees" with Power 3 and this text:
+
+      If this rule defines a committee corresponding to a given
+      category of the Short Logical Ruleset, and the committee has at
+      least 3 members, then any member of the committee CAN submit a
+      Proposal, the scope of which is limited to amending rules within
+      that category, as Passed by Committee with the Support of all of
+      the other members of the committee. The member SHOULD consult
+      with the other members in the drafting of the proposal. Each
+      member of the relevant committee at the time the Agoran Decision
+      on whether to adopt a Passed by Committee proposal is initiated
+      has a default voting limit on that decision of 2, if the
+      proposal is Democratic, or twice eir caste at the start of its
+      voting period if the proposal is Ordinary, rules to the contrary
+      notwithstanding.
+
+      The following committees are defined, with the corresponding
+      charter positions:
+
+        a) Committee on the Game of Agora: Speaker, Tailor, Ministers
+             Without Portfolio, First Speaker Michael
+
+        b) Committee on Rules: Rulekeepor, Anarchist, Promotor,
+             Assessor
+
+        c) Committee on Players: Registrar, Herald, Insulator
+
+        d) Committee on Definitions: Accountor, Promotor, Registrar
+
+        e) Committee on Offices: IADoP, each player with a Cyan Ribbon
+
+        f) Committee on Agoran Decisions: Promotor, Assessor, IADoP
+
+        g) Committee on Proposals: Promotor, Assessor, Grand Poobah,
+             Conductor
+
+        h) Committee on Adjudication: CotC, Justiciar, Insulator,
+             all Standing or Sitting players with a judicial rank of
+             Supreme
+
+        i) Committee on Patent Titles and Degrees: Herald, all players
+             with an Indigo Ribbon, all players who bear a Heroic
+             title
+
+        j) Committee on Contract Law: Notary, Scorekeepor, all
+             registered partnerships, all contestmasters
+
+        k) Committee on Foreign Relations: Ambassador, all provinces,
+             the Speaker
+
+        l) Committee on Trophies: Chuck Carroll, Peter Suber, Goethe,
+             Steve, Murphy, root, and OscarMeyr
+
+      While an active player holds one or more charter positions for
+      a committee, e is a charter member of that committee.  When a
+      charter member of a committee ceases to hold any charter
+      positions for that committee, or ceases to be an active player,
+      e ceases to be a member of that committee.
+
+      While a committee's number of charter members (CM) is less than
+      five, a non-member CAN spend any 5-CM of eir Notes forming
+      consecutive tones of a pentatonic scale to become a non-charter
+      member of that committee.  While a committee's number of members
+      is more than five, its non-charter member that has been one for
+      the longest continuous period of time ceases to be a member.
+
+      The IADoP's report includes the membership of each committee.
+
+Assign each rule to the category in the SLR it had the last time the
+SLR was published prior to 28 April 2009, or its current category if
+it was not in a category at that time.

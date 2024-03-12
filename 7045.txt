@@ -1,0 +1,99 @@
+ID: 7045
+Title: Speed
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+[ Gives the Speaker a Big (but not entirely Pointless) Switch; lets
+others join in the fun with Agoran Consent. Finds several different
+ways of saying the same thing. Possibilities include adding faster or
+slower speeds, although not necessarily ones accessible to the
+President. ]
+
+Enact a new Power-2 Rule entitled "Speed":
+
+     The Speed switch is a single switch, tracked by the Assessor,
+     with values of Slow, Normal (default) and Fast. The Speed switch
+     is secured.
+
+     When the Speed has not been changed in the past month, the
+     President CAN flip the Speed to Normal or Fast by announcement.
+     At any time, players CAN flip it to a given value with Agoran
+     Consent. In case of a lull, players CAN flip it to Slow without
+     objection.
+
+Amend Rule 1728 (Dependent Actions) by replacing
+
+     a) A person (the initiator) announced intent to perform the
+        action, unambiguously and clearly specifying the action and
+        method(s) (including the value of N for each method), at
+        most fourteen days earlier, and (if the action depends on
+        objections or notice) at least four days earlier.
+
+with:
+
+     a) A person (the initiator) announced intent to perform the
+        action, unambiguously and clearly specifying the action and
+        method(s) (including the value of N for each method), at most
+        fourteen days earlier, and (if the action depends on
+        objections or notice) at least X days earlier, where X is a
+        number which depends on the Speed at the time of intention as
+        follows: Slow: 5, Normal: 4, Fast: 2.
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing
+
+    The publication of such a valid notice initiates the voting
+    period for the decision.  By default, the voting period lasts
+    for seven days.  The minimum voting period for a decision with
+    at least two options is seven days.  The vote collector for a
+    decision with less than two options CAN and SHALL end the voting
+    period by announcement, if it has not ended already, and
+    provided that e resolves the decision in the same message.
+
+with:
+
+     The publication of such a valid notice initiates the voting
+     period for the decision. Where {X, Y} is a given Speed followed
+     by a number of days, the voting period lasts for Y days when the
+     Speed is X at the time of initiation: {Slow, 14}, {Normal, 7},
+     {Fast, 5}. The minimum voting period for a decision with at
+     least two options is five days.  The vote collector for a
+     decision with less than two options CAN and SHALL end the voting
+     period by announcement, if it has not ended already, and
+     provided that e resolves the decision in the same message.
+
+Amend Rule 2168 (Extending the voting period) by replacing "doubled"
+with "increased to 14 days, except if it is already that length".
+
+Amend Rule 2143 (Official Reports and Duties) by replacing
+
+    a) If any task is defined by the rules as part of that office's
+       weekly duties, then the holder of that office SHALL perform
+       it at least once each week.
+
+with:
+
+     a) If any task is defined by the rules as part of that office's
+        weekly duties, then the holder of that office SHALL perform
+        it at least once each week, except if the Speed is Slow, in
+        which case the duties SHALL be completed once each fortnight.
+
+Amend Rule 1023 (Common Definitions) by replacing
+
+    (a) The phrases "in a timely fashion" and "as soon as possible"
+        mean "within seven days".  A requirement to perform an
+        action at an exact instant (e.g.  "when X, Y SHALL Z"), but
+        not "in the same message", is instead interpreted as a
+        requirement to perform that action in a timely fashion after
+        that instant.
+
+with:
+
+     (a) The phrases "in a timely fashion" and "as soon as possible"
+         mean "within X days", where X is 14 when the Speed is Slow,
+         7 when it is Normal and 5 when it is Fast. This time period
+         is set when the requirement is created (ie. X days before
+         the limit ends). A requirement to perform an action at an
+         exact instant (e.g.  "when X, Y SHALL Z"), but not "in the
+         same message", is instead interpreted as a requirement to
+         perform that action in a timely fashion after that instant.

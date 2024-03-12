@@ -1,0 +1,11 @@
+ID: 6943
+Title: My Rights
+Author: scschunt
+Co-authors: 
+Adoption index: 3.0
+
+
+Enact a new Power-3 Rule:
+       scshunt CAN perform by announcement any action that no rule says
+       e CANNOT or SHALL NOT perform, provided that action does not
+       change the rules.

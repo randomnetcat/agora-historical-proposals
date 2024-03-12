@@ -1,0 +1,16 @@
+ID: 6834
+Title: voter defaults
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+This is an Urgent Proposal
+
+Amend Rule 683(Voting on Agoran Decisions) by replacing:
+         The voting limit of an eligible voter on an Agoran
+     decision is one, except where rules say otherwise.
+with:
+         Except where rules say otherwise, the eligible
+     voters on an Agoran Decision are the active players at
+     the beginning of the voting period, and the voting limit
+     of an eligible voter on an Agoran decision is one.

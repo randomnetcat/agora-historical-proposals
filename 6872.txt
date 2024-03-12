@@ -1,0 +1,7 @@
+ID: 6872
+Title: And eir name is
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1023 by replacing "Gregorian month" with "Discordian season".

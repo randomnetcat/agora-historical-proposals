@@ -1,0 +1,14 @@
+ID: 7097
+Title: Multinationality
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Create a new Rule titled "The Ambassador":
+
+     The Ambassador is an office; its holder is responsible for
+     managing the affairs of state of Agora.
+
+     When the office of Ambassador first becomes filled, the holder
+     SHALL as soon as possible attempt to cause Agora to become a
+     player of BlogNomic.

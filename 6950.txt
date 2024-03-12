@@ -1,0 +1,15 @@
+ID: 6950
+Title: Really fix Grand Vizier
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+If Rule 2255 (The Court) no longer defines the position of Grand Vizier,
+then amend it to have the same text that it did immediately before it
+ceased to do so.
+
+Amend Rule 2255 (The Court) by appending this text to the section
+defining the position of Grand Vizier:
+
+      For the purpose of this action, the Grand Vizier is considered to
+      be the holder of that office.

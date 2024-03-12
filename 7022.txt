@@ -1,0 +1,21 @@
+ID: 7022
+Title: Not worth the paper it's not printed on
+Author: Walker
+Co-authors: Murphy, omd
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by removing:
+
+The Rulekeepor is ENCOURAGED to annotate rules to
+   draw attention to relevant inquiry case judgements.
+
+Enact a new Rule entitled "Notability":
+
+     Notability is a judicial case switch with values Incidental
+     (default) and Notable, tracked by the Rulekeepor in eir monthly
+     report. A player CAN, with two support, make a case Notable. A
+     player CAN, without two objections, make a case Incidental.
+
+     The Rulekeepor SHALL annotate the FLR to draw attention to
+     Notable cases, specifying the ID number of the case and
+     including a brief description of the precedent it sets.

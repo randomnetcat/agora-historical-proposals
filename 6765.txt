@@ -1,0 +1,43 @@
+ID: 6765
+Title: Adoption Without Objection
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 106 by replacing:
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.
+
+      A proposal with a decision on which the option selected by Agora
+      is not ADOPTED does not take effect, rules to the contrary
+      notwithstanding.
+
+with:
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted.  When a proposal is adopted,
+      unless other rules prevent it from taking effect, its power is
+      set to the minimum of four and its adoption index, and then it
+      takes effect.  Causing a proposal to be adopted is a secured
+      change; a proposal which has not been adopted does not take
+      effect, rules to the contrary notwithstanding.
+
+Create a new Power-3 rule titled "Adoption Without Objection", with text:
+
+      A player CAN, without objection, cause a proposal in the
+      Proposal Pool to be adopted; it is then removed from the
+      Proposal Pool.  To avoid "spam scams", this action cannot be
+      performed unless the message of intent has exactly one Subject
+      header, which must contain the exact text "[AWO]" reasonably
+      close to its beginning.
+
+[Along with actual gameplay comes the need to fix that gameplay; I
+don't want to wait weeks for uncontroversial proposals to be adopted.
+(Currently, it can take up to a month for a proposal to be adopted,
+without any rule violations by officeholders: I submit a proposal on
+Monday, the Promotor SHALL NOT distribute it until next Monday but e
+waits until next Sunday; voting period is one week, and the Assessor
+has one week after that to resolve the decision.  Yuch.)]

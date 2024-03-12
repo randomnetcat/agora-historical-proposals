@@ -1,0 +1,57 @@
+ID: 7013
+Title: Ordinary Decisions
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[Based on my Souls proposal, which looks like it's going to fail.
+Used in the next proposal.]
+
+Retitle Rule 1950 to "Decisions with Adoption Indices", and amend it
+by replacing:
+
+      An Agoran decision with an adoption index is a Democratic
+      decision.
+
+with:
+
+      Adoption index is a switch possessed by Agoran decisions, whose
+      value is either "none" (default) or an integral multiple of 0.1
+      from 1.0 to 9.9.
+
+      Chamber is a switch possessed by Agoran decisions with adoption
+      indices, with values Ordinary (default) and Democratic.
+
+and by appending to the list of essential parameters:
+
+      c) Its Chamber.
+
+and by replacing the last paragraph with:
+
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting an entity's voting limit on such
+      a decision is secured with a power threshold of 2 if the
+      decision is Ordinary, or 3 otherwise.
+
+Amend Rule 106 by replacing:
+
+      The adoption index of a proposal is an integral multiple of 0.1
+      from 1.0 to 9.9.  It may be set by the proposer at the time of
+      submission, or otherwise defaults to 1.0.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      The adoption index of this decision is set to the adoption index
+      of the proposal at the initiation of the decision. Changing the
+      adoption index of the decision is secured with a power threshold
+      of 2.  The vote collector for this decision is the Assessor.
+
+with:
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      By default, this decision has an adoption index of 1.0 and is
+      Ordinary; if the proposer specified valid, non-"none" values for
+      the adoption index and/or Chamber when submitting the proposal,
+      those values are set at the initiation of the decision.
+      Changing either value is secured with a power threshold of 2.
+      The vote collector for this decision is the Assessor.

@@ -1,12 +1,18 @@
 ID: 6575
-Title: Herald Decorations
-Author: G.
+Title: Herald tracks dishonor
+Author: G.*
 Co-authors: 
-Adoption index: 1.0
+Adoption index: 2.0
 
-Amend Rule 2199 (Ribbons) by replacing:
-     The Tailor is an office, and the recordkeepor of Ribbons.
+[Historically, the Herald has done this when traffic has been low enough
+to combine the offices.  Now that the insulator and Herald are no longer
+dealers, this is appropriate workload].
+
+Amend R2228 by replacing:
+     The Insulator is an office, and the recordkeepor of Rests.
 with:
-     The Herald is the recordkeepor of Ribbons.
+     The Herald is the recordkeepor of Rests.
 
-[The reporting duty is minor now that anyone can do the awarding].
+Amend Rule 2229 by replacing "Insulator's" with "Herald's".
+
+Amend Rule 2230 by replacing all instances of "Insulator" with "Herald".

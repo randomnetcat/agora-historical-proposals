@@ -1,0 +1,16 @@
+ID: 7054
+Title: Point Speaker
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 103 (The Speaker) by replacing
+
+     The Speaker is the single first-class player who holds the most
+     Postulated Offices, or if there is no such player, the player
+     who was most recently Speaker.
+
+with:
+
+     The Speaker is the single player (if any) who has the highest
+     unique number of Points.

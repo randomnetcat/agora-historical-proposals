@@ -1,0 +1,35 @@
+ID: 6980
+Title: Timey wimey
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Create a rule titled "Delayed Actions" with Power 3 and this text:
+
+      A delayed action is an action that a person announces (at
+      time T) that e will perform at a specific future time
+      (time T+N).  The delayed action is validly scheduled if and
+      only if all of the following are true:
+
+        a) N is between 0 and 24 hours (inclusive).
+        b) T+N is an integral number of seconds past midnight UTC.
+
+      If a delayed action is validly scheduled, then at time T+N, that
+      person performs that action as if e announced that e did so,
+      unless such an announcement would be otherwise ineffective.
+
+      Multiple delayed actions at the same time T+N are evaluated
+      in the order they were announced.
+
+Create a rule titled "The Doctor" with this text:
+
+      The Doctor is an office; its holder is responsible for
+      maintaining the timeline of Agora.
+
+      The Doctor's report includes a list of all delayed actions
+      announced and/or performed since eir last report (if any,
+      or else since the creation of the office).
+
+      If a non-delayed action is performed within one minute of a
+      delayed action's time T+N, then the Doctor SHALL within four
+      days publish a timing analysis of the non-delayed action.

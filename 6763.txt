@@ -1,0 +1,11 @@
+ID: 6763
+Title: Win by Respect
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Append the following to Rule 2287:
+
+"A player with 30 or more props CAN destroy all eir props to satisfy
+the Winning Condition of Respect. 14 props are then created in that
+player's possession."

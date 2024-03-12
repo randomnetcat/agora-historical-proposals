@@ -1,0 +1,13 @@
+ID: 7141
+Title: master switcher
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Repeal Rule 2353 (The Conductor).
+[on the off-chance previous repeal without replacement is voted down]
+
+Amend Rule 2139 (The Registrar) by appending the following
+paragraph:
+      The Registrar is also responsible for tracking any switches
+      that would otherwise lack an officer to track them.

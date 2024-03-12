@@ -1,0 +1,93 @@
+ID: 6777
+Title: Ribbon Rewrite
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2199 to read as follows:
+
+       While a player qualifies for a Ribbon, any person CAN, by
+       announcement, award that player a Ribbon of that color, unless
+       e already possesses one.
+
+       When a player earns a Ribbon, e thereafter qualifies for that
+       Ribbon until the opportunity expires, which occurs either when it
+       is used or at the time limit, which defaults to one week. An
+       opportunity is used when a player is awarded a Ribbon of that
+       colour, e does not qualify for that Ribbon except through earned
+       opportunities, and the opportunity is the one that will expire
+       first. In case of a tie, only one of the opportunities tied for
+       shortest duration is used.
+
+       Ribbons are a class of fixed assets.  If winning is secured,
+       then changes to Ribbon holdings are secured with the same power
+       threshold.  Ownership of Ribbons is restricted to players.
+
+       Each Ribbon has exactly one color.  Colors with different names
+       are distinct, regardless of spectral proximity.  Each color of
+       Ribbon is a currency.
+
+       The Herald is the recordkeepor of Ribbons.
+
+       When a player earns a Ribbon as outlined below, any person CAN
+       once, in a timely manner (except for White Ribbons, which can be
+       awarded at any time within a month after they are earned),
+       create that Ribbon in the player's possession by announcement,
+       unless the player already possesses the color of Ribbon e earned
+       (earning a Ribbon more than once entitles the bearer to multiple
+       Ribbon awards, though capitalizing on this may be difficult):
+
+       (+R) When an interested proposal is adopted and changes at least
+            one rule with Power >= 3, its proposer earns a Red Ribbon.
+
+       (+O) When an interested proposal is adopted by voting with no
+            valid votes AGAINST, its proposer earns an Orange Ribbon.
+
+       (+G) At the end of each month, each player who held at least one
+            office continuously during that month earns a Green Ribbon,
+            unless e failed to perform an official duty within a time
+            limit during that month.
+
+       (+C) When a player deputises for an office, e earns a Cyan
+            Ribbon.
+
+       (+B) When a player assigns a judgement to a judicial question in
+            an interested judicial case other than a question on
+            sentencing, e earns a Blue Ribbon, unless e violated a
+            requirement to submit that judgment within a time limit.
+
+       (+K) When a player assigns a judgement to a judicial question in
+            an interested judicial case on sentencing, e earns a Black
+            Ribbon, unless e violated a requirement to submit that
+            judgment within a time limit.
+
+       (+W) A first-class player who has never owned a White Ribbon
+            qualifies for one. Additionally, when a first-class person
+            has been a player continuously for at least three months,
+            was never a player before that period, and names another
+            player as eir mentor (and has not named a mentor in this
+            fashion before), the named player earns a White Ribbon.
+
+       (+M) When, during Agora's birthday, a player publicly
+            acknowledges the occasion, e earns a Magenta Ribbon.
+
+       (+U) When a player is awarded the Patent Title Champion, e earns
+            an Ultraviolet Ribbon.
+
+       (+V) When a player is awarded a Patent Title, e earns a Violet
+            Ribbon, unless e earns a different Ribbon for the award.
+
+       (+I) When a player is awarded a degree, e earns an Indigo
+            Ribbon.
+
+       If this rule mentions at least six different specific colors for
+       Ribbons, then upon a win announcement that one or more players
+       each possess at least one Ribbon of each such color, all those
+       players satisfy the Winning Condition of Renaissance.
+
+       Cleanup procedure:  For each of those players, one Ribbon of
+       each such color in eir possession is destroyed.
+
+[The net effects are not huge, but enable the other proposals of this
+batch. They also get rid of my dumb idea to put a time limit on White
+Ribbon awards.]

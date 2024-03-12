@@ -1,0 +1,17 @@
+ID: 6192
+Title: Loosen contest axes
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2232 (Contest Axes) by replacing this text:
+
+      An axis can be added to or removed from a contest as follows,
+      provided that it would not cause a player to be contestmaster of
+      multiple contests sharing an axis:
+
+with this text:
+
+      An axis can be added to or removed from a contest as follows:
+
+[This is better covered by R2136(b)'s seven-day limit.]

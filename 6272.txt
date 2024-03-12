@@ -1,0 +1,15 @@
+ID: 6272
+Title: Fix contests
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+For each contest that became a contest after the beginning of the Agoran
+week during which this proposal was proposed, flip that contest's
+contestmaster to null.
+
+For each point awarded through a contest that became a contest after
+this proposal was proposed, revoke that point.
+
+[Note: this intentionally doesn't attempt to revert points from
+existing scam contests; it's only fair to let em keep them.]

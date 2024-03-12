@@ -1,0 +1,26 @@
+ID: 7033
+Title: I don't get the point of keeping the switch
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1607 by replacing:
+
+     Distributability is switch possessed by proposals in the
+     proposal pool, tracked by the Promotor, with values
+     Distributable (default) and Undistributable.
+
+     The Promotor CAN distribute a proposal which is in the Proposal
+     Pool at any time.  In a given Agoran week, the Promotor SHALL,
+     as part of eir weekly duties, distribute any proposal that is in
+     the Proposal Pool and was Distributable at the beginning of that
+     Agoran week.  The Promotor SHALL NOT distribute an
+     Undistributable proposal.
+
+with:
+
+     The Promotor CAN distribute a proposal which is in the Proposal
+     Pool at any time.  In a given Agoran week, the Promotor SHALL,
+     as part of eir weekly duties, distribute all proposals in the
+     Proposal Pool that were in the Pool at the beginning of that
+     week.

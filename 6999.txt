@@ -1,0 +1,33 @@
+ID: 6999
+Title: Free air
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+[I can't think of anything interesting second-class players can
+actually do under the current ruleset, except publish free NoVs.  Fix
+that, then open up registration.]
+
+Amend Rule 2230 by replacing:
+
+      A player CAN publish a Notice of Violation
+
+with:
+
+      A first-class player CAN publish a Notice of Violation
+
+Amend Rule 869 by replacing:
+
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player at that time.
+
+      A second-class person CAN register with Agoran Consent.
+
+with:
+
+      A person CAN (unless explicitly forbidden or prevented by the
+      rules) register by publishing a message that indicates
+      reasonably clearly and reasonably unambiguously that e intends
+      to become a player at that time.

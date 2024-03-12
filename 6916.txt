@@ -1,0 +1,11 @@
+ID: 6916
+Title: oops
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2166 by appending to the final paragraph:
+
+      The Minimum Unit Quantity (MUQ) of each currency is one.
+
+[This was in P6901, but failed due to insufficient power.]

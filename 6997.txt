@@ -1,0 +1,32 @@
+ID: 6997
+Title: Soles
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+[Just to confuse things.  The goal is that Sole holdings vary wildly,
+because players get a lot of them, but arbitrarily large numbers are
+spent on single decisions.  Oh, and it becomes an incentive for
+inactive players to become active again...]
+
+If no Rule exists named "Souls", then this proposal has no effect.
+
+Create a Power-2 Rule titled "Soles":
+
+      Soles are a class of assets tracked by the Assessor, restricted
+      to players.  At the start of each day, each player gains one
+      Sole.
+
+      Pinnedness is a Sole switch tracked by the Assessor, whose value
+      is either "unpinned" (default) or a single Ordinary decision
+      (that the Sole is pinned to).  Soles with the samed Pinnedness
+      are fungible.  The owner of an unpinned Sole can pin it to a
+      specified Ordinary decision by announcement.
+
+      The Shoemaker for a decision is the single person (if any) with
+      the most Soles pinned to that decision.  The Shoemaker's voting
+      limit on that decision is three higher than it would otherwise
+      be.
+
+      When a decision is resolved, all Soles pinned to it are
+      destroyed.

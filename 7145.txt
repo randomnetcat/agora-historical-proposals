@@ -1,0 +1,15 @@
+ID: 7145
+Title: A controversial proposal
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 869 by appending to the end of the paragraph starting with
+"A first-class person":
+
+     (Prima facie, a message primarily intended to generate
+     controversy about whether or not it satisfies this criterion
+     does not, as any intent to become a player is necessarily
+     ambiguous.)
+
+[This is arguably a clarification.]

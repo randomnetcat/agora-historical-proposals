@@ -1,0 +1,14 @@
+ID: 6759
+Title: Ill-conceived
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Repeal Rule 2290.
+Amend Rule 2279 by replacing the first bullet with:
+           (1) Take the value 3.
+Repeal Rule 2134.
+Amend Rule 2284 by removing
+       - A player CAN change the chamber of an ongoing ordinary
+         decision for a charge of 2 ergs.
+[No, I don't propose a replacement. We aren't active enough for one.]

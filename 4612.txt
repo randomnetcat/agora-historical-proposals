@@ -1,22 +1,27 @@
 ID: 4612
-Title: Cards for Votes
-Author: Goethe
+Title: Fix Team Wins, Mark II
+Author: Murphy
 Co-authors: 
-Adoption index: 2
+Adoption index: 1
 
 
-Amend Rule 2059 (Legality of Bonus Clauses) to read:
+Amend Rule 1929 (Points) by replacing the text "the last Team Win" with
+"the last Score Reset".
 
-   The following Element is defined for cards:
+Amend Rule 2053 (Team Points, Team Scores) by replacing the text "the
+last Team Win" with "the last Score Reset".
 
-     Grafty:  If a card is Grafty, then it is Budgeted, with its
-     initial quota set equal to one plus the number of Players who
-     voted FOR the Proposal that first defined that class of card
-     as Grafty.  When the Deckmastor initially creates cards to
-     fulfil this quota, e shall, Rules to the contrary nonwithstanding,
-     first destroy all existing copies of the card, then create one
-     copy in the possession of the Deck, and finally create one copy
-     in the possession of each Player who voted FOR said proposal.ent, the Scorekeepor shall award the Boon of
+Amend Rule 2042 (Team Wins) to read:
+
+     A Team achieves a Team Win when its Team Score reaches the Team
+     Points Goal, as set in the Scorekeepor's Budget.  When this
+     occurs, no other Team may achieve a Team Win until after the
+     next Score Reset.
+
+     The Scorekeepor shall announce a Team Win as soon as possible
+     after it occurs.  Upon this announcement, a Score Reset occurs.
+
+     In the announcement, the Scorekeepor shall award the Boon of
      Teamwork to each Winner.
 
      In the announcement, the Scorekeepor shall reassign Players to

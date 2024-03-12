@@ -1,0 +1,37 @@
+ID: 7002
+Title: Timers
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule titled "Timers" with Power 2 and this text:
+
+      A timer is a switch whose values are the non-negative integers
+      (default zero), representing a number of seconds.  Timer values
+      and changes can be expressed in terms of larger durations (e.g.
+      "1 day" is equivalent to "86400 seconds").
+
+      Each timer is either counting down or not counting down.  When
+      a timer has been continuously counting down for 1 second since
+      its last change, it decreases by 1.
+
+      When reporting a timer value, it is sufficient to provide enough
+      information that its value at the time of the report can be
+      calculated with reasonable effort (e.g. "<value> as of <date>
+      00:00:00 UTC and has been counting down since then").
+
+Amend Rule 1504 (Criminal Cases) by replacing this text:
+
+        The ninny becomes inactive, and SHALL NOT become active for the
+        number of days specified, as long as the sentence remains in
+        effect.
+
+with this text:
+
+        Stasis is a player timer, tracked by the Registrar.  When a
+        sentence of TIME OUT goes into effect, the ninny becomes
+        inactive, and eir stasis timer increases by the specified
+        amount; when it ceases to be in effect, eir stasis timer is
+        decreased by the specified amount.  While a player is inactive,
+        eir stasis timer is counting down.  While a player's stasis
+        timer is positive, e SHALL NOT become active.

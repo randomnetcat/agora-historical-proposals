@@ -1,0 +1,10 @@
+ID: 6848
+Title: "A Nice Fix"
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2282, replace "For each office, its holder is awarded a number
+of ergs equal to the interest index of that office." with "For each
+office, if its holder has held it continuously for the past week, e is
+awarded a number of ergs equal to the interest index of that office."

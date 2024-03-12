@@ -1,0 +1,38 @@
+ID: 6989
+Title: Bring Back Points
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+Create a new Power-2 Rule entitled "Points" with the following text:
+
+     Points are a fixed currency. Ownership of points is restricted to
+     Players. A player's score is the number of points e owns. Changes
+     to point holdings are secured.
+
+     The Scorekeepor is an office, and the recordkeepor of points.
+
+
+
+Create a new Power-2 Rule entitled "Proposal Points" with the following text:
+
+     When the Agoran Decision to adopt a proposal is resolved:
+
+     * if the outcome is ADOPTED, the author of the proposal gains 2
+       points for each valid vote FOR the proposal, less 1 point for
+       each valid vote AGAINST the proposal. Each co-author of the
+       proposal gains 2 points.
+
+     * if the outcome is REJECTED, the author of the proposal loses 2
+       points for each valid vote AGAINST the proposal, less 1 point
+       for each valid vote FOR the proposal. If e would lose fewer
+       than 2 points, e loses 2 points.
+
+     * if the outcome is FAILED QUORUM, the author of the proposal
+       gains 2 points.
+
+Create a new Power-2 Rule entitled "Winning" with the following text:
+
+     A player CAN destroy 250 points in eir possession to win the
+     game. When a player wins the game, the Scorekeepor is authorized
+     to award em the patent title Champion.

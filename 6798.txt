@@ -1,0 +1,29 @@
+ID: 6798
+Title: Bitrot
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new rule entitled "The Propose-O-Matic" with this text
+       The Fearmongor is an Office. Its holder is responsible for
+       ensuring the continuous change of the ruleset.
+
+       Each week, the Fearmongor SHALL do the following:
+
+          1) Select two rules at random.
+
+          2) For each of those rules, submit a disinterested proposal
+             with AI equal to that rules' power. One proposal SHALL
+             specify only to repeal its rule; the other SHALL specify
+             only to amend its rule.
+
+          3) Submit a disinterested proposal with AI 1. It shall specify
+             only the enactment of a rule which is identical to a rule
+             which was, at one point, part of the Ruleset, and was not
+             chosen for use in this clause in the prior six months.
+
+          4) Make each of those proposals Distributable, clearly
+             specifying that e is doing so to fulfill eir duties.
+
+       Players MUST NOT make proposals submitted in accordance with this
+       rule Undistributable.

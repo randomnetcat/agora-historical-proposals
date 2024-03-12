@@ -1,0 +1,12 @@
+ID: 6255
+Title: Scam tolerance
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2169 (Equity Cases) by appending this text:
+
+      For the purpose of an equity case regarding a scam, it is
+      generally equitable to let the scammers retain at least
+      some absolute gains as reward for their cleverness, while
+      compensating others for at least some absolute losses.

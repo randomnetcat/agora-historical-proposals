@@ -1,0 +1,11 @@
+ID: 7049
+Title: No frivolous appeals
+Author: omd
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by appending this paragraph:
+
+     A person SHALL NOT appeal a judgement (except on a question of
+     sentencing) unless e reasonably believes that the judgement
+     might be inappropriate.

@@ -1,0 +1,10 @@
+ID: 7011
+Title: point flow
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+[Other proposals seem to be making points part of a de-facto economic
+  system.  Do we want that?  Let's see.]
+
+Amend the rule entitled "Points" by deleting the word 'fixed'.

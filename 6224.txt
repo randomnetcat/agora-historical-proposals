@@ -1,0 +1,12 @@
+ID: 6224
+Title: wrong paragraph
+Author: comex
+Co-authors: 
+Adoption index: 2.0
+
+Remove the second-to-last paragraph of Rule 2143 (Official Reports and
+Duties), and add the following paragraph at the end of the rule:
+
+      While performing weekly or monthly duties or publishing weekly
+      or monthly reports, officers SHALL NOT publish information that
+      is inaccurate or misleading.

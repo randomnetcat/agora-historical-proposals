@@ -6,6 +6,6 @@ Adoption index: 2
 
 Append the following text to R2193 (modified from R2189):
 
-   Upon a Monster acting on behalf of Agora to award a win to one or
-   more persons, all those persons satisfy the Winning Condition of
-   Extortion.
+� � � Upon a Monster acting on behalf of Agora to award a win to one or
+� � � more persons, all those persons satisfy the Winning Condition of
+� � � Extortion.

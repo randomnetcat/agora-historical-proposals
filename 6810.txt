@@ -1,0 +1,12 @@
+ID: 6810
+Title: Make erg accumulation somewhat easier
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2284 by replacing
+      - A player CAN award emself a capacitor for a charge of 3 ergs.
+with:
+      - A player CAN award emself a capacitor for a charge of 2 ergs.
+
+[I think this would go well with the Pariah proposal.]

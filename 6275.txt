@@ -1,40 +1,51 @@
 ID: 6275
-Title: Privelege of the Champion
-Author: Pavitra
-Co-authors: ais523, root
-Adoption index: 2.0
+Title: Quick-and-dirty-fix
+Author: coppro
+Co-authors: Goethe, comex
+Adoption index: 3.0
 
-Amend rule 2186 (Victory) to read:
-{
-      Laurels are a type of asset, tracked by the Herald. Creating,
-      destroying, or transferring Laurels is secured. For a person to
-      be laureated means for a Laurel to be created in that person's
-      possession.
+Remove the second paragraph of Rule 1482.
 
-      Winning Conditions and Losing Conditions are conditions defined
-      as such by the rules.  When one or more persons satisfy at least
-      one Winning Condition and do not satisfy any Losing Conditions,
-      all such persons are laureated.  A person CANNOT be laureated in
-      any other way, rules to the contrary notwithstanding.
+Amend Rule 1551 (Ratification) to read: [added "rules to the contrary
+notwithstanding"]
+      A public document is part (possibly all) of a public message.
 
-      Each Winning Condition should (if needed) specify a cleanup
-      procedure to prevent an arbitrary number of Laurels arising from
-      essentially the same conditions.  When one or more persons are
-      laureated, for each Winning Condition satisfied by at least one
-      of those persons, its cleanup procedure occurs.
+      When a public document is ratified, rules to the contrary
+      notwithstanding, the gamestate is modified so that the ratified
+      document was completely true and accurate at the time it was
+      published.  Nevertheless, the ratification of a public document
+      does not invalidate, reverse, alter, or cancel any messages or
+      actions, even if they were unrecorded or overlooked, or change
+      the legality of any attempted action.
 
-      A win announcement is a correct announcement explicitly labeled
-      as a win announcement and/or clearly stating that one or more
-      persons are laureated.
+      Ratifying a public document is secured.
 
-      A person CAN spend a Laurel to win the game. The game CANNOT be
-      won in any other way, rules to the contrary notwithstanding.
-}
+Ratify the document purporting to be the SLR published most recently
+before this proposal was submitted, with the scope of the entire
+ruleset.
 
-Amend rule 2110 (Win by Paradox) by replacing "winner" with "laureate".
+Amend Rule 1030 (Precedence between Rules with Equal Power) by
+appending the following paragraph:
 
-Amend rule 1922 (Defined Regular Patent Titles) by replacing "The
-Herald's monthly report includes how the player won." with "The Herald's
-monthly report includes how the player won (or, if the player won by
-spending a Laurel, how e was laureated, assuming that Laurels are spent
-in the same order in which they were gained).
+      Any claim of precedence in a rule, including a claim of
+      precedence over "all" or similarly broad classes of rules,
+      is considered to be a claim of precedence over rules with
+      equal power only, unless it explicitly, clearly, and
+      directly claims to stipulate a means of determining
+      precedence between rules of different (i.e. higher, lower,
+      or otherwise unequal) power.
+
+Change the power of Rule 1698 to 4. [Goethe's comment about leaving room
+is not particularly concerning as of yet; a power-3 rule is still
+omnipotent and the power limit can still be increased arbitrarily.]
+
+Amend Rule 1482 so that it has the same text as it had prior to the
+adoption of this proposal.
+
+Award Goethe and comex each a B and a Bb Note, adjusted for their
+respective Keys.
+
+[Apologies to Goethe and comex, from whom I copied the text of this
+proposal, but since the proposals are so strongly dependent on one
+another, and since Rule 1482 might still get in the way, it's far safer
+to do it all at once. I hope the Notes will make up for it.]

@@ -1,0 +1,33 @@
+ID: 6967
+Title: clean up remnants
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+Repeal Rule 2153 (Interest Index).
+
+In Rule 2143 (Official Reports and Duties), replace:
+
+Class-N
+      crime of Tardiness, where N is the Interest Index of that
+      office.
+
+with
+
+Class-2
+      crime of Tardiness.
+
+In Rule 1871 (The Standing Court), remove the following paragraph:
+
+      A sitting player that assigns judgement in a disinterested
+      judicial case CAN and MAY become standing by announcement in the
+      same message in which e assigns judgement to that case.
+
+In Rule 2230 (Notices of Violation), replace:
+
+      A player CAN publish a Notice of Violation (NoV) for a fee of N
+      ergs,
+
+with:
+
+      A player CAN publish a Notice of Violation (NoV) with N support,

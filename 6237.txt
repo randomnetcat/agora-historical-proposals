@@ -1,0 +1,26 @@
+ID: 6237
+Title: Fix veto
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+Change the Power of Rule 2019 (Prerogatives) to 3, and amend it by
+replacing:
+
+      c) Wielder of Veto.  The Wielder of Veto CAN veto an ordinary
+         decision in its voting period by announcement; this increases
+         its Adoption Index by 1.
+
+with:
+
+      c) Wielder of Veto.  The Wielder of Veto CAN veto a decision
+         with an adoption index in its voting period by announcement.
+         The adoption index of a decision that has been vetoed is one
+         more than it would otherwise be, rules to the contrary
+         notwithstanding.
+
+[Veto is currently broken, because Rule 106 (Power=3), which defines
+the adoption index of a proposal, takes precedence over Rule 2019
+(Power=2); it's also unclear what happens to a decision without an
+adoption index.  This fixes these problems and also strengthens veto
+somewhat.]

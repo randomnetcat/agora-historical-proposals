@@ -1,0 +1,13 @@
+ID: 6189
+Title: We do need notice
+Author: Goethe
+Co-authors: 
+Adoption index: 3.0
+
+[My recent scam attempt, whether successful or not, showed that
+it is a *good idea* to require notice when someone who's not
+accountable via election intends to do an officer's job, even
+if the office is vacant]
+
+Amend Rule 2160 (Deputisation) by removing the text:
+     if the office is held by an active player,

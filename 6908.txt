@@ -1,0 +1,14 @@
+ID: 6908
+Title: Pay To Sit
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing:
+
+      A player CAN favor or disfavor a judicial case by announcement.
+
+with:
+
+      A player CAN favor a judicial case for a fee of 2 ergs, or
+      disfavor a judicial case by announcement.

@@ -1,0 +1,15 @@
+ID: 7081
+Title: Effects are effective
+Author: Murphy
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+                                a proposal that takes effect CAN, as
+     part of its effect, apply the changes that it specifies.
+
+with this text:
+
+                                a proposal that takes effect CAN and
+     does, as part of its effect, apply the changes that it specifies.

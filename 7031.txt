@@ -1,0 +1,14 @@
+ID: 7031
+Title: Fix proposal points
+Author: Turiski
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2331 (Proposal Points) by replacing
+
+    When the Agoran Decision to adopt a proposal is resolved:
+
+with
+
+    If an Agoran Decision to adopt a proposal is resolved, and that
+    proposal has some non-null effect:

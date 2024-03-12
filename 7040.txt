@@ -1,0 +1,12 @@
+ID: 7040
+Title: Anarchy
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Enact a new rule entitled "Anarchy" and reading
+     If a player causes the President to cease to be a player,
+     then that player satisfies the Victory Condition of Anarchy.
+
+     If the President is ever not a player, any person may register
+     em by announcement.

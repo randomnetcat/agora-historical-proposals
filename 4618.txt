@@ -1,0 +1,9 @@
+ID: 4618
+Title: Battery packs
+Author: Goethe
+Co-authors: 
+Adoption index: 1
+
+
+    Each Player who votes FOR this Proposal has their Voting
+    Potential increased by ten.

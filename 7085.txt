@@ -1,0 +1,12 @@
+ID: 7085
+Title: Horizontal rules
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1
+
+"A rule is called horizontal if its text consists entirely of
+hyphens."
+
+Enact a new rule, titled "Standard Short Horizontal Rule", with the
+following text:
+"----------------------------------------------------------------"

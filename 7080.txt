@@ -1,0 +1,10 @@
+ID: 7080
+Title: VC
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2333 by replacing the second paragraph with
+     The contest's instructions should include conditions under which
+     one or more persons win the contest. When one or more persons win
+     a contest, those persons satisfy the Victory Condition of Victory.

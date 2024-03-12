@@ -1,0 +1,43 @@
+ID: 6816
+Title: Urgency
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Amend R107 (Initiating Agoran Decisions) by replacing:
+                         Rules to the contrary notwithstanding, the
+        voting period for a decision with at least two options cannot be
+        shorter than seven days.
+with:
+        The voting period for a decision with at least two options
+        cannot be shorter than seven days.
+
+
+Amend R2284 (Fee-based actions) by replacing:
+        - A player CAN make a proposal Distributable for a charge of 1
+          erg.
+with:
+        - A player CAN make a non-urgent proposal Distributable for a
+          charge of 1 erg.
+
+        - A player CAN make an urgent proposal Distributable for a
+          charge of 3 ergs.
+
+
+Enact the following rule, Power-3, Urgent Proposals:
+
+        A Proposal is Urgent if it is Interested and the text of the
+        message wherein it is submitted explicitly states that it is
+        an Urgent Proposal.
+
+        The Promotor CAN distribute an Urgent Proposal as soon as it
+        becomes Distributable, and e SHALL do so within four
+        days unless it becomes undistributable in the mean time.
+        Failure to do so is the Class 1 Crime of Lack of Urgency.
+
+        Rules to the contrary notwithstanding, the Voting Period of
+        an Agoran Decision to adopt an Urgent Proposal is initially
+        four days, and cannot be shortened.
+
+["notwithstanding" clause now overrides R107.  Still allows quorum
+extension.]

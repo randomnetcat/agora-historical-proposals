@@ -1,0 +1,133 @@
+ID: 6860
+Title: A Perpetuum mobile is possible
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Enact a new Rule with power=2 entitled "Perpetuum mobile":
+
+        The Perpetuum mobile (PM) is a person and active player.
+
+        The physicist is an office and tracks most information related
+        to the PM.
+
+        Powering the PM means awarding the PM two ergs. If the PM does
+        not possess any ergs and has not possessed any ergs in the
+        previous 14 days, the physicist CAN power the PM five times by
+        announcement. E SHALL do so in a timely fashion. The Lab Labour
+        who powered the PM most in a week is known as the Power Spender
+        for that week.
+
+        Any Lab Labour except the PM may act on behalf of the PM by
+        announcement, if a Rule explicitly defines a Behalf of the PM
+        action (bot-PM act). Defining a bot-PM act is secured. The
+        player who acts on behalf of the PM (syn. performs a bot-PM
+        action) is known as the Energy Spender of that bot-PM act.
+
+        The physicist's weekly report contains how often and by whom the
+        PM has been powered, who is the Energy Spender and a list of all
+        bot-PM actions of the previous seven days.
+
+        If a bot-PM act explicitly states the Energy Spender has to pay
+        a fee to perform that action, the PM pays an equal high fee (and
+        possibly an additional fee, if required) before the action is
+        performed. If the PM is not able to pay such a fee, the bot-PM
+        act is wholly without effect (and so not performed at all).
+
+If no rule (especially Rule 101) gives a second-class player the right
+to deregister, amend the first paragraph of the Rule entitled "Perpetuum
+mobile" by adding:
+
+        The PM cannot be deregistered or become inactive, rules to the
+        contrary notwithstanding.
+
+Enact a new Rule with power=2 entitled "Behalf of the PM actions":
+
+        The basis of the PM consists of all players who performed a
+        bot-PM act in the previous seven days and the Physicist.
+
+        If a bot-PM act directly causes (or was most important for) the
+        PM to earn or award one or more capacitors, Patent Titles or
+        Ribbons these entities are additionally earned or awarded by the
+        Energy spender of that bot-PM-act.
+
+        If a bot-PM act directly causes (or was most important for) the
+        PM to earn one or more farads, the Energy Spender of that bot-PM
+        act is awarded an equal number of farads instead.
+
+        If one or more rests would be created in the possession of the
+        PM or the members of the PM's basis, an equal number of rests is
+        created in the treasonous Energy Spender's possession instead.
+        The treasonous Energy Spender is the Energy Spender whose bot-PM
+        act has been most important for the creation of said rest(s),
+        which means (for example) that bot-PM act has violated a Rule or
+        was decisive to cause the PM to hold an office and the PM fails
+        to pull a duty of that office.
+
+        Upon a win announcement that a bot-PM act performed by a player
+        directly caused the PM to win the game, this player satisfies
+        the Winning Condition of Thermodynamics.
+
+	Cleanup procedure: This player CANNOT satisfy the condition
+	again for the same bot-PM act.
+
+        The following are bot-PM acts: A Lab Labour CAN on behalf of the
+        PM ...
+
+              * ... cause any player to become a Lab Labour for the
+                following week for a charge of 2 ergs or for a charge of
+                1 erg if e is the Power Spender.
+
+              * ... perform a fee-based action for a charge of one erg,
+                if the PM is permitted to perform this action. (So, if a
+                fee-based action requires a charge of N ergs, the Energy
+                Spender spends one erg and the PM spends N+1 ergs.) If
+                performing this action would cause any player to lose
+                one or more rests or to be moved on the list of
+                succession or to increase a player's voting limit, it is
+                ineffective instead.
+
+              * ... announce a set of public announcements for a charge
+                of one erg, if doing so would not require the PM to
+                spend any fee.
+
+              * ... steal the vote of the PM on a ordinary decision
+                whether to adopt a proposal for a charge of 2+i (or i,
+                if e is the Power- Spender) ergs where i is the Interest
+                Index of the decision. This means the voting limit of
+                the Energy Spender is increased by twice the voting
+                limit the PM would have on said decision if it were an
+                eligible voter. If a player has performed this action,
+                another player CAN NOT perform this bot-PM act for the
+                same decision.
+
+
+Amend Rule 2282 "Energy" by replacing the text
+
+        For each capacitor destroyed in item (a), an erg is awarded to
+        its former owner.
+
+with:
+
+        For each capacitor destroyed in item (a), an erg is awarded to
+        its former owner and for each erg destroyed in item (a), it's
+        former owner becomes a Lab Labour for this week and e powers the
+        PM once.
+
+
+Amend Rule 2284 "Fee-based actions" by adding:
+
+        - A Player CAN become a Lab Labour for the following seven days
+        for a charge of two ergs.
+
+        - A Player CAN cause a Lab Labour to cease to be a Lab Labour
+        for a charge of three ergs.
+
+        - A Player CAN power the PM for a charge of one erg.
+
+[What does this do? Well, imagine what could be done with a player who
+possesses lots of ergs and is controllable by a few ergs. To give some
+examples: The fan/team mechanism becomes much more interesting, "voting"
+via the PM is nice, any fee-based action (with a few exceptions) can be
+performed for a charge of one erg, objections and supports can be
+"bought" for a low fee etc.]

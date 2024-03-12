@@ -1,0 +1,11 @@
+ID: 7099
+Title: Toot toot
+Author: Murphy
+Co-authors: 
+Adoption index: 1.5
+
+Create a rule titled "The Conductor" with this text:
+
+     The Conductor is an office; its holder is responsible for
+     tracking any switches that would otherwise lack an officer
+     to track them.

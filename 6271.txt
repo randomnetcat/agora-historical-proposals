@@ -1,0 +1,16 @@
+ID: 6271
+Title: Fixing contestmaster flipping
+Author: Tiger
+Co-authors: 
+Adoption index: 1.0
+
+Amend the sentence in rule 2136 now reading:
+(
+A contract's contestmaster CAN be flipped by any player without 3
+      objections, or as specified by the contract.
+)
+to read:
+(
+A contract's contestmaster CAN be flipped by any player without 3
+      objections, or, if it is a contest, as specified by the contract.
+)

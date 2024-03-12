@@ -1,0 +1,56 @@
+ID: 7122
+Title: Long-term ambassador powers
+Author: Tiger
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2352, replacing the following part:
+
+   When the office of Ambassador first becomes filled, the holder
+   SHALL as soon as possible attempt to cause Agora to become a
+   player of BlogNomic.
+
+with the following text:
+
+   The Ambassador generally CAN act on behalf of Agora to cause
+   it to register and take actions in foreign nomics.
+
+   An Ambassadorial Mission is a document specifying the
+   Ambassador's mandate to act on behalf of Agora in another
+   nomic. To be valid, such a document must include the following:
+
+   a) The name of the foreign nomic
+
+   b) The goals the Ambassador SHOULD strive to fulfill when
+   acting on Agora's behalf in that nomic (if any)
+
+   c) The orders the Ambassador SHALL obey when acting on
+   Agora's behalf in that nomic (if any)
+
+   c) The limits on what actions the Ambassador MAY take when
+   acting on Agora's behalf in that nomic
+
+   Any player CAN, with Agoran Consent, cause a published
+   Ambassadorial Mission to become active. This causes any
+   previous Mission pertaining to the same foreign nomic to cease
+   to be active. The Ambassador is the recordkeeper of active
+   Ambassadorial Missions.
+
+   The Ambassador's duties include acting as instructed by all
+   active Ambassadorial Missions. The Ambassador acting against
+   the goals set by an active Mission, performing actions forbidden
+   by the Mission, or acting on behalf of Agora in a foreign nomic
+   not covered by a Mission is the Class-6 crime of Ambassadoring
+   at large.
+
+Create an active Ambassadorial Mission to BlogNomic, reading as follows:
+
+   Foreign nomic: BlogNomic
+   Goals: to further Agora's presence on the Internet.
+   Orders: none.
+   Permitted actions: any action legal by BlogNomic's own rules for
+which the Ambassador has received Agoran Consent before taking it.
+
+If the proposal "Short-term ambassador powers" has been adopted, the
+text to replace will not be present; in that case replace the text it
+replaced that text with, with the above text.

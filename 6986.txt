@@ -1,0 +1,94 @@
+ID: 6986
+Title: Gimme Something To Shoot At
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1.0
+
+Enact the following power-1 rule, titled "Ribbons":
+
+{      While a player qualifies for a Ribbon, any person CAN, by
+      announcement, award that player a Ribbon of that color, unless e
+      already possesses one.
+
+      When a player earns a Ribbon, e thereafter qualifies for that
+      Ribbon until the opportunity expires, which occurs either when
+      it is used or at the time limit, which defaults to one week. An
+      opportunity is used when a player is awarded a Ribbon of that
+      colour, e does not qualify for that Ribbon except through earned
+      opportunities, and the opportunity is the one that will expire
+      first. In case of a tie, only one of the opportunities tied for
+      shortest duration is used.
+
+      Ribbons are a class of fixed assets.  If winning is secured,
+      then changes to Ribbon holdings are secured with the same power
+      threshold.  Ownership of Ribbons is restricted to players.
+
+      Each Ribbon has exactly one color.  Colors with different names
+      are distinct, regardless of spectral proximity.  Each color of
+      Ribbon is a currency.
+
+      A Ribbon may only be of a color mentioned in this rule; if a
+      Ribbon somehow has any other color, it is destroyed.
+
+      The Herald is the recordkeepor of Ribbons.
+
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >=3D 3, its proposer earns a Red Ribbon.
+
+      (+O) When an interested proposal is adopted by voting with no
+           valid votes AGAINST, its proposer earns an Orange Ribbon.
+
+      (+G) At the end of each month, each player who held at least one
+           office continuously during that month earns a Green Ribbon,
+           unless e failed to perform an official duty within a time
+           limit during that month.
+
+      (+C) When a player deputises for an office, e earns a Cyan
+           Ribbon.
+
+      (+B) When a player assigns a judgement to a judicial question in
+           an interested judicial case other than a question on
+           sentencing, e earns a Blue Ribbon, unless e violated a
+           requirement to submit that judgment within a time limit.
+
+      (+K) When a player assigns a judgement to a judicial question in
+           an interested judicial case on sentencing, e earns a Black
+           Ribbon, unless e violated a requirement to submit that
+           judgment within a time limit.
+
+      (+M) When, during Agora's birthday, a player publicly
+           acknowledges the occasion, e earns a Magenta Ribbon.
+
+      (+U) When a player is awarded the Patent Title Champion, e earns
+           an Ultraviolet Ribbon.
+
+      (+V) When a player is awarded a Patent Title, e earns a Violet
+           Ribbon, unless e earns a different Ribbon for the award.
+
+      (+I) When a player is awarded a degree, e earns an Indigo
+           Ribbon.
+
+      (+P) The Speaker qualifies for a Platinum Ribbon.
+
+      (+Y) Each player with 15 or more ergs qualifies for a Yellow
+           Ribbon.
+
+      (+S) The Enemy qualifies for a Silver Ribbon.
+
+      (+L) A player qualifies for a Lime Ribbon, if e was the
+           co-author of at least three Proposals adopted in the
+           previous week.
+
+      If this rule mentions at least six different specific colors for
+      Ribbons, then upon a win announcement that one or more players
+      each possess at least one Ribbon of each such color, all those
+      players satisfy the Winning Condition of Renaissance.
+
+      Cleanup procedure:  For each of those players, one Ribbon of
+      each such color in eir possession is destroyed.}
+
+If there is a rule titled "Dragons", then enact the following power-1
+rule, titled "Transmutation":
+
+{If a player owns a Ribbon of a color X, then e CAN, by announcement,
+cause all of their Gray Dragons to have the color X instead.}

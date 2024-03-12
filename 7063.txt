@@ -1,0 +1,8 @@
+ID: 7063
+Title: Switcher Fixer Upper
+Author: G.
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2347 (Speed) by replacing "a single switch" with
+"an Agora Nomic switch".

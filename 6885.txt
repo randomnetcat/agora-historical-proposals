@@ -1,0 +1,17 @@
+ID: 6885
+Title: Win By Less Respect
+Author: Yally
+Co-authors: 
+Adoption index: 1.0
+
+Amend the paragraph in Rule 2287 reading:
+
+      Upon a win announcement that one or more players each possess at
+      least 30 props, all those players satisfy the Winning Condition
+      of Respect.
+
+to read:
+
+      Upon a win announcement that one or more players each possess at
+      least 25 props, all those players satisfy the Winning Condition
+      of Respect.

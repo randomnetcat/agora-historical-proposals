@@ -1,0 +1,12 @@
+ID: 6248
+Title: more truthy truth
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+Rename R2215 "Truthiness" and replace its first paragraph with:
+
+     A person SHALL NOT make a public statement on a matter relevant to
+     the rules unless e reasonably believes that it is true (or, in the
+     case of a public statement that one performs an action, that is
+     effective).

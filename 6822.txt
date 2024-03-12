@@ -1,0 +1,8 @@
+ID: 6822
+Title: Instant Gratification
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2289, "Capacitors", after "an equal number of capacitors",
+insert "(or half as many ergs, rounded down)".

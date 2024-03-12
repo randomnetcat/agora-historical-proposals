@@ -1,16 +1,19 @@
 ID: 6572
-Title: Down with Distributability
-Author: coppro
+Title: Stoma moats of atoms
+Author: ehird
 Co-authors: 
 Adoption index: 2.0
 
-Amend Rule 1607 by doing the following:
- - Replacing the third paragraph with the follosing:
-     In a given Agoran week, the Promotor CAN and SHALL, as part of
-     eir weekly duties, distribute any proposal that was in the
-     Proposal Pool at the beginning of that Agoran Week. The Promotor
-     CAN but SHALL NOT distribute any other proposal in the Proposal
-     Pool.
- - Deleting the second, fourth, fifth, sixth, and eighth paragraphs.
+Create a new rule titled "Molting the Moats" (Power=2) with the text:
+{{
+The End-Times are Near.
 
-[Note: without distributability, a Proposal Pool report is not helpful.]
+Any player CAN elevate any rule by announcement that e has not
+elevated before.
+
+Seven days or later after the adoption of the proposal that created this
+rule, any player CAN Declare That the End-Times are Here by
+announcement. This causes the 20 rules elevated most often elevated to
+be repealed, not counting rules which have never been elevated. The
+End-Times then cease to be Here, and this rule repeals itself.
+}}

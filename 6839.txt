@@ -1,0 +1,13 @@
+ID: 6839
+Title: Slow Demarcation
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 402 (Identity of the Speaker) by appending the
+following paragraph:
+
+     As soon as possible after the beginning of each month,
+     the Herald CAN and SHALL randomly select half of the
+     Marked players (rounded down), and Unmark the selected
+     players by announcement.

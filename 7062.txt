@@ -1,0 +1,14 @@
+ID: 7062
+Title: Winning is Winning
+Author: G.
+Co-authors: 
+Adoption index: 2
+
+[Winning is winning, dammit.  If it were up to me it would set others'
+points to zero like we did most other times we had points.  This is a
+compromise on that idea vs. the current system.]
+
+Amend Rule 2332 (Winning by Points) by appending the following paragraph:
+
+    When a player satisfies the Victory Condition of Accumulation,
+    half of every other player's points (rounded down) are destroyed.

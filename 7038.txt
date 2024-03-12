@@ -1,0 +1,84 @@
+ID: 7038
+Title: Judicial Panel Reform
+Author: scshunt
+Co-authors: 
+Adoption index: 1.7
+
+Enact a new power-1.7 rule entitled "Judgments by Judicial Panels" reading
+As soon as possible after a judicial panel is assigned to a case, each
+     member of the panel SHALL publish an opinion indicating
+     a valid judgement to assign to the case -- only the last such
+     published opinion for each member is used to determine the
+     outcome.  Each member SHOULD choose an appropriate judgement,
+     and include arguments for eir choice.
+
+     If, immediately after either all members have so published or
+     the time limit for so publishing has ended, a majority of the
+     members have opined for the same judgement, the panel acts to
+     deliver the judgement in question.  If the panel publishes a
+     valid judgement via another mechanism specified in the Rules,
+     the requirement for individual members to publish individual
+     opinions is waived.
+
+     If an open case is assigned to a judicial panel, and one of
+     its members previously published an opinion for that case as
+     part of the same or a different judicial panel, then that
+     opinion stands for the newly-assigned panel unless the case
+     was judged and reopened in the meanwhile.
+
+Enact a new power-1.7 rule entitled "Judicial Appeals Panels" reading
+     If the time period for judging an appeals case ends with no
+     majority opinion among members of the panel assigned to it,
+     then the CotC CAN, and SHALL as soon as possible, by
+     announcement cause the panel to judge either REMAND or REMIT
+     with or without prejudice, whichever e feels is most
+     appropriate. E SHALL NOT assign the case to another panel
+     solely due to its failure to judge. These requirements are
+     waived if the panel delivers a judgment in the meanwhile.
+
+[I'm removing Concurring and Dissenting opinions; they seem to
+ serve little actual purpose since panelists invariably deliver
+ arguments with their opinions. Mimicking real courts here is
+ silly since there, the majority opinion is in fact a full
+ opinion and not just a ruling.]
+
+Amend Rule 911 (Appeal Cases) by deleting
+     As soon as possible after a judicial panel is assigned, each
+     member of the panel SHALL publish an appeals opinion indicating
+     a valid judgement to assign to the case -- only the last such
+     published opinion for each member is used to determine the
+     outcome.  Each member SHOULD choose an appropriate judgement,
+     and include arguments for eir choice.  If prejudice is not
+     explicitly specified, then an opinion indicating AFFIRM or
+     REMAND implicitly indicates without prejudice, while an opinion
+     indicating REMIT or OVERRULE implicitly indicates with
+     prejudice.
+
+     If, immediately after either all members have so published or
+     the time limit for so publishing has ended, a majority of the
+     members have opined for the same judgement, the panel acts to
+     deliver the judgement in question.  If the panel publishes a
+     valid judgement via another mechanism specified in the Rules,
+     the requirement for individual members to publish individual
+     opinions is waived.
+
+     If the time period ends with no majority judgement, then the
+     CotC CAN, and SHALL as soon as possible, by announcement cause
+     the panel to judge either REMAND or REMIT with or without
+     prejudice, whichever e feels is most appropriate.
+
+     Any panel member CAN publish a formal Concurring Opinion with
+     panel member support, provided that the panel has judged AFFIRM,
+     and SHOULD do so if and only if the reasoning by which the prior
+     judge reached eir judgement was incorrect in whole or part.  A
+     Concurring Opinion SHOULD explain the nature of the error(s) in
+     the prior judge's reasoning.  Each Concurring Opinion has an
+     error rating, an integer from 1 to 99, with larger numbers
+     corresponding to larger errors in reasoning; it CAN be specified
+     in the announcement of intent, or else defaults to 50.
+
+     In the week after the panel publishes a valid judgement, any
+     panel member CAN publish a formal Dissenting Opinion with
+     Support.  This Dissenting Opinion becomes a part of the record
+     of the case; it can be used as an aid to help interpret the
+     decision.

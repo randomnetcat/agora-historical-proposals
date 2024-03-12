@@ -5,12 +5,12 @@ Co-authors:
 Adoption index: 1.7
 
 [The change back in the great repeals of requiring consensus appeals
- judgements was interesting, but ultimately I think its (a) more
- streamlined to require individual appeals member votes on a
- judgement with a default if theres no majority and (b) better for
+ judgements was interesting, but ultimately I think it�s (a) more
+ streamlined to require individual appeals member �votes� on a
+ judgement with a default if there�s no majority and (b) better for
  Agora to give each and every panel member a separate requirement to
  deliver an appropriate judgment.  The default of REMAND seems the
- most reasonable; the original judge can directly address appellants
+ most reasonable; the original judge can directly address appellant�s
  comments but keep the same judgment (for the next panel if needed).
  Also, takes to CotC out of choice].
 
@@ -42,7 +42,7 @@ paragraph:
 this paragraph:
      As soon as possible after a judicial panel is assigned, each
      member of the panel SHALL publish an appeals opinion indicating
-     a valid and appropriate judgement to assign to the case  only
+     a valid and appropriate judgement to assign to the case � only
      the first such published opinion for each member is used to
      determine the outcome.  Each member SHOULD include arguments for
      eir choice of judgement. If, immediately after either all members

@@ -1,0 +1,32 @@
+ID: 6752
+Title: Fix the Justiciar hijinks
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2246 (Submitting a CFJ to the Justiciar) to read:
+
+      The initiator of a judicial case CAN submit it to the Justiciar
+      by announcement.  For such a case, the Justiciar CAN, in a timely
+      manner, either accept or reject the case by announcement; until
+      this time limit expires or the Justiciar rejects the case, the
+      CotC CANNOT perform any of eir office's duties with regards to
+      the case and does not incur any of eir office's obligations with
+      regards to it.
+
+      If the Justiciar accepts the case, e switches places with the
+      CotC entirely with regards to that case; that is, e receives all
+      obligations and all powers that the CotC would otherwise receive
+      due to being CotC, and the CotC receives all obligations and
+      powers that the Justiciar would otherwise receive due to being
+      Justiciar. This includes any secondary duties required to fulfill
+      obligations (such as rotating the bench). This takes precedence
+      over Rules that would otherwise assign duties and powers
+      regarding a judicial case to the Clerk of the Courts or the
+      Justiciar due to holding one of those positions. A player CAN
+      deputize for Justiciar to perform these duties as if it were an
+      office.
+
+      All persons are ENCOURAGED to submit a case to the Justiciar
+      only when there is a good reason not to let it be processed by
+      the Clerk of the Courts as usual.

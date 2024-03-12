@@ -1,0 +1,10 @@
+ID: 6819
+Title: Your chamber is my chamber
+Author: Keba
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2284 "Fee-based actions" by adding the following:
+
+        - A player CAN change the title of any player whose title has
+        not changed in the last 14 days for a charge of 2 ergs.

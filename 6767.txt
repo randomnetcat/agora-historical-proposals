@@ -1,0 +1,9 @@
+ID: 6767
+Title: downlevel
+Author: comex
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2299 by replacing "switches of all other players" with
+"switches of all other active players".
+[I have too many Threat Points from inactive players clogging up the bridge.]

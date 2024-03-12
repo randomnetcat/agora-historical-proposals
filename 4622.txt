@@ -1,0 +1,19 @@
+ID: 4622
+Title: Cards for Votes
+Author: Goethe
+Co-authors: 
+Adoption index: 2
+
+
+Amend Rule 2059 (Legality of Bonus Clauses) to read:
+
+   The following Element is defined for cards:
+
+     Grafty:  If a card is Grafty, then it is Budgeted, with its
+     initial quota set equal to one plus the number of Players who
+     voted FOR the Proposal that first defined that class of card
+     as Grafty.  When the Deckmastor initially creates cards to
+     fulfil this quota, e shall, Rules to the contrary nonwithstanding,
+     first destroy all existing copies of the card, then create one
+     copy in the possession of the Deck, and finally create one copy
+     in the possession of each Player who voted FOR said proposal.

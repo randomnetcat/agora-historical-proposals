@@ -1,0 +1,12 @@
+ID: 6910
+Title: Forgery is Forgery
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2201 by appending this paragraph:
+
+      Knowingly posting an incorrect document with the intent to cause
+      it to self-ratify is the Class-8 Crime of Implicitly Endorsing
+      Forgery.
+}

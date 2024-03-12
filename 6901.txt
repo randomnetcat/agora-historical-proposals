@@ -1,0 +1,71 @@
+ID: 6901
+Title: muk
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2166 by appending to the final paragraph:
+
+      The Minimum Unit Quantity (MUQ) of each currency is one.
+
+Amend Rule 2320 by:
+
+- in item (b), replacing "every active Player may bid" with "every
+active Player, other than the Seller, may bid"
+
+- in item (d), replacing "identical items" with "identical assets"
+
+- in item (e), replacing:
+          (1) the identity of the Auctioneer;
+          (2) the Auction Currency;
+          (3) the number of items being Auctioned; and
+          (4) the value of the Starting Bid.
+with:
+          (1) the identity of the Auctioneer;
+          (2) the identity of the Seller;
+          (3) the Auction Currency;
+          (4) the number of lots and the assets in each lot; and
+          (5) the value of the Starting Bid.
+
+- in item (m), replacing:
+      and issue to each winning bidder a separate bill for each of
+      eir winning bids.
+with:
+      ; when e does so, the winning bidder incurs a debt (the bill)
+      for each of eir winning bids to the Seller, unless this has
+      already occurred for that Auction.
+
+- in item (n), replacing:
+      If e does not do so, e commits the Class 2 Infraction of
+      Defaulting (reportable by the Auctioneer), and thereafter loses
+      eir right to purchase the Auctioned item by paying the debt
+      arising from that bid.  As soon as possible after a winning
+      bidder defaults on a bid, the Auctioneer shall Order the owner
+      of the items being Auctioned to forgive the unsatisfied debt
+      arising from the bid.
+with:
+      If e does not do so, e loses eir right to purchase the Auctioned
+      item by paying that debt.
+
+- in item (o), replacing "owner of the Auctioned items" with "Seller",
+and "lot of items" with "lot of assets"
+
+- appending the following paragraph:
+
+      When an entity (the debtor) incurs a debt for something to
+      another entity (the creditor), e SHALL transfer it to that
+      entity as soon as possible, unless the debt has been forgiven;
+      failure to do so is the Class-3 Crime of Defaulting.  The
+      creditor of a debt CAN forgive it by announcement.
+
+
+Create a new Rule titled "Fee-based auctions", with the text:
+
+      A person CAN hold an auction with emself as Seller using the
+      Default Auction Procedure, specifying the Auction Currency, the
+      Starting Bid, and the number of lots and the assets in each lot,
+      for a fee of 3 ergs.
+
+[E can still hold an auction for someone else's assets, but the
+obligation to transfer that asset to the winning bidder now falls on
+emself.]

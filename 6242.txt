@@ -1,0 +1,28 @@
+ID: 6242
+Title: Fix self-ratification
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 2201 by replacing:
+{{
+      b) A claim of error, appropriate for matters of fact.  The
+         publisher of the original document SHALL respond to a claim
+         of error as soon as possible, either publishing a revision or
+         denying the claim.  If e denies the claim, then the original
+         document is ratified one week after the denial, unless it is
+         challenged again (subject to the same requirements) during
+         that period.
+}}
+with
+{{
+      b) A claim of error, appropriate for matters of fact.  The
+         publisher of the original document SHALL respond to a claim
+         of error as soon as possible, either publishing a revision or
+         denying the claim. Until e does so, the claim is outstanding.
+         After a claim is denied, the original document is ratified one
+         week after the denial, unless it is challenged again (subject
+         to the same requirements) during that period, there is an
+         outstanding claim at the time of the denial, or the officer has
+         published a revision to the document as required by this rule.
+}}

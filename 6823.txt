@@ -1,0 +1,17 @@
+ID: 6823
+Title: Mother says not to run on the concrete
+Author: Murphy
+Co-authors: omd
+Adoption index: 3.0
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      If the Rules do not otherwise permit at least one current active
+      player to distribute a Proposal, then any player may do so
+      Without 3 Objections.
+
+with this text:
+
+      If there is a Proposal in the Pool that it would otherwise be
+      IMPOSSIBLE for any active player to distribute, then any player
+      CAN distribute that Proposal Without 3 Objections.

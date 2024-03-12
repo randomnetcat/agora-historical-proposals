@@ -1,0 +1,28 @@
+ID: 6968
+Title: Clarify Rule 106
+Author: Murphy
+Co-authors: scshunt, Wooble
+Adoption index: 3.0
+
+Amend Rule 106 (Adopting Proposals) by replacing this text:
+
+      A proposal is a fixed body of text which has been made into a
+      proposal using a process specifically described in the Rules.
+      When creating proposals, the person who creates them SHOULD
+      ensure that the proposal outlines changes to be made to Agora,
+      such as enacting, repealing, or amending rules, or making other
+      explicit changes to the gamestate. When a proposal that includes
+      such explicit changes takes effect, it applies those changes to
+      the gamestate. If the proposal cannot make some such changes,
+      this does not preclude the other changes from taking place.
+
+with this text:
+
+      A proposal is a fixed body of text which has been made into a
+      proposal using a process specifically described in the Rules.
+      When a person creates a proposal, e SHOULD ensure that it
+      specifies one or more changes to the gamestate.  Except as
+      prohibited by other rules, a proposal that takes effect CAN,
+      as part of its effect, apply the changes that it specifies.  If
+      the proposal cannot make some such changes, this does not preclude
+      the other changes from taking place.

@@ -1,0 +1,10 @@
+ID: 6973
+Title: I miss RtRW
+Author: Murphy
+Co-authors: 
+Adoption index: 1.0
+
+Create a rule titled "Read the Ruleset Week" with this text:
+
+      During Read the Ruleset Week (the first Agoran week each year
+      that begins in February), Agorans SHOULD do so.

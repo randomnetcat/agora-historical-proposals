@@ -1,0 +1,18 @@
+ID: 6866
+Title: P Fix
+Author: coppro
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2312 by replacing
+    Upon a win announcement that the Pariah has ever continuously
+    had 0 Rests for an entire week whilst being the Pariah for all
+    of that time, then the Pariah satisfies the Winning Condition of
+    Cleanliness. Cleanup condition: The office of Pariah becomes
+    vacant.
+with
+    Upon a win announcement that the Pariah has ever continuously
+    had 0 Rests for an entire week whilst being the Pariah for all
+    of that time, then the Pariah satisfies the Winning Condition of
+    Cleanliness. Cleanup condition: The office of Pariah becomes
+    vacant and that player ceases to satisfy this Winning Condition.

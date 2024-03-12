@@ -1,0 +1,20 @@
+ID: 7014
+Title: United States of Agora
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[Past incarnations of the veto never really produced any interesting
+gameplay, because nobody used it; maybe making it a true veto will
+help.
+
+This defines a new outcome so that the author neither gains nor loses
+any points on a vetoed proposal.]
+
+If Rule 1950 does not mention Ordinary decisions, this proposal has no effect.
+
+Create a new Power-3 rule titled "Veto":
+
+      The President CAN veto a specified Ordinary decision by
+      announcement.  Rules to the contrary notwithstanding, the
+      outcome of an decision that has been vetoed is VETOED.

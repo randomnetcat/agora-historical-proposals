@@ -1,0 +1,23 @@
+ID: 6793
+Title: shorter speedup counterproposal
+Author: Wooble
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 1607, replace:
+      In a given Agoran week, the Promotor CAN and SHALL, as part of
+      eir weekly duties, distribute any proposal that is in the
+      Proposal Pool and was Distributable at the beginning of that
+      Agoran week.  The Promotor CAN but SHALL NOT, in a given Agoran
+      week, distribute any proposal that is in the Pool but was
+      Undistributable at the beginning of that Agoran week, or was
+      entered into the Pool during that Agoran week.
+
+with:
+
+      The Promotor CAN distribute a proposal which is in the Proposal
+      Pool at any time.  In a given Agoran week, the Promotor SHALL,
+      as part of eir weekly duties, distribute any proposal that is in
+      the Proposal Pool and was Distributable at the beginning of that
+      Agoran week.  The Promotor SHALL NOT distribute an
+      Undistributable proposal.

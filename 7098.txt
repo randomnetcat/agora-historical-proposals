@@ -1,0 +1,24 @@
+ID: 7098
+Title: Victory case changes
+Author: omd
+Co-authors: 
+Adoption index: 1.7
+
+["Believe" shouldn't be in the rules; let anyone initiate the case;
+allow appealing by announcement like in criminal cases.]
+
+Amend Rule 2343 (Victory Cases) by replacing the text up to "The
+entities eligible" with the following paragraph:
+
+     Victory cases are a subclass of judicial cases. Any person CAN
+     initiate a victory case by announcement, specifying a person
+     (the Enlaureled) that allegedly satisfied a Victory Condition,
+     the Victory Condition allegedly satisfied, and the means by
+     which it was allegedly satisfied.
+
+and by replacing "the caller is deemed" with "the Enlaureled is
+deemed", and by appending the following paragraph:
+
+     An appeal concerning any assignment of judgement in a victory
+     case within the past week CAN be initiated by the Enlaureled by
+     announcement.

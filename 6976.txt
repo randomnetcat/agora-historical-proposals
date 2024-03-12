@@ -1,0 +1,13 @@
+ID: 6976
+Title: Stimulus
+Author: Murphy
+Co-authors: MRW and Associates
+Adoption index: 2.0
+
+Create a rule titled "Public Agreements" with Power 2 and this text:
+
+      An agreement between two or more players is a person if all of the
+      following are true:
+
+        a) It clearly indicates that it is intended to be a person.
+        b) Its text has been published.

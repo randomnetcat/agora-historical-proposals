@@ -1,0 +1,17 @@
+ID: 6917
+Title: more lenience
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2320 by replacing the last paragraph with the following:
+
+      When an entity (the debtor) incurs a debt for something to
+      another entity (the creditor), e SHALL transfer it to that
+      entity as soon as possible; failure to do so is the Class-N
+      Crime of Defaulting, where N is 3 if the debt has not been
+      forgiven and 0 if it has.  The creditor of a debt CAN forgive it
+      by announcement.
+
+[Currently, it's unclear what happens if the debt is forgiven after
+the time limit has already passed.]

@@ -1,0 +1,17 @@
+ID: 7053
+Title: Encourage controversial proposals
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[Remove the penalty for failed proposals, keeping only the reward.
+Although I have the feeling this is going to make Murphy win even
+sooner...]
+
+Amend Rule 2331 (Proposal Points) to read:
+
+     When the Agoran Decision to adopt a proposal is resolved, if the
+     outcome is ADOPTED, the author of the proposal gains 2  points
+     for each valid vote FOR the proposal, less 1 point for each
+     valid vote AGAINST the proposal. Each co-author of the proposal
+     gains 2 points.

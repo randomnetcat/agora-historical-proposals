@@ -1,0 +1,8 @@
+ID: 6903
+Title: Raising Standards
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Replace each instance of "Leadership Token" with "Standard" in each rule
+in numerical order.

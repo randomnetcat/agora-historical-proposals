@@ -1,0 +1,21 @@
+ID: 6796
+Title: The Robot
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Enact a power-2 Rule entitled "The Robot" with the text:
+       There exists a person and active player called The Robot. The
+       Robot CANNOT be deregistered or become inactive, rules to the
+       contrary notwithstanding.
+
+       Any first-class player (the controller) CAN in a public message
+       and for a fee of N ergs, clearly designate a portion of that
+       message to be a public message sent by The Robot. This is
+       INEFFECTIVE if The Robot's message consists of more than N
+       words, or if The Robot's message refers to another message or
+       uses a contrived shorthand in an attempt to reduce the word
+       count. In the latter case, the controller is also guilty of the
+       Class-4 Crime of Backquoting, and the judge of a criminal case for
+       that crime SHALL issue a judicial declaration as to the
+       effectiveness of the message.

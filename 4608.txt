@@ -1,12 +1,14 @@
 ID: 4608
-Title: Battery packs
-Author: Goethe
+Title: Rebel Rabble
+Author: OscarMeyr
 Co-authors: 
 Adoption index: 1
 
 
-    Each Player who votes FOR this Proposal has their Voting
-    Potential increased by ten.d,
+Amend R2071 by appending this text:
+
+     * Caption: Rebel Rabble
+       Elements: Budgeted,
                  Restricted [Rebellious]
        Exploit: For a fee of N Kudos, where N is the current number
          of Rebellious Players, increase the effective number of

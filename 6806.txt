@@ -1,0 +1,12 @@
+ID: 6806
+Title: Ratification misstep
+Author: coppro
+Co-authors: 
+Adoption index: 3.1
+
+Increase Rule 1551 (Ratification)'s power to 3.1, so that it takes
+precedence over other rules, particularly the one saying that rule
+changes must be sequential.
+
+Ratify the Short Logical Ruleset published by omd to agora-official on
+2010-08-12 as being a complete Short Logical Ruleset.

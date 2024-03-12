@@ -1,0 +1,14 @@
+ID: 7025
+Title: Disinterested proposals
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+[Promotor note: I failed at copying and pasting this proposal in the
+last distribution.]
+
+Amend Rule 2331 (Proposal Points) by appending this text:
+
+     However, if the author clearly identified the proposal as
+     disinterested when e submitted it, then no one gains or
+     loses any points due to its outcome.

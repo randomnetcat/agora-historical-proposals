@@ -1,0 +1,8 @@
+ID: 7119
+Title: Numbering fix
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1023 (Common Definitions) by changing the second (5)
+within section (b) to (6).

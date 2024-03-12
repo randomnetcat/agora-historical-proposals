@@ -1,0 +1,14 @@
+ID: 6779
+Title: A Team Player
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+If the proposal entitled "Ribbon Rewrite" has been adopted (whether or
+not it has taken effect), then amend Rule 2199 by adding the following
+Ribbon:
+
+       (+Y) Each player with 15 or more ergs qualifies for a Yellow
+            Ribbon.
+
+[Any player can save up ergs somewhat by creating capacitors]

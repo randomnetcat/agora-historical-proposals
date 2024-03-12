@@ -1,0 +1,45 @@
+ID: 6741
+Title: Clarify inconsequentiality mk. 2
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+[Oops, the original passed.]
+
+Amend Rule 754 by replacing:
+
+      (1) A difference in spelling, grammar, whitespace,
+          capitalization, or dialect, or the use of a synonym or
+          abbreviation in place of a word or phrase, is
+          inconsequential in all forms of communication, as long as
+          the difference does not create an ambiguity in meaning.
+
+with:
+
+      (1) A difference in spelling, grammar, capitalization, or
+          dialect, or the use of a synonym or abbreviation in place of
+          a word or phrase is inconsequential in all forms of
+          communication, as long as the difference does not create an
+          ambiguity in meaning, except for the purpose of reporting on
+          or quoting the text of a legal document.  A difference
+          between two nonempty spans of whitespace is inconsequential
+          in all forms of communication for all purposes.
+
+Amend Rule 2221 to read:
+
+      Any player CAN clean a rule without objection by specifying one
+      or more corrections to spelling, grammar, capitalization, and/or
+      dialect, or to whether a synonym or abbreviation is used in
+      place of a word or phrase, in the rule's text and/or title; the
+      rule is amended by this rule as specified by that person.
+
+Amend Rule 105 by replacing:
+                                             An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule.
+
+with:
+                                                  An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule, but any
+      other variation does.

@@ -1,0 +1,12 @@
+ID: 6879
+Title: II
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 869 by removing this paragraph:
+
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player at that time.

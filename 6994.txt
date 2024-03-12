@@ -1,0 +1,17 @@
+ID: 6994
+Title: Agreement tracking
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Create a rule titled "The Notary" with this text:
+
+      The Notary is an office; its holder is responsible for
+      keeping track of agreements between players.
+
+      The Notary's weekly report includes a list of all current
+      agreements between players.  The Notary's monthly report
+      includes the current text of all such agreements.
+
+[Text of MRW and Associates:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2011-March/027852.html]

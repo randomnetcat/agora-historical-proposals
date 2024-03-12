@@ -1,0 +1,10 @@
+ID: 6931
+Title: Duplicate cases are IRRELEVANT
+Author: omd
+Co-authors: 
+Adoption index: 1.7
+
+Amend rule 591 by adding the following text to the section labelled
+IRRELEVANT: ", or if it can be trivially determined from the outcome
+of another (possibly still undecided) judicial question which was not
+itself judged IRRELEVANT".

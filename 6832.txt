@@ -1,0 +1,21 @@
+ID: 6832
+Title: Church and State
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new rule entitled "Church and State" reading
+       A cardinal is an active, ready player who is neither the current
+       Speaker nor the Associate Director of Personnel.
+
+       While there is a pope, no other player may become a pope.
+       Whenever a pope is not a cardinal, e ceases being a pope.
+
+       A notice of papal succession declares that a specified player is
+       a pope.  The notice is valid only if it is published by the
+       Associate Director of Personnel and the specified player is
+       indeed a pope.
+
+       Upon publication of a valid notice of papal succession, the
+       current Speaker ceases to be Speaker, the pope becomes the new
+       Speaker, and the pope ceases to be a pope.

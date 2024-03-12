@@ -1,0 +1,10 @@
+ID: 6856
+Title: "Proper monging"
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1.0
+
+In rule 2309, "The Propose-O-Matic", amend item 4 to read "State that
+each of those proposals is submitted as part of the Fearmongor's
+duties in the same message in which the proposal was submitted." [Thus
+making this rule actually mesh with rule 2250.]

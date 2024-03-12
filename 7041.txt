@@ -1,0 +1,11 @@
+ID: 7041
+Title: Unconditional permanence
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2338 (Cashing Promises) by appending this text to the
+second paragraph:
+
+     (For this purpose, a condition of the form "This promise is not
+     destroyed when cashed" is treated as being true.)

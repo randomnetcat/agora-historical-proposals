@@ -1,0 +1,18 @@
+ID: 7142
+Title: Software Transactional Memory
+Author: tswett
+Co-authors: 
+Adoption index: 1.0
+
+Create a power-1 rule, titled "Acidic Transactions", with the following text:
+
+A transaction is a sequence of events defined as such by the rules. A
+sequence of events that takes place "atomically" is a transaction. A
+transaction can include another transaction as one of its steps; apart
+from this, transactions always occur sequentially, never
+simultaneously. If any part of a transaction fails to take effect, the
+entire transaction fails to take effect. If a transaction would span
+any length of time, it instead fails.
+
+If a person CAN perform a sequence of events by announcement, then
+they CAN perform the sequence of events atomically by announcement.

@@ -1,0 +1,40 @@
+ID: 4421
+Title: End Tax Avoidance
+Author: Steve
+Co-authors: 
+Adoption index: 2
+
+Proposal
+End Tax Avoidance
+
+This Proposal has an Adoption Index of 2.
+
+Amend Rule 1598 by replacing the text in it which currently reads:
+
+
+	(f) If the transferor transfers Property to the transferee with 	    the 
+purpose of satisfying a debt, or of paying the Fee 	    associated with 
+performing an action, but the debt does not 	    exist, or the action is not 
+successfully performed, then 	    the transferor may publicly demand the 
+return of the 		    Property. The effect of such a demand is to cause the 	  
+   transferee to incur a debt to the transferor for the 	    Property 
+transferred.
+
+with text which reads:
+
+	(f) If the transferor transfers Property to the transferee with 	    the 
+purpose of satisfying a debt, or of paying the Fee 	    associated with 
+performing an action, but the debt does not 	    exist, or the action is not 
+successfully performed, then 	    the transferee incurs a debt to the 
+transferor for that 	    Property.
+
+[comment: this is for you, Goethe.]
+
+When this Proposal takes effect, all rights that entities have to demand the 
+return of Property under the provisions of Rule 1598/12(f) are forfeited; in 
+compensation, where such a right existed at the time this Proposal takes 
+effect, the transferee of whom the demand could have been made incurs a debt 
+to the transferor for Property equivalent to that the return of which the 
+transferor had the right to demand.
+
+[In other words, the Bank incurs a debt of 75 Stems to Goethe.]

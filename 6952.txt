@@ -1,0 +1,9 @@
+ID: 6952
+Title: No right to snoop 2
+Author: Wooble
+Co-authors: ais523, Murphy
+Adoption index: 3.0
+
+In R101, replace "fora" with "Public and Discussion fora".
+
+In R478, replace the first instance of "Fora" with "Public and Discussion fora".

@@ -1,0 +1,16 @@
+ID: 7029
+Title: Presidential Cleanup
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2326 (The President) by replacing
+
+     The President CAN only
+     take actions as explicitly described/caused by a Rule or other
+     instrument of a power equal to or greater than the power of this
+     Rule.
+
+with:
+
+     Causing the President to act is secured.

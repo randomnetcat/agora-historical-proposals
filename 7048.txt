@@ -1,0 +1,22 @@
+ID: 7048
+Title: War
+Author: Yally
+Co-authors: 
+Adoption index: 2
+
+Create a new Rule, entitled "War," with the following text:
+
+Hostility is a switch for subsets of players of size 2 tracked by the
+Scorekeepor, with values peace (default) and war. Any player CAN, with
+notice, declare war on any other player. Any player CAN make peace
+with any other player with that player's Support. Whenever points are
+created in a player's possession (but not when the rules describe
+points as being recreated), a number of points equal to the number of
+points e just gained divided by the number of players e is at war
+with, rounded down, are destroyed in the possession of each player e
+is at war with. Whenever a player's point total reaches zero by this
+method e CANNOT become at war with any other player for 21 days the
+rest of this rule notwithstanding, e CANNOT gain any points for 14
+days rules to the contrary notwithstanding, and then finally, one
+moment after eir score became zero, e becomes at peace with all other
+players.

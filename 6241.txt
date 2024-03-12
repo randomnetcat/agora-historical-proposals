@@ -1,0 +1,8 @@
+ID: 6241
+Title: the power of lowercase
+Author: comex
+Co-authors: 
+Adoption index: 3.0
+
+replace each instance of the word "Power" in each rule (by order of id
+number) with "power".

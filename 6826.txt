@@ -1,0 +1,10 @@
+ID: 6826
+Title: Quadruple Oops
+Author: coppro
+Co-authors: 
+Adoption index: 3.1
+
+Amend Rule 1551 (Ratification) by replacing
+       Ratifying a public document is secured.
+with
+       Ratifying a public document is secured at power 3.

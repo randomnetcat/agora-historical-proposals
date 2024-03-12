@@ -1,0 +1,72 @@
+ID: 6970
+Title: Little Dutch Boy
+Author: Murphy
+Co-authors: omd
+Adoption index: 3.0
+
+Amend Rule 1728 (Dependent Actions) by replacing this text:
+
+       1) Without N Objections, where N is a positive integer no
+          greater than 8.
+       2) With N Supporters, where N is a positive integer.
+
+with this text:
+
+       1) Without N Objections, where N is a positive integer no
+          greater than 8.  ("Without Objection" is shorthand for
+          this method with N = 1.)
+       2) With N Supporters, where N is a positive integer.  ("With
+          Support" is shorthand for this method with N = 1.)
+
+Amend Rule 1586 (Definition and Continuity of Entities) to read:
+
+      If multiple rules attempt to define an entity with the same
+      name, then they refer to the same entity.  A rule-defined
+      entity's name CANNOT be changed to be the same as another
+      rule-defined entity's name.
+
+      A rule referring to an entity by name refers to the entity
+      that had that name when the rule first came to include that
+      reference, even if the entity's name has since changed.
+
+      If the rules are amended such that they no longer define an
+      entity, then that entity and its attributes cease to exist.
+
+      If the rules are amended such that they define an entity both
+      before and after the amendment, but with different attributes,
+      then that entity and its attributes continue to exist to
+      whatever extent is possible under the new definitions.
+
+Upon the adoption of this proposal, all voting periods that began
+more than fourteen days ago and are still in progress end.
+
+Amend Rule 107 (Initiating Agoran Decisions) by appending this text:
+
+      The voting period for a decision cannot be longer than fourteen
+      days.
+
+Amend Rule 754 (Definition Definitions) by replacing this text:
+
+      (2) A term explicitly defined by the Rules by default has that
+          meaning when used in any Rule of equal or lesser power, as
+          do its ordinary-language synonyms not explicitly defined by
+          the rules.
+
+with this text:
+
+      (2) A term explicitly defined by the Rules, along with its
+          ordinary-language synonym not explicitly defined by the
+          rules, by default has that meaning when used in any Rule of
+          equal or lesser power, as well as any Rule of greater power
+          that is clearly intended to comply with that meaning.
+
+Amend Rule 2153 (Interest Index) by replacing this text:
+
+      An entity's interest index is an integer from 0 to 3, default
+      value 1.
+
+with this text:
+
+      Interest index is a switch, possessed by certain types of entities
+      as specified by other rules, whose possible values are the
+      integers from 0 to 3, and whose default value is 1.

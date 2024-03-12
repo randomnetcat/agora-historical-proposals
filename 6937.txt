@@ -1,0 +1,8 @@
+ID: 6937
+Title: Russian Read Requirement
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 1750 (Read the Ruleset Week) by replacing "SHOULD read"
+with "SHALL read".

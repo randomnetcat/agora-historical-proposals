@@ -1,0 +1,9 @@
+ID: 6845
+Title: "Do it instead instead instead"
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2154, replace 'instead of initiating the Decision, the IADoP
+SHALL, in place of initiating the decision' with 'the IADoP SHALL, in
+place of initiating the Decision'.

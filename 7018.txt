@@ -1,0 +1,18 @@
+ID: 7018
+Title: Codify tradition
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 869 (How to Join and Leave Agora) by appending to this
+paragraph:
+
+     A first-class person CAN (unless explicitly forbidden or
+     prevented by the rules) register by publishing a message that
+     indicates reasonably clearly and reasonably unambiguously that e
+     intends to become a player at that time.
+
+this text:
+
+     (It is traditional to skirt the borderline of this standard in
+     creative ways and then sort it out via judicial cases.)

@@ -1,0 +1,13 @@
+ID: 6877
+Title: III
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+Create a new Power-3 Rule, entitled "Proscription List":
+
+      There is a Proscription List of rules, initially empty.  Any
+      person CAN add a rule to the Proscription List by announcement.
+      Any person CAN cause this rule to repeal a specified rule in the
+      Proscription List by announcement, unless e is the person who
+      added it to the List.

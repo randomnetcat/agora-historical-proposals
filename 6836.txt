@@ -1,0 +1,30 @@
+ID: 6836
+Title: Reward Urgency
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Amend the Rule entitled "Urgent Proposals" by replacing:
+
+        The Promotor CAN distribute an Urgent Proposal as soon as it
+        becomes Distributable, and e SHALL do so within four
+        days unless it becomes undistributable in the mean time.
+        Failure to do so is the Class 1 Crime of Lack of Urgency.
+
+with:
+
+        The Promotor CAN distribute an Urgent Proposal as soon as it
+        becomes Distributable, and e SHALL do so within four
+        days unless it becomes undistributable in the mean time.
+        The Assessor SHALL make a reasonable attempt to resolve a
+        decision to adopt an urgent proposal within 4 days of its
+        voting period ending.  Failure to meet these deadlines is
+        the Class 1 Crime of Lack of Urgency.
+
+and by appending:
+
+        If the Promotor distributes an Urgent Proposal within 48
+        hours of its becoming distributable, e earns a farad.  If
+        the Assessor resolves a decision to adopt an urgent
+        proposal within 48 hours of its voting period ending, e
+        earns a farad.

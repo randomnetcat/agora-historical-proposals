@@ -1,0 +1,12 @@
+ID: 7075
+Title: Proposals Are Atomic
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1698 (Agora Is A Nomic) by adding the following paragraph:
+    For the purposes of this rule, the effects of a single proposal,
+    including any actions performed automatically as a consequence of
+    the proposal's adpotion, constitute a single change to the
+    gamestate and will all be canceled if the proposal would leave the
+    game as something other than a Nomic.

@@ -1,0 +1,21 @@
+ID: 6870
+Title: nai cleanup
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+Create a new Power-3 rule titled "Messy Statements":
+
+      A statement is messy if its truth value cannot be evaluated in a
+      top-down fashion without encountering some form of infinite
+      regress, such as (but not limited to) self-reference.
+
+      For the purposes of the rules, messy statements are considered
+      inaccurate and incorrect regardless of their truth value.
+
+Amend Rule 2215 (Truthiness) by replacing "believes that it is true"
+with "believes that it is accurate".
+
+Award a win to Bucky, because eir paradox is worthy of one, but
+setting up the circumstances to make a CFJ legitimately UNDECIDABLE is
+hard.

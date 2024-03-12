@@ -1,0 +1,9 @@
+ID: 6948
+Title: All Clogged Up
+Author: ehird
+Co-authors: BobTHJ
+Adoption index: 1.0
+
+H. Distributor Taral is requested to increase the size limit of the
+messages sent to the Agora mailing lists hosted at agoranomic.org to
+512 kibibytes (524288 bytes).

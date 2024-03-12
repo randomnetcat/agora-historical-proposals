@@ -1,0 +1,12 @@
+ID: 6817
+Title: coauthorship Ribbon
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2199 "Ribbons" by adding the following Ribbon:
+
+    (+L) A player qualifies for a Lime Ribbon, if e was the co-author of
+         at least three Proposals adopted in the previous week.
+
+[Maybe this leads to more corporation?]

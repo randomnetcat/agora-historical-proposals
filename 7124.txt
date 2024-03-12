@@ -1,0 +1,51 @@
+ID: 7124
+Title: Fix general costs
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[I forgot to specify AI 2 for P7117 and misstated a rule number.  It
+created a Power-1 rule but did nothing else.]
+
+Change the Power of the Rule titled "Costs" to 2.
+
+Retitle Rule 2349 (Spending Points) to "Spending Actions", and amend it
+to read:
+
+    A Spending Action is an action defined as such by the Rules.
+    Base cost is a Spending Action switch, tracked by the
+    Scorekeepor, whose value is a non-negative integer (default 5).
+    A player CAN change a Spending Action's base cost without two
+    objections.  The cost of a Spending Action is generally its base
+    cost in points, subject to modification by other Rules.
+
+Amend Rule 1607 (The Promotor) by replacing "as a Spending Action"
+with "for a cost of 5 points".
+
+Amend Rule 2332 (Winning by Points) by replacing:
+
+    A player CAN destroy 250 points in the possession of any
+    indicated player to cause the indicated player to satisfy the
+    Victory Condition of Accumulation.
+
+with:
+
+    A player CAN destroy 250 points in the possession of any
+    indicated player as a cost to cause the indicated player to
+    satisfy the Victory Condition of Accumulation.
+
+Amend Rule 1504 (Criminal Cases) by replacing "class of asset" with
+"currency", and by replacing:
+
+    When in effect, the ninny SHALL, as soon as possible, either
+    destroy this amount of eir asset or transfer it to the Lost and
+    Found Department. The ninny is only obliged to perform one
+    destruction or transfer per case, even if sentences of this type
+    are assigned more than once or go into effect more than once.
+
+with:
+
+    The ninny CAN satisfy the fine by announcement, for a cost of
+    that amount of currency.  When in effect, if e has not already
+    done so in the same case, the ninny SHALL satisfy the fine as
+    soon as possible.

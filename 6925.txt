@@ -1,0 +1,22 @@
+ID: 6925
+Title: Not pointless
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2321 (Proposal Points) to read as follows:
+
+      Points are a liquid Currency tracked by the PSM.  When this text
+      first becomes a part of a Rule, each Player's points are set to
+      zero.
+
+      The following awards CAN and SHALL be created/destroyed in the
+      possession of the indicated players by the PSM, asap after proposal
+      results in question are announced:
+
+         - Voters who voted against proposals which are adopted receive 10
+           points apiece.
+         - Players whose proposals are adopted shall receive a random
+           number of points (determined by the PSM) in the range 1-10
+           inclusive.
+         - Players whose proposals are not adopted shall lose 10 points.

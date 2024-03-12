@@ -1,0 +1,12 @@
+ID: 7111
+Title: Points for the Big Guy
+Author: Tanner L. Swett
+Co-authors: 
+Adoption index: 1
+
+Create a power-2 rule, titled "Public Appointment", with the following text:
+
+At the beginning of every month, half of the points belonging to the
+Lost and Found Department, rounded up, are transferred to Agora. Any
+player CAN, with three support, act on behalf of Agora to announce
+intent to initiate a victory case.

@@ -1,0 +1,12 @@
+ID: 6932
+Title: Single Positive
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 1504 (Criminal Cases) by replacing
+      (d) the Accused could not have reasonably believed that the
+          alleged act did not violate the specified rule;
+with
+      (d) the Accused could have reasonably believed that the alleged
+          act did violate the specified rule;

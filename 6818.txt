@@ -1,0 +1,11 @@
+ID: 6818
+Title: Urgent Limit
+Author: Keba
+Co-authors: 
+Adoption index: 3.0
+
+If there is a Rule entitled "Urgent Proposals", amend this Rule while
+adding this text to the end of its first paragraph:
+
+        A player CANNOT submit an Urgent Proposal, if three or more
+        Urgent Proposals have been submitted in the last seven days.

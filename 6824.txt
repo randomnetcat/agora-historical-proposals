@@ -1,0 +1,11 @@
+ID: 6824
+Title: Rights are important
+Author: Keba
+Co-authors: 
+Adoption index: 3.5
+
+Increase the power of Rule 101 "The Rights of Agorans" to 3.5.
+
+[If a rule with a power of 3 restricts some player's right(s), the
+contradiction between these rules should be easily resolvable using the
+power mechanism.]

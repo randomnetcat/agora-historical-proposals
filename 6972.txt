@@ -1,0 +1,9 @@
+ID: 6972
+Title: Assumed Elections
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2154 (Election Procedure) by appending the clause "or
+assumed" to the following clause:
+        a) by announcement, if e is the IADoP, or the office is vacant

@@ -1,0 +1,18 @@
+ID: 7148
+Title: Okay, that worked once a long time ago
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2343 (Victory Conditions) by inserting this paragraph after
+the second paragraph:
+
+     The remainder of this rule notwithstanding, if an event's Victory
+     Deadline has passed, then a person CANNOT Win the Game due to
+     that event, and its Victory Deadline CANNOT be extended.  An
+     event's Victory Deadline is initially 28 days after the event,
+     and CANNOT be extended except as specified by this rule.  If it
+     is within 28 days of passing, then anyone CAN extend it by 28
+     days by announcement.  (Initiating, assigning a judge to, or
+     judging a judicial case substantially relevant to the event
+     implicitly counts as such an announcement.)

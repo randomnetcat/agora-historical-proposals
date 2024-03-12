@@ -1,0 +1,8 @@
+ID: 6882
+Title: Other documents
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+  Amend Rule 1750 by replacing all occurrences of "ruleset" (case
+   insensitive) with "Vladivostok Telephone Directory".

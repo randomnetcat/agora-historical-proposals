@@ -1,0 +1,10 @@
+ID: 7132
+Title: SHALL Promises
+Author: Pavitra
+Co-authors: 
+Adoption index: 1.0
+
+Create a rule with the title "Naughtiness" and the following text:
+      A person CAN taunt the police by announcement specifying an
+      integer from 1 to 14 inclusive. Doing so is the Class-N Crime
+      of Naughtiness, where N is the specified integer.

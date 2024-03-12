@@ -1,0 +1,60 @@
+ID: 6781
+Title: Half-Assed Security Fix
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2125 (Regulation Regulations) by replacing
+       c) The rules explicitly state that it CAN be performed while
+          certain conditions are satisfied.  Such an action CANNOT be
+          performed except as allowed by the rules.  In particular, if
+          the action in question is publishing a type of document, then
+          a public message is not that type of document (even if it is
+          labeled as such) except as allowed by the rules.
+
+       d) The rules explicitly state that it MAY be performed while
+          certain conditions are satisfied.  Except as allowed by the
+          rules, performing such an action is the Class-N Crime of
+          Restricted Behavior, where N is the maximum power of the
+          rules explicitly allowing it (rounded up as needed to become
+          a valid Class of Crime).
+
+       e) It would, as part of its effect, modify information for which
+          some player is required to be a recordkeepor.  Such an action
+          CANNOT modify that information except as allowed by the
+          rules.
+
+       f) A judicial finding has determined that it is regulated, and
+          has not been superseded by subsequent legislation.
+with
+       c) A rule or rules explicitly state that it CAN be performed while
+          certain conditions are satisfied.  Such an action CANNOT be
+          performed by non-instruments except as allowed by the rules.
+          When publishing a type of document is regulated in this
+          manner, it does not make IMPOSSIBLE publishing of a similar
+          document, only that no public document is that type of
+          document unless allowed.
+
+       d) The rules explicitly state that it MAY be performed while
+          certain conditions are satisfied.  Except as allowed by the
+          rules, a non-instrument performing such an action is a
+          violation of the highest-power rule specifically allowing it,
+          with ties broken in favor of the rule with the lowest ID
+          number. When publishing a type of document is regulated in this
+          manner, it does not prohibit publishing a similar document,
+          only alleging that a public document is that type of document
+          unless allowed.
+
+       e) It would, as part of its effect, modify information for which
+          some player is required to be a recordkeepor.  Such an action
+          performed by a non-instrument CANNOT modify that information
+          except as allowed by the rules.
+
+       f) A judicial declaration has determined that it is regulated, and
+          has not been superseded by subsequent legislation or a later
+          judicial declaration.
+[This means that proposals and other rules can, by default, perform
+regulated actions. Rules still explicitly prohibiting things sill
+prohibit them, in particular, they still cannot perform actions secured
+at higher power or otherwise manipulate higher-power entities (unless,
+of course, they have power 3 or greater).]

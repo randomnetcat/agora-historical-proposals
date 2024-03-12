@@ -1,0 +1,28 @@
+ID: 7078
+Title: 7050 fixes
+Author: omd
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 911 (Appeal Cases) by replacing "previously-appealed
+question" with "previously-appealed case", and by replacing "question
+of sentencing" with "criminal case".
+
+Amend Rule 2343 (Victory Cases) by replacing:
+
+     A victory case has a judicial question on ascendancy, which is
+     always applicable. The valid judgments for this question are
+
+with:
+
+     The valid judgements for a victory case are
+
+Amend Rule 591 (Inquiry Cases) by replacing
+
+       from the outcome of another (possibly still undecided)
+       judicial case
+
+with:
+
+       from the outcome of another (possibly still undecided)
+       judicial case that was not itself judged IRRELEVANT

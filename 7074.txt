@@ -1,0 +1,21 @@
+ID: 7074
+Title: Spending Points v2
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Enact a new Power 2 Rule entitled "Spending Points":
+
+     Where the Rules state that a player CAN perform an action 'as a
+     Spending Action', this means that the player CAN perform this
+     action by destroying a number of Points in eir possession equal
+     to the cost of that action, provided they have enough Points.
+     Each Point can only count towards one Spending Action. If a
+     player CAN perform an action by spending 0 points, e CAN perform
+     it by announcement.
+
+     Each spending action has a base cost, which is a non-negative
+     integer defaulting to five. The base cost of each spending
+     action is tracked by the Scorekeepor, and players CAN change it
+     without two objections. The cost of a spending action is
+     generally its base cost, subject to modification by other Rules.

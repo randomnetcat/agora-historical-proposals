@@ -1,0 +1,18 @@
+ID: 7061
+Title: Victory Cap
+Author: G.
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2332 (Winning by Points) to read:
+     A player CAN destroy 250 points in the possession of any indicated
+     player to cause the indicated player to satisfy the Victory
+     Condition of Accumulation.
+
+[Currency systems are a balance of accumulation over time, but for
+game balance, shouldn't let a player accumulate too much (otherwise
+new players start out at huge disadvantages.  Ergs didn't allow enough
+accumulation.  Having no leveling mechanism is too much accumulation.
+This places an effective cap at 250 (a few months of play) above which
+a reset can be forced in exchange for victory.  Also, by careful
+management you can keep your holdings below the reset level).]

@@ -1,0 +1,9 @@
+ID: 6993
+Title: Agreement basis
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend the rule titled "Public Agreements" by appending this text:
+
+      The basis of such an agreement is the set of those players.

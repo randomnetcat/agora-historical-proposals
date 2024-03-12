@@ -1,0 +1,23 @@
+ID: 6827
+Title: Once and For All
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+[This proposal should clean up the Ribbon rule for the last time. The
+first bit is redundant. The second bit was always intended, I think.]
+Amend Rule 2199 by removing
+       When a player earns a Ribbon as outlined below, any person CAN
+       once, in a timely manner (except for White Ribbons, which can be
+       awarded at any time within a month after they are earned),
+       create that Ribbon in the player's possession by announcement,
+       unless the player already possesses the color of Ribbon e earned
+       (earning a Ribbon more than once entitles the bearer to multiple
+       Ribbon awards, though capitalizing on this may be difficult):
+and by adding
+       A Ribbon may only be of a color mentioned in this rule; if a
+       Ribbon somehow has any other color, it is destroyed.
+after
+       Each Ribbon has exactly one color.  Colors with different names
+       are distinct, regardless of spectral proximity.  Each color of
+       Ribbon is a currency.

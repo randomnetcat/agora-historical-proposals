@@ -1,0 +1,7 @@
+ID: 6240
+Title: The Power of Capitalization, and I mean it this time
+Author: Quazie
+Co-authors: 
+Adoption index: 3.0
+
+Replace all instances of 'power' in the ruleset with 'Power'

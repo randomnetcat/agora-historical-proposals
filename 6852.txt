@@ -1,0 +1,16 @@
+ID: 6852
+Title: "It's secret"
+Author: Keba
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new power=1 rule entitled "The Official Secrets Act":
+
+       The Rules may designate certain pieces of information to be
+       secret. Any player who knowingly reveals secret information to
+       another player, except as explicitly permitted or required by
+       the rules, commits the Crime of Unlawful Disclosure, a Class 5
+       Crime. All secret information is deemed private, with respect to
+       the Freedom of Information Act.
+
+[old Rule 1926/1 from 2001]

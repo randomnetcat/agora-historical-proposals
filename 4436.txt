@@ -13,7 +13,7 @@ Amend Rule 1987 to read:
        b) Contests.
        c) Monasteries.
 
-Create a new Power = 1 rule titled Joining a Monastery with the following 
+Create a new Power = 1 rule titled �Joining a Monastery� with the following 
 text.
 
 A Player shall be added to the Membership of a Monastery only when the 

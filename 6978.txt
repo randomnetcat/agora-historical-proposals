@@ -1,0 +1,27 @@
+ID: 6978
+Title: The Pear-Shaped Office
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 103 (The Speaker) by removing the paragraph that mentions
+the President.
+
+Amend Rule 2326 (The President) to read:
+
+      The President is a second-class person.  If eir Citizenship is
+      ever not Registered, then it is flipped to Registered.
+
+      Causing the President to take an action is secured.
+
+      The Speaker CAN, by announcement, cause the President to take
+      an action that is not otherwise IMPOSSIBLE.  If there is no
+      Speaker, then the player who was most recently Speaker (if
+      any) CAN, by announcement, cause the President to take an action
+      that it SHALL take.
+
+      A first-class Player CAN, without objection or with Agoran
+      consent, cause the President to take an action.
+
+      Causing the President to perform an ILLEGAL action is the
+      Class-6 crime of Misleading the Leader.

@@ -1,0 +1,33 @@
+ID: 6797
+Title: More clarification
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+[Clarify the existence of wormholes and what it means to be warped.]
+
+
+Amend Rule 2299, or the text of the contest "Space Alert" if Rule 2299
+was repealed, by replacing:
+    By default, there is no journey in place.
+with:
+    A journey is in place while the Shuttle and two wormholes exist.
+and by replacing:
+    all objects In Space are destroyed
+with:
+    all Objects In Space and wormholes are destroyed
+and by replacing:
+    the two new wormholes and the new Shuttle
+with:
+    two new wormholes and a new Shuttle in valid positions, which are created.
+and by replacing:
+    If the Shuttle is destroyed,
+with:
+    If the Shuttle is destroyed in any other way,
+
+
+Amend Rule 2297, or the text of the contest "Space Alert" if Rule 2299
+was repealed, by replacing:
+    is warped and disappears.
+with:
+    is warped and disappears (is destroyed).

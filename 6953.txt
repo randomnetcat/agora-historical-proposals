@@ -1,0 +1,22 @@
+ID: 6953
+Title: Clean up voting periods
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 107 (Initiating Agoran Decisions) by replacing the
+paragraph beginning with
+
+      The publication of such a valid notice initiates the voting
+      period for the decision.
+
+with this text:
+
+      The publication of such a valid notice initiates the voting
+      period for the decision.  The minimum and initial voting period
+      is seven days.  The maximum voting period is fourteen days.
+
+      The above notwithstanding, a decision with less than two options
+      has no minimum voting period, and its vote collector CAN and
+      SHALL end the voting period by announcement that also resolves
+      the decision.

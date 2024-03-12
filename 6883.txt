@@ -1,0 +1,8 @@
+ID: 6883
+Title: Read Requirement
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 1750 (Read the Ruleset Week) by replacing "SHOULD read the
+ruleset" with "SHALL read the ruleset".

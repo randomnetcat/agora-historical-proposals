@@ -1,0 +1,9 @@
+ID: 6947
+Title: New Forum
+Author: Wooble
+Co-authors: 
+Adoption index: 1.0
+
+Flip the Publicity of the mailing list with the address
+agora-public@googlegroups.com (on the web at
+http://groups.google.com/group/agora-public) to Public.

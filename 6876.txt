@@ -1,0 +1,10 @@
+ID: 6876
+Title: Condensation
+Author: G.
+Co-authors: 
+Adoption index: 1.9
+
+Repeal Rule 2291 (Fragments).
+Repeal Rule 2292 (Defragmentation Proposals).
+
+Amend Rule 2293 (Leadership Tokens) by replacing 'Granulator' with 'Herald'.

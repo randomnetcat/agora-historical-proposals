@@ -1,0 +1,33 @@
+ID: 6760
+Title: Push From the Inside
+Author: coppro
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2298 by appending
+       A player whose Station is not Outside is a crewman.
+
+Amend Rule 2300 by replacing
+        Recording the Captain's Log (1) - Causes the Shuttle to
+        activate the very fancy recording device for full hologram
+        recording, which causes all other systems to go offline. The
+        Shuttle can then not take any other actions until the end of
+        the next day.  During this time any other player can, with 2
+        support, initiate a mutiny which moves the pusher of the
+        Captain's Log button to the Outside. If this does not happen,
+        the player doing the recording may save it within one day for
+        a cost of 2 ergs. A player who successfully performs this
+        action twice within a single month satisfies the winning
+        condition of Continuity.
+with
+        Recording the Captain's Log (1) - Causes the Shuttle to
+        activate the very fancy recording device for full hologram
+        recording, which causes all other systems to go offline. The
+        Shuttle can then not take any other actions until the end of
+        the next day.  During this time any other crewman can, with 2
+        crewman support, initiate a mutiny which moves the pusher of
+        the Captain's Log button to the Outside. If this does
+        not the player doing the recording may save it within one day
+        for a cost of 2 ergs. A player who successfully performs this
+        action twice within a single month satisfies the Winning
+        Condition of Continuity.

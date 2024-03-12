@@ -1,0 +1,76 @@
+ID: 6969
+Title: Broken arrows
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2154 (Election Procedure) by replacing numbered sections
+1 and 2 with this text:
+
+       1) The valid options are the active players (hereafter the
+          candidates) who, during the election,
+
+            a) received and accepted a nomination for the office
+               before the decision was initiated (self-nomination
+               constitutes acceptance), and
+
+            b) did not decline a nomination for the office.
+
+          The set of candidates can change after the decision is
+          initiated.
+
+       2) The eligible voters are the active first-class players.
+
+[The Senate and the Emergency Procedure have been repealed.]
+
+Amend Rule 911 (Appeal Cases) by replacing this text:
+
+      If the time period ends with no majority judgement, then:
+
+      - if the Justiciar has published an opinion on the case
+        clearly marked as the Justiciar's Opinion and indicating a
+        valid judgement, and that judgement is the same as one given
+        by at least one panel member (other than the Justiciar), then
+        the panel delivers that judgement;
+
+      - otherwise, the case enters an overtime period, which
+        lasts for four days.  The CotC SHOULD publicly remind the
+        Justiciar when an overtime period begins.  During this period,
+        if the Justiciar publishes a Justiciar's Opinion that is the
+        same as one panel member's as described above, then the panel
+        delivers that judgement;
+
+      - otherwise, the CotC CAN and SHALL, asap after the overtime
+        period ends, act for the panel by announcement to judgement of
+        either REMAND or REMIT with or without prejudice, whichever e
+        feels is most appropriate.
+
+with this text:
+
+      If the time period ends with no majority judgement, then the
+      CotC CAN, and SHALL as soon as possible, by announcement cause
+      the panel to judge either REMAND or REMIT with or without
+      prejudice, whichever e feels is most appropriate.
+
+[The Justiciar and Separation of Powers have been repealed.]
+
+Amend Rule 2230 (Notices of Violation) by replacing this text:
+
+      A player CAN publish a Notice of Violation (NoV) for a fee of N
+      ergs, where N is the one half of the number of valid NoVs e
+      previously published during the same week, rounded down.
+
+with this text:
+
+      A player CAN publish a Notice of Violation (NoV) with N support,
+      where N is half the number of valid NoVs e previously published
+      during the same week, rounded down.
+
+[Fees and ergs have been repealed.]
+
+Amend Rule 2288 (Induction) by appending this text:
+
+      If a player CAN perform an action with 0 support, then e CAN
+      perform it by announcement.
+
+[Generalizes the NoV case where N = 0.]

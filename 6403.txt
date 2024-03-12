@@ -1,17 +1,21 @@
 ID: 6403
-Title: Proposal Tweaking Part 2.1
-Author: c-walker
+Title: Your Presence is Requested
+Author: coppro
 Co-authors: 
-Adoption index: 2.0
+Adoption index: 3.0
 
-In Rule 1607 (The Promotor), immediately after the paragraph beginning
-"In a given Agoran week..." append the following paragraph:
+Amend Rule 2154 (Elections) by removing the text "PRESENT and ".
 
-      A player CAN flip a specified Interested proposal to
-      Distributable without a number of objections equal to 4 - II
-      (where II is the Interest Index of the specified proposal). A
-      player CAN flip a specified Disinterested proposal to
-      Distributable by announcement.llot, a player can select PRESENT rather than
+Amend Rule 2196 (Standard Classes of Agoran Decisions) by replacing
+"FOR, AGAINST, and PRESENT" with "FOR and AGAINST".
+
+Amend Rule 955 (Determining the Will of Agora) by removing the text ",
+not counting votes of PRESENT"
+
+Amend Rule 693 (Voting on Agoran Decisions) by inserting the following
+paragraph after the bulleted list
+{{
+      When submitting a ballot, a player can select PRESENT rather than
       one of the options provided by the decision. A ballot cast for
       PRESENT is considered to be a valid ballot, but, unless specified
       otherwise, does not count as a valid option.

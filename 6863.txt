@@ -1,0 +1,19 @@
+ID: 6863
+Title: Be Exact
+Author: coppro
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2283 (Fees) by replacing
+       To perform a fee-based action, a Player (the Actor) who is not
+       otherwise forbidden to perform the action CAN perform it by
+       announcing that e is performing the action while also announcing
+       that there is a fee for that action.
+with
+       To perform a fee-based action, a Player (the Actor) who is not
+       otherwise forbidden to perform the action CAN perform it by
+       announcing that e is performing the action while also announcing
+       that there is a fee for the action and the exact numerical value
+       of that fee.
+
+[Rulekeepor: This is not the entire paragraph.]

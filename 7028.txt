@@ -1,0 +1,16 @@
+ID: 7028
+Title: Too many exceptions
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[Promotor note: This proposal was submitted on April 2, but never
+distributed because for some reason Wooble marked it as
+undistributable, and I forgot about it until Walker reminded me about
+it... twice.]
+
+Amend Rule 2154 (Election Procedure) by replacing the text from "A
+player" to "otherwise." with:
+
+     A player CAN initiate an election for a specified elected office
+     for which no election is already in progress by announcement.

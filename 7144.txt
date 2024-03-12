@@ -1,0 +1,13 @@
+ID: 7144
+Title: Extraterritorial jurisdiction
+Author: Murphy
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 1504 (Criminal Cases) by inserting this text immediately
+before the bullet point for EXILE:
+
+     * EXCLUSION, appropriate for rule breaches by a non-player.  When
+       a judgement of EXCLUSION has been in effect continuously for
+       one week, the ninny CANNOT register for one month after that
+       time.

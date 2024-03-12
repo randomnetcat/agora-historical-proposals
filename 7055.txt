@@ -1,0 +1,19 @@
+ID: 7055
+Title: Quickly, now
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2130 (Activity) by replacing
+     A player CAN flip another player's activity to Inactive without
+     objection.
+with, if there does not currently exist a rule entitled Speed,
+     A player CAN flip another player's activity to Inactive without
+     objection, or by announcement if that player has not sent a public
+     message in more than 10 days.
+, otherwise
+     A player CAN flip another player's activity to Inactive without
+     objection, or by announcement if that player has not sent a
+     public message in more than one week if the Speed is Fast, more
+     than 10 days if the Speed is Normal, or more than 20 days if the
+     Speed is Slow.

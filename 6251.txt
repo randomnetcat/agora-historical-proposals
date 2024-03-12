@@ -1,0 +1,20 @@
+ID: 6251
+Title: Decriminalize restricted actions
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2125 (Regulation Regulations) by replacing this text:
+
+      d) The rules explicitly state that it MAY be performed while
+         certain conditions are satisfied.  Such an action MAY NOT be
+         performed except as allowed by the rules.
+
+with this text:
+
+      d) The rules explicitly state that it MAY be performed while
+         certain conditions are satisfied.  Except as allowed by the
+         rules, performing such an action is the Class-N Crime of
+         Restricted Behavior, where N is the maximum power of the
+         rules explicitly allowing it (rounded up as needed to
+         become a valid Class of Crime).

@@ -1,15 +1,8 @@
 ID: 6569
-Title: Ratification of disclaimered documents
-Author: Murphy
+Title: Quorum Busted
+Author: coppro
 Co-authors: 
-Adoption index: 3.0
+Adoption index: 1.0
 
-Amend Rule 1551 (Ratification) by replacing "the gamestate is
-modified" with "the gamestate is minimally modified".
 
-[If e.g. a report saying "X has either Y or Z widgets" is ratified, then
-if X had Y widgets, then e still does; if X had Z widgets, then e still
-does; if X had neither Y nor Z widgets, then that needs to be sorted out
-by other means, but that's no worse than the present situation. Also
-pre-empts any retarded-monkey claims that ratification performs and/or
-ambiguates unrelated portions of gamestate.]
+Repeal Rule 2168.

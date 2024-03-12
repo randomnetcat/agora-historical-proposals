@@ -1,0 +1,11 @@
+ID: 6880
+Title: Proposal Points
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Enact the following Rule:
+         Voters who voted against proposals which are adopted receive 10
+         points apiece.  Players whose proposals are adopted shall receive
+         a random number of points in the range 1-10 inclusive.  Players
+         whose proposals are not adopted shall lose 10 points.

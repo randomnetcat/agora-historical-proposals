@@ -1,0 +1,26 @@
+ID: 6744
+Title: No duty means no duty
+Author: Murphy
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2201 (Self-Ratification) by replacing this text:
+
+       b) A claim of error, appropriate for matters of fact.  The
+          publisher of the original document SHALL as soon as possible
+          either deny the claim (causing it to cease to be a doubt),
+          publish a revision, or (if the subject is actually a matter
+          of law) initiate an inquiry case regarding the truth of the
+          claim.
+
+with this text:
+
+       b) A claim of error, appropriate for matters of fact.  The
+          publisher of the original document SHALL (if e was required
+          to publish that document) or SHOULD (otherwise) do one of
+          the following as soon as possible:
+
+              i) Deny the claim (causing it to cease to be a doubt).
+             ii) Publish a revision.
+            iii) Initiate an inquiry case regarding the truth of the
+                   claim (if the subject is actually a matter of law).

@@ -1,19 +1,226 @@
 ID: 6571
-Title: Stoma moats of atoms
-Author: ehird
+Title: This gets on my nerves
+Author: ais523
 Co-authors: 
-Adoption index: 2.0
+Adoption index: 3.0
 
-Create a new rule titled "Molting the Moats" (Power=2) with the text:
-{{
-The End-Times are Near.
 
-Any player CAN elevate any rule by announcement that e has not
-elevated before.
+{{{{
+[Attaches SHOULD requirements to actual people, not to inanimate
+objects, so that the MMI definition works.]
 
-Seven days or later after the adoption of the proposal that created this
-rule, any player CAN Declare That the End-Times are Here by
-announcement. This causes the 20 rules elevated most often elevated to
-be repealed, not counting rules which have never been elevated. The
-End-Times then cease to be Here, and this rule repeals itself.
-}}
+In rule 2247 ("The Janitor"), replace
+{{{
+     These proposals SHOULD NOT modify any substantive aspect of the
+     meaning of the rules.
+}}}
+with
+{{{
+     The Janitor SHOULD ensure the proposals e submits do not modify
+     any substantive aspect of the meaning of the rules.
+}}}
+
+In rule 2170 ("Who Am I?"), replace
+{{{
+     the judge SHALL as soon
+     as possible publish a judicial declaration that the Sock Puppet
+     was a person during one or more time periods, which SHOULD
+     correspond to general belief prior to that finding.
+}}}
+with
+{{{
+     the judge SHALL as soon
+     as possible publish a judicial declaration that the Sock Puppet
+     was a person during one or more time periods, and SHOULD ensure
+     that it corresponds to general belief prior to that finding.
+}}}
+
+In rule 754 ("Definition Definitions"), replace
+{{{
+         The following clauses, where X and Y are both nouns or noun
+         phrases, SHOULD be interpreted as "X is/are defined as Y":
+}}}
+with
+{{{
+         The following clauses, where X and Y are both nouns or noun
+         phrases, mean "X is/are defined as Y" unless they obviously
+         have a different meaning:
+}}}
+[This is a substantive change; the previous version of the rule didn't
+actually change the meanings of rules, just caused people to act if they
+were different; that's pretty much deliberately forcing the platonic and
+pragmatic gamestates to diverge!]
+
+In rule 754 ("Definition Definitions"), replace
+{{{
+     In determining the ordinary-language meaning of a term,
+     definitions contained in lower-powered Rules, followed by
+     definitions used in contracts or other Agoran legal documents,
+     SHOULD be used for guidance.
+}}}
+with
+{{{
+     In determining the ordinary-language meaning of a term,
+     definitions contained in lower-powered Rules, followed by
+     definitions used in contracts or other Agoran legal documents,
+     are relevant and may provide guidance in helping to determine
+     the meaning of a rule, but are not binding (especially if they
+     differ greatly from the definitions that would be used otherwise).
+}}}
+[Likewise.]
+
+In rule 2152 ("Mother, May I?"), replace
+{{{
+     The following terms are defined.  These definitions are used
+     when a rule includes a term in all caps, and SHOULD be used when
+     a rule includes a term otherwise.  Earlier definitions take
+     precedence over later ones.  If a rule specifies one or more
+     persons in connection with a term, then the term applies only to
+     the specified person(s).
+}}}
+with
+{{{
+     The following terms are defined.  These definitions are used
+     when a rule includes a term in all caps, and provide guidance in
+     determining the ordinary-language meaning of a term when a rule
+     includes a term otherwise.  Earlier definitions take precedence
+     over later ones.  If a rule specifies one or more persons in
+     connection with a term, then the term applies only to the
+     specified person(s).
+}}}
+[For the same reason as the R754 fixes, and also to avoid some weird
+recursion.]
+
+In rule 2152 ("Mother, May I?"), replace
+{{{
+     7. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+        the described action, the full implications of failing to
+        perform it should be understood and carefully weighed.
+}}}
+with
+{{{
+     7. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+        the described action, the full implications of failing to
+        perform it should (in the ordinary-language sense) be
+        understood and carefully weighed.
+}}}
+[Let's settle this old argument legislatively. Besides, SHOULD in the
+passive makes little sense with the MMI definition; the
+ordinary-language definition is the one that is clearly intended here.]
+
+In rule 2153 ("Interest Index"), replace
+{{{
+     An entity's interest index is an integer from 0 to 3, default
+     value 1.  An entity's interest index SHOULD be proportional to
+     its complexity.
+}}}
+with
+{{{
+     An entity's interest index is an integer from 0 to 3, default
+     value 1.  When altering an entity's interest index, a person
+     SHOULD try to pick a new value which reflects the complexity of
+     that entity.
+}}}
+
+In rule 106, replace
+{{{
+     A
+     proposal SHOULD outline changes to be made to Agora, including
+     enacting, repealing, or amending rules, or making other explicit
+     changes to the gamestate.
+}}}
+with
+{{{
+     When creating proposals, the person who creates them SHOULD
+     ensure that the proposal outlines changes to be made to Agora,
+     such as enacting, repealing, or amending rules, or making other
+     explicit changes to the gamestate. When a proposal that includes
+     such explicit changes takes effect, those changes are applied to
+     the gamestate.
+}}}
+[Hopefully not a substantive change. The definition of "takes effect" is
+added because it was a little unclear what it meant before, this
+clarification of the SHOULD unfortunately makes it even more unclear,
+and it's very very important that it has the meaning we want so as to
+make gamestate changes possible.]
+
+In rule 2224 ("Interest Index of Proposals"), replace
+{{{
+     A proposal SHOULD be disinterested if and only if its effects
+     are limited to correcting errors and/or ambiguities.
+}}}
+with
+{{{
+     The submitter of a proposal SHOULD set its interest index to 0 if
+     and only if the proposal's effects are limited to correcting
+     errors and/or ambiguities.
+}}}
+
+In rule 591 ("Inquiry Cases"), replace
+{{{
+     The judgement of the question in an inquiry case, and the
+     reasoning by which it was reached, SHOULD guide future play
+     (including future judgements), but do not directly affect the
+     veracity of the statement.
+}}}
+with
+{{{
+     Players SHOULD take the judgement of the question in an inquiry
+     case, and the reasoning by which it was reached, into account when
+     attempting to determine what is possible and/or legal in future
+     play (including when making future judgements); but the judgement
+     does not directly affect the veracity of the statement.
+}}}
+
+In rule 2169 ("Equity Cases"), replace
+{{{
+     the Appeals Court SHOULD assume
+}}}
+with
+{{{
+     the members of the relevant judicial panel SHOULD assume
+}}}
+
+In rule 2205 ("Judicial Arguments and Evidence"), replace
+{{{
+     Matters of legal interpretation SHOULD be classified as
+     arguments; matters of fact SHOULD be classified as evidence.
+}}}
+with
+{{{
+     When submitting arguments and/or evidence, a player SHOULD
+     classify matters of legal interpretation as arguments, and matters
+     of fact as evidence.
+}}}
+
+In rule 911 ("Appeal Cases"), replace
+{{{
+       this judgement SHOULD be assigned if the
+}}}
+with
+{{{
+       the judge SHOULD assign this judgement if the
+}}}
+(in both places the sentence fragment in question occurs).
+
+In rule 911 ("Appeal Cases"), replace
+{{{
+     This Dissenting Opinion becomes a part of the record
+     of the case, and SHOULD aid in interpreting the decision.
+}}}
+with
+{{{
+     This Dissenting Opinion becomes a part of the record
+     of the case; it can be used as an aid to help interpret the
+     decision.
+}}}
+
+In rule 2231 ("Order of the Hero of Agora Nomic"), replace
+{{{
+     Heroic titles SHOULD NOT be revoked.
+}}}
+with
+{{{
+     Players SHOULD NOT cause heroic titles to be revoked.
+}}}
+}}}}

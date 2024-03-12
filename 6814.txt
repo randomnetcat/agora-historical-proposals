@@ -1,0 +1,23 @@
+ID: 6814
+Title: The Pariah
+Author: ais523
+Co-authors: 
+Adoption index: 1.7
+
+Create a new power-1.7 rule with the following text:
+{{{
+The Pariah is an elected office, with no reports. Whenever a player
+becomes the Pariah, that player is awarded 23 Rests.
+
+If more than 6 Rests are destroyed in the Pariah's possession in any
+given week, the Pariah is awarded a sufficient number of Rests in order
+to bring eir net Rest loss that week up to no more than 6.
+
+Players are ENCOURAGED to enforce penalties for rules breaches against
+the Pariah, even really minor ones.
+
+Upon a win announcement that the Pariah has ever continuously had 0
+Rests for an entire week whilst being the Pariah for all of that time,
+then the Pariah satisfies the Winning Condition of Cleanliness. Cleanup
+condition: The office of Pariah becomes vacant.
+}}}

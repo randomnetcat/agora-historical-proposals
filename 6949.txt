@@ -1,0 +1,32 @@
+ID: 6949
+Title: "Fix" Grand Vizier
+Author: Yally
+Co-authors: 
+Adoption index: 2.0
+
+Delete the following text from Rule 2255 (The Court):
+
+      Third Position: Grand Vizier
+      Influence Level: 5
+      Position: The Grand Vizier CAN perform any action that an
+      officer both CAN and MAY (or SHALL) perform by virtue of holding
+      that office as follows:
+      (a)  If the rules specify that the officer CAN perform the
+           action in question by announcement, then the Grand Vizier
+           CAN perform that action With Notice, indicating also that e
+           is acting as Vizier;
+      (b)  If the rules specify a dependent action method for the
+           officer performing the action, then the Grand Vizier CAN
+           perform the action using the same dependent action method
+           with notice, indicating also that e is acting as Vizier.
+
+And, in that same rule, simultaneously do each of the followin:
+
+Replace all instances of the word "Fourth" with "Third".
+Replace all instances of the word "Fifth" with "Fourth".
+Replace all instances of the word "Sixth" with "Fifth".
+
+[Removes the broken Grand Vizier position and renumbers the other
+positions accordingly. We don't really need that position, as there
+are still 5 other unique positions on the list plus speaker, which is
+still about half of our active player basis]

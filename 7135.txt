@@ -1,0 +1,40 @@
+ID: 7135
+Title: Fixing Victory
+Author: G.
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 2343 (Victory Cases) by changing its title to
+"Victory Conditions" and amending it to read:
+
+         A Victory Condition is a condition explicitly defined by the
+         rules as a victory condition.  A Victory Announcement is a
+         published statement labeled as a Victory Announcement that
+         states clearly that a specified person or persons have
+         satisfied a specified and rules-defined victory condition
+         (and explicitly and clearly states which persons and which
+         victory condition).  A Victory Announcement is self-ratifying.
+
+         When a Victory Announcement ratifies, or a judgement
+         confirming the veracity of a victory announcement has been in
+         effect and unappealed for one week, and provided the person(s)
+         named have not already won via the same events, the person(s)
+         Win the Game.  There is no other method of winning the game.
+         Winning the game does not cause Agora to end.
+
+         The Herald SHALL award the Patent Title Champion to any
+         person who wins the game, as soon as possible after the win.
+         The Herald SHOULD note the method of winning in eir report.
+
+         Any person who wins the game while knowingly breaking a Rule,
+         or while willingly and knowingly being a party to a Rules
+         breach, where the breach is directly and substantially
+         responsible for the win, commits the Class-4 Crime of Poor
+         Sportsmanship.  If any party is found GUILTY of this crime,
+         then, as soon as possible after the judgement has been in
+         effect for one week, the Herald SHALL, as part of the
+         punishment, revoke any Champion title awarded to the guilty
+         parties as a result of the win.
+
+[Note:  for pragmatism, a criminal win remains a "win" but with e
+different patent title and punishment].

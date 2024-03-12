@@ -1,0 +1,32 @@
+ID: 6864
+Title: Urgency simplified
+Author: coppro
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2313 (Urgent Proposals) by deleting the first paragraph and
+replacing the second paragraph with
+       The Promotor CAN distribute an Urgent Proposal as soon as
+       possible, unless it ceases to be Urgent in the mean time. Failure
+       to do so is the Class 1 Crime of Lack of Urgency.
+
+Amend Rule 1607 (The Promotor) by removing the second and fourth paragraphs.
+
+Amend Rule 2284 (Fee-based actions) by removing the second, third, and
+fourth paragraphs.
+
+Enact a new Rule at power 2 entitled "Distributability" which reads
+       Distributability is a switch possessed by proposals in the
+       proposal pool and tracked by the Promotor. Its possible values are
+       Undistributable (default), Distributable, and Urgent.
+
+       A player CAN flip a specified interested and Undistributable
+       proposal to Distributable without a number of objections equal to
+       4 - II (where II is the interest index of the specified proposal).
+       A player CAN flip a specified disinterested and Undistributable
+       proposal to Distributable by announcement.
+
+       A player CAN make a proposal Undistributable for a charge of two
+       ergs, make a Distributable proposal Urgent, vice versa for a
+       charge of two ergs. A player CAN also make an Undistributable
+       proposal Distributable for a charge of one erg.
