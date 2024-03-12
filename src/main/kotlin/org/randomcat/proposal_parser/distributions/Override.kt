@@ -2648,6 +2648,24 @@ Enact a new Power-3 Rule:
        change the rules.
 """
         )
+    ),
+    "OFF: [Briefly Promotor] I needed this one to be in a separate distribution, you'll see why later" to listOf(
+        ProposalData(
+            number = ProposalNumber(6941.toBigInteger()),
+            title = "Junta end 1",
+            ai = ProposalAI(BigDecimal("1")),
+            author = PlayerName("ais523"),
+            coauthors = emptyList(),
+            text = "Repeal rule 2324.",
+        ),
+        ProposalData(
+            number = ProposalNumber(6942.toBigInteger()),
+            title = "Junta end 3",
+            ai = ProposalAI(BigDecimal("3")),
+            author = PlayerName("ais523"),
+            coauthors = emptyList(),
+            text = "Repeal rule 2324.",
+        ),
     )
 )
 
@@ -2665,6 +2683,8 @@ private val IGNORED_SUBJECTS = setOf(
 
 private val FORCED_SUBJECTS = setOf(
     LocalDate.of(2009, 7, 23) to "OFF: Distribution of Proposals 6410-6413",
+    LocalDate.of(2010, 12, 15) to
+            "OFF: [Briefly Promotor] I needed this one to be in a separate distribution, you'll see why later",
 )
 
 fun Message.isIgnoredDistribution(): Boolean {
