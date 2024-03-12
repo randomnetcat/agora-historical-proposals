@@ -93,7 +93,6 @@ fun main(args: Array<String>) {
                 .map {
                     Message.Builder.of().use(MimeConfig.PERMISSIVE).parse(it.asInputStream(Charsets.ISO_8859_1)).build()
                 }
-                .take(12000)
                 .filter {
                     it.isDistributionMessage()
                 }
