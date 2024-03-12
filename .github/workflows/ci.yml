@@ -37,9 +37,15 @@ jobs:
       - name: Clean agora-official unicode
         run: cat agora-official.mbox | iconv -c -f UTF-8//TRANSLIT -t UTF-8//TRANSLIT > agora-official-clean.mbox
 
+      - name: Fetch agora-business
+        run: wget -c https://agora:nomic@mailman.agoranomic.org/archives/agora-official.mbox
+
+      - name: Clean agora-business unicode
+        run: cat agora-business.mbox | iconv -c -f UTF-8//TRANSLIT -t UTF-8//TRANSLIT > agora-business-clean.mbox
+
       - name: Generate reports
         run: |
-          build/install/agora-proposal-parser/bin/agora-proposal-parser agora-official-clean.mbox proposals-out
+          build/install/agora-proposal-parser/bin/agora-proposal-parser agora-official-clean.mbox agora-business-clean.mbox proposals-out
 
       - name: Upload reports artifacts
         uses: actions/upload-artifact@v2
@@ -65,13 +71,26 @@ jobs:
         run: "cp -RT artifacts/proposals generation/gh-pages"
 
       - name: Deploy reports to Github Pages
-        uses: crazy-max/ghaction-github-pages@v2.0.0
-        with:
-          target_branch: gh-pages
-          keep_history: true
-          allow_empty_commit: false
-          build_dir: "generation/gh-pages"
-          author: "ci-build <ci-build@randomcat.org>"
-          commit_message: "CI Updates"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Set Git committer identity
+          git config user.name "ci-build"
+          git config user.email "ci-build@noreply.randomcat.org"
+          
+          # Clear the index
+          EMPTY_TREE="$(git hash-object -t tree /dev/null)"
+          git read-tree -- "$EMPTY_TREE"
+          
+          # Add site data to index
+          git add generation/gh-pages
+          
+          git fetch origin gh-pages
+          ORIG_SITE_TREE="$(git rev-parse origin/gh-pages^{tree})"
+          NEW_SITE_TREE="$(git write-tree --prefix=generation/gh-pages)"                    
+          
+          if [ "$ORIG_SITE_TREE" != "$NEW_SITE_TREE" ]; then
+            SITE_COMMIT="$(git commit-tree -p origin/gh-pages -m "CI Updates" -- "$NEW_SITE_TREE")"
+            echo Updating GitHub pages site to commit "$SITE_COMMIT"
+            git push origin "$SITE_COMMIT":gh-pages
+          else
+            echo Not updating GitHub pages site
+          fi
