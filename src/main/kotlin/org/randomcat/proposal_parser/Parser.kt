@@ -4,6 +4,7 @@ import org.apache.james.mime4j.dom.Message
 import org.apache.james.mime4j.mboxiterator.MboxIterator
 import org.apache.james.mime4j.stream.MimeConfig
 import org.randomcat.proposal_parser.distributions.*
+import java.math.BigInteger
 import java.nio.file.Files
 import java.nio.file.Path
 import java.time.LocalDate
@@ -70,6 +71,9 @@ fun main(args: Array<String>) {
     val outPath = Path.of(args[1])
     Files.createDirectories(outPath)
 
+    val numbers = TreeSet<ProposalNumber>(Comparator.comparing { it.raw })
+    val duplicates = mutableSetOf<ProposalNumber>()
+
     MboxIterator
         .fromFile(inFile)
         .charset(Charsets.UTF_8)
@@ -83,7 +87,16 @@ fun main(args: Array<String>) {
         .filter {
             it.isDistributionMessage()
         }
-        .flatMap { it.parseDistribution() }
+        .map {
+            try {
+                it.parseDistribution()
+            } catch (e: Exception) {
+                e.printStackTrace()
+                null
+            }
+        }
+        .takeWhile { it != null }
+        .flatMap { it ?: error("Already checked for null") }
         .forEach { proposal ->
             val proposalText =
                 """
@@ -104,5 +117,20 @@ ${proposal.text}
 //            )
 
             println("Got number: ${proposal.number}")
+
+            if (!numbers.add(proposal.number)) {
+                duplicates.add(proposal.number)
+            }
         }
+
+    val lowest = numbers.iterator().next()
+    val highest = numbers.descendingIterator().next()
+
+    val missing =
+        generateSequence(lowest) { ProposalNumber(it.raw.plus(BigInteger.ONE)) }.takeWhile { it.raw <= highest.raw }
+            .filter { it !in numbers }.joinToString()
+
+    println("Bounds: $lowest to $highest")
+    println("Duplicates: ${duplicates.joinToString()}")
+    println("Missing: $missing")
 }
