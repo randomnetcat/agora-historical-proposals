@@ -2658,6 +2658,138 @@ fun Message.isForcedDistribution(): Boolean {
 }
 
 private val SUBJECT_OVERRIDE_TEXT_MAP = mapOf(
+    // Replace numbers in detail and fix second 4417 -> 4418 (confirmed by "OFF: [Assessor] Results of Proposals 4417-4418")
+    "OFF: Distribution of Proposals 4417-4418" to """
+
+Agora Nomic
+Distribution of Proposals 4417-4418
+
+No.  | Title                          | By       | AI | Date    | Flag
+     |                                |          |    |         |
+4417 | Sensible Timing for Auctions   | Murphy   |  1 | 09Nov02 | O
+4418 | Protect the inactive           | Steve    |  1 | 11Nov02 | O
+
+O: Ordinary D: Democratic P: Parliamentary
+d: disinterested  u: urgent  s: sane  c: contested
+---------------------------------------------------------------------
+
+Text of Proposals being distributed is below.
+
+----------------------------------------------------------------------
+
+Proposal 4417 by Murphy, AI=1, Ordinary
+Sensible Timing for Auctions
+
+Proposal: Sensible Timing for Indulgence Auctions
+
+Amend Rule 1712 (Distribution of Indulgences) to read:
+
+    (a) The Ideal Indulgence Circulation Level (IICL) is equal to the 
+	number of Players plus the total Stain of all Players.
+
+    (b) The Actual Indulgence Circulation Level (AICL) is the total number 
+of Indulgences owned by entities other than the Bank, augmented by the total 
+number of Indulgences owned by the Bank which either:
+	(1) are already being Auctioned by the Bank in prior Indulgence 	    
+Auctions that have not yet concluded; or
+	(2) have been auctioned in prior Indulgence Auctions that have 		    
+concluded, but where the debts arising from Winning Bids have neither been 
+paid nor defaulted upon; or
+	(3) have been Auctioned in prior Indulgence Auctions that have 		    
+concluded, and the debts arising from the Winning Bids have 	    been paid, 
+but the Indulgences have not been transferred to 	    the Winning Bidders.
+
+	(c) The Indulgence Surplus is the difference between the IICL and the AICL; 
+if the AICL is greater than the IICL, the Indulgence Surplus is zero.
+
+	(d) If the Indulgence Surplus is positive at the beginning of the month, 
+the Herald shall as soon as possible auction off the surplus Indulgences. 
+The items to be auctioned are individual Indulgences;     the number of 
+items is equal to the Indulgence Surplus, rounded     down to the nearest 
+integer. The Auctioneer shall be the Herald,     and the Auction shall be 
+conducted in Stems.
+
+	(e) The Monthly Bank Indulgence Gain (MBIG) is the number of    Indulgences 
+transferred from other entities to the Bank during a     given Nomic Month, 
+less the number of Indulgences transferred from     the Bank to other 
+entities during that same Nomic Month.
+
+	(f) If the Indulgence Surplus is zero or negative at the beginning of the 
+month, the Herald may still conduct an Indulgence auction, but only if e 
+initiates it within one week after the beginning of the month. The items to 
+be auctioned are individual Indulgences; the number of items is chosen by 
+the Herald, with a minimum of 1 and a     maximum of half the MBIG, rounded 
+down to the nearest integer. The     Auctioneer shall be the Herald, and the 
+Auction shall be conducted     in Stems.
+
+----------------------------------------------------------------------
+
+Proposal 4418 by Steve, AI=1, Ordinary
+Protect the inactive
+
+Proposal
+Protect the inactive
+
+When this Proposal takes effect, any inactive players who became quiet 
+within the previous month become noisy.
+
+Amend Rule 1042 (Deregistration Due to Silence) by replacing the text in it 
+which currently reads:
+
+	(b) A player who has not quietened another player in the past 24 hours may 
+do so by publically identifying the player and stating that e causes that 
+player to become quiet.
+
+with text which reads:
+
+	(b) A player who has not quietened another active, noisy player in the 
+	past 24 hours may cause another active, noisy player to become quiet by 
+publically identifying the player and stating that e causes that player to 
+become quiet.
+
+[Comment: it strikes me as odd that we have these very strong protections 
+against requiring inactive players to do anything, and then we make a 
+solitary exception in the case of selecting Judges, which exception we never 
+invoke anyway. I think it would be more consistent and elegant simply not to 
+require inactive players to be judges, and this is what I propose here.]
+
+Amend Rule 698 (Always an Eligible Judge) to read:
+
+	(a) Each active player is eligible to judge a given CFJ, unless a rule 
+specifically makes em ineligible. Inactive players are ineligible to judge 
+CFJs.
+
+	(b) If the Clerk of the Courts is required to select a Judge, but after 
+taking all other rules affecting eligibility into account, no player is 
+eligible to judge that CFJ, then:
+
+	(1) All active non-barred players become eligible to judge that 	    CFJ.
+
+	(2) If there is still no player eligible to judge, then all 		    active 
+barred players, other than the caller emself, become 	    eligible to judge 
+that CFJ.
+
+	(3) If there is still no eligible Judge, then the game is in 		    serious 
+trouble. My usual advice in such situations is to 		    panic, and run 
+screaming for the hills.
+
+	(c) This Rule takes precedence over other Rules concerning who is and is 
+not eligible to judge CFJs.
+
+-----------------------------------------------------------------------
+
+RedKnight
+
+------------------------------------------------
+If you had made the acquiring of ignorance the study of your life, you could 
+not have graduated with higher honor than you could today.
+-- Mark Twain (from "How I Edited an Agricultural Paper")
+
+_________________________________________________________________
+Add photos to your e-mail with MSN 8. Get 2 months FREE*. 
+http://join.msn.com/?page=features/featuredemail
+
+""",
     // Fill in numbers from "Re: OFF: Distribution of Proposals (not enough time to figure out numbers)"
     "OFF: Distribution of Proposals (not enough time to figure out numbers)" to """
  No.    | Title                         | By       | AI | Date    | Flag
