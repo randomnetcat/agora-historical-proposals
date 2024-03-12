@@ -7,7 +7,10 @@ private val SUMMARY_SECTION_CHECK_REGEX = Regex("AI\\s+II\\s+Proposer\\s+Date\\s
 private val FINAL_SECTION_CHECK_REGEX = Regex("-- \\n-Tiger|-coppro|Promotor's note: |Promotor Tanner L\\. Swett")
 private val IGNORED_TAGS = listOf("Distributable")
 
-fun parseDistributionV8(fullDistributionText: String, backupProposalNumber: ProposalNumber): List<ProposalData> {
+fun parseDistributionV8(
+    fullDistributionText: String,
+    backupProposalNumber: (index: Int) -> ProposalNumber
+): List<ProposalData> {
     val proposalParts = SplitDistribution.withSummaryAndOptFooter(
         fullDistributionText = fullDistributionText,
         separatorRegex = Separators.ALTERNATING_BRACES,
@@ -15,11 +18,11 @@ fun parseDistributionV8(fullDistributionText: String, backupProposalNumber: Prop
         footerRegex = FINAL_SECTION_CHECK_REGEX,
     )
 
-    return proposalParts.map { distributionText ->
+    return proposalParts.mapIndexed { index, distributionText ->
         parseCommonProposal(proposalDistribution = distributionText, metadataParser = { metadataLines ->
             MetadataParsing.keyValueHeaders(
                 metadataLines = metadataLines,
-                backupNumber = backupProposalNumber,
+                backupNumber = backupProposalNumber(index),
                 ignoredTags = IGNORED_TAGS,
             )
         })

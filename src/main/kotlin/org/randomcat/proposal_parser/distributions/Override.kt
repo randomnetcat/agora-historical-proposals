@@ -4,6 +4,7 @@ import kotlinx.collections.immutable.persistentListOf
 import org.apache.james.mime4j.dom.Message
 import org.randomcat.proposal_parser.*
 import java.math.BigDecimal
+import java.math.BigInteger
 import java.time.LocalDate
 
 private val SUBJECT_OVERRIDE_DATA_MAP = mapOf<String, List<ProposalData>>(
@@ -5672,8 +5673,26 @@ Amend Rule 2143 (Official Reports and Duties) by appending:
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]
 
+private val OVERRIDE_PROPOSAL_NUMBERS: Map<Pair<LocalDate, String>, (Int) -> ProposalNumber> = mapOf(
+    (LocalDate.of(2009, 11, 16) to "OFF: [Promotor] Distribution of proposals 6567-6568 and 6570-6580") to { index ->
+        val raw = 6567 + index
+        val adjusted = if (raw >= 6569) raw + 1 else raw
+
+        check(adjusted in 6567..6568 || adjusted in 6570..6580)
+
+        ProposalNumber(BigInteger.valueOf(adjusted.toLong()))
+    },
+)
+
+fun Message.backupProposalNumber(index: Int): ProposalNumber {
+    val overrideFun = OVERRIDE_PROPOSAL_NUMBERS[date.toUtcLocalDate() to subject]
+    if (overrideFun != null) return overrideFun(index)
+
+    return ProposalNumber(backupFirstProposalNumber().plus(index.toBigInteger()))
+}
+
 @OptIn(ExperimentalStdlibApi::class)
-fun Message.backupFirstProposalNumber(): ProposalNumber {
+private fun Message.backupFirstProposalNumber(): BigInteger {
     return subject
         .lowercase()
         .substringAfter("of proposal")
@@ -5682,5 +5701,4 @@ fun Message.backupFirstProposalNumber(): ProposalNumber {
         .substringBefore(" ")
         .substringBefore("-")
         .toBigInteger()
-        .let { ProposalNumber(it) }
 }
