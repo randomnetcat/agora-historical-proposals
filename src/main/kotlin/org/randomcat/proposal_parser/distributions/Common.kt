@@ -41,6 +41,10 @@ fun ProposalData(
     text = text,
 )
 
+private fun Iterable<String>.dropBoundingBlanks(): List<String> {
+    return dropWhile { it.isBlank() }.dropLastWhile { it.isBlank() }
+}
+
 /**
  * @param metadataBeforeBlankNumber The number of blank lines at which the metadata ends. For instance, if this is one,
  * the metadata lines are the lines before the first blank (not including the blank line itself). If this is two,
@@ -51,7 +55,7 @@ fun tryParseCommonProposal(
     metadataParser: (List<String>) -> ProposalCommonMetadataResult?,
     metadataBeforeBlankNumber: Int = 1,
 ): ProposalData? {
-    val lines = proposalDistribution.lines().dropWhile { it.isBlank() }.dropLastWhile { it.isBlank() }
+    val lines = proposalDistribution.lines().dropBoundingBlanks()
 
     val splitResult = lines.splitAtNthBlank(metadataBeforeBlankNumber)
 
@@ -92,6 +96,34 @@ fun parseCommonProposal(
         metadataParser = metadataParser,
         metadataBeforeBlankNumber = metadataBeforeBlankNumber,
     ) ?: error("metadataParser returned null but shouldn't have")
+}
+
+/**
+ * Format:
+ *
+ * Whatever
+ * metadata
+ * lines
+ * Text:
+ * Proposal body
+ */
+fun parseBorderLineProposal(
+    proposalDistribution: String,
+    borderLine: String,
+    metadataParser: (List<String>) -> ProposalCommonMetadataResult,
+): ProposalData {
+    val lines = proposalDistribution.lines().dropBoundingBlanks()
+
+    val borderElement = lines.withIndex().find { it.value.trim() == borderLine }
+
+    if (borderElement == null) {
+        return ProposalData(metadataParser(lines), "")
+    }
+
+    return ProposalData(
+        metadata = metadataParser(lines.subList(0, borderElement.index)),
+        text = lines.subList(borderElement.index + 1, lines.size).joinToString("\n"),
+    )
 }
 
 object Separators {
@@ -205,6 +237,17 @@ object MetadataParsing {
                 ?.map { PlayerName(it) }
                 ?: emptyList(),
         )
+    }
+
+    fun numberThenKeyValueHeaders(metadataLines: List<String>): ProposalCommonMetadataResult {
+        require(metadataLines.isNotEmpty())
+
+        val numberLine = metadataLines[0]
+        require(numberLine.startsWith("Proposal "))
+
+        val number = ProposalNumber(numberLine.substringAfter("Proposal ").toBigInteger())
+
+        return keyValueHeaders(metadataLines.subList(1, metadataLines.size), backupNumber = number)
     }
 
     // Format:
