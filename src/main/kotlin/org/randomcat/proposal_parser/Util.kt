@@ -45,7 +45,7 @@ sealed class BlankLineSplitResult {
         )
     }
 
-    object InsufficientBlanks : BlankLineSplitResult()
+    data object InsufficientBlanks : BlankLineSplitResult()
 }
 
 fun List<String>.splitAtNthBlank(n: Int): BlankLineSplitResult {
