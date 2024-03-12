@@ -57,7 +57,15 @@ private val NONEXISTENT_NUMBERS =
         // Skipped, according to "BUS: Re: DIS: Re: OFF: [Promotor] Distribution 6275-6300 & Report".
         // A proposal was incorrectly assigned 6275 instead of 6273 in "OFF: [Promotor] Super-Emergency Distribution 6275".
         6273,
+        // Skipped: what would have been 6559 in order was assigned 6569, and 6559 was never assigned
+        6559,
     ).map { ProposalNumber(BigInteger.valueOf(it.toLong())) }.toSet()
+
+// 6223 -> no record
+// 6532 -> no record
+// 6548 -> a mess, originally numbered 6546
+// 6682-6685 -> to BAK
+// 6748 -> distribution not in BUS or OFF (but resolution is?)
 
 private fun Message.parseDistribution(): List<ProposalData> {
     val override = this.overridenDistribution()
