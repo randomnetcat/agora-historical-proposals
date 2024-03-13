@@ -6300,6 +6300,169 @@ with:
 [vc awards now make multiple co-author proposals too worthwhile
 and a simple little scam with lots of little proposals.  Therefore
 changing the ribbon award to a classic nomic Prisoners' Dilemma].     
+""",
+    // Put title of 7443 on one line
+    "OFF: [Promotor] Distribution of Proposals 7437-7443" to """
+I hereby distribute each listed proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the eligible
+voters are the active first-class players at the time of this
+distribution, the vote collector is the Assessor, and the valid
+options are FOR and AGAINST (PRESENT is also a valid vote).
+
+Pool report: The Proposal Pool is empty.
+
+NUM  AI  AUTHOR       TITLE
+
+7437 1   Roujo        (untitled)
+7438 2   ais523       Fix adoption index tracking
+7439 1   woggle       he -> e
+7440 1   woggle       When ., -> When ,
+7441 1   Walker       (untitled)
+7442 1   scshunt      No Recordkeeping Burden
+7443 1   Machiavelli  Promises do an acceptable job of handling this,
+......                but a specialized mechanism would probably be
+......                more convenient and less error-prone
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7437 (AI=1, Ordinary) by Roujo
+(untitled)
+
+In rule 2369, "Foreign Relations", replace "Hostile, and Abandoned"
+with "Hostile, Abandoned and Over".
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7438 (AI=2, Ordinary) by ais523
+Fix adoption index tracking
+
+In rule 1950, after "secured with a power threshold of 2", add ", and
+tracked by the Assessor". [This makes more sense than requiring the
+Promotor to report it, as they both need the information, and the
+Assessor is in charge of deadline extensions. It's close, though.]
+
+At the end of rule 1950, add "24 hours after an Agoran Decision is
+resolved, its Adoption Index and Chamber are flipped to their default
+values." [Removes the need to track pointless values on old proposals.]
+
+For each resolved Agoran Decision, and each Agoran Decision created more
+than 90 days ago, flip its Adoption Index and Chamber to their default
+values.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7439 (AI=1, Ordinary) by woggle
+he -> e
+
+Amend rule 2370 (The Ambassador-At-Large) by replacing "he becomes" with "e
+becomes".
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7440 (AI=1, Ordinary) by woggle
+When ., -> When ,
+
+Amend rule 2387 by replacing "question.," with "question,"
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7441 (AI=1, Ordinary) by Walker
+(untitled)
+
+Enact a Rule with the following text:
+
+      Agora's Twentieth Birthday shall be known as the Vigintennial.
+      The Comptroller of the Lord Chamberlain's Office is an office;
+      its holder is responsible for organising the celebration of the
+      Vigintennial.
+
+      A player CAN, with two support, make a former player of Agora an
+      Ancient; the Comptroller SHALL make a reasonable effort to
+      invite each Ancient to contribute to and partake in the
+      celebration of the Vigintennial.
+
+      The Comptroller SHALL, as part of eir weekly duties, submit a
+      proposal regarding the Vigintennial and make a reasonable effort
+      to ensure that it is distributed.
+
+      The Comptroller SHALL be responsible, as part of eir weekly
+      duties, for publicising the Vigintennial both to former players
+      of Agora and to the general public, and for encouraging em to
+      participate in its celebration.
+
+      The Comptroller of the Lord Chamberlain's Office is a patent
+      title; in a timely fashion after the Vigintennial, the Herald
+      SHALL award it to the holder of the office of the same name.
+
+      When Agora is at least twenty years and one week old, any player
+      CAN cause this Rule to repeal itself by announcement.
+
+Enact a Rule with the following text:
+
+      The Comptroller CAN make a non-contest document into a
+      Vigintennial contest or amend the text or gamestate of a contest
+      without 3 objections; he then becomes that contest's
+      contestmaster.
+
+      The Vigintennial contest's instructions should include
+      conditions under which persons "win the contest".  Upon a true
+      announcement by the Comptroller that one or more persons satisfy
+      those conditions, all those persons satisfy the Victory
+      Condition of Jubilee.  Intentionally making a false such
+      announcement is the Class-4 Crime of Gaming the System.
+
+      The Comptroller SHALL obey the text of a Vigintennial contest.
+
+      The Comptroller is, prima facie, the adjudicator of Vigintennial
+      contest instructions and disputes.  Disputes should in general,
+      be resolved with the spirit of the instructions in mind.  For
+      the purpose of determining the internal gamestate of a
+      Vigintennial contest (including whether its Comptroller falsely
+      announced that persons won the contest), its instructions are
+      generally interpreted in the same manner as a rule, but the
+      reasonable opinion of the Comptroller takes precedence.
+
+      If Agora is more than twenty years and one week old, any player
+      CAN cause this Rule to repeal itself by announcement.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7442 (AI=1, Ordinary) by scshunt
+No Recordkeeping Burden
+
+Submitting a promise with an intent other than that the Promise be
+given to another player or to
+      the Tree as a form of binding obligation on the submitter is the
+Crime of Empty Promise.
+
+      The Crime of Empty Promise is Class 3, except when the promise
+in question has empty or
+      irrelevant text, or one or more conditions which are known to be
+indeterminate and are unrelated
+      to the game state or game play, in which case it is Class 5.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7443 (AI=1, Ordinary) by Machiavelli
+Promises do an acceptable job of handling this, but a specialized mechanism would probably be more convenient and less error-prone
+
+Create a rule, titled "Trade Offers":
+
+      A person (the Seller) CAN create a Trade Offer by announcement,
+      specifying a set of assets e offers to trade (the Wares), and a
+      set of assets e wishes to receive in exchange (the Tender).
+
+      Any other person (the Buyer) CAN accept a Trade Offer by
+      announcement.  When this happens, if the Seller owns the Wares
+      and CAN transfer them to the Buyer, and the Buyer owns the
+      Tender and CAN transfer it to the Seller, then the Wares are
+      transferred to the Buyer, the Tender is transferred to the
+      Seller, and the Trade Offer is destroyed.  If any part of this
+      transaction would fail, the entire transaction fails.
+
+      A Seller can destroy (syn. revoke) eir own Trade Offers by
+      announcement.  Trade Offers are automatically destroyed 4 days
+      after they are created.
 """
 )
 
