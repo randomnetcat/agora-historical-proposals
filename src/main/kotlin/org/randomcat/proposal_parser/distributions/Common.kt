@@ -131,6 +131,7 @@ object Separators {
     val ALTERNATING_BRACES = Regex("(?<=\\n)\\}(?:\\{\\}){4,}\\{\\n")
     val CLOSED_ALTERNATING_BRACES = Regex("(?<=\\n)(?:\\{\\}){4,}\\n")
     val HYPHENS = Regex("(?<=\\n)-{10,}\\n")
+    val POUNDS = Regex("(?<=\\n)#{10,}\\n")
 }
 
 object SplitDistribution {

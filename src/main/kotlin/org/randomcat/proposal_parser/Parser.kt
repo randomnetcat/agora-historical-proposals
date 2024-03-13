@@ -30,7 +30,8 @@ private fun Message.isDistributionMessage(): Boolean {
             adjustedSubject.startsWith("[Briefly Promotor] Distribution") ||
             adjustedSubject.startsWith("[Promotor] Redistribution") ||
             adjustedSubject.startsWith("[Deputy Promotor] Corrected Distribution") ||
-            adjustedSubject.startsWith("[assumed promotor] distribution of proposals")
+            adjustedSubject.startsWith("[assumed promotor] distribution of proposals") ||
+            adjustedSubject.startsWith("[Promotor(Momentarily)] Distribution")
 }
 
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
@@ -50,7 +51,8 @@ private val DISTRIBUTION_V11_END_DATE = LocalDate.of(2011, 10, 23)
 private val DISTRIBUTION_V12_END_DATE = LocalDate.of(2012, 1, 10)
 private val DISTRIBUTION_V13_END_DATE = LocalDate.of(2012, 1, 24)
 private val DISTRIBUTION_V14_END_DATE = LocalDate.of(2012, 2, 5)
-private val DISTRIBUTION_V15_END_DATE = LocalDate.of(20112, 2, 5)
+private val DISTRIBUTION_V15_END_DATE = LocalDate.of(2012, 7, 13)
+private val DISTRIBUTION_V16_END_DATE = LocalDate.of(2012, 8, 4)
 
 private val NONEXISTENT_NUMBERS =
     setOf(
@@ -96,6 +98,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V13_END_DATE -> parseDistributionV11(text) // V13 == V11
         date < DISTRIBUTION_V14_END_DATE -> parseDistributionV14(text)
         date < DISTRIBUTION_V15_END_DATE -> parseDistributionV11(text) // V15 == V11
+        date < DISTRIBUTION_V16_END_DATE -> parseDistributionV16(text)
         else -> error("Don't know how to parse")
     }
 }
