@@ -145,7 +145,7 @@ fun main(args: Array<String>) {
             val proposalText =
                 """
 ID: ${proposal.number}
-Title: ${proposal.title}
+Title: ${proposal.title ?: ""}
 Author: ${proposal.author?.toString() ?: "<Unknown>"}
 Co-authors: ${proposal.coauthors.joinToString(", ")}
 Adoption index: ${proposal.ai}

@@ -95,7 +95,7 @@ internal fun doParseHeaderOptTitleLinesMetadata(metadataLines: List<String>): Pr
 
     return ProposalCommonMetadataResult(
         number = header.number,
-        title = if (metadataLines.size == 2) metadataLines[1] else "",
+        title = if (metadataLines.size == 2) metadataLines[1] else null,
         ai = header.ai,
         author = header.author,
         coauthors = header.coauthors,

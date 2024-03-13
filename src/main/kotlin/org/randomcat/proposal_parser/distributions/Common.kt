@@ -10,14 +10,14 @@ import org.randomcat.proposal_parser.distributions.metadata.doParseHeaderTitleLi
 
 data class ProposalCommonMetadataResult(
     val number: ProposalNumber,
-    val title: String,
+    val title: String?,
     val ai: ProposalAI,
     val author: PlayerName?,
     val coauthors: ImmutableList<PlayerName>,
 ) {
     constructor(
         number: ProposalNumber,
-        title: String,
+        title: String?,
         ai: ProposalAI,
         author: PlayerName?,
         coauthors: List<PlayerName>,
@@ -245,7 +245,7 @@ object MetadataParsing {
                 ?.toBigInteger()
                 ?.let { ProposalNumber(it) }
                 ?: requireNotNull(backupNumber),
-            title = metadataMap.getFirstValue("title", "tite", "proposal"),
+            title = metadataMap.getFirstValueOrNull("title", "tite", "proposal"),
             ai = ai,
             author = effectiveAuthor?.let { PlayerName(it) },
             coauthors = metadataMap.getFirstValueOrNull("coauthors", "coauthor")

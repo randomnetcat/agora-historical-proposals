@@ -28,7 +28,7 @@ value class ProposalAI(val raw: BigDecimal) {
 
 data class ProposalData(
     val number: ProposalNumber,
-    val title: String,
+    val title: String?,
     val ai: ProposalAI,
     val author: PlayerName?,
     val coauthors: ImmutableList<PlayerName>,
@@ -36,7 +36,7 @@ data class ProposalData(
 ) {
     constructor(
         number: ProposalNumber,
-        title: String,
+        title: String?,
         ai: ProposalAI,
         author: PlayerName?,
         coauthors: List<PlayerName>,
