@@ -6,6 +6,7 @@ private val SUMMARY_SECTION_CHECK_REGEX = Regex("(NUM|ID)\\s+AI\\s+(CHAMBER\\s+)
 private val FOOTER_REGEX = Regex("-scshunt|—(Promotor )?Machiavelli")
 
 private val IGNORED_TAGS = listOf("Text")
+private val EXCLUDE_REGEX = Regex("^\\s*ID: \\(not distributed\\)")
 
 fun parseDistributionV12(fullDistributionText: String): List<ProposalData> {
     val proposalParts = SplitDistribution.withSummaryAndOptFooter(
@@ -15,7 +16,7 @@ fun parseDistributionV12(fullDistributionText: String): List<ProposalData> {
         footerRegex = FOOTER_REGEX,
     )
 
-    return proposalParts.map {
+    return proposalParts.filter { !it.contains(EXCLUDE_REGEX) }.map {
         parseCommonProposal(proposalDistribution = it, metadataParser = { metadataLines ->
             MetadataParsing.keyValueHeaders(
                 metadataLines = metadataLines,
