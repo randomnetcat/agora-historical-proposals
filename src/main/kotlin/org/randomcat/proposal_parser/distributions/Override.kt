@@ -6463,7 +6463,180 @@ Create a rule, titled "Trade Offers":
       A Seller can destroy (syn. revoke) eir own Trade Offers by
       announcement.  Trade Offers are automatically destroyed 4 days
       after they are created.
-"""
+""",
+    // Remove note in proposal metadata (containing an alternate distribution attempt)
+    "OFF: [Promotor] Emergency Distribution of Proposal 7568" to """
+I assume Promotor, just in case.
+
+I hereby distribute the following proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the eligible
+voters are the active first-class players at the time of this
+distribution, the vote collector is the Assessor, and the valid
+options are FOR and AGAINST (PRESENT is also a valid vote).
+
+(The above should be unambiguous.)
+
+Quorum is unknown, but might be 8, so please vote.
+
+/!\
+
+Please explicitly vote once (FOR*1) on this proposal so that there is
+no ambiguity with voting limits.
+
+/!\
+
+NUM  AI  PF C AUTHOR      TITLE
+
+7568 3    0 O omd, etc.   Agora pulls a B + some ratifications
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7568 (AI=3, PF=Y0, interest index=1?, Ordinary) by omd, Fool
+Agora pulls a B + some ratifications
+
+In rule 1551 (Ratification, Power=3.1), replace the sentence:
+
+      Ratifying a public document is secured.
+
+with:
+
+      Ratifying a public document is secured with power threshold 3.
+
+Ratify the following public documents:
+
+    - woggle's public message of 27 July 2013 titled "OFF:
+      [Rulekeepor] Short Logical Rule]set"
+    - omd's public message of 30 July 2013 titled "OFF: [Registrar]
+      Census"
+    - the portions of Roujo's public message of 29 July 2013 titled
+      "OFF: [CotC] Docket" regarding Posture and Initial Posture
+    - Walker's public message of 12 July 2013 titled "OFF:
+      [Ambassador-at-Large] Foreign Relations"
+    - the portions of Walker's public message of 28 July 2013 titled
+      "OFF: [Yak Herdor] Himalayan Survey" the Yak Herdor is required
+      to report on [omitting the rest on the off-chance it's
+      inaccurate]
+    - Walker's public message of 28 July 2013 titled "OFF: [IADoP]
+      Austere Report"
+    - Walker's public message of 28 July 2013 titled "OFF: [Returning
+      Officer] Parties"
+    - Walker's public message of 12 July 2013 titled "OFF: [Returning
+      Officer] Aims and Objects"
+    - omd's public message of 30 July 2013 titled "OFF: [Promotor]
+      Proposal Pool"
+
+Set the Speed to Normal.
+""",
+    // Remove note in proposal 7569 metadata (containing an alternate distribution attempt)
+    "OFF: [Promotor] Distribution of proposals 7569-7573" to """
+I assume Promotor, and Assessor if I haven't already.
+
+I hereby distribute each listed proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the eligible
+voters are the active first-class players at the time of this
+distribution (i.e. just me), the vote collector is the Assessor
+(me again) and the valid options are FOR and AGAINST (PRESENT is
+also a valid vote).
+
+NUM  AI  PF C AUTHOR       TITLE
+
+7569 3.1  0 O Fool         Ratify the Honourable Officers' reports
+7570 3.1  0 O Fool         Agora pulls a B
+7571 3    0 O Fool         Player endorsement for self-ratification
+7572 3.1  0 O Fool         Ratify the Dishonourable Assessor's report
+7573 3.1  0 O Fool         Ratify the Dishonourable Registrar's report
+
+And I vote FOR*1 all of these.
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7569 (AI=3.1, PF=Y0, interest index=1?, Ordinary) by Fool
+Ratify the Honourable Officers' reports
+
+Ratify the following public documents:
+     - woggle's public message of 27 July 2013 titled "OFF:
+       [Rulekeepor] Short Logical Rule]set"
+     - Walker's public message of 28 July 2013 titled "OFF: [IADoP]
+       Austere Report"
+     - Walker's public message of 28 July 2013 titled "OFF: [Returning
+       Officer] Parties"
+     - Walker's public message of 12 July 2013 titled "OFF: [Returning
+       Officer] Aims and Objects"
+     - omd's public message of 15 July 2013 titled "OFF: [Assessor]
+       Voting Report"
+
+[incomplete, but works for now, should be acceptable to all sides]
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7570 (AI=3.1, PF=Y0, Ordinary) by Fool
+Agora pulls a B
+
+In rule 1551 (Ratification, Power=3.1), replace the sentence:
+
+       Ratifying a public document is secured.
+
+with:
+
+       Ratifying a public document is secured with Power threshold 3.
+
+[ Question for Platonists: When was the last time anything actually
+ratified? ]
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7571 (AI=3, PF=Y0, Ordinary) by Fool
+Player endorsement for self-ratification
+
+Amend rule 2201 (Self-Ratification) by replacing the paragraph:
+
+       A public document defined by the rules as self-ratifying is
+       ratified when it is continuously undoubted for one week.
+
+with:
+
+       A public document defined by the rules as self-ratifying is
+       ratified when it is continuously undoubted for one week,
+       provided:
+         - at the time of publication, its publisher was a player; or
+         - within one week of publication, it was endorsed by someone
+           who was a player at that time; or
+         - at the time of publication, it was defined by the rules as
+           self-ratifying without need of player endorsement.
+
+Amend rule 2170 (Who Am I?) by replacing "self-ratifying" with
+"self-ratifying without need of player endorsement"
+
+[Saves me from having to tediously CoE your reports.
+  And vice-versa, depending on your criminal case against me.
+  Hey, anyone need a black cap? You can borrow mine.]
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7572 (AI=3.1, PF=Y0, Ordinary) by Fool
+Ratify the Dishonourable Assessor's report
+
+The self-ratifying parts of the resolutions for the Agoran decisions
+on proposals 7530-7547, published on July 29th by Fool, are ratified,
+to wit:
+   - that such decisions existed,
+   - that they were resolved as indicated, and
+   - where the indicated outcomes were to adopt proposals, that such
+     proposals existed, were adopted, and took effect.
+
+[cf. rule 2034. Also, ratification without objection would not work
+here.]
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7573 (AI=3.1, PF=Y0, Ordinary) by Fool
+Ratify the Dishonourable Registrar's report
+
+Ratify Fool's public message of 04 Aug 2013 titled "OFF: [Registrar]
+Census"
+""",
 )
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]
