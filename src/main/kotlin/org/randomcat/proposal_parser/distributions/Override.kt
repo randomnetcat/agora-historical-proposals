@@ -2667,7 +2667,21 @@ Enact a new Power-3 Rule:
             coauthors = emptyList(),
             text = "Repeal rule 2324.",
         ),
-    )
+    ),
+    "OFF: Oops, a bit more [Promotor] Distribution of Proposal 7314" to listOf(
+        ProposalData(
+            number = ProposalNumber(7314.toBigInteger()),
+            title = "Top Floor, please",
+            ai = ProposalAI(BigDecimal("3")),
+            author = PlayerName("scshunt"),
+            coauthors = emptyList(),
+            text = """
+Enact a new rule entitled "King of the Hill" with Power 3, reading:
+      scshunt CAN cause this Rule to make arbitrary changes to the
+gamestate by announcement.
+""",
+        ),
+    ),
 )
 
 fun Message.overridenDistribution(): List<ProposalData>? {
@@ -2689,6 +2703,7 @@ private val FORCED_SUBJECTS = setOf(
     LocalDate.of(2010, 12, 15) to
             "OFF: [Briefly Promotor] I needed this one to be in a separate distribution, you'll see why later",
     LocalDate.of(2012, 2, 16) to "BUS: Here goes nothing",
+    LocalDate.of(2012, 9, 26) to "OFF: Oops, a bit more [Promotor] Distribution of Proposal 7314",
 )
 
 fun Message.isIgnoredDistribution(): Boolean {
@@ -5760,6 +5775,451 @@ Wherever Rule 2360 contains the text "The Golemkeepor CAN destroy any
 Golem Without Objection.", change that text to "The Golemkeepor CAN
 destroy any Golem Without Objection. A Golem is eligible to Object to
 any such intent to destroy it."
+""",
+    // Add blank line between metadata and text
+    "OFF: [Promotor] Distribution of Proposals 7284-7297" to """
+I hereby distribute each listed proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the eligible
+voters are the active first-class players at the time of this
+distribution, the vote collector is the Assessor, and the valid
+options are FOR and AGAINST (PRESENT is also a valid vote).  Then,
+I assign each listed proposal the ID number specified under 'NUM'.
+
+NUM  AI  AUTHOR      TITLE
+7284 3.0 FKA441344   No Zero Length Reports
+7285 2.0 omd.        No News Is No News
+7286 1.0 FKA441344   No News Is Some News
+7287 2.0 G.          Faucet Fixing
+7288 2.0 FKA441344   (none)
+7289 3.0 G.          Indeterminism
+7290 3.0 G.          Breaking Promise Circles
+7291 1.0 FKA441344   (none)
+7292 1.0 Machiavelli (none)
+7293 1.7 Murphy      Splitting hairs
+7294 1.7 Murphy      Splitting hairs the other way
+7295 1.0 scshunt     Fuel Up
+7296 3.0 scshunt     Power On
+7297 3.0 scshunt     Slow Down
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7284
+Title: No Zero Length Reports
+Author: FKA441344
+AI: 3.0
+Chamber: Ordinary
+
+ Amend Rule 2162 by replacing the text
+ {
+         Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value.
+ }
+ with the text
+ {
+         Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value, or, if there are no such instances, the fact that
+         there are no such instances.
+ }.
+
+Amend Rule 1607 by replacing the text
+ {
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool.
+ }
+ with the text
+ {
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool, or, if there are no such proposals, the fact
+      that there are no such proposals.
+ }.
+
+Amend Rule 991 by replacing the text
+ {
+      The CotC's report includes the
+      status of all judicial cases without a judgement.
+ }
+ with the text
+ {
+      The CotC's report includes the status of all judicial cases
+      without a judgement, or, if there are no such cases, the fact
+      that there are no such cases.
+ }.
+ Amend Rule 2166 by replacing the text
+ {
+      That entity's report includes a list of all instances of that
+      class and their owners.
+ }
+ with the text
+ {
+      That entity's report includes a list of all instances of that
+      class and their owners, or, if there are no such instances, the fact
+      that there are no such instances.
+ }.
+ Amend Rule 2337 by replacing the text
+ {
+      Horton's weekly report includes the text, author, conditions, and
+      owner of all existing promises.
+ }
+ with the text
+ {
+      Horton's weekly report includes the text, author, conditions, and
+      owner of all existing promises, or, if there are no such promises,
+      the fact that there are no such promises.
+ }.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7285
+Title: No News Is No News
+Author: omd.
+AI: 2.0
+Chamber: Ordinary
+
+If Rule 2162 (Switches) contains a paragraph reading, in its entirety:
+
+      c) Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value.
+
+append to it:
+
+      (If such an office's weekly report is empty, and has not only
+      recently become that way, that officer is ENCOURAGED not to send
+      public messages merely stating the fact.)
+
+[Grump.]
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7286
+Title: No News Is Some News
+Author: FKA441344
+Coauthors: Murphy
+AI: 1.0
+Chamber: Ordinary
+
+ Create a new rule with title "No News Is Some News" and this text:
+       If the rules define a report as including a list, then while that
+       list is empty, that report includes the fact that it is empty.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7287
+Title: Faucet Fixing
+Author: G.
+AI: 2.0
+Chamber: Ordinary
+
+Increase the power of the Rule "The Justiciar" to 2.
+[Need to do this to overrule Offices]
+
+Amend the Rule entitled "The Justiciar" to read:
+
+      The Justiciar is an office; its holder is responsible for hot and
+      cold running justice.
+
+      Rules to the contrary notwithstanding, the Clerk of the Courts
+      CANNOT assume or be nominated for the office of Justiciar, and
+      the Justiciar CANNOT assume or be nominated for the office of
+      Clerk of the Courts.
+
+      A CFJ may be submitted to the Justiciar.  For such a CFJ, the
+      Justiciar shall perform all duties and fulfill all roles that
+      would otherwise be assigned to the Clerk of the Courts. This
+      takes precedence over Rules that would otherwise assign duties
+      and roles regarding a CFJ to the Clerk of the Courts.
+
+      All persons are encouraged to submit a CFJ to the Justiciar only
+      when there is a good reason not to submit it to the Clerk of the
+      Courts.
+
+      If the Justiciar's Posture is neither Standing nor Sitting, then
+      it is flipped to Sitting.
+
+
+Amend Rule 1871 (The Standing Court) by replacing:
+      * Supine (default if the default would otherwise be undefined).
+with
+      * Supine (default if the current value of Initial Posture is
+        undefined; otherwise the current value of Initial Posture is the
+        default).
+
+and by appending this paragraph:
+
+       Initial Posture is an Agora Nomic switch, tracked by the Justiciar
+       in eir monthly report, with the same values as Posture and a
+       default value of Supine.  The Justiciar CAN flip Initial Posture
+       with Support.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7288
+Title: (none)
+Author: FKA441344
+AI: 2.0
+Chamber: Ordinary
+
+ Amend Rule 2166 (Assets) by replacing
+ {
+      any player CAN transfer or destroy it without objection.
+ }
+ with
+ {
+      any player CAN transfer or destroy it with 1.5 Agoran consent
+      or without 2 objections.
+ }.
+}.
+
+I create a proposal with adoption index 1.5 and text
+{
+ Amend the rule titled {The Justiciar}  by replacing
+ {
+      with the same values and default value as Posture.
+ }
+ with
+ {
+      with the same values as Posture, and default value Supine.
+ }.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7289
+Title: Indeterminism
+Author: G.
+AI: 3.0
+Chamber: Ordinary
+
+Amend Rule 1023 (Common Definitions) by appending:
+
+       (c) If a regulated value, or the value of a conditional, or
+           a value otherwise required to determine the outcome of
+           a regulated action, CANNOT be reasonably determined
+           (without circularity or paradox) from information
+           reasonably available, or if it alternates instantaneously
+           and indefinitely between values, then the value is
+           considered to be Indeterminate, otherwise it is
+           Determinate.
+
+[Note that many things can be naturally indeterminate to start out;
+e.g. if a conditional vote depends on events that may happen later
+in the voting period.  So the fixes below and future additions need
+to specify the time at which the indeterminism is measured for legal
+effect; e.g. at the end of the voting period, or when a promise is
+cashed)].
+
+Amend Rule 2127 (Conditional Votes) by replacing:
+                                     and is clearly specified if and
+       only if the value of the condition(s) can be reasonably
+       determined (without circularity or paradox) from information
+       reasonably available during the voting period.
+with:
+                                     and is clearly specified if and
+       only if the value of the condition(s) is/are determinate at
+       the end of the voting period.
+
+
+Amend Rule 2162 (Switches) by appending:
+
+       If an action or set of actions would cause the value of an
+       instance of a switch to become indeterminate, the instance
+       instead takes on its last determinate and possible value,
+       if any, otherwise it takes on its default value.
+
+
+Amend Rule 2338 (Cashing Promises) by replacing:
+       for the promise to be cashed are true
+with:
+       for the promise to be cashed are true and determinate
+
+and by replacing:
+       and all such conditions are true
+with:
+       and all such conditions are true and determinate
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7290
+Title: Breaking Promise Circles
+Author: G.
+AI: 3.0
+Chamber: Ordinary
+
+If Rule 1023 (Common Definitions) contains the word 'Indeterminate'
+then:
+
+  Amend Rule 2338 (Cashing Promises) by inserting the following
+  paragraph after the second paragraph:
+
+      If cashing a promise would lead, through its own actions
+      or actions directly caused by its cashing, to a value being
+      indeterminate an instant after the promise is cashed, then
+      (other provisions of this or other rules notwithstanding)
+      it CANNOT be cashed.
+
+
+If Rule 1023 (Common Definitions) does NOT contain the word
+'Indeterminate' then:
+
+  Amend Rule 2338 (Cashing Promises) by inserting the following
+  paragraph after the second paragraph:
+
+      If cashing a promise would lead, through its own actions
+      or actions directly caused by its cashing, to a value being
+      undefined or unable to be determined (without circularity
+      or paradox) with reasonable effort an instant after the
+      promise is cashed, then (other provisions of this or other
+      rules notwithstanding) it CANNOT be cashed.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7291
+Title: (none)
+Author: FKA441344
+AI: 1.0
+Chamber: Ordinary
+
+ Create a rule with text
+ {
+  if any of the players of this game should find themselves in any
+other game of Nomic, they must make this motion in that game of Nomic
+if it has not been made in that game yet, and if this motion comes up
+for voting, they must vote for it. The motion must be modified to fit
+the motion protocol of that game, but no more.
+ }.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7292
+Title: (none)
+Author: Machiavelli
+AI: 1.0
+Chamber: Ordinary
+
+ Create a rule with text
+ {
+  if any of the players of this game should find themselves in any
+other game of Nomic, they must make this motion in that game of Nomic
+if it has not been made in that game yet, and if this motion comes up
+for voting, they must vote for it. The motion must be modified to fit
+the motion protocol of that game, but no more.
+ }.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7293
+Title: Splitting hairs
+Author: Murphy
+Coauthors: G.
+AI: 1.7
+Chamber: Ordinary
+
+Amend Rule 591 (Inquiry Cases) by replacing this text:
+
+      The valid judgements for an inquiry case are as follows, based
+      on the truth or falsity of the statement at the time the inquiry
+      case was initiated:
+
+with this text:
+
+      The valid judgements for an inquiry case are as follows, based
+      on the truth or falsity of the statement at the time the inquiry
+      case was initiated (if its truth value changed at that time, then
+      its initial truth value is used):
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7294
+Title: Splitting hairs the other way
+Author: Murphy
+Coauthors: G.
+AI: 1.7
+Chamber: Ordinary
+
+Amend Rule 591 (Inquiry Cases) by replacing this text:
+
+      The valid judgements for an inquiry case are as follows, based
+      on the truth or falsity of the statement at the time the inquiry
+      case was initiated:
+
+or, if it does not contain that text, then this text:
+
+      The valid judgements for an inquiry case are as follows, based
+      on the truth or falsity of the statement at the time the inquiry
+      case was initiated (if its truth value changed at that time, then
+      its initial truth value is used):
+
+with this text:
+
+      The valid judgements for an inquiry case are as follows, based
+      on the truth or falsity of the statement at the time the inquiry
+      case was initiated (if its truth value changed at that time, then
+      its final truth value is used):
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7295
+Title: Fuel Up
+Author: scshunt
+AI: 1.0
+Chamber: Ordinary
+
+Simultaneously award N props to each player, where N is, for that
+player, max(14 - P, 0), where P is the number of props e owns.
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7296
+Title: Power On
+Author: scshunt
+AI: 3.0
+Chamber: Ordinary
+
+Amend the rule Democratization by appending
+{{
+      Changing the voting limit of an entity on a Democratic decision is
+      secured with power threshold 3.
+}}
+
+Amend rule 1950 by replacing
+{{
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2
+      if the decision is Ordinary, or 3 otherwise.
+}}
+with
+{{
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2.
+}}
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+ID: 7297
+Title: Slow Down
+Author: scshunt
+AI: 3.0
+Chamber: Ordinary
+
+Amend the rule 'Props' by replacing
+{At the beginning of each week}
+with
+{At the beginning of each month}
+[Resetting every week when a player can make one transfer every week
+will leave everyone at 14 props perpetually unless there is a serious
+concerted effort]
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+-scshunt
 """,
 )
 

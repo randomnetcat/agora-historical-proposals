@@ -224,6 +224,21 @@ object MetadataParsing {
                 .toBigDecimal()
                 .let { ProposalAI(it) }
 
+        val rawAuthor = metadataMap.getFirstValueOrNull("author", "proposer")
+
+        val (effectiveAuthor, authorLineCoauthors) = if (rawAuthor != null) {
+            if (rawAuthor.contains("(co-author")) {
+                val coauthorsPart = rawAuthor.substringAfter("(co-author").removePrefix("s").trim().removeSuffix(")")
+                val coauthors = coauthorsPart.split(" and ")
+
+                rawAuthor.substringBefore("(co-author") to coauthors.map { PlayerName(it) }
+            } else {
+                rawAuthor to emptyList()
+            }
+        } else {
+            null to null
+        }
+
         return ProposalCommonMetadataResult(
             number = metadataMap
                 .getFirstValueOrNull("number", "id", "id number")
@@ -232,11 +247,12 @@ object MetadataParsing {
                 ?: requireNotNull(backupNumber),
             title = metadataMap.getFirstValue("title", "tite", "proposal"),
             ai = ai,
-            author = metadataMap.getFirstValueOrNull("author", "proposer")?.let { PlayerName(it) },
+            author = effectiveAuthor?.let { PlayerName(it) },
             coauthors = metadataMap.getFirstValueOrNull("coauthors", "coauthor")
                 ?.takeIf { it.isNotBlank() }
                 ?.split(", ")
                 ?.map { PlayerName(it) }
+                ?: authorLineCoauthors
                 ?: emptyList(),
         )
     }

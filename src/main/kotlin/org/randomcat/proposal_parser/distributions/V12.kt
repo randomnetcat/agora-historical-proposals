@@ -2,8 +2,8 @@ package org.randomcat.proposal_parser.distributions
 
 import org.randomcat.proposal_parser.ProposalData
 
-private val SUMMARY_SECTION_CHECK_REGEX = Regex("NUM\\s+AI\\s+AUTHOR\\s+TITLE")
-private val FOOTER_REGEX = Regex("-scshunt")
+private val SUMMARY_SECTION_CHECK_REGEX = Regex("(NUM|ID)\\s+AI\\s+(CHAMBER\\s+)?AUTHOR\\s+TITLE")
+private val FOOTER_REGEX = Regex("-scshunt|—(Promotor )?Machiavelli")
 
 private val IGNORED_TAGS = listOf("Text")
 
