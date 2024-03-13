@@ -1,0 +1,9 @@
+ID: 7300
+Title: Explicit Deputisation
+Author: scshunt
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2160 (Deputisation) by appending
+        (e) The deputy, when performing the action, announces that e is doing so
+            by deputisation.

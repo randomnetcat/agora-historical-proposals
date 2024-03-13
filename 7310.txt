@@ -1,0 +1,9 @@
+ID: 7310
+Title: Richard Potato Boat
+Author: scshunt
+Co-authors: 
+Adoption index: 1.0
+
+Enact a new rule reading:
+      scshunt CAN, by announcement, cause this rule to perform a
+specified Rule Change.

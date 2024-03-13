@@ -1,0 +1,17 @@
+ID: 7417
+Title: Blackmail is no fun
+Author: Roujo
+Co-authors: 
+Adoption index: 1
+
+In Rule 2370, "The Ambassador-At-Large", replace:
+    {
+        The Ambassador-At-Large SHALL inform any nomic that receives
+such a claim of its falsehood as soon as possible.
+    }
+    with
+    {
+        The Ambassador-At-Large SHALL, as soon as possible after he
+becomes aware of such a claim, make a reasonable effort to inform any
+nomic that received it of its falsehood.
+    }

@@ -1,0 +1,24 @@
+ID: 7405
+Title: Nerf VCs
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2389 (Ordinary Chamber) by replacing:
+
+      Whenever a proposal is adopted, its author gains a number of
+      VCs equal to the integer part of the proposal's adoption index,
+      and each of the proposal's co-authors who is a first-class
+      player gains one VC.
+
+with:
+
+      Whenever a proposal is adopted, its author gains one VC.
+
+and by replacing "gains two VCs", if present, with "gains one VC".
+
+[Higher-AI proposals aren't necessarily or generally better,
+especially not N times as valuable as an AI-1 proposal, and the
+current system seems to allow for very fast voting limit increases.
+The last bit nerfs my own salary proposal because the original salary
+is intended to keep pace with proposal awards.]

@@ -1,0 +1,37 @@
+ID: 7403
+Title: Avoid "casual" vacancies with a stick
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+[This doesn't make it impossible, since you can still deputise with
+notice or resign 24 hours later, but is intended to make it reasonably
+annoying.]
+
+Amend Rule 2160 (Deputisation) by removing ", or the office is
+vacant".
+
+Amend Rule 1006 (Offices) by replacing:
+
+      The holder of an elected office CAN resign it by announcement,
+      causing it to become vacant.
+
+with:
+
+      The holder of an elected office CAN resign it by announcement,
+      causing it to become vacant, unless e assumed the office within
+      the last 24 hours.
+
+[Explicitly define "assume".]
+
+Amend Rule 2276 by replacing:
+
+      An active first-class player can make emself the holder of an
+      elected office by announcement, provided that the office is
+      either vacant or Assumed.
+
+with:
+
+      An active first-class player can assume an office by
+      announcement, causing em to become its holder, provided that the
+      office is either vacant or Assumed.

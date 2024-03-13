@@ -1,0 +1,8 @@
+ID: 7356
+Title: Aveho Justitiarius!
+Author: G.
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 (The Standing Court) by replacing each instance of
+"Justiciar" with "CotC", and by deleting the word "monthly".

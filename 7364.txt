@@ -1,0 +1,21 @@
+ID: 7364
+Title: Ribbon Evolution
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2387 (Ribbons) by adding the following paragraph after
+the paragraph that begins (+V):
+
+      (+W) A Player CANNOT earn a White Ribbon.  A Player CANNOT earn
+           a White Ribbon if e holds the Patent Title Renascent.
+
+
+Amend Rule 2387 (Ribbons) by appending the following paragraph:
+
+       A Player who holds the Patent Title Renascent, CAN, with 2
+       Support, if e has never done so, cause this rule to amend itself
+       by replacing the sentence between (+W) and "A Player CANNOT earn
+       a White Ribbon if e holds the Patent Title Renascent." with a
+       different, specified sentence that solely contains a means for
+       earning a White Ribbon.

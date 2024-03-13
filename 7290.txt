@@ -1,0 +1,31 @@
+ID: 7290
+Title: Breaking Promise Circles
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+If Rule 1023 (Common Definitions) contains the word 'Indeterminate'
+then:
+
+  Amend Rule 2338 (Cashing Promises) by inserting the following
+  paragraph after the second paragraph:
+
+      If cashing a promise would lead, through its own actions
+      or actions directly caused by its cashing, to a value being
+      indeterminate an instant after the promise is cashed, then
+      (other provisions of this or other rules notwithstanding)
+      it CANNOT be cashed.
+
+
+If Rule 1023 (Common Definitions) does NOT contain the word
+'Indeterminate' then:
+
+  Amend Rule 2338 (Cashing Promises) by inserting the following
+  paragraph after the second paragraph:
+
+      If cashing a promise would lead, through its own actions
+      or actions directly caused by its cashing, to a value being
+      undefined or unable to be determined (without circularity
+      or paradox) with reasonable effort an instant after the
+      promise is cashed, then (other provisions of this or other
+      rules notwithstanding) it CANNOT be cashed.

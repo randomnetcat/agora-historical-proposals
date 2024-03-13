@@ -1,0 +1,21 @@
+ID: 7423
+Title: Declassification
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2150 (Personhood) to read as follows:
+      A person is a biological organism generally capable of communicating by
+      email in English, including via a translation service. A person CAN
+      generally be the subject of rights and obligations under the rules.
+
+Amend Rule 2389 (Ordinary Chamber) by deleting the text "or the total VVLOP of
+all second-class players is greater than the total VVLOP of all first-class
+players," if it is present, and by deleting the text "for first-class
+players and
+zero for second-class players."
+
+Amend each Rule, in numerical order, by deleting each instance of "first-class"
+(a Rule that would not have its text altered by this is not amended).
+
+Repeal Rule 2328

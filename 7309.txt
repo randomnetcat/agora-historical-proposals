@@ -1,0 +1,26 @@
+ID: 7309
+Title: Conditional Destruction
+Author: scshunt
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2337 by replacing:
+      Optionally, the author CAN, in the creating message, specify one
+      or more conditions required to be true for the promise to be
+      cashed, and/or one or more conditions required to be true for
+      the promise not to be destroyed when cashed.
+with:
+      Optionally, the author CAN, in the creating message specify one
+      or more of the following:
+
+         a) a title
+         b) one or more conditions required to be true for the promise
+            to be cashed;
+         c) one or more conditions required to be true for the promise
+            not to be destroyed when cashed; and
+         d) one or more conditions under which the author of the promise
+            can destroy it.
+and by appending:
+      If a promise has one or more conditions under which the author of
+      the promise can destroy it, and they are all satisfied, then the author
+      CAN destroy that promise with notice.

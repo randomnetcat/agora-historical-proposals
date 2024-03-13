@@ -1,0 +1,37 @@
+ID: 7318
+Title: Agoran Decision fixes
+Author: FKA441344
+Co-authors: 
+Adoption index: 3.0
+
+ Amend Rule 208 by replacing the text
+ {
+  The vote collector for an unresolved Agoran decision CAN resolve
+      it by announcement, indicating the option selected by Agora.  If
+      it was required to be initiated, then e SHALL resolve it as soon
+      as possible after the end of the voting period.
+ }
+ with
+ {
+  The vote collector for an unresolved Agoran decision CAN resolve
+      it by announcement, indicating the option selected by Agora, and
+SHALL resolve it as soon
+      as possible after the end of the voting period.
+ }.
+ Amend Rule 955 by replacing the text
+ {
+  (a) If there is more than one available option, and the number
+          of distinct voters who submitted valid ballots is less than
+          quorum, then the outcome is FAILED QUORUM, regardless of the
+          remainder of this rule.  Otherwise, the decision achieved
+          quorum.
+ }
+ with
+ {
+  (a) If there is more than one available option, and at the end of
+the voting period the number
+          of distinct voters who submitted valid ballots was less than
+          what quorum was, then the outcome is FAILED QUORUM, regardless of the
+          remainder of this rule.  Otherwise, the decision achieved
+          quorum.
+ }.

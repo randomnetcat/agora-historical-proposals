@@ -1,0 +1,8 @@
+ID: 7395
+Title: Seventy-Three Ninety-Five
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 2367 "Messy Statements", replace "inaccurate and incorrect"
+with "nonsensical and meaningless".

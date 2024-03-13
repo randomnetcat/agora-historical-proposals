@@ -1,0 +1,13 @@
+ID: 7366
+Title: Cascading Market Failure
+Author: Roujo
+Co-authors: 
+Adoption index: 1.0
+
+Create the following Rule, Cascading Market Failure, power-1:
+
+{
+      Holding a Controlling Interest in a Subject who satisfies a
+      Losing Condition other than the Losing Condition of Subjugation
+      satisfies the Losing Condition of Investing in Nortel Networks.
+}

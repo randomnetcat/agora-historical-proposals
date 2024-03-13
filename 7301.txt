@@ -1,0 +1,10 @@
+ID: 7301
+Title: Fraud
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Enact a new rule with power 1 entitled "Fraud" reading
+      It is ILLEGAL to attempt to perform an impossible action, including
+      publishing a document purporting to be an official report when it is not
+      one.

@@ -1,0 +1,19 @@
+ID: 7280
+Title: Judge Salaries
+Author: FKA441344
+Co-authors: Murphy
+Adoption index: 1.0
+
+ Amend Rule 2362 (Rubles) by replacing this text:
+
+      At the start of each month (after weekly destruction, if it
+      coincides with the start of a week), each player gains a ruble
+      for each Postulated office e holds.
+
+ with this text:
+
+      At the start of each month (after weekly destruction, if it
+      coincides with the start of a week), each player gains a ruble
+      for each Postulated office e holds, and each player whose Posture
+      has not been supine or leaning at any time during the past month
+      gains a ruble.

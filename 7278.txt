@@ -1,0 +1,18 @@
+ID: 7278
+Title: Aerocratic Chamber
+Author: FKA443144
+Co-authors: 
+Adoption index: 2.0
+
+ If no rule titled {Voting Chambers} exists, or no rule titled {Props}
+ exists, this proposal has no effect.
+ Otherwise:
+  Create a power-2 Rule with title {Aerocratic Chamber} and text
+  {
+    Aerocratic is a Voting Chamber. The voting limit of an entity on an
+    Aerocratic Decision is:
+    *If that entity is the Captain, 5
+    *otherwise, if that entity is a Pilot, 3
+    *otherwise, if that entity is not a Marine, 1
+    *otherwise, 0
+  }.

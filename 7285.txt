@@ -1,0 +1,20 @@
+ID: 7285
+Title: No News Is No News
+Author: omd.
+Co-authors: 
+Adoption index: 2.0
+
+If Rule 2162 (Switches) contains a paragraph reading, in its entirety:
+
+      c) Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value.
+
+append to it:
+
+      (If such an office's weekly report is empty, and has not only
+      recently become that way, that officer is ENCOURAGED not to send
+      public messages merely stating the fact.)
+
+[Grump.]

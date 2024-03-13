@@ -1,0 +1,285 @@
+ID: 7425
+Title: Yaks
+Author: Walker
+Co-authors: G., Murphy, omd
+Adoption index: 2
+
+[ A simple currency with large amounts for lots of liquidity. Monthly
+rewards for activity, officers. Candidates to propose salaries during
+elections. An opt-in distributability system for proposal rewards. A
+fixed reward for judging cases. Rewards for registration and
+recruitment. Quarterly wealth taxation. Budget Switches, which can be
+changed according to proposed budgets published during elections.
+Elections, democratisation, veto and rubberstamp, for a fee. ]
+
+Enact a Power 2 Rule entitled "Yaks" with the following text:
+
+      Yaks, with currency symbol 'Y', are a currency; their ownership
+      is restricted to players. The Yak Herdor is an office and
+      recordkeepor of Yaks.
+
+      The maximum FINE amount for Yaks is the value of the Yak FINE
+      Budget Switch.
+
+Append to Rule 2162 (Switches) the following:
+
+      A natural switch is a switch with a default value of 0, unless
+      the rules explicitly specify a different default value.  If the
+      rules define an upper limit for the switch, then the possible
+      values are non-negative integers not greater than that limit,
+      otherwise the values are the non-negative integers.
+
+      A singleton switch is a switch for which Agora Nomic is the only
+      entity possessing an instance of that switch.
+
+Enact a Power 2 Rule entitled "Budget Switches" with the following text:
+
+      A Budget Switch is a switch defined as such by the Rules.
+
+      During the nomination period of an election for an office which
+      is required to track at least one Budget Switch, the candidates
+      CAN publish eir Proposed Budgets, which consist of proposed
+      values of each of the relevant Budget Switches, by announcement.
+      Upon the resolution of such an election, if the winning
+      candidate has a Proposed Budget, the Budget Switches the officer
+      is required to track flip to the values in eir Proposed Budget.
+
+      A player CAN flip a Budget Switch without objection; an officer
+      required to track a particular Budget Switch CAN flip it without
+      three objections, or with Agoran Consent.
+
+      Unless specified otherwise by the Rules, a Budget Switch is a
+      singular natural switch tracked by the Yak Herdor.
+
+Enact a Power 2 Rule entitled "Tax" with the following text:
+
+      The Yak Herdor CAN destroy other players' Yaks by announcement,
+      but SHALL NOT do so except as explicitly required by the Rules;
+      violating this is the Class 7 Crime of Administrative Error.
+
+      As soon as possible after the beginning of each quarter, the Yak
+      Herdor SHALL:
+       a) destroy N of each first-class player's Yaks, where N is
+          (A/100) * the number of Yaks greater than B they owned at
+          the beginning of the quarter, rounded down, and
+       b) destroy M of each second-class player's Yaks, where M is
+          (C/100) * the number of Yaks greater than D they owned at
+          the beginning of the quarter, rounded down, where
+       1) A is equal to the first-class Tax Rate Budget Switch,
+       2) B is equal to the first-class Tax Threshold Budget Switch,
+       3) C is equal to the second-class Tax Rate Budget Switch, and
+       4) D is equal to the second-class Tax Threshold Budget Switch.
+
+Enact a Power 2 Rule entitled "Registration Yaks" with the following text:
+
+      The Registrar CAN award Yaks by announcement, but SHALL NOT do
+      so except as required by the Rules.
+
+      The registration reward is a Budget Switch. As soon as possible
+      after a first-class person registers, the Registrar SHALL award
+      em N Yaks, where N is the value of the registration reward.
+
+      The activity wage is a Budget Switch. As soon as possible after
+      the beginning of each month, the Registrar SHALL award N Yaks to
+      each first-class player who
+       a) was active at the beginning of the month, and
+       b) voted on the last Agoran decision to be resolved in the
+          previous month
+      where N is equal to the activity wage.
+
+      If a first-class person (the recruit), within one week of
+      registering, announces that exactly one player other than emself
+      (the recruitor) recruited em to Agora, then if one month after
+      this announcement the recruit was active and had voted on at
+      least one Agoran decision, the recruitor CAN announce a
+      Recruitment, specifying the identify of the recruit.
+
+      The recruitment reward is a Budget Switch. As soon as possible
+      after a valid announcement of a Recruitment, the Registrar SHALL
+      award N Yaks each to the recruit and the recruitor, where N is
+      the value of the recruitment reward.
+
+Enact a Power 2 Rule entitled "Office Salary" with the following text:
+
+      Salary is a natural office (non-singular) Budget Switch, tracked
+      by the IADoP.
+
+      The IADoP CAN award Yaks by announcement, but SHALL NOT do so
+      except as required by the Rules.
+
+      During the nomination period of an election, each candidate CAN
+      set their proposed salary, a possible value of the office's
+      salary switch, by announcement. If they fail to do so before the
+      end of the nomination period, their proposed salary is set to
+      100. The proposed salaries for each candidate are essential
+      parameters for the Agoran decision to decide the officeholder.
+      The proposed salary of the winning candidate becomes the salary
+      of the office upon the resolution of the relevant decision.
+
+      A player CAN flip the salary of an office without two
+      objections. The holder of a Postulated office CAN decrease its
+      salary by announcement.
+
+      As soon as possible after the beginning of each month, the IADoP
+      SHALL award each officeholder a number of Yaks equal to the sum
+      of the salaries of eir offices for which:
+       a) the officeholder held the office for at least two weeks
+          continuously in the previous month, and
+       b) the officeholder completed all duties required of em as a
+          result of holding the office during the time e held it,
+          within any time limits for doing so.
+
+Enact a Power 2 Rule entitled "Judicial Fees" with the following text:
+
+      The CotC CAN award Yaks by announcement, but SHALL NOT do so
+      except as required by the Rules.
+
+      As soon as possible after a player or an appeals panel judges a
+      judicial case within any time limits for doing so, the CotC
+      SHALL award A Yaks to the player or B Yaks to each member of the
+      judicial panel, where
+      a) A is equal to the value of the Standard Case Fee, a Budget
+         Switch, and
+      b) B is equal to the value of the Standard Appeal Fee, a Budget
+         Switch.
+
+Enact a Power 2 Rule entitled "Proposal Fees" with the following text:
+
+      Proposal fee is a natural undistributed proposal switch, tracked
+      by the Promotor.
+
+      The Assessor CAN award Yaks by announcement, but SHALL NOT do so
+      except as required by the Rules.
+
+      The author of a proposal CAN set its proposal fee by
+      announcement upon its submission. Subsequently, it CAN be set by
+      any player without two objections.
+
+      The proposal fee is an essential parameter for an Agoran
+      decision on whether to adopt the proposal. As soon as possible
+      after a proposal is adopted, the Assessor SHALL award a number
+      of Yaks equal to the value of its fee immediately before it was
+      distributed to its author, and one-third this amount, rounded
+      down, to each of the proposal's co-authors.
+
+In Rule 1607 (Distribution), replace
+
+      The Promotor CAN distribute a proposal which is in the Proposal
+      Pool at any time.  In a given Agoran week, the Promotor SHALL,
+      as part of eir weekly duties, distribute all proposals in the
+      Proposal Pool that were in the Pool at the beginning of that
+      week.
+
+with:
+
+      The Mutability Index (MI) is a Budget Switch.
+
+      A proposal that was in the Proposal Pool at the beginning of a
+      given week is a pending proposal.
+
+      The Promotor CAN distribute a proposal which is in the Proposal
+      Pool at any time.
+
+      In a given Agoran week, the Promotor SHALL, as part of eir
+      weekly duties, distribute the N pending proposals with the
+      highest non-zero Distributability, breaking ties in favour of
+      proposals which were submitted first, where N is equal to the
+      MI. The Promotor SHALL also, as part of eir weekly duties,
+      distribute all disinterested pending proposals.
+
+Enact the following as a Power 2 Rule, entitled "Distributability":
+
+      Distributability is a natural undistributed proposal switch
+      tracked by the Promotor. A player CAN, by announcement, increase
+      the Distributability of a proposal by one for a cost of A Yaks;
+      a player CAN, by announcement, decrease the Distributability of
+      a proposal by two for a cost of B Yaks, where
+      a) A is the value of the Distributability Fee, a Budget Switch,
+         and
+      b) B is the value of the Undistributability Fee, a Budget
+         Switch.
+
+      A disinterested proposal is a proposal identified as such when
+      submitted. If a proposal is disinterested, this is an essential
+      parameter of the decision of whether to adopt it. The remainder
+      of the rules notwithstanding, the proposal fee of a
+      disinterested proposal is 0 and CANNOT be set or changed to any
+      other value.
+
+In Rule 2154 (Election Procedure) replace
+
+       a) by announcement, if e is the IADoP, or the office is vacant
+          or assumed, or no election has been initiated for the office
+          within 90 days before the announcement;
+
+       b) with 4 Supporters, otherwise.
+
+with:
+
+      a) by announcement, if e is the IADoP, or the office is vacant
+         or assumed, or no election has been initiated for the office
+         within 90 days before the announcement;
+
+      b) by announcement, for a cost of N Yaks, where N is the value
+         of the Election Fee, a Budget Switch;
+
+      c) with 4 Supporters, otherwise.
+
+Append to Rule 2374 (Democratization) the following:
+
+      Any player CAN, by announcement, set the Chamber of an entity to
+      Democratic for a cost of N Yaks, where N is equal to the value
+      of the Democratization Fee, a Budget Switch.
+
+Enact a Power 2 Rule entitled "Veto and Rubberstamp" with the following text:
+
+      A player CAN Veto an Ordinary decision with AI <= 3 for a cost
+      of A Yaks by announcement, where A is the value of the Veto Fee,
+      a Budget Switch; this sets its AI to 3.
+
+      A player CAN Rubberstamp an Ordinary decision with AI <= 2 for a
+      cost of B Yaks by announcement, where B is the value of the
+      Rubberstamp Fee, a Budget Switch; this sets its AI to 2, and
+      among the otherwise-valid votes on a decision that has been
+      Rubberstamped, only the first AGAINST vote per voter is valid.
+
+Set the Salary of each office as follows:
+
+Office         Salary
+------------------------
+Ambassador-aL  100
+Assessor       400
+CotC           400
+CBG            200
+Herald         100
+Horton         150
+IADoP          300
+Lexicographor  100
+Promotor       300
+Registrar      250
+Rulekeepor     400
+Yak Herdor     300
+
+Set the value of each of these switches as follows:
+
+Switch             Amount
+--------------------------------
+Mutability Index           10
+Registration Reward       100
+Recruitment Reward        100
+Activity Wage             100
+Standard Case Fee          50
+Standard Appeal Fee        20
+Yak FINE                 4000
+1st class Tax Threshold   200
+1st class Tax Rate         60
+2nd class Tax Threshold     0
+2nd class Tax Rate         60
+Distributability Fee       20
+Undistributability Fee     50
+Election Fee              200
+Democratization Fee       500
+Veto Fee                  400
+Rubberstamp Fee           400
+
+Create 300 Yaks in the possession of each active first-class player.

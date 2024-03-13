@@ -1,0 +1,23 @@
+ID: 7371
+Title: Fix onerous ratification requirement
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+[The intent was to prevent cases where the minimal modification to the
+gamestate required to make something true might be some random (and
+ill-defined) rule change, not prevent a proposal of the form "Repeal
+Rule NNNN" from self-ratifying.]
+
+Amend Rule 1551 (Ratification) by replacing:
+
+      and it cannot include a rule change unless the ratified document
+      purports to include the text, title, and/or power of the rule
+      being changed.
+
+with:
+
+      and it cannot include a rule change unless the ratified document
+      explicitly mentions that an action defined by the rules as a
+      Rule Change was performed, or purports to be (a portion of) a
+      format of the ruleset.

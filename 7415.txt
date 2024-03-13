@@ -1,0 +1,21 @@
+ID: 7415
+Title: Classic Nomic Ribbon
+Author: G.
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2387 (Ribbons) by replacing:
+
+      (+L) A player qualifies for a Lime Ribbon, if e was the
+           co-author of at least three Proposals adopted in the
+           previous week.
+with:
+      (+L) If a proposal is adopted, and if only one Player
+           other that the proposal's author cast (and did not
+           retract) one or more valid votes AGAINST the proposal,
+           than both the casting player and the author of the
+           proposal earn a Lime Ribbon.
+
+[vc awards now make multiple co-author proposals too worthwhile
+and a simple little scam with lots of little proposals.  Therefore
+changing the ribbon award to a classic nomic Prisoners' Dilemma].

@@ -1,0 +1,37 @@
+ID: 7317
+Title: Make quorum manipulation harder for Plutocratic proposals
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 879 (Quorum) to read:
+
+      Quorum for an Agoran decision is as follows, where N is the
+      number of eligible voters with a positive voting limit on that
+      decision:
+
+      - if the decision is Plutocratic, N/2 rounded up;
+
+      - otherwise, N/3 rounded up, with a minimum of five (unless this
+        is greater than N, in which case quorum is N).
+
+[What Murphy used to defeat my repeal-Props proposal - but it's too
+powerful.  Except on rather popular proposals, it's effectively a
+one-person veto, since if the proposal gets less than five valid
+votes, a single no-vote is enough to kill it (though if it does get
+five, it's good for quorum all the way to 10 no-votes, which is a bit
+weird).]
+
+Proposal: Two-way Plutocracy (AI=2)
+
+Amend Rule 2375 (Plutocratic Chamber) by replacing:
+
+      Any entity may spend a Ruble to increase an entity's voting
+      limit on a Plutocratic Decision by 1.
+
+with:
+
+      Any entity may spend a ruble to increase an entity's voting
+      limit on a Plutocratic Decision by one.  Any entity may spend
+      two rubles to decrease an entity's voting limit on a Plutocratic
+      Decision by one (to a minimum of zero).

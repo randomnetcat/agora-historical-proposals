@@ -1,0 +1,16 @@
+ID: 7334
+Title: Precedence of unnumbered rules
+Author: woggle
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 1030 by replacing:
+
+      - The Rule with lower ID number takes precedence.
+
+with:
+
+      - If any of the rules in conflict have ID numbers, then the Rule
+        with the lowest ID number takes precedence; otherwise,
+
+      - The Rule enacted earliest takes precedence.

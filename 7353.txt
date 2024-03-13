@@ -1,0 +1,14 @@
+ID: 7353
+Title: Renaissance unribbonworthiness
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2387 "Ribbons", replace the sentence "When a player is awarded
+the Patent Title Champion, e earns an Ultraviolet Ribbon." with "When
+a player is awarded the Patent Title Champion, if e does not possess
+the Patent Title Renascent, e earns an Ultraviolet Ribbon." [The
+Transparent Ribbon is intended to make subsequent wins by Renaissance
+more difficult, by giving people who haven't yet won by Renaissance a
+head start; however, this head start is negated if people who win by
+Renaissance get a ribbon for it.]

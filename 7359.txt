@@ -1,0 +1,11 @@
+ID: 7359
+Title: Proxy Loss
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Create the following Rule, Proxy Loss, power-1:
+
+      Satisfying a Victory Condition while being the subject of
+      another player's Controlling Interest is the Losing
+      Condition of Subjugation.

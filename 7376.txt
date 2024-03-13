@@ -1,0 +1,11 @@
+ID: 7376
+Title: Listen to the Speaker
+Author: Machiavelli
+Co-authors: 
+Adoption index: 2.0
+
+Enact a rule with power 2, titled "Listen to the Speaker":
+
+      The Speaker CAN make emself the holder of an elected office by
+      announcement.  The Speaker CAN flip the Assumption of an elected
+      office by announcement.

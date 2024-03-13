@@ -1,0 +1,11 @@
+ID: 7379
+Title: Making things a little more ordinary
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 2350 "Proposals", remove the list item "A Chamber."  To the
+paragraph beginning "Creating a proposal adds it to the Proposal
+Pool", append the sentence "The Chamber of a proposal is initially
+Ordinary if its adoption index is less than 2, and Democratic
+otherwise."

@@ -1,0 +1,8 @@
+ID: 7341
+Title: Oh, for the love of
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2386 by replacing "attack" with "heal" in the sentence "If
+a unit heals, it cannot attack again in the same Agoran week."

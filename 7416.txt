@@ -1,0 +1,22 @@
+ID: 7416
+Title: Not my job
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[I believe that the adoption index and chamber of all proposals and
+decisions are presently in my weekly report.]
+
+Amend Rule 2139 (The Registrar) by replacing:
+
+      The Registrar is also responsible for tracking any switches that
+      would otherwise lack an officer to track them.
+
+with:
+
+      The Registrar is also responsible for tracking any switches that
+      would otherwise lack an officer to track them, unless the switch
+      is defined as untracked.
+
+Amend Rule 1950 (Decisions with Adoption Indices) by replacing "a
+switch" with "an untracked switch" in the first two paragraphs.

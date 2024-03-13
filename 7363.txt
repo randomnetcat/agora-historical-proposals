@@ -1,0 +1,10 @@
+ID: 7363
+Title: Scale peaks to 0 dB
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+Award 2 VCs to G., 6 VCs to woggle, and 4 VCs to Machiavelli. [This is
+the amount they would have gotten if their proposals had been adopted
+after Rule 2390 was enacted.] Destroy half of each person's VCs,
+rounded down.

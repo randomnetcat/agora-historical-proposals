@@ -1,0 +1,14 @@
+ID: 7396
+Title: Plan B
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend the rule "Regeneration" by prepending to the numbered list the
+following:
+
+          0. Time is stopped.  Whatever means used in the universe to
+             track time is stopped as of the beginning of the
+             regeneration.  As a result, it is IMPOSSIBLE to spend
+             time writing messages, so no actions may be taken,
+             including the ones in this rule.

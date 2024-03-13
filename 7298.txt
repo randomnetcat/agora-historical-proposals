@@ -1,0 +1,15 @@
+ID: 7298
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 2.0
+
+ Amend Rule 2166 (Assets) by replacing
+ {
+      any player CAN transfer or destroy it without objection.
+ }
+ with
+ {
+      any player CAN transfer or destroy it with 1.5 Agoran consent
+      or without 2 objections.
+ }.

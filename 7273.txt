@@ -1,0 +1,9 @@
+ID: 7273
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 1.0
+
+ Amend Rule 2369 by replacing {tracked by the Ambassador,} with
+ {tracked by the Ambassador-At-Large,} and replacing {Any person may flip}
+ with {Any person CAN flip}.

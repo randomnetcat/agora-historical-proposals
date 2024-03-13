@@ -1,0 +1,9 @@
+ID: 7350
+Title: Justice Fix
+Author: G. 
+Co-authors: Machiavelli
+Adoption index: 1.5
+
+If the Rules do not explicitly define Justiciar as an office, amend
+Rule 1871 (The Standing Court) by replacing all instances of
+"Justiciar" with "Ambassador-At-Large".

@@ -1,0 +1,13 @@
+ID: 7297
+Title: Slow Down
+Author: scshunt
+Co-authors: 
+Adoption index: 3.0
+
+Amend the rule 'Props' by replacing
+{At the beginning of each week}
+with
+{At the beginning of each month}
+[Resetting every week when a player can make one transfer every week
+will leave everyone at 14 props perpetually unless there is a serious
+concerted effort]

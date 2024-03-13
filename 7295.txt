@@ -1,0 +1,8 @@
+ID: 7295
+Title: Fuel Up
+Author: scshunt
+Co-authors: 
+Adoption index: 1.0
+
+Simultaneously award N props to each player, where N is, for that
+player, max(14 - P, 0), where P is the number of props e owns.

@@ -1,0 +1,14 @@
+ID: 7276
+Title: Plutocratic Chamber
+Author: FKA441344
+Co-authors: 
+Adoption index: 2.0
+
+ If no rule titled {Voting Chambers} exists, this proposal has no effect.
+ Otherwise:
+  Create a Power-2 rule with title {Plutocratic Chamber} and text
+  {
+    Plutocratic is a Voting Chamber. The default voting limit of an
+    entity on a Plutocratic Decision is zero. Any entity may spend a Ruble
+    to increase an entity's voting limit on a Plutocratic Decision by 1.
+  }.

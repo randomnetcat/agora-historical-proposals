@@ -1,0 +1,9 @@
+ID: 7304
+Title: Speed Up
+Author: FKA443144
+Co-authors: 
+Adoption index: 1.0
+
+ Amend Rule 2376 by replacing {Once per week} with {Twice per week}.
+ If Rule 2376 contains the text {At the beginning of each month}, amend
+ that rule by replacing that text with {At the beginning of each week}.

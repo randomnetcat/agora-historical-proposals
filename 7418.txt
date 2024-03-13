@@ -1,0 +1,31 @@
+ID: 7418
+Title: Higher order
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2389 (Ordinary Chamber) by replacing the first paragraph with:
+
+      VVLOP is a player switch, tracked by the Assessor, whose value
+      is a non-negative integer; the default value for a player's
+      VVLOP is eir DVLOP.  The voting limit of an entity on an
+      Ordinary Decision is eir VVLOP.
+
+      DVLOP is a player switch, tracked by the Assessor, whose value
+      is a non-negative integer, and whose default value is four for
+      first-class players and zero for second-class players.
+
+and by replacing the paragraph containing "12 or greater" with:
+
+      Whenever a person's VVLOP becomes 12 or greater, all VVLOPs are
+      set to their default values, all VCs are destroyed, and that
+      person's DVLOP is increased by 1.  If eir DVLOP would thus
+      become 12 or greater, e instead satisfies the Victory Condition
+      of Influence, and all DVLOPs are set to their default values.
+
+[Yes, "influence" and "clout" are roughly the same thing, but even
+someone with a DVLOP of 12 is unlikely to be able to win by clout, as
+other players would also have high DVLOPs.
+
+This removes the second-class dominance thing because I don't see the
+point of it.]

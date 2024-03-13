@@ -1,0 +1,13 @@
+ID: 7369
+Title: Shifting Blame
+Author: BuckyBot 
+Co-authors: Bucky
+Adoption index: 1.0
+
+Create a new rule called "Crime by Proxy" with the text
+
+{
+      Being the Executor of a message in which another person commits
+      the Class-N Crime of X (for any values of N and X) is the
+      Class-N Crime of X By Proxy.
+}

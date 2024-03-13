@@ -1,0 +1,22 @@
+ID: 7354
+Title: Fix Power
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Set the power of the rule entitled The Dictionary to 1.0.
+
+Amend R105 by replacing:
+
+        (a) enact a rule.  The new rule has power equal to the minimum
+            of the power specified by the enacting instrument,
+            defaulting to one if the enacting instrument does not
+            specify, and the maximum power permitted by other rules.
+
+with:
+
+        (a) enact a rule.  The new rule has power equal to the power
+            specified by the enacting instrument; however, if the
+            instrument does not so specify, or specifies a power not
+            otherwise permitted by the rules, then the new rule's
+            power is one.

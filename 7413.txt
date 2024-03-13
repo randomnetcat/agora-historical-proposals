@@ -1,0 +1,9 @@
+ID: 7413
+Title: Protect VVLOP 3
+Author: woggle
+Co-authors: 
+Adoption index: 3.0
+
+Set the power of Rule 2390 (Ordinary Chamber) to 3.
+
+Set the power of Rule 2166 (Assets) to 3.

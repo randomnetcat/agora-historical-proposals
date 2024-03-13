@@ -1,0 +1,15 @@
+ID: 7402
+Title: Avoid "casual" vacancies with a carrot
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2389 (Ordinary Chamber) by appending to the second
+paragraph:
+
+      At the end of each week, the person (if any) who held each
+      office for the entire week gains two VCs.
+
+[Fines are encouraged in cases where officeholders don't do their
+duties, but I'd rather not make it platonic.  I was thinking of doing
+a salary switch, but I don't think it would be awfully useful.]

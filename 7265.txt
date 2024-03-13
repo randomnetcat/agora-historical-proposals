@@ -1,0 +1,14 @@
+ID: 7265
+Title: Criminal quanitifiers
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+In bullet point (d) of rule 1504, change "the Accused could have
+reasonably believed that the alleged act did violate the specified rule"
+to "the Accused should have reasonably believed that the alleged act did
+violate the specified rule".
+
+[When the rule was changed from being written in negatives to being
+written in positives, the change in part (d) seems not to have taken De
+Morgan's Law into account.]

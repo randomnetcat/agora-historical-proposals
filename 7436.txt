@@ -1,0 +1,8 @@
+ID: 7436
+Title: De-persist commitments
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2337 (Promises) by replacing "limited to persons" with
+"limited to players."

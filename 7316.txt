@@ -1,0 +1,18 @@
+ID: 7316
+Title: Democratic People's Republic
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 2373 (Voting Chambers) by removing:
+
+      Democratic is a Voting Chamber.
+
+Retitle Rule 2374 (Democratization) to "Democratic Chamber", and amend
+it to read:
+
+      Democratic is a Voting Chamber.  If the Chamber of an entity is
+      not Democratic, any first-class Player CAN set it to Democratic
+      with 3 Agoran Consent.  Rules to the contrary notwithstanding,
+      the voting limit of an eligible voter on a Democratic decision
+      is 1.

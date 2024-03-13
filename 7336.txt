@@ -1,0 +1,13 @@
+ID: 7336
+Title: Down with Rubles
+Author: woggle
+Co-authors: 
+Adoption index: 2.0
+
+Repeal rule 2362 (Rubles), rule 2363 (Poll Fees), and rule 2364
+(Ballot Fees).
+
+Amend rule 103 by replacing the paragraph starting "Each player has a
+Speaker Account" with:
+
+      The office of the Speaker is vacant.

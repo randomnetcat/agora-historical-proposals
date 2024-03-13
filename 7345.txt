@@ -1,0 +1,14 @@
+ID: 7345
+Title: Power of the Elders
+Author: woggle
+Co-authors: 
+Adoption index: 3.0
+
+Set the power of rule 2357 to 3.
+
+Amend Rule 2357 by replacing "The eligible voters on" with "Rules to
+the contrary notwithstanding, the eligible voters on".
+
+[Current R1950 defines the eligible voters for all decisions with
+adoption indices at power 3, making R2357's attempt to do so for
+Gerontocratic decisions ineffective.]

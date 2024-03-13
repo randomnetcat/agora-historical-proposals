@@ -1,0 +1,31 @@
+ID: 7267
+Title: Still Crazy after all these Years
+Author: G.
+Co-authors: 
+Adoption index: 1
+
+ Enact the following Rule, Insanity Clause, power-1:
+
+       An Proposal is Insane, if it contains no minuscule letter.
+       (That is the opposite of CAPITAL, for those who know not
+          better.)
+
+       For such a Proposal, until the Voting Period has ended:
+       there shall be no discussing Votes, or this Rule has been
+          bended.
+       Nor shall a Player Vote in public, and its Chamber is the
+       Star.
+       So the Votes are unknown to others, no matter who they are.
+
+       And should a Player split eir votes 'tween FOR and
+           AGAINST like crazy,
+       E will annoy Assessors (who are known for being lazy)
+       So should eir votes cast differ from each other, this Rule's
+           broke,
+       With the breaker being the voting Player, as sure as if e'd
+           spoke.
+
+       And should such a Proposal's Voting Period begin,
+       but no one Votes FOR it, the Proposer shall Win.
+
+ [Note: it doesn't work, because private votes are not votes.]

@@ -1,0 +1,38 @@
+ID: 7370
+Title: Prevent identification of something or other
+Author: omd
+Co-authors: 
+Adoption index: 3.0
+
+[Upon review, I guess I misunderstood Judge ais523's arguments in CFJ
+3297; however, despite my curmudgeonliness, I still don't think the
+fix proposal was adequate.  We seem to be interpreting "constitutes
+self-ratifying claims that X" as "is self-ratifying, but self-ratifies
+as if it said [only] X", but aside from that being a lot of inference
+and possibly being ineffective due to conflict with Rule 1551, it gets
+messy when multiple decisions are resolved in the same message,
+definitely prevents individual decisions from being CoEd in such a
+case (after the fix), and is probably wrong in the unlikely
+circumstance that the (entire) message is separately defined as
+self-ratifying.  It might be a better idea to revisit the concept of
+self-ratification, since it's usually applied awkwardly to "a portion"
+or even an implicit part of a message, but in lieu of that, here's
+some explicitness.]
+
+Amend Rule 2034 by replacing:
+
+       A public message purporting to resolve an Agoran decision
+       constitutes self-ratifying claims that
+
+       a) such a decision existed,
+       b) it was resolved as indicated, and
+       c) (if the indicated outcome was to adopt a proposal) such a
+          proposal existed, was adopted, and took effect.
+
+with:
+
+      The portions of a public message that purport to resolve an
+      Agoran decision (including all relevant details reported about
+      the decision) are self-ratifying, and imply that such a decision
+      existed, and (if the indicated outcome was to adopt a proposal)
+      that such a proposal existed, was adopted, and took effect.

@@ -1,0 +1,15 @@
+ID: 7302
+Title: Weekly Salaries
+Author: FKA443144
+Co-authors: 
+Adoption index: 1.0
+
+ Amend Rule 2362 by replacing the text
+ {
+  At the start of each month (after weekly destruction, if it
+  coincides with the start of a week),
+ }
+ with
+ {
+  At the start of each week (after weekly destruction),
+ }.

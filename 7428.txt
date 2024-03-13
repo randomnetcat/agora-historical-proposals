@@ -1,0 +1,12 @@
+ID: 7428
+Title: Agoran arms in a rule
+Author: omd
+Co-authors: Zefram, GreyKnight
+Adoption index: 1
+
+Enact a rule titled "Agoran Arms" with text
+
+      The escutcheon of Agora is defined by the following blazon:
+      Tierced palewise sable, argent, and sable, charged with a quill
+      and an axe in saltire, proper, and in the chief a capital letter
+      A, gules.

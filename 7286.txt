@@ -1,0 +1,9 @@
+ID: 7286
+Title: No News Is Some News
+Author: FKA441344
+Co-authors: Murphy
+Adoption index: 1.0
+
+ Create a new rule with title "No News Is Some News" and this text:
+       If the rules define a report as including a list, then while that
+       list is empty, that report includes the fact that it is empty.

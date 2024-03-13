@@ -1,0 +1,9 @@
+ID: 7324
+Title: Do golems have free will?
+Author: Machiavelli
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2361, replace the rule "The owner of a Slave Golem CAN cause
+it to take actions that are not otherwise IMPOSSIBLE by announcement."
+with "The owner of a Slave Golem CAN publish messages on its behalf."

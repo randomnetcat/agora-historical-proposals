@@ -1,0 +1,14 @@
+ID: 7384
+Title: Bulletproof potato cleanup
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+Repeal rule 2380.
+
+Repeal every rule that was created since 9 April 2013, in the order
+those rules were created.
+
+If any rules were amended since 9 April 2013, amend each of those
+rules back to their wording as of 9 April 2013, in numerical order of
+ID number.

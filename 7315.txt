@@ -1,0 +1,9 @@
+ID: 7315
+Title: Power of the Herald
+Author: omd
+Co-authors: 
+Adoption index: 1.5
+
+      The Herald CAN award a specified Patent Title not already
+      defined by any Rule or held by any entity to a specified player
+      With 2 Agoran Consent.

@@ -1,0 +1,7 @@
+ID: 7382
+Title: Плутократия!
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Set omd's power to 1.

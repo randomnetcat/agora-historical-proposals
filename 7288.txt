@@ -1,0 +1,27 @@
+ID: 7288
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 2.0
+
+ Amend Rule 2166 (Assets) by replacing
+ {
+      any player CAN transfer or destroy it without objection.
+ }
+ with
+ {
+      any player CAN transfer or destroy it with 1.5 Agoran consent
+      or without 2 objections.
+ }.
+}.
+
+I create a proposal with adoption index 1.5 and text
+{
+ Amend the rule titled {The Justiciar}  by replacing
+ {
+      with the same values and default value as Posture.
+ }
+ with
+ {
+      with the same values as Posture, and default value Supine.
+ }.

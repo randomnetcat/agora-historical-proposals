@@ -1,0 +1,11 @@
+ID: 7358
+Title: Proxy Victory
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Create the following Rule, Proxy Victory, power-1:
+
+      Holding a Controlling Interest in a Subject who satisfies
+      a Victory Condition other than this one satisfies the
+      Victory Condition of Proximation.

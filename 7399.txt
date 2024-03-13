@@ -1,0 +1,9 @@
+ID: 7399
+Title: FIFO
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 683 "Voting on Agoran Decisions", in the phrase "only the
+first N submitted by each entity are valid", replace "first" with
+"last".

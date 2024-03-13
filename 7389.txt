@@ -1,0 +1,7 @@
+ID: 7389
+Title: How Boring
+Author: scshunt
+Co-authors: 
+Adoption index: 1.0
+
+Repeal rule 2356 (Naughtiness).

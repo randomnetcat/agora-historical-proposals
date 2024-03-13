@@ -1,0 +1,19 @@
+ID: 7414
+Title: (untitled)
+Author: Roujo
+Co-authors: 
+Adoption index: 1
+
+In Rule 2369, "Foreign Relations", add the following paragraph after
+the first one:
+      {
+      Sanity is a foreign nomic switch, tracked by the
+Ambassador-At-Large, with values Unknown (default), Sane, Insane and
+B-level. Players SHOULD NOT attempt to make sense of what goes on in
+Insane or B-level foreign nomics. Attempting to make sense of what
+goes on in a B-level foreign nomic is the Class-2 Crime of Suffusion
+of Yellow. The Ambassador-at-Large CAN, with Agoran Consent, switch a
+foreign nomic's sanity to any value. The Ambassador-at-Large SHOULDN'T
+switch a foreign nomic's sanity to Insane. Switching a foreign nomic's
+value to B-level is the Class-4 Crime of The King in Yellow.
+      }

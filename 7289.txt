@@ -1,0 +1,52 @@
+ID: 7289
+Title: Indeterminism
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Amend Rule 1023 (Common Definitions) by appending:
+
+       (c) If a regulated value, or the value of a conditional, or
+           a value otherwise required to determine the outcome of
+           a regulated action, CANNOT be reasonably determined
+           (without circularity or paradox) from information
+           reasonably available, or if it alternates instantaneously
+           and indefinitely between values, then the value is
+           considered to be Indeterminate, otherwise it is
+           Determinate.
+
+[Note that many things can be naturally indeterminate to start out;
+e.g. if a conditional vote depends on events that may happen later
+in the voting period.  So the fixes below and future additions need
+to specify the time at which the indeterminism is measured for legal
+effect; e.g. at the end of the voting period, or when a promise is
+cashed)].
+
+Amend Rule 2127 (Conditional Votes) by replacing:
+                                     and is clearly specified if and
+       only if the value of the condition(s) can be reasonably
+       determined (without circularity or paradox) from information
+       reasonably available during the voting period.
+with:
+                                     and is clearly specified if and
+       only if the value of the condition(s) is/are determinate at
+       the end of the voting period.
+
+
+Amend Rule 2162 (Switches) by appending:
+
+       If an action or set of actions would cause the value of an
+       instance of a switch to become indeterminate, the instance
+       instead takes on its last determinate and possible value,
+       if any, otherwise it takes on its default value.
+
+
+Amend Rule 2338 (Cashing Promises) by replacing:
+       for the promise to be cashed are true
+with:
+       for the promise to be cashed are true and determinate
+
+and by replacing:
+       and all such conditions are true
+with:
+       and all such conditions are true and determinate

@@ -1,0 +1,8 @@
+ID: 7401
+Title: ON DELETE CASCADE
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3.0
+
+To Rule 2337, append the paragraph "If a promise's author ceases to
+exist, the promise is destroyed."

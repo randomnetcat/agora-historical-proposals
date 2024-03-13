@@ -1,0 +1,15 @@
+ID: 7430
+Title: The Envoy
+Author: omd
+Co-authors: Zefram
+Adoption index: 1
+
+Create a rule titled "The Envoy" with the text:
+
+     The person who is most responsible for advertising Agora and
+     soliciting new Players, in the opinion of the Speaker, shall be
+     known as the Envoy.  Any changes in the identity of the Envoy
+     shall take effect when announced publicly by the Speaker.
+
+     The Envoy shall advertise Agora on a regular basis in any
+     non-Agoran public forums e deems appropriate.

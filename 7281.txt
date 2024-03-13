@@ -1,0 +1,10 @@
+ID: 7281
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 1.0
+
+ Amend Rule 2340 by adding at the end of the first paragraph the text
+ {
+  A player CAN, with two support, make a specified case Notable.
+ }.

@@ -1,0 +1,23 @@
+ID: 7279
+Title: Opting Out, or Return of the Justiciar
+Author: FKA443144
+Co-authors: Murphy
+Adoption index: 1.5
+
+ Amend Rule 1871 (The Standing Court) by replacing "(default)" with
+ "(default if the default would otherwise be undefined)".
+
+ Create a rule titled "The Justiciar" with Power 1.5 and this text:
+
+      The Justiciar is an office; its holder is responsible for hot and
+      cold running justice.
+
+      Initial Posture is an Agora Nomic switch, tracked by the Justiciar
+      in eir monthly report, with the same values and default value as
+      Posture.  The Justiciar CAN flip Initial Posture by announcement.
+      The default value of Posture is the current value of Initial Posture.
+
+      If the Justiciar's Posture is neither Standing nor Sitting, then
+      it is flipped to Sitting.
+
+ Flip Initial Posture to Standing.

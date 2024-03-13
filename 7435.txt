@@ -1,0 +1,47 @@
+ID: 7435
+Title: Numericity
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Enact a new power-3 rule entitled "Integral Switches" as follows:
+      An integral switch is a switch defined as such by the rules. An
+      integral switch may be defined to have any or all of:
+        * An Upper Limit
+        * A Maximum
+        * A Lower Limit
+        * A Minimum
+
+      Unless otherwise specified, a switch's Maximum is its Upper Limit,
+      if any, and its Minimum is its Lower Limit, if any. A natural
+      switch is an integral switch with a Lower Limit and Minimum of 0.
+
+      An integral switch's possible values are the integers between its
+      Lower Limit and Upper Limit, inclusive. If one or both limits does
+      not exist, then the values extend infinitely in that direction.
+
+      A Modifier to an instance of integral switch is an integer value
+      that modifies the switch's value.  Modifiers exist only where
+      continuously defined by a rule; in particular, Modifiers cannot
+      exist independently of the rule definint them. The modified value
+      of an instance of an integral switch is its value, plus the sum of
+      all its Modifiers, but never more than the switch's Maximum or
+      less than its Minimum. The unmodified value of an instance of an
+      integral switch is its value without Modifiers.
+
+      Unless explicitly stated otherwise, all references in rules, other
+      than this rule and Rule 2162, to the value of an instance of an
+      integral switch are references to its modified value. This does
+      not apply when flipping the switch; all flips of integral switches
+      are done to the unmodified value.
+
+      When the value of a switch is part of an officer's report, then
+      that report includes all modifiers applying to instances of that
+      switch, even those that are at their default values.
+
+Amend the first sentence of Rule 2389 (Ordinary Chamber) to read as
+follows:
+
+      VVLOP is a natural player switch, tracked by the Assessor, whose
+      default value is four for first-class players and zero for
+      second-class players.

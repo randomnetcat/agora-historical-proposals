@@ -1,0 +1,19 @@
+ID: 7275
+Title: Gerontocratic Chamber
+Author: FKA441344
+Co-authors: ehird
+Adoption index: 2.0
+
+ If no rule titled {Voting Chambers} exists, this proposal has no effect.
+ Otherwise:
+  Amend Rule 2357 by adding after the second paragraph the text
+  {
+       Gerontocratic is a Voting Chamber. The voting limit of any non-elder
+       on a Gerontocratic decision is zero, rules to the contrary
+       notwithstanding.
+  }
+  , and adding at the end the text
+  {
+       * Any Elder CAN, with 2 Elder Support, set the Chamber of an entity
+         to Gerontocratic
+  }.

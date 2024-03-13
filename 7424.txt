@@ -1,0 +1,9 @@
+ID: 7424
+Title: Auctions are gone and back again, still don't need this
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2166 (Assets) by removing:
+
+      The Minimum Unit Quantity (MUQ) of each currency is one.

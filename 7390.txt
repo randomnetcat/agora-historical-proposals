@@ -1,0 +1,7 @@
+ID: 7390
+Title: Grounder
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Repeal rules 2377 (Aerocratic Chamber) and 2376 (Props).

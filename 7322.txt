@@ -1,0 +1,18 @@
+ID: 7322
+Title: Persistent Liquid Currency
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+Enact a rule, titled "Zlotys":
+
+      Zlotys are a currency. The recordkeepor of zlotys is the General
+      Secretary. Ownership of zlotys is restricted to persons and
+      other entities defined by the rules as capable of holding
+      zlotys.
+
+      Whenever a first-class person registers, they are awarded one
+      thousand zlotys, unless they have been awarded zlotys by this
+      mechanism in the past.
+
+Award one thousand zlotys to every first-class player.

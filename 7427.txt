@@ -1,0 +1,31 @@
+ID: 7427
+Title: Dishonor Rolls
+Author: omd
+Co-authors: Murphy
+Adoption index: 1
+
+Create a rule titled "Dishonor Rolls" with this text:
+
+       When the Herald is ordered to place someone in the Chokey, e
+       shall publically award em the patent title "In the Chokey".
+
+       This title shall be automatically revoked after a length of time
+       indicated by the sentencing order, and the Herald shall announce
+       the revokation.  If a sentencing order is executed against a
+       defendant who already holds this title, the length of time of
+       the new sentencing order shall be added to the time left on any
+       previous ones.
+
+       A person is considered to be In Disgrace while in the Chokey,
+       between the execution and satisfaction of any sentencing orders
+       binding em, or if deregistered for lawlessness.  A person who
+       leaves the game in disgrace shall be awarded the Patent Title
+       Fugitive by the Herald.  A Player may revoke the title Fugitive
+       from emself as long as e is no longer in Disgrace.  A non-player
+       may have this title revoked by Agoran Consent.
+
+       The rules may further specify actions prohibited to persons in
+       particular types of disgrace.
+
+       The Herald is encouraged to publish lists of those in disgrace
+       separate from patent titles of honor, to indicate the disgrace.

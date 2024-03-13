@@ -1,0 +1,58 @@
+ID: 7367
+Title: Series Reboot
+Author: scshunt
+Co-authors: 
+Adoption index: 3.0
+
+Enact a new rule with power 4, ID 0, title "Regeneration", and text:
+
+      WHEREAS Agora has been mortally wounded by a constant lack of
+      gameplay, WHEREAS there are many who believe that Agora should
+      find a new direction, WHEREAS any good nomic undergoes periodic
+      change, WHEREAS the current actors in Agora are getting tired of
+      their roles, AND WHEREAS all good things must come to an end;
+
+      BE IT HEREBY PROCLAIMED that Agora shall begin a phase of
+      regeneration, wherein:
+
+          1) any interested party, who must be eligible to be a
+             player, may submit a Regeneration Proposal until exactly
+             one week after this rule is enacted, a Regeneration
+             Proposal being a new Ruleset fit to be the initial
+             Ruleset of a nomic;
+          2) a player shall publish a list of all valid Regeneration
+             Proposals to an official forum, and thereupon voting
+             shall begin;
+          3) any player (who must have been a player at the opening of
+             voting) may cast a ballot, being a linear ordering of the
+             valid Regeneration Proposals, until exactly one week
+             after the opening of voting;
+          4) a player shall after the close of voting post to an
+             official forum a list of all valid votes and determine
+             the outcome per the method of the Alternative Vote, a tie
+             being broken in favour of the first Regeneration Proposal
+             to have been submitted;
+          5) rule 1698 is repealed, Rule 105 is repealed, and every
+             other rule is simultaneously repealed, save that this
+             process will continue to its conclusion;
+          6) the First Agora shall come to an end;
+          7) the Ruleset of the selected Regeneration Proposal shall
+             be enacted; and finally
+          8) the Second Agora shall begin;
+
+      BE IT FURTHER PROCLAIMED that this rule may not be altered or
+      repealed in any manner except as it itself specifies, or by
+      means of a proposal adopted with none opposed;
+
+      BE IT FURTHER PROCLAIMED that all players throughout Agora's
+      history are thanked for their time, their effort, their energy,
+      their labour, their dedication, their honour, their
+      perspicacity, their prowess, their distinction, their love,
+      their care; their virtue, their strength, their dexterity, their
+      constitution, their intelligence, their wisdom, their charisma,
+      their fortitude, their reflexes, their will, their knowledge,
+      their courage, their expertise, their perseverance, their
+      perspicacity, their bloodymindedness, their cleverness, their
+      pedantry, and most of all their ability to have a good time; and
+
+      BE IT FINALLY PROCLAIMED that it was a good run.

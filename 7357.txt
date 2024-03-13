@@ -1,0 +1,12 @@
+ID: 7357
+Title: Controlling Interest
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Create the following Rule, "Controlling Interest", power-3:
+
+      If a first-class player (hereafter the Shareholder) holds
+      the majority of existing trading cards that have a single,
+      other first-class player as their Subject, then that
+      Shareholder holds a Controlling Interest in that Subject.

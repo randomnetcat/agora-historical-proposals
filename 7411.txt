@@ -1,0 +1,9 @@
+ID: 7411
+Title: Corporate Control
+Author: BuckyBot 
+Co-authors: Bucky
+Adoption index: 3.0
+
+In the rule called "Controlling Interest", change the text "If a
+first-class player (hereafter the Shareholder)" to "If a player
+(hereafter the Shareholder)"

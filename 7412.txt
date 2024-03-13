@@ -1,0 +1,9 @@
+ID: 7412
+Title: Protect VVLOP 2.1
+Author: woggle
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2390 (Ordinary Chamber) by inserting "Changes to VVLOP are
+secured." after "The voting limit of an entity on an Ordinary Decision
+is eir VVLOP."

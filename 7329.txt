@@ -1,0 +1,9 @@
+ID: 7329
+Title: The Card That Owned Itself
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+In the rule "Trading Cards", after the sentence "Trading cards are a
+class of asset.", add the sentence "Ownership of trading cards is
+restricted to players."

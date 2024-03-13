@@ -1,0 +1,28 @@
+ID: 7351
+Title: Definition merge
+Author: G. 
+Co-authors: ais523, Machiavelli
+Adoption index: 3.0
+
+Repeal Rule 754.
+
+Amend Rule 217 (Interpreting the Rules) to read:
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence.  Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense,
+      past judgements, and consideration of the best interests of the
+      game.
+
+      A term explicitly defined by the Rules, along with any of its
+      ordinary-language synonyms not otherwise so defined, has that
+      meaning when used in any Rule of equal or lesser power, or when
+      used in a Rule of greater power that is clearly intended to
+      comply with that meaning.  Otherwise, terms have their ordinary-
+      language meanings; with definitions contained in lower-powered
+      Rules providing non-binding guidance.
+
+      Differences in spelling, grammar, capitalization, whitespace,
+      dialect, or the use of synonyms or abbreviations, are generally
+      inconsequential in interpreting rules or communications, as long
+      they do not create ambiguity in meaning.

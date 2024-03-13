@@ -1,0 +1,27 @@
+ID: 7296
+Title: Power On
+Author: scshunt
+Co-authors: 
+Adoption index: 3.0
+
+Amend the rule Democratization by appending
+{{
+      Changing the voting limit of an entity on a Democratic decision is
+      secured with power threshold 3.
+}}
+
+Amend rule 1950 by replacing
+{{
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2
+      if the decision is Ordinary, or 3 otherwise.
+}}
+with
+{{
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2.
+}}

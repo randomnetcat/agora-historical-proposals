@@ -1,0 +1,11 @@
+ID: 7394
+Title: Transparent non-kludge
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+If the proposal titled "Transparent kludge" is not ADOPTED, then, in
+Rule 2387, replace the sentence "If a player does not possess the
+Patent Title Renascent, e CAN earn a Transparent Ribbon by
+announcement." with "Everyone always earns a Transparent Ribbon. If a
+Ribbon is owned by a Renascent, it is destroyed."

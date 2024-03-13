@@ -1,0 +1,10 @@
+ID: 7404
+Title: Secure VCs
+Author: omd
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2389 (Ordinary Chamber) by appending after the sentence
+containing "fixed currency" the sentence:
+
+      VC holdings are secured.

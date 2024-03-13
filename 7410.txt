@@ -1,0 +1,11 @@
+ID: 7410
+Title: That vacant officer is doing a great job
+Author: Machiavelli
+Co-authors: 
+Adoption index: 2.0
+
+In Rule 2276 "Assumption of Vacant Offices", to the paragraph reading
+"When the holder of an office ceases to be an active player, the
+office's Assumption is flipped to Assumed.", append the sentence
+"Whenever a vacant office is Postulated, its Assumption is flipped to
+Assumed."

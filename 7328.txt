@@ -1,0 +1,27 @@
+ID: 7328
+Title: Bookbinding
+Author: Murphy 
+Co-authors: scshunt
+Adoption index: 1.0
+
+Enact a new rule entitled "The Dictionary", unless a rule with that
+title already exists:
+
+      The Dictionary is a list of common terms and shorthands used in
+      playing Agora and their definitions. A player CAN add a
+      definition to the Dictionary with 2 support, and a player CAN
+      remove a definition from the Dictionary without 2 objections.
+
+      When, in a public message, an entity uses a term defined in the
+      Dictionary, unless there is explicit indication otherwise, the
+      message is to be interpreted using the definition in the
+      Dictionary.  Terms defined in the Dictionary have no effect on
+      the interpretation of the rules, insofar as they may lead to the
+      formation game custom.
+
+      A definition in The Dictionary cannot cause a message to result
+      in an action or other consequence that would not be possible
+      without that definition.
+
+      The Lexicographor is an office; the Dictionary is included in
+      its monthly report.

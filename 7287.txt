@@ -1,0 +1,46 @@
+ID: 7287
+Title: Faucet Fixing
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+Increase the power of the Rule "The Justiciar" to 2.
+[Need to do this to overrule Offices]
+
+Amend the Rule entitled "The Justiciar" to read:
+
+      The Justiciar is an office; its holder is responsible for hot and
+      cold running justice.
+
+      Rules to the contrary notwithstanding, the Clerk of the Courts
+      CANNOT assume or be nominated for the office of Justiciar, and
+      the Justiciar CANNOT assume or be nominated for the office of
+      Clerk of the Courts.
+
+      A CFJ may be submitted to the Justiciar.  For such a CFJ, the
+      Justiciar shall perform all duties and fulfill all roles that
+      would otherwise be assigned to the Clerk of the Courts. This
+      takes precedence over Rules that would otherwise assign duties
+      and roles regarding a CFJ to the Clerk of the Courts.
+
+      All persons are encouraged to submit a CFJ to the Justiciar only
+      when there is a good reason not to submit it to the Clerk of the
+      Courts.
+
+      If the Justiciar's Posture is neither Standing nor Sitting, then
+      it is flipped to Sitting.
+
+
+Amend Rule 1871 (The Standing Court) by replacing:
+      * Supine (default if the default would otherwise be undefined).
+with
+      * Supine (default if the current value of Initial Posture is
+        undefined; otherwise the current value of Initial Posture is the
+        default).
+
+and by appending this paragraph:
+
+       Initial Posture is an Agora Nomic switch, tracked by the Justiciar
+       in eir monthly report, with the same values as Posture and a
+       default value of Supine.  The Justiciar CAN flip Initial Posture
+       with Support.

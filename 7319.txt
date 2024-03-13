@@ -1,0 +1,39 @@
+ID: 7319
+Title: Trading Cards
+Author: G. 
+Co-authors: Machiavelli
+Adoption index: 1.0
+
+If a contest exists that defines Trading Cards as a class of asset, it
+hereby ceases to be a contest.
+
+Create the following Rule, Trading Cards:
+
+    Trading cards are a class of asset.  Each trading card has a
+    Subject, which is a first-class player.  Whenever an entity becomes
+    a first- class player, 15 trading cards are created in eir
+    possession with emself as their Subject.  If the Subject of a
+    trading card ceases to be a first-class player, that trading card is
+    destroyed. Trading cards with the same Subject are fungible.
+
+    Comic Book Guy is an Office, and the recordkeepor of Trading Cards.
+
+    Any person CAN spend 12 trading cards, no two of which have the same
+    Subject, to fulfill the Victory Condition of Mint Set.  When this
+    happens, all trading cards are destroyed, and 15 trading cards are
+    created in the possession of each first-class player, with that
+    first- class player as their Subject.
+
+If, immediately before this proposal took effect, a contest existed that
+defined Trading Cards as a class of asset, then:
+
+    - The contestmaster of that former contest becomes the Postulated
+      holder of Comic Book Guy.
+    - Trading cards are created with the same Subjects and Owners as
+      they had according to the contest immediately before this proposal
+      took effect.
+
+Otherwise:
+
+    - 15 trading cards are created in the possession of each first-class
+      player, with that first-class player as their Subject.

@@ -1,0 +1,22 @@
+ID: 7422
+Title: Interpretation security
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by appending:
+
+      Forcibly modifying the interpretation of text in public messages
+      is secured.  This does not prevent rules from providing
+      non-binding definitions and interpretation guidance for such
+      messages.
+
+[If a low-powered rule said that "AGAINST" is to be interpreted as
+"FOR", would it conflict with Rule 478 (or some other rule)?  There's
+the requirement that the action be "unambiguous" and "clear", so I
+guess a message purporting to vote AGAINST might be thrown out, but
+that's still a denial of service.  There's the innocuous phrase
+"announcing that e performs it", since the low-powered rule might be
+interpreted as purporting to make someone do something by announcing
+that e does something else, but it's far from clear to me that would
+actually conflict.  Anyway, here's some explicit wording.]

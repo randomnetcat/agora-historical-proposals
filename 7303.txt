@@ -1,0 +1,17 @@
+ID: 7303
+Title: Gerontocratic Chamber
+Author: FKA443144
+Co-authors: 
+Adoption index: 2.0
+
+ Amend Rule 2357 by adding after the second paragraph the text
+  {
+       Gerontocratic is a Voting Chamber. The eligible voters on a
+       Gerontocratic Decision are those entities that were Elders at the
+       start of its voting period.
+  }
+  , and adding at the end the text
+  {
+       * Any Elder CAN, with 2 Elder Support, set the Chamber of an entity
+         to Gerontocratic
+  }.

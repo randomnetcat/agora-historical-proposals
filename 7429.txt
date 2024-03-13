@@ -1,0 +1,15 @@
+ID: 7429
+Title: Protection Racket
+Author: omd
+Co-authors: Murphy
+Adoption index: 1
+
+Create a rule with this text:
+
+     Murphy, OscarMeyr, and Quazie are Oligarchs.
+
+     An Oligarch may refuse a CFJ by announcement.  A refused CFJ
+     ceases to be a CFJ.
+
+     An Oligarch may refuse a proposal by announcement.  A refused
+     proposal ceases to be a proposal.

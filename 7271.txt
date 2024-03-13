@@ -1,0 +1,10 @@
+ID: 7271
+Title: No Klein Unicorns
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Amend the rule 'Win by Paradox' by replacing
+       actual or hypothetical,
+with
+       actually either occurring, performed, or attempted,

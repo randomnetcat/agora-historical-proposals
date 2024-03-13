@@ -1,0 +1,8 @@
+ID: 7332
+Title: Lesser oops
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+In the rule "Belligerence", replace "marine" with "'rine" throughout,
+preserving capitalization.

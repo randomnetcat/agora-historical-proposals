@@ -1,0 +1,10 @@
+ID: 7335
+Title: Golem stripping
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+In the rule "Ribbons", replace the sentence "Ownership of Ribbons is
+restricted to players." with "Ownership of Ribbons is restricted to
+first-class players. If a Ribbon is owned by an entity that is not a
+first-class player, it is destroyed."

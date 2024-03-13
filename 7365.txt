@@ -1,0 +1,14 @@
+ID: 7365
+Title: Market Failure
+Author: Roujo
+Co-authors: 
+Adoption index: 1.0
+
+Create the following Rule, Market Failure, power-1:
+
+{
+      Holding a Controlling Interest in a Subject who satisfies a
+      Losing Condition other than this one and the Losing Condition of
+      Subjugation satisfies the Losing Condition of Investing in
+      Nortel Networks.
+}

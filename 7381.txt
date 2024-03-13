@@ -1,0 +1,15 @@
+ID: 7381
+Title: Democratic Unilateralism
+Author: omd
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2380 (Richard Potato Boat) to read:
+
+      The Dictator is an elected office.  If the Assumption of the
+      Dictator is ever Assumed, it is flipped to Postulated.
+
+      The Dictator CAN, by announcement, cause this rule to perform a
+      specified Rule Change.  The Dictator CAN, by announcement, cause
+      a proposal to take effect.  The Dictator CAN, by announcement,
+      cause this Rule to perform an arbitrary change to the gamestate.

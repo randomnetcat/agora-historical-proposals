@@ -1,0 +1,12 @@
+ID: 7321
+Title: Appeal of appeals
+Author: Murphy 
+Co-authors: scshunt
+Adoption index: 2.0
+
+Amend Rule 1868 (Judge Assignment Generally) by appending this text to
+the last paragraph:
+
+    For appeal cases, if possible, e SHALL assign a panel maximizing the
+    number of members who have favored it and minimizing the number who
+    have disfavored it.

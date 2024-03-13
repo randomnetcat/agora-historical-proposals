@@ -1,0 +1,16 @@
+ID: 7343
+Title: Shampoo & conditioner
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 2337 "Promises", before the paragraph beginning with "To
+submit a promise", add the following paragraph:
+
+      When a person specifies items b) and c) above, common sense must
+      be used to determine whether the statement they provide is the
+      condition itself, or a description of the condition. A statement
+      such as "The date is after June 30, 2013" should be interpreted
+      as being the condition itself; a statement such as "This promise
+      is not destroyed when cashed" should be interpreted as a
+      description of the condition.

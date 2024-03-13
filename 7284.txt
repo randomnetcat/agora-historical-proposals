@@ -1,0 +1,67 @@
+ID: 7284
+Title: No Zero Length Reports
+Author: FKA441344
+Co-authors: 
+Adoption index: 3.0
+
+ Amend Rule 2162 by replacing the text
+ {
+         Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value.
+ }
+ with the text
+ {
+         Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value, or, if there are no such instances, the fact that
+         there are no such instances.
+ }.
+
+Amend Rule 1607 by replacing the text
+ {
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool.
+ }
+ with the text
+ {
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool, or, if there are no such proposals, the fact
+      that there are no such proposals.
+ }.
+
+Amend Rule 991 by replacing the text
+ {
+      The CotC's report includes the
+      status of all judicial cases without a judgement.
+ }
+ with the text
+ {
+      The CotC's report includes the status of all judicial cases
+      without a judgement, or, if there are no such cases, the fact
+      that there are no such cases.
+ }.
+ Amend Rule 2166 by replacing the text
+ {
+      That entity's report includes a list of all instances of that
+      class and their owners.
+ }
+ with the text
+ {
+      That entity's report includes a list of all instances of that
+      class and their owners, or, if there are no such instances, the fact
+      that there are no such instances.
+ }.
+ Amend Rule 2337 by replacing the text
+ {
+      Horton's weekly report includes the text, author, conditions, and
+      owner of all existing promises.
+ }
+ with the text
+ {
+      Horton's weekly report includes the text, author, conditions, and
+      owner of all existing promises, or, if there are no such promises,
+      the fact that there are no such promises.
+ }.

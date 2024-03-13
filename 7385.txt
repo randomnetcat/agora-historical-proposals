@@ -1,0 +1,261 @@
+ID: 7385
+Title: New Beginnings
+Author: scshunt
+Co-authors: 
+Adoption index: 3.0
+
+Amend rule 2150 (Personhood) by replacing "All other persons are
+second-class." with "All other persons are third-class, except for
+those defined by rules of power 2.4 or higher as being second-class."
+
+Amend rule 869 (How to Join and Leave Agora) by replacing "A
+second-class person CAN" with "A second- or third-class person CAN".
+
+Amend rule 2154 (Election Procedure) by replacing "The eligible voters
+are the active first-class players." with "The eligible voters are the
+active first- and second-class players."
+
+Amend rule 1950 (Decisions with Adoption Indices) by replacing "The
+eligible voters on a decision with an adoption index are those
+entities that were active first-class players at the start of its
+voting period." with "The eligible voters on a decision with an
+adoption index are those first- and second-class players that were
+active at the start of its voting period."
+
+Amend rule 2389 (Ordinary Chamber) by replacing "A first-class person
+may spend one VC to increase any other first-class player's VVLOP by
+one." with "A first- or second-class person may spend one VC to
+increase any other first- or second-class player's VVLOP by one."
+
+Increase the power of Rule 103 (The Speaker) to 2.4 and amend to read
+as follows:
+
+      The Speaker is an imposed office and a figurehead of Agora. The
+      Speaker is a person who has proven themselves to be worthy of
+      the title, and for a time can direct Agoran government affairs.
+
+      A citizen is any first- or second-class player other than the
+      Speaker.  Changing the holder of the office of Speaker is
+      secured with threshold 1.
+
+      The office of Speaker CANNOT be held by anyone other than a
+      first-class player, and the Speaker CANNOT deregister. If, for
+      some reason, the office of Speaker is vacant, the first-class
+      player who most recently won the game becomes Speaker.
+
+[The power increase is just so its definition is binding and so that
+it prevents deregistration. The Speaker can, however, go on hold,
+invoke Succession (see below) to give the Speakership away, and
+subsequently deregister, so eir R101 rights are not violated.]
+
+Enact a rule with power 2 entitled "The Arboretum of Agora" and text:
+
+      The Branches of Government are the Executive, Legislative,
+      Judicial, and Military. The Gardenor is an office.
+
+      There is one kind of Favour and one kind of Leaf for each Branch
+      of Government. Favour and Leaves of a given kind are fixed
+      currencies, tracked by the Gardenor, ownership of which is
+      restricted to citizens.
+
+      A player CAN, by announcement and at a cost of 1 Leaf of a given
+      Branch, award a Favour of that Branch to a citizen outside eir
+      basis.
+
+Enact a rule with power 2.4 entitled "Title Cards" and text:
+
+      A Title Card is a second-class person and an asset. The basis of
+      a Title Card is its owner. Title Cards are tracked by the
+      Speaker, and ownership of Title Cards is restricted to active
+      players, the Speaker, and the Lost and Found Department.
+      Transferring Title Cards is secured with power 1.4. Title Cards
+      are active players and CANNOT be deregistered or go on hold.
+
+      Each Branch of Government has a corresponding Title Card, as
+      follows:
+
+        Executive: the Governor
+        Legislative: the President
+        Judicial: the Justiciar
+        Military: the Admiral
+
+      There are no other Title Cards, and Title Cards CANNOT be
+      destroyed.
+
+      A player who possesses a Title Card CAN, by announcement, cause
+      that Title Card to take any action that it could take by any
+      other means and CAN, by announcement, publish a message on
+      behalf of that Title Card.
+
+      If the Lost & Found Department possesses a Title Card, the
+      Speaker CAN and SHALL, as soon as possible and by announcement,
+      Bestow that Title Card by transferring it to a citizen who owns
+      at least as much Favour in the corresponding Branch as every
+      other citizen.
+
+      If, by any mechanism, a Title Card would come to be possessed by
+      itself or another Title Card, then instead it is transferred to
+      the Speaker.
+
+Enact a rule with power 1.4 entitled "The Cabinet"
+
+    As soon as possible after the beginning of each month, the Speaker
+    CAN and SHALL perform a Cabinet Shuffle. To perform a Cabinet
+    Shuffle, e uses all eir Leaves to award Favour, Plows, Bestows
+    each Title Card, and then publishes eir own report and the
+    Gardenor's report, in that order and in the same message. The
+    publication of the Gardenor's report in this fashion fulfills any
+    outstanding obligations to publish the report.
+
+    The Speaker CAN Plow by announcement, but only when required to do
+    so as part of a Cabinet Shuffle. When the Speaker Plows, the
+    following occurs:
+
+      a) all Leaves are destroyed;
+      c) for each Title Card, its owner loses one Favour in each
+         Branch;
+      b) for each Title Card, its owner loses half eir Favour in the
+         corresponding Branch, rounded down;
+      d) each Title Card loses two Favour in its Branch, and one
+         Favour in each other Branch;
+      e) each Title Card is transferred to the Lost and Found
+         Department;
+      f) for each Branch of Government, the Speaker is awarded a Leaf
+         in that Branch for each active first-class player possessing
+         fewer Favour in that Branch than the corresponding Title
+         Card;
+      g) for each Branch of Government, each player is awarded a Leaf
+         in that Branch if e possesses more Favour in that Branch than
+         the corresponding Title Card.
+
+    A public message in which a player purports to Plow constitutes
+    self- ratifying claims that:
+
+      a) the Plowing is a part of a Cabinet Shuffle;
+      b) the player performing the Cabinet Shuffle is the Speaker;
+      c) that the Speaker had no Leaves immediately before e Curried
+         Favour;
+      d) that the Cabinet Shuffle was required by rule; and
+      e) that the lists of assets in the reports published as part of
+         the Cabinet Shuffle are accurate and complete.
+
+Enact a power 2 rule entitled "Succession" with text:
+
+    The Deputy Speaker is an imposed office, it is held by the active
+    first-class citizen who most recently possessed the Governor.
+
+    If the Speaker is inactive, any player CAN trigger Succession by
+    announcement. This causes the following:
+
+      a) The Deputy Speaker's Title Cards are transferred to the Lost
+         and Found Department,
+      b) The Speaker's Title Cards are transferred to Deputy Speaker,
+      c) The Deputy Speaker becomes the Speaker.
+
+Enact a rule with power 1.4 entitled "Overthrow" with the text:
+
+    If the Speaker possesses each Title Card, the Deputy Speaker CAN,
+    by announcement and subject to the remainder of this rule,
+    overthrow the Speaker. The Speaker CANNOT otherwise be overthrown.
+
+    When the Speaker is overthrown, the following occurs:
+
+      a) the Deputy Speaker satisfies the Victory Condition of
+         Revolution;
+      b) the Deputy Speaker becomes Speaker;
+      c) all Favour and Leaves are destroyed;
+      d) the new Speaker is awarded one Leaf in each Branch of
+         Government for each active first-class player; and then
+      e) the new Speaker SHALL, in the same message, perform a Cabinet
+         Shuffle. Failure to do so makes the overthrow INVALID.
+
+Repeal Rule 2326 (The President) and Rule 2348 (Presidential Power).
+
+Enact a rule with power 2 entitled "Prerogatives" with text:
+
+    A prerogative is an action, defined as such by a rule, that is
+    associated with a specified Branch of Government. When a rule
+    indicates that a player has a prerogative, then they CAN perform
+    that action. If the rules associate an limitation with having the
+    prerogative, then this constitutes a limitation on when the action
+    can be performed. If the rules do not specify the mechanism by
+    which a prerogative can be performed, then it can be performed by
+    announcement.
+
+    The Speaker has each prerogative twice per month. Each Title Card
+    has each prerogative of the corresponding Branch of Government
+    once per week.
+
+Enact a rule with power 2 entitled "Legislative Prerogatives" with
+text:
+
+    Veto is a Legislative prerogative. In using Veto, a player selects
+    an Agoran Decision with an adoption index in its voting period is
+    a Legislative prerogative. Its adoption index is set to 3.5.
+
+    Rubberstamp is a Legislative prerogative. In using Rubberstamp, a
+    player selects an Agoran Decision with an adoption index at most 2
+    in its voting period. Its adoption index is set to 2, and among
+    the otherwise- valid votes on that decision, including any
+    submitted after the Rubberstamp, only the first AGAINST vote per
+    voter is valid.
+
+Enact a power 1.7 rule entitled "Judicial Prerogatives" with text:
+
+    Prejudice is a judicial prerogative. In using Prejudice, a player
+    assigns to an open criminal case a judgment of GUILTY with any
+    sentence. The case CANNOT subsequently be appealed except by
+    Certiorari, rules to the contrary notwithstanding.
+
+    Prejudice SHALL NOT be used on a criminal case if NOT GUILTY is an
+    appropriate judgment. Prejudice MAY and SHOULD be used to assign
+    an inappropriate sentence, except that it SHALL NOT be used to
+    assign a sentence, such as EXILE, that would severely interfere
+    with the ninny's ability to enjoy Agora. When using Prejudice,
+    players SHOULD NOT include any judicial reasoning for the
+    sentencing.
+
+    Certiorari is a Judicial prerogative. In using Certiorari, a
+    player appeals any judgement made in the past two weeks.
+
+Enact a power 3 rule entitled "Executive Prerogatives" with text:
+
+    Bureaucracy is an Executive Prerogative. In using Executive, a
+    player selects a promise. The promise CANNOT, in the following
+    month, be cashed by announcement, but instead only with notice. As
+    long as this effect remains, Horton's report shall indicate that
+    it exists and applies to that promise. This takes precedence over
+    any other rule to the extent that that rule defines a mechanism by
+    which a promise can be cashed.
+
+    Appointment is an Executive prerogative. In using Appointment, a
+    player flips a filled office to Postulated.
+
+Enact a power 2 rule entitled "Military Prerogatives" with text:
+
+    Destination is a Military prerogative. In using Destination, a
+    player indicates a clear condition or set of conditions that can
+    apply to a proposal (such as "it would enact a rule of power 3 or
+    greater"). If, in the following week, a proposal is submitted by
+    another player that conforms to those conditions, its author CAN
+    once thereafter decrease the adoption index of an Agoran decision
+    to adopt it by 0.5 by announcement. A single player CANNOT perform
+    this action more than once for each use of the Destination
+    prerogative.
+
+    Nuke is a Military prerogative. In using Nuke, a player selects a
+    citizen; that citizen loses 1 Favour and gains 1 Leaf in each
+    Branch of Government.
+
+[Destination does not override the FOR > AGAINST rule, so it can't be
+used to ram AI=1 proposals through].
+
+Enact a power 2.4 rule entitled "Bootstrap" with text:
+
+    Rules to the contrary notwithstanding, the offices of Deputy
+    Speaker and Speaker are vacant. The player who most recently won
+    the game CAN and SHALL, by announcement, become the Speaker and,
+    when e does so, e is awarded one Leaf in each Branch of Government
+    for each first-class active player. In the same message, e CAN and
+    SHALL perform a Cabinet Shuffle. At the conclusion of the Cabinet
+    Shuffle, this rule repeals itself.

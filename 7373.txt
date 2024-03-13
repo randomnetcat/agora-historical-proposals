@@ -1,0 +1,11 @@
+ID: 7373
+Title: Justice!
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+Enact a rule, titled "Mister Justice":
+
+      When submitting evidence or arguments to a judicial case that
+      has a judge, Agorans SHOULD refer to the judge as Mister
+      Justice.

@@ -1,0 +1,22 @@
+ID: 7340
+Title: The Steward Sweeps
+Author: G.
+Co-authors: 
+Adoption index: 2.0
+
+[Removes the ossified ruling puppetry.  Leaves the hint of a speaker,
+including a ribbon, for a future return].
+
+Amend Rule 103 (The Speaker) to read:
+
+      Agora has no Speaker.  Agora needs no Speaker.
+
+Repeal Rule 2326 (The President).
+Repeal Rule 2348 (Presidential Power).
+Repeal Rule 2366 (Veto and Rubberstamp).
+Repeal Rule 2339 (Intention).
+Repeal Rule 2359 (The Power of Agora).
+Repeal Rule 2351 (Agora, Adult).
+Amend  Rule 2347 (Speed) by removing:
+      When the Speed has not been changed in the past month, the
+      President CAN flip the Speed to Normal or Fast by announcement.

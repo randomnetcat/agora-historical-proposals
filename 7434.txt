@@ -1,0 +1,17 @@
+ID: 7434
+Title: Fifty-Nine Thirty-Seven
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+In Rule 2367 "Messy Statements", replace "nonsensical and meaningless"
+with "inaccurate and incorrect".
+
+[Revert P7395, because it probably breaks Win by Paradox.  The intent
+of the rule was to prevent trivial paradoxes based on violating rules
+requiring statements to be accurate, but just about any CFJ statement
+about a legitimate paradox based on infinite regress - I have one in
+mind - is messy, so is now "nonsensical and meaningless": although
+UNDECIDABLE is still appropriate, such a CFJ would probably no longer
+count as a turtle because the meaningless statement would not be about
+"the possibility or legality of a rule-defined action".]

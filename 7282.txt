@@ -1,0 +1,16 @@
+ID: 7282
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 1.0
+
+ Amend Rule 2362 (Rubles) by replacing the text
+ {
+  each player whose Posture has not been supine or leaning at any time
+  during the past month gains a ruble.
+ }
+ with the text
+ {
+  each active first-class player whose Posture has not been supine or
+  leaning at any time during the past month gains a ruble.
+ }.

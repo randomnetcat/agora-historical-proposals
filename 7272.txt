@@ -1,0 +1,16 @@
+ID: 7272
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 2.0
+
+ Amend Rule 1006 by replacing the text
+ {
+  Any player CAN cause an office to
+  become vacant without objection.
+ }
+ with the text
+ {
+  Any player CAN cause an office to
+  become vacant without 2 objections or with 3 Agoran consent.
+ }.

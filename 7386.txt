@@ -1,0 +1,7 @@
+ID: 7386
+Title: Eraser
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Repeal rules 2360 (Golems) and 2361 (Slave Golems).

@@ -1,0 +1,19 @@
+ID: 7355
+Title: Allow identification of self-relying decision documents
+Author: ais523
+Co-authors: 
+Adoption index: 3.0
+
+In rule 2034, replace
+
+{{{
+      A public document purporting to resolve an Agoran decision
+      constitutes self-ratifying claims that
+}}}
+
+with
+
+{{{
+      A public message purporting to resolve an Agoran decision
+      constitutes self-ratifying claims that
+}}}

@@ -1,0 +1,10 @@
+ID: 7339
+Title: Lesser cleanup
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3.0
+
+Change the title of Rule 754 to "Whitespace". Amend Rule 754 to read:
+
+      A difference between two nonempty spans of whitespace is
+      inconsequential in all forms of communication for all purposes.

@@ -1,0 +1,14 @@
+ID: 7291
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 1.0
+
+ Create a rule with text
+ {
+  if any of the players of this game should find themselves in any
+other game of Nomic, they must make this motion in that game of Nomic
+if it has not been made in that game yet, and if this motion comes up
+for voting, they must vote for it. The motion must be modified to fit
+the motion protocol of that game, but no more.
+ }.

@@ -1,0 +1,8 @@
+ID: 7432
+Title: Downsizing
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2138 by replacing "Interstellar" with "Intermolecular" in
+each of the Rule's title and text, in that order.

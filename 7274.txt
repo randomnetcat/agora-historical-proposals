@@ -1,0 +1,29 @@
+ID: 7274
+Title: Voting Chambers
+Author: FKA441344
+Co-authors: ehird
+Adoption index: 3.0
+
+ Create a power-3 rule with title {Voting Chambers} and text
+ {
+      Voting Chambers are a class of entity. Ordinary is a Voting Chamber.
+      Democratic is a Voting Chamber. Creating a Voting Chamber or
+      making an entity a Voting Chamber is Secured with power 2.
+ }.
+ Amend Rule 1950 by replacing the text
+ {
+      Chamber is a switch possessed by Agoran decisions with adoption
+      indices and proposals, with values Ordinary (default) and
+      Democratic.
+ }.
+ with
+ {
+      Chamber is a switch possessed by Agoran decisions with adoption
+      indices and proposals, with values any Voting Chamber, by default
+      Ordinary.
+ }.
+ Create a Power-3 Rule with title {Democratization} and text
+ {
+  If the Chamber of an entity is not Democratic, any first-class Player CAN
+  set it to Democratic with 3 Agoran Consent.
+ }.

@@ -1,0 +1,33 @@
+ID: 7331
+Title: Let's bookbind differently
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+If a rule titled "The Dictionary" exists, amend it to read as follows;
+otherwise, enact it, with the following text:
+
+      The Dictionary is a list of common terms and shorthands used in
+      playing Agora and their definitions.  A player CAN add a
+      definition to the Dictionary without objection, and a player CAN
+      remove a definition from the Dictionary with Agoran Consent.
+      Persons SHOULD NOT object to the addition of a definition unless
+      the definition is pointless or disruptive.
+
+      When, in a public message, an entity uses a term defined in the
+      Dictionary, unless there is explicit indication otherwise, the
+      message is to be interpreted using the definition in the
+      Dictionary.  Terms defined in the Dictionary have no effect on
+      the interpretation of the rules, except insofar as they may lead
+      to the formation of game custom.
+
+      A definition in The Dictionary cannot cause a message to result
+      in an action or other consequence that would not be possible
+      without that definition.
+
+      The Lexicographor is an office; the Dictionary is included in
+      its monthly report.
+
+(The rule's old text is somewhat broken in that it's possible to add
+disruptive definitions, and that the words "except" and "of" are
+missing. This proposal fixes those problems.)

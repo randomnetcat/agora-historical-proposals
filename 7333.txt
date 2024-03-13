@@ -1,0 +1,21 @@
+ID: 7333
+Title: Oh, for Pete's sake
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+In the rule "Belligerence", replace the following text:
+
+     "Health is a unit switch, tracked by the Mongor, whose valid
+      values are the integers not greater than the unit's maximum
+      health, and not less than 0, and whose default value is the
+      unit's maximum health. If a unit's health has been 0 for the
+      past 48 hours, that unit ceases to exist."
+
+with the following text:
+
+     "Health is a unit switch, tracked by the Mongor, whose valid
+      values are the integers not greater than the unit's maximum
+      health, and whose default value is the unit's maximum health. If
+      a unit's health has been less than or equal to 0 for the past 48
+      hours, that unit ceases to exist."

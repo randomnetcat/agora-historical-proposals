@@ -1,0 +1,20 @@
+ID: 7349
+Title: Tape Cutting Award
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Amend 2387 (Ribbons) by replacing:
+
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >= 3, its proposer earns a Red Ribbon.
+
+with:
+
+      (+R) When an interested proposal is adopted and results in a net
+           decrease in both the number of rules in the Ruleset and the
+           length (in characters) of the Ruleset, its proposer earns a
+           Red Ribbon.
+
+[The 'unanimous adoption' is more interesting than an power-3 ribbon
+IMO, so chose this one to replace]

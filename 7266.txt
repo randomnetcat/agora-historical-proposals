@@ -1,0 +1,19 @@
+ID: 7266
+Title: make MALFORMED meaningful
+Author: omd
+Co-authors: 
+Adoption index: 1.7
+
+Amend Rule 591 (Inquiry Cases) by replacing:
+
+      An inquiry case CAN be initiated by any first-class person, by
+      announcement which includes the statement to be inquired into.
+
+with:
+
+      Any first-class person CAN initiate an inquiry case by
+      announcement, specifying a block of text which SHOULD represent
+      a statement to be inquired into.
+
+[As ais523 noted in eir judgement of CFJ 3243, most cases where
+MALFORMED would be appropriate actually weren't validly initiated.]

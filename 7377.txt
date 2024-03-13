@@ -1,0 +1,12 @@
+ID: 7377
+Title: Sticky Gerontocracy
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3.0
+
+In Rule 2357 "Wisdom of the Elders", amend the list item "Any Elder
+CAN, with 2 Elder Support, set the Chamber of an entity to
+Gerontocratic" to read "Any Elder CAN, with 2 Elder Support, set the
+Chamber of an entity to Gerontocratic. Rules to the contrary
+notwithstanding, if the Chamber of an entity is Gerontocratic, then
+its chamber CANNOT be changed."

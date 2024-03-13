@@ -1,0 +1,15 @@
+ID: 7270
+Title: No Klein Turtles
+Author: scshunt
+Co-authors: 
+Adoption index: 1.0
+
+Amend the rule 'Win by Paradox' by replacing
+      actual or hypothetical, but not arising
+      from that case itself, and not occurring after the initiation of
+      that case
+with
+      actual or hypothetical, but not arising
+      from that case itself, not occurring after the initiation of
+      that case, and not involving self-reference or mutually recursive
+      references.

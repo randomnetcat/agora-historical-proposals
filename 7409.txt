@@ -1,0 +1,11 @@
+ID: 7409
+Title: Player Power
+Author: G.
+Co-authors: 
+Adoption index: 1.0
+
+Create the following rule, Player Power, power 0.5:
+
+      An active first-class player who holds a postulated office has a
+      power of 0.2.  All other active first- class players have a
+      power of 0.1.

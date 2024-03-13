@@ -1,0 +1,14 @@
+ID: 7391
+Title: Ribbon Cleanup
+Author: scshunt
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2387 by replacing "an interested proposal" with "a
+proposal", replacing "When a player assigns a judgement to a judicial
+question in an interested judicial case on sentencing" with "When a
+player assigns a judgment of GUILTY with some sentence to a judicial
+question.", replacing "a judicial case other than a question on
+sentencing" with "a judicial case other than a criminal case", and
+replacing "if e does not possess the Patent Title Renascent" with "if
+it was for satisfying a Victory Condition other than Renaissance".

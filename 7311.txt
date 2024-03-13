@@ -1,0 +1,11 @@
+ID: 7311
+Title: Ink rationing
+Author: Murphy
+Co-authors: 
+Adoption index: 2.0
+
+Amend Rule 2366 (Veto and Rubberstamp) by appending this text:
+
+      The above notwithstanding, a player holding the Speakership CANNOT
+      perform one of these actions if e already performed that action
+      for a different proposal earlier in the same week.

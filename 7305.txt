@@ -1,0 +1,22 @@
+ID: 7305
+Title: More Chamber Fixes
+Author: FKA443144
+Co-authors: 
+Adoption index: 3.0
+
+ Amend Rule 1950 by replacing the text {The eligible voters} with
+ {By default, the eligible voters}.
+ Amend Rule 683 by adding at the start of the first paragraph the text
+ {
+  An "eligible voter" on an agoran decision is an entity with a voting
+  limit greater than zero on that decision.
+ }.
+ Amend Rule 879 by replacing the text
+ {
+  eligible voters with a positive
+  voting limit
+ }.
+ with
+ {
+  eligible voters
+ }.

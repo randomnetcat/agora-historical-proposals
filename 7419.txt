@@ -1,0 +1,41 @@
+ID: 7419
+Title: Clear the books
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Change the power of Rule 1586 (Definition and Continuity of Entities)
+to 3, and amend it by appending:
+
+      Rules regarding past events and game values pertain to the
+      actual platonic state of the game in the past, not to a mutable
+      record implicitly stored in the gamestate.
+
+[See http://www.mail-archive.com/agora-discussion@agoranomic.org/msg26334.html.
+ There seems to be some confusion over whether a certain past
+judgement implies that the gamestate currently includes history,
+though that may be my fault, but I think the issue ought to be
+legislated.
+
+Not including history in the gamestate has the potential to cause
+weirdness when incorrect documents are ratified, because the true,
+ratified-away value can still affect the game if rules refer to the
+past, but the only case I can think of where this has actually
+mattered is ratifying victories (no longer an issue as you now only
+win the game after a victory announcement has ratified, and even if
+the gamestate includes history, "our record of history is modified
+such that you won the game" is a dubious substitute for an actual
+win), and it has the benefit that it's much easier to work out what
+happens when rules and proposals try to do weird things with the
+gamestate as a whole.  As I mentioned in that thread, whether the
+previous, confusingly-worded version of ratification was effective at
+doing anything might depend on whether this implicitly defined archive
+is "stored" as a list of instantaneous states or a list of changes;
+that could be legislated and I might be overblowing the ambiguity, but
+I think it's unnecessary mind screw overall.
+
+Why am I randomly submitting this two years later?  Because recent
+mention of the first paragraph of R2170 made me think of the
+appropriateness of similar wording here.
+
+As for the power change, Rule 1586 really needs to be Power-3 already.]

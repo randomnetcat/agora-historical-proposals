@@ -1,0 +1,28 @@
+ID: 7433
+Title: Rule Changes Fix
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 105 by replacing
+
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
+          defaulting to one if the enacting instrument does not
+          specify, and the maximum power permitted by other rules.
+          The enacting instrument may specify a title for the new
+          rule, which if present shall prevail.  The ID number of the
+          new rule cannot be specified by the enacting instrument; any
+          attempt to so specify is null and void.
+
+with:
+
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
+          defaulting to one if the enacting instrument does not
+          specify or if it specifies a power less than one, and the
+          maximum power permitted by other rules.  The enacting
+          instrument may specify a title for the new rule, which if
+          present shall prevail.  The ID number of the new rule cannot
+          be specified by the enacting instrument; any attempt to so
+          specify is null and void.

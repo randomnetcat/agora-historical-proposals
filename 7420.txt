@@ -1,0 +1,44 @@
+ID: 7420
+Title: We don't need to be that idiosyncratic un-derp version
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend the following rules, in the specified order, by replacing "as
+soon as possible" with "in a timely fashion":
+    2141
+    2170
+    2369
+    2370
+    2343
+    2201
+    208
+    2158
+    1504
+    2342
+    1868
+    649
+    1367
+
+Amend Rule 1023 (Common Definitions) by replacing:
+
+      The phrases "in a timely fashion" and "as soon as possible" mean
+
+with:
+
+      The phrase "in a timely fashion" means
+
+[Sorry Rulekeepor!
+
+There's nothing wrong with idiosyncrasy, and this one is certainly old
+- the definition of "as soon as possible" as "within a week" was
+introduced in 1994, as a patch for a previous definition which, I
+believe platonically, required performing as-soon-as-possible actions
+"before performing any other actions which have a less strictly
+defined time requirement".  However, I've always thought the
+definition is unusual enough to be actively misleading to new players,
+so here is my attempt to heartlessly murder it.
+
+The previous version was broken and "in a timely fashion", which
+already exists, is obviously better wording than "within a standard
+period", what was I thinking?]

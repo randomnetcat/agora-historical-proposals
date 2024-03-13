@@ -1,0 +1,39 @@
+ID: 7313
+Title: Agora expects that every person will do eir duty
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+Amend Rule 2143, "Official Reports and Duties", to read:
+
+      For each person:
+
+      a) If any task is defined by the rules as part of that person's
+          weekly duties, then e SHALL perform it at least once each
+          week, except if the Speed is Slow, in which case the duties
+          SHALL be completed once each fortnight.  If any information
+          is defined by the rules as part of that person's weekly
+          report, then e SHALL maintain all such information, and the
+          publication of all such information is part of eir weekly
+          duties.
+
+      b) If any task is defined by the rules as part of that person's
+          monthly duties, then e SHALL perform it at least once each
+          month.  If any information is defined by the rules as part
+          of that person's monthly report, then e SHALL maintain all
+          such information, and the publication of all such
+          information is part of eir monthly duties.
+
+      Any information defined by the rules as part of a person's
+      report, without specifying which one, is part of eir weekly
+      report.  Failure of a person to perform any duty required of em
+      within the allotted time is the Class-2 crime of Tardiness.
+
+      While performing weekly or monthly duties or publishing weekly
+      or monthly reports, persons SHALL NOT publish information that
+      is inaccurate or misleading.
+
+      Reports SHALL be published in plain text.  Tabular data must
+      line up properly when viewed in a monospaced font.  Publishing a
+      report that deviates from these regulations is the Class 2 Crime
+      of Making My Eyes Bleed.

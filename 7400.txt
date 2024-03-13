@@ -1,0 +1,8 @@
+ID: 7400
+Title: Meaningful fines
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Append "The maximum FINE amount of VCs is 2." to the Rule "Ordinary
+Chamber".

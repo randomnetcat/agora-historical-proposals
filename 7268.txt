@@ -1,0 +1,48 @@
+ID: 7268
+Title: allow secret votes
+Author: G.
+Co-authors: 
+Adoption index: 3
+
+ Amend Rule 1950 (Decisions with Adoption Indices) by replacing:
+       with values Ordinary (default) and Democratic.
+ with:
+       with values Ordinary (default), Democratic, and Star.
+
+
+ [Yes, this makes Star Chamber proposals have the same voting
+ levels as Democratic proposals.  Can make other rules later.]
+
+
+ Amend Rule 683 (Voting on Agoran Decisions) by replacing:
+       An eligible voter on a particular Agoran decision submits a
+       ballot to the vote collector by publishing a valid notice
+       indicating which one of the available options e selects.  To be
+       valid, the ballot must satisfy the following conditions:
+ with:
+       An eligible voter on a particular Agoran decision submits a
+       ballot to the vote collector by either:
+
+       (1) publishing a valid notice indicating which one of the
+           available options e selects; or
+       (2) if and only if the decision is in Star Chamber, sending
+           such a notice to the vote collector using the means of
+           contact tracked by the Registrar.
+
+       To be valid, the ballot must satisfy the following conditions:
+
+ [I.E. no voting to Discussion, or on IRC, etc.  Unless of course
+ a Vote Collector makes that the official means of contacting em!
+ Retractions must still be public; however they can probably be
+ relatively secretive, e.g. "I retract the most recent vote I sent
+ to the Assessor".]
+
+ Amend Rule 683 (Voting on Agoran Decisions) by appending:
+
+      If a decision is in the Star Chamber, then if its vote
+      collector publicly or privately reveals the existence or
+      value of a ballot submitted to em for that decision before
+      the decision's voting period has ended, e commits the Class-6
+      crime of Opening the Chamber Doors.  E MAY reveal the number
+      of ballots received if the rules require (e.g. for announcing
+      the extension or ending of a voting period).

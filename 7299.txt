@@ -1,0 +1,14 @@
+ID: 7299
+Title: (none)
+Author: FKA441344
+Co-authors: 
+Adoption index: 1.5
+
+ Amend the rule titled {The Justiciar}  by replacing
+ {
+      with the same values and default value as Posture.
+ }
+ with
+ {
+      with the same values as Posture, and default value Supine.
+ }

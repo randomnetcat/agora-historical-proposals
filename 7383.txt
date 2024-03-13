@@ -1,0 +1,7 @@
+ID: 7383
+Title: Decomposition
+Author: scshunt
+Co-authors: 
+Adoption index: 2.0
+
+Append "The basis of a Golem is that of its owner." to Rule 2360.

@@ -1,0 +1,13 @@
+ID: 7393
+Title: Transparent kludge
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+In Rule 2387, after the sentence "If a player does not possess the
+Patent Title Renascent, e CAN earn a Transparent Ribbon by
+announcement.", insert the sentence "Having earned a Transparent
+Ribbon in the past week is the Losing Condition of Haste." (Currently,
+if a person earns a Transparent Ribbon immediately before winning by
+Renaissance, e can award emself the Ribbon after gaining the Patent
+Title Renascent. This fix is inelegant but interesting.)

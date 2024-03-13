@@ -1,0 +1,18 @@
+ID: 7346
+Title: Disimposture
+Author: G.
+Co-authors: 
+Adoption index: 1.5
+
+Amend Rule 1871 (The Standing Court) by replacing:
+      * Supine (default if the current value of Initial Posture is
+        undefined; otherwise the current value of Initial Posture is
+        the default).
+with:
+      * Supine (default).
+
+and by deleting:
+      Initial Posture is an Agora Nomic switch, tracked by the
+      Justiciar in eir monthly report, with the same values as Posture
+      and a default value of Supine.  The Justiciar CAN flip Initial
+      Posture with Support.

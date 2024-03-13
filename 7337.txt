@@ -1,0 +1,15 @@
+ID: 7337
+Title: Give those back
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1.0
+
+In the rule "Belligerence", after the paragraph beginning "Minerals
+are a currency", add the following paragraph:
+
+      If a person who is not a player owns units or minerals, any
+      person CAN transfer any of those units or minerals to the Lost
+      and Found Department without objection. The owner of those units
+      or minerals is eligible to object to this action. If a person
+      who owns units or minerals does not intend to use them, e SHOULD
+      transfer them to the Lost and Found Department.

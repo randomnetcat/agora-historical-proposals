@@ -1,0 +1,10 @@
+ID: 7314
+Title: Top Floor, please
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+
+Enact a new rule entitled "King of the Hill" with Power 3, reading:
+      scshunt CAN cause this Rule to make arbitrary changes to the
+gamestate by announcement.

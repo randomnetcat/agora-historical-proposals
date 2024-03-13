@@ -1,0 +1,13 @@
+ID: 7360
+Title: Proxy Voting
+Author: G.
+Co-authors: 
+Adoption index: 3.0
+
+Create the following Rule, "Proxy Voting", power-3:
+
+      If a player (the Shareholder) holds a controlling interest in
+      another player (the Subject), and both the Shareholder and the
+      Subject are eligible voters on a given Agoran Decision, then,
+      Rules to the Contrary Notwithstanding, the Shareholder CAN
+      submit the Subject's ballots on that Decision by announcement.
