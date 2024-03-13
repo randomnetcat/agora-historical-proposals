@@ -2,7 +2,7 @@ package org.randomcat.proposal_parser.distributions
 
 import org.randomcat.proposal_parser.ProposalData
 
-private val SUMMARY_SECTION_CHECK_REGEX = Regex("NUM\\s+AI\\s+AUTHOR\\s+TITLE|CFJ: ais523 is inactive\\.")
+private val SUMMARY_SECTION_CHECK_REGEX = Regex("NUM\\s+AI\\s+(PF\\s+C\\s+)?AUTHOR\\s+TITLE|CFJ: ais523 is inactive\\.")
 private val FOOTER_REGEX =
     Regex("I cause Mr. Incredible to make each of the aforelisted players active.", RegexOption.LITERAL)
 
