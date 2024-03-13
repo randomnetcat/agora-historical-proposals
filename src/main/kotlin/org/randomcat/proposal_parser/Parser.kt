@@ -67,6 +67,8 @@ private val NONEXISTENT_NUMBERS =
         6273,
         // Skipped: what would have been 6559 in order was assigned 6569, and 6559 was never assigned
         6559,
+        // Never distributed, see "OFF: [Promotor] Proposal Pool" (Date: Mon, 29 Jul 2013 23:05:57 -0400)
+        7565,
     ).map { ProposalNumber(BigInteger.valueOf(it.toLong())) }.toSet()
 
 // 6223 -> no record
