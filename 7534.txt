@@ -1,0 +1,30 @@
+ID: 7534
+Title: Per woggle and scshunt
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by replacing:
+
+      Freedom of speech being essential for the healthy functioning of
+      any non-Imperial nomic, it is hereby resolved that no Player
+      shall be prohibited from participating in the Fora.
+
+with:
+
+      Freedom of speech being essential for the healthy functioning of
+      any non-Imperial nomic, it is hereby resolved that each player
+      shall have equal access to participation in the fora.  Granting
+      any set of players preferential treatment by the fora is the
+      Class-14 Crime of Misdistribution.  This does not apply to
+      merely having or granting access to common administrative
+      functions, to applying common anti-spam measures, or to
+      providing special access only to players that have requested it.
+
+[I would never do this, but as woggle said, while we're making things
+explicit...
+
+The bit about requests is intended to allow Taral's old policy of
+making officeholders request the ability to send long messages to
+agora-official; although I don't think that policy is necessary, it
+shouldn't be a Class-14 Crime either.]

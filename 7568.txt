@@ -1,0 +1,38 @@
+ID: 7568
+Title: Agora pulls a B + some ratifications
+Author: omd
+Co-authors: Fool
+Adoption index: 3
+
+In rule 1551 (Ratification, Power=3.1), replace the sentence:
+
+      Ratifying a public document is secured.
+
+with:
+
+      Ratifying a public document is secured with power threshold 3.
+
+Ratify the following public documents:
+
+    - woggle's public message of 27 July 2013 titled "OFF:
+      [Rulekeepor] Short Logical Rule]set"
+    - omd's public message of 30 July 2013 titled "OFF: [Registrar]
+      Census"
+    - the portions of Roujo's public message of 29 July 2013 titled
+      "OFF: [CotC] Docket" regarding Posture and Initial Posture
+    - Walker's public message of 12 July 2013 titled "OFF:
+      [Ambassador-at-Large] Foreign Relations"
+    - the portions of Walker's public message of 28 July 2013 titled
+      "OFF: [Yak Herdor] Himalayan Survey" the Yak Herdor is required
+      to report on [omitting the rest on the off-chance it's
+      inaccurate]
+    - Walker's public message of 28 July 2013 titled "OFF: [IADoP]
+      Austere Report"
+    - Walker's public message of 28 July 2013 titled "OFF: [Returning
+      Officer] Parties"
+    - Walker's public message of 12 July 2013 titled "OFF: [Returning
+      Officer] Aims and Objects"
+    - omd's public message of 30 July 2013 titled "OFF: [Promotor]
+      Proposal Pool"
+
+Set the Speed to Normal.

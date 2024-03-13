@@ -1,0 +1,19 @@
+ID: 7576
+Title: Ratify the Honourable Officers' reports
+Author: Fool
+Co-authors: 
+Adoption index: 3.1
+
+Ratify the following public documents:
+     - woggle's public message of 27 July 2013 titled "OFF:
+       [Rulekeepor] Short Logical Rule]set"
+     - Walker's public message of 28 July 2013 titled "OFF: [IADoP]
+       Austere Report"
+     - Walker's public message of 28 July 2013 titled "OFF: [Returning
+       Officer] Parties"
+     - Walker's public message of 12 July 2013 titled "OFF: [Returning
+       Officer] Aims and Objects"
+     - omd's public message of 15 July 2013 titled "OFF: [Assessor]
+       Voting Report"
+
+[incomplete, but works for now, should be acceptable to all sides]

@@ -1,0 +1,24 @@
+ID: 7515
+Title: Internomic Relations
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Enact the following Rule:
+
+      When a player achieves victory in BlogNomic and specifies Agora
+      Nomic as their chosen theme in their Ascension Address, they
+      satisfy the Victory Condition of Peaceful Invasion.
+
+      While Agora Nomic is the theme of a BlogNomic Dynasty, players
+      are ENCOURAGED to make BlogNomic proposals which would, if
+      enacted, result in in-game rewards for BlogNomic players who
+      register as Agoran players and perform other Agoran actions.
+      Players SHALL NOT veto or vote against such proposals. In the
+      week after such a proposal is adopted, its author CAN once award
+      emself 30 Yaks by announcement.
+
+      The Herald CAN and SHALL award the victor of an Agora Nomic
+      themed BlogNomic Dynasty the patent title BlogNomic Champion in
+      a timely manner after their victory is announced; when e does
+      so, this Rule repeals itself.

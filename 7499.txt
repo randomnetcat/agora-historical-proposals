@@ -1,0 +1,12 @@
+ID: 7499
+Title: Ribbon power fix
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2387 by replacing "and award emself the Patent Title
+Renascent." with ". The Herald is authorized to award the Patent Title
+Renascent to any player who wins the game in this fashion." and by
+replacing "If a player does not possess the Patent Title Renascent" by
+"If a player does not possess, and the Herald is not authorized to
+award em, the Patent Title Renascent."

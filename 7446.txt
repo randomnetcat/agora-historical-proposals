@@ -1,0 +1,15 @@
+ID: 7446
+Title: Chamber definition shuffle for consistency
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2389 (Ordinary Chamber) by prepending the paragraph:
+
+      Ordinary is a Voting Chamber.
+
+Amend Rule 2373 (Voting Chambers) by removing:
+
+      Ordinary is a Voting Chamber.
+
+Retitle Rule 2374 (Democratization) to "Democratic Chamber".

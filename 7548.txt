@@ -1,0 +1,17 @@
+ID: 7548
+Title: Standardized election days
+Author: Ienpw III
+Co-authors: 
+Adoption index: 1
+
+Replace the section of rule 2154 that reads:
+
+>    a) by announcement, if e is the IADoP, or the office is vacant
+>             or assumed, or no election has been initiated for the office
+>             within 90 days before the announcement;
+
+with:
+
+>    a) by announcement, if e is the IADoP, or the office is vacant
+>             or assumed, or no election has been initiated for the office
+>             within 3 months before the announcement;

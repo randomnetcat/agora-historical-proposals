@@ -1,0 +1,8 @@
+ID: 7514
+Title: Some things are uncontroversial
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2369 (Foreign Relations) by replacing "with Agoran Consent"
+with "with Agoran Consent, or without 2 objections".

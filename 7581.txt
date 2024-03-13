@@ -1,0 +1,9 @@
+ID: 7581
+Title: Speak your mind
+Author: Max Schutz
+Co-authors: 
+Adoption index: 1
+
+in addition to the full and short logical ruleset there SHALL be a
+spoken logical ruleset to balance the game for those who may come into it
+with a visual impairement or other print disability

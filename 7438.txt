@@ -1,0 +1,18 @@
+ID: 7438
+Title: Fix adoption index tracking
+Author: ais523
+Co-authors: 
+Adoption index: 2
+
+In rule 1950, after "secured with a power threshold of 2", add ", and
+tracked by the Assessor". [This makes more sense than requiring the
+Promotor to report it, as they both need the information, and the
+Assessor is in charge of deadline extensions. It's close, though.]
+
+At the end of rule 1950, add "24 hours after an Agoran Decision is
+resolved, its Adoption Index and Chamber are flipped to their default
+values." [Removes the need to track pointless values on old proposals.]
+
+For each resolved Agoran Decision, and each Agoran Decision created more
+than 90 days ago, flip its Adoption Index and Chamber to their default
+values.

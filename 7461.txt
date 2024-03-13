@@ -1,0 +1,36 @@
+ID: 7461
+Title: Distribution Changes
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+In Rule 1607 (Distribution), replace
+
+      The Promotor CAN distribute a proposal which is in the Proposal
+      Pool at any time.  In a given Agoran week, the Promotor SHALL,
+      as part of eir weekly duties, distribute all proposals in the
+      Proposal Pool that were in the Pool at the beginning of that
+      week.
+
+with:
+
+      The Mutability Index (MI) is a Budget Switch.
+
+      A proposal that was in the Proposal Pool at the beginning of a
+      given week is a pending proposal.
+
+      The Promotor CAN distribute a proposal which is in the Proposal
+      Pool at any time.
+
+      In a given Agoran week, the Promotor SHALL, as part of eir
+      weekly duties:
+      a) distribute no more than MI pending proposals with such that
+         the sum of the Distributabilities of the distributed
+         proposals is maximised, breaking ties in favour of proposals
+         which were submitted first, and
+      b) distribute all disinterested pending proposals.
+
+      The Promotor SHALL NOT distribute more than MI interested
+      proposals in a given week.
+
+Set the MI to 7.

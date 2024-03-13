@@ -1,0 +1,34 @@
+ID: 7503
+Title: Yak niggles
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend "Budget Switches" by replacing "singular" with "singleton".
+
+Amend "Office Salary" by replacing "(non-singular)" with "(i.e. non-singleton)".
+
+Amend "Distributability" by replacing "by two" with "by one". Set the
+Undistributability Fee to 20. [May as well standardise here and
+improve the incentives by giving distributability and
+undistributability the same cost.]
+
+Amend "Proposal Fees" by replacing
+
+      Proposal fee is a natural undistributed proposal switch, tracked
+      by the Promotor.
+
+with:
+
+      Proposal fee is a natural switch possessed by proposals in the
+      Proposal Pool and tracked by the Promotor.
+
+Amend "Distributability" by replacing "Distributability is a natural
+undistributed proposal switch tracked by the Promotor." with
+"Distributability is a natural switch possessed by proposals in the
+Proposal Pool and tracked by the Promotor."
+
+Amend "Office Salary" by replacing "If they fail to do so before the
+end of the nomination period, their proposed salary is set to 100."
+with "If they fail to do so before the end of the nomination period,
+their proposed salary is set to the current salary of the office."

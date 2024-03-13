@@ -1,0 +1,13 @@
+ID: 7505
+Title: (untitled)
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+invalid. Players CANNOT submit proposals in the Upper Chamber without
+2 Ministry Support.
+
+      The Rogue Backbencher is an imposed office. Any player CAN, by
+announcement, cause the player who has gone longest without holding a
+Ministry to become the Rogue Backbencher (in case of a tie, the tied
+player who registered first). Once per week, the Rogue Backbencher may

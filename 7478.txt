@@ -1,0 +1,9 @@
+ID: 7478
+Title: Abandoned means Abandoned
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+In rule 2369, replace "E SHALL inform that nomic of the change in a
+timely fashion." with "Unless its new recognition is Abandoned, e
+SHALL inform that nomic of the change in a timely fashion.

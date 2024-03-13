@@ -1,0 +1,8 @@
+ID: 7522
+Title: Consistent inconsistency
+Author: Lindar
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2410 (Parties) and Rule 2413 (General Elections) by
+replacing "Returning Officer" with "Returning Officor".

@@ -1,0 +1,26 @@
+ID: 7569
+Title: Disinterest
+Author: omd
+Co-authors: scshunt
+Adoption index: 3
+
+[Copy of the change that failed due to insufficient power in 7480.]
+
+Amend Rule 1607 (Distribution) by replacing
+
+      In a given Agoran week, the Promotor SHALL, as part of eir
+      weekly duties:
+      a) distribute no more than MI pending proposals with such that
+         the sum of the Distributabilities of the distributed
+         proposals is maximised, breaking ties in favour of proposals
+         which were submitted first, and
+      b) distribute all disinterested pending proposals.
+
+with:
+
+      In a given Agoran week, the Promotor SHALL, as part of eir
+      weekly duties:
+      a) distribute MI pending proposals (or all, if there are fewer than
+         MI of them) such that the sum of the Distributabilities of the
+         distributed proposals is maximised, and
+      b) distribute all disinterested pending proposals.

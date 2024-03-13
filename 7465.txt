@@ -1,0 +1,169 @@
+ID: 7465
+Title: (untitled)
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+[ tl;dr:
+- Parties are groups of players
+- They are governed by their own constitution, which are amended
+according to the constitution or without objection from another party
+member
+- Members SHALL obey their party constitutions
+- They pay a lower rate of Tax to encourage pooling of resources
+- Parties can 'whip' their members to vote a particular way on an
+Agoran decision
+- Once each quarter there can be a General Election
+- The winning party's leader becomes the Speaker and can assign prerogatives ]
+
+
+Enact a Power 2 Rule entitled "Parties" with the following text:
+
+      A party is a type of second-class person and a player; Rules to
+      the contrary notwithstanding, parties CANNOT be deregistered
+      except through their dissolution. The Returning Officer is an
+      office; eir report includes a list of all parties.
+
+      Party membership is a first-class Voter switch, tracked by the
+      Returning Officer, with values of each party and Independent
+      (default). A player CAN flip eir party membership by
+      announcement, provided that e satisfies any determinate
+      conditions for doing so in the constitutions of the prior party
+      (if any) and the new party (if any).
+
+      Each party has a constitution which CAN be amended by any of its
+      members without objection from another member. A party member
+      CAN amend eir party's constitution by announcement when
+      authorised to do so by eir party's constitution. Party members
+      SHALL obey their party's constitution. The Returning Officer's
+      monthly report contains the text of each party's constitution.
+
+      Leader and Deputy Leader are party switches, tracked by the
+      Returning Officer, with values of each of the party's members
+      and none (default). A member of a party CAN flip its Leader or
+      Deputy Leader without objection from another party member. A
+      party member CAN flip its Leader or Deputy Leader by
+      announcement when authorised to do so by the party constitution.
+
+      A Independent player CAN create a party with two Independent
+      support, specifying the text of the new party's constitution.
+      Upon the creation of the party the party membership of its
+      creator and each Supporter flips to the new party.
+
+      A player CAN dissolve (destroy) a party without three
+      objections.
+
+Enact a Rule entitled "Whipping" with the following text:
+
+      A party's constitution can specify the Rebellion Fines to be
+      paid, in Yaks, for defying each of a One, Two and Three Line
+      Whip.
+
+      When authorised to do so by eir party's constitution, a party
+      member CAN set eir party's Whip on a specified proposal in the
+      Proposal Pool by announcement, specifying one of FOR or AGAINST
+      and whether the Whip is One, Two or Three Lines.
+
+      When authorised to do so by eir party's constitution, a party
+      member CAN, by announcement, set eir party's Whip on an election
+      during its nomination period, specifying one of the candidates
+      and whether the Whip is One, Two or Three Lines.
+
+      Party members SHOULD vote according to their party's Whip on an
+      Agoran decision. If they fail to do so, ey SHALL transfer the
+      relevant Rebellion Fine (if any) to their party in a timely
+      manner afterwards.
+
+      For an Agoran decision on a proposal the party of the proposal's
+      author and the Whips of each party, if any, on the proposal are
+      essential parameters.
+
+Amend Rule 2138 (The Interstellar Associate Director of Personnel) by replacing
+
+     a) The holder of each office.
+
+with:
+
+     a) The holder of each office, and eir party.
+
+Amend Rule 2154 (Election Procedure) by appending to the numbered list:
+
+     5) The party of each candidate and the Whips, if any, of each
+        party on the decision are essential parameters.
+
+Amend Rule 103 (The Speaker) to read:
+
+     The Speaker is an imposed office and a figurehead of Agora. The
+     Speaker is a person who has proven themselves to be worthy of
+     the title, and for a time can direct Agoran government affairs.
+
+      At any time, each player shall be either a Voter or the Speaker; no
+      player may simultaneously be a Voter and a Speaker.  At any time
+      there shall be exactly one Speaker.  The term "player" in the rules
+      shall specifically include both the Voters and the Speaker.
+
+Enact a Power 2 Rule entitled "Government" with the following text:
+
+      The following are imposed offices, collectively termed the
+      Ministries:
+      a) Majority Leader. The Majority Leader CAN, if e has not
+         already done so to the same decision, veto a specified
+         ordinary decision in its voting period by announcement; this
+         increases its Adoption Index by 1.
+      b) Minority Leader. The Minority Leader CAN filibuster a
+         specified ordinary decision in its voting period by
+         announcement; this makes it Democratic and sets its quorum to
+         half the number of eligible voters, except if that would
+         decrease the quorum, Rules to the contrary notwithstanding.
+      c) Cabinet Secretary. The Cabinet Secretary CAN rubberstamp a
+         specified ordinary decision in its voting period by
+         announcement. Amongst the otherwise valid AGAINST votes on a
+         rubberstamped ordinary decision, only the first cast by each
+         player is valid.
+      e) Chief Whip. The Chief Whip's voting limit on an Ordinary
+         decision is 1.5 times what it would otherwise be, rounded
+         down.
+      f) Chancellor of the Exchequer. When the Yak Herdor is required
+         to destroy a number of the Chancellor's Yaks, e is only
+         required to destroy half the number e would otherwise be
+         required to, rounded down, Rules to the contrary
+         notwithstanding.
+      g) Committee Chairman. The Committee Chairman CAN, if e has not
+         already done so to a given proposal, subject a specified
+         proposal in the Proposal Pool to Death by Committee by
+         announcement; this flips the proposal's Distributability to
+         0. If e has not already done so in the current week, the
+         Committee Chairman CAN give a specified proposal in the
+         Proposal Pool Committee Approval by announcement; this
+         doubles the proposal's Distributability.
+
+      If e has not already done in the current month, or if e has not
+      done so since e gained office, the Speaker CAN form a Government
+      by announcement.
+
+      A valid announcement of the formation of a Government assigns
+      exactly one active player to each of the Ministries; no player
+      can be assigned to more than one Ministry. Upon the formation of
+      a Government, each of the Ministries comes to be held by the
+      player assigned to it by the Speaker.
+
+Enact a Power 2 Rule entitled "General Elections" with the following text:
+
+     If there has not been a General Election in the current Agoran
+     Quarter, then any Party Leader CAN Call a General Election by
+     announcement. In a timely fashion after a General Election is
+     Called, the Returning Officer CAN and SHALL initiate the Agoran
+     decision to elect the Speaker. For this decision:
+
+     1) The valid options are the Party Leaders and NO CHANGE,
+     2) The eligible voters are the active players other than the
+        Speaker, and
+     3) Each eligible voter's voting limit is eir VVLOP, or twice eir
+        VVLOP if e holds a Ministry.
+
+     Upon the resolution of this decision, if the outcome is a party
+     leader, e becomes the Speaker.
+
+Set the 2nd Class Tax Threshold to 400 and the 2nd Class Tax Rate to 50.
+
+Set the Returning Officer's salary to 100.

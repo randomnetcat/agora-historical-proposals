@@ -1,0 +1,43 @@
+ID: 7542
+Title: Infraction cases
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[Mechanisms involving trading assets for money are more interesting if
+there are ways to go into debt.  Don't want to do this for auctions
+because it's too messy, but this adds back an easy way to punish
+people for minor infractions, and a reward for doing so.]
+
+Create a Power-2 Rule titled "Infraction Cases and Rewards":
+
+      An infraction case is a subclass of criminal case; infraction
+      cases need not be assigned ID numbers.  A player CAN initiate an
+      infraction case in the same manner as an ordinary criminal case,
+      unless the alleged action or inaction is defined as a Crime of
+      at least Class 3.  A player CAN contest an infraction case by
+      announcement, which causes it to be rendered open and become an
+      ordinary criminal case.  When an infraction case has existed for
+      at least four days, a judgement of GUILTY, FINE YN goes into
+      effect, where YN is the Standard Infraction Penalty, a Budget
+      Switch; rules to the contrary notwithstanding, this judgement
+      CANNOT be appealed (but the case can still be contested).
+
+      When a fine is paid in a criminal case, its initiator gains the
+      Standard Infraction Reward, a Budget Switch.
+
+Amend Rule 1504 (Criminal Cases) by replacing the bullet point about FINE with:
+
+      * FINE with an amount of one currency, appropriate for rule
+        breaches of small consequence.  An amount is only valid if the
+        rules specify a maximum FINE amount for that currency, and the
+        amount is no greater than the maximum.  When in effect, unless
+        a fine for that case has already been satisfied, the ninny
+        SHALL pay a cost of that amount of currency to satisfy the
+        fine in a timely fashion; if e fails to do so within four
+        days, and has at least that amount, then any player CAN
+        destroy that amount from eir possession by announcement to
+        satisfy the fine.
+
+Set the value of the Standard Infraction Penalty to Y50, and the
+Standard Infraction Reward to Y25.

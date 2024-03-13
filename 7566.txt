@@ -1,0 +1,12 @@
+ID: 7566
+Title: because nobody cares
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2138 by removing
+
+      c) The date when the most recent nomination period for that
+         office began.
+
+and relabelling any following points accordingly.

@@ -1,0 +1,29 @@
+ID: 7571
+Title: Agora pulls a B
+Author: Fool
+Co-authors: 
+Adoption index: 3.1
+
+In rule 1551 (Ratification, Power=3.1), replace the sentence:
+
+      Ratifying a public document is secured.
+
+with:
+
+      Ratifying a public document is secured with Power threshold 3.
+
+[ Question for Platonists: When was the last time anything actually ratified? ] rules as self-ratifying is
+       ratified when it is continuously undoubted for one week,
+       provided:
+         - at the time of publication, its publisher was a player; or
+         - within one week of publication, it was endorsed by someone
+           who was a player at that time; or
+         - at the time of publication, it was defined by the rules as
+           self-ratifying without need of player endorsement.
+
+Amend rule 2170 (Who Am I?) by replacing "self-ratifying" with
+"self-ratifying without need of player endorsement"
+
+[Saves me from having to tediously CoE your reports.
+  And vice-versa, depending on your criminal case against me.
+  Hey, anyone need a black cap? You can borrow mine.]

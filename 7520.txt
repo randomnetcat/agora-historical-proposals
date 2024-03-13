@@ -1,0 +1,23 @@
+ID: 7520
+Title: Grammar fixes
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 217 (Interpreting the Rules) by replacing:
+
+      Differences in spelling, grammar, capitalization, whitespace,
+      dialect, or the use of synonyms or abbreviations
+
+with:
+
+      Differences in spelling, grammar, capitalization, whitespace,
+      or dialect, and uses of synonyms or abbreviations
+
+Amend the Rule enacted by Proposal 7490 (Funcentives) by replacing:
+
+      Players SHALL NOT discuss eir votes
+
+with:
+
+      Players SHALL NOT discuss their votes

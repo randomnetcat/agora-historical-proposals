@@ -1,0 +1,30 @@
+ID: 7491
+Title: Yakity
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Enact a new power-2 Rule entitled "Chamber of Commerce" reading:
+      The Chamber of Commerce is the Agoran hub of ideas and people and
+      is, naturally enough, a Chamber. All proposals are welcome in the
+      Chamber of Commerce, provided that the submitter pays the
+      Application Fee when submitting the proposal. Entrepreneurial
+      Agorans are ENCOURAGED to apply their proposals to the Chamber of
+      Commerce in order to accumulate more capital, more connections,
+      and as a result increase their business' success in the long term.
+
+      The Chamber of Commerce uses state-of-the-art modern democratic
+      processes to vote on Decisions. The voting limit of any entity
+      (anyone is welcome to participate in the deliberations of the
+      Chamber) on a Decision in the Chamber of Commerce is the square
+      root of the number of Yaks e held at the start of its voting
+      period. If you think that this might be a little daunting, don't
+      worry; every time that a decision is initiated in the Chamber of
+      Commerce, the Yak Herdor is ENCOURAGED to list all the voting
+      limits of everyone so that nobody is confused or left wanting.
+
+      Remember, the Chamber of Commerce is about YOU and your success.
+      You MAY be able to do well on your own, but if you leverage the
+      knowledge, expertise, and experience of your fellows in the
+      Chamber of Commerce, you CAN usher in a bright future both to
+      Agora and to your bottom line.

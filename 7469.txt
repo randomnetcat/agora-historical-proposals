@@ -1,0 +1,15 @@
+ID: 7469
+Title: Proposal editing
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2350 (Proposals) by replacing "Once a proposal is created,
+none of its attributes can be changed." with "Once a proposal is
+created, but before it is distributed, changing its attributes is
+secured with power threshold 2.5. Once a proposal is distributed, none
+of its attributes can be changed."
+
+Enact a new power-2.5 rule entitled "Proposal Edits" reading "The
+author of a proposal in the Proposal Pool CAN, with 2 support, edit
+the text, title, chamber, or AI of the proposal."

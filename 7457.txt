@@ -1,0 +1,10 @@
+ID: 7457
+Title: how interesting
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+[VCs awarded for interested proposals only.]
+
+Amend Rule 2389 by replacing "Whenever a proposal" with "Whenever an
+interested proposal".

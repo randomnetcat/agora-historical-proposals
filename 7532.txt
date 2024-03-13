@@ -1,0 +1,39 @@
+ID: 7532
+Title: Alternative: just ban last-minute actions in the first place
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by removing:
+
+      Any action performed by sending a message is performed at the
+      time date-stamped on that message.
+
+and, if present, by removing all text starting with "The timing of an
+action performed by sending a message"; and by appending:
+
+      Any action performed by sending a message is performed at its
+      true time.  If it would otherwise be ambiguous whether an action
+      is performed before or after a deadline, then it is considered
+      to be performed after.  A person SHALL NOT attempt to perform an
+      action whose effect substantially changes after a Rules-defined
+      deadline by sending a message to a forum in the ten minutes
+      before the deadline, unless the effect of the message would
+      extend the deadline.
+
+      The true time of a message sent via a forum is the time when the
+      forum started to make it available to other players.  The true
+      time of a message sent manually to all players is the time when
+      the last copy was sent.  If a message is sent independently via
+      multiple means, then its true time is instead the earliest of
+      the true times of each such instance.
+
+[Thus you're trying to send a message - not have it received, but send
+it - as close to ten minutes before the deadline, rather than the
+deadline itself, as possible.  This keeps the actual validity of such
+messages hopefully unambiguous, and theoretically does not give anyone
+the chance to legally respond to anyone else's last-minute messages.
+
+I considered proposing extending voting periods in these cases, but
+that's really no fun as it blocks some good scams.  If you don't think
+this is a good argument, feel free to propose it yourself. ;p]

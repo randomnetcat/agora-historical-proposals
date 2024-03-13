@@ -1,0 +1,12 @@
+ID: 7582
+Title: An Act to Increase Judicial Oversight
+Author: Ienpw III
+Co-authors: 
+Adoption index: 1
+
+Remove the following point from rule 911:
+
+* OVERRULE with a valid replacement judgement for the prior case,
+appropriate if the prior judgement was inappropriate in the prior case
+and the replacement judgement is appropriate for the prior case; the
+replacement judgement is assigned to the prior case

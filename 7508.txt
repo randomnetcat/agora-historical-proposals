@@ -1,0 +1,11 @@
+ID: 7508
+Title: Exile too harsh
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 (Criminal Cases) by removing the text "and CANNOT
+register for two months after that time".
+
+[ EXILED players still won't be able register for a month after being
+exiled due to Rule 869. ]

@@ -1,0 +1,11 @@
+ID: 7521
+Title: The Office of Harold
+Author: Fool
+Co-authors: 
+Adoption index: 3
+
+Amend rules 649 (Patent Titles), 2343 (Victory Conditions), and 1367
+(Degrees), by replacing all occurrences of "Herald" or "herald" with
+"Harold".
+
+  [ Maybe it was only a spelling error, but it's a really good error. ]

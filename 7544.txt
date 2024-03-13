@@ -1,0 +1,10 @@
+ID: 7544
+Title: Public Displays
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2143 "Official Reports and Duties" by appending the following
+paragraph: "Officers SHOULD maintain a publicly visible copy of their
+reports on the World Wide Web, and they SHOULD publish the address of
+this copy along with their published reports."

@@ -1,0 +1,19 @@
+ID: 7523
+Title: remove dangling judicial declaration reference
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2170 (Who Am I?) by replacing:
+
+      (Upon a judicial finding that the Executor of a public
+      message cannot otherwise be determined within reasonable effort,
+      the judge SHALL in a timely fashion publish a judicial
+      declaration specifying the identity of that message's Executor.)
+
+with:
+
+      (Upon a judicial finding that the Executor of a public
+      message cannot otherwise be determined within reasonable effort,
+      the judge SHOULD attempt to ratify a document specifying eir
+      identity.)

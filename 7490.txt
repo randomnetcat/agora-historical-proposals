@@ -1,0 +1,15 @@
+ID: 7490
+Title: Funcentives
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Enact a new Rule of power 1
+{{{
+      When a decision in the Star Chamber is resolved with no votes FOR,
+      then its author satisfies the Victory Condition of Kangaroo.
+
+      Players SHALL NOT discuss eir votes on proposals in the Star
+      Chamber. Doing so is the Class-4 Crime of Contempt for the
+      Contempted.
+}}}

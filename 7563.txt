@@ -1,0 +1,18 @@
+ID: 7563
+Title: Clarify inaccuracy ban
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2143 (Official Reports and Duties) by replacing:
+
+      While performing weekly or monthly duties or publishing weekly
+      or monthly reports, persons SHALL NOT publish information that
+      is Indeterminate, inaccurate or misleading.
+
+with:
+
+      A person SHALL NOT publish information that is Indeterminate,
+      inaccurate or misleading while performing a weekly or monthly
+      duty, or within a document purporting to be part of any person
+      or office's weekly or monthly report.

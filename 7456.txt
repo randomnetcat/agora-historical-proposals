@@ -1,0 +1,7 @@
+ID: 7456
+Title: We don't need induction
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Repeal Rule 2288 (Induction).

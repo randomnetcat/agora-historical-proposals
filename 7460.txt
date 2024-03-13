@@ -1,0 +1,11 @@
+ID: 7460
+Title: Abolish the PreCrime Department
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 (Criminal Cases) by replacing "another criminal case"
+with "another criminal case initiated between the breach and the
+initiation of this case".
+
+[Also deals with the appeal juggling issue.]

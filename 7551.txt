@@ -1,0 +1,31 @@
+ID: 7551
+Title: Ministry fix and buff
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 412 (Government) by replacing item e) with:
+
+      e) Chief Whip. The Chief Whip's voting limit on an Ordinary
+         decision is 1.5 times what it would otherwise be, rounded
+         down, rules to the contrary notwithstanding.
+
+[add RttCN, which may or may not be necessary]
+
+and by replacing:
+
+      g) Committee Chairman. The Committee Chairman CAN, if e has not
+         already done so to a given proposal, subject a specified
+         proposal in the Proposal Pool to Death by Committee by
+         announcement; this flips the proposal's Distributability to
+         0. If e has not already done so in the current week, the
+         Committee Chairman CAN give a specified proposal in the
+         Proposal Pool Committee Approval by announcement; this
+         doubles the proposal's Distributability.
+
+with:
+
+      g) Committee Chairman. The Committee Chairman CAN give a
+         specified proposal in the Proposal Pool not authored by em
+         Committee Approval by announcement; this increases its
+         distributability by one.

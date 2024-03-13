@@ -1,0 +1,31 @@
+ID: 7463
+Title: Explosive Gameplay
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Enact a Rule with the following text:
+
+      Bombs are a class of assets; their ownership is restricted to
+      active players. The Secretary of State for Defence is an office
+      and recordkeepor of bombs.
+
+      If e has not already done so in the current week, a player CAN
+      create a bomb in eir possession for a cost of 50 Yaks. The
+      player who created a bomb is its engineer.
+
+      If a player (the snail) has possessed a particular bomb
+      continuously for 24 hours, then that bomb explodes. When a bomb
+      explodes, it is destroyed and 100 of the snail's Yaks are
+      transferred to the bomb's engineer, except if the snail is the
+      engineeer, in which case the Yaks are destroyed.
+
+      If a player (the idiot) transfers a bomb to another player who
+      has already possessed the same bomb in the current week then the
+      bomb is immediately transferred back to the idiot and then
+      explodes.
+
+      Within 48 hours after each bomb explodes the Secretary of State
+      for Defence SHALL make a public statement to inform the Yak
+      Herdor of the explosion and any changes in Yak holdings which
+      occurred as a result.

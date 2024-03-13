@@ -1,0 +1,10 @@
+ID: 7481
+Title: Fix Bug
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2402 by replacing "during the time e held it" with "during
+that month".
+[As written, if you break a time limit, you give up on all salary for
+an office ever.]

@@ -1,0 +1,156 @@
+ID: 7555
+Title: Self-ratification, victory, office changes
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+[They all seem somewhat tied together.]
+
+Amend Rule 2139 (The Registrar) by removing:
+
+      The portion of a public message purporting to be a Registrar's
+      report that lists each player implies that no players other than
+      those listed exist and is self-ratifying.
+
+[This is covered by ratification of switches.]
+
+Amend Rule 2166 (Assets) by replacing:
+
+      This portion of that entity's report is self-ratifying.
+
+with:
+
+      This portion of a public document purporting to be that entity's
+      report is self-ratifying.
+
+Amend Rule 2343 (Victory Conditions) by replacing paragraphs 2-4 with:
+
+      A person CAN declare a victory without objection or with 2
+      Agoran Consent, specifying a person (the Champion) and a
+      instance of eir satisfying a specified Victory Condition while
+      not satisfying any Losing Conditions, as long as no victory has
+      previously been declared for the same event.  When this occurs,
+      the Champion Wins the Game.  There is no other method of winning
+      the game.  Winning the game does not cause Agora to end.
+
+      A person SHOULD NOT declare a victory for events older than one
+      month, and players SHOULD object to intents to do so, unless the
+      validity of the victory has continuously been in question since
+      less than a month after the event.  Players SHALL NOT object to
+      intents to declare a victory unless they are inaccurate or
+      pertain to events older than one month.
+
+[Self-ratification is entirely unnecessary for this case.]
+
+Amend Rule 2381 (Win by Clout) to read:
+
+      If a single Player has a voting limit on an Agoran Decision that
+      has a Chamber, and that voting limit, at the end of the
+      Decision's voting period, is greater than the combined voting
+      limits of all other entities on that decision, and no entity has
+      satisfied this condition in the last 30 days for a decision in
+      the same Chamber, that player satisfies the Victory Condition of
+      Clout.
+
+Amend Rule 2358 (Win by Paradox) by replacing the second paragraph with:
+
+      When a turtle has continuously been a turtle for one week, and
+      this condition has not been satisfied in the last 30 days for
+      any turtle regarding substantially identical events, its
+      initiator satisfies the Victory Condition of Paradox.
+
+Amend Rule 2138 (The Interstellar Associate Director of Personnel) by replacing:
+
+      a) The holder of each office.
+      b) The date on which each holder last came to hold that office.
+      c) The date when the most recent nomination period for that
+         office began.
+      d) The date when that office's reports were last published.
+
+      The portion of a public message purporting to be an IADoP's
+      report that lists the holder of each office is self-ratifying.
+
+with:
+
+      a) The date on which each holder last came to hold that office.
+      b) The date when the most recent nomination period for that
+         office began.
+      c) The date when that office's reports were last published.
+
+Amend Rule 1006 (Offices) by replacing:
+
+      An office is a role defined as such by the rules.  Each office
+      is either vacant (default) or filled (held) by exactly one
+      player.  An officer is the holder of an office, who may be
+      referred to by the name of that office.
+with:
+
+      Officeholder is an office switch tracked by the IADoP, with
+      possible values of any person or "vacant".  An officer is the
+      holder of an office, who may be referred to by the name of that
+      office.  If the holder of an office is ever not a player, it
+      becomes vacant.
+
+[Also fixes IADoP's reports ratifying playerhood.]
+
+Amend Rule 2276 (Assumption of Vacant Offices) by replacing:
+
+      An active first-class player can assume an office by
+      announcement, causing em to become its holder, provided that the
+      office is either vacant or Assumed.
+
+      Upon doing so, the office's Assumption is flipped to Assumed.
+      Whenever a vacant office is Postulated, its Assumption is
+      flipped to Assumed.
+
+      When the holder of an office ceases to be an active player, the
+      office's Assumption is flipped to Assumed.
+
+with:
+
+      An active first-class player can assume an office by
+      announcement, causing em to become its holder, provided that the
+      office is Assumed.
+
+      Whenever a Postulated office is not held by an active player, it
+      becomes Assumed.
+
+Amend Rule 2154 (Election Procedure) by replacing "vacant or assumed"
+with "Assumed".
+
+[Lots of unnecessary wording there.]
+
+Amend Rule 1607 (Distribution) by replacing:
+
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool.  This portion of a public message purporting to
+      be a Promotor's report is self-ratifying.
+
+with:
+
+      The Promotor's report includes a list of all proposals in the
+      Proposal Pool, along with their text and attributes.  This
+      portion of a public document purporting to be a Promotor's
+      report is self-ratifying.
+
+Amend Rule 2166 (Assets) by replacing:
+
+      This portion of that entity's report is self-ratifying.
+
+with:
+
+      This portion of a public document purporting to be that entity's
+      report is self-ratifying.
+
+Amend Rule 1551 (Ratification) by appending to the second-to-last paragraph:
+
+      The rules may define additional information that is considered
+      to be part of the document for the purposes of ratification;
+      such definitions are secured at a Power Threshold of 3.
+
+[Though we've treated them as working, the definitions as
+self-ratifying in R2170 of a possibly implicit claim of identity, and
+R2034 of generally unstated claims that proposals took effect, seem
+somewhat dubious to me.  I tried working out the language to make them
+explicitly ratify a different fact, but it's ugly, so here's a simple
+solution.]

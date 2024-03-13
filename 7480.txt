@@ -1,0 +1,43 @@
+ID: 7480
+Title: Disinterested Changes
+Author: scshunt
+Co-authors: omd
+Adoption index: 2
+
+Amend Rule 1607 (Distribution) by replacing
+
+      In a given Agoran week, the Promotor SHALL, as part of eir
+      weekly duties:
+      a) distribute no more than MI pending proposals with such that
+         the sum of the Distributabilities of the distributed
+         proposals is maximised, breaking ties in favour of proposals
+         which were submitted first, and
+      b) distribute all disinterested pending proposals.
+
+with:
+
+      In a given Agoran week, the Promotor SHALL, as part of eir
+      weekly duties:
+      a) distribute MI pending proposals (or all, if there are fewer than
+         MI of them) such that the sum of the Distributabilities of the
+         distributed proposals is maximised, and
+      b) distribute all disinterested pending proposals.
+
+[let the Promotor choose between proposals of equal distributability,
+require distribution of distributability-0 proposals which I think was
+an oversight]
+
+Amend "Proposal Fees" by removing "Subsequently, it CAN be set by any
+player without two objections." and appending
+
+      A proposal with a proposal fee of 0 is disinterested; proposals
+      with positive proposal fees are interested.
+
+Amend "Distributability" by removing
+
+      A disinterested proposal is a proposal identified as such when
+      submitted. If a proposal is disinterested, this is an essential
+      parameter of the decision of whether to adopt it. The remainder
+      of the rules notwithstanding, the proposal fee of a
+      disinterested proposal is 0 and CANNOT be set or changed to any
+      other value.

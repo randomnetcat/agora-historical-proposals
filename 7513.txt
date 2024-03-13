@@ -1,0 +1,47 @@
+ID: 7513
+Title: Mini?fix
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2401 (Registration Yaks) by replacing the first paragraph with:
+
+      The Registrar is a Yak Master.
+
+and by replacing "As soon as possible after" with "When", and "SHALL
+award" with "is impelled to award".
+
+Amend Rule 2402 (Office Salary) by replacing the second paragraph with:
+
+      The IADoP is a Yak Master.
+
+and by replacing "As soon as possible after" with "When", and "SHALL
+award" with "is impelled to award".
+
+Amend Rule 2404 (Proposal Fees) by removing the second paragraph with:
+
+      The Assessor is a Yak Master.
+
+and by replacing "As soon as possible after" with "When", and "SHALL
+award" with "is impelled to award".
+
+Amend Rule 2403 (Judicial Fees) by replacing the first paragraph with:
+
+      The CotC is a Yak Master.
+
+and by replacing "As soon as possible after" with "When", and "SHALL
+award" with "is impelled to award".
+
+Amend Rule 2400 (Tax) by replacing the first two paragraphs (not
+including the list) with:
+
+      The Yak Herdor is a Yak Master.  At the beginning of each
+      quarter, the Yak Herdor is impelled to:
+
+Amend Rule 2398 (Yaks) by appending:
+
+      Yak Masters CAN award and destroy Yaks by announcement, but
+      doing so except as otherwise made POSSIBLE by the Rules, or as
+      follows, is the Class-7 Crime of Administrative Error: After a
+      Yak Master is impelled to make an award or destruction, e MAY
+      once do so, and SHALL do so in a timely fashion.

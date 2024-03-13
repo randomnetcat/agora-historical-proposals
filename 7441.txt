@@ -1,0 +1,61 @@
+ID: 7441
+Title: (untitled)
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Enact a Rule with the following text:
+
+      Agora's Twentieth Birthday shall be known as the Vigintennial.
+      The Comptroller of the Lord Chamberlain's Office is an office;
+      its holder is responsible for organising the celebration of the
+      Vigintennial.
+
+      A player CAN, with two support, make a former player of Agora an
+      Ancient; the Comptroller SHALL make a reasonable effort to
+      invite each Ancient to contribute to and partake in the
+      celebration of the Vigintennial.
+
+      The Comptroller SHALL, as part of eir weekly duties, submit a
+      proposal regarding the Vigintennial and make a reasonable effort
+      to ensure that it is distributed.
+
+      The Comptroller SHALL be responsible, as part of eir weekly
+      duties, for publicising the Vigintennial both to former players
+      of Agora and to the general public, and for encouraging em to
+      participate in its celebration.
+
+      The Comptroller of the Lord Chamberlain's Office is a patent
+      title; in a timely fashion after the Vigintennial, the Herald
+      SHALL award it to the holder of the office of the same name.
+
+      When Agora is at least twenty years and one week old, any player
+      CAN cause this Rule to repeal itself by announcement.
+
+Enact a Rule with the following text:
+
+      The Comptroller CAN make a non-contest document into a
+      Vigintennial contest or amend the text or gamestate of a contest
+      without 3 objections; he then becomes that contest's
+      contestmaster.
+
+      The Vigintennial contest's instructions should include
+      conditions under which persons "win the contest".  Upon a true
+      announcement by the Comptroller that one or more persons satisfy
+      those conditions, all those persons satisfy the Victory
+      Condition of Jubilee.  Intentionally making a false such
+      announcement is the Class-4 Crime of Gaming the System.
+
+      The Comptroller SHALL obey the text of a Vigintennial contest.
+
+      The Comptroller is, prima facie, the adjudicator of Vigintennial
+      contest instructions and disputes.  Disputes should in general,
+      be resolved with the spirit of the instructions in mind.  For
+      the purpose of determining the internal gamestate of a
+      Vigintennial contest (including whether its Comptroller falsely
+      announced that persons won the contest), its instructions are
+      generally interpreted in the same manner as a rule, but the
+      reasonable opinion of the Comptroller takes precedence.
+
+      If Agora is more than twenty years and one week old, any player
+      CAN cause this Rule to repeal itself by announcement.

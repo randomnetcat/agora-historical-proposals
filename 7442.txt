@@ -1,0 +1,16 @@
+ID: 7442
+Title: No Recordkeeping Burden
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Submitting a promise with an intent other than that the Promise be
+given to another player or to
+      the Tree as a form of binding obligation on the submitter is the
+Crime of Empty Promise.
+
+      The Crime of Empty Promise is Class 3, except when the promise
+in question has empty or
+      irrelevant text, or one or more conditions which are known to be
+indeterminate and are unrelated
+      to the game state or game play, in which case it is Class 5.

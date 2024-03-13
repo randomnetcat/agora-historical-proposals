@@ -1,0 +1,17 @@
+ID: 7496
+Title: SURRENDER DOROTHY
+Author: Fool
+Co-authors: 
+Adoption index: 1
+
+Enact a new power 1 rule with the following text:
+ {{
+Fool SHALL respect the long tradition of players relinquishing the
+dictatorship after a time and not actually abusing it.
+
+Fool CAN cause this rule to amend itself by announcement, provided he
+states that he does so in the name of Davy I, Queen of Agora Nomic,
+CAT 24, and her other realms.
+ }}
+
+[ It'll be better for all involved if you surrender to Queen Davy now. ]

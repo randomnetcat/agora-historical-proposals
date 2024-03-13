@@ -1,0 +1,22 @@
+ID: 7547
+Title: Stimulus
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+[ Make disinterested proposals harder to submit. Along with VT auctions,
+this should increase the value of Yaks. This doesn't disadvantage new
+players: they now get Y200 initially and Y100 a month just for voting.
+That's plenty of proposals. Also the system is still based on bidding to be
+in the top MI, so spending on Distributability might not even be necessary,
+especially in a lull. ]
+
+Amend Rule 2404 (Proposal Fees) by removing
+
+      A proposal with a proposal fee of 0 is disinterested; proposals
+      with positive proposal fees are interested.
+
+Amend Rule 2405 (Distributability) by appending:
+
+All proposals are either interested or disinterested. Disinterested
+proposals CAN only be submitted without two objections.

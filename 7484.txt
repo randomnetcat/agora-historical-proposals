@@ -1,0 +1,9 @@
+ID: 7484
+Title: Scoping It All
+Author: Roujo
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2128 by appending:
+      The IADoP can be referred to by substituting "Interstellar" with
+any other single word beginning with "Inter".

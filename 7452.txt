@@ -1,0 +1,75 @@
+ID: 7452
+Title: secret votes redux
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Create a new Power-3 Rule titled "Star Chamber":
+
+      Star is a Voting Chamber.  The voting limit of an eligible voter
+      on a decision in the Star Chamber is 1.  Submitting a proposal
+      in the Star Chamber has a cost of A Yaks, where A is the value
+      of the Insanity Fee, a Budget Switch.
+
+      The Chamber of a decision CANNOT become Star except by being
+      initialized to that value when the decision is initiated.  If
+      the set of options of a decision in the Star Chamber changes, or
+      such a decision is initiated with more than 1000 options or
+      eligible voters, it automatically becomes Democratic.
+
+      Otherwise, within 24 hours after a decision is initiated in the
+      Star Chamber, the initiator SHALL once, for each eligible voter:
+      - construct a document (the Codebook) clearly listing a distinct
+        code for each option, randomly chosen from a reasonably large
+        universe of possible codes;
+      - publish its SHA-1 hash, clearly labeled as the hash of eir
+        Codebook for that decision; then
+      - privately send it to that voter, clearly labeled as eir
+        Codebook for that decision.
+
+      A player's Codebook for a decision is the first document whose
+      hash has been published as described.  The initiator SHALL NOT
+      mislabel any document as a Codebook or the hash of a Codebook.
+      The initiator SHOULD follow these steps immediately after
+      initiating the decision; if e fails to do so within the time
+      limit, players SHOULD make the decision Democratic.
+
+      Rules to the contrary notwithstanding, when submitting a ballot
+      on a decision in the Star Chamber, an eligible voter must select
+      an option by clearly identifying the code for that option listed
+      in eir Codebook rather than the option itself.
+
+      Within 4 days after the end of such a decision's voting period,
+      the initiator SHALL publish each of its Codebooks, clearly
+      labeled as such; when e does so at any time, the decision
+      becomes Collapsed.  If e does not do so in a timely fashion
+      after the end of the voting period, then all ballots on that
+      decision become invalid and the decision becomes Collapsed.
+      Rules to the contrary notwithstanding, the decision can only be
+      resolved after the decision becomes Collapsed; if the vote
+      collector is required to resolve the decision, e need only do so
+      in a timely fashion after this occurs.
+
+      The initiator of a decision in the Star Chamber SHALL NOT
+      disclose any of its codes, or otherwise allow them to become
+      known to other persons, before the end of the voting period,
+      except as previously described, and SHOULD take measures to
+      assign the codes automatically without em personally seeing
+      them.
+
+Set the value of the Insanity Fee to 100.
+
+[Puts the burden of maintaining the codes on the Promotor rather than
+each voter, and, unlike previous proposals, avoids having to trust
+anyone to determine the gamestate.  I considered having the initiator
+contact the vote collector immediately, but may as well minimize the
+number of people who have to handle the codes - I will attempt to be
+punctual.
+
+Update: Now with more accountability, as a voter can (but need not, if
+e trusts the initiator and doesn't feel like computing a SHA-1 hash)
+verify the private message at initiation time.  There is no way to
+stop a player from falsely claiming not to have received eir Codebook
+(could add a truthfulness clause, but then players might make such
+claims to a-d) and causing democratization, but hopefully nobody will
+do that.

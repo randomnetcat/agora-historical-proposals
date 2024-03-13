@@ -1,0 +1,13 @@
+ID: 7462
+Title: Democracy for Tibetan Animals
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+Append to Rule 2374 (Democratization) the following:
+
+      Any player CAN, by announcement, set the Chamber of an entity to
+      Democratic for a cost of N Yaks, where N is equal to the value
+      of the Democratization Fee, a Budget Switch.
+
+Set the Democratization Fee to 400.

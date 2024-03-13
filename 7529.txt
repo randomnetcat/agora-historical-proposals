@@ -1,0 +1,85 @@
+ID: 7529
+Title: The Wisconsin Line-Item Veto
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[Update 2: Nerfs to 45 days and brings back the Cabinet Secretary with
+a different job.  The wisdom of making the Cabinet Secretary a
+Minister in the first place will have to be left to those better
+versed in eighties-era TV shows.]
+
+Amend Rule 2412 (Government) by replacing items a), b), and c) with:
+
+      a) Governor General. The Governor General has the power of
+         Line-Item Veto, as described elsewhere.
+      b) Majority Leader. The Majority Leader CAN rubberstamp a
+         specified ordinary decision in its voting period by
+         announcement. Amongst the otherwise valid AGAINST votes on a
+         rubberstamped ordinary decision, only the first cast by each
+         player is valid.
+      c) Minority Leader. The Minority Leader CAN filibuster a
+         specified ordinary decision in its voting period by
+         announcement; this makes it Democratic and sets its quorum to
+         half the number of eligible voters, except if that would
+         decrease the quorum, Rules to the contrary notwithstanding.
+      d) Cabinet Secretary. The Cabinet Secretary CAN flip a Budget
+         Switch with Agoran Consent.
+
+[Adds the Governor General.  The old Majority Leader's veto is removed
+in favor of the new one, and the Majority Leader gets the Cabinet
+Secretary's old job.]
+
+Change the title of Rule 2406 (Veto and Rubberstamp) to "Line-Item
+Veto", and amend it to read:
+
+      If e has not done so in the last 45 days, the Governor General
+      CAN announce a Line-Item Veto, specifying an unresolved Ordinary
+      decision to adopt a proposal with an adoption index no greater
+      than 2.  As part of the resolution of a decision as ADOPTED for
+      which a Line-Item Veto has been announced, immediately after the
+      proposal's power is set, it is reset to 0, and while the
+      proposal is taking effect, all gamestate changes are secured.
+      Once the decision has been resolved, the Governor General CAN
+      once submit a document as a Signed Copy of the proposal by
+      announcement, and SHALL do so in a timely fashion.
+
+      A valid Signed Copy of a proposal is a document whose text is
+      identical to the text of the proposal, except that any number of
+      complete words, as well as any amount of punctuation and
+      whitespace, may be removed.  Furthermore, the Signed Copy must:
+
+      - not introduce any significant grammatical errors that were not
+        present in the original proposal.  A significant error is one
+        that is unambiguously incorrect in all standard dialects of
+        formal English prose, and not standard in Agoran usage.
+
+      - not add any sentences to the Ruleset that are useless or
+        clearly have no effect on the game, except ones already to be
+        added in the original proposal.
+
+      When a valid Signed Copy is submitted, its Power is set to the
+      minimum of four and adoption index of the proposal, and then it
+      takes effect in the same manner as a proposal.  A purported
+      submission of a Signed Copy constitutes a self-ratifying
+      statement that it is valid.
+
+[If the Governor General fails to submit a Signed Copy, it can be done
+by deputisation.
+
+So, yeah.  I was considering making it a bit more frequent but
+subvertible - the Governor General would have to announce the veto
+within the first six days of the voting period, so voters could pile
+on AGAINST if it seemed powerfully abusable - but I think that would
+end up underwhelming, as after the Governor General has a picked a
+specific proposal for everyone to look at, it would be pretty unlikely
+for eir planned veto not to be spotted.  Instead, I restricted it to
+ordinary decisions, so the veto can be prevented either by submitting
+as Democratic or with AI >= 2.1, or with democratization, but someone
+has to think of it in advance, and of course the Governor General gets
+at most three attempts per election.  Considering that the Governor
+General probably doesn't disagree enough with most legislation to want
+to modify or break it just for the sake of eir opinion, and that most
+proposals probably can't be modified into a dictatorship or win this
+way, despite its power, I suspect the line-item veto will be rare and
+interesting.]

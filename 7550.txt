@@ -1,0 +1,11 @@
+ID: 7550
+Title: Democratic Democracy Only
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2374 (Democratic Chamber) by removing:
+
+      Any player CAN, by announcement, set the Chamber of an
+      entity to Democratic for a cost of N Yaks, where N is equal to
+      the value of the Democratization Fee, a Budget Switch.

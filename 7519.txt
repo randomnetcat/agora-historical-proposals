@@ -1,0 +1,34 @@
+ID: 7519
+Title: fixed fixed Gerontocracy fix
+Author: omd
+Co-authors: Walker
+Adoption index: 3
+
+Amend Rule 2357 by replacing:
+
+      During the 32 days after a Gerontocracy is declared:
+
+with:
+
+      A Gerontocracy ends 32 days after it is declared, unless it is
+      brought to an end early. Ending a Gerontocracy early is secured.
+      During a Gerontocracy:
+
+and by appending:
+
+      * Any Elder CAN end the Gerontocracy early without three Elder
+        objections.
+
+and by replacing:
+
+      An Elder can declare a Gerontocracy with 3 Elder support, unless
+      a Gerontocracy was declared within the preceding 28 days.
+
+with:
+
+      An Elder can declare a Gerontocracy with 3 Elder support, unless
+      a Gerontocracy was declared within the preceding 28 days and has
+      not ended.
+
+As of the adoption of this proposal, any ongoing Gerontocracy is
+brought to an end.

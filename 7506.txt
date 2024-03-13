@@ -1,0 +1,11 @@
+ID: 7506
+Title: ais523's Rule
+Author: Walker
+Co-authors: 
+Adoption index: 1
+
+Enact a Rule with the text: "Points are a class of fixed assets; the
+Yak Herdor is their recordkeeper. A player CAN create a Point in eir
+possession for a cost of 100 Yaks. When a player has at least 50
+Points, e satisfies the Winning Condition of High Score, then all
+Points are destroyed."

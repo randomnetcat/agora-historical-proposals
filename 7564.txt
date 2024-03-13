@@ -1,0 +1,12 @@
+ID: 7564
+Title: The Logic that Never Was
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 217 (Interpreting the Rules) by appending:
+
+      In general, the gamestate only changes as explicitly envisioned
+      by the Rules, and an absurdity that can be concluded from the
+      assumption that a statement is false does not constitute proof
+      that it is true.

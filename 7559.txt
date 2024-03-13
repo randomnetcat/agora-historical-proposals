@@ -1,0 +1,16 @@
+ID: 7559
+Title: humbug
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+[ Things have changed since 1998. ]
+
+Repeal Rule 1769 (Holidays).
+
+Amend Rule 1727 (Happy Birthday) by replacing "; but, since that falls
+within a Holiday, is observed during the entire days of January 12 through
+14, GMT +1200, of each year." with ".".
+
+Amend Rule 2329 (Festival Days) by replacing "January 12-14" with "December
+30".

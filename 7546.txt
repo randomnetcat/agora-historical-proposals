@@ -1,0 +1,17 @@
+ID: 7546
+Title: Lovely Salaries
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+[ Officers don't lose a month's salary just for missing one deadline, which
+is especially unfair for the CotC. Assuming infractions pass, they should
+be used to dock tardy officers a proportionate amount of pay. ]
+
+Amend Rule 2402 (Office Salary) by replacing "for which:
+       a) the officeholder held the office for at least two weeks
+          continuously in the previous month, and
+       b) the officeholder completed all duties required of em as a
+          result of holding the office during that month, within any
+          time limits for doing so." with "for which the officeholder held
+the office for at least two weeks continuously in the previous month."

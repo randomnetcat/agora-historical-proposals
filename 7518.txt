@@ -1,0 +1,47 @@
+ID: 7518
+Title: Jumping Posture
+Author: Yally
+Co-authors: 
+Adoption index: 1.5
+
+[Adds a new Jumping judicial posture enabling players to decide how often
+they want to receive cases.]
+
+
+Amend the section of Rule 1871 which reads:
+
+* Standing.  Standing players are generally qualified to judge.
+
+
+to read:
+
+* Jumping. Jumping players are generally qualified to judge.
+
+* Standing.  Standing players are generally qualified to judge if there are
+no well qualified jumping players.
+
+
+and the section which reads:
+
+A player CAN flip eir posture to any non-standing value by announcement.
+
+When the CotC assigns a player as judge, that player becomes sitting.
+
+The CotC CAN rotate the bench (change all sitting players to standing) by
+announcement, but SHALL NOT do so unless, of the judicial cases requiring
+assignment:
+
+
+to read:
+
+A player CAN flip eir posture to any value, except standing or jumping, by
+announcement.
+
+When the CotC assigns a player as judge, that player becomes standing if e
+was previously jumping and sitting if e was previously standing.
+
+Aspiration is a player switch with the same values as Posture, and default
+value standing. A player CAN flip eir Aspiration to any value by
+announcement. The CotC CAN rotate the bench (change the Posture of all
+sitting players to their Aspiration values) by announcement, but SHALL NOT
+do so unless, of the judicial cases requiring assignment:

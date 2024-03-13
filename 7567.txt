@@ -1,0 +1,8 @@
+ID: 7567
+Title: Civil service reform
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2412 (Government) by replacing "first cast by each player is
+valid" with "first two cast by each player are valid".

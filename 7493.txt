@@ -1,0 +1,20 @@
+ID: 7493
+Title: Complete Rubbish
+Author: Fool
+Co-authors: 
+Adoption index: 1
+
+Enact a new power 1 rule with the following text:
+ {{
+Fool CAN satisfy the Victory Condition of Complete Rubbish by
+announcement, if he has not already done so.
+
+Fool CAN cause this rule to repeal itself by announcement.
+ }}
+
+[ 1. As the newest player and a generally talentless hack, Fool is
+clearly the player who least deserves to win.
+  2. If such a player should win simply by asking, that would indeed
+be Complete Rubbish.
+  3. QED.
+  4. Vote for me. ]

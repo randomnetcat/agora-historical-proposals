@@ -1,0 +1,26 @@
+ID: 7492
+Title: Good Judgement
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2403 (Judicial Fees) to read:
+
+     The CotC CAN award Yaks by announcement, but SHALL NOT do so
+     except as required by the Rules.
+
+     As soon as possible after a player or an appeals panel judges a
+     judicial case within any time limits for doing so, the CotC
+     SHALL award A Yaks to the player or B Yaks to each member of the
+     judicial panel, where
+     a) A is equal to the value of the Standard Case Fee, a Budget
+        Switch, and
+     b) B is equal to the value of the Standard Appeal Fee, a Budget
+        Switch,
+     except if the judge in question has already assigned a judgement
+     to the same case previously.
+
+     In the week after a judgement is assigned to an appeals case of
+     the form "<action> with prejudice", any player CAN destroy any
+     Yaks the prior judge was awarded for the prior judgement by
+     announcement; the CotC is ENCOURAGED to do so.

@@ -1,0 +1,21 @@
+ID: 7533
+Title: Referendum on date rewriting
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+The Distributor is ENCOURAGED to rewrite the Date headers in list
+messages to contain the date of receipt.
+
+[Now that I've actually given it a modicum of thought, putting a date
+stamp in the Date header is essentially orthogonal to the choice
+between my other two proposals (or neither, but this proposal doesn't
+make much sense without one of them).  They would both make the list's
+time canonical (though more squishily in the alternative case, which
+would attempt to make cases where the difference matters rare), and
+putting that in the Date header versus making people notice that a
+particular message is timing critical and looking at the original is a
+separate matter.
+
+If this passes, we should decide whether resend-only-on-mung should be
+the default always, never, or only for Gmail.]

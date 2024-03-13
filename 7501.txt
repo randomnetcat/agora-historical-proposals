@@ -1,0 +1,11 @@
+ID: 7501
+Title: Star Quorum Cleanups
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2409 (Star Chamber) inserting "- publish the list of codes
+(but not the corresponding options)" as the second item in the
+bulleted list.
+[Allows the Assessor to know whether or not each vote cast is valid
+for the purposes of extending th voting period.]

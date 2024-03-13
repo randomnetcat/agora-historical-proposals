@@ -1,0 +1,9 @@
+ID: 7556
+Title: Kirby I
+Author: omd
+Co-authors: 
+Adoption index: 1
+
+Create a Rule with the following text:
+
+      omd CAN cause this rule to amend itself with notice.

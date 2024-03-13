@@ -1,0 +1,12 @@
+ID: 7458
+Title: abolish officer VCs
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+[Officers now have salaries. Also, this limits the VC supply to the
+value of the MI (currently 10), along with the previous proposal,
+allowing for VC speculation as previously discussed.]
+
+Amend Rule 2389 by removing the sentence beginning with "At the end of
+each week".

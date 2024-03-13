@@ -1,0 +1,21 @@
+ID: 7540
+Title: No scam TIME OUTs
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 by replacing:
+
+      When a sentence of TIME OUT goes into effect, the ninny becomes
+      inactive, and eir stasis timer increases by the specified
+      amount; when it ceases to be in effect, eir stasis timer is
+      decreased by the specified amount.
+
+with:
+
+      When a sentence of TIME OUT has been in effect continuously for
+      one week, the ninny becomes inactive, and eir stasis timer
+      increases by the specified amount.
+
+[12:28 < eelpout> So I was going to: TIME OUT you, resolve election,
+assume Gov Waste and Herald, then Motion to Reconsider and re-judge]

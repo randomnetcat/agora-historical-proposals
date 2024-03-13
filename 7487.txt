@@ -1,0 +1,15 @@
+ID: 7487
+Title: Let Parties Vote
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 1950 (Decisions with Adoption Indices) by deleting "first-class".
+
+Enact a new power-2 rule entitled "Partisan Actions" reading:
+      The constitution of a party CAN authorize one or more of its
+members to, by
+      announcement, cause that party to take any action it CAN take, subject
+      to any limitations set out in that constitution. In the absence of such a
+      provision, the Leader of a party CAN cause that party to act with support
+      from a majority of the other members of the party.

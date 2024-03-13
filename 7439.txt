@@ -1,0 +1,8 @@
+ID: 7439
+Title: he -> e
+Author: woggle
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2370 (The Ambassador-At-Large) by replacing "he becomes" with "e
+becomes".

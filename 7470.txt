@@ -1,0 +1,16 @@
+ID: 7470
+Title: Finish de-ASAP'ing
+Author: woggle
+Co-authors: 
+Adoption index: 3
+
+If Rule 649 contains "As soon as possible", amend Rule 649 by replacing "As
+soon as possible" with "In a timely fashion".
+
+Amend the following rules, in the following order by replacing all instances
+of "As soon as possible" with "In a timely fashion" and all instances of "as
+soon as possible" with "in a timely fashion":
+        2154
+        2341
+        1789
+        2393

@@ -1,0 +1,16 @@
+ID: 7475
+Title: Trying again to repeal the dictionary
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Repeal Rule 2388 (The Dictionary).
+
+If Rule 2389 (Ordinary Chamber) mentions the Lexicographor, prepend to
+it the sentence "The Lexicographor is an office".
+
+Amend Rule 2337 (Promises) by appending:
+
+      A persistent promise is one whose conditions for destruction on
+      cashing is {false}.  A revocable promise is one whose set of
+      conditions for author destruction is {true

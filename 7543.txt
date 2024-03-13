@@ -1,0 +1,87 @@
+ID: 7543
+Title: Fixed voting auctions
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+[Fixed the loser-pays issue.  Also, downgraded to four VTs per month
+to reduce auction noise and increase value.  At this rate, there are
+expected to be about 8 VTs in existence at any given time; if VTs are
+split between, say, three or four people who actually care enough to
+spend Yaks (I would certainly like that to be higher, but I bet it
+won't be), that's about 2-3 VTs each for the rich people.
+
+On one hand, the current high voting limit is a bit less than 3 times
+the normal voting limit, and periods between resets aren't lasting
+that long and voting limit increases are more evenly distributed,
+while these would last up to three months and would be more granular,
+so it would make sense to decrease the expected high voting limit.  On
+the other hand, these are intentionally liquid (allowing for trades
+outside of the periodic auctions), so they should be considered
+valuable, and their total influence on the vote is limited because
+they don't scale with activity.  I'm going to go with giving making VT
+worth 2/3 of a normal vote.]
+
+Amend Rule 2389 (Ordinary Chamber) to read:
+
+      Voting Tokens are a class of assets tracked by the Assessor.
+      Each Voting Token has an ID number and an Expiration Date, upon
+      which it is automatically destroyed.
+
+      Ordinary is a Voting Chamber.  The voting limit of an entity on
+      an Ordinary Decision is two times the number of Voting Tokens in
+      eir possession, plus three if e is a first-class person.
+
+      A VT Auction is a type of Auction with an Auction Currency of
+      Yaks, a Starting Bid of the Minimum VT Fee, a Budget Switch, and
+      a Minimum Increment of Y5.  In a timely fashion after the
+      beginning of each month, the Assessor CAN and SHALL initiate
+      four VT Auctions.  When initiating the Auction, e must specify a
+      Lifetime from 2 to 12 weeks, and for this purpose SHALL use a
+      reasonably publicly verifiable method to make a random selection
+      of 2d6.  At the end of the Auction, the winner (if any) gains
+      one VT whose Expiration Date is the date of creation plus that
+      Lifetime.
+
+Set the Minimum VT Fee to Y30.
+
+[VCs are too limited and draw attention away from Yaks, which are not
+useful enough; plus, we haven't had auctions in a while.
+
+Ruleset history: 1997-99 (at least) had Voting Tokens which were
+single-use, /and required to make any votes at all/.  And during some
+periods at least, you were severely limited if you didn't get officer
+salaries.  Mm... could be fun, but I'm not ready to go all the way
+there.]
+
+Amend Rule 2393 (Auctions) to read:
+
+      A person authorized by the rules to initiate an Auction (the
+      Auctioneer) CAN do so by announcement, specifying its Auction
+      Currency, Starting Bid, and Minimum Increment.  The initiation
+      of an Auction initiates its bidding period.
+
+      While an Auction is in progress, each active player has a
+      current bid in units of the Auction Currency, initially 0, and
+      CAN bid a specified amount by announcement, if the amount is at
+      least the Starting Bid and at least the Minimum Increment more
+      than the highest current bid, and e possesses at least the
+      difference between the amount and eir current bid, which e
+      SHOULD specify; this causes the difference to be destroyed from
+      eir possession and the new amount to become eir current bid.
+      The prospective winner of an Auction is the player (if any) with
+      the highest current bid.
+
+      The bidding period ends when any of the following occur:
+      (1) one week has passed from the start of the Auction, and there
+          is no prospective winner; or
+      (2) there is a prospective winner, and 72 hours have passed
+          since eir identity last changed; or
+      (3) two weeks have passed since the start of the Auction.
+
+      After the bidding period ends, the Auctioneer CAN once resolve
+      the Auction by announcement, specifying each nonzero current bid
+      and the prospective winner, and SHALL do so in a timely fashion.
+      When an Auction is resolved, the prospective winner becomes the
+      winner, each entity with a current bid other than the winner
+      gains that amount of the Auction Currency, and the Auction ends.

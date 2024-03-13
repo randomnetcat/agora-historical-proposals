@@ -1,0 +1,18 @@
+ID: 7444
+Title: Make implicit votes sensitive to voting limit increases
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2280 (Implicit Votes) by replacing:
+
+      e casts a number of ballots equal to eir voting limit on that
+      decision.
+
+with:
+
+      e casts an implicit vote.  At resolution time, rules to the
+      contrary notwithstanding, an implicit vote is treated as if it
+      were a number of identical votes equal to eir voting limit.
+
+[A better version of Proposal 6998.]

@@ -1,0 +1,7 @@
+ID: 7440
+Title: When ., -> When ,
+Author: woggle
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2387 by replacing "question.," with "question,"

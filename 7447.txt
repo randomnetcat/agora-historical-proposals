@@ -1,0 +1,17 @@
+ID: 7447
+Title: Conditional votes should be Power-3
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Change the power of Rule 2127 (Conditional Votes) to 3.
+
+Amend Rule 2127 by replacing "and is clearly specified" with "and,
+rules to the contrary notwithstanding, is clearly specified".
+
+[I would not be surprised at all if all conditional votes were
+ineffective, as conditional ballots do not clearly identify the option
+selected in the normal sense; the strong game custom that "clear" for
+a vote doesn't mean what it means in every other case (i.e. clear at
+the time) may make the power-1 rule effective anyway, but it would be
+better to give it proper authority.]

@@ -1,0 +1,17 @@
+ID: 7537
+Title: SURRENDER DOROTHY
+Author: Fool
+Co-authors: 
+Adoption index: 3
+
+Enact a new power 3 rule with the following text:
+  {{
+Fool CAN cause this rule to amend itself by announcement, provided he
+states that he does so in the name of Davy I, Queen of Agora Nomic, CAT
+24, and her other realms.
+  }}
+
+[ Same as failed prop 7494, but removed the controversial clause "Fool
+SHALL respect the long tradition of players relinquishing the
+dictatorship after a time and not actually abusing it." I expect this
+will pass now. ]

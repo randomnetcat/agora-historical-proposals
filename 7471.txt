@@ -1,0 +1,14 @@
+ID: 7471
+Title: Not that large
+Author: Murphy
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2378 (Court Protector) by replacing this text:
+
+      A CFJ may be submitted to the Ambassador-At-Large.
+
+with this text:
+
+      When initiating a judicial case, a person CAN submit it to the
+      Ambassador-At-Large by clearly announcing that e does so.

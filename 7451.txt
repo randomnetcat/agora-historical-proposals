@@ -1,0 +1,24 @@
+ID: 7451
+Title: Fix messy statements differently
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Repeal Rule 2367 (Messy Statements).
+
+Amend Rule 2143 (Official Reports and Duties) by replacing "inaccurate
+or misleading" with "Indeterminate, inaccurate or misleading".
+
+Amend Rule 2202 (Ratification Without Objection) by replacing
+"incorrect document" with "document containing incorrect or
+Indeterminate information".
+
+Amend Rule 2381 (Win by Clout) by replacing "correct" with "correct
+and Determinate".
+
+[Fine, be that way.  Although I maintain that Fifty-Nine Thirty-Seven
+was a correct fix and should have been adopted, I suppose that
+Determinate and Messy Statements are fairly redundant, and there are
+only a few locations in the rules that are actually affected by Messy
+Statements' redefinition of "accurate" and "correct", so might as well
+go to the source.]

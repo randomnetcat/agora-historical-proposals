@@ -1,0 +1,17 @@
+ID: 7541
+Title: What's a Voter?
+Author: Fool
+Co-authors: 
+Adoption index: 2
+
+Amend rule 2410 to replace:
+
+       Party membership is a first-class Voter switch
+
+with
+
+       Party membership is a first-class player switch
+
+[ Rule 104 used to define "Voter" as a player other than the Speaker,
+but this clause was repealed by proposal 7486, passed just before the
+general election was called. ]

@@ -1,0 +1,25 @@
+ID: 7455
+Title: We don't need judicial declarations
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2170 (Who Am I?) by removing:
+
+      Upon a judicial
+      finding that the claimed publisher of one or more messages
+      (hereafter the Sock Puppet) was not a person, if any of those
+      claims have already self-ratified, then the judge SHALL as soon
+      as possible publish a judicial declaration that the Sock Puppet
+      was a person during one or more time periods, and SHOULD ensure
+      that it corresponds to general belief prior to that finding.
+
+Repeal Rule 2212 (Judicial Declarations).
+
+[The Sock Puppet clause is fairly vague and of dubious general
+applicability, since it seems a stretch to equate "Y is an alias for
+the person usually known as X" with "Y is not a person".  Since
+judicial declarations are just documents that SHOULD be ratified, if
+we ever come across a sockpuppet, we can decide the appropriate
+document to attempt to ratify at the time rather than trying to handle
+every case in the rules.]

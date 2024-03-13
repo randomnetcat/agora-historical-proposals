@@ -1,0 +1,11 @@
+ID: 7509
+Title: Allow shorter times on naughty step
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 1504 (Criminal Cases) by replacing "7 and 21" with "4 and 21".
+
+[ Four days might seem too short to bother, but becoming inactive at
+all can have disadvantages, and there's still a reasonable chance
+ninnies will miss a distribution. ]

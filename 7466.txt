@@ -1,0 +1,57 @@
+ID: 7466
+Title: Victim's Rights
+Author: scshunt
+Co-authors: 
+Adoption index: 1.7
+
+Enact a new rule entitled "Recovery Cases", power 1.7
+{
+      Recovery cases are a subclass of judicial case. Any player CAN
+      initiate a recovery case by announcement, specifying:
+        a) An associated criminal case designating the offence for which
+           a remedy is sought,
+        b) The person from whom recovery is sought (the lucky one) other
+           than the accused of the associated criminal case, and
+        c) The nature of the remedy sought.
+
+      The purpose of recovery cases is to correct advantages obtained
+      inadvertently by third parties as a result of rule violations made
+      by another. They do not assign any additional blame beyond that of
+      the associated criminal case.
+
+The initiator, the lucky one, and the accused in the associated
+criminal case are unqualified to judge a recovery case. All persons
+unqualified to judge the associated criminal case are poorly qualified
+to judge a recovery case. The lucky one is poorly qualified to judge
+the associated criminal case.
+
+      The CotC SHALL NOT assign a recovery case to a judge and a judge
+      SHALL NOT judge a recovery case if the associated criminal case is
+      open or suspended. If the associated criminal case is rendered
+      open after judgment, then so is the recovery case.
+
+      The valid judgments for a recovery case are as follows:
+      * REMEDY with a valid remedy, appropriate if the following are
+        true:
+          a) The associated criminal case has judgment GUILTY,
+          b) The lucky one received some benefit from the violation of
+             the rules in the associated criminal case, and
+          c) It would not be unfair to correct that benefit.
+      * NO REMEDY, appropriate if the following are true:
+          a) The associated criminal case has judgment GUILTY, and
+          b) The lucky one received no benefit from the violation of the
+             rules in the associated criminal case, or it would be
+             unfair to correct that benefit.
+      * NO VIOLATION, appropriate if the associated criminal case has
+        judgment NOT GUILTY.
+
+      The valid remedies are FINE and COMMUNITY SERVICE, with the same
+      effects and function as the corresponding sentences with the
+      lucky one in place of the ninny, except that FINE does not need to
+      respect an asset's FINE value, and may be applied to assets
+      without a FINE value.
+
+      If a recovery case has had a judgment of REMEDY for less than a
+      week, the lucky one or the ninny in the associated criminal case
+      CAN appeal the case by announcement.
+}

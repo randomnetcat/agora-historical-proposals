@@ -1,0 +1,11 @@
+ID: 7558
+Title: Walker's excellent* Agoran red-tape removal proposal**
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+[ If you want a four day wait, you can still put one in, but it's
+unnecessary in some cases. ]
+
+Amend Rule 2337 (Promises) by replacing "with notice" with "by
+announcement".

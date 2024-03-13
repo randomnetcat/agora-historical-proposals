@@ -1,0 +1,8 @@
+ID: 7477
+Title: Okinawa no Shuuri
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1
+
+In the rule "Okinawa", replace "and no other player has at least seven Stones in
+Okinawa" with "and no other player has any Stones in Okinawa".

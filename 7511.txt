@@ -1,0 +1,10 @@
+ID: 7511
+Title: Bad Cop
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2356 (Naughtiness) to read:
+      A person CAN taunt the police by announcement specifying an
+      integer from 1 to 14 inclusive. Doing so is the Class-N Crime
+      of Naughtiness, where N is the specified integer.

@@ -1,0 +1,22 @@
+ID: 7553
+Title: Remove useless vote protection
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 2034 (Vote Protection and Cutoff for Challenges) by removing:
+
+      Any proposal that would otherwise change the validity of any
+      existing vote on any specific unresolved Agoran decision is
+      wholly without effect, rules to the contrary notwithstanding.
+      This does not prevent amendment of the rules governing the
+      validity of votes on Agoran decisions in general.
+
+      Once an Agoran decision has been resolved, votes on it CANNOT be
+      validly submitted or retracted, and its outcome CANNOT be
+      changed in any way, rules to the contrary notwithstanding.  This
+      does not prevent correcting errors in reporting its resolution.
+
+[Paragraph 1 is trivial to circumvent; the part of paragraph 2 about
+submitting and retracting is guaranteed by R683, and the part about
+the outcome changing is unnecessary.]

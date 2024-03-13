@@ -1,0 +1,63 @@
+ID: 7528
+Title: Voting auctions
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2389 (Ordinary Chamber) to read:
+
+      Voting Tokens are a class of assets tracked by the Assessor.
+      Each Voting Token has an ID number and an Expiration Date, upon
+      which it is automatically destroyed.
+
+      Ordinary is a Voting Chamber.  The voting limit of an entity on
+      an Ordinary Decision is the number of Voting Tokens in eir
+      possession, plus two if e is a first-class person.
+
+      A VT Auction is a type of Auction with an Auction Currency of
+      Yaks and a Starting Bid of Y20.  In a timely fashion after the
+      beginning of each month, the Assessor CAN and SHALL initiate six
+      VT Auctions.  When initiating the Auction, e must specify a
+      Lifetime from 2 to 12 weeks, and for this purpose SHALL use a
+      reasonably publicly verifiable method to make a random selection
+      of 2d6.  At the end of the Auction, the winner (if any) gains
+      one VT whose Expiration Date is the date of creation plus that
+      Lifetime.
+
+[VCs are too limited and draw attention away from Yaks, which are not
+useful enough; plus, we haven't had auctions in a while.
+
+Ruleset history: 1997-99 (at least) had Voting Tokens which were
+single-use, /and required to make any votes at all/.  And during some
+periods at least, you were severely limited if you didn't get officer
+salaries.  Mm... could be fun, but I'm not ready to go all the way
+there.]
+
+Create a Power-2 Rule titled "Auctions":
+
+      A person authorized by the rules to initiate an Auction (the
+      Auctioneer) CAN do so by announcement, specifying its Auction
+      Currency and Starting Bid.  The initiation of an Auction
+      initiates its bidding period.
+
+      While an Auction is in progress, each active player has an
+      Auction Account for that auction; rules to the contrary
+      notwithstanding, if the Auction Currency is restricted to a
+      class of entities, the Auction Accounts are part of that class.
+      The prospective winner of an Auction is the player (if any)
+      whose Auction Account owns the most units of the Auction
+      Currency and owns at least the Starting Bid.
+
+      The bidding period ends when any of the following occur:
+      (1) one week has passed from the start of the Auction, and there
+          is no prospective winner; or
+      (2) there is a prospective winner, and 72 hours have passed
+          since eir identity last changed; or
+      (3) two weeks have passed since the start of the Auction.
+
+      When the bidding period ends, the prospective winner becomes the
+      winner.  After the bidding period ends, the Auctioneer CAN once
+      end the Auction by announcement, and SHALL do so in a timely
+      fashion.
+
+[Simplified platonic auctions.]

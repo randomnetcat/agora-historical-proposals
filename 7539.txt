@@ -1,0 +1,9 @@
+ID: 7539
+Title: Tickets
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1
+
+Should Agora use an online ticket-tracking system? [This could make it
+easier to keep track of changes that have to be made to Agora, and
+who's working on which ones.]

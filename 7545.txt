@@ -1,0 +1,7 @@
+ID: 7545
+Title: Π & Co.
+Author: Ienpw III
+Co-authors: 
+Adoption index: 1
+
+Remove the word "rational" from rule 1688.

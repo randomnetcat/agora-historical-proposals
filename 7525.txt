@@ -1,0 +1,8 @@
+ID: 7525
+Title: Public Disagreements
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Retitle Rule 2328 (Public Agreements) to "Public Disagreements", and
+amend it by replacing "agreement" with "disagreement".

@@ -1,0 +1,10 @@
+ID: 7554
+Title: Trading card cleanup
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Repeal Rule 2391 (Controlling Interest).
+Repeal Rule 2392 (Proxy Victory).
+
+[These rules depend on trading cards, which were repealed.]

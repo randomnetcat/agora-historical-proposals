@@ -1,0 +1,9 @@
+ID: 7479
+Title: Appropriateness
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+In rule 1504, replace "TIME OUT with a number of days between 7 and
+21" with "TIME OUT with a number of days between 7 and 21, appropriate
+for rule breaches of moderate consequence".

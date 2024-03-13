@@ -1,0 +1,25 @@
+ID: 7577
+Title: Player endorsement for self-ratification
+Author: Fool
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2201 (Self-Ratification) by replacing the paragraph:
+
+       A public document defined by the rules as self-ratifying is
+       ratified when it is continuously undoubted for one week.
+
+with:
+
+       A public document defined by the rules as self-ratifying is
+       ratified when it is continuously undoubted for one week,
+       provided:
+         - at the time of publication, its publisher was a player; or
+         - within one week of publication, it was endorsed by someone
+           who was a player at that time; or
+         - at the time of publication, it was defined by the rules as
+           self-ratifying without need of player endorsement.
+
+[Saves me from having to tediously CoE your reports.
+  And vice-versa, depending on your criminal case against me.
+  Hey, anyone need a black cap? You can borrow mine.]

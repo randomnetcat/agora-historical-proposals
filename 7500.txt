@@ -1,0 +1,8 @@
+ID: 7500
+Title: Some Nomics end normally.
+Author: Fool
+Co-authors: 
+Adoption index: 1
+
+Amend rule 2369 (Foreign Relations), replacing "Hostile, and
+Abandoned" with "Hostile, Abandoned, and Over".

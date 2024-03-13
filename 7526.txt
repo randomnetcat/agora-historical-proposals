@@ -1,0 +1,12 @@
+ID: 7526
+Title: Yak Cleanup Grammar Fixes
+Author: woggle
+Co-authors: 
+Adoption index: 2
+
+For each of the following rules in the order listed, amend the rule by
+replacing all instances of "When the beginning of each" with "At the beginning
+of each" and all instances of "When a valid announcement" with "Upon a valid
+announcement":
+        Rule 2401 (Registration Yaks)
+        Rule 2402 (Office Salary)

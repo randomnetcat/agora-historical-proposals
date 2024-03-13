@@ -1,0 +1,84 @@
+ID: 7467
+Title: New Precedents
+Author: scshunt
+Co-authors: 
+Adoption index: 3
+
+Repeal Rule 2240 (No Cretans Need Apply)
+
+Amend Rule 1030 (Precedence between Rules) to read as follows:
+      In a conflict between two provisions of the rules, then, rules to
+      the contrary notwithstanding, the conflict shall be resolved as
+      described in this rule. Conflicts are resolved on specific issues
+      independently and two different rules or provisions may have
+      differing precedence in different situations. When determining
+      precedence between rules, including as to what constitutes a
+      provision for the purposes of this rule, the rules are to be read
+      harmoniously and as a whole. It is possible that a given piece of
+      text in the ruleset is part of no or many provisions. For the
+      purposes of this rule, the power of a provision is the power of
+      the rule that contains it.
+
+      One provision claims precedence over another if it includes text
+      that indicates it operates in precedence to or notwithstanding
+      another provision or provisions. One provision defers to another
+      if it includes text that indicates it operates in deference to
+      another provision, or that the effects of the provision may be
+      modified by other provisions or by the rules generally. If a
+      provision both claims precedence over and defers to another, then
+      for the purposes of the rest of this rule, it does neither. A
+      reference to a rule in this case is considered to be a reference
+      to all of its provisions.
+
+      In a conflict between two provisions:
+
+        * If exactly one provision defers to the other, then the other takes
+          precedence; otherwise
+
+        * If exactly one provision claims precedence over the other, and it has
+          power equal to or greater than the others, then it takes precedence;
+          otherwise
+
+        * If both provisions claim precedence over or defer to the
+          other, and the provisions have different powers, then the
+          higher-powered provision's claim of precedent or deferral
+          decides the conflict; otherwise
+
+        * If one of the provisions produces a definition, structure, or other
+          construct used by the other provision, and the second provision could
+          avoid the use of that construct by creating an equivalent construct,
+          and avoiding the construct in this manner would not materially affect
+          the function of either provision or their interaction with other
+          provisions, then the second provision prevails; otherwise
+
+        * If the provisions have different powers, the provision with
+          the higher power prevails; otherwise
+
+        * If one provision is of strictly more limited scope than the other,
+          then it prevails; otherwise
+
+        * If the provisions are part of different rules, both of which
+          have ID numbers, the provision in the rule with the lower ID
+          number prevails; otherwise
+
+        * If the provisions are part of different rules, the provision in the
+          rule enacted earliest prevails; otherwise
+
+        * The provisions are a part of the same rule, and the provision
+          that appears later in the rule prevails.
+
+      In a conflict between more than two provisions, the solution to
+      the predence problem that best respects the resolution of
+      precedence between any two of the provisions in conflict is used.
+
+[New features:
+ - deferrals and notwithstandings apply accross rules.
+ - "as modified by other rules", etc. taken to be deferrals.
+ - allow rules defining things to override auxiliary definitions and
+constructs. For
+   instance, low-power rules should be able to define assets that cannot
+   go to the LFD because they could just define an asset-like entity that
+   couldn't.
+ - explicitly leave open the question of precedence of multiple-rule
+   conflicts. They're extremely rare and already poorly defined. This just
+   makes it more interesting.

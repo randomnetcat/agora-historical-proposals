@@ -1,0 +1,14 @@
+ID: 7512
+Title: Very Bad Cop
+Author: Fool
+Co-authors: 
+Adoption index: 1
+
+Repeal Rule 2356 (Naughtiness).
+
+[ The Naughtiness mechanism is not being used.
+
+  It is also unnecessary: "negative promises" can be enforced by
+directly specifying a punishment (fine, timeout, exile, or something
+custom) rather than taunting the police and going through a CFJ
+]

@@ -1,0 +1,11 @@
+ID: 7483
+Title: Scoping It Out
+Author: scshunt
+Co-authors: 
+Adoption index: 1
+
+Amend Rule 2138 by appending:
+      Any player CAN, with Agoran Consent, cause this Rule to amend
+itself by replacing
+      "Interstellar" with any other single word beginning with "Inter"
+in its text and title.

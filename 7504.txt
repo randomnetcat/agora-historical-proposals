@@ -1,0 +1,9 @@
+ID: 7504
+Title: The Agoran Senate
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Enact a new rule entitled "The Senate", reading as follows:
+      Upper is a Chamber. The voting limit of an entity on a Decision
+in the Upper Chamber is the same as eir voting limit on a Decision in

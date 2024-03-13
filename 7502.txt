@@ -1,0 +1,15 @@
+ID: 7502
+Title: Star Quorum Cleanups bis.
+Author: Fool
+Co-authors: 
+Adoption index: 3
+
+Amend rule 2409 (Star Chamber), adding the sentence:
+
+     If a voter selects a code not listed in eir Codebook, e thereby
+votes PRESENT.
+
+  after the sentence ending:
+
+     code for that option listed in eir Codebook rather than the option
+itself.

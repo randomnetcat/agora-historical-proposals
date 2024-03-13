@@ -1,0 +1,9 @@
+ID: 7454
+Title: Contract law
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2328 "Public Agreements" by appending the following paragraph:
+
+      Players SHALL obey public agreements to which they are a party.

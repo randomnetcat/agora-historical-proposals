@@ -1,0 +1,28 @@
+ID: 7449
+Title: Rule Decisions Re Decisions are for Decision Rules
+Author: Walker
+Co-authors: 
+Adoption index: 3
+
+[ This could also be used for deciding elections by some system other
+than FPTP. ]
+
+Append to Rule 955 (Determining the Will of Agora)
+
+      This Rule defers to the Rule defining a particular decision in
+      determining its outcome.
+
+Amend Rule 1367 (Degrees) by replacing
+
+       - The outcome is, rules to the contrary notwithstanding, the
+         highest-ranked degree such that more than half the votes cast
+         were for that degree or a higher degree, or FAILING GRADE if
+         there was no such degree.
+
+with:
+
+       - The outcome is the highest-ranked degree such that more than
+         half the votes cast were for that degree or a higher degree,
+         or FAILING GRADE if there was no such degree.
+
+and setting its Power to 2.

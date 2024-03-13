@@ -1,0 +1,48 @@
+ID: 7531
+Title: Painfully explicit timing
+Author: omd
+Co-authors: 
+Adoption index: 3
+
+Amend Rule 478 (Fora) by removing:
+
+      Any action performed by sending a message is performed at the
+      time date-stamped on that message.
+
+and by appending:
+
+      The timing of an action performed by sending a message is
+      determined as follows:
+
+      (1) If the message contains a single reasonable date-stamp added
+          by the forum (if any) as part of its canonical means of
+          marking the date of messages, then it is used; otherwise,
+      (2) if the message contains at least one reasonable date-stamp
+          added by the forum (if any), then the latest one is used;
+          otherwise,
+      (3) the true time of the message is used.
+
+      The true time of a message sent via a forum is the time when the
+      forum started to make it available to other players.  The true
+      time of a message sent manually to all players is the time when
+      the last copy was sent.  A reasonable date-stamp is one that can
+      reasonably be determined to be within one minute of the true
+      time.
+
+      If a message is sent independently via multiple means, then the
+      earliest of the timings considering each such copy of the
+      message is used.
+
+[(1) applies to lists with date rewriting or any other forum with a
+canonical date (e.g. a web message board with a date field);
+ (2) applies to Received headers in lieu of a canonical stamp;
+ (3) applies if nothing else is available, such as if an IRC channel
+is made public again.
+
+This does not give any credence to original Date headers, because they
+are trivially fakeable.  If recordkeepors would like to use them in
+reports, there should be nothing wrong with using them anyway, with
+the implication that the time is approximate, but if it becomes
+necessary to find the exact time of a particular message, there is no
+reason not to use the Received header.  And of course date rewriting
+makes this easier.]

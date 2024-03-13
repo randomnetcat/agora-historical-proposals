@@ -1,0 +1,12 @@
+ID: 7552
+Title: Freshdated
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 879 (Quorum) to read:
+
+      Quorum for an Agoran decision is N/3 rounded up, where N is the
+      number of eligible voters with a positive voting limit on that
+      decision, with a minimum of five (unless this is greater than
+      N, in which case quorum is N).

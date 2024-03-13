@@ -1,0 +1,23 @@
+ID: 7530
+Title: More Interesting Timing Scams
+Author: ais523
+Co-authors: 
+Adoption index: 3
+
+Add a new paragraph to rule 478, just before its last paragraph:
+{{{
+As an exception to the rest of this rule, no message is a public message
+if, during the 1-hour period that ends when that message was sent, a
+first-class player paid the Silence Fee (a Budget Switch) for the first
+time that week.
+}}}
+[The idea is that you can stop a suspected votebomb or the like via
+muting the lists an hour earlier. This is limited to 1 per week per
+first-class player in order to avoid any potential of scams involving
+chain-muting the lists. It's also not equivalent to just moving the
+deadline 1 hour earlier; because silence can be effectively chained by
+an alliance of players, it's not clear how many hours before the
+deadline that a timing scam should be carried out. This shouldn't cause
+R101 problems because most things can wait an hour, and it doesn't
+remove anyone's right to participate in the fora, just their right for
+their messages to actually do something.]

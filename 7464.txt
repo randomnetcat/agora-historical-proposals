@@ -1,0 +1,9 @@
+ID: 7464
+Title: Capital Punishment for Jaywalking
+Author: ais523
+Co-authors: Bucky
+Adoption index: 2.0
+
+Append the text "EXILE is never an appropriate judgment for a Class-2
+or lower Crime." to the end of the paragraph in Rule 1504 that starts
+with "EXILE".

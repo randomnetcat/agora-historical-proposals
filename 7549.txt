@@ -1,0 +1,8 @@
+ID: 7549
+Title: Recruitment Sanity
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2401 by removing "each" and "the recruit and" from the last
+paragraph.

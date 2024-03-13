@@ -1,0 +1,11 @@
+ID: 7538
+Title: Fencing off
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1
+
+Enact a rule with a power of 3, titled "Historical Rules":
+
+A proposal CANNOT amend Rule 104 "First Speaker" or Rule 2029 "Town
+Fountain" unless that proposal explicitly states, using the rule's
+title, that it is amending that rule.

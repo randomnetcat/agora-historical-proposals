@@ -1,0 +1,36 @@
+ID: 7570
+Title: May as well settle Distributability, once and for all.
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2404 (Proposal Fees) by removing
+
+      A proposal with a proposal fee of 0 is disinterested; proposals
+      with positive proposal fees are interested.
+
+Amend Rule 2405 (Distributability) by removing
+
+      ; a player CAN, by announcement,
+      decrease the Distributability of a proposal by one for a cost
+      of B Yaks
+
+and by replacing ", and b) B is the value of the Undistributability
+Fee, a Budget Switch." with "."
+
+[ Shifting the focus to outbidding proposals. ]
+
+Amend Rule 2405 (Distributability) by appending "All proposals are
+initially interested; a player CAN make a proposal disinterested by
+announcement if e has not already done so in the current week. A
+player CAN also make a proposal disinterested without two objections.
+If a player CAN make a proposal disinterested by announcement due to
+an intent to do so without two objections, then the Promotor CAN also
+do so, and SHALL do so before distributing any proposals."
+
+[ Similar to before, but now with one free proposal per week and the
+Promotor is required to catch those intents for you, in case you
+forget, or if e distributes just after the end of the four day w/o
+objection wait. ]
+
+}

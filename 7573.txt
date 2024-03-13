@@ -1,0 +1,15 @@
+ID: 7573
+Title: Seriously, Cretans, get out of here
+Author: Machiavelli
+Co-authors: 
+Adoption index: 3
+
+To Rule 2240 "No Cretans Need Apply", append the following paragraph:
+
+If, under some set of circumstances, a single clause of a rule
+conflicts with itself (and the conflict is not between two different
+parts of the clause), then that clause shall be considered meaningless
+under those circumstances.
+
+[Remind me, again, why some unspecified paraconsistent logic is
+superior to classical logic? I just don't see any advantages at all.]

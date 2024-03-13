@@ -1,0 +1,23 @@
+ID: 7443
+Title: Promises do an acceptable job of handling this, but a specialized mechanism would probably be more convenient and less error-prone
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1
+
+Create a rule, titled "Trade Offers":
+
+      A person (the Seller) CAN create a Trade Offer by announcement,
+      specifying a set of assets e offers to trade (the Wares), and a
+      set of assets e wishes to receive in exchange (the Tender).
+
+      Any other person (the Buyer) CAN accept a Trade Offer by
+      announcement.  When this happens, if the Seller owns the Wares
+      and CAN transfer them to the Buyer, and the Buyer owns the
+      Tender and CAN transfer it to the Seller, then the Wares are
+      transferred to the Buyer, the Tender is transferred to the
+      Seller, and the Trade Offer is destroyed.  If any part of this
+      transaction would fail, the entire transaction fails.
+
+      A Seller can destroy (syn. revoke) eir own Trade Offers by
+      announcement.  Trade Offers are automatically destroyed 4 days
+      after they are created.

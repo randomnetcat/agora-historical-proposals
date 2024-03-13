@@ -1,0 +1,8 @@
+ID: 7485
+Title: Such an ugly word
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rules 1504 (Criminal Cases) and 2277 (Appeals of Criminal Cases)
+by replacing "Accused" (case insensitive) with "defendant".

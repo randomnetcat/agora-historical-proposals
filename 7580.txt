@@ -1,0 +1,9 @@
+ID: 7580
+Title: Stupid grammar fix
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2389 (Ordinary Chamber) by replacing "When initiating the
+Auction" with "When initiating each Auction", and by replacing ".  At"
+with "; at".

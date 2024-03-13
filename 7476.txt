@@ -1,0 +1,9 @@
+ID: 7476
+Title: Staledated
+Author: scshunt
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 879 to read "Quorum on an Agoran Decision is the greater of
+one-third the number of active players and 5."
+[Explicit rounding not required]

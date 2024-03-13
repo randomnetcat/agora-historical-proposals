@@ -1,0 +1,68 @@
+ID: 7561
+Title: 沖縄の線の修理
+Author: Machiavelli
+Co-authors: 
+Adoption index: 1
+
+[Currently, Okinawa is pretty broken, because a large group is very
+difficult to kill: a group with five eyes requires a five-person
+coalition to take down. So far, it seems like Okinawa has had pretty
+much no cooperation at all. Watashi no warui.
+
+The first change I propose is to change the win condition: instead of
+having Stones while nobody else has Stones, you must create a line of
+stones connecting opposite sides of the board. This doesn't fix much,
+but it makes the second change feasible.
+
+The second change I propose is to make things easier to kill, by
+making eyes not count. To be more precise: a liberty of a chain owned
+by A is considered an exterior liberty if, from the liberty, you can
+reach two different corners of the board, moving orthogonally, without
+stepping on a stone owned by A. A chain can be captured when it has no
+exterior liberties.
+
+A side effect is that if a player walls off three corners of the
+board, then all of that player's chains are eligible for capture.
+Don't do that.]
+
+Destroy all Stones. Repeal Rule 2407 "Alliances".
+
+Make the following changes to Rule 2408 "Okinawa":
+
+In the paragraph beginning "Stones are a fixed asset", replace "is
+awarded 3 Stones" with "is awarded 2 Stones".
+
+To the paragraph beginning "Okinawa is an entity", append the sentence
+'When referring to Plots, the words "row" and "column" are synonyms
+for "Latitude" and "Longitude", respectively.'
+
+Amend the sentence beginning with "The Sensei SHALL report" to read as
+follows: "The Sensei SHALL report the Positions of non-airborne Stones
+by publishing a map of Okinawa, and SHOULD include a compass rose."
+
+Replace the paragraphs beginning with "Two Stones are connected" and
+"If a player has" with the following paragraphs:
+
+      Two Stones are connected if they are orthogonally adjacent and
+      have the same owner.  A chain is a connected component of
+      Stones.
+
+      An exterior liberty of a chain owned by some player A is an
+      unoccupied Plot orthogonally adjacent to that chain with the
+      following property: there exist paths from the unoccupied Plot
+      to two different corners of the board, such that neither path
+      contains any Stone owned by A.  For this purpose, a "path" is a
+      sequence of Stones, each orthogonally adjacent to the next.  (It
+      isn't about eyes any more.)
+
+      If a chain has no exterior liberties, then any person CAN
+      capture it by announcement.  This causes all Stones in it to be
+      destroyed.
+
+      If a player owns a chain that has at least one Stone on two
+      opposite edges of the board, then that player satisfies the
+      Victory Condition of Shouri, and all Stones are destroyed.  When
+      this happens, the Sensei SHALL, as soon as possible, announce
+      that this has happened, and who satisfied the Victory Condition.
+      The Sensei SHOULD announce this in the form of a Victory
+      Announcement.

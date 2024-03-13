@@ -1,0 +1,11 @@
+ID: 7459
+Title: VCs tracked by the Assessor
+Author: Walker
+Co-authors: 
+Adoption index: 2
+
+[The Assessor already tracks VVLOP, and VCs are created by eir
+resolution of decisions. So it makes sense for em to track them.]
+
+Amend Rule 2389 by replacing " whose recordkeepor is the Promotor"
+with ", tracked by the Assessor".

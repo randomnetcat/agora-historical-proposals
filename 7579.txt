@@ -1,0 +1,20 @@
+ID: 7579
+Title: Infraction fix
+Author: omd
+Co-authors: 
+Adoption index: 2
+
+Amend Rule 2416 (Infraction Cases and Rewards) by replacing:
+
+      A player CAN initiate an infraction case in the same manner as
+      an ordinary criminal case, unless the alleged action or inaction
+      is defined as a Crime of at least Class 3.
+
+with:
+
+      A player CAN initiate an infraction case in the same manner as
+      an ordinary criminal case, unless the alleged action or inaction
+      is defined as a Crime of at least Class 3; the case is initially
+suspended.
+
+[Per Roujo.]

@@ -1,0 +1,68 @@
+ID: 7472
+Title: Spelling abuse capitalisation VLOP 2.0
+Author: omd
+Co-authors: ais523
+Adoption index: 2
+
+Amend Rule 2389 (Ordinary Chamber) to read:
+
+      Ordinary is a Voting Chamber.
+
+      Keyword is a player switch, tracked by the Lexicographor, whose
+      value is a string of case-sensitive letters, and default is "E".
+      The voting limit of an eligible voter on an Ordinary Decision
+      is the number of letters in eir Keyword if e is a player, or 1
+      otherwise.
+
+      Tiles are a class of assets tracked by the Lexicographor and
+      restricted to players.  Each Tile is labeled with an English
+      letter from A to Z.  When an entity becomes eligible for a
+      number of Tiles, the Lexicographor CAN once award em that number
+      of Tiles by announcement, specifying their Letters, and SHALL do
+      so in a timely fashion; e SHALL randomly pick the letters using
+      the same distribution as English Scrabble.
+
+      Every week, each first-class player becomes eligible for 2
+      Tiles.  When a first-class person registers, e becomes eligible
+      for 5 Tiles.
+
+      A player CAN spend either X Yaks, where X is the value of the
+      Tile Fee, a Budget Switch, or 5 Tiles, to become eligible for 3
+      Tiles by announcement.
+
+      An eligible word is a string of letters found as a word in
+      either the text of a Rule or the English Open Word List, case
+      insensitively.  The following actions CAN be taken by
+      announcement, but only if the resulting Keyword is an eligible
+      word:
+
+      - A player CAN spend a Tile to add its letter to a specified
+        player's Keyword in lowercase.
+
+      - A player CAN spend a Tile to remove its letter once from a
+        specified player's Keyword in lowercase.
+
+      - A player CAN spend 2 Tiles to move an instance of one of the
+        Tiles' letters in lowercase within a specified player's
+        Keyword.
+
+      - A player CAN spend any number of Tiles to append their letters
+        capitalized in any order to eir own Keyword; for this purpose,
+        e can spend any 3 Tiles as if they were a Tile with a
+        specified letter.
+
+      - A player CAN spend 2 Tiles to remove any number of consecutive
+        letters from eir own Keyword.
+
+      Note: The English Open Word List can be found at
+      http://dreamsteep.com/projects/the-english-open-word-list.html
+
+Set the Tile Fee to 80.
+
+Upon the adoption of this proposal, each player becomes eligible for 5 Tiles.
+
+[Pruned back down compared to the last proto version of this.
+
+Yes, this overloads an existing office - but the name is perfect, that
+office doesn't do very much currently, and we have a lot of offices as
+is, so why not?]

@@ -1,0 +1,14 @@
+ID: 7527
+Title: Within measurable distance of its end
+Author: Murphy
+Co-authors: 
+Adoption index: 1
+
+Amend the Rule enacted by Proposal 7490 (Funcentives) by replacing:
+
+       votes on proposals in the Star Chamber.
+
+with:
+
+       votes on a proposal in the Star Chamber before the end of that
+       proposal's voting period.
