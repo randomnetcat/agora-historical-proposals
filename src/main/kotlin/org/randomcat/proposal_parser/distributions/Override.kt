@@ -6221,6 +6221,86 @@ concerted effort]
 
 -scshunt
 """,
+    // Remove "[Re-distribution with corrected text.]" line on 7405
+    "OFF: Distribution of Proposals 7405, 7414-7415" to """
+I hereby distribute each listed proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the eligible
+voters are the active first-class players at the time of this
+distribution, the vote collector is the Assessor, and the valid
+options are FOR and AGAINST (PRESENT is also a valid vote).
+
+Pool report: The Proposal Pool is empty.
+
+NUM  AI  AUTHOR      TITLE
+
+7405 2   omd         Nerf VCs
+7414 1   Roujo       (untitled)
+7415 1   G.          Classic Nomic Ribbon
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7405 (AI=2, Ordinary) by omd
+Nerf VCs
+
+Amend Rule 2389 (Ordinary Chamber) by replacing:
+
+      Whenever a proposal is adopted, its author gains a number of
+      VCs equal to the integer part of the proposal's adoption index,
+      and each of the proposal's co-authors who is a first-class
+      player gains one VC.
+
+with:
+
+      Whenever a proposal is adopted, its author gains one VC.
+
+and by replacing "gains two VCs", if present, with "gains one VC".
+
+[Higher-AI proposals aren't necessarily or generally better,
+especially not N times as valuable as an AI-1 proposal, and the
+current system seems to allow for very fast voting limit increases.
+The last bit nerfs my own salary proposal because the original salary
+is intended to keep pace with proposal awards.]
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7414 (AI=1, Ordinary) by Roujo
+(untitled)
+
+In Rule 2369, "Foreign Relations", add the following paragraph after
+the first one:
+      {
+      Sanity is a foreign nomic switch, tracked by the
+Ambassador-At-Large, with values Unknown (default), Sane, Insane and
+B-level. Players SHOULD NOT attempt to make sense of what goes on in
+Insane or B-level foreign nomics. Attempting to make sense of what
+goes on in a B-level foreign nomic is the Class-2 Crime of Suffusion
+of Yellow. The Ambassador-at-Large CAN, with Agoran Consent, switch a
+foreign nomic's sanity to any value. The Ambassador-at-Large SHOULDN'T
+switch a foreign nomic's sanity to Insane. Switching a foreign nomic's
+value to B-level is the Class-4 Crime of The King in Yellow.
+      }
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 7415 (AI=1, Ordinary) by G.
+Classic Nomic Ribbon
+
+Amend Rule 2387 (Ribbons) by replacing:
+
+      (+L) A player qualifies for a Lime Ribbon, if e was the
+           co-author of at least three Proposals adopted in the
+           previous week.
+with:
+      (+L) If a proposal is adopted, and if only one Player
+           other that the proposal's author cast (and did not
+           retract) one or more valid votes AGAINST the proposal,
+           than both the casting player and the author of the
+           proposal earn a Lime Ribbon.
+
+[vc awards now make multiple co-author proposals too worthwhile
+and a simple little scam with lots of little proposals.  Therefore
+changing the ribbon award to a classic nomic Prisoners' Dilemma].     
+"""
 )
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]
