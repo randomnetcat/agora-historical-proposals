@@ -7,6 +7,7 @@ import kotlinx.collections.immutable.toPersistentList
 import org.randomcat.proposal_parser.*
 import org.randomcat.proposal_parser.distributions.metadata.doParseHeaderOptTitleLinesMetadata
 import org.randomcat.proposal_parser.distributions.metadata.doParseHeaderTitleLinesMetadata
+import org.randomcat.proposal_parser.distributions.metadata.doParseInvertedHeaderTitleLinesMetadata
 
 data class ProposalCommonMetadataResult(
     val number: ProposalNumber,
@@ -269,11 +270,21 @@ object MetadataParsing {
     }
 
     // Format:
-    // Proposal NNNN (Some, Fields, AI=1) by Author
+    // Proposal NNNN by Author (Some, Fields, AI=1, co-authors Alex, Bob)
     // Title
     //
     // Text
     // ...
+    //
+    // -OR-
+    //
+    //
+    // Proposal NNNN (by Author, Some, Fields, AI=1, co-authors Alex, Bob)
+    // Title
+    //
+    // Text
+    // ...
+    //
     fun headerTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
         return doParseHeaderTitleLinesMetadata(metadataLines)
     }
@@ -371,5 +382,15 @@ object MetadataParsing {
             3 -> headerCoauthorsTitleLines(metadataLines)
             else -> error("unreachable")
         }
+    }
+
+    // Format:
+    // Proposal NNNN by Author (Some, Fields, AI=1)
+    // Title
+    //
+    // Text
+    // ...
+    fun invertedHeaderTitleLines(metadataLines: List<String>): ProposalCommonMetadataResult {
+        return doParseInvertedHeaderTitleLinesMetadata(metadataLines)
     }
 }
