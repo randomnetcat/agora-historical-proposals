@@ -6637,6 +6637,22 @@ Ratify the Dishonourable Registrar's report
 Ratify Fool's public message of 04 Aug 2013 titled "OFF: [Registrar]
 Census"
 """,
+    // Add author to full-text section
+    "OFF: [Promotor] Distribution of Proposal 7631" to """
+I hereby distribute each listed proposal, initiating the Agoran
+Decision of whether to adopt it.  For this decision, the vote
+collector is the Assessor, and the valid options are FOR and
+AGAINST (PRESENT is also a valid vote).
+
+Num   Author     AI  Title
+7631  scshunt     2  Missing Vote
+
+Proposal: Missing Vote (AI=2, Author=scshunt)
+{{{
+Append "The holder of the office of Speaker has voting strength one
+greater than e would have if e did not hold the office." to Rule 103.
+}}}
+"""
 )
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]
