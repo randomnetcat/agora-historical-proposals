@@ -101,7 +101,7 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V8_END_DATE -> parseDistributionV8(text, this::backupProposalNumber)
         date == DISTRIBUTION_V9a_SINGLE_DATE -> parseDistributionV9a(text)
         date < DISTRIBUTION_V9_END_DATE -> parseDistributionV7(text)
-        date < DISTRIBUTION_V10_END_DATE -> parseDistributionV10(text) // V10 == V1
+        date < DISTRIBUTION_V10_END_DATE -> parseDistributionV10(text)
         date < DISTRIBUTION_V11_END_DATE -> parseDistributionV11(text)
         date < DISTRIBUTION_V12_END_DATE -> parseDistributionV12(text)
         date < DISTRIBUTION_V13_END_DATE -> parseDistributionV11(text) // V13 == V11
