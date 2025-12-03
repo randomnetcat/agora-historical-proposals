@@ -7,6 +7,10 @@ import java.math.BigInteger
 
 @JvmInline
 value class PlayerName(val raw: String) {
+    init {
+        require(raw.isNotBlank())
+    }
+
     override fun toString(): String {
         return raw
     }
