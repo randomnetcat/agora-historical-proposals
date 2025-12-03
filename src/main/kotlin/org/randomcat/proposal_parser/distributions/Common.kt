@@ -351,13 +351,26 @@ object MetadataParsing {
         val baseParse = MetadataParsing.headerTitleLines(listOf(metadataLines[0], metadataLines[2]))
         check(baseParse.coauthors.isEmpty())
 
+        val coauthorsLine = metadataLines[1]
+
+        require(coauthorsLine.startsWith("(coauth: "))
+        require(coauthorsLine.endsWith(")"))
+
+        if (coauthorsLine == "(coauth: )") {
+            // There are no coauthors in this case.
+            return baseParse
+        }
+
         val coauthors =
-            metadataLines[1]
+            coauthorsLine
                 .removePrefix("(coauth: ")
                 .removeSuffix(")")
                 .split(",")
                 .map { it.trim() }
                 .map { PlayerName(it) }
+
+        // We should have already excluded the case without coauthors.
+        require(coauthors.isNotEmpty())
 
         return baseParse.copy(coauthors = coauthors.toImmutableList())
     }
