@@ -197,6 +197,16 @@ object SplitDistribution {
     }
 }
 
+private fun addMissingColon(text: String, missingColonTags: List<String>): String {
+    for (tag in missingColonTags) {
+        if (text.startsWith("$tag ")) {
+            return tag + ": " + text.substring(tag.length + 1)
+        }
+    }
+
+    return text
+}
+
 object MetadataParsing {
     // Format:
     // Number: NNNN
@@ -211,10 +221,13 @@ object MetadataParsing {
         metadataLines: List<String>,
         backupNumber: ProposalNumber? = null,
         ignoredTags: List<String> = emptyList(),
+        allowMissingColonTags: List<String> = emptyList()
     ): ProposalCommonMetadataResult {
-        val metadataMap = metadataLines.filter { !ignoredTags.contains(it) }.associate {
-            require(it.contains(":"))
-            it.substringBefore(":").lowercase() to it.substringAfter(": ")
+        val metadataMap = metadataLines.filter { !ignoredTags.contains(it) }.associate { rawText ->
+            val effectiveText = addMissingColon(rawText, missingColonTags = allowMissingColonTags)
+
+            require(effectiveText.contains(":"))
+            effectiveText.substringBefore(":").lowercase() to effectiveText.substringAfter(": ")
         }
 
         // Sometimes AI has (Class) appended to it, so only take the number before that
