@@ -153,9 +153,14 @@ fun main(args: Array<String>) {
                 .takeWhile { it != null }
                 .flatMap { it ?: error("Already checked for null") }
         }
-        .forEach { proposal ->
-            val proposalText =
-                """
+        .groupBy { it.number }
+        .mapValues { (_, v) -> v.toSet() } // There's no issue if we see the exact same data multiple times.
+        .forEach { (number, proposals) ->
+            println("Got number: $number")
+
+            for ((index, proposal) in proposals.withIndex()) {
+                val proposalText =
+                    """
 ID: ${proposal.number}
 Title: ${proposal.title ?: ""}
 Author: ${proposal.author?.toString() ?: "<Unknown>"}
@@ -165,17 +170,20 @@ Adoption index: ${proposal.ai}
 ${proposal.text}
 """.trim()
 
-            Files.writeString(
-                outPath.resolve(proposal.number.toString() + ".txt"),
-                proposalText,
-                Charsets.UTF_8,
-                StandardOpenOption.CREATE,
-            )
+                val indexPart = if (index > 0) "_${index}" else ""
 
-            println("Got number: ${proposal.number}")
+                Files.writeString(
+                    outPath.resolve(proposal.number.toString() + indexPart + ".txt"),
+                    proposalText,
+                    Charsets.UTF_8,
+                    StandardOpenOption.CREATE,
+                )
+            }
 
-            if (!numbers.add(proposal.number)) {
-                duplicates.add(proposal.number)
+            numbers.add(number)
+
+            if (proposals.size > 1) {
+                duplicates.add(number)
             }
         }
 
