@@ -2818,7 +2818,8 @@ fun Message.isIgnoredDistribution(): Boolean {
 }
 
 fun Message.isForcedDistribution(): Boolean {
-    return FORCED_SUBJECTS.contains((this.date ?: return false).toUtcLocalDate() to this.subject)
+    return SUBJECT_OVERRIDE_DATA_MAP.contains(this.subject) ||
+            FORCED_SUBJECTS.contains((this.date ?: return false).toUtcLocalDate() to this.subject)
 }
 
 private val SUBJECT_OVERRIDE_TEXT_MAP = mapOf(
