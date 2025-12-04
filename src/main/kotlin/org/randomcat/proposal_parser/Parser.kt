@@ -64,6 +64,9 @@ private val DISTRIBUTION_V22_END_DATE = LocalDate.of(2014, 7, 30)
 private val DISTRIBUTION_V23_END_DATE = LocalDate.of(2014, 10, 9)
 private val DISTRIBUTION_V24_END_DATE = LocalDate.of(2014, 10, 26)
 private val DISTRIBUTION_V25_END_DATE = LocalDate.of(2014, 10, 30)
+private val DISTRIBUTION_V26_END_DATE = LocalDate.of(20114, 10, 30)
+
+private val PARSE_END = LocalDate.of(2019, 7, 28)
 
 private val NONEXISTENT_NUMBERS =
     setOf(
@@ -119,8 +122,9 @@ private fun Message.parseDistribution(): List<ProposalData> {
         date < DISTRIBUTION_V21_END_DATE -> parseDistributionV21(text)
         date < DISTRIBUTION_V22_END_DATE -> parseDistributionV10(text) // V22 == V10
         date < DISTRIBUTION_V23_END_DATE -> parseDistributionV21(text)
-        date < DISTRIBUTION_V24_END_DATE -> parseDistributionV24(text)
+        date < DISTRIBUTION_V24_END_DATE -> parseDistributionV24(text, this::backupProposalNumber)
         date < DISTRIBUTION_V25_END_DATE -> parseDistributionV10(text) // V25 == V10
+        date < DISTRIBUTION_V26_END_DATE -> parseDistributionV24(text, this::backupProposalNumber) // V26 == V24
         else -> error("Don't know how to parse")
     }
 }
@@ -150,6 +154,7 @@ fun main(args: Array<String>) {
                 .filter {
                     it.isDistributionMessage()
                 }
+                .takeWhile { it.date.toUtcLocalDate() < PARSE_END }
                 .map {
                     try {
                         it.parseDistribution()

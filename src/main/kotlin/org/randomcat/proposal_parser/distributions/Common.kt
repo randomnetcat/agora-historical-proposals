@@ -136,6 +136,50 @@ object Separators {
     val SLASHES = Regex("/{10,}\\n")
 }
 
+private fun joinOverlongHeader(
+    lines: List<String>,
+    headerName: String,
+): List<String> {
+    val out = mutableListOf<String>()
+
+    var workingValue: String? = null
+    var valueDone = false
+
+    fun commitValue() {
+        check(!valueDone)
+        check(workingValue != null)
+
+        out.add("$headerName: $workingValue")
+        workingValue = null
+        valueDone = true
+    }
+
+    for (line in lines) {
+        if (workingValue != null) {
+            if (line.startsWith(" ")) {
+                workingValue = workingValue + " " + line.trim()
+                continue
+            }
+
+            commitValue()
+        }
+
+        if (line.startsWith("$headerName: ")) {
+            require(!valueDone) { "Unexpected second header line" }
+            workingValue = line.removePrefix("$headerName: ")
+            continue
+        }
+
+        out.add(line)
+    }
+
+    if (workingValue != null) {
+        commitValue()
+    }
+
+    return out
+}
+
 object SplitDistribution {
     fun withSummary(
         fullDistributionText: String,
@@ -222,9 +266,27 @@ object MetadataParsing {
         metadataLines: List<String>,
         backupNumber: ProposalNumber? = null,
         ignoredTags: List<String> = emptyList(),
-        allowMissingColonTags: List<String> = emptyList()
+        allowMissingColonTags: List<String> = emptyList(),
+        extraOverlongHeaders: List<String> = emptyList(),
     ): ProposalCommonMetadataResult {
-        val metadataMap = metadataLines.filter { !ignoredTags.contains(it) }.associate { rawText ->
+        val cleanedTitleLines = joinOverlongHeader(
+            metadataLines,
+            headerName = "Title",
+        )
+
+        val cleanedCoauthorLines = if (extraOverlongHeaders.isNotEmpty()) {
+            var work = cleanedTitleLines
+
+            for (header in extraOverlongHeaders) {
+                work = joinOverlongHeader(work, header)
+            }
+
+            work
+        } else {
+            cleanedTitleLines
+        }
+
+        val metadataMap = cleanedCoauthorLines.filter { !ignoredTags.contains(it) }.associate { rawText ->
             val effectiveText = addMissingColon(rawText, missingColonTags = allowMissingColonTags)
 
             require(effectiveText.contains(":"))
@@ -236,8 +298,9 @@ object MetadataParsing {
             metadataMap
                 .getFirstValue("adoption index", "ai")
                 .substringBefore(" (")
-                .toBigDecimal()
-                .let { ProposalAI(it) }
+                .takeUnless { it == "none" }
+                ?.toBigDecimal()
+                ?.let { ProposalAI(it) }
 
         val rawAuthor = metadataMap.getFirstValueOrNull("author", "proposer")
 

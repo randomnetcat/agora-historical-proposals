@@ -6674,6 +6674,30 @@ private val OVERRIDE_PROPOSAL_NUMBERS: Map<Pair<LocalDate, String>, (Int) -> Pro
 
         ProposalNumber(BigInteger.valueOf(adjusted.toLong()))
     },
+    (LocalDate.of(2018, 9, 24) to "OFF: [Promotor] Distribution of Proposals 8077B-8085A and 8087A-8089A") to { index ->
+        val raw = 8077 + index
+        val adjusted = if (raw >= 8086) raw + 1 else raw
+
+        check(adjusted in 8077..8085 || adjusted in 8087..8089)
+
+        ProposalNumber(BigInteger.valueOf(adjusted.toLong()))
+    },
+    (LocalDate.of(
+        2019,
+        7,
+        16
+    ) to "OFF: [Promotor] Distribution of Proposals 8188A-8192A, 8195A, 8202-8214") to { index ->
+        val adjusted = when (index) {
+            in 0..4 -> 8188 + index
+            5 -> 8195
+            in 6..18 -> 8202 + (index - 6)
+            else -> throw IllegalArgumentException("Invalid index: $index")
+        }
+
+        check(adjusted in 8188..8192 || adjusted == 8195 || adjusted in 8202..8214)
+
+        ProposalNumber(BigInteger.valueOf(adjusted.toLong()))
+    }
 )
 
 fun Message.backupProposalNumber(index: Int): ProposalNumber {
@@ -6684,12 +6708,27 @@ fun Message.backupProposalNumber(index: Int): ProposalNumber {
 }
 
 private fun Message.backupFirstProposalNumber(): BigInteger {
-    return subject
-        .lowercase()
-        .substringAfter("of proposal")
-        .removePrefix("s")
-        .trim()
+    val subject = this.subject.lowercase()
+
+    val numbersPart = if (subject.contains("distribution of")) {
+        subject
+            .substringAfter("distribution of")
+            .removePrefix(" ")
+            .removePrefix("proposal")
+            .removePrefix("s")
+            .trim()
+            .substringBefore(" (") // Remove note at the end
+            .substringBefore(" [") // Remove another form of note at the end
+            .replaceFirst(" and ", "-")
+    } else {
+        throw IllegalArgumentException("Unknown subject format: $subject")
+    }
+
+    require(numbersPart.matches(Regex("^(\\d+)a?|(\\d+a?-\\d+a?)$")))
+
+    return numbersPart
         .substringBefore(" ")
         .substringBefore("-")
+        .removeSuffix("a") // Indicates redistribution
         .toBigInteger()
 }
