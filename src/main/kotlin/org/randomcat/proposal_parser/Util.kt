@@ -73,12 +73,16 @@ fun List<String>.splitAtNthBlank(n: Int): BlankLineSplitResult {
 }
 
 private val PROBABLY_REPLY_REGEX = Regex("^.*? [wW](?:rites|rote):(?:\\n\\s*)+>")
+private val VOTE_REGEX = Regex("^\\d{4}\\s*-\\s*(for|against|present)", RegexOption.IGNORE_CASE)
 
 fun contentLooksLikeReply(emailContent: String): Boolean {
     return emailContent.contains(PROBABLY_REPLY_REGEX) ||
             emailContent.startsWith("> ") ||
             emailContent.startsWith("I vote") ||
-            emailContent.startsWith("On proposal")
+            emailContent.startsWith("My votes:") ||
+            emailContent.startsWith("I cast my votes:") ||
+            emailContent.startsWith("On proposal") ||
+            emailContent.contains(VOTE_REGEX)
 }
 
 inline fun <K, V : Any> Map<K, V>.getFirstValueOrElse(vararg keys: K, defaultValue: () -> V): V {
