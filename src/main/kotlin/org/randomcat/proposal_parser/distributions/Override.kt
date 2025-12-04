@@ -6735,7 +6735,17 @@ private fun Message.backupFirstProposalNumber(): BigInteger {
         .toBigInteger()
 }
 
-private val OVERRIDE_FORCE_NUMBERS: Map<Pair<LocalDate, String>, (RawProposalNumber) -> ProposalNumber> = mapOf()
+private val OVERRIDE_FORCE_NUMBERS: Map<Pair<LocalDate, String>, (RawProposalNumber) -> ProposalNumber> = mapOf(
+    (LocalDate.of(2016, 10, 30) to "OFF: [Promotor] Distribution of Proposals 7821-7830") to { raw ->
+        when (raw.value) {
+            "2827" -> ProposalNumber.from(7827)
+            "2228" -> ProposalNumber.from(7828)
+            "2229" -> ProposalNumber.from(7829)
+            "2230" -> ProposalNumber.from(7830)
+            else -> ProposalNumber.from(raw)
+        }
+    }
+)
 
 fun Message.overrideNumberFun(): ((RawProposalNumber) -> ProposalNumber)? {
     return OVERRIDE_FORCE_NUMBERS[date.toUtcLocalDate() to subject]
