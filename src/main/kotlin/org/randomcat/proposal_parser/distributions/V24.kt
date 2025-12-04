@@ -2,6 +2,7 @@ package org.randomcat.proposal_parser.distributions
 
 import org.randomcat.proposal_parser.ProposalData
 import org.randomcat.proposal_parser.ProposalNumber
+import org.randomcat.proposal_parser.RawProposalNumber
 
 private val SUMMARY_SECTION_CHECK_REGEX = Regex("ID\\s+Author(\\(s\\))?\\s+AI\\s+Title")
 private val FINAL_SECTION_CHECK_REGEX = Regex("--\\s*\n(aranea|Luis Ressel <aranea@aixah.de>)", RegexOption.MULTILINE)
@@ -31,6 +32,7 @@ private fun replaceProposalPoolIDs(text: String): String {
 fun parseDistributionV24(
     rawDistributionText: String,
     backupProposalNumber: (index: Int) -> ProposalNumber,
+    overrideProposalNumber: ((raw: RawProposalNumber) -> ProposalNumber)?,
 ): List<ProposalData> {
     val cleanedText = rawDistributionText.let(::cleanUnmarkedOverlongCoauthors).let(::replaceProposalPoolIDs)
 
@@ -42,13 +44,17 @@ fun parseDistributionV24(
     )
 
     return proposalParts.filter { !it.contains(EXCLUDE_REGEX) }.mapIndexed { index, distributionText ->
-        parseCommonProposal(proposalDistribution = distributionText, metadataParser = { metadataLines ->
-            MetadataParsing.keyValueHeaders(
-                metadataLines = metadataLines,
-                ignoredTags = IGNORED_TAGS,
-                backupNumber = backupProposalNumber(index),
-                extraOverlongHeaders = listOf("Co-author(s)", "Co-authors")
-            )
-        })
+        parseCommonProposal(
+            proposalDistribution = distributionText,
+            metadataParser = { metadataLines ->
+                MetadataParsing.keyValueHeaders(
+                    metadataLines = metadataLines,
+                    ignoredTags = IGNORED_TAGS,
+                    backupNumber = backupProposalNumber(index),
+                    extraOverlongHeaders = listOf("Co-author(s)", "Co-authors")
+                )
+            },
+            overrideProposalNumber = overrideProposalNumber,
+        )
     }
 }

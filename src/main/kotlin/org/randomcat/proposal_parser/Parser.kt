@@ -96,35 +96,56 @@ private fun Message.parseDistribution(): List<ProposalData> {
 
     if (!this.isForcedDistribution() && contentLooksLikeReply(text)) return emptyList()
 
+    fun parseWith(
+        parser: (
+            text: String,
+        ) -> List<ProposalData>
+    ) = parser(text)
+
+    fun parseWith(
+        parser: (
+            text: String,
+            backupProposalNumber: (index: Int) -> ProposalNumber,
+        ) -> List<ProposalData>
+    ) = parser(text, this::backupProposalNumber)
+
+    fun parseWith(
+        parser: (
+            text: String,
+            backupProposalNumber: (index: Int) -> ProposalNumber,
+            overrideNumberFun: ((raw: RawProposalNumber) -> ProposalNumber)?,
+        ) -> List<ProposalData>
+    ) = parser(text, this::backupProposalNumber, this.overrideNumberFun())
+
     return when {
-        date < DISTRIBUTION_V0_END_DATE -> parseDistributionV0(text)
-        date < DISTRIBUTION_V1_END_DATE -> parseDistributionV1(text)
-        date < DISTRIBUTION_V2_END_DATE || date == DISTRIBUTION_V2a_SINGLE_DATE -> parseDistributionV2(text)
-        date < DISTRIBUTION_V3_END_DATE -> parseDistributionV1(text) // V3 == V1
-        date < DISTRIBUTION_V4_END_DATE -> parseDistributionV4(text)
-        date < DISTRIBUTION_V5_END_DATE -> parseDistributionV5(text, this::backupProposalNumber)
-        date < DISTRIBUTION_V6_END_DATE -> parseDistributionV1(text) // V6 == V1
-        date < DISTRIBUTION_V7_END_DATE -> parseDistributionV7(text)
-        date < DISTRIBUTION_V8_END_DATE -> parseDistributionV8(text, this::backupProposalNumber)
-        date == DISTRIBUTION_V9a_SINGLE_DATE -> parseDistributionV9a(text)
-        date < DISTRIBUTION_V9_END_DATE -> parseDistributionV7(text)
-        date < DISTRIBUTION_V10_END_DATE -> parseDistributionV10(text)
-        date < DISTRIBUTION_V11_END_DATE -> parseDistributionV11(text)
-        date < DISTRIBUTION_V12_END_DATE -> parseDistributionV12(text)
-        date < DISTRIBUTION_V13_END_DATE -> parseDistributionV11(text) // V13 == V11
-        date < DISTRIBUTION_V14_END_DATE -> parseDistributionV14(text)
-        date < DISTRIBUTION_V15_END_DATE -> parseDistributionV11(text) // V15 == V11
-        date < DISTRIBUTION_V16_END_DATE -> parseDistributionV16(text)
-        date < DISTRIBUTION_V17_END_DATE -> parseDistributionV12(text) // V17 == V12
-        date < DISTRIBUTION_V18_END_DATE -> parseDistributionV11(text) // V18 == V11
-        date < DISTRIBUTION_V19_END_DATE -> parseDistributionV19(text)
-        date < DISTRIBUTION_V20_END_DATE -> parseDistributionV20(text, this::backupProposalNumber)
-        date < DISTRIBUTION_V21_END_DATE -> parseDistributionV21(text)
-        date < DISTRIBUTION_V22_END_DATE -> parseDistributionV10(text) // V22 == V10
-        date < DISTRIBUTION_V23_END_DATE -> parseDistributionV21(text)
-        date < DISTRIBUTION_V24_END_DATE -> parseDistributionV24(text, this::backupProposalNumber)
-        date < DISTRIBUTION_V25_END_DATE -> parseDistributionV10(text) // V25 == V10
-        date < DISTRIBUTION_V26_END_DATE -> parseDistributionV24(text, this::backupProposalNumber) // V26 == V24
+        date < DISTRIBUTION_V0_END_DATE -> parseWith(::parseDistributionV0)
+        date < DISTRIBUTION_V1_END_DATE -> parseWith(::parseDistributionV1)
+        date < DISTRIBUTION_V2_END_DATE || date == DISTRIBUTION_V2a_SINGLE_DATE -> parseWith(::parseDistributionV2)
+        date < DISTRIBUTION_V3_END_DATE -> parseWith(::parseDistributionV1) // V3 == V1
+        date < DISTRIBUTION_V4_END_DATE -> parseWith(::parseDistributionV4)
+        date < DISTRIBUTION_V5_END_DATE -> parseWith(::parseDistributionV5)
+        date < DISTRIBUTION_V6_END_DATE -> parseWith(::parseDistributionV1) // V6 == V1
+        date < DISTRIBUTION_V7_END_DATE -> parseWith(::parseDistributionV7)
+        date < DISTRIBUTION_V8_END_DATE -> parseWith(::parseDistributionV8)
+        date == DISTRIBUTION_V9a_SINGLE_DATE -> parseWith(::parseDistributionV9a)
+        date < DISTRIBUTION_V9_END_DATE -> parseWith(::parseDistributionV7)
+        date < DISTRIBUTION_V10_END_DATE -> parseWith(::parseDistributionV10)
+        date < DISTRIBUTION_V11_END_DATE -> parseWith(::parseDistributionV11)
+        date < DISTRIBUTION_V12_END_DATE -> parseWith(::parseDistributionV12)
+        date < DISTRIBUTION_V13_END_DATE -> parseWith(::parseDistributionV11) // V13 == V11
+        date < DISTRIBUTION_V14_END_DATE -> parseWith(::parseDistributionV14)
+        date < DISTRIBUTION_V15_END_DATE -> parseWith(::parseDistributionV11) // V15 == V11
+        date < DISTRIBUTION_V16_END_DATE -> parseWith(::parseDistributionV16)
+        date < DISTRIBUTION_V17_END_DATE -> parseWith(::parseDistributionV12) // V17 == V12
+        date < DISTRIBUTION_V18_END_DATE -> parseWith(::parseDistributionV11) // V18 == V11
+        date < DISTRIBUTION_V19_END_DATE -> parseWith(::parseDistributionV19)
+        date < DISTRIBUTION_V20_END_DATE -> parseWith(::parseDistributionV20)
+        date < DISTRIBUTION_V21_END_DATE -> parseWith(::parseDistributionV21)
+        date < DISTRIBUTION_V22_END_DATE -> parseWith(::parseDistributionV10) // V22 == V10
+        date < DISTRIBUTION_V23_END_DATE -> parseWith(::parseDistributionV21)
+        date < DISTRIBUTION_V24_END_DATE -> parseWith(::parseDistributionV24)
+        date < DISTRIBUTION_V25_END_DATE -> parseWith(::parseDistributionV10) // V25 == V10
+        date < DISTRIBUTION_V26_END_DATE -> parseWith(::parseDistributionV24) // V26 == V24
         else -> error("Don't know how to parse")
     }
 }
