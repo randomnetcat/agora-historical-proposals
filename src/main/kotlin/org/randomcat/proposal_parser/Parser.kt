@@ -36,6 +36,8 @@ private fun Message.isDistributionMessage(): Boolean {
             adjustedSubject.startsWith("[Promotor] Surprise Distribution")
 }
 
+private val PARSE_END = LocalDate.of(2019, 7, 28)
+
 private val DISTRIBUTION_V0_END_DATE = LocalDate.of(2007, 5, 15)
 private val DISTRIBUTION_V1_END_DATE = LocalDate.of(2009, 4, 2)
 private val DISTRIBUTION_V2_END_DATE = LocalDate.of(2009, 5, 16)
@@ -64,9 +66,7 @@ private val DISTRIBUTION_V22_END_DATE = LocalDate.of(2014, 7, 30)
 private val DISTRIBUTION_V23_END_DATE = LocalDate.of(2014, 10, 9)
 private val DISTRIBUTION_V24_END_DATE = LocalDate.of(2014, 10, 26)
 private val DISTRIBUTION_V25_END_DATE = LocalDate.of(2014, 10, 30)
-private val DISTRIBUTION_V26_END_DATE = LocalDate.of(20114, 10, 30)
-
-private val PARSE_END = LocalDate.of(2019, 7, 28)
+private val DISTRIBUTION_V26_END_DATE = PARSE_END
 
 private val NONEXISTENT_NUMBERS =
     setOf(
