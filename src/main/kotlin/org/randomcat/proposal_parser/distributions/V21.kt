@@ -2,8 +2,9 @@ package org.randomcat.proposal_parser.distributions
 
 import org.randomcat.proposal_parser.ProposalData
 
-private val SUMMARY_SECTION_CHECK_REGEX = Regex("Num\\s+Author\\s+AI\\s+Title")
-private val FINAL_SECTION_CHECK_REGEX = Regex("-scshunt")
+private val SUMMARY_SECTION_CHECK_REGEX = Regex("Num\\.?\\s+(Author(\\(s\\))?\\s+AI|AI\\s+Author)\\s+Title")
+private val FINAL_SECTION_CHECK_REGEX =
+    Regex("-scshunt|--\\s*\n(aranea|Luis Ressel <aranea@aixah.de>)", RegexOption.MULTILINE)
 
 private val MISSING_COLON_TAGS = listOf("Coauthors")
 
