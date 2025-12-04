@@ -173,7 +173,7 @@ ID: ${proposal.number}
 Title: ${proposal.title ?: ""}
 Author: ${proposal.author?.toString() ?: "<Unknown>"}
 Co-authors: ${proposal.coauthors.joinToString(", ")}
-Adoption index: ${proposal.ai}
+Adoption index: ${proposal.ai ?: "[none]"}
 
 ${proposal.text}
 """.trim()

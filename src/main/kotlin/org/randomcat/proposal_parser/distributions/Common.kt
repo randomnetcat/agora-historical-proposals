@@ -12,14 +12,14 @@ import org.randomcat.proposal_parser.distributions.metadata.doParseInvertedHeade
 data class ProposalCommonMetadataResult(
     val number: ProposalNumber,
     val title: String?,
-    val ai: ProposalAI,
+    val ai: ProposalAI?,
     val author: PlayerName?,
     val coauthors: ImmutableList<PlayerName>,
 ) {
     constructor(
         number: ProposalNumber,
         title: String?,
-        ai: ProposalAI,
+        ai: ProposalAI?,
         author: PlayerName?,
         coauthors: List<PlayerName>,
     ) : this(
