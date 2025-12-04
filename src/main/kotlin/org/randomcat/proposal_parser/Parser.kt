@@ -88,7 +88,7 @@ private val NONEXISTENT_NUMBERS =
 // 6748 -> distribution not in BUS or OFF (but resolution is?)
 
 private fun Message.parseDistribution(): List<ProposalData> {
-    val override = this.overridenDistribution()
+    val override = this.overriddenDistribution()
     if (override != null) return override
 
     val date = this.date.toUtcLocalDate()

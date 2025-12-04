@@ -2787,7 +2787,7 @@ Set G.'s Power to 0.
     ),
 )
 
-fun Message.overridenDistribution(): List<ProposalData>? {
+fun Message.overriddenDistribution(): List<ProposalData>? {
     return SUBJECT_OVERRIDE_DATA_MAP[this.subject]
 }
 
