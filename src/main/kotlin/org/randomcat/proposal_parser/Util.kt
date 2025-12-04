@@ -15,8 +15,11 @@ fun Message.extractPlainTextBody(): String {
     return when (val body = this.body) {
         is TextBody -> body.reader.readText()
         is Multipart -> {
-            require(body.subType == "alternative" || body.subType == "")
-            (body.bodyParts.single { it.mimeType == "text/plain" }.body as TextBody).reader.readText()
+            if (body.subType == "signed" || body.subType == "alternative" || body.subType == "") {
+                return (body.bodyParts.single { it.mimeType == "text/plain" }.body as TextBody).reader.readText()
+            }
+
+            error("Unknown multipart type: ${body.subType}")
         }
 
         else -> error("Unknown body type")
