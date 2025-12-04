@@ -16,7 +16,7 @@ fun parseDistributionV21(fullDistributionText: String): List<ProposalData> {
         footerRegex = FINAL_SECTION_CHECK_REGEX,
     )
 
-    return proposalParts.mapIndexed { index, distributionText ->
+    return proposalParts.map { distributionText ->
         parseCommonProposal(proposalDistribution = distributionText, metadataParser = { metadataLines ->
             MetadataParsing.keyValueHeaders(
                 metadataLines = metadataLines,
