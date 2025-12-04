@@ -262,7 +262,14 @@ object MetadataParsing {
             title = metadataMap.getFirstValueOrNull("title", "tite", "proposal"),
             ai = ai,
             author = effectiveAuthor?.let { PlayerName(it) },
-            coauthors = metadataMap.getFirstValueOrNull("coauthors", "coauthor")
+            coauthors = metadataMap.getFirstValueOrNull(
+                "coauthors",
+                "coauthor(s)",
+                "coauthor",
+                "co-authors",
+                "co-author(s)",
+                "co-author"
+            )
                 ?.takeIf { it.isNotBlank() }
                 ?.split(", ")
                 ?.map { PlayerName(it) }
