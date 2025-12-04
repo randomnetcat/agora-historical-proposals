@@ -129,11 +129,11 @@ fun parseBorderLineProposal(
 }
 
 object Separators {
-    val ALTERNATING_BRACES = Regex("(?<=\\n)\\}(?:\\{\\}){4,}\\{\\n")
-    val CLOSED_ALTERNATING_BRACES = Regex("(?<=\\n)(?:\\{\\}){4,}\\n")
-    val HYPHENS = Regex("(?<=\\n)-{10,}\\n")
-    val POUNDS = Regex("(?<=\\n)#{10,}\\n")
-    val SLASHES = Regex("/{10,}\\n")
+    val ALTERNATING_BRACES = Regex("^\\s*}(?:\\{\\}){4,}\\{\\s*$", RegexOption.MULTILINE)
+    val CLOSED_ALTERNATING_BRACES = Regex("^\\s*(?:\\{\\}){4,}\\s*$", RegexOption.MULTILINE)
+    val HYPHENS = Regex("^\\s*-{10,}\\s*$", RegexOption.MULTILINE)
+    val POUNDS = Regex("^\\s*#{10,}\\s*$", RegexOption.MULTILINE)
+    val SLASHES = Regex("^\\s*/{10,}\\s*$", RegexOption.MULTILINE)
 }
 
 private fun joinOverlongHeader(
