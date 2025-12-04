@@ -5,7 +5,7 @@ import kotlinx.collections.immutable.toImmutableList
 import org.randomcat.proposal_parser.PlayerName
 import org.randomcat.proposal_parser.ProposalAI
 import org.randomcat.proposal_parser.ProposalData
-import org.randomcat.proposal_parser.ProposalNumber
+import org.randomcat.proposal_parser.RawProposalNumber
 
 private val SUMMARY_SECTION_CHECK_REGEX = Regex("AI\\s+SUBMITTER\\s+TITLE\\n")
 private val FINAL_SECTION_CHECK_REGEX = Regex("-coppro", RegexOption.LITERAL)
@@ -42,7 +42,7 @@ private fun parseTitleLine(titleLine: String): ProposalV4TitleLineResult {
 private fun parseProposalMetadataV4(metadataLines: List<String>): ProposalCommonMetadataResult {
     require(metadataLines.size == 3)
 
-    val number = ProposalNumber(metadataLines[0].toBigInteger())
+    val number = RawProposalNumber(metadataLines[0])
     val author = PlayerName(metadataLines[1])
 
     val titleLineResult = parseTitleLine(titleLine = metadataLines[2])

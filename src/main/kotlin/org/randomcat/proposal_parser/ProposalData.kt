@@ -16,10 +16,31 @@ value class PlayerName(val raw: String) {
     }
 }
 
+/**
+ * A proposal number that hasn't yet been parsed to an integer (and might be replaced with something else before an
+ * actual proposal
+ */
 @JvmInline
-value class ProposalNumber(val raw: BigInteger) {
+value class RawProposalNumber(val value: String)
+
+@JvmInline
+value class ProposalNumber(val value: BigInteger) {
+    companion object {
+        fun from(raw: RawProposalNumber): ProposalNumber {
+            require(raw.value.all { it in '0'..'9' }) {
+                "Invalid proposal number: $raw"
+            }
+
+            return ProposalNumber(BigInteger(raw.value))
+        }
+    }
+
     override fun toString(): String {
-        return raw.toString()
+        return value.toString()
+    }
+
+    fun toRaw(): RawProposalNumber {
+        return RawProposalNumber(value.toString())
     }
 }
 

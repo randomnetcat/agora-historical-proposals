@@ -4,11 +4,11 @@ import kotlinx.collections.immutable.ImmutableList
 import kotlinx.collections.immutable.toImmutableList
 import org.randomcat.proposal_parser.PlayerName
 import org.randomcat.proposal_parser.ProposalAI
-import org.randomcat.proposal_parser.ProposalNumber
+import org.randomcat.proposal_parser.RawProposalNumber
 import org.randomcat.proposal_parser.distributions.ProposalCommonMetadataResult
 
 private data class HeaderLineResult(
-    val number: ProposalNumber,
+    val number: RawProposalNumber,
     val ai: ProposalAI,
     val author: PlayerName,
     val coauthors: ImmutableList<PlayerName>,
@@ -37,7 +37,7 @@ private fun parseHeaderLine(headerLine: String): HeaderLineResult {
     val numberText = lineAfterProposal.takeWhile { it.isDigit() }
     val textAfterNumber = lineAfterProposal.drop(numberText.length)
 
-    val number = ProposalNumber(numberText.toBigInteger())
+    val number = RawProposalNumber(numberText)
 
     val parenthetical = textAfterNumber.substringAfter('(').substringBefore(')')
 
@@ -79,7 +79,7 @@ private fun parseInvertedHeaderLine(headerLine: String): HeaderLineResult {
     val lineAfterProposal = headerLine.removePrefix("Proposal ")
 
     val numberText = lineAfterProposal.takeWhile { it.isDigit() }
-    val number = ProposalNumber(numberText.toBigInteger())
+    val number = RawProposalNumber(numberText)
 
     val textAfterNumber = lineAfterProposal.drop(numberText.length)
 

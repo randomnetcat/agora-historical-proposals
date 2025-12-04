@@ -136,7 +136,7 @@ fun main(args: Array<String>) {
     val outPath = Path.of(args[2])
     Files.createDirectories(outPath)
 
-    val numbers = TreeSet<ProposalNumber>(Comparator.comparing { it.raw })
+    val numbers = TreeSet<ProposalNumber>(Comparator.comparing { it.value })
     val duplicates = mutableSetOf<ProposalNumber>()
 
     listOf(inFile1, inFile2)
@@ -204,8 +204,8 @@ ${proposal.text}
     val highest = numbers.descendingIterator().next()
 
     val missing =
-        generateSequence(lowest) { ProposalNumber(it.raw.plus(BigInteger.ONE)) }
-            .takeWhile { it.raw <= highest.raw }
+        generateSequence(lowest) { ProposalNumber(it.value.plus(BigInteger.ONE)) }
+            .takeWhile { it.value <= highest.value }
             .filter { it !in numbers }
 
     println("Bounds: $lowest to $highest")

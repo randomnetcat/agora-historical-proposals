@@ -2,13 +2,10 @@ package org.randomcat.proposal_parser.distributions
 
 import kotlinx.collections.immutable.mutate
 import kotlinx.collections.immutable.toPersistentList
-import org.randomcat.proposal_parser.PlayerName
-import org.randomcat.proposal_parser.ProposalAI
-import org.randomcat.proposal_parser.ProposalData
-import org.randomcat.proposal_parser.ProposalNumber
+import org.randomcat.proposal_parser.*
 
 private data class DistributionV0MetadataResult(
-    val number: ProposalNumber,
+    val number: RawProposalNumber,
     val author: PlayerName,
     val ai: ProposalAI,
 )
@@ -36,7 +33,7 @@ private fun parseHeaderLine(headerLine: String): DistributionV0MetadataResult? {
     val ai = ProposalAI(headerParts.single { it.startsWith("AI=") }.removePrefix("AI=").trim().toBigDecimal())
 
     return DistributionV0MetadataResult(
-        number = number,
+        number = number.toRaw(),
         author = author,
         ai = ai,
     )

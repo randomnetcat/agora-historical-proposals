@@ -10,14 +10,14 @@ import org.randomcat.proposal_parser.distributions.metadata.doParseHeaderTitleLi
 import org.randomcat.proposal_parser.distributions.metadata.doParseInvertedHeaderTitleLinesMetadata
 
 data class ProposalCommonMetadataResult(
-    val number: ProposalNumber,
+    val number: RawProposalNumber,
     val title: String?,
     val ai: ProposalAI?,
     val author: PlayerName?,
     val coauthors: ImmutableList<PlayerName>,
 ) {
     constructor(
-        number: ProposalNumber,
+        number: RawProposalNumber,
         title: String?,
         ai: ProposalAI?,
         author: PlayerName?,
@@ -35,7 +35,7 @@ fun ProposalData(
     metadata: ProposalCommonMetadataResult,
     text: String
 ) = ProposalData(
-    number = metadata.number,
+    number = ProposalNumber.from(metadata.number),
     title = metadata.title,
     ai = metadata.ai,
     author = metadata.author,
@@ -320,9 +320,8 @@ object MetadataParsing {
         return ProposalCommonMetadataResult(
             number = metadataMap
                 .getFirstValueOrNull("number", "id", "id number")
-                ?.toBigInteger()
-                ?.let { ProposalNumber(it) }
-                ?: requireNotNull(backupNumber),
+                ?.let { RawProposalNumber(it) }
+                ?: requireNotNull(backupNumber).toRaw(),
             title = metadataMap.getFirstValueOrNull("title", "tite", "proposal"),
             ai = ai,
             author = effectiveAuthor?.let { PlayerName(it) },
