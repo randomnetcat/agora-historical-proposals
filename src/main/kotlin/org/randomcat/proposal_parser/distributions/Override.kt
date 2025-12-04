@@ -2787,8 +2787,37 @@ Set G.'s Power to 0.
     ),
 )
 
+private val MESSAGE_ID_OVERRIDE_DATA_MAP = mapOf<String, List<ProposalData>>(
+    // https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2011-March/027845.html
+    // https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2011-March/027849.html
+    "<AANLkTimYYP5cCcGdO+y_qMo-FTLhRrSo_JZ21LWRfNTz@mail.gmail.com>" to listOf(
+        ProposalData.from(
+            number = 6962,
+            title = "Another Option",
+            author = "omd",
+            ai = "3",
+            text = """
+Create a new Power-3.5 Rule titled "Emergency Management" (ID=0):
+
+      Rules to the contrary notwithstanding, it is possible for rule
+      changes to occur simultaneously.
+
+      One second after this rule is enacted, the entire ruleset, as an
+      atomic effect, is replaced with the following:
+
+         Rule 1/0
+
+         If a proposed ruleset for this game has had unanimous support
+         for four days, judging by messages sent to the mailing list
+         agora-business at agoranomic.org, then this rule is repealed and
+         that ruleset is enacted.
+""",
+        ),
+    )
+)
+
 fun Message.overriddenDistribution(): List<ProposalData>? {
-    return SUBJECT_OVERRIDE_DATA_MAP[this.subject]
+    return MESSAGE_ID_OVERRIDE_DATA_MAP[this.messageId] ?: SUBJECT_OVERRIDE_DATA_MAP[this.subject]
 }
 
 private val IGNORED_SUBJECTS = setOf(
@@ -2818,7 +2847,8 @@ fun Message.isIgnoredDistribution(): Boolean {
 }
 
 fun Message.isForcedDistribution(): Boolean {
-    return SUBJECT_OVERRIDE_DATA_MAP.contains(this.subject) ||
+    return MESSAGE_ID_OVERRIDE_DATA_MAP.contains(this.messageId) ||
+            SUBJECT_OVERRIDE_DATA_MAP.contains(this.subject) ||
             FORCED_SUBJECTS.contains((this.date ?: return false).toUtcLocalDate() to this.subject)
 }
 
