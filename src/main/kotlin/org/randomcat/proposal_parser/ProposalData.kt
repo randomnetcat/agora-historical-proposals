@@ -33,6 +33,10 @@ value class ProposalNumber(val value: BigInteger) {
 
             return ProposalNumber(BigInteger(raw.value))
         }
+
+        fun from(raw: Int): ProposalNumber {
+            return ProposalNumber(BigInteger.valueOf(raw.toLong()))
+        }
     }
 
     override fun toString(): String {

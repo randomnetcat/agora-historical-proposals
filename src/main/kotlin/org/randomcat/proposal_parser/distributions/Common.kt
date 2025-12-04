@@ -56,6 +56,7 @@ fun tryParseCommonProposal(
     proposalDistribution: String,
     metadataParser: (List<String>) -> ProposalCommonMetadataResult?,
     metadataBeforeBlankNumber: Int = 1,
+    overrideProposalNumber: ((raw: RawProposalNumber) -> ProposalNumber)? = null,
 ): ProposalData? {
     val lines = proposalDistribution.lines().dropBoundingBlanks()
 
@@ -76,11 +77,17 @@ fun tryParseCommonProposal(
         }
     }
 
-    val metadata = metadataParser(metadataLines) ?: return null
+    val rawMetadata = metadataParser(metadataLines)
+    if (rawMetadata == null) return null
+
+    val updatedMetadata = if (overrideProposalNumber != null) {
+        rawMetadata.copy(number = overrideProposalNumber(rawMetadata.number).toRaw())
+    } else {
+        rawMetadata
+    }
 
     val text = textLines.joinToString("\n")
-
-    return ProposalData(metadata, text)
+    return ProposalData(updatedMetadata, text)
 }
 
 /**
@@ -92,11 +99,13 @@ fun parseCommonProposal(
     proposalDistribution: String,
     metadataParser: (List<String>) -> ProposalCommonMetadataResult,
     metadataBeforeBlankNumber: Int = 1,
+    overrideProposalNumber: ((raw: RawProposalNumber) -> ProposalNumber)? = null,
 ): ProposalData {
     return tryParseCommonProposal(
         proposalDistribution = proposalDistribution,
         metadataParser = metadataParser,
         metadataBeforeBlankNumber = metadataBeforeBlankNumber,
+        overrideProposalNumber = overrideProposalNumber,
     ) ?: error("metadataParser returned null but shouldn't have")
 }
 

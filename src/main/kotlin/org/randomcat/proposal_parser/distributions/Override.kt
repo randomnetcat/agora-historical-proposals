@@ -6659,7 +6659,7 @@ greater than e would have if e did not hold the office." to Rule 103.
 
 fun Message.overriddenText(): String? = SUBJECT_OVERRIDE_TEXT_MAP[this.subject]
 
-private val OVERRIDE_PROPOSAL_NUMBERS: Map<Pair<LocalDate, String>, (Int) -> ProposalNumber> = mapOf(
+private val OVERRIDE_BACKUP_NUMBERS: Map<Pair<LocalDate, String>, (Int) -> ProposalNumber> = mapOf(
     (LocalDate.of(2009, 11, 3) to "OFF: [Promotor] Distribution of Proposals 6549-6564") to { index ->
         val raw = 6549 + index
         val adjusted = if (raw == 6559) 6569 else raw
@@ -6703,7 +6703,7 @@ private val OVERRIDE_PROPOSAL_NUMBERS: Map<Pair<LocalDate, String>, (Int) -> Pro
 )
 
 fun Message.backupProposalNumber(index: Int): ProposalNumber {
-    val overrideFun = OVERRIDE_PROPOSAL_NUMBERS[date.toUtcLocalDate() to subject]
+    val overrideFun = OVERRIDE_BACKUP_NUMBERS[date.toUtcLocalDate() to subject]
     if (overrideFun != null) return overrideFun(index)
 
     return ProposalNumber(backupFirstProposalNumber().plus(index.toBigInteger()))
@@ -6733,4 +6733,10 @@ private fun Message.backupFirstProposalNumber(): BigInteger {
         .substringBefore("-")
         .removeSuffix("a") // Indicates redistribution
         .toBigInteger()
+}
+
+private val OVERRIDE_FORCE_NUMBERS: Map<Pair<LocalDate, String>, (RawProposalNumber) -> ProposalNumber> = mapOf()
+
+fun Message.overrideNumberFun(): ((RawProposalNumber) -> ProposalNumber)? {
+    return OVERRIDE_FORCE_NUMBERS[date.toUtcLocalDate() to subject]
 }
