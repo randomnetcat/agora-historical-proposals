@@ -63,6 +63,26 @@ data class ProposalData(
     val coauthors: ImmutableList<PlayerName>,
     val text: String,
 ) {
+    companion object {
+        fun from(
+            number: Int,
+            title: String,
+            ai: String,
+            author: String,
+            coauthors: List<String> = emptyList(),
+            text: String,
+        ): ProposalData {
+            return ProposalData(
+                number = ProposalNumber.from(number),
+                title = title,
+                ai = ProposalAI(BigDecimal(ai)),
+                author = PlayerName(author),
+                coauthors = coauthors.map { PlayerName(it) },
+                text = text,
+            )
+        }
+    }
+
     constructor(
         number: ProposalNumber,
         title: String?,
