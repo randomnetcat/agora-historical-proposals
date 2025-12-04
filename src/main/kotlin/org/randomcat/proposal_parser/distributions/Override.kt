@@ -2682,6 +2682,109 @@ gamestate by announcement.
 """,
         ),
     ),
+    // https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2011-January/027786.html
+    "BUS: scorched earth escalation" to listOf(
+        ProposalData(
+            number = ProposalNumber.from(6958),
+            title = "Tocatta in G.",
+            ai = ProposalAI(BigDecimal("3.1")),
+            author = PlayerName("G."),
+            coauthors = emptyList(),
+            text = """
+[Elevate Dictatorship to power-3, fix it all so it didn't happen except 
+for a few patent titles; end the Dictatorship]
+
+Change the power of Rule 2324 (Dictatorship) to 3.0.
+
+Enact a Rule, "Fourth Movement" with a power of 3.1 and the following
+text:
+
+      When this Rule comes to have this text, the gamestate is set to be
+      what it would have been if no players were made inactive or made into
+      officeholders due to the operation of Rule 2324 in the same message
+      in which the proposal that enacted this rule was submitted, with the
+      following exceptions:  (a) the proposal that amended this rule to have
+      this text was adopted when its adoption was announced by G., its
+      power was set to 3.1, its provisions took effect, and (b) any wins
+      achieved by Murphy and G. are considered to have been achieved.
+
+[This should allow all gameplay to continue as if this scam didn't
+exist while this proposal's voting period goes through].
+
+Amend 2130 (Activity) by appending the following to the first 
+paragraph:  "Changes to Activity are Secured."
+
+Amend Rule 1006 (Offices) by appending the following to the second
+paragraph:  "A person CANNOT be made the holder of an elected office 
+without eir explicit or reasonably implied consent."
+
+Amend Rule 2312 (The Pariah) by replacing the first paragraph with
+this text:
+       The Pariah is an elected office with no duties. Whenever a
+       player becomes the Pariah, that player is awarded a sufficient
+       number of Rests in order to bring eir total Rests up to 23.
+
+Award G. the Patent Title First Violin.
+Award omd the Patent Title Second Fiddle.
+Award Murphy the Patent Title 273rd Prepared Piano.
+
+Repeal Rule 2324 (Dictatorship).
+Repeal the Rule entitled "Fourth Movement".
+
+Set G.'s Power to 0.
+"""
+        )
+    ),
+    // https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2011-January/027792.html
+    "BUS: re-scam fix" to listOf(
+        ProposalData(
+            number = ProposalNumber.from(6959),
+            title = "Fugue in G.",
+            ai = ProposalAI(BigDecimal("3.2")),
+            author = PlayerName("G."),
+            coauthors = emptyList(),
+            text = """
+Change the power of Rule 2324 (Dictatorship) to 3.0.
+
+
+Enact a Rule, "Coda" with a power of 3.2 and the following
+text:
+
+     The gamestate is hereby set to what it would have been if the
+     message sent by G. to the public forum on or about Sun, 23 Jan
+     2011 10:56:46 -0800 (PST) with the subject line 'scorched earth escalation'
+     (Message-ID: <alpine.LRH.2.01.1101231056460.23416 at hymn11.u.washington.edu>)
+     was sent to a discussion forum and not any public forum.
+
+
+Amend 2130 (Activity) by appending the following to the first
+paragraph:  "Changes to Activity are Secured."
+
+
+Amend Rule 1006 (Offices) by appending the following to the second
+paragraph:  "A person CANNOT be made the holder of an elected office
+without eir explicit or reasonably implied consent."
+
+
+Amend Rule 2312 (The Pariah) by replacing the first paragraph with
+this text:
+        The Pariah is an elected office with no duties. Whenever a
+        player becomes the Pariah, that player is awarded a sufficient
+        number of Rests in order to bring eir total Rests up to 23.
+
+
+Award G. the Patent Title First Violin.
+Award omd the Patent Title Second Fiddle.
+Award Murphy the Patent Title 273rd Prepared Piano.
+
+
+Repeal Rule 2324 (Dictatorship).
+Repeal the Rule entitled "Coda".
+
+Set G.'s Power to 0.
+"""
+        )
+    ),
 )
 
 fun Message.overridenDistribution(): List<ProposalData>? {
@@ -2704,6 +2807,8 @@ private val FORCED_SUBJECTS = setOf(
     LocalDate.of(2009, 7, 23) to "OFF: Distribution of Proposals 6410-6413",
     LocalDate.of(2010, 12, 15) to
             "OFF: [Briefly Promotor] I needed this one to be in a separate distribution, you'll see why later",
+    LocalDate.of(2011, 1, 23) to "BUS: scorched earth escalation",
+    LocalDate.of(2011, 1, 26) to "BUS: re-scam fix",
     LocalDate.of(2012, 2, 16) to "BUS: Here goes nothing",
     LocalDate.of(2012, 9, 26) to "OFF: Oops, a bit more [Promotor] Distribution of Proposal 7314",
 )
