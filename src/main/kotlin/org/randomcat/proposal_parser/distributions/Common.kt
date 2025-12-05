@@ -299,7 +299,7 @@ object MetadataParsing {
             val effectiveText = addMissingColon(rawText, missingColonTags = allowMissingColonTags)
 
             require(effectiveText.contains(":"))
-            effectiveText.substringBefore(":").lowercase() to effectiveText.substringAfter(": ").trim()
+            effectiveText.substringBefore(":").lowercase() to effectiveText.substringAfter(":").trim()
         }
 
         // Sometimes AI has (Class) appended to it, so only take the number before that
@@ -318,7 +318,7 @@ object MetadataParsing {
                 val coauthorsPart = rawAuthor.substringAfter("(co-author").removePrefix("s").trim().removeSuffix(")")
                 val coauthors = coauthorsPart.split(" and ")
 
-                rawAuthor.substringBefore("(co-author") to coauthors.map { PlayerName(it) }
+                rawAuthor.substringBefore("(co-author").trim() to coauthors.map { PlayerName(it.trim()) }
             } else {
                 rawAuthor to emptyList()
             }
