@@ -57,6 +57,11 @@ private fun parseHeaderLine(headerLine: String): HeaderLineResult {
         val coauthor = authorsText.substringAfter(" (co-author: ").removeSuffix(")")
 
         listOf(PlayerName(firstAuthor), PlayerName(coauthor))
+    } else if (authorsText.contains(" (coauthor: ")) {
+        val firstAuthor = authorsText.substringBefore(" (coauthor: ")
+        val coauthor = authorsText.substringAfter(" (coauthor: ").removeSuffix(")")
+
+        listOf(PlayerName(firstAuthor), PlayerName(coauthor))
     } else {
         authorsText.split(", ").map { PlayerName(it) }
     }
