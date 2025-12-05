@@ -198,6 +198,7 @@ fun main(args: Array<String>) {
 
     val authors = mutableMapOf<String, Int>()
     val coauthors = mutableMapOf<String, Int>()
+    val titles = mutableListOf<String>()
 
     listOf(inFile1, inFile2)
         .asSequence()
@@ -259,6 +260,10 @@ ${proposal.text}
                 for (coauthor in proposal.coauthors) {
                     increment(coauthors, effectiveName(coauthor))
                 }
+
+                if (proposal.title != null) {
+                    titles.add(proposal.title)
+                }
             }
 
             numbers.add(number)
@@ -282,4 +287,5 @@ ${proposal.text}
 
     Files.writeString(statsPath.resolve("authors.csv"), formatIntegralStat(authors))
     Files.writeString(statsPath.resolve("coauthors.csv"), formatIntegralStat(coauthors))
+    Files.writeString(statsPath.resolve("titles.txt"), titles.sortedByDescending { it.length }.joinToString("\n"))
 }
