@@ -150,6 +150,33 @@ private fun Message.parseDistribution(): List<ProposalData> {
     }
 }
 
+private fun loadRenames(): Map<String, String> {
+    class C {}
+
+    val stream = C::class.java.classLoader.getResourceAsStream("renames.txt")
+
+    check(stream != null) {
+        "Expected renames.txt to exist as a resource"
+    }
+
+    return stream.bufferedReader(Charsets.UTF_8).useLines { lines ->
+        lines.filter { it.isNotBlank() }.associate {
+            val parts = it.split(":")
+            require(parts.size == 2) { "Invalid line: $it" }
+
+            parts[0] to parts[1]
+        }
+    }
+}
+
+private fun <K> increment(map: MutableMap<K, Int>, key: K) {
+    map.compute(key) { _, old -> (old ?: 0) + 1 }
+}
+
+private fun formatIntegralStat(map: Map<String, Int>): String {
+    return map.entries.sortedByDescending { it.value }.joinToString("\n") { (k, v) -> "$k,$v" }
+}
+
 fun main(args: Array<String>) {
     val inFile1 = Path.of(args[0])
     val inFile2 = Path.of(args[1])
@@ -157,8 +184,20 @@ fun main(args: Array<String>) {
     val outPath = Path.of(args[2])
     Files.createDirectories(outPath)
 
+    val statsPath = outPath.resolve("stats")
+    Files.createDirectories(statsPath)
+
     val numbers = TreeSet<ProposalNumber>(Comparator.comparing { it.value })
     val duplicates = mutableSetOf<ProposalNumber>()
+
+    val renames = loadRenames()
+
+    fun effectiveName(rawName: PlayerName): String {
+        return renames[rawName.raw] ?: rawName.raw
+    }
+
+    val authors = mutableMapOf<String, Int>()
+    val coauthors = mutableMapOf<String, Int>()
 
     listOf(inFile1, inFile2)
         .asSequence()
@@ -212,6 +251,14 @@ ${proposal.text}
                     Charsets.UTF_8,
                     StandardOpenOption.CREATE,
                 )
+
+                if (proposal.author != null) {
+                    increment(authors, effectiveName(proposal.author))
+                }
+
+                for (coauthor in proposal.coauthors) {
+                    increment(coauthors, effectiveName(coauthor))
+                }
             }
 
             numbers.add(number)
@@ -232,4 +279,7 @@ ${proposal.text}
     println("Bounds: $lowest to $highest")
     println("Duplicates: ${duplicates.joinToString()}")
     println("Missing: ${(missing - NONEXISTENT_NUMBERS).joinToString()}")
+
+    Files.writeString(statsPath.resolve("authors.csv"), formatIntegralStat(authors))
+    Files.writeString(statsPath.resolve("coauthors.csv"), formatIntegralStat(coauthors))
 }

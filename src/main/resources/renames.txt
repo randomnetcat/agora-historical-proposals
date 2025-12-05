@@ -1,0 +1,26 @@
+G:G.
+G.*:G.
+Goethe:G.
+comex:omd
+omd.:omd
+scshunt:Alexis
+scschunt:Alexis
+twg:qenya
+VJ Rada:R. Lee
+V.J. Rada:R. Lee
+V.J Rada:R. Lee
+Elysion:Mischief
+D Margaux:D. Margaux
+Jason:Janet
+Jason Cobb:Janet
+CuddleBeam:Madrid
+Cuddlebeam:Madrid
+Cuddle Beam:Madrid
+Warrigal:the Warrigal
+nichdel:nix
+Nichdel:nix
+nch:nix
+Telnaior:Telna
+woggle?:woggle
+Tanner:Tanner L. Swett
+P.S.S.:Publius Scribonius Scholasticus
