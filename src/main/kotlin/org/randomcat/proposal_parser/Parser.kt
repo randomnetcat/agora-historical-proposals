@@ -288,4 +288,8 @@ ${proposal.text}
     Files.writeString(statsPath.resolve("authors.csv"), formatIntegralStat(authors))
     Files.writeString(statsPath.resolve("coauthors.csv"), formatIntegralStat(coauthors))
     Files.writeString(statsPath.resolve("titles.txt"), titles.sortedByDescending { it.length }.joinToString("\n"))
+    Files.writeString(
+        statsPath.resolve("title_lengths.txt"),
+        titles.map { it.length }.sortedDescending().joinToString("\n")
+    )
 }
