@@ -316,7 +316,7 @@ object MetadataParsing {
         val (effectiveAuthor, authorLineCoauthors) = if (rawAuthor != null) {
             if (rawAuthor.contains("(co-author")) {
                 val coauthorsPart = rawAuthor.substringAfter("(co-author").removePrefix("s").trim().removeSuffix(")")
-                val coauthors = coauthorsPart.split(" and ")
+                val coauthors = coauthorsPart.split(Regex("(, | and )"))
 
                 rawAuthor.substringBefore("(co-author").trim() to coauthors.map { PlayerName(it.trim()) }
             } else {
@@ -343,7 +343,7 @@ object MetadataParsing {
                 "co-author"
             )
                 ?.takeIf { it.isNotBlank() }
-                ?.split(", ")
+                ?.split(Regex("(, | and )"))
                 ?.map { PlayerName(it) }
                 ?: authorLineCoauthors
                 ?: emptyList(),
