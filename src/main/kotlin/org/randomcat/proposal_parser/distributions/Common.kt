@@ -299,7 +299,7 @@ object MetadataParsing {
             val effectiveText = addMissingColon(rawText, missingColonTags = allowMissingColonTags)
 
             require(effectiveText.contains(":"))
-            effectiveText.substringBefore(":").lowercase() to effectiveText.substringAfter(": ")
+            effectiveText.substringBefore(":").lowercase() to effectiveText.substringAfter(": ").trim()
         }
 
         // Sometimes AI has (Class) appended to it, so only take the number before that
